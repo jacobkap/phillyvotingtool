@@ -6,42 +6,50 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
-  </head>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/chosen/1.8.5/chosen.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/chosen/1.8.5/chosen.jquery.min.js"></script>
+
+  <script src="js/utils.js"></script>
+    <script src="js/data.js"></script>
+  <link rel="stylesheet" href="css/style.css"/>
+</head>
+
 <body>
 
 
-<canvas id="myChart" width="400" height="400"></canvas>
-<script>
-
-
-var z = [
-  ["Dwayne Woodruff", "Write In"],
-  ["122230", "    40"]
-]
-
-var test = {labels:z[0], datasets: [{data:z[1], backgroundColor: 'rgb(105,105,105)',
-label: "My First dataset"}]};
-
-var ctx = document.getElementById("myChart").getContext('2d');
-var myChart = new Chart(ctx, {
-    type: 'horizontalBar',
-    data: test,
-    options: {
-        scales: {
-            yAxes: [{
-                ticks: {
-                    beginAtZero:true
-                }
-            }]
-        }
-    }
-});
+  <div class="sidenav">
+    <h3>Select a ballot position:</h3>
+    <select class="simple-select" id="results_ballot_position" onclick="updateChart()">
+      <script>
+      $.each(all_offices, function(val, text) {
+              $('#results_ballot_position').append( new Option(text,val) );
+          });
+          $('#results_ballot_position').val(0);
+      </script>
+    </select>
+    <br><br>
+    <h3>Select a voting ward:</h3>
+    <select class="simple-select" id="results_ward" onclick="updateChart()">
+        <script>
+      $.each(wards, function(val, text) {
+              $('#results_ward').append( new Option(text,val) );
+          });
+          $('#results_ward').val(0);
+          $('.simple-select').chosen();
+            </script>
+    </select>
+  </div>
 
 
 
+  <div class="main">
+    <canvas id="results_chart" width="400" height="400"></canvas>
+  </div>
+  <script>
 
-</script>
-
+  updateChart()
+  </script>
 
 </body>
 
