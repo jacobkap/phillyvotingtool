@@ -42,13 +42,17 @@ function updateChart(type) {
   var data = getData();
   data = formatData(data);
 
-  chart_type = ctx_results;
+chart_type = "horizontalBar";
+  chart_div = ctx_results;
   if (type == "choices") {
-   chart_type = ctx_choices;
-  }
+   chart_div = ctx_c;
+   chart_type = "bar";
+ }
 
-  var resultsChart = new Chart(chart_type, {
-    type: 'horizontalBar',
+
+
+  var resultsChart = new Chart(chart_div, {
+    type: chart_type,
     data: data,
     options: {
       scales: {
