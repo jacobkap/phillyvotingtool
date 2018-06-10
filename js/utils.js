@@ -1,6 +1,11 @@
-function getData() {
+function getData(type) {
+  folder = "election_results/election_results_";
+  if (type == "choices") {
+    folder = "num_selected/num_selected_";
+  }
 
-  url = "https://raw.githubusercontent.com/jacobkap/phillyvotingtool/master/data/election_results/election_results_";
+  url = "https://raw.githubusercontent.com/jacobkap/phillyvotingtool/master/data/";
+  url += folder;
   url += all_offices[$('#results_ballot_position').val()];
   url += "_ward_" + wards[$('#results_ward').val()];
   url += ".json";
@@ -32,12 +37,17 @@ function formatData(data) {
 
 
 
-function updateChart() {
+function updateChart(type) {
 
-  var z = getData();
-  var data = formatData(z);
+  var data = getData();
+  data = formatData(data);
 
-  var resultsChart = new Chart(ctx, {
+  chart_type = ctx_results;
+  if (type == "choices") {
+   chart_type = ctx_choices;
+  }
+
+  var resultsChart = new Chart(chart_type, {
     type: 'horizontalBar',
     data: data,
     options: {

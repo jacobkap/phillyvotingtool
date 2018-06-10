@@ -8,19 +8,35 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/chosen/1.8.5/chosen.css" />
-<script src="https://cdnjs.cloudflare.com/ajax/libs/chosen/1.8.5/chosen.jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/chosen/1.8.5/chosen.jquery.min.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 
   <script src="js/utils.js"></script>
-    <script src="js/data.js"></script>
-  <link rel="stylesheet" href="css/style.css"/>
+  <script src="js/data.js"></script>
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="css/tabs.css" />
+
+  <script>
+    $(function() {
+      $("#tabs").tabs();
+    });
+  </script>
+
 </head>
 
 <body>
 
-
-  <div class="sidenav">
-    <h3>Select a ballot position:</h3>
-    <select class="simple-select" id="results_ballot_position" onclick="updateChart()">
+  <div id="tabs">
+  <ul>
+    <li><a href="#home_tab">Home</a></li>
+    <li><a href="#results_tab">Election Results</a></li>
+    <li><a href="#choices_tab">Choices per Office</a></li>
+    <li><a href="#cand_combinations_tab">Candidate Combinations</a></li>
+  </ul>
+  <div id="results_tab">
+    <div class="sidenav">
+      <h3>Select a ballot position:</h3>
+      <select class="simple-select" id="results_ballot_position" onclick="updateChart("results")">
       <script>
       $.each(all_offices, function(val, text) {
               $('#results_ballot_position').append( new Option(text,val) );
@@ -28,9 +44,9 @@
           $('#results_ballot_position').val(0);
       </script>
     </select>
-    <br><br>
-    <h3>Select a voting ward:</h3>
-    <select class="simple-select" id="results_ward" onclick="updateChart()">
+      <br><br>
+      <h3>Select a voting ward:</h3>
+      <select class="simple-select" id="results_ward" onclick="updateChart("results")">
         <script>
       $.each(wards, function(val, text) {
               $('#results_ward').append( new Option(text,val) );
@@ -39,16 +55,93 @@
           $('.simple-select').chosen();
             </script>
     </select>
+    </div>
+
+
+
+    <div class="main">
+      <canvas id="results_chart"></canvas>
+    </div>
+  </div>
+
+
+  <div id="choices_tab">
+    <div class="sidenav">
+      <h3>Select a ballot position:</h3>
+      <select class="simple-select" id="choices_ballot_position" onclick="updateChart("choices")">
+      <script>
+      $.each(all_offices, function(val, text) {
+              $('#choices_ballot_position').append( new Option(text,val) );
+          });
+          $('#choices_ballot_position').val(0);
+      </script>
+    </select>
+      <br><br>
+      <h3>Select a voting ward:</h3>
+      <select class="simple-select" id="choices_ward" onclick="updateChart("choices")">
+        <script>
+      $.each(wards, function(val, text) {
+              $('#choices_ward').append( new Option(text,val) );
+          });
+          $('#choices_ward').val(0);
+          $('.simple-select').chosen();
+            </script>
+    </select>
+    </div>
+
+
+
+    <div class="main">
+      <canvas id="choices_chart"></canvas>
+    </div>
   </div>
 
 
 
-  <div class="main">
-    <canvas id="results_chart" width="400" height="400"></canvas>
+  <div id="cand_combinations_tab">
+    <p>Mauris eleifend est et turpis. Duis id erat. Suspendisse potenti. Aliquam vulputate, pede vel vehicula accumsan, mi neque rutrum erat, eu congue orci lorem eget lorem. Vestibulum non ante. Class aptent taciti sociosqu ad litora torquent per conubia
+      nostra, per inceptos himenaeos. Fusce sodales. Quisque eu urna vel enim commodo pellentesque. Praesent eu risus hendrerit ligula tempus pretium. Curabitur lorem enim, pretium nec, feugiat nec, luctus a, lacus.</p>
+    <p>Duis cursus. Maecenas ligula eros, blandit nec, pharetra at, semper at, magna. Nullam ac lacus. Nulla facilisi. Praesent viverra justo vitae neque. Praesent blandit adipiscing velit. Suspendisse potenti. Donec mattis, pede vel pharetra blandit, magna
+      ligula faucibus eros, id euismod lacus dolor eget odio. Nam scelerisque. Donec non libero sed nulla mattis commodo. Ut sagittis. Donec nisi lectus, feugiat porttitor, tempor ac, tempor vitae, pede. Aenean vehicula velit eu tellus interdum rutrum.
+      Maecenas commodo. Pellentesque nec elit. Fusce in lacus. Vivamus a libero vitae lectus hendrerit hendrerit.</p>
   </div>
+</div>
   <script>
+    var results_data = getData("results")
+    results_data = formatData(results_data);
 
-  updateChart()
+    var ctx_results = document.getElementById("results_chart").getContext('2d');
+    var resultsChart = new Chart(ctx_results, {
+      type: 'horizontalBar',
+      data: results_data,
+      options: {
+        scales: {
+          yAxes: [{
+            ticks: {
+              beginAtZero: true
+            }
+          }]
+        }
+      }
+    });
+
+    var choices_data = getData("results")
+    choices_data = formatData(choices_data);
+
+    var ctx_choices = document.getElementById("choices_chart").getContext('2d');
+    var choicesChart = new Chart(ctx_choices, {
+      type: 'horizontalBar',
+      data: choices_data,
+      options: {
+        scales: {
+          yAxes: [{
+            ticks: {
+              beginAtZero: true
+            }
+          }]
+        }
+      }
+    });
   </script>
 
 </body>
