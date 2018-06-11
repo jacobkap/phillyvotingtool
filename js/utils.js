@@ -1,13 +1,19 @@
 function getData(type) {
   folder = "election_results/election_results_";
+  office_dropdown = "#results_ballot_position";
+  office_options = all_offices;
+  ward_dropdown = '#results_ward';
   if (type == "choices") {
     folder = "num_selected/num_selected_";
+    office_dropdown = "#choices_ballot_position";
+    office_options = mult_offices;
+    ward_dropdown = '#choices_ward';
   }
 
   url = "https://raw.githubusercontent.com/jacobkap/phillyvotingtool/master/data/";
   url += folder;
-  url += all_offices[$('#results_ballot_position').val()];
-  url += "_ward_" + wards[$('#results_ward').val()];
+  url += office_options[$(office_dropdown).val()];
+  url += "_ward_" + wards[$(ward_dropdown).val()];
   url += ".json";
 
   var data = $.getJSON({
@@ -23,13 +29,21 @@ function getData(type) {
   return (data);
 }
 
+
+
 function formatData(data) {
+  title = all_offices[$('#results_ballot_position').val()];
+  if (wards[$(ward_dropdown).val()] != "All") {
+    title += ", Ward " + wards[$(ward_dropdown).val()];
+  }
+
+
   var formatted_data = {
     labels: data[0],
     datasets: [{
       data: data[1],
       backgroundColor: 'rgb(105,105,105)',
-      label: all_offices[$('#results_ballot_position').val()]
+      label: title
     }]
   };
   return formatted_data;
@@ -39,29 +53,95 @@ function formatData(data) {
 
 function updateChart(type) {
 
-  var data = getData();
+  data = getData();
   data = formatData(data);
 
-chart_type = "horizontalBar";
+  chart_type = "horizontalBar";
   chart_div = ctx_results;
   if (type == "choices") {
-   chart_div = ctx_c;
-   chart_type = "bar";
- }
-
-
-
-  var resultsChart = new Chart(chart_div, {
-    type: chart_type,
-    data: data,
-    options: {
-      scales: {
-        yAxes: [{
-          ticks: {
-            beginAtZero: true
+    chart_div = ctx_choices;
+    chart_type = "bar";
+    choices_chart.destroy();
+    choices_chart = new Chart(chart_div, {
+      type: chart_type,
+      data: data,
+      options: {
+        scales: {
+          yAxes: [{
+            ticks: {
+              min: 0,
+              max: 100,
+              callback: function(value) {
+                return value + "%";
+              }
+            },
+            scaleLabel: {
+              display: true,
+              labelString: "Percentage"
+            }
+          }]
+        },
+        tooltips: {
+          enabled: true,
+          mode: 'single',
+          callbacks: {
+            label: function(tooltipItems, data) {
+              return ' % who voted for ' + tooltipItems.xLabel + " choices:" + tooltipItems.yLabel;
+            }
           }
-        }]
+        }
       }
-    }
-  });
+    });
+  }
+  if (type == "results") {
+    results_chart.destroy();
+    results_chart = new Chart(chart_div, {
+      type: chart_type,
+      data: data,
+      options: {
+        scales: {
+          yAxes: [{
+            ticks: {
+              beginAtZero: true
+            }
+          }]
+        },
+        tooltips: {
+          enabled: true,
+          mode: 'single',
+          callbacks: {
+            label: function(tooltipItems, data) {
+              return ' Votes: ' + tooltipItems.xLabel;
+            }
+          }
+        }
+      }
+    });
+  }
 }
+
+
+
+          function whenClicked(e) {
+            ward_num = e.sourceTarget.feature.properties.WARD_NUM;
+            if (e.sourceTarget._mapToAdd._container.id == "results_map_div") {
+              ward_dropdown = "#results_ward";
+              update_type = 'results';
+            }
+            if (e.sourceTarget._mapToAdd._container.id == "choices_map_div") {
+              ward_dropdown = "#choices_ward";
+              update_type = 'choices';
+            }
+
+            $(ward_dropdown).val(ward_num);
+            $(ward_dropdown).trigger("chosen:updated");
+            updateChart(update_type);
+          }
+
+
+          function onEachFeature(feature, layer) {
+              //bind click
+              layer.on({
+                  click: whenClicked
+              });
+          }

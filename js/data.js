@@ -27,3 +27,32 @@ all_offices = [
  "Proposed Charter Change Question #1",
  "Proposed Charter Change Question #2"
 ];
+
+multiple_choices_offices = [
+  {
+    "office": "Judge of the Superior Court - Democrat",
+    "max_choices": 4
+  },
+  {
+    "office": "Judge of the Commonwealth Court - Democrat",
+    "max_choices": 2
+  },
+  {
+    "office": "Judge of the Court of Common Pleas - Democrat",
+    "max_choices": 9
+  },
+  {
+    "office": "Judge of the Municipal Court - Democrat",
+    "max_choices": 2
+  },
+  {
+    "office": "Judge of the Superior Court - Republican",
+    "max_choices": 4
+  },
+  {
+    "office": "Judge of the Commonwealth Court - Republican",
+    "max_choices": 2
+  }
+];
+mult_offices = _.map(multiple_choices_offices, function(x){ return x.office; });
+// multiple_choices_offices =
