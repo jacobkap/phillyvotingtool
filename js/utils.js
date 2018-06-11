@@ -37,13 +37,17 @@ function formatData(data, type) {
   title = all_offices[$('#results_ballot_position').val()];
   if (wards[$("#results_ward").val()] != "All") {
     title += ", Ward " + wards[$("#results_ward").val()];
+    title_text = [title];
   }
+  title_text = [title];
 
   if (type == "choices") {
     title = mult_offices[$('#choices_ballot_position').val()];
     if (wards[$("#choices_ward").val()] != "All") {
       title += ", Ward " + wards[$("#choices_ward").val()];
     }
+    subtitle = "Max number of selections: " + mult_offices_choices[$('#choices_ballot_position').val()];
+    title_text = [title, subtitle];
   }
 
 
@@ -54,7 +58,7 @@ function formatData(data, type) {
       backgroundColor: 'rgb(105,105,105)',
     }]
   };
-  return formatted_data;
+  return [formatted_data, title_text];
 }
 
 
@@ -63,6 +67,8 @@ function updateChart(type) {
 
   data = getData(type);
   data = formatData(data, type);
+  title_text = data[1];
+  data = data[0];
 
   chart_type = "horizontalBar";
   chart_div = ctx_results;
@@ -76,11 +82,18 @@ function updateChart(type) {
       options: {
         legend: {
         display: false
-    },
+      },
+        title: {
+        display: true,
+        position: 'top',
+        text: title_text,
+        fontSize: 14
+      },
         scales: {
           yAxes: [{
             ticks: {
               min: 0,
+              max: 100,
               callback: function(value) {
                 return value + "%";
               }
@@ -96,7 +109,7 @@ function updateChart(type) {
           mode: 'single',
           callbacks: {
             label: function(tooltipItems, data) {
-              return ' % who voted for ' + tooltipItems.xLabel + " choices: " + tooltipItems.yLabel + "%";
+              return ' % who voted for ' + tooltipItems.xLabel + " choices:" + tooltipItems.yLabel;
             }
           }
         }
@@ -111,7 +124,13 @@ function updateChart(type) {
       options: {
         legend: {
         display: false
-    },
+      },
+        title: {
+        display: true,
+        position: 'top',
+        text: title_text,
+        fontSize: 14
+      },
         scales: {
           yAxes: [{
             ticks: {
@@ -135,26 +154,26 @@ function updateChart(type) {
 
 
 
-          function whenClicked(e) {
-            ward_num = e.sourceTarget.feature.properties.WARD_NUM;
-            if (e.sourceTarget._mapToAdd._container.id == "results_map_div") {
-              ward_dropdown = "#results_ward";
-              update_type = 'results';
-            }
-            if (e.sourceTarget._mapToAdd._container.id == "choices_map_div") {
-              ward_dropdown = "#choices_ward";
-              update_type = 'choices';
-            }
+function whenClicked(e) {
+  ward_num = e.sourceTarget.feature.properties.WARD_NUM;
+  if (e.sourceTarget._mapToAdd._container.id == "results_map_div") {
+    ward_dropdown = "#results_ward";
+    update_type = 'results';
+  }
+  if (e.sourceTarget._mapToAdd._container.id == "choices_map_div") {
+    ward_dropdown = "#choices_ward";
+    update_type = 'choices';
+  }
 
-            $(ward_dropdown).val(ward_num);
-            $(ward_dropdown).trigger("chosen:updated");
-            updateChart(update_type);
-          }
+  $(ward_dropdown).val(ward_num);
+  $(ward_dropdown).trigger("chosen:updated");
+  updateChart(update_type);
+}
 
 
-          function onEachFeature(feature, layer) {
-              //bind click
-              layer.on({
-                  click: whenClicked
-              });
-          }
+function onEachFeature(feature, layer) {
+  //bind click
+  layer.on({
+    click: whenClicked
+  });
+}

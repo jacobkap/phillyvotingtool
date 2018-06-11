@@ -155,12 +155,23 @@
   <script>
     var results_data = getData("results")
     results_data = formatData(results_data, "results");
+    title_text = results_data[1]
+    results_data = results_data[0]
 
     var ctx_results = document.getElementById("results_chart").getContext('2d');
     results_chart = new Chart(ctx_results, {
       type: 'horizontalBar',
       data: results_data,
       options: {
+        legend: {
+        display: false
+    },
+        title: {
+        display: true,
+        position: 'top',
+        text: title_text,
+        fontSize: 14
+    },
         scales: {
           yAxes: [{
             ticks: {
@@ -182,6 +193,8 @@
 
     var choices_data = getData("choices")
     choices_data = formatData(choices_data, "choices");
+    title_text = choices_data[1]
+    choices_data = choices_data[0]
 
     var ctx_choices = document.getElementById("choices_chart").getContext('2d');
     choices_chart = new Chart(ctx_choices, {
@@ -194,7 +207,7 @@
         title: {
         display: true,
         position: 'top',
-        text: ['Screened','Subtitle'],
+        text: title_text,
         fontSize: 14
     },
         scales: {

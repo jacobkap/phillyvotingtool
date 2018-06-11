@@ -55,4 +55,69 @@ multiple_choices_offices = [
   }
 ];
 mult_offices = _.map(multiple_choices_offices, function(x){ return x.office; });
-// multiple_choices_offices =
+mult_offices_choices = _.map(multiple_choices_offices, function(x){ return x.max_choices; });
+
+title_text = ["temp", "temp2"];
+results_options = {
+  legend: {
+  display: false
+},
+  title: {
+  display: true,
+  position: 'top',
+  text: title_text,
+  fontSize: 14
+},
+  scales: {
+    yAxes: [{
+      ticks: {
+        beginAtZero: true
+      }
+    }]
+  },
+  tooltips: {
+    enabled: true,
+    mode: 'single',
+    callbacks: {
+      label: function(tooltipItems, data) {
+        return ' Votes: ' + tooltipItems.xLabel;
+      }
+    }
+  }
+};
+
+choices_options = {
+  legend: {
+  display: false
+},
+  title: {
+  display: true,
+  position: 'top',
+  text: title_text,
+  fontSize: 14
+},
+  scales: {
+    yAxes: [{
+      ticks: {
+        min: 0,
+        max: 100,
+        callback: function(value) {
+          return value + "%";
+        }
+      },
+      scaleLabel: {
+        display: true,
+        labelString: "Percentage"
+      }
+    }]
+  },
+  tooltips: {
+    enabled: true,
+    mode: 'single',
+    callbacks: {
+      label: function(tooltipItems, data) {
+        return ' % who voted for ' + tooltipItems.xLabel + " choices:" + tooltipItems.yLabel;
+      }
+    }
+  }
+};
