@@ -54,8 +54,22 @@ multiple_choices_offices = [
     "max_choices": 2
   }
 ];
-mult_offices = _.map(multiple_choices_offices, function(x){ return x.office; });
-mult_offices_choices = _.map(multiple_choices_offices, function(x){ return x.max_choices; });
+// mult_offices = _.map(multiple_choices_offices, function(x){ return x.office; });
+// mult_offices_choices = _.map(multiple_choices_offices, function(x){ return x.max_choices; });
+
+
+mult_offices = [
+  "Judge of the Commonwealth Court - Democrat",
+  "Judge of the Commonwealth Court - Republican",
+  "Judge of the Court of Common Pleas - Democrat",
+  "Judge of the Municipal Court - Democrat",
+  "Judge of the Superior Court - Democrat",
+  "Judge of the Superior Court - Republican"
+];
+mult_offices_choices = [
+  2, 2, 9, 2, 4, 4
+];
+
 
 title_text = ["temp", "temp2"];
 results_options = {

@@ -9,6 +9,12 @@ function getData(type) {
     office_options = mult_offices;
     ward_dropdown = '#choices_ward';
   }
+  if (type == "cond_cand") {
+    folder = "cond_table/cond_table_";
+    office_dropdown = "#cand_comb_ballot_position";
+    office_options = mult_offices;
+    ward_dropdown = '#cand_comb_ward';
+  }
 
   url = "https://raw.githubusercontent.com/jacobkap/phillyvotingtool/master/data/";
   url += folder;
@@ -93,7 +99,6 @@ function updateChart(type) {
           yAxes: [{
             ticks: {
               min: 0,
-              max: 100,
               callback: function(value) {
                 return value + "%";
               }
@@ -164,10 +169,18 @@ function whenClicked(e) {
     ward_dropdown = "#choices_ward";
     update_type = 'choices';
   }
+  if (e.sourceTarget._mapToAdd._container.id == "cand_comb_map_div") {
+    ward_dropdown = "#cand_comb_ward";
+  }
 
   $(ward_dropdown).val(ward_num);
   $(ward_dropdown).trigger("chosen:updated");
+  if (e.sourceTarget._mapToAdd._container.id != "cand_comb_map_div") {
   updateChart(update_type);
+}
+if (e.sourceTarget._mapToAdd._container.id == "cand_comb_map_div") {
+updateTable();
+}
 }
 
 
@@ -176,4 +189,44 @@ function onEachFeature(feature, layer) {
   layer.on({
     click: whenClicked
   });
+}
+
+
+
+function makeTable(div, data, headers) {
+
+z = [];
+  for (var i = 0; i < headers.length; i++) {
+      z.push({
+        title: headers[i],
+      });
+    }
+
+  var table = $(div).DataTable({
+    data: data,
+    columns: z,
+"ordering": false,
+ "searching": false,
+ "bInfo" : false,
+ "bPaginate": false, //hide pagination control
+"bFilter": false, //hide filter control
+ "lengthChange": false
+  });
+  return table;
+}
+
+function updateTable() {
+  cand_data = getData("cond_cand");
+  table.destroy();
+  $('#table').empty();
+  table = makeTable("#table", cand_data, cand_data[0]);
+
+
+  title = all_offices[$('#cand_comb_ballot_position').val()];
+  if (wards[$("#cand_comb_ward").val()] != "All") {
+    title += ", Ward " + wards[$("#cand_comb_ward").val()];
+  }
+  subtitle = "Max number of selections: " + mult_offices_choices[$('#cand_comb_ballot_position').val()];
+  $("#table_title").text(title);
+  $("#table_subtitle").text(subtitle);
 }

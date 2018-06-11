@@ -3,6 +3,17 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+#table_title {
+  display:inline;
+}
+#table_subtitle {
+  display:inline;
+}
+
+th { font-size: 18px;
+display:none; }
+td { font-size: 18px; }
+
 .leaflet_map {
   height: 285px;
   width: 300px;
