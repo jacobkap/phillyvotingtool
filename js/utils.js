@@ -31,10 +31,19 @@ function getData(type) {
 
 
 
-function formatData(data) {
+function formatData(data, type) {
+
+  // Default to results type
   title = all_offices[$('#results_ballot_position').val()];
-  if (wards[$(ward_dropdown).val()] != "All") {
-    title += ", Ward " + wards[$(ward_dropdown).val()];
+  if (wards[$("#results_ward").val()] != "All") {
+    title += ", Ward " + wards[$("#results_ward").val()];
+  }
+
+  if (type == "choices") {
+    title = mult_offices[$('#choices_ballot_position').val()];
+    if (wards[$("#choices_ward").val()] != "All") {
+      title += ", Ward " + wards[$("#choices_ward").val()];
+    }
   }
 
 
@@ -43,7 +52,6 @@ function formatData(data) {
     datasets: [{
       data: data[1],
       backgroundColor: 'rgb(105,105,105)',
-      label: title
     }]
   };
   return formatted_data;
@@ -53,8 +61,8 @@ function formatData(data) {
 
 function updateChart(type) {
 
-  data = getData();
-  data = formatData(data);
+  data = getData(type);
+  data = formatData(data, type);
 
   chart_type = "horizontalBar";
   chart_div = ctx_results;
@@ -66,11 +74,13 @@ function updateChart(type) {
       type: chart_type,
       data: data,
       options: {
+        legend: {
+        display: false
+    },
         scales: {
           yAxes: [{
             ticks: {
               min: 0,
-              max: 100,
               callback: function(value) {
                 return value + "%";
               }
@@ -86,7 +96,7 @@ function updateChart(type) {
           mode: 'single',
           callbacks: {
             label: function(tooltipItems, data) {
-              return ' % who voted for ' + tooltipItems.xLabel + " choices:" + tooltipItems.yLabel;
+              return ' % who voted for ' + tooltipItems.xLabel + " choices: " + tooltipItems.yLabel + "%";
             }
           }
         }
@@ -99,6 +109,9 @@ function updateChart(type) {
       type: chart_type,
       data: data,
       options: {
+        legend: {
+        display: false
+    },
         scales: {
           yAxes: [{
             ticks: {
