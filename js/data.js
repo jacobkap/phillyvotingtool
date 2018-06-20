@@ -1,3 +1,23 @@
+elections = [
+  "2018 Primary",
+  "2017 General",
+  "2017 Primary",
+  "2017 March Special",
+  "2016 General",
+  "2016 Primary",
+  "2016 March Special",
+  "2015 General",
+  "2015 Primary",
+  "2015 August Special",
+  "2015 March Special",
+  "2014 General",
+  "2014 Primary",
+  "2013 General",
+  "2013 Primary",
+  "2012 General",
+  "2012 Primary"
+];
+
 wards = [
 "All",
 1, 2, 3, 4, 5, 6, 7, 8, 9,

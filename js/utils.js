@@ -35,6 +35,25 @@ function getData(type) {
   return (data);
 }
 
+function getGraphData() {
+  url = "https://raw.githubusercontent.com/jacobkap/phillyvotingtool/master/data/vote_time/election_";
+  election = elections[$("#time_election").val()];
+  election = election.toLowerCase().replace(" ", "_");
+  url += election + "/election_" + election + "_ward_";
+  url += wards[$("#time_ward").val()];
+  url += "_time.json";
+  var data = $.getJSON({
+    url: url,
+    type: 'get',
+    dataType: 'json',
+    async: false,
+    success: function(data) {
+      result = data;
+    }
+  });
+  data = data.responseJSON;
+  return (data);
+}
 
 
 function formatData(data, type) {
@@ -106,6 +125,18 @@ function updateChart(type) {
             scaleLabel: {
               display: true,
               labelString: "Percentage"
+            }
+          }],
+          xAxes: [{
+            ticks: {
+              min: 0,
+              callback: function(value) {
+                return value + "%";
+              }
+            },
+            scaleLabel: {
+              display: true,
+              labelString: "Number of Candidates Voted For"
             }
           }]
         },
