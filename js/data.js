@@ -18,6 +18,7 @@ elections = [
   "2012 Primary"
 ];
 
+
 wards = [
 "All",
 1, 2, 3, 4, 5, 6, 7, 8, 9,
@@ -46,6 +47,273 @@ all_offices = [
  "Justice of the Supreme Court - Republican",
  "Proposed Charter Change Question #1",
  "Proposed Charter Change Question #2"
+];
+
+max_divisions = [
+  {
+    "ward": 1,
+    "max_division": 21
+  },
+  {
+    "ward": 2,
+    "max_division": 27
+  },
+  {
+    "ward": 3,
+    "max_division": 22
+  },
+  {
+    "ward": 4,
+    "max_division": 21
+  },
+  {
+    "ward": 5,
+    "max_division": 29
+  },
+  {
+    "ward": 6,
+    "max_division": 18
+  },
+  {
+    "ward": 7,
+    "max_division": 23
+  },
+  {
+    "ward": 8,
+    "max_division": 30
+  },
+  {
+    "ward": 9,
+    "max_division": 17
+  },
+  {
+    "ward": 10,
+    "max_division": 29
+  },
+  {
+    "ward": 11,
+    "max_division": 20
+  },
+  {
+    "ward": 12,
+    "max_division": 24
+  },
+  {
+    "ward": 13,
+    "max_division": 25
+  },
+  {
+    "ward": 14,
+    "max_division": 11
+  },
+  {
+    "ward": 15,
+    "max_division": 19
+  },
+  {
+    "ward": 16,
+    "max_division": 18
+  },
+  {
+    "ward": 17,
+    "max_division": 29
+  },
+  {
+    "ward": 18,
+    "max_division": 17
+  },
+  {
+    "ward": 19,
+    "max_division": 19
+  },
+  {
+    "ward": 20,
+    "max_division": 11
+  },
+  {
+    "ward": 21,
+    "max_division": 45
+  },
+  {
+    "ward": 22,
+    "max_division": 29
+  },
+  {
+    "ward": 23,
+    "max_division": 23
+  },
+  {
+    "ward": 24,
+    "max_division": 19
+  },
+  {
+    "ward": 25,
+    "max_division": 24
+  },
+  {
+    "ward": 26,
+    "max_division": 24
+  },
+  {
+    "ward": 27,
+    "max_division": 23
+  },
+  {
+    "ward": 28,
+    "max_division": 18
+  },
+  {
+    "ward": 29,
+    "max_division": 18
+  },
+  {
+    "ward": 30,
+    "max_division": 17
+  },
+  {
+    "ward": 31,
+    "max_division": 19
+  },
+  {
+    "ward": 32,
+    "max_division": 31
+  },
+  {
+    "ward": 33,
+    "max_division": 24
+  },
+  {
+    "ward": 34,
+    "max_division": 42
+  },
+  {
+    "ward": 35,
+    "max_division": 32
+  },
+  {
+    "ward": 36,
+    "max_division": 41
+  },
+  {
+    "ward": 37,
+    "max_division": 21
+  },
+  {
+    "ward": 38,
+    "max_division": 21
+  },
+  {
+    "ward": 39,
+    "max_division": 46
+  },
+  {
+    "ward": 40,
+    "max_division": 51
+  },
+  {
+    "ward": 41,
+    "max_division": 26
+  },
+  {
+    "ward": 42,
+    "max_division": 25
+  },
+  {
+    "ward": 43,
+    "max_division": 25
+  },
+  {
+    "ward": 44,
+    "max_division": 19
+  },
+  {
+    "ward": 45,
+    "max_division": 25
+  },
+  {
+    "ward": 46,
+    "max_division": 23
+  },
+  {
+    "ward": 47,
+    "max_division": 14
+  },
+  {
+    "ward": 48,
+    "max_division": 23
+  },
+  {
+    "ward": 49,
+    "max_division": 22
+  },
+  {
+    "ward": 50,
+    "max_division": 30
+  },
+  {
+    "ward": 51,
+    "max_division": 28
+  },
+  {
+    "ward": 52,
+    "max_division": 28
+  },
+  {
+    "ward": 53,
+    "max_division": 23
+  },
+  {
+    "ward": 54,
+    "max_division": 22
+  },
+  {
+    "ward": 55,
+    "max_division": 29
+  },
+  {
+    "ward": 56,
+    "max_division": 41
+  },
+  {
+    "ward": 57,
+    "max_division": 28
+  },
+  {
+    "ward": 58,
+    "max_division": 44
+  },
+  {
+    "ward": 59,
+    "max_division": 25
+  },
+  {
+    "ward": 60,
+    "max_division": 23
+  },
+  {
+    "ward": 61,
+    "max_division": 28
+  },
+  {
+    "ward": 62,
+    "max_division": 26
+  },
+  {
+    "ward": 63,
+    "max_division": 25
+  },
+  {
+    "ward": 64,
+    "max_division": 18
+  },
+  {
+    "ward": 65,
+    "max_division": 23
+  },
+  {
+    "ward": 66,
+    "max_division": 46
+  }
 ];
 
 multiple_choices_offices = [

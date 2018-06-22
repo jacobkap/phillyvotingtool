@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Philly Election Tool</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/chosen/1.8.5/chosen.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/chosen/1.8.5/chosen.jquery.min.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.9.1/underscore-min.js"></script>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==" crossorigin="" />
+  <script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js" integrity="sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw==" crossorigin=""></script>
+
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/dygraph/2.1.0/dygraph.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/dygraph/2.1.0/dygraph.css">
+
+  <script src="js/utils.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/map_data.js"></script>
+  <link rel="stylesheet" href="css/style.css" />
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+</head>
+
+<body>
+
+<div class="topnav" id="myTopnav">
+<a href="home.html">Home</a>
+<a  href="results.html">Election Results</a>
+<a  class="active" href="time.html">When do People Vote?</a>
+<a href="choices.html">Number of Choices Made per Office</a>
+<a href="combinations.html">Candidate Vote Combinations</a>
+<a class="icon" onclick="myFunction()">
+<i class="fa fa-bars"></i>
+</div>
+
+<div class="row">
+      <div class="column sidebar" style="background-color:#aaa;">
+  <h3>Select an Election:</h3>
+  <br>
+  <select class="simple-select" id="time_election" onchange="timeChange()">
+<script>
+$.each(elections, function(val, text) {
+        $('#time_election').append( new Option(text,val) );
+    });
+    $('#time_election').val(0);
+</script>
+</select>
+  <br><br>
+  <h3>Select a voting ward:</h3>
+  <br>
+  <select class="simple-select" id="time_ward" onchange="timeChange()">
+  <script>
+$.each(wards, function(val, text) {
+        $('#time_ward').append( new Option(text,val) );
+    });
+    $('#time_ward').val(0);
+    $('.simple-select').chosen();
+    $('.simple-select').trigger('chosen:updated');
+      </script>
+</select>
+
+  <br><br>
+  <h3>Select a voting division:</h3>
+  <br>
+  <select class="simple-select" id="time_division" onchange="updateGraph()">
+<script>
+  setDivisionDropdown("#time_ward", "#time_division")
+  </script>
+</select>
+  <br><br>
+  <h3>Select a voting ward by clicking on the map</h3>
+  <br>
+  <div id="time_map_div" class="leaflet_map"></div>
+  <script>
+    var time_map = new L.map('time_map_div', {
+      minZoom: 10,
+  maxBoundsViscosity: 1.0
+    }).setView([40, -75.1], 10);
+    L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+      maxZoom: 18,
+      id: 'mapbox.streets',
+      accessToken: 'pk.eyJ1IjoiamtrYXBsYW4iLCJhIjoiY2lnOXAyaWZyMHNjZ3V5bHg4YTZieDczaSJ9.vSjaF4o2xaDFhNAv9Z2y7A'
+    }).addTo(time_map);
+    time_map.setMaxBounds(time_map.getBounds())
+
+    geojson = L.geoJson(wards_polygon, {
+      onEachFeature: onEachFeature
+    }).addTo(time_map);
+  </script>
+</div>
+
+
+
+
+  <div class="column main">
+  <div id="time_graph" style="width:95%;height:500px"></div>
+</div>
+<script>
+  graph_data = getGraphData();
+  subsetted_graph_data = subsetGraphData(graph_data);
+  graph = makeGraph(subsetted_graph_data);
+
+
+  $(document).ready(function(){
+   resizeChosen();
+   jQuery(window).on('resize', resizeChosen);
+});
+</script>
+</div>
+</div>
+
+
+</body>
+
+</html>
