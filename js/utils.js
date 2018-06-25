@@ -9,9 +9,9 @@ function myFunction() {
 }
 
 function resizeChosen() {
-   $(".chosen-container").each(function() {
-       $(this).attr('style', 'width: 95%');
-   });
+  $(".chosen-container").each(function() {
+    $(this).attr('style', 'width: 95%');
+  });
 }
 
 function setDivisionDropdown(ward_dropdown, division_dropdown) {
@@ -36,23 +36,26 @@ function setDivisionDropdown(ward_dropdown, division_dropdown) {
   $('.simple-select').trigger('chosen:updated');
 }
 
-function setOffices(type, election_dropdown, ballot_dropdow) {
+function setOffices(type, election_dropdown, ballot_dropdown) {
   offices = getOffices(type, election_dropdown);
-  $(ballot_dropdow).clear();
-  $.each(results_offices, function(val, text) {
-          $(ballot_dropdow).append( new Option(text,val) );
-      });
-      $(ballot_dropdow).val(0);
+
+  $(ballot_dropdown).empty();
+  $.each(offices, function(val, text) {
+    $(ballot_dropdown).append(new Option(text, val));
+  });
+  $(ballot_dropdown).val(0);
+  $(ballot_dropdown).trigger("chosen:updated");
+
 }
 
 function getOffices(type, election_dropdown) {
-url = "https://raw.githubusercontent.com/jacobkap/phillyvotingtool/master/data/";
-url += type + "/";
-election = elections[$(election_dropdown).val()];
-election = election.toLowerCase().replace(" ", "_");
-election = election.replace(" ", "_");
-url += election + "/";
-url += type + "_" + "office_choices.json";
+  url = "https://raw.githubusercontent.com/jacobkap/phillyvotingtool/master/data/";
+  url += type + "/election_";
+  election = elections[$(election_dropdown).val()];
+  election = election.toLowerCase().replace(" ", "_");
+  election = election.replace(" ", "_");
+  url += election + "/";
+  url += type + "_" + "office_choices.json";
   var data = $.getJSON({
     url: url,
     type: 'get',
@@ -69,24 +72,22 @@ url += type + "_" + "office_choices.json";
 function getData(type) {
   folder = "election_results";
   office_dropdown = "#results_ballot_position";
-  office_options = all_offices;
   election_dropdown = "#results_election";
   if (type == "choices") {
     folder = "num_selected";
     office_dropdown = "#choices_ballot_position";
-    office_options = mult_offices;
     election_dropdown = "#choices_election";
   }
   if (type == "cond_cand") {
     folder = "cond_table";
     office_dropdown = "#cand_comb_ballot_position";
-    office_options = mult_offices;
   }
+  office_options = getOffices(folder, election_dropdown);
   election = elections[$(election_dropdown).val()];
   election = election.toLowerCase().replace(" ", "_");
   election = election.replace(" ", "_");
   url = "https://raw.githubusercontent.com/jacobkap/phillyvotingtool/master/data/";
-  url += folder + "/";
+  url += folder + "/election_";
   url += election + "/";
   url += folder + "_";
   url += office_options[$(office_dropdown).val()];
@@ -173,6 +174,36 @@ function getGraphData() {
   return (data);
 }
 
+function subsetData(data, type) {
+  var final_data = [];
+  if (type == "results") {
+  ward = wards[$("#results_ward").val()];
+  division = $("#results_division").val();
+  ward_section = 2;
+  division_section = 3;
+} else if (type == "choices") {
+  ward = wards[$("#choices_ward").val()];
+  division = $("#choices_division").val();
+  ward_section = 1;
+  division_section = 2;
+}
+  if (division === "0") {
+    division = "All";
+  }
+
+  for (var i = 0; i < data[0].length; i++) {
+    if (data[ward_section][i] == ward && data[division_section][i] == division) {
+      if (type == "results") {
+      temp = [data[0][i], data[1][i]];
+    } else if (type == "choices") {
+      temp = [data[0][i], data[3][i]];
+    }
+      final_data.push(temp);
+    }
+  }
+    return final_data;
+}
+
 function subsetGraphData(data) {
   var final_data = [];
   division = $("#time_division").val();
@@ -208,10 +239,11 @@ function formatData(data, type) {
   }
 
 
+
   var formatted_data = {
-    labels: data[0],
+    labels: _.map(data, function(x){ return x[0]; }),
     datasets: [{
-      data: data[1],
+      data: _.map(data, function(x){ return x[1]; }),
       backgroundColor: 'rgb(105,105,105)',
     }]
   };
@@ -223,6 +255,7 @@ function formatData(data, type) {
 function updateChart(type) {
 
   data = getData(type);
+  data = subsetData(data, type);
   data = formatData(data, type);
   title_text = data[1];
   data = data[0];

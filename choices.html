@@ -111,7 +111,9 @@ setDivisionDropdown("#choices_ward", "#choices_division")
   <canvas id="choices_chart" style="width:95%;height:500px"></canvas>
 </div>
 <script>
-var choices_data = getData("choices")
+
+choices_data = getData("choices")
+choices_data = subsetData(choices_data, "choices");
 choices_data = formatData(choices_data, "choices");
 title_text = choices_data[1]
 choices_data = choices_data[0]

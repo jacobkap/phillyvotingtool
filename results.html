@@ -105,10 +105,11 @@ setDivisionDropdown("#results_ward", "#results_division")
 </div>
 
 <script>
-  var results_data = getData("results")
+  results_data = getData("results");
+  results_data = subsetData(results_data, "results");
   results_data = formatData(results_data, "results");
-  title_text = results_data[1]
-  results_data = results_data[0]
+  title_text = results_data[1];
+  results_data = results_data[0];
 
   var ctx_results = document.getElementById("results_chart").getContext('2d');
   results_chart = new Chart(ctx_results, {
