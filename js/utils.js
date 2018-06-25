@@ -45,10 +45,11 @@ function setOffices(type, election_dropdown, ballot_dropdown) {
   });
   $(ballot_dropdown).val(0);
   $(ballot_dropdown).trigger("chosen:updated");
+  return (offices);
 
 }
 
-function getOffices(type, election_dropdown) {
+function getOffices(type, election_dropdown, max_choices = false) {
   url = "https://raw.githubusercontent.com/jacobkap/phillyvotingtool/master/data/";
   url += type + "/election_";
   election = elections[$(election_dropdown).val()];
@@ -66,6 +67,16 @@ function getOffices(type, election_dropdown) {
     }
   });
   data = data.responseJSON;
+
+  if (type == "num_selected") {
+    data = _.map(data, function(x) {
+      if (max_choices === false) {
+      return x.category;
+    } else {
+      return x.max_choices;
+    }
+    });
+  }
   return (data);
 }
 
@@ -124,32 +135,6 @@ function makeGraph(data) {
   return (graph);
 }
 
-function resultsElectionChange() {
-  setOffices("election_results", "#results_election", "#results_ballot_position");
-  resultsChange();
-}
-
-function resultsChange() {
-  setDivisionDropdown("#results_ward", "#results_division");
-  updateChart('results');
-}
-
-function choicesChange() {
-  setDivisionDropdown("#choices_ward", "#choices_division");
-  updateChart('choices');
-}
-
-function timeChange() {
-  setDivisionDropdown("#time_ward", "#time_division");
-  graph = updateGraph();
-}
-
-function updateGraph() {
-  graph_data = getGraphData();
-  subsetted_graph_data = subsetGraphData(graph_data);
-  graph = makeGraph(subsetted_graph_data);
-  return (graph);
-}
 
 
 
@@ -177,16 +162,16 @@ function getGraphData() {
 function subsetData(data, type) {
   var final_data = [];
   if (type == "results") {
-  ward = wards[$("#results_ward").val()];
-  division = $("#results_division").val();
-  ward_section = 2;
-  division_section = 3;
-} else if (type == "choices") {
-  ward = wards[$("#choices_ward").val()];
-  division = $("#choices_division").val();
-  ward_section = 1;
-  division_section = 2;
-}
+    ward = wards[$("#results_ward").val()];
+    division = $("#results_division").val();
+    ward_section = 2;
+    division_section = 3;
+  } else if (type == "choices") {
+    ward = wards[$("#choices_ward").val()];
+    division = $("#choices_division").val();
+    ward_section = 1;
+    division_section = 2;
+  }
   if (division === "0") {
     division = "All";
   }
@@ -194,14 +179,14 @@ function subsetData(data, type) {
   for (var i = 0; i < data[0].length; i++) {
     if (data[ward_section][i] == ward && data[division_section][i] == division) {
       if (type == "results") {
-      temp = [data[0][i], data[1][i]];
-    } else if (type == "choices") {
-      temp = [data[0][i], data[3][i]];
-    }
+        temp = [data[0][i], data[1][i]];
+      } else if (type == "choices") {
+        temp = [data[0][i], data[3][i]];
+      }
       final_data.push(temp);
     }
   }
-    return final_data;
+  return final_data;
 }
 
 function subsetGraphData(data) {
@@ -222,28 +207,40 @@ function subsetGraphData(data) {
 function formatData(data, type) {
 
   // Default to results type
-  title = all_offices[$('#results_ballot_position').val()];
-  if (wards[$("#results_ward").val()] != "All") {
-    title += ", Ward " + wards[$("#results_ward").val()];
-    title_text = [title];
-  }
-  title_text = [title];
+  if (type == "results") {
+    title = results_offices[$('#results_ballot_position').val()];
+    if (wards[$("#results_ward").val()] != "All") {
+      title += ", Ward " + wards[$("#results_ward").val()];
+      if ($("#results_division").val() != "0") {
+        title += ", Division " + $("#results_division").val();
+      }
+      title_text = [title];
 
-  if (type == "choices") {
-    title = mult_offices[$('#choices_ballot_position').val()];
+    }
+    title_text = [title];
+  } else if (type == "choices") {
+    title = choices_offices[$('#choices_ballot_position').val()];
     if (wards[$("#choices_ward").val()] != "All") {
       title += ", Ward " + wards[$("#choices_ward").val()];
     }
-    subtitle = "Max number of selections: " + mult_offices_choices[$('#choices_ballot_position').val()];
+    if ($("#choices_division").val() != "0") {
+      title += ", Division " + $("#choices_division").val();
+    }
+    choices_max = getOffices("num_selected", "#choices_election", true);
+    subtitle = "Max number of selections: " + choices_max[$('#choices_ballot_position').val()];
     title_text = [title, subtitle];
   }
 
 
 
   var formatted_data = {
-    labels: _.map(data, function(x){ return x[0]; }),
+    labels: _.map(data, function(x) {
+      return x[0];
+    }),
     datasets: [{
-      data: _.map(data, function(x){ return x[1]; }),
+      data: _.map(data, function(x) {
+        return x[1];
+      }),
       backgroundColor: 'rgb(105,105,105)',
     }]
   };
@@ -251,107 +248,6 @@ function formatData(data, type) {
 }
 
 
-
-function updateChart(type) {
-
-  data = getData(type);
-  data = subsetData(data, type);
-  data = formatData(data, type);
-  title_text = data[1];
-  data = data[0];
-
-  chart_type = "horizontalBar";
-  chart_div = ctx_results;
-  if (type == "choices") {
-    chart_div = ctx_choices;
-    chart_type = "bar";
-    choices_chart.destroy();
-    choices_chart = new Chart(chart_div, {
-      type: chart_type,
-      data: data,
-      options: {
-        legend: {
-          display: false
-        },
-        title: {
-          display: true,
-          position: 'top',
-          text: title_text,
-          fontSize: 14
-        },
-        scales: {
-          yAxes: [{
-            ticks: {
-              min: 0,
-              callback: function(value) {
-                return value + "%";
-              }
-            },
-            scaleLabel: {
-              display: true,
-              labelString: "Percentage"
-            }
-          }],
-          xAxes: [{
-            ticks: {
-              min: 0,
-              callback: function(value) {
-                return value + "%";
-              }
-            },
-            scaleLabel: {
-              display: true,
-              labelString: "Number of Candidates Voted For"
-            }
-          }]
-        },
-        tooltips: {
-          enabled: true,
-          mode: 'single',
-          callbacks: {
-            label: function(tooltipItems, data) {
-              return ' % who voted for ' + tooltipItems.xLabel + " choices:" + tooltipItems.yLabel;
-            }
-          }
-        }
-      }
-    });
-  }
-  if (type == "results") {
-    results_chart.destroy();
-    results_chart = new Chart(chart_div, {
-      type: chart_type,
-      data: data,
-      options: {
-        legend: {
-          display: false
-        },
-        title: {
-          display: true,
-          position: 'top',
-          text: title_text,
-          fontSize: 14
-        },
-        scales: {
-          yAxes: [{
-            ticks: {
-              beginAtZero: true
-            }
-          }]
-        },
-        tooltips: {
-          enabled: true,
-          mode: 'single',
-          callbacks: {
-            label: function(tooltipItems, data) {
-              return ' Votes: ' + tooltipItems.xLabel;
-            }
-          }
-        }
-      }
-    });
-  }
-}
 
 
 

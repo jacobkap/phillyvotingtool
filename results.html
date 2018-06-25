@@ -16,6 +16,7 @@
 
   <script src="js/utils.js"></script>
   <script src="js/data.js"></script>
+  <script src="js/changes_updates.js"></script>
   <script src="js/map_data.js"></script>
   <link rel="stylesheet" href="css/style.css" />
   <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
@@ -55,7 +56,7 @@ $.each(elections, function(val, text) {
   <br>
   <select class="simple-select" id="results_ballot_position" onchange="resultsChange()">
 <script>
-setOffices("election_results", "#results_election", "#results_ballot_position")
+results_offices = setOffices("election_results", "#results_election", "#results_ballot_position")
 </script>
 </select>
   <br><br>

@@ -18,6 +18,7 @@
 
   <script src="js/utils.js"></script>
   <script src="js/data.js"></script>
+  <script src="js/changes_updates.js"></script>
   <script src="js/map_data.js"></script>
   <link rel="stylesheet" href="css/style.css" />
   <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
@@ -45,7 +46,7 @@
       <div class="column sidebar" style="background-color:#aaa;">
   <h3>Select an Election:</h3>
   <br>
-  <select class="simple-select" id="choices_election" onchange="timeChange()">
+  <select class="simple-select" id="choices_election" onchange="choicesElectionChange()">
 <script>
 $.each(elections, function(val, text) {
         $('#choices_election').append( new Option(text,val) );
@@ -58,11 +59,8 @@ $.each(elections, function(val, text) {
   <br>
   <select class="simple-select" id="choices_ballot_position" onchange="choicesChange()">
 <script>
+choices_offices = setOffices("num_selected", "#choices_election", "#choices_ballot_position")
 
-$.each(mult_offices, function(val, text) {
-        $('#choices_ballot_position').append( new Option(text,val) );
-    });
-    $('#choices_ballot_position').val(0);
 </script>
 </select>
   <br><br>
@@ -131,20 +129,6 @@ choices_chart = new Chart(ctx_choices, {
       position: 'top',
       text: title_text,
       fontSize: 14
-    },
-    scales: {
-      yAxes: [{
-        ticks: {
-          min: 0,
-          callback: function(value) {
-            return value + "%";
-          }
-        },
-        scaleLabel: {
-          display: true,
-          labelString: "Percentage"
-        }
-      }]
     },
     tooltips: {
       enabled: true,
