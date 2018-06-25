@@ -84,9 +84,6 @@ $.each(wards, function(val, text) {
   </script>
 </div>
 
-
-
-
   <div class="column main">
     <br>
   <h4 id="table_title" align="center">title</h4>
@@ -95,8 +92,8 @@ $.each(wards, function(val, text) {
   <table id="table" class="display cell-border"></table>
 
   <script>
-    cand_data = getData("cond_cand")
-    table = makeTable("#table", cand_data, cand_data[0])
+    cand_data = getData("cond_cand");
+    table = makeTable("#table", cand_data, cand_data[0]);
     title = all_offices[$('#cand_comb_ballot_position').val()];
     if (wards[$("#cand_comb_ward").val()] != "All") {
       title += ", Ward " + wards[$("#cand_comb_ward").val()];

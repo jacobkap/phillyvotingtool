@@ -88,7 +88,7 @@ function updateChart(type) {
           fontSize: 14
         },
         scales: {
-          yAxes: [{
+          xAxes: [{
             ticks: {
               beginAtZero: true
             }
