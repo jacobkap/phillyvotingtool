@@ -118,15 +118,23 @@ function getData(type) {
 }
 
 function makeGraph(data) {
+  graph_title = "% of Votes by Hour";
+  if (wards[$("#time_ward").val()] != "All") {
+    graph_title += ", Ward " + wards[$("#time_ward").val()];
+  }
+  if ($("#time_division").val() != "0") {
+    graph_title += ", Division " + $("#time_division").val();
+  }
+
   graph = new Dygraph(document.getElementById("time_graph"),
     data, {
-      title: 'title',
+      title: graph_title,
       drawGrid: true,
       independentTicks: true,
       labelsSeparateLines: true,
       legend: 'always',
       ylabel: "% of Voters",
-      xlabel: 'Hour',
+      xlabel: 'Time',
       visibility: [true],
       interactionModel: {},
       colors: ['#008837'],

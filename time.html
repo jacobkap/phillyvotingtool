@@ -55,23 +55,12 @@ $.each(elections, function(val, text) {
   <h3>Select a voting ward:</h3>
   <br>
   <select class="simple-select" id="time_ward" onchange="timeChange()">
-  <script>
-$.each(wards, function(val, text) {
-        $('#time_ward').append( new Option(text,val) );
-    });
-    $('#time_ward').val(0);
-    $('.simple-select').chosen();
-    $('.simple-select').trigger('chosen:updated');
-      </script>
 </select>
 
   <br><br>
   <h3>Select a voting division:</h3>
   <br>
   <select class="simple-select" id="time_division" onchange="updateGraph()">
-<script>
-  setDivisionDropdown("#time_ward", "#time_division")
-  </script>
 </select>
   <br><br>
   <h3>Select a voting ward by clicking on the map</h3>
@@ -99,17 +88,27 @@ $.each(wards, function(val, text) {
 
 
   <div class="column main">
+    <br>
   <div id="time_graph" style="width:95%;height:500px"></div>
 </div>
 <script>
-  graph_data = getGraphData();
-  subsetted_graph_data = subsetGraphData(graph_data);
-  graph = makeGraph(subsetted_graph_data);
-
-
   $(document).ready(function(){
-   resizeChosen();
-   jQuery(window).on('resize', resizeChosen);
+
+
+   $.each(wards, function(val, text) {
+           $('#time_ward').append( new Option(text,val) );
+       });
+       $('#time_ward').val(0);
+       $('.simple-select').chosen();
+       $('.simple-select').trigger('chosen:updated');
+
+         setDivisionDropdown("#time_ward", "#time_division")
+         resizeChosen();
+         jQuery(window).on('resize', resizeChosen);
+
+   graph_data = getGraphData();
+   subsetted_graph_data = subsetGraphData(graph_data);
+   graph = makeGraph(subsetted_graph_data);
 });
 </script>
 </div>
