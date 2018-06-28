@@ -9,6 +9,16 @@ function resultsElectionChange() {
   resultsChange();
 }
 
+function resultsOfficeChange() {
+    $('#results_ward').empty();
+  results_wards = getWards("election_results", "#results_election", "#results_ballot_position", results_offices);
+  $.each(results_wards, function(val, text) {
+    $('#results_ward').append(new Option(text, val));
+  });
+  $('#results_ward').val(0);
+  resultsChange();
+}
+
 function choicesElectionChange() {
   choices_offices = setOffices("num_selected",
     "#choices_election",

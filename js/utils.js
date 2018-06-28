@@ -38,6 +38,7 @@ function setDivisionDropdown(ward_dropdown, division_dropdown) {
 
 function setOffices(type, election_dropdown, ballot_dropdown) {
   offices = getOffices(type, election_dropdown);
+  offices.sort();
 
   $(ballot_dropdown).empty();
   $.each(offices, function(val, text) {
@@ -178,11 +179,13 @@ function getGraphData() {
 function subsetData(data, type) {
   var final_data = [];
   if (type == "results") {
+    wards = results_wards;
     ward = wards[$("#results_ward").val()];
     division = $("#results_division").val();
     ward_section = 2;
     division_section = 3;
   } else if (type == "choices") {
+    wards = choices_wards;
     ward = wards[$("#choices_ward").val()];
     division = $("#choices_division").val();
     ward_section = 1;

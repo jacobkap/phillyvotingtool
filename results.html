@@ -14,7 +14,7 @@
   <script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js" integrity="sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw==" crossorigin=""></script>
 
 
-    <script src="js/graph_map_table.js"></script>
+  <script src="js/graph_map_table.js"></script>
   <script src="js/utils.js"></script>
   <script src="js/data.js"></script>
   <script src="js/changes_updates.js"></script>
@@ -44,42 +44,21 @@
       <div class="column sidebar" style="background-color:#aaa;">
   <h3>Select an Election:</h3>
   <br>
-  <select class="simple-select" id="results_election"onchange="resultsElectionChange()">
-<script>
-$.each(elections, function(val, text) {
-        $('#results_election').append( new Option(text,val) );
-    });
-    $('#results_election').val(0);
-</script>
-</select>
+  <select class="simple-select" id="results_election"onchange="resultsElectionChange()"></select>
 <br><br>
   <h3>Select a Office:</h3>
   <br>
-  <select class="simple-select" id="results_ballot_position" onchange="resultsChange()">
-<script>
-results_offices = setOffices("election_results", "#results_election", "#results_ballot_position")
-</script>
+  <select class="simple-select" id="results_ballot_position" onchange="resultsOfficeChange()">
+
 </select>
   <br><br>
   <h3>Select a voting ward:</h3>
   <br>
-  <select class="simple-select" id="results_ward" onchange="resultsChange()" >
-  <script>
-  results_wards = getWards("election_results", "#results_election", "#results_ballot_position", results_offices)
-$.each(results_wards, function(val, text) {
-        $('#results_ward').append( new Option(text,val) );
-    });
-    $('#results_ward').val(0);
-    $('.simple-select').chosen();
-      </script>
-</select>
+  <select class="simple-select" id="results_ward" onchange="resultsChange()"></select>
 <br><br>
 <h3>Select a voting division:</h3>
 <br>
 <select class="simple-select" id="results_division" onchange="updateChart('results')">
-<script>
-setDivisionDropdown("#results_ward", "#results_division")
-</script>
 </select>
   <br><br>
   <h3>Select a voting ward by clicking on the map</h3>
@@ -104,53 +83,67 @@ setDivisionDropdown("#results_ward", "#results_division")
 
 
   <div class="column main">
+    <div id="loader"></div>
     <br>
   <canvas id="results_chart" style="width:95%"></canvas>
 </div>
 
 <script>
-  results_data = getData("results");
-  results_data = subsetData(results_data, "results");
-  results_data = formatData(results_data, "results");
-  title_text = results_data[1];
-  results_data = results_data[0];
-
-  var ctx_results = document.getElementById("results_chart").getContext('2d');
-  results_chart = new Chart(ctx_results, {
-    type: 'horizontalBar',
-    data: results_data,
-    options: {
-      legend: {
-        display: false
-      },
-      title: {
-        display: true,
-        position: 'top',
-        text: title_text,
-        fontSize: 14
-      },
-      scales: {
-        xAxes: [{
-          ticks: {
-            beginAtZero: true
-          }
-        }]
-      },
-      tooltips: {
-        enabled: true,
-        mode: 'single',
-        callbacks: {
-          label: function(tooltipItems, data) {
-            return ' Votes: ' + tooltipItems.xLabel;
-          }
-        }
-      }
-    }
-  });
-
 
   $(document).ready(function(){
-   resizeChosen();
+    $('.simple-select').chosen();
+    resizeChosen();
+    $.each(elections, function(val, text) {
+            $('#results_election').append( new Option(text,val) );
+        });
+        $('#results_election').val(0);
+        results_offices = setOffices("election_results", "#results_election", "#results_ballot_position")
+    results_wards = getWards("election_results", "#results_election", "#results_ballot_position", results_offices)
+      $.each(results_wards, function(val, text) {
+              $('#results_ward').append( new Option(text,val) );
+          });
+          $('#results_ward').val(0);
+          $('.simple-select').chosen();
+   setDivisionDropdown("#results_ward", "#results_division")
+   results_data = getData("results");
+   results_data = subsetData(results_data, "results");
+   results_data = formatData(results_data, "results");
+   title_text = results_data[1];
+   results_data = results_data[0];
+
+   var ctx_results = document.getElementById("results_chart").getContext('2d');
+   results_chart = new Chart(ctx_results, {
+     type: 'horizontalBar',
+     data: results_data,
+     options: {
+       legend: {
+         display: false
+       },
+       title: {
+         display: true,
+         position: 'top',
+         text: title_text,
+         fontSize: 14
+       },
+       scales: {
+         xAxes: [{
+           ticks: {
+             beginAtZero: true
+           }
+         }]
+       },
+       tooltips: {
+         enabled: true,
+         mode: 'single',
+         callbacks: {
+           label: function(tooltipItems, data) {
+             return ' Votes: ' + tooltipItems.xLabel;
+           }
+         }
+       }
+     }
+   });
+   $("#results_chart").ready($("#loader").hide())
    jQuery(window).on('resize', resizeChosen);
 });
 
