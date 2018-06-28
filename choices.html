@@ -93,7 +93,7 @@ $(document).ready(function(){
   $.each(num_selected_elections, function(val, text) {
           $('#choices_election').append( new Option(text,val) );
       });
-      $('#choices_election').val(0);
+  $('#choices_election').val(0);
   choices_offices = setOffices("num_selected", "#choices_election", "#choices_ballot_position")
   choices_wards = getWards("num_selected", "#choices_election", "#choices_ballot_position", choices_offices)
 $.each(choices_wards, function(val, text) {
