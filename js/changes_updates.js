@@ -11,6 +11,11 @@ function choicesElectionChange() {
 }
 
 function resultsChange() {
+  results_wards = getWards("election_results", "#results_election", "#results_ballot_position", results_offices);
+  $.each(results_wards, function(val, text) {
+    $('#results_ward').append(new Option(text, val));
+  });
+  $('#results_ward').val(0);
   setDivisionDropdown("#results_ward", "#results_division");
   updateChart('results');
 }
@@ -71,8 +76,8 @@ function updateChart(type) {
   }
   if (type == "results") {
 
-      chart_type = "horizontalBar";
-      chart_div = ctx_results;
+    chart_type = "horizontalBar";
+    chart_div = ctx_results;
     results_chart.destroy();
     results_chart = new Chart(chart_div, {
       type: chart_type,

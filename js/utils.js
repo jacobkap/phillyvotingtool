@@ -71,10 +71,10 @@ function getOffices(type, election_dropdown, max_choices = false) {
   if (type == "num_selected") {
     data = _.map(data, function(x) {
       if (max_choices === false) {
-      return x.category;
-    } else {
-      return x.max_choices;
-    }
+        return x.category;
+      } else {
+        return x.max_choices;
+      }
     });
   }
   return (data);
@@ -119,7 +119,30 @@ function getData(type) {
 
 
 
+function getWards(type, election_dropdown, office_dropdown, offices) {
+  election = elections[$(election_dropdown).val()];
+  election = election.toLowerCase().replace(" ", "_");
+  election = election.replace(" ", "_");
+  url = "https://raw.githubusercontent.com/jacobkap/phillyvotingtool/master/data/";
+  url += type + "/election_" + election + "/";
+  office = "";
+  if (type != "vote_time") {
+    office = "_" + offices[$(office_dropdown).val()];
+  }
+  url += "wards" + office + ".json";
 
+  data = $.getJSON({
+    url: url,
+    type: 'get',
+    dataType: 'json',
+    async: false,
+    success: function(data) {
+      result = data;
+    }
+  });
+  data = data.responseJSON;
+  return (data);
+}
 
 function getGraphData() {
   url = "https://raw.githubusercontent.com/jacobkap/phillyvotingtool/master/data/vote_time/election_";
