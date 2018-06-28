@@ -52,6 +52,10 @@ function setOffices(type, election_dropdown, ballot_dropdown) {
 function getOffices(type, election_dropdown, max_choices = false) {
   url = "https://raw.githubusercontent.com/jacobkap/phillyvotingtool/master/data/";
   url += type + "/election_";
+  if (type == "num_selected") {
+    elections = num_selected_elections;
+  }
+
   election = elections[$(election_dropdown).val()];
   election = election.toLowerCase().replace(" ", "_");
   election = election.replace(" ", "_");
@@ -93,6 +97,9 @@ function getData(type) {
     folder = "cond_table";
     office_dropdown = "#cand_comb_ballot_position";
   }
+  if (type == "num_selected") {
+    elections = num_selected_elections;
+  }
   office_options = getOffices(folder, election_dropdown);
   election = elections[$(election_dropdown).val()];
   election = election.toLowerCase().replace(" ", "_");
@@ -120,6 +127,9 @@ function getData(type) {
 
 
 function getWards(type, election_dropdown, office_dropdown, offices) {
+  if (type == "num_selected") {
+    elections = num_selected_elections;
+  }
   election = elections[$(election_dropdown).val()];
   election = election.toLowerCase().replace(" ", "_");
   election = election.replace(" ", "_");
@@ -150,7 +160,7 @@ function getGraphData() {
   election = election.toLowerCase().replace(" ", "_");
   election = election.replace(" ", "_");
   url += election + "/election_" + election + "_ward_";
-  url += wards[$("#time_ward").val()];
+  url += time_wards[$("#time_ward").val()];
   url += "_time.json";
   var data = $.getJSON({
     url: url,
@@ -201,9 +211,14 @@ function subsetGraphData(data) {
   if (division === "0") {
     division = "All";
   }
+  data_column = 2;
+  if ($("#cum_sum").is(':checked')) {
+    data_column = 4;
+  }
+
   for (var i = 0; i < data[0].length; i++) {
     if (data[3][i] == division) {
-      temp = [parseFloat(data[0][i]), parseFloat(data[2][i])];
+      temp = [parseFloat(data[0][i]), parseFloat(data[data_column][i])];
       final_data.push(temp);
     }
   }

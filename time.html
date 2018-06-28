@@ -44,7 +44,7 @@
       <div class="column sidebar" style="background-color:#aaa;">
   <h3>Select an Election:</h3>
   <br>
-  <select class="simple-select" id="time_election" onchange="timeChange()">
+  <select class="simple-select" id="time_election" onchange="timeElectionChange()">
 <script>
 $.each(elections, function(val, text) {
         $('#time_election').append( new Option(text,val) );
@@ -52,6 +52,9 @@ $.each(elections, function(val, text) {
     $('#time_election').val(0);
 </script>
 </select>
+<br><br>
+<input type="checkbox" id="cum_sum" onchange="updateGraph()">
+<label for="cum_sum">Cumulative sum of votes</label>
   <br><br>
   <h3>Select a voting ward:</h3>
   <br>
@@ -95,9 +98,9 @@ $.each(elections, function(val, text) {
 <script>
   $(document).ready(function(){
 
-
-   $.each(wards, function(val, text) {
-           $('#time_ward').append( new Option(text,val) );
+  time_wards = getWards("vote_time", "#time_election")
+   $.each(time_wards, function(val, text) {
+       $('#time_ward').append( new Option(text,val) );
        });
        $('#time_ward').val(0);
        $('.simple-select').chosen();

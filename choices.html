@@ -49,7 +49,7 @@
   <br>
   <select class="simple-select" id="choices_election" onchange="choicesElectionChange()">
 <script>
-$.each(elections, function(val, text) {
+$.each(num_selected_elections, function(val, text) {
         $('#choices_election').append( new Option(text,val) );
     });
     $('#choices_election').val(0);
@@ -69,7 +69,8 @@ choices_offices = setOffices("num_selected", "#choices_election", "#choices_ball
   <br>
   <select class="simple-select" id="choices_ward" onchange="choicesChange()">
   <script>
-$.each(wards, function(val, text) {
+    choices_wards = getWards("num_selected", "#choices_election", "#choices_ballot_position", choices_offices)
+$.each(choices_wards, function(val, text) {
         $('#choices_ward').append( new Option(text,val) );
     });
     $('#choices_ward').val(0);

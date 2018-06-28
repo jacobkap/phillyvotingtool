@@ -1,7 +1,7 @@
 function makeGraph(data) {
   graph_title = "% of Votes by Hour";
-  if (wards[$("#time_ward").val()] != "All") {
-    graph_title += ", Ward " + wards[$("#time_ward").val()];
+  if (time_wards[$("#time_ward").val()] != "All") {
+    graph_title += ", Ward " + time_wards[$("#time_ward").val()];
   }
   if ($("#time_division").val() != "0") {
     graph_title += ", Division " + $("#time_division").val();
@@ -103,4 +103,87 @@ function updateTable() {
   subtitle = "Max number of selections: " + mult_offices_choices[$('#cand_comb_ballot_position').val()];
   $("#table_title").text(title);
   $("#table_subtitle").text(subtitle);
+}
+
+function updateGraph() {
+  graph_data = getGraphData();
+  subsetted_graph_data = subsetGraphData(graph_data);
+  graph = makeGraph(subsetted_graph_data);
+  return (graph);
+}
+
+function updateChart(type) {
+
+  data = getData(type);
+  data = subsetData(data, type);
+  data = formatData(data, type);
+  title_text = data[1];
+  data = data[0];
+
+  if (type == "choices") {
+    chart_div = ctx_choices;
+    chart_type = "bar";
+    choices_chart.destroy();
+    choices_chart = new Chart(chart_div, {
+      type: chart_type,
+      data: data,
+      options: {
+        legend: {
+          display: false
+        },
+        title: {
+          display: true,
+          position: 'top',
+          text: title_text,
+          fontSize: 14
+        },
+        tooltips: {
+          enabled: true,
+          mode: 'single',
+          callbacks: {
+            label: function(tooltipItems, data) {
+              return ' % who voted for ' + tooltipItems.xLabel + " choices:" + tooltipItems.yLabel;
+            }
+          }
+        }
+      }
+    });
+  }
+  if (type == "results") {
+
+    chart_type = "horizontalBar";
+    chart_div = ctx_results;
+    results_chart.destroy();
+    results_chart = new Chart(chart_div, {
+      type: chart_type,
+      data: data,
+      options: {
+        legend: {
+          display: false
+        },
+        title: {
+          display: true,
+          position: 'top',
+          text: title_text,
+          fontSize: 14
+        },
+        scales: {
+          xAxes: [{
+            ticks: {
+              beginAtZero: true
+            }
+          }]
+        },
+        tooltips: {
+          enabled: true,
+          mode: 'single',
+          callbacks: {
+            label: function(tooltipItems, data) {
+              return ' Votes: ' + tooltipItems.xLabel;
+            }
+          }
+        }
+      }
+    });
+  }
 }
