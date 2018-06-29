@@ -1,0 +1,890 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Brett Mandel": "Brett Mandel",
+      "Mark Zecca": "Mark Zecca",
+      "Write In": "Write In",
+      "ward": 7,
+      "division": "All"
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "81",
+      "Brett Mandel": "0",
+      "Mark Zecca": "0",
+      "Write In": "0",
+      "ward": 7,
+      "division": "All"
+    },
+    {
+      "Candidate": "Brett Mandel",
+      "Alan Butkovitz": "0",
+      "Brett Mandel": "64",
+      "Mark Zecca": "0",
+      "Write In": "0",
+      "ward": 7,
+      "division": "All"
+    },
+    {
+      "Candidate": "Mark Zecca",
+      "Alan Butkovitz": "0",
+      "Brett Mandel": "0",
+      "Mark Zecca": "31",
+      "Write In": "0",
+      "ward": 7,
+      "division": "All"
+    },
+    {
+      "Candidate": "Write In",
+      "Alan Butkovitz": "0",
+      "Brett Mandel": "0",
+      "Mark Zecca": "0",
+      "Write In": "1",
+      "ward": 7,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "81",
+      "Brett Mandel": "64",
+      "Mark Zecca": "31",
+      "Write In": "1",
+      "ward": 7,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Mark Zecca": "Mark Zecca",
+      "ward": 7,
+      "division": 1
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "9",
+      "Mark Zecca": "0",
+      "ward": 7,
+      "division": 1
+    },
+    {
+      "Candidate": "Mark Zecca",
+      "Alan Butkovitz": "0",
+      "Mark Zecca": "1",
+      "ward": 7,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "9",
+      "Mark Zecca": "1",
+      "ward": 7,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Brett Mandel": "Brett Mandel",
+      "ward": 7,
+      "division": 2
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "2",
+      "Brett Mandel": "0",
+      "ward": 7,
+      "division": 2
+    },
+    {
+      "Candidate": "Brett Mandel",
+      "Alan Butkovitz": "0",
+      "Brett Mandel": "2",
+      "ward": 7,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "2",
+      "Brett Mandel": "2",
+      "ward": 7,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Brett Mandel": "Brett Mandel",
+      "ward": 7,
+      "division": 3
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "1",
+      "Brett Mandel": "0",
+      "ward": 7,
+      "division": 3
+    },
+    {
+      "Candidate": "Brett Mandel",
+      "Alan Butkovitz": "0",
+      "Brett Mandel": "1",
+      "ward": 7,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "1",
+      "Brett Mandel": "1",
+      "ward": 7,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Brett Mandel": "Brett Mandel",
+      "Mark Zecca": "Mark Zecca",
+      "ward": 7,
+      "division": 4
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "5",
+      "Brett Mandel": "0",
+      "Mark Zecca": "0",
+      "ward": 7,
+      "division": 4
+    },
+    {
+      "Candidate": "Brett Mandel",
+      "Alan Butkovitz": "0",
+      "Brett Mandel": "5",
+      "Mark Zecca": "0",
+      "ward": 7,
+      "division": 4
+    },
+    {
+      "Candidate": "Mark Zecca",
+      "Alan Butkovitz": "0",
+      "Brett Mandel": "0",
+      "Mark Zecca": "3",
+      "ward": 7,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "5",
+      "Brett Mandel": "5",
+      "Mark Zecca": "3",
+      "ward": 7,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Brett Mandel": "Brett Mandel",
+      "Mark Zecca": "Mark Zecca",
+      "ward": 7,
+      "division": 5
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "7",
+      "Brett Mandel": "0",
+      "Mark Zecca": "0",
+      "ward": 7,
+      "division": 5
+    },
+    {
+      "Candidate": "Brett Mandel",
+      "Alan Butkovitz": "0",
+      "Brett Mandel": "2",
+      "Mark Zecca": "0",
+      "ward": 7,
+      "division": 5
+    },
+    {
+      "Candidate": "Mark Zecca",
+      "Alan Butkovitz": "0",
+      "Brett Mandel": "0",
+      "Mark Zecca": "1",
+      "ward": 7,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "7",
+      "Brett Mandel": "2",
+      "Mark Zecca": "1",
+      "ward": 7,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Brett Mandel": "Brett Mandel",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Mark Zecca": "Mark Zecca",
+      "ward": 7,
+      "division": 6
+    },
+    {
+      "Candidate": "Brett Mandel",
+      "Brett Mandel": "6",
+      "Alan Butkovitz": "0",
+      "Mark Zecca": "0",
+      "ward": 7,
+      "division": 6
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Brett Mandel": "0",
+      "Alan Butkovitz": "5",
+      "Mark Zecca": "0",
+      "ward": 7,
+      "division": 6
+    },
+    {
+      "Candidate": "Mark Zecca",
+      "Brett Mandel": "0",
+      "Alan Butkovitz": "0",
+      "Mark Zecca": "3",
+      "ward": 7,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "Brett Mandel": "6",
+      "Alan Butkovitz": "5",
+      "Mark Zecca": "3",
+      "ward": 7,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Brett Mandel": "Brett Mandel",
+      "ward": 7,
+      "division": 7
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "5",
+      "Brett Mandel": "0",
+      "ward": 7,
+      "division": 7
+    },
+    {
+      "Candidate": "Brett Mandel",
+      "Alan Butkovitz": "0",
+      "Brett Mandel": "1",
+      "ward": 7,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "5",
+      "Brett Mandel": "1",
+      "ward": 7,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Brett Mandel": "Brett Mandel",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Mark Zecca": "Mark Zecca",
+      "ward": 7,
+      "division": 8
+    },
+    {
+      "Candidate": "Brett Mandel",
+      "Brett Mandel": "11",
+      "Alan Butkovitz": "0",
+      "Mark Zecca": "0",
+      "ward": 7,
+      "division": 8
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Brett Mandel": "0",
+      "Alan Butkovitz": "6",
+      "Mark Zecca": "0",
+      "ward": 7,
+      "division": 8
+    },
+    {
+      "Candidate": "Mark Zecca",
+      "Brett Mandel": "0",
+      "Alan Butkovitz": "0",
+      "Mark Zecca": "3",
+      "ward": 7,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Brett Mandel": "11",
+      "Alan Butkovitz": "6",
+      "Mark Zecca": "3",
+      "ward": 7,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Brett Mandel": "Brett Mandel",
+      "Mark Zecca": "Mark Zecca",
+      "ward": 7,
+      "division": 9
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "7",
+      "Brett Mandel": "0",
+      "Mark Zecca": "0",
+      "ward": 7,
+      "division": 9
+    },
+    {
+      "Candidate": "Brett Mandel",
+      "Alan Butkovitz": "0",
+      "Brett Mandel": "1",
+      "Mark Zecca": "0",
+      "ward": 7,
+      "division": 9
+    },
+    {
+      "Candidate": "Mark Zecca",
+      "Alan Butkovitz": "0",
+      "Brett Mandel": "0",
+      "Mark Zecca": "1",
+      "ward": 7,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "7",
+      "Brett Mandel": "1",
+      "Mark Zecca": "1",
+      "ward": 7,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Brett Mandel": "Brett Mandel",
+      "Mark Zecca": "Mark Zecca",
+      "ward": 7,
+      "division": 10
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "3",
+      "Brett Mandel": "0",
+      "Mark Zecca": "0",
+      "ward": 7,
+      "division": 10
+    },
+    {
+      "Candidate": "Brett Mandel",
+      "Alan Butkovitz": "0",
+      "Brett Mandel": "3",
+      "Mark Zecca": "0",
+      "ward": 7,
+      "division": 10
+    },
+    {
+      "Candidate": "Mark Zecca",
+      "Alan Butkovitz": "0",
+      "Brett Mandel": "0",
+      "Mark Zecca": "1",
+      "ward": 7,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "3",
+      "Brett Mandel": "3",
+      "Mark Zecca": "1",
+      "ward": 7,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Brett Mandel": "Brett Mandel",
+      "Mark Zecca": "Mark Zecca",
+      "ward": 7,
+      "division": 11
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "5",
+      "Brett Mandel": "0",
+      "Mark Zecca": "0",
+      "ward": 7,
+      "division": 11
+    },
+    {
+      "Candidate": "Brett Mandel",
+      "Alan Butkovitz": "0",
+      "Brett Mandel": "3",
+      "Mark Zecca": "0",
+      "ward": 7,
+      "division": 11
+    },
+    {
+      "Candidate": "Mark Zecca",
+      "Alan Butkovitz": "0",
+      "Brett Mandel": "0",
+      "Mark Zecca": "2",
+      "ward": 7,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "5",
+      "Brett Mandel": "3",
+      "Mark Zecca": "2",
+      "ward": 7,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Brett Mandel": "Brett Mandel",
+      "ward": 7,
+      "division": 12
+    },
+    {
+      "Candidate": "Brett Mandel",
+      "Brett Mandel": "1",
+      "ward": 7,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Brett Mandel": "1",
+      "ward": 7,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Brett Mandel": "Brett Mandel",
+      "Mark Zecca": "Mark Zecca",
+      "ward": 7,
+      "division": 14
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "3",
+      "Brett Mandel": "0",
+      "Mark Zecca": "0",
+      "ward": 7,
+      "division": 14
+    },
+    {
+      "Candidate": "Brett Mandel",
+      "Alan Butkovitz": "0",
+      "Brett Mandel": "2",
+      "Mark Zecca": "0",
+      "ward": 7,
+      "division": 14
+    },
+    {
+      "Candidate": "Mark Zecca",
+      "Alan Butkovitz": "0",
+      "Brett Mandel": "0",
+      "Mark Zecca": "2",
+      "ward": 7,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "3",
+      "Brett Mandel": "2",
+      "Mark Zecca": "2",
+      "ward": 7,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Mark Zecca": "Mark Zecca",
+      "Brett Mandel": "Brett Mandel",
+      "ward": 7,
+      "division": 15
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "5",
+      "Mark Zecca": "0",
+      "Brett Mandel": "0",
+      "ward": 7,
+      "division": 15
+    },
+    {
+      "Candidate": "Mark Zecca",
+      "Alan Butkovitz": "0",
+      "Mark Zecca": "5",
+      "Brett Mandel": "0",
+      "ward": 7,
+      "division": 15
+    },
+    {
+      "Candidate": "Brett Mandel",
+      "Alan Butkovitz": "0",
+      "Mark Zecca": "0",
+      "Brett Mandel": "3",
+      "ward": 7,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "5",
+      "Mark Zecca": "5",
+      "Brett Mandel": "3",
+      "ward": 7,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Brett Mandel": "Brett Mandel",
+      "Mark Zecca": "Mark Zecca",
+      "ward": 7,
+      "division": 16
+    },
+    {
+      "Candidate": "Brett Mandel",
+      "Brett Mandel": "2",
+      "Mark Zecca": "0",
+      "ward": 7,
+      "division": 16
+    },
+    {
+      "Candidate": "Mark Zecca",
+      "Brett Mandel": "0",
+      "Mark Zecca": "2",
+      "ward": 7,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "Brett Mandel": "2",
+      "Mark Zecca": "2",
+      "ward": 7,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Brett Mandel": "Brett Mandel",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Mark Zecca": "Mark Zecca",
+      "ward": 7,
+      "division": 17
+    },
+    {
+      "Candidate": "Brett Mandel",
+      "Brett Mandel": "6",
+      "Alan Butkovitz": "0",
+      "Mark Zecca": "0",
+      "ward": 7,
+      "division": 17
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Brett Mandel": "0",
+      "Alan Butkovitz": "2",
+      "Mark Zecca": "0",
+      "ward": 7,
+      "division": 17
+    },
+    {
+      "Candidate": "Mark Zecca",
+      "Brett Mandel": "0",
+      "Alan Butkovitz": "0",
+      "Mark Zecca": "1",
+      "ward": 7,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "Brett Mandel": "6",
+      "Alan Butkovitz": "2",
+      "Mark Zecca": "1",
+      "ward": 7,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Brett Mandel": "Brett Mandel",
+      "ward": 7,
+      "division": 18
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "2",
+      "Brett Mandel": "0",
+      "ward": 7,
+      "division": 18
+    },
+    {
+      "Candidate": "Brett Mandel",
+      "Alan Butkovitz": "0",
+      "Brett Mandel": "1",
+      "ward": 7,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "2",
+      "Brett Mandel": "1",
+      "ward": 7,
+      "division": 18
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Mark Zecca": "Mark Zecca",
+      "Brett Mandel": "Brett Mandel",
+      "ward": 7,
+      "division": 19
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "3",
+      "Mark Zecca": "0",
+      "Brett Mandel": "0",
+      "ward": 7,
+      "division": 19
+    },
+    {
+      "Candidate": "Mark Zecca",
+      "Alan Butkovitz": "0",
+      "Mark Zecca": "3",
+      "Brett Mandel": "0",
+      "ward": 7,
+      "division": 19
+    },
+    {
+      "Candidate": "Brett Mandel",
+      "Alan Butkovitz": "0",
+      "Mark Zecca": "0",
+      "Brett Mandel": "1",
+      "ward": 7,
+      "division": 19
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "3",
+      "Mark Zecca": "3",
+      "Brett Mandel": "1",
+      "ward": 7,
+      "division": 19
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Brett Mandel": "Brett Mandel",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "ward": 7,
+      "division": 20
+    },
+    {
+      "Candidate": "Brett Mandel",
+      "Brett Mandel": "5",
+      "Alan Butkovitz": "0",
+      "ward": 7,
+      "division": 20
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Brett Mandel": "0",
+      "Alan Butkovitz": "4",
+      "ward": 7,
+      "division": 20
+    },
+    {
+      "Candidate": "Total",
+      "Brett Mandel": "5",
+      "Alan Butkovitz": "4",
+      "ward": 7,
+      "division": 20
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Brett Mandel": "Brett Mandel",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Mark Zecca": "Mark Zecca",
+      "ward": 7,
+      "division": 21
+    },
+    {
+      "Candidate": "Brett Mandel",
+      "Brett Mandel": "3",
+      "Alan Butkovitz": "0",
+      "Mark Zecca": "0",
+      "ward": 7,
+      "division": 21
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Brett Mandel": "0",
+      "Alan Butkovitz": "1",
+      "Mark Zecca": "0",
+      "ward": 7,
+      "division": 21
+    },
+    {
+      "Candidate": "Mark Zecca",
+      "Brett Mandel": "0",
+      "Alan Butkovitz": "0",
+      "Mark Zecca": "1",
+      "ward": 7,
+      "division": 21
+    },
+    {
+      "Candidate": "Total",
+      "Brett Mandel": "3",
+      "Alan Butkovitz": "1",
+      "Mark Zecca": "1",
+      "ward": 7,
+      "division": 21
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Brett Mandel": "Brett Mandel",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Mark Zecca": "Mark Zecca",
+      "ward": 7,
+      "division": 22
+    },
+    {
+      "Candidate": "Brett Mandel",
+      "Brett Mandel": "2",
+      "Alan Butkovitz": "0",
+      "Mark Zecca": "0",
+      "ward": 7,
+      "division": 22
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Brett Mandel": "0",
+      "Alan Butkovitz": "1",
+      "Mark Zecca": "0",
+      "ward": 7,
+      "division": 22
+    },
+    {
+      "Candidate": "Mark Zecca",
+      "Brett Mandel": "0",
+      "Alan Butkovitz": "0",
+      "Mark Zecca": "1",
+      "ward": 7,
+      "division": 22
+    },
+    {
+      "Candidate": "Total",
+      "Brett Mandel": "2",
+      "Alan Butkovitz": "1",
+      "Mark Zecca": "1",
+      "ward": 7,
+      "division": 22
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Brett Mandel": "Brett Mandel",
+      "Mark Zecca": "Mark Zecca",
+      "Write In": "Write In",
+      "ward": 7,
+      "division": 23
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "5",
+      "Brett Mandel": "0",
+      "Mark Zecca": "0",
+      "Write In": "0",
+      "ward": 7,
+      "division": 23
+    },
+    {
+      "Candidate": "Brett Mandel",
+      "Alan Butkovitz": "0",
+      "Brett Mandel": "3",
+      "Mark Zecca": "0",
+      "Write In": "0",
+      "ward": 7,
+      "division": 23
+    },
+    {
+      "Candidate": "Mark Zecca",
+      "Alan Butkovitz": "0",
+      "Brett Mandel": "0",
+      "Mark Zecca": "1",
+      "Write In": "0",
+      "ward": 7,
+      "division": 23
+    },
+    {
+      "Candidate": "Write In",
+      "Alan Butkovitz": "0",
+      "Brett Mandel": "0",
+      "Mark Zecca": "0",
+      "Write In": "1",
+      "ward": 7,
+      "division": 23
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "5",
+      "Brett Mandel": "3",
+      "Mark Zecca": "1",
+      "Write In": "1",
+      "ward": 7,
+      "division": 23
+    }
+  ]
+]

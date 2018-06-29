@@ -1,0 +1,732 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "Ella P Butcher": "Ella P Butcher",
+      "ward": 40,
+      "division": "All"
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Christopher M Vogler": "14",
+      "Ella P Butcher": "24",
+      "ward": 40,
+      "division": "All"
+    },
+    {
+      "Candidate": "Ella P Butcher",
+      "Christopher M Vogler": "24",
+      "Ella P Butcher": "12",
+      "ward": 40,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Christopher M Vogler": "38",
+      "Ella P Butcher": "36",
+      "ward": 40,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ella P Butcher": "Ella P Butcher",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "ward": 40,
+      "division": 1
+    },
+    {
+      "Candidate": "Ella P Butcher",
+      "Ella P Butcher": "1",
+      "Christopher M Vogler": "1",
+      "ward": 40,
+      "division": 1
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Ella P Butcher": "1",
+      "Christopher M Vogler": "0",
+      "ward": 40,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Ella P Butcher": "2",
+      "Christopher M Vogler": "1",
+      "ward": 40,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ella P Butcher": "Ella P Butcher",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "ward": 40,
+      "division": 4
+    },
+    {
+      "Candidate": "Ella P Butcher",
+      "Ella P Butcher": "1",
+      "Christopher M Vogler": "2",
+      "ward": 40,
+      "division": 4
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Ella P Butcher": "2",
+      "Christopher M Vogler": "0",
+      "ward": 40,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Ella P Butcher": "3",
+      "Christopher M Vogler": "2",
+      "ward": 40,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "ward": 40,
+      "division": 9
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Christopher M Vogler": "1",
+      "ward": 40,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Christopher M Vogler": "1",
+      "ward": 40,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ella P Butcher": "Ella P Butcher",
+      "ward": 40,
+      "division": 10
+    },
+    {
+      "Candidate": "Ella P Butcher",
+      "Ella P Butcher": "1",
+      "ward": 40,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Ella P Butcher": "1",
+      "ward": 40,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "ward": 40,
+      "division": 11
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Christopher M Vogler": "3",
+      "ward": 40,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Christopher M Vogler": "3",
+      "ward": 40,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "Ella P Butcher": "Ella P Butcher",
+      "ward": 40,
+      "division": 14
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Christopher M Vogler": "0",
+      "Ella P Butcher": "3",
+      "ward": 40,
+      "division": 14
+    },
+    {
+      "Candidate": "Ella P Butcher",
+      "Christopher M Vogler": "3",
+      "Ella P Butcher": "0",
+      "ward": 40,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "Christopher M Vogler": "3",
+      "Ella P Butcher": "3",
+      "ward": 40,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "Ella P Butcher": "Ella P Butcher",
+      "ward": 40,
+      "division": 15
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Christopher M Vogler": "0",
+      "Ella P Butcher": "1",
+      "ward": 40,
+      "division": 15
+    },
+    {
+      "Candidate": "Ella P Butcher",
+      "Christopher M Vogler": "1",
+      "Ella P Butcher": "0",
+      "ward": 40,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "Christopher M Vogler": "1",
+      "Ella P Butcher": "1",
+      "ward": 40,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "Ella P Butcher": "Ella P Butcher",
+      "ward": 40,
+      "division": 17
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Christopher M Vogler": "0",
+      "Ella P Butcher": "1",
+      "ward": 40,
+      "division": 17
+    },
+    {
+      "Candidate": "Ella P Butcher",
+      "Christopher M Vogler": "1",
+      "Ella P Butcher": "0",
+      "ward": 40,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "Christopher M Vogler": "1",
+      "Ella P Butcher": "1",
+      "ward": 40,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "Ella P Butcher": "Ella P Butcher",
+      "ward": 40,
+      "division": 19
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Christopher M Vogler": "1",
+      "Ella P Butcher": "1",
+      "ward": 40,
+      "division": 19
+    },
+    {
+      "Candidate": "Ella P Butcher",
+      "Christopher M Vogler": "1",
+      "Ella P Butcher": "0",
+      "ward": 40,
+      "division": 19
+    },
+    {
+      "Candidate": "Total",
+      "Christopher M Vogler": "2",
+      "Ella P Butcher": "1",
+      "ward": 40,
+      "division": 19
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "ward": 40,
+      "division": 21
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Christopher M Vogler": "1",
+      "ward": 40,
+      "division": 21
+    },
+    {
+      "Candidate": "Total",
+      "Christopher M Vogler": "1",
+      "ward": 40,
+      "division": 21
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "Ella P Butcher": "Ella P Butcher",
+      "ward": 40,
+      "division": 22
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Christopher M Vogler": "1",
+      "Ella P Butcher": "2",
+      "ward": 40,
+      "division": 22
+    },
+    {
+      "Candidate": "Ella P Butcher",
+      "Christopher M Vogler": "2",
+      "Ella P Butcher": "0",
+      "ward": 40,
+      "division": 22
+    },
+    {
+      "Candidate": "Total",
+      "Christopher M Vogler": "3",
+      "Ella P Butcher": "2",
+      "ward": 40,
+      "division": 22
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ella P Butcher": "Ella P Butcher",
+      "ward": 40,
+      "division": 23
+    },
+    {
+      "Candidate": "Ella P Butcher",
+      "Ella P Butcher": "1",
+      "ward": 40,
+      "division": 23
+    },
+    {
+      "Candidate": "Total",
+      "Ella P Butcher": "1",
+      "ward": 40,
+      "division": 23
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "Ella P Butcher": "Ella P Butcher",
+      "ward": 40,
+      "division": 24
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Christopher M Vogler": "1",
+      "Ella P Butcher": "1",
+      "ward": 40,
+      "division": 24
+    },
+    {
+      "Candidate": "Ella P Butcher",
+      "Christopher M Vogler": "1",
+      "Ella P Butcher": "0",
+      "ward": 40,
+      "division": 24
+    },
+    {
+      "Candidate": "Total",
+      "Christopher M Vogler": "2",
+      "Ella P Butcher": "1",
+      "ward": 40,
+      "division": 24
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "Ella P Butcher": "Ella P Butcher",
+      "ward": 40,
+      "division": 25
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Christopher M Vogler": "0",
+      "Ella P Butcher": "2",
+      "ward": 40,
+      "division": 25
+    },
+    {
+      "Candidate": "Ella P Butcher",
+      "Christopher M Vogler": "2",
+      "Ella P Butcher": "0",
+      "ward": 40,
+      "division": 25
+    },
+    {
+      "Candidate": "Total",
+      "Christopher M Vogler": "2",
+      "Ella P Butcher": "2",
+      "ward": 40,
+      "division": 25
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "ward": 40,
+      "division": 28
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Christopher M Vogler": "1",
+      "ward": 40,
+      "division": 28
+    },
+    {
+      "Candidate": "Total",
+      "Christopher M Vogler": "1",
+      "ward": 40,
+      "division": 28
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ella P Butcher": "Ella P Butcher",
+      "ward": 40,
+      "division": 29
+    },
+    {
+      "Candidate": "Ella P Butcher",
+      "Ella P Butcher": "1",
+      "ward": 40,
+      "division": 29
+    },
+    {
+      "Candidate": "Total",
+      "Ella P Butcher": "1",
+      "ward": 40,
+      "division": 29
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ella P Butcher": "Ella P Butcher",
+      "ward": 40,
+      "division": 32
+    },
+    {
+      "Candidate": "Ella P Butcher",
+      "Ella P Butcher": "1",
+      "ward": 40,
+      "division": 32
+    },
+    {
+      "Candidate": "Total",
+      "Ella P Butcher": "1",
+      "ward": 40,
+      "division": 32
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ella P Butcher": "Ella P Butcher",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "ward": 40,
+      "division": 36
+    },
+    {
+      "Candidate": "Ella P Butcher",
+      "Ella P Butcher": "1",
+      "Christopher M Vogler": "1",
+      "ward": 40,
+      "division": 36
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Ella P Butcher": "1",
+      "Christopher M Vogler": "0",
+      "ward": 40,
+      "division": 36
+    },
+    {
+      "Candidate": "Total",
+      "Ella P Butcher": "2",
+      "Christopher M Vogler": "1",
+      "ward": 40,
+      "division": 36
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ella P Butcher": "Ella P Butcher",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "ward": 40,
+      "division": 37
+    },
+    {
+      "Candidate": "Ella P Butcher",
+      "Ella P Butcher": "2",
+      "Christopher M Vogler": "1",
+      "ward": 40,
+      "division": 37
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Ella P Butcher": "1",
+      "Christopher M Vogler": "1",
+      "ward": 40,
+      "division": 37
+    },
+    {
+      "Candidate": "Total",
+      "Ella P Butcher": "3",
+      "Christopher M Vogler": "2",
+      "ward": 40,
+      "division": 37
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "Ella P Butcher": "Ella P Butcher",
+      "ward": 40,
+      "division": 38
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Christopher M Vogler": "0",
+      "Ella P Butcher": "2",
+      "ward": 40,
+      "division": 38
+    },
+    {
+      "Candidate": "Ella P Butcher",
+      "Christopher M Vogler": "2",
+      "Ella P Butcher": "0",
+      "ward": 40,
+      "division": 38
+    },
+    {
+      "Candidate": "Total",
+      "Christopher M Vogler": "2",
+      "Ella P Butcher": "2",
+      "ward": 40,
+      "division": 38
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ella P Butcher": "Ella P Butcher",
+      "ward": 40,
+      "division": 41
+    },
+    {
+      "Candidate": "Ella P Butcher",
+      "Ella P Butcher": "1",
+      "ward": 40,
+      "division": 41
+    },
+    {
+      "Candidate": "Total",
+      "Ella P Butcher": "1",
+      "ward": 40,
+      "division": 41
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "Ella P Butcher": "Ella P Butcher",
+      "ward": 40,
+      "division": 42
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Christopher M Vogler": "2",
+      "Ella P Butcher": "0",
+      "ward": 40,
+      "division": 42
+    },
+    {
+      "Candidate": "Ella P Butcher",
+      "Christopher M Vogler": "0",
+      "Ella P Butcher": "1",
+      "ward": 40,
+      "division": 42
+    },
+    {
+      "Candidate": "Total",
+      "Christopher M Vogler": "2",
+      "Ella P Butcher": "1",
+      "ward": 40,
+      "division": 42
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "ward": 40,
+      "division": 45
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Christopher M Vogler": "1",
+      "ward": 40,
+      "division": 45
+    },
+    {
+      "Candidate": "Total",
+      "Christopher M Vogler": "1",
+      "ward": 40,
+      "division": 45
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "Ella P Butcher": "Ella P Butcher",
+      "ward": 40,
+      "division": 46
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Christopher M Vogler": "0",
+      "Ella P Butcher": "1",
+      "ward": 40,
+      "division": 46
+    },
+    {
+      "Candidate": "Ella P Butcher",
+      "Christopher M Vogler": "1",
+      "Ella P Butcher": "0",
+      "ward": 40,
+      "division": 46
+    },
+    {
+      "Candidate": "Total",
+      "Christopher M Vogler": "1",
+      "Ella P Butcher": "1",
+      "ward": 40,
+      "division": 46
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "Ella P Butcher": "Ella P Butcher",
+      "ward": 40,
+      "division": 48
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Christopher M Vogler": "0",
+      "Ella P Butcher": "3",
+      "ward": 40,
+      "division": 48
+    },
+    {
+      "Candidate": "Ella P Butcher",
+      "Christopher M Vogler": "3",
+      "Ella P Butcher": "0",
+      "ward": 40,
+      "division": 48
+    },
+    {
+      "Candidate": "Total",
+      "Christopher M Vogler": "3",
+      "Ella P Butcher": "3",
+      "ward": 40,
+      "division": 48
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "Ella P Butcher": "Ella P Butcher",
+      "ward": 40,
+      "division": 49
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Christopher M Vogler": "1",
+      "Ella P Butcher": "2",
+      "ward": 40,
+      "division": 49
+    },
+    {
+      "Candidate": "Ella P Butcher",
+      "Christopher M Vogler": "2",
+      "Ella P Butcher": "0",
+      "ward": 40,
+      "division": 49
+    },
+    {
+      "Candidate": "Total",
+      "Christopher M Vogler": "3",
+      "Ella P Butcher": "2",
+      "ward": 40,
+      "division": 49
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ella P Butcher": "Ella P Butcher",
+      "ward": 40,
+      "division": 50
+    },
+    {
+      "Candidate": "Ella P Butcher",
+      "Ella P Butcher": "1",
+      "ward": 40,
+      "division": 50
+    },
+    {
+      "Candidate": "Total",
+      "Ella P Butcher": "1",
+      "ward": 40,
+      "division": 50
+    }
+  ]
+]

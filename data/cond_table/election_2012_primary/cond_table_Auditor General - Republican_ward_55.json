@@ -1,0 +1,926 @@
+[
+  [
+    {
+      "Candidate": "",
+      "John Maher": "John Maher",
+      "Frank A Pinto": "Frank A Pinto",
+      "Write In": "Write In",
+      "ward": 55,
+      "division": "All"
+    },
+    {
+      "Candidate": "John Maher",
+      "John Maher": "246",
+      "Frank A Pinto": "200",
+      "Write In": "1",
+      "ward": 55,
+      "division": "All"
+    },
+    {
+      "Candidate": "Frank A Pinto",
+      "John Maher": "200",
+      "Frank A Pinto": "7",
+      "Write In": "1",
+      "ward": 55,
+      "division": "All"
+    },
+    {
+      "Candidate": "Write In",
+      "John Maher": "1",
+      "Frank A Pinto": "1",
+      "Write In": "0",
+      "ward": 55,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "John Maher": "446",
+      "Frank A Pinto": "207",
+      "Write In": "1",
+      "ward": 55,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Maher": "John Maher",
+      "Frank A Pinto": "Frank A Pinto",
+      "ward": 55,
+      "division": 1
+    },
+    {
+      "Candidate": "John Maher",
+      "John Maher": "19",
+      "Frank A Pinto": "4",
+      "ward": 55,
+      "division": 1
+    },
+    {
+      "Candidate": "Frank A Pinto",
+      "John Maher": "4",
+      "Frank A Pinto": "0",
+      "ward": 55,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "John Maher": "23",
+      "Frank A Pinto": "4",
+      "ward": 55,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Maher": "John Maher",
+      "Frank A Pinto": "Frank A Pinto",
+      "ward": 55,
+      "division": 2
+    },
+    {
+      "Candidate": "John Maher",
+      "John Maher": "8",
+      "Frank A Pinto": "3",
+      "ward": 55,
+      "division": 2
+    },
+    {
+      "Candidate": "Frank A Pinto",
+      "John Maher": "3",
+      "Frank A Pinto": "1",
+      "ward": 55,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "John Maher": "11",
+      "Frank A Pinto": "4",
+      "ward": 55,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Frank A Pinto": "Frank A Pinto",
+      "John Maher": "John Maher",
+      "ward": 55,
+      "division": 3
+    },
+    {
+      "Candidate": "Frank A Pinto",
+      "Frank A Pinto": "0",
+      "John Maher": "5",
+      "ward": 55,
+      "division": 3
+    },
+    {
+      "Candidate": "John Maher",
+      "Frank A Pinto": "5",
+      "John Maher": "0",
+      "ward": 55,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Frank A Pinto": "5",
+      "John Maher": "5",
+      "ward": 55,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Maher": "John Maher",
+      "Frank A Pinto": "Frank A Pinto",
+      "ward": 55,
+      "division": 4
+    },
+    {
+      "Candidate": "John Maher",
+      "John Maher": "7",
+      "Frank A Pinto": "3",
+      "ward": 55,
+      "division": 4
+    },
+    {
+      "Candidate": "Frank A Pinto",
+      "John Maher": "3",
+      "Frank A Pinto": "0",
+      "ward": 55,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "John Maher": "10",
+      "Frank A Pinto": "3",
+      "ward": 55,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Maher": "John Maher",
+      "Frank A Pinto": "Frank A Pinto",
+      "ward": 55,
+      "division": 5
+    },
+    {
+      "Candidate": "John Maher",
+      "John Maher": "3",
+      "Frank A Pinto": "2",
+      "ward": 55,
+      "division": 5
+    },
+    {
+      "Candidate": "Frank A Pinto",
+      "John Maher": "2",
+      "Frank A Pinto": "0",
+      "ward": 55,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "John Maher": "5",
+      "Frank A Pinto": "2",
+      "ward": 55,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Maher": "John Maher",
+      "Frank A Pinto": "Frank A Pinto",
+      "ward": 55,
+      "division": 6
+    },
+    {
+      "Candidate": "John Maher",
+      "John Maher": "14",
+      "Frank A Pinto": "9",
+      "ward": 55,
+      "division": 6
+    },
+    {
+      "Candidate": "Frank A Pinto",
+      "John Maher": "9",
+      "Frank A Pinto": "0",
+      "ward": 55,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "John Maher": "23",
+      "Frank A Pinto": "9",
+      "ward": 55,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Maher": "John Maher",
+      "Frank A Pinto": "Frank A Pinto",
+      "ward": 55,
+      "division": 7
+    },
+    {
+      "Candidate": "John Maher",
+      "John Maher": "4",
+      "Frank A Pinto": "9",
+      "ward": 55,
+      "division": 7
+    },
+    {
+      "Candidate": "Frank A Pinto",
+      "John Maher": "9",
+      "Frank A Pinto": "1",
+      "ward": 55,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "John Maher": "13",
+      "Frank A Pinto": "10",
+      "ward": 55,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Maher": "John Maher",
+      "Frank A Pinto": "Frank A Pinto",
+      "ward": 55,
+      "division": 8
+    },
+    {
+      "Candidate": "John Maher",
+      "John Maher": "5",
+      "Frank A Pinto": "10",
+      "ward": 55,
+      "division": 8
+    },
+    {
+      "Candidate": "Frank A Pinto",
+      "John Maher": "10",
+      "Frank A Pinto": "0",
+      "ward": 55,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "John Maher": "15",
+      "Frank A Pinto": "10",
+      "ward": 55,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Maher": "John Maher",
+      "Frank A Pinto": "Frank A Pinto",
+      "ward": 55,
+      "division": 9
+    },
+    {
+      "Candidate": "John Maher",
+      "John Maher": "5",
+      "Frank A Pinto": "7",
+      "ward": 55,
+      "division": 9
+    },
+    {
+      "Candidate": "Frank A Pinto",
+      "John Maher": "7",
+      "Frank A Pinto": "0",
+      "ward": 55,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "John Maher": "12",
+      "Frank A Pinto": "7",
+      "ward": 55,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Maher": "John Maher",
+      "Frank A Pinto": "Frank A Pinto",
+      "ward": 55,
+      "division": 10
+    },
+    {
+      "Candidate": "John Maher",
+      "John Maher": "6",
+      "Frank A Pinto": "2",
+      "ward": 55,
+      "division": 10
+    },
+    {
+      "Candidate": "Frank A Pinto",
+      "John Maher": "2",
+      "Frank A Pinto": "0",
+      "ward": 55,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "John Maher": "8",
+      "Frank A Pinto": "2",
+      "ward": 55,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Maher": "John Maher",
+      "Frank A Pinto": "Frank A Pinto",
+      "ward": 55,
+      "division": 11
+    },
+    {
+      "Candidate": "John Maher",
+      "John Maher": "5",
+      "Frank A Pinto": "14",
+      "ward": 55,
+      "division": 11
+    },
+    {
+      "Candidate": "Frank A Pinto",
+      "John Maher": "14",
+      "Frank A Pinto": "0",
+      "ward": 55,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "John Maher": "19",
+      "Frank A Pinto": "14",
+      "ward": 55,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Maher": "John Maher",
+      "Frank A Pinto": "Frank A Pinto",
+      "ward": 55,
+      "division": 12
+    },
+    {
+      "Candidate": "John Maher",
+      "John Maher": "28",
+      "Frank A Pinto": "10",
+      "ward": 55,
+      "division": 12
+    },
+    {
+      "Candidate": "Frank A Pinto",
+      "John Maher": "10",
+      "Frank A Pinto": "0",
+      "ward": 55,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "John Maher": "38",
+      "Frank A Pinto": "10",
+      "ward": 55,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Maher": "John Maher",
+      "Frank A Pinto": "Frank A Pinto",
+      "Write In": "Write In",
+      "ward": 55,
+      "division": 13
+    },
+    {
+      "Candidate": "John Maher",
+      "John Maher": "9",
+      "Frank A Pinto": "4",
+      "Write In": "1",
+      "ward": 55,
+      "division": 13
+    },
+    {
+      "Candidate": "Frank A Pinto",
+      "John Maher": "4",
+      "Frank A Pinto": "0",
+      "Write In": "1",
+      "ward": 55,
+      "division": 13
+    },
+    {
+      "Candidate": "Write In",
+      "John Maher": "1",
+      "Frank A Pinto": "1",
+      "Write In": "0",
+      "ward": 55,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "John Maher": "13",
+      "Frank A Pinto": "4",
+      "Write In": "1",
+      "ward": 55,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Maher": "John Maher",
+      "Frank A Pinto": "Frank A Pinto",
+      "ward": 55,
+      "division": 14
+    },
+    {
+      "Candidate": "John Maher",
+      "John Maher": "6",
+      "Frank A Pinto": "4",
+      "ward": 55,
+      "division": 14
+    },
+    {
+      "Candidate": "Frank A Pinto",
+      "John Maher": "4",
+      "Frank A Pinto": "0",
+      "ward": 55,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "John Maher": "10",
+      "Frank A Pinto": "4",
+      "ward": 55,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Maher": "John Maher",
+      "Frank A Pinto": "Frank A Pinto",
+      "ward": 55,
+      "division": 15
+    },
+    {
+      "Candidate": "John Maher",
+      "John Maher": "12",
+      "Frank A Pinto": "6",
+      "ward": 55,
+      "division": 15
+    },
+    {
+      "Candidate": "Frank A Pinto",
+      "John Maher": "6",
+      "Frank A Pinto": "0",
+      "ward": 55,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "John Maher": "18",
+      "Frank A Pinto": "6",
+      "ward": 55,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Maher": "John Maher",
+      "Frank A Pinto": "Frank A Pinto",
+      "ward": 55,
+      "division": 16
+    },
+    {
+      "Candidate": "John Maher",
+      "John Maher": "6",
+      "Frank A Pinto": "6",
+      "ward": 55,
+      "division": 16
+    },
+    {
+      "Candidate": "Frank A Pinto",
+      "John Maher": "6",
+      "Frank A Pinto": "0",
+      "ward": 55,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "John Maher": "12",
+      "Frank A Pinto": "6",
+      "ward": 55,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Maher": "John Maher",
+      "Frank A Pinto": "Frank A Pinto",
+      "ward": 55,
+      "division": 17
+    },
+    {
+      "Candidate": "John Maher",
+      "John Maher": "8",
+      "Frank A Pinto": "8",
+      "ward": 55,
+      "division": 17
+    },
+    {
+      "Candidate": "Frank A Pinto",
+      "John Maher": "8",
+      "Frank A Pinto": "0",
+      "ward": 55,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "John Maher": "16",
+      "Frank A Pinto": "8",
+      "ward": 55,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Maher": "John Maher",
+      "Frank A Pinto": "Frank A Pinto",
+      "ward": 55,
+      "division": 18
+    },
+    {
+      "Candidate": "John Maher",
+      "John Maher": "4",
+      "Frank A Pinto": "5",
+      "ward": 55,
+      "division": 18
+    },
+    {
+      "Candidate": "Frank A Pinto",
+      "John Maher": "5",
+      "Frank A Pinto": "0",
+      "ward": 55,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "John Maher": "9",
+      "Frank A Pinto": "5",
+      "ward": 55,
+      "division": 18
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Maher": "John Maher",
+      "Frank A Pinto": "Frank A Pinto",
+      "ward": 55,
+      "division": 19
+    },
+    {
+      "Candidate": "John Maher",
+      "John Maher": "17",
+      "Frank A Pinto": "11",
+      "ward": 55,
+      "division": 19
+    },
+    {
+      "Candidate": "Frank A Pinto",
+      "John Maher": "11",
+      "Frank A Pinto": "0",
+      "ward": 55,
+      "division": 19
+    },
+    {
+      "Candidate": "Total",
+      "John Maher": "28",
+      "Frank A Pinto": "11",
+      "ward": 55,
+      "division": 19
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Frank A Pinto": "Frank A Pinto",
+      "John Maher": "John Maher",
+      "ward": 55,
+      "division": 20
+    },
+    {
+      "Candidate": "Frank A Pinto",
+      "Frank A Pinto": "2",
+      "John Maher": "17",
+      "ward": 55,
+      "division": 20
+    },
+    {
+      "Candidate": "John Maher",
+      "Frank A Pinto": "17",
+      "John Maher": "0",
+      "ward": 55,
+      "division": 20
+    },
+    {
+      "Candidate": "Total",
+      "Frank A Pinto": "19",
+      "John Maher": "17",
+      "ward": 55,
+      "division": 20
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Maher": "John Maher",
+      "Frank A Pinto": "Frank A Pinto",
+      "ward": 55,
+      "division": 21
+    },
+    {
+      "Candidate": "John Maher",
+      "John Maher": "5",
+      "Frank A Pinto": "6",
+      "ward": 55,
+      "division": 21
+    },
+    {
+      "Candidate": "Frank A Pinto",
+      "John Maher": "6",
+      "Frank A Pinto": "0",
+      "ward": 55,
+      "division": 21
+    },
+    {
+      "Candidate": "Total",
+      "John Maher": "11",
+      "Frank A Pinto": "6",
+      "ward": 55,
+      "division": 21
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Maher": "John Maher",
+      "Frank A Pinto": "Frank A Pinto",
+      "ward": 55,
+      "division": 22
+    },
+    {
+      "Candidate": "John Maher",
+      "John Maher": "13",
+      "Frank A Pinto": "8",
+      "ward": 55,
+      "division": 22
+    },
+    {
+      "Candidate": "Frank A Pinto",
+      "John Maher": "8",
+      "Frank A Pinto": "0",
+      "ward": 55,
+      "division": 22
+    },
+    {
+      "Candidate": "Total",
+      "John Maher": "21",
+      "Frank A Pinto": "8",
+      "ward": 55,
+      "division": 22
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Maher": "John Maher",
+      "Frank A Pinto": "Frank A Pinto",
+      "ward": 55,
+      "division": 23
+    },
+    {
+      "Candidate": "John Maher",
+      "John Maher": "3",
+      "Frank A Pinto": "5",
+      "ward": 55,
+      "division": 23
+    },
+    {
+      "Candidate": "Frank A Pinto",
+      "John Maher": "5",
+      "Frank A Pinto": "1",
+      "ward": 55,
+      "division": 23
+    },
+    {
+      "Candidate": "Total",
+      "John Maher": "8",
+      "Frank A Pinto": "6",
+      "ward": 55,
+      "division": 23
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Maher": "John Maher",
+      "Frank A Pinto": "Frank A Pinto",
+      "ward": 55,
+      "division": 24
+    },
+    {
+      "Candidate": "John Maher",
+      "John Maher": "25",
+      "Frank A Pinto": "4",
+      "ward": 55,
+      "division": 24
+    },
+    {
+      "Candidate": "Frank A Pinto",
+      "John Maher": "4",
+      "Frank A Pinto": "0",
+      "ward": 55,
+      "division": 24
+    },
+    {
+      "Candidate": "Total",
+      "John Maher": "29",
+      "Frank A Pinto": "4",
+      "ward": 55,
+      "division": 24
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Maher": "John Maher",
+      "Frank A Pinto": "Frank A Pinto",
+      "ward": 55,
+      "division": 25
+    },
+    {
+      "Candidate": "John Maher",
+      "John Maher": "5",
+      "Frank A Pinto": "6",
+      "ward": 55,
+      "division": 25
+    },
+    {
+      "Candidate": "Frank A Pinto",
+      "John Maher": "6",
+      "Frank A Pinto": "1",
+      "ward": 55,
+      "division": 25
+    },
+    {
+      "Candidate": "Total",
+      "John Maher": "11",
+      "Frank A Pinto": "7",
+      "ward": 55,
+      "division": 25
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Maher": "John Maher",
+      "Frank A Pinto": "Frank A Pinto",
+      "ward": 55,
+      "division": 26
+    },
+    {
+      "Candidate": "John Maher",
+      "John Maher": "17",
+      "Frank A Pinto": "4",
+      "ward": 55,
+      "division": 26
+    },
+    {
+      "Candidate": "Frank A Pinto",
+      "John Maher": "4",
+      "Frank A Pinto": "0",
+      "ward": 55,
+      "division": 26
+    },
+    {
+      "Candidate": "Total",
+      "John Maher": "21",
+      "Frank A Pinto": "4",
+      "ward": 55,
+      "division": 26
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Maher": "John Maher",
+      "Frank A Pinto": "Frank A Pinto",
+      "ward": 55,
+      "division": 27
+    },
+    {
+      "Candidate": "John Maher",
+      "John Maher": "2",
+      "Frank A Pinto": "10",
+      "ward": 55,
+      "division": 27
+    },
+    {
+      "Candidate": "Frank A Pinto",
+      "John Maher": "10",
+      "Frank A Pinto": "1",
+      "ward": 55,
+      "division": 27
+    },
+    {
+      "Candidate": "Total",
+      "John Maher": "12",
+      "Frank A Pinto": "11",
+      "ward": 55,
+      "division": 27
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Maher": "John Maher",
+      "Frank A Pinto": "Frank A Pinto",
+      "ward": 55,
+      "division": 28
+    },
+    {
+      "Candidate": "John Maher",
+      "John Maher": "6",
+      "Frank A Pinto": "11",
+      "ward": 55,
+      "division": 28
+    },
+    {
+      "Candidate": "Frank A Pinto",
+      "John Maher": "11",
+      "Frank A Pinto": "0",
+      "ward": 55,
+      "division": 28
+    },
+    {
+      "Candidate": "Total",
+      "John Maher": "17",
+      "Frank A Pinto": "11",
+      "ward": 55,
+      "division": 28
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Maher": "John Maher",
+      "Frank A Pinto": "Frank A Pinto",
+      "ward": 55,
+      "division": 29
+    },
+    {
+      "Candidate": "John Maher",
+      "John Maher": "4",
+      "Frank A Pinto": "7",
+      "ward": 55,
+      "division": 29
+    },
+    {
+      "Candidate": "Frank A Pinto",
+      "John Maher": "7",
+      "Frank A Pinto": "0",
+      "ward": 55,
+      "division": 29
+    },
+    {
+      "Candidate": "Total",
+      "John Maher": "11",
+      "Frank A Pinto": "7",
+      "ward": 55,
+      "division": 29
+    }
+  ]
+]

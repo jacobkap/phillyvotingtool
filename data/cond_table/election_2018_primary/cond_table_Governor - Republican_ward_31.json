@@ -1,0 +1,828 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Paul Mango": "Paul Mango",
+      "Scott R Wagner": "Scott R Wagner",
+      "Laura Ellsworth": "Laura Ellsworth",
+      "Write In": "Write In",
+      "ward": 31,
+      "division": "All"
+    },
+    {
+      "Candidate": "Paul Mango",
+      "Paul Mango": "104",
+      "Scott R Wagner": "0",
+      "Laura Ellsworth": "0",
+      "Write In": "0",
+      "ward": 31,
+      "division": "All"
+    },
+    {
+      "Candidate": "Scott R Wagner",
+      "Paul Mango": "0",
+      "Scott R Wagner": "96",
+      "Laura Ellsworth": "0",
+      "Write In": "0",
+      "ward": 31,
+      "division": "All"
+    },
+    {
+      "Candidate": "Laura Ellsworth",
+      "Paul Mango": "0",
+      "Scott R Wagner": "0",
+      "Laura Ellsworth": "41",
+      "Write In": "0",
+      "ward": 31,
+      "division": "All"
+    },
+    {
+      "Candidate": "Write In",
+      "Paul Mango": "0",
+      "Scott R Wagner": "0",
+      "Laura Ellsworth": "0",
+      "Write In": "2",
+      "ward": 31,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Paul Mango": "104",
+      "Scott R Wagner": "96",
+      "Laura Ellsworth": "41",
+      "Write In": "2",
+      "ward": 31,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Laura Ellsworth": "Laura Ellsworth",
+      "Paul Mango": "Paul Mango",
+      "Scott R Wagner": "Scott R Wagner",
+      "ward": 31,
+      "division": 1
+    },
+    {
+      "Candidate": "Laura Ellsworth",
+      "Laura Ellsworth": "2",
+      "Paul Mango": "0",
+      "Scott R Wagner": "0",
+      "ward": 31,
+      "division": 1
+    },
+    {
+      "Candidate": "Paul Mango",
+      "Laura Ellsworth": "0",
+      "Paul Mango": "2",
+      "Scott R Wagner": "0",
+      "ward": 31,
+      "division": 1
+    },
+    {
+      "Candidate": "Scott R Wagner",
+      "Laura Ellsworth": "0",
+      "Paul Mango": "0",
+      "Scott R Wagner": "1",
+      "ward": 31,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Laura Ellsworth": "2",
+      "Paul Mango": "2",
+      "Scott R Wagner": "1",
+      "ward": 31,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Paul Mango": "Paul Mango",
+      "ward": 31,
+      "division": 2
+    },
+    {
+      "Candidate": "Paul Mango",
+      "Paul Mango": "1",
+      "ward": 31,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "Paul Mango": "1",
+      "ward": 31,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Laura Ellsworth": "Laura Ellsworth",
+      "Scott R Wagner": "Scott R Wagner",
+      "Paul Mango": "Paul Mango",
+      "ward": 31,
+      "division": 3
+    },
+    {
+      "Candidate": "Laura Ellsworth",
+      "Laura Ellsworth": "4",
+      "Scott R Wagner": "0",
+      "Paul Mango": "0",
+      "ward": 31,
+      "division": 3
+    },
+    {
+      "Candidate": "Scott R Wagner",
+      "Laura Ellsworth": "0",
+      "Scott R Wagner": "3",
+      "Paul Mango": "0",
+      "ward": 31,
+      "division": 3
+    },
+    {
+      "Candidate": "Paul Mango",
+      "Laura Ellsworth": "0",
+      "Scott R Wagner": "0",
+      "Paul Mango": "1",
+      "ward": 31,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Laura Ellsworth": "4",
+      "Scott R Wagner": "3",
+      "Paul Mango": "1",
+      "ward": 31,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Paul Mango": "Paul Mango",
+      "Scott R Wagner": "Scott R Wagner",
+      "Laura Ellsworth": "Laura Ellsworth",
+      "ward": 31,
+      "division": 4
+    },
+    {
+      "Candidate": "Paul Mango",
+      "Paul Mango": "9",
+      "Scott R Wagner": "0",
+      "Laura Ellsworth": "0",
+      "ward": 31,
+      "division": 4
+    },
+    {
+      "Candidate": "Scott R Wagner",
+      "Paul Mango": "0",
+      "Scott R Wagner": "7",
+      "Laura Ellsworth": "0",
+      "ward": 31,
+      "division": 4
+    },
+    {
+      "Candidate": "Laura Ellsworth",
+      "Paul Mango": "0",
+      "Scott R Wagner": "0",
+      "Laura Ellsworth": "2",
+      "ward": 31,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Paul Mango": "9",
+      "Scott R Wagner": "7",
+      "Laura Ellsworth": "2",
+      "ward": 31,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Paul Mango": "Paul Mango",
+      "Scott R Wagner": "Scott R Wagner",
+      "Laura Ellsworth": "Laura Ellsworth",
+      "Write In": "Write In",
+      "ward": 31,
+      "division": 5
+    },
+    {
+      "Candidate": "Paul Mango",
+      "Paul Mango": "6",
+      "Scott R Wagner": "0",
+      "Laura Ellsworth": "0",
+      "Write In": "0",
+      "ward": 31,
+      "division": 5
+    },
+    {
+      "Candidate": "Scott R Wagner",
+      "Paul Mango": "0",
+      "Scott R Wagner": "4",
+      "Laura Ellsworth": "0",
+      "Write In": "0",
+      "ward": 31,
+      "division": 5
+    },
+    {
+      "Candidate": "Laura Ellsworth",
+      "Paul Mango": "0",
+      "Scott R Wagner": "0",
+      "Laura Ellsworth": "2",
+      "Write In": "0",
+      "ward": 31,
+      "division": 5
+    },
+    {
+      "Candidate": "Write In",
+      "Paul Mango": "0",
+      "Scott R Wagner": "0",
+      "Laura Ellsworth": "0",
+      "Write In": "1",
+      "ward": 31,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Paul Mango": "6",
+      "Scott R Wagner": "4",
+      "Laura Ellsworth": "2",
+      "Write In": "1",
+      "ward": 31,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Laura Ellsworth": "Laura Ellsworth",
+      "Paul Mango": "Paul Mango",
+      "Scott R Wagner": "Scott R Wagner",
+      "ward": 31,
+      "division": 6
+    },
+    {
+      "Candidate": "Laura Ellsworth",
+      "Laura Ellsworth": "2",
+      "Paul Mango": "0",
+      "Scott R Wagner": "0",
+      "ward": 31,
+      "division": 6
+    },
+    {
+      "Candidate": "Paul Mango",
+      "Laura Ellsworth": "0",
+      "Paul Mango": "2",
+      "Scott R Wagner": "0",
+      "ward": 31,
+      "division": 6
+    },
+    {
+      "Candidate": "Scott R Wagner",
+      "Laura Ellsworth": "0",
+      "Paul Mango": "0",
+      "Scott R Wagner": "2",
+      "ward": 31,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "Laura Ellsworth": "2",
+      "Paul Mango": "2",
+      "Scott R Wagner": "2",
+      "ward": 31,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Paul Mango": "Paul Mango",
+      "Scott R Wagner": "Scott R Wagner",
+      "Laura Ellsworth": "Laura Ellsworth",
+      "ward": 31,
+      "division": 7
+    },
+    {
+      "Candidate": "Paul Mango",
+      "Paul Mango": "11",
+      "Scott R Wagner": "0",
+      "Laura Ellsworth": "0",
+      "ward": 31,
+      "division": 7
+    },
+    {
+      "Candidate": "Scott R Wagner",
+      "Paul Mango": "0",
+      "Scott R Wagner": "11",
+      "Laura Ellsworth": "0",
+      "ward": 31,
+      "division": 7
+    },
+    {
+      "Candidate": "Laura Ellsworth",
+      "Paul Mango": "0",
+      "Scott R Wagner": "0",
+      "Laura Ellsworth": "2",
+      "ward": 31,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Paul Mango": "11",
+      "Scott R Wagner": "11",
+      "Laura Ellsworth": "2",
+      "ward": 31,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Paul Mango": "Paul Mango",
+      "Scott R Wagner": "Scott R Wagner",
+      "Laura Ellsworth": "Laura Ellsworth",
+      "ward": 31,
+      "division": 8
+    },
+    {
+      "Candidate": "Paul Mango",
+      "Paul Mango": "10",
+      "Scott R Wagner": "0",
+      "Laura Ellsworth": "0",
+      "ward": 31,
+      "division": 8
+    },
+    {
+      "Candidate": "Scott R Wagner",
+      "Paul Mango": "0",
+      "Scott R Wagner": "3",
+      "Laura Ellsworth": "0",
+      "ward": 31,
+      "division": 8
+    },
+    {
+      "Candidate": "Laura Ellsworth",
+      "Paul Mango": "0",
+      "Scott R Wagner": "0",
+      "Laura Ellsworth": "2",
+      "ward": 31,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Paul Mango": "10",
+      "Scott R Wagner": "3",
+      "Laura Ellsworth": "2",
+      "ward": 31,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Laura Ellsworth": "Laura Ellsworth",
+      "ward": 31,
+      "division": 9
+    },
+    {
+      "Candidate": "Laura Ellsworth",
+      "Laura Ellsworth": "1",
+      "ward": 31,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Laura Ellsworth": "1",
+      "ward": 31,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Paul Mango": "Paul Mango",
+      "Scott R Wagner": "Scott R Wagner",
+      "Laura Ellsworth": "Laura Ellsworth",
+      "ward": 31,
+      "division": 10
+    },
+    {
+      "Candidate": "Paul Mango",
+      "Paul Mango": "6",
+      "Scott R Wagner": "0",
+      "Laura Ellsworth": "0",
+      "ward": 31,
+      "division": 10
+    },
+    {
+      "Candidate": "Scott R Wagner",
+      "Paul Mango": "0",
+      "Scott R Wagner": "2",
+      "Laura Ellsworth": "0",
+      "ward": 31,
+      "division": 10
+    },
+    {
+      "Candidate": "Laura Ellsworth",
+      "Paul Mango": "0",
+      "Scott R Wagner": "0",
+      "Laura Ellsworth": "1",
+      "ward": 31,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Paul Mango": "6",
+      "Scott R Wagner": "2",
+      "Laura Ellsworth": "1",
+      "ward": 31,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Paul Mango": "Paul Mango",
+      "Scott R Wagner": "Scott R Wagner",
+      "Laura Ellsworth": "Laura Ellsworth",
+      "Write In": "Write In",
+      "ward": 31,
+      "division": 11
+    },
+    {
+      "Candidate": "Paul Mango",
+      "Paul Mango": "7",
+      "Scott R Wagner": "0",
+      "Laura Ellsworth": "0",
+      "Write In": "0",
+      "ward": 31,
+      "division": 11
+    },
+    {
+      "Candidate": "Scott R Wagner",
+      "Paul Mango": "0",
+      "Scott R Wagner": "4",
+      "Laura Ellsworth": "0",
+      "Write In": "0",
+      "ward": 31,
+      "division": 11
+    },
+    {
+      "Candidate": "Laura Ellsworth",
+      "Paul Mango": "0",
+      "Scott R Wagner": "0",
+      "Laura Ellsworth": "3",
+      "Write In": "0",
+      "ward": 31,
+      "division": 11
+    },
+    {
+      "Candidate": "Write In",
+      "Paul Mango": "0",
+      "Scott R Wagner": "0",
+      "Laura Ellsworth": "0",
+      "Write In": "1",
+      "ward": 31,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Paul Mango": "7",
+      "Scott R Wagner": "4",
+      "Laura Ellsworth": "3",
+      "Write In": "1",
+      "ward": 31,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Scott R Wagner": "Scott R Wagner",
+      "Paul Mango": "Paul Mango",
+      "ward": 31,
+      "division": 12
+    },
+    {
+      "Candidate": "Scott R Wagner",
+      "Scott R Wagner": "3",
+      "Paul Mango": "0",
+      "ward": 31,
+      "division": 12
+    },
+    {
+      "Candidate": "Paul Mango",
+      "Scott R Wagner": "0",
+      "Paul Mango": "1",
+      "ward": 31,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Scott R Wagner": "3",
+      "Paul Mango": "1",
+      "ward": 31,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Scott R Wagner": "Scott R Wagner",
+      "Laura Ellsworth": "Laura Ellsworth",
+      "Paul Mango": "Paul Mango",
+      "ward": 31,
+      "division": 13
+    },
+    {
+      "Candidate": "Scott R Wagner",
+      "Scott R Wagner": "9",
+      "Laura Ellsworth": "0",
+      "Paul Mango": "0",
+      "ward": 31,
+      "division": 13
+    },
+    {
+      "Candidate": "Laura Ellsworth",
+      "Scott R Wagner": "0",
+      "Laura Ellsworth": "4",
+      "Paul Mango": "0",
+      "ward": 31,
+      "division": 13
+    },
+    {
+      "Candidate": "Paul Mango",
+      "Scott R Wagner": "0",
+      "Laura Ellsworth": "0",
+      "Paul Mango": "2",
+      "ward": 31,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "Scott R Wagner": "9",
+      "Laura Ellsworth": "4",
+      "Paul Mango": "2",
+      "ward": 31,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Paul Mango": "Paul Mango",
+      "Scott R Wagner": "Scott R Wagner",
+      "Laura Ellsworth": "Laura Ellsworth",
+      "ward": 31,
+      "division": 14
+    },
+    {
+      "Candidate": "Paul Mango",
+      "Paul Mango": "8",
+      "Scott R Wagner": "0",
+      "Laura Ellsworth": "0",
+      "ward": 31,
+      "division": 14
+    },
+    {
+      "Candidate": "Scott R Wagner",
+      "Paul Mango": "0",
+      "Scott R Wagner": "7",
+      "Laura Ellsworth": "0",
+      "ward": 31,
+      "division": 14
+    },
+    {
+      "Candidate": "Laura Ellsworth",
+      "Paul Mango": "0",
+      "Scott R Wagner": "0",
+      "Laura Ellsworth": "3",
+      "ward": 31,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "Paul Mango": "8",
+      "Scott R Wagner": "7",
+      "Laura Ellsworth": "3",
+      "ward": 31,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Scott R Wagner": "Scott R Wagner",
+      "Paul Mango": "Paul Mango",
+      "Laura Ellsworth": "Laura Ellsworth",
+      "ward": 31,
+      "division": 15
+    },
+    {
+      "Candidate": "Scott R Wagner",
+      "Scott R Wagner": "8",
+      "Paul Mango": "0",
+      "Laura Ellsworth": "0",
+      "ward": 31,
+      "division": 15
+    },
+    {
+      "Candidate": "Paul Mango",
+      "Scott R Wagner": "0",
+      "Paul Mango": "2",
+      "Laura Ellsworth": "0",
+      "ward": 31,
+      "division": 15
+    },
+    {
+      "Candidate": "Laura Ellsworth",
+      "Scott R Wagner": "0",
+      "Paul Mango": "0",
+      "Laura Ellsworth": "1",
+      "ward": 31,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "Scott R Wagner": "8",
+      "Paul Mango": "2",
+      "Laura Ellsworth": "1",
+      "ward": 31,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Paul Mango": "Paul Mango",
+      "Scott R Wagner": "Scott R Wagner",
+      "Laura Ellsworth": "Laura Ellsworth",
+      "ward": 31,
+      "division": 16
+    },
+    {
+      "Candidate": "Paul Mango",
+      "Paul Mango": "7",
+      "Scott R Wagner": "0",
+      "Laura Ellsworth": "0",
+      "ward": 31,
+      "division": 16
+    },
+    {
+      "Candidate": "Scott R Wagner",
+      "Paul Mango": "0",
+      "Scott R Wagner": "6",
+      "Laura Ellsworth": "0",
+      "ward": 31,
+      "division": 16
+    },
+    {
+      "Candidate": "Laura Ellsworth",
+      "Paul Mango": "0",
+      "Scott R Wagner": "0",
+      "Laura Ellsworth": "5",
+      "ward": 31,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "Paul Mango": "7",
+      "Scott R Wagner": "6",
+      "Laura Ellsworth": "5",
+      "ward": 31,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Paul Mango": "Paul Mango",
+      "Scott R Wagner": "Scott R Wagner",
+      "Laura Ellsworth": "Laura Ellsworth",
+      "ward": 31,
+      "division": 17
+    },
+    {
+      "Candidate": "Paul Mango",
+      "Paul Mango": "10",
+      "Scott R Wagner": "0",
+      "Laura Ellsworth": "0",
+      "ward": 31,
+      "division": 17
+    },
+    {
+      "Candidate": "Scott R Wagner",
+      "Paul Mango": "0",
+      "Scott R Wagner": "10",
+      "Laura Ellsworth": "0",
+      "ward": 31,
+      "division": 17
+    },
+    {
+      "Candidate": "Laura Ellsworth",
+      "Paul Mango": "0",
+      "Scott R Wagner": "0",
+      "Laura Ellsworth": "4",
+      "ward": 31,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "Paul Mango": "10",
+      "Scott R Wagner": "10",
+      "Laura Ellsworth": "4",
+      "ward": 31,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Paul Mango": "Paul Mango",
+      "Scott R Wagner": "Scott R Wagner",
+      "Laura Ellsworth": "Laura Ellsworth",
+      "ward": 31,
+      "division": 18
+    },
+    {
+      "Candidate": "Paul Mango",
+      "Paul Mango": "10",
+      "Scott R Wagner": "0",
+      "Laura Ellsworth": "0",
+      "ward": 31,
+      "division": 18
+    },
+    {
+      "Candidate": "Scott R Wagner",
+      "Paul Mango": "0",
+      "Scott R Wagner": "6",
+      "Laura Ellsworth": "0",
+      "ward": 31,
+      "division": 18
+    },
+    {
+      "Candidate": "Laura Ellsworth",
+      "Paul Mango": "0",
+      "Scott R Wagner": "0",
+      "Laura Ellsworth": "1",
+      "ward": 31,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "Paul Mango": "10",
+      "Scott R Wagner": "6",
+      "Laura Ellsworth": "1",
+      "ward": 31,
+      "division": 18
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Scott R Wagner": "Scott R Wagner",
+      "Paul Mango": "Paul Mango",
+      "Laura Ellsworth": "Laura Ellsworth",
+      "ward": 31,
+      "division": 19
+    },
+    {
+      "Candidate": "Scott R Wagner",
+      "Scott R Wagner": "10",
+      "Paul Mango": "0",
+      "Laura Ellsworth": "0",
+      "ward": 31,
+      "division": 19
+    },
+    {
+      "Candidate": "Paul Mango",
+      "Scott R Wagner": "0",
+      "Paul Mango": "9",
+      "Laura Ellsworth": "0",
+      "ward": 31,
+      "division": 19
+    },
+    {
+      "Candidate": "Laura Ellsworth",
+      "Scott R Wagner": "0",
+      "Paul Mango": "0",
+      "Laura Ellsworth": "2",
+      "ward": 31,
+      "division": 19
+    },
+    {
+      "Candidate": "Total",
+      "Scott R Wagner": "10",
+      "Paul Mango": "9",
+      "Laura Ellsworth": "2",
+      "ward": 31,
+      "division": 19
+    }
+  ]
+]

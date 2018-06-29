@@ -137,6 +137,13 @@ function updateChart(type) {
           text: title_text,
           fontSize: 14
         },
+        scales: {
+          yAxes: [{
+            ticks: {
+              beginAtZero: true
+            }
+          }]
+        },
         tooltips: {
           enabled: true,
           mode: 'single',

@@ -1,0 +1,958 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Annie Havey": "Annie Havey",
+      "Monika A Czapla": "Monika A Czapla",
+      "Jimmy Dintino": "Jimmy Dintino",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "ward": 31,
+      "division": "All"
+    },
+    {
+      "Candidate": "Annie Havey",
+      "Annie Havey": "29",
+      "Monika A Czapla": "102",
+      "Jimmy Dintino": "41",
+      "Christopher M Vogler": "39",
+      "ward": 31,
+      "division": "All"
+    },
+    {
+      "Candidate": "Monika A Czapla",
+      "Annie Havey": "102",
+      "Monika A Czapla": "8",
+      "Jimmy Dintino": "40",
+      "Christopher M Vogler": "41",
+      "ward": 31,
+      "division": "All"
+    },
+    {
+      "Candidate": "Jimmy Dintino",
+      "Annie Havey": "41",
+      "Monika A Czapla": "40",
+      "Jimmy Dintino": "7",
+      "Christopher M Vogler": "44",
+      "ward": 31,
+      "division": "All"
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Annie Havey": "39",
+      "Monika A Czapla": "41",
+      "Jimmy Dintino": "44",
+      "Christopher M Vogler": "2",
+      "ward": 31,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Annie Havey": "133",
+      "Monika A Czapla": "112",
+      "Jimmy Dintino": "53",
+      "Christopher M Vogler": "47",
+      "ward": 31,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Annie Havey": "Annie Havey",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "Monika A Czapla": "Monika A Czapla",
+      "Jimmy Dintino": "Jimmy Dintino",
+      "ward": 31,
+      "division": 3
+    },
+    {
+      "Candidate": "Annie Havey",
+      "Annie Havey": "1",
+      "Christopher M Vogler": "2",
+      "Monika A Czapla": "3",
+      "Jimmy Dintino": "2",
+      "ward": 31,
+      "division": 3
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Annie Havey": "2",
+      "Christopher M Vogler": "1",
+      "Monika A Czapla": "2",
+      "Jimmy Dintino": "2",
+      "ward": 31,
+      "division": 3
+    },
+    {
+      "Candidate": "Monika A Czapla",
+      "Annie Havey": "3",
+      "Christopher M Vogler": "2",
+      "Monika A Czapla": "0",
+      "Jimmy Dintino": "2",
+      "ward": 31,
+      "division": 3
+    },
+    {
+      "Candidate": "Jimmy Dintino",
+      "Annie Havey": "2",
+      "Christopher M Vogler": "2",
+      "Monika A Czapla": "2",
+      "Jimmy Dintino": "0",
+      "ward": 31,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Annie Havey": "4",
+      "Christopher M Vogler": "3",
+      "Monika A Czapla": "3",
+      "Jimmy Dintino": "2",
+      "ward": 31,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Annie Havey": "Annie Havey",
+      "Monika A Czapla": "Monika A Czapla",
+      "Jimmy Dintino": "Jimmy Dintino",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "ward": 31,
+      "division": 4
+    },
+    {
+      "Candidate": "Annie Havey",
+      "Annie Havey": "2",
+      "Monika A Czapla": "6",
+      "Jimmy Dintino": "3",
+      "Christopher M Vogler": "3",
+      "ward": 31,
+      "division": 4
+    },
+    {
+      "Candidate": "Monika A Czapla",
+      "Annie Havey": "6",
+      "Monika A Czapla": "0",
+      "Jimmy Dintino": "3",
+      "Christopher M Vogler": "3",
+      "ward": 31,
+      "division": 4
+    },
+    {
+      "Candidate": "Jimmy Dintino",
+      "Annie Havey": "3",
+      "Monika A Czapla": "3",
+      "Jimmy Dintino": "1",
+      "Christopher M Vogler": "3",
+      "ward": 31,
+      "division": 4
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Annie Havey": "3",
+      "Monika A Czapla": "3",
+      "Jimmy Dintino": "3",
+      "Christopher M Vogler": "0",
+      "ward": 31,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Annie Havey": "8",
+      "Monika A Czapla": "6",
+      "Jimmy Dintino": "4",
+      "Christopher M Vogler": "3",
+      "ward": 31,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Monika A Czapla": "Monika A Czapla",
+      "Annie Havey": "Annie Havey",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "Jimmy Dintino": "Jimmy Dintino",
+      "ward": 31,
+      "division": 5
+    },
+    {
+      "Candidate": "Monika A Czapla",
+      "Monika A Czapla": "1",
+      "Annie Havey": "8",
+      "Christopher M Vogler": "2",
+      "Jimmy Dintino": "2",
+      "ward": 31,
+      "division": 5
+    },
+    {
+      "Candidate": "Annie Havey",
+      "Monika A Czapla": "8",
+      "Annie Havey": "0",
+      "Christopher M Vogler": "2",
+      "Jimmy Dintino": "2",
+      "ward": 31,
+      "division": 5
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Monika A Czapla": "2",
+      "Annie Havey": "2",
+      "Christopher M Vogler": "0",
+      "Jimmy Dintino": "2",
+      "ward": 31,
+      "division": 5
+    },
+    {
+      "Candidate": "Jimmy Dintino",
+      "Monika A Czapla": "2",
+      "Annie Havey": "2",
+      "Christopher M Vogler": "2",
+      "Jimmy Dintino": "0",
+      "ward": 31,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Monika A Czapla": "9",
+      "Annie Havey": "8",
+      "Christopher M Vogler": "2",
+      "Jimmy Dintino": "2",
+      "ward": 31,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Annie Havey": "Annie Havey",
+      "Monika A Czapla": "Monika A Czapla",
+      "Jimmy Dintino": "Jimmy Dintino",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "ward": 31,
+      "division": 6
+    },
+    {
+      "Candidate": "Annie Havey",
+      "Annie Havey": "2",
+      "Monika A Czapla": "6",
+      "Jimmy Dintino": "2",
+      "Christopher M Vogler": "1",
+      "ward": 31,
+      "division": 6
+    },
+    {
+      "Candidate": "Monika A Czapla",
+      "Annie Havey": "6",
+      "Monika A Czapla": "1",
+      "Jimmy Dintino": "1",
+      "Christopher M Vogler": "1",
+      "ward": 31,
+      "division": 6
+    },
+    {
+      "Candidate": "Jimmy Dintino",
+      "Annie Havey": "2",
+      "Monika A Czapla": "1",
+      "Jimmy Dintino": "0",
+      "Christopher M Vogler": "1",
+      "ward": 31,
+      "division": 6
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Annie Havey": "1",
+      "Monika A Czapla": "1",
+      "Jimmy Dintino": "1",
+      "Christopher M Vogler": "0",
+      "ward": 31,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "Annie Havey": "9",
+      "Monika A Czapla": "7",
+      "Jimmy Dintino": "2",
+      "Christopher M Vogler": "1",
+      "ward": 31,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Annie Havey": "Annie Havey",
+      "Monika A Czapla": "Monika A Czapla",
+      "Jimmy Dintino": "Jimmy Dintino",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "ward": 31,
+      "division": 7
+    },
+    {
+      "Candidate": "Annie Havey",
+      "Annie Havey": "2",
+      "Monika A Czapla": "14",
+      "Jimmy Dintino": "7",
+      "Christopher M Vogler": "7",
+      "ward": 31,
+      "division": 7
+    },
+    {
+      "Candidate": "Monika A Czapla",
+      "Annie Havey": "14",
+      "Monika A Czapla": "0",
+      "Jimmy Dintino": "8",
+      "Christopher M Vogler": "8",
+      "ward": 31,
+      "division": 7
+    },
+    {
+      "Candidate": "Jimmy Dintino",
+      "Annie Havey": "7",
+      "Monika A Czapla": "8",
+      "Jimmy Dintino": "1",
+      "Christopher M Vogler": "9",
+      "ward": 31,
+      "division": 7
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Annie Havey": "7",
+      "Monika A Czapla": "8",
+      "Jimmy Dintino": "9",
+      "Christopher M Vogler": "0",
+      "ward": 31,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Annie Havey": "16",
+      "Monika A Czapla": "15",
+      "Jimmy Dintino": "10",
+      "Christopher M Vogler": "9",
+      "ward": 31,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Annie Havey": "Annie Havey",
+      "Monika A Czapla": "Monika A Czapla",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "Jimmy Dintino": "Jimmy Dintino",
+      "ward": 31,
+      "division": 8
+    },
+    {
+      "Candidate": "Annie Havey",
+      "Annie Havey": "4",
+      "Monika A Czapla": "7",
+      "Christopher M Vogler": "1",
+      "Jimmy Dintino": "1",
+      "ward": 31,
+      "division": 8
+    },
+    {
+      "Candidate": "Monika A Czapla",
+      "Annie Havey": "7",
+      "Monika A Czapla": "0",
+      "Christopher M Vogler": "1",
+      "Jimmy Dintino": "1",
+      "ward": 31,
+      "division": 8
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Annie Havey": "1",
+      "Monika A Czapla": "1",
+      "Christopher M Vogler": "0",
+      "Jimmy Dintino": "1",
+      "ward": 31,
+      "division": 8
+    },
+    {
+      "Candidate": "Jimmy Dintino",
+      "Annie Havey": "1",
+      "Monika A Czapla": "1",
+      "Christopher M Vogler": "1",
+      "Jimmy Dintino": "0",
+      "ward": 31,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Annie Havey": "11",
+      "Monika A Czapla": "7",
+      "Christopher M Vogler": "1",
+      "Jimmy Dintino": "1",
+      "ward": 31,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Annie Havey": "Annie Havey",
+      "Monika A Czapla": "Monika A Czapla",
+      "ward": 31,
+      "division": 9
+    },
+    {
+      "Candidate": "Annie Havey",
+      "Annie Havey": "1",
+      "Monika A Czapla": "2",
+      "ward": 31,
+      "division": 9
+    },
+    {
+      "Candidate": "Monika A Czapla",
+      "Annie Havey": "2",
+      "Monika A Czapla": "0",
+      "ward": 31,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Annie Havey": "3",
+      "Monika A Czapla": "2",
+      "ward": 31,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Annie Havey": "Annie Havey",
+      "Monika A Czapla": "Monika A Czapla",
+      "ward": 31,
+      "division": 10
+    },
+    {
+      "Candidate": "Annie Havey",
+      "Annie Havey": "2",
+      "Monika A Czapla": "3",
+      "ward": 31,
+      "division": 10
+    },
+    {
+      "Candidate": "Monika A Czapla",
+      "Annie Havey": "3",
+      "Monika A Czapla": "1",
+      "ward": 31,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Annie Havey": "5",
+      "Monika A Czapla": "4",
+      "ward": 31,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Annie Havey": "Annie Havey",
+      "Monika A Czapla": "Monika A Czapla",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "Jimmy Dintino": "Jimmy Dintino",
+      "ward": 31,
+      "division": 11
+    },
+    {
+      "Candidate": "Annie Havey",
+      "Annie Havey": "2",
+      "Monika A Czapla": "3",
+      "Christopher M Vogler": "2",
+      "Jimmy Dintino": "2",
+      "ward": 31,
+      "division": 11
+    },
+    {
+      "Candidate": "Monika A Czapla",
+      "Annie Havey": "3",
+      "Monika A Czapla": "0",
+      "Christopher M Vogler": "3",
+      "Jimmy Dintino": "2",
+      "ward": 31,
+      "division": 11
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Annie Havey": "2",
+      "Monika A Czapla": "3",
+      "Christopher M Vogler": "0",
+      "Jimmy Dintino": "2",
+      "ward": 31,
+      "division": 11
+    },
+    {
+      "Candidate": "Jimmy Dintino",
+      "Annie Havey": "2",
+      "Monika A Czapla": "2",
+      "Christopher M Vogler": "2",
+      "Jimmy Dintino": "1",
+      "ward": 31,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Annie Havey": "5",
+      "Monika A Czapla": "4",
+      "Christopher M Vogler": "3",
+      "Jimmy Dintino": "3",
+      "ward": 31,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Annie Havey": "Annie Havey",
+      "Monika A Czapla": "Monika A Czapla",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "Jimmy Dintino": "Jimmy Dintino",
+      "ward": 31,
+      "division": 12
+    },
+    {
+      "Candidate": "Annie Havey",
+      "Annie Havey": "1",
+      "Monika A Czapla": "5",
+      "Christopher M Vogler": "1",
+      "Jimmy Dintino": "1",
+      "ward": 31,
+      "division": 12
+    },
+    {
+      "Candidate": "Monika A Czapla",
+      "Annie Havey": "5",
+      "Monika A Czapla": "0",
+      "Christopher M Vogler": "1",
+      "Jimmy Dintino": "1",
+      "ward": 31,
+      "division": 12
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Annie Havey": "1",
+      "Monika A Czapla": "1",
+      "Christopher M Vogler": "0",
+      "Jimmy Dintino": "1",
+      "ward": 31,
+      "division": 12
+    },
+    {
+      "Candidate": "Jimmy Dintino",
+      "Annie Havey": "1",
+      "Monika A Czapla": "1",
+      "Christopher M Vogler": "1",
+      "Jimmy Dintino": "0",
+      "ward": 31,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Annie Havey": "6",
+      "Monika A Czapla": "5",
+      "Christopher M Vogler": "1",
+      "Jimmy Dintino": "1",
+      "ward": 31,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Annie Havey": "Annie Havey",
+      "Monika A Czapla": "Monika A Czapla",
+      "Jimmy Dintino": "Jimmy Dintino",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "ward": 31,
+      "division": 13
+    },
+    {
+      "Candidate": "Annie Havey",
+      "Annie Havey": "2",
+      "Monika A Czapla": "9",
+      "Jimmy Dintino": "5",
+      "Christopher M Vogler": "5",
+      "ward": 31,
+      "division": 13
+    },
+    {
+      "Candidate": "Monika A Czapla",
+      "Annie Havey": "9",
+      "Monika A Czapla": "0",
+      "Jimmy Dintino": "5",
+      "Christopher M Vogler": "5",
+      "ward": 31,
+      "division": 13
+    },
+    {
+      "Candidate": "Jimmy Dintino",
+      "Annie Havey": "5",
+      "Monika A Czapla": "5",
+      "Jimmy Dintino": "1",
+      "Christopher M Vogler": "5",
+      "ward": 31,
+      "division": 13
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Annie Havey": "5",
+      "Monika A Czapla": "5",
+      "Jimmy Dintino": "5",
+      "Christopher M Vogler": "0",
+      "ward": 31,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "Annie Havey": "11",
+      "Monika A Czapla": "9",
+      "Jimmy Dintino": "6",
+      "Christopher M Vogler": "5",
+      "ward": 31,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Annie Havey": "Annie Havey",
+      "Monika A Czapla": "Monika A Czapla",
+      "Jimmy Dintino": "Jimmy Dintino",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "ward": 31,
+      "division": 14
+    },
+    {
+      "Candidate": "Annie Havey",
+      "Annie Havey": "1",
+      "Monika A Czapla": "7",
+      "Jimmy Dintino": "5",
+      "Christopher M Vogler": "4",
+      "ward": 31,
+      "division": 14
+    },
+    {
+      "Candidate": "Monika A Czapla",
+      "Annie Havey": "7",
+      "Monika A Czapla": "1",
+      "Jimmy Dintino": "4",
+      "Christopher M Vogler": "4",
+      "ward": 31,
+      "division": 14
+    },
+    {
+      "Candidate": "Jimmy Dintino",
+      "Annie Havey": "5",
+      "Monika A Czapla": "4",
+      "Jimmy Dintino": "0",
+      "Christopher M Vogler": "4",
+      "ward": 31,
+      "division": 14
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Annie Havey": "4",
+      "Monika A Czapla": "4",
+      "Jimmy Dintino": "4",
+      "Christopher M Vogler": "0",
+      "ward": 31,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "Annie Havey": "9",
+      "Monika A Czapla": "8",
+      "Jimmy Dintino": "5",
+      "Christopher M Vogler": "4",
+      "ward": 31,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Annie Havey": "Annie Havey",
+      "Monika A Czapla": "Monika A Czapla",
+      "Jimmy Dintino": "Jimmy Dintino",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "ward": 31,
+      "division": 15
+    },
+    {
+      "Candidate": "Annie Havey",
+      "Annie Havey": "3",
+      "Monika A Czapla": "8",
+      "Jimmy Dintino": "2",
+      "Christopher M Vogler": "2",
+      "ward": 31,
+      "division": 15
+    },
+    {
+      "Candidate": "Monika A Czapla",
+      "Annie Havey": "8",
+      "Monika A Czapla": "2",
+      "Jimmy Dintino": "2",
+      "Christopher M Vogler": "2",
+      "ward": 31,
+      "division": 15
+    },
+    {
+      "Candidate": "Jimmy Dintino",
+      "Annie Havey": "2",
+      "Monika A Czapla": "2",
+      "Jimmy Dintino": "2",
+      "Christopher M Vogler": "2",
+      "ward": 31,
+      "division": 15
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Annie Havey": "2",
+      "Monika A Czapla": "2",
+      "Jimmy Dintino": "2",
+      "Christopher M Vogler": "0",
+      "ward": 31,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "Annie Havey": "11",
+      "Monika A Czapla": "10",
+      "Jimmy Dintino": "4",
+      "Christopher M Vogler": "2",
+      "ward": 31,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Annie Havey": "Annie Havey",
+      "Monika A Czapla": "Monika A Czapla",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "Jimmy Dintino": "Jimmy Dintino",
+      "ward": 31,
+      "division": 16
+    },
+    {
+      "Candidate": "Annie Havey",
+      "Annie Havey": "3",
+      "Monika A Czapla": "11",
+      "Christopher M Vogler": "4",
+      "Jimmy Dintino": "4",
+      "ward": 31,
+      "division": 16
+    },
+    {
+      "Candidate": "Monika A Czapla",
+      "Annie Havey": "11",
+      "Monika A Czapla": "1",
+      "Christopher M Vogler": "4",
+      "Jimmy Dintino": "4",
+      "ward": 31,
+      "division": 16
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Annie Havey": "4",
+      "Monika A Czapla": "4",
+      "Christopher M Vogler": "1",
+      "Jimmy Dintino": "4",
+      "ward": 31,
+      "division": 16
+    },
+    {
+      "Candidate": "Jimmy Dintino",
+      "Annie Havey": "4",
+      "Monika A Czapla": "4",
+      "Christopher M Vogler": "4",
+      "Jimmy Dintino": "0",
+      "ward": 31,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "Annie Havey": "14",
+      "Monika A Czapla": "12",
+      "Christopher M Vogler": "5",
+      "Jimmy Dintino": "4",
+      "ward": 31,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Jimmy Dintino": "Jimmy Dintino",
+      "Annie Havey": "Annie Havey",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "Monika A Czapla": "Monika A Czapla",
+      "ward": 31,
+      "division": 17
+    },
+    {
+      "Candidate": "Jimmy Dintino",
+      "Jimmy Dintino": "1",
+      "Annie Havey": "4",
+      "Christopher M Vogler": "5",
+      "Monika A Czapla": "4",
+      "ward": 31,
+      "division": 17
+    },
+    {
+      "Candidate": "Annie Havey",
+      "Jimmy Dintino": "4",
+      "Annie Havey": "0",
+      "Christopher M Vogler": "4",
+      "Monika A Czapla": "5",
+      "ward": 31,
+      "division": 17
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Jimmy Dintino": "5",
+      "Annie Havey": "4",
+      "Christopher M Vogler": "0",
+      "Monika A Czapla": "4",
+      "ward": 31,
+      "division": 17
+    },
+    {
+      "Candidate": "Monika A Czapla",
+      "Jimmy Dintino": "4",
+      "Annie Havey": "5",
+      "Christopher M Vogler": "4",
+      "Monika A Czapla": "0",
+      "ward": 31,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "Jimmy Dintino": "6",
+      "Annie Havey": "5",
+      "Christopher M Vogler": "5",
+      "Monika A Czapla": "5",
+      "ward": 31,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Annie Havey": "Annie Havey",
+      "Monika A Czapla": "Monika A Czapla",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "Jimmy Dintino": "Jimmy Dintino",
+      "ward": 31,
+      "division": 18
+    },
+    {
+      "Candidate": "Annie Havey",
+      "Annie Havey": "2",
+      "Monika A Czapla": "2",
+      "Christopher M Vogler": "0",
+      "Jimmy Dintino": "0",
+      "ward": 31,
+      "division": 18
+    },
+    {
+      "Candidate": "Monika A Czapla",
+      "Annie Havey": "2",
+      "Monika A Czapla": "0",
+      "Christopher M Vogler": "0",
+      "Jimmy Dintino": "0",
+      "ward": 31,
+      "division": 18
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Annie Havey": "0",
+      "Monika A Czapla": "0",
+      "Christopher M Vogler": "0",
+      "Jimmy Dintino": "1",
+      "ward": 31,
+      "division": 18
+    },
+    {
+      "Candidate": "Jimmy Dintino",
+      "Annie Havey": "0",
+      "Monika A Czapla": "0",
+      "Christopher M Vogler": "1",
+      "Jimmy Dintino": "0",
+      "ward": 31,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "Annie Havey": "4",
+      "Monika A Czapla": "2",
+      "Christopher M Vogler": "1",
+      "Jimmy Dintino": "1",
+      "ward": 31,
+      "division": 18
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Annie Havey": "Annie Havey",
+      "Monika A Czapla": "Monika A Czapla",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "Jimmy Dintino": "Jimmy Dintino",
+      "ward": 31,
+      "division": 19
+    },
+    {
+      "Candidate": "Annie Havey",
+      "Annie Havey": "1",
+      "Monika A Czapla": "3",
+      "Christopher M Vogler": "1",
+      "Jimmy Dintino": "1",
+      "ward": 31,
+      "division": 19
+    },
+    {
+      "Candidate": "Monika A Czapla",
+      "Annie Havey": "3",
+      "Monika A Czapla": "1",
+      "Christopher M Vogler": "1",
+      "Jimmy Dintino": "1",
+      "ward": 31,
+      "division": 19
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Annie Havey": "1",
+      "Monika A Czapla": "1",
+      "Christopher M Vogler": "0",
+      "Jimmy Dintino": "2",
+      "ward": 31,
+      "division": 19
+    },
+    {
+      "Candidate": "Jimmy Dintino",
+      "Annie Havey": "1",
+      "Monika A Czapla": "1",
+      "Christopher M Vogler": "2",
+      "Jimmy Dintino": "0",
+      "ward": 31,
+      "division": 19
+    },
+    {
+      "Candidate": "Total",
+      "Annie Havey": "4",
+      "Monika A Czapla": "4",
+      "Christopher M Vogler": "2",
+      "Jimmy Dintino": "2",
+      "ward": 31,
+      "division": 19
+    }
+  ]
+]

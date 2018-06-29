@@ -1,0 +1,2196 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Kathy Enggasser": "Kathy Enggasser",
+      "Louis Farinella": "Louis Farinella",
+      "Patrick Parkinson": "Patrick Parkinson",
+      "Barbara A Deeley": "Barbara A Deeley",
+      "Mary Ann Quartullo": "Mary Ann Quartullo",
+      "Write In": "Write In",
+      "Jacqulyne Scott": "Jacqulyne Scott",
+      "Larry King": "Larry King",
+      "ward": 45,
+      "division": "All"
+    },
+    {
+      "Candidate": "Kathy Enggasser",
+      "Kathy Enggasser": "259",
+      "Louis Farinella": "194",
+      "Patrick Parkinson": "187",
+      "Barbara A Deeley": "181",
+      "Mary Ann Quartullo": "171",
+      "Write In": "8",
+      "Jacqulyne Scott": "3",
+      "Larry King": "3",
+      "ward": 45,
+      "division": "All"
+    },
+    {
+      "Candidate": "Louis Farinella",
+      "Kathy Enggasser": "194",
+      "Louis Farinella": "73",
+      "Patrick Parkinson": "167",
+      "Barbara A Deeley": "158",
+      "Mary Ann Quartullo": "161",
+      "Write In": "3",
+      "Jacqulyne Scott": "4",
+      "Larry King": "4",
+      "ward": 45,
+      "division": "All"
+    },
+    {
+      "Candidate": "Patrick Parkinson",
+      "Kathy Enggasser": "187",
+      "Louis Farinella": "167",
+      "Patrick Parkinson": "33",
+      "Barbara A Deeley": "173",
+      "Mary Ann Quartullo": "162",
+      "Write In": "3",
+      "Jacqulyne Scott": "4",
+      "Larry King": "4",
+      "ward": 45,
+      "division": "All"
+    },
+    {
+      "Candidate": "Barbara A Deeley",
+      "Kathy Enggasser": "181",
+      "Louis Farinella": "158",
+      "Patrick Parkinson": "173",
+      "Barbara A Deeley": "19",
+      "Mary Ann Quartullo": "168",
+      "Write In": "3",
+      "Jacqulyne Scott": "4",
+      "Larry King": "4",
+      "ward": 45,
+      "division": "All"
+    },
+    {
+      "Candidate": "Mary Ann Quartullo",
+      "Kathy Enggasser": "171",
+      "Louis Farinella": "161",
+      "Patrick Parkinson": "162",
+      "Barbara A Deeley": "168",
+      "Mary Ann Quartullo": "10",
+      "Write In": "3",
+      "Jacqulyne Scott": "3",
+      "Larry King": "3",
+      "ward": 45,
+      "division": "All"
+    },
+    {
+      "Candidate": "Write In",
+      "Kathy Enggasser": "8",
+      "Louis Farinella": "3",
+      "Patrick Parkinson": "3",
+      "Barbara A Deeley": "3",
+      "Mary Ann Quartullo": "3",
+      "Write In": "1",
+      "Jacqulyne Scott": "0",
+      "Larry King": "0",
+      "ward": 45,
+      "division": "All"
+    },
+    {
+      "Candidate": "Jacqulyne Scott",
+      "Kathy Enggasser": "3",
+      "Louis Farinella": "4",
+      "Patrick Parkinson": "4",
+      "Barbara A Deeley": "4",
+      "Mary Ann Quartullo": "3",
+      "Write In": "0",
+      "Jacqulyne Scott": "0",
+      "Larry King": "1",
+      "ward": 45,
+      "division": "All"
+    },
+    {
+      "Candidate": "Larry King",
+      "Kathy Enggasser": "3",
+      "Louis Farinella": "4",
+      "Patrick Parkinson": "4",
+      "Barbara A Deeley": "4",
+      "Mary Ann Quartullo": "3",
+      "Write In": "0",
+      "Jacqulyne Scott": "1",
+      "Larry King": "0",
+      "ward": 45,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Enggasser": "509",
+      "Louis Farinella": "289",
+      "Patrick Parkinson": "239",
+      "Barbara A Deeley": "225",
+      "Mary Ann Quartullo": "206",
+      "Write In": "9",
+      "Jacqulyne Scott": "4",
+      "Larry King": "4",
+      "ward": 45,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Kathy Enggasser": "Kathy Enggasser",
+      "Louis Farinella": "Louis Farinella",
+      "Patrick Parkinson": "Patrick Parkinson",
+      "Barbara A Deeley": "Barbara A Deeley",
+      "Mary Ann Quartullo": "Mary Ann Quartullo",
+      "ward": 45,
+      "division": 1
+    },
+    {
+      "Candidate": "Kathy Enggasser",
+      "Kathy Enggasser": "13",
+      "Louis Farinella": "6",
+      "Patrick Parkinson": "6",
+      "Barbara A Deeley": "5",
+      "Mary Ann Quartullo": "5",
+      "ward": 45,
+      "division": 1
+    },
+    {
+      "Candidate": "Louis Farinella",
+      "Kathy Enggasser": "6",
+      "Louis Farinella": "3",
+      "Patrick Parkinson": "5",
+      "Barbara A Deeley": "5",
+      "Mary Ann Quartullo": "5",
+      "ward": 45,
+      "division": 1
+    },
+    {
+      "Candidate": "Patrick Parkinson",
+      "Kathy Enggasser": "6",
+      "Louis Farinella": "5",
+      "Patrick Parkinson": "0",
+      "Barbara A Deeley": "8",
+      "Mary Ann Quartullo": "7",
+      "ward": 45,
+      "division": 1
+    },
+    {
+      "Candidate": "Barbara A Deeley",
+      "Kathy Enggasser": "5",
+      "Louis Farinella": "5",
+      "Patrick Parkinson": "8",
+      "Barbara A Deeley": "0",
+      "Mary Ann Quartullo": "6",
+      "ward": 45,
+      "division": 1
+    },
+    {
+      "Candidate": "Mary Ann Quartullo",
+      "Kathy Enggasser": "5",
+      "Louis Farinella": "5",
+      "Patrick Parkinson": "7",
+      "Barbara A Deeley": "6",
+      "Mary Ann Quartullo": "1",
+      "ward": 45,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Enggasser": "21",
+      "Louis Farinella": "10",
+      "Patrick Parkinson": "9",
+      "Barbara A Deeley": "8",
+      "Mary Ann Quartullo": "8",
+      "ward": 45,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Kathy Enggasser": "Kathy Enggasser",
+      "Patrick Parkinson": "Patrick Parkinson",
+      "Barbara A Deeley": "Barbara A Deeley",
+      "Louis Farinella": "Louis Farinella",
+      "Mary Ann Quartullo": "Mary Ann Quartullo",
+      "ward": 45,
+      "division": 2
+    },
+    {
+      "Candidate": "Kathy Enggasser",
+      "Kathy Enggasser": "10",
+      "Patrick Parkinson": "8",
+      "Barbara A Deeley": "7",
+      "Louis Farinella": "8",
+      "Mary Ann Quartullo": "7",
+      "ward": 45,
+      "division": 2
+    },
+    {
+      "Candidate": "Patrick Parkinson",
+      "Kathy Enggasser": "8",
+      "Patrick Parkinson": "2",
+      "Barbara A Deeley": "8",
+      "Louis Farinella": "7",
+      "Mary Ann Quartullo": "5",
+      "ward": 45,
+      "division": 2
+    },
+    {
+      "Candidate": "Barbara A Deeley",
+      "Kathy Enggasser": "7",
+      "Patrick Parkinson": "8",
+      "Barbara A Deeley": "1",
+      "Louis Farinella": "5",
+      "Mary Ann Quartullo": "6",
+      "ward": 45,
+      "division": 2
+    },
+    {
+      "Candidate": "Louis Farinella",
+      "Kathy Enggasser": "8",
+      "Patrick Parkinson": "7",
+      "Barbara A Deeley": "5",
+      "Louis Farinella": "1",
+      "Mary Ann Quartullo": "7",
+      "ward": 45,
+      "division": 2
+    },
+    {
+      "Candidate": "Mary Ann Quartullo",
+      "Kathy Enggasser": "7",
+      "Patrick Parkinson": "5",
+      "Barbara A Deeley": "6",
+      "Louis Farinella": "7",
+      "Mary Ann Quartullo": "0",
+      "ward": 45,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Enggasser": "20",
+      "Patrick Parkinson": "12",
+      "Barbara A Deeley": "10",
+      "Louis Farinella": "10",
+      "Mary Ann Quartullo": "8",
+      "ward": 45,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Kathy Enggasser": "Kathy Enggasser",
+      "Louis Farinella": "Louis Farinella",
+      "Patrick Parkinson": "Patrick Parkinson",
+      "Barbara A Deeley": "Barbara A Deeley",
+      "Mary Ann Quartullo": "Mary Ann Quartullo",
+      "Jacqulyne Scott": "Jacqulyne Scott",
+      "ward": 45,
+      "division": 3
+    },
+    {
+      "Candidate": "Kathy Enggasser",
+      "Kathy Enggasser": "18",
+      "Louis Farinella": "12",
+      "Patrick Parkinson": "9",
+      "Barbara A Deeley": "9",
+      "Mary Ann Quartullo": "9",
+      "Jacqulyne Scott": "1",
+      "ward": 45,
+      "division": 3
+    },
+    {
+      "Candidate": "Louis Farinella",
+      "Kathy Enggasser": "12",
+      "Louis Farinella": "3",
+      "Patrick Parkinson": "9",
+      "Barbara A Deeley": "9",
+      "Mary Ann Quartullo": "9",
+      "Jacqulyne Scott": "1",
+      "ward": 45,
+      "division": 3
+    },
+    {
+      "Candidate": "Patrick Parkinson",
+      "Kathy Enggasser": "9",
+      "Louis Farinella": "9",
+      "Patrick Parkinson": "6",
+      "Barbara A Deeley": "9",
+      "Mary Ann Quartullo": "9",
+      "Jacqulyne Scott": "1",
+      "ward": 45,
+      "division": 3
+    },
+    {
+      "Candidate": "Barbara A Deeley",
+      "Kathy Enggasser": "9",
+      "Louis Farinella": "9",
+      "Patrick Parkinson": "9",
+      "Barbara A Deeley": "1",
+      "Mary Ann Quartullo": "10",
+      "Jacqulyne Scott": "1",
+      "ward": 45,
+      "division": 3
+    },
+    {
+      "Candidate": "Mary Ann Quartullo",
+      "Kathy Enggasser": "9",
+      "Louis Farinella": "9",
+      "Patrick Parkinson": "9",
+      "Barbara A Deeley": "10",
+      "Mary Ann Quartullo": "0",
+      "Jacqulyne Scott": "1",
+      "ward": 45,
+      "division": 3
+    },
+    {
+      "Candidate": "Jacqulyne Scott",
+      "Kathy Enggasser": "1",
+      "Louis Farinella": "1",
+      "Patrick Parkinson": "1",
+      "Barbara A Deeley": "1",
+      "Mary Ann Quartullo": "1",
+      "Jacqulyne Scott": "0",
+      "ward": 45,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Enggasser": "30",
+      "Louis Farinella": "15",
+      "Patrick Parkinson": "15",
+      "Barbara A Deeley": "11",
+      "Mary Ann Quartullo": "10",
+      "Jacqulyne Scott": "1",
+      "ward": 45,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Kathy Enggasser": "Kathy Enggasser",
+      "Louis Farinella": "Louis Farinella",
+      "Patrick Parkinson": "Patrick Parkinson",
+      "Barbara A Deeley": "Barbara A Deeley",
+      "Mary Ann Quartullo": "Mary Ann Quartullo",
+      "Larry King": "Larry King",
+      "Write In": "Write In",
+      "ward": 45,
+      "division": 4
+    },
+    {
+      "Candidate": "Kathy Enggasser",
+      "Kathy Enggasser": "21",
+      "Louis Farinella": "21",
+      "Patrick Parkinson": "19",
+      "Barbara A Deeley": "18",
+      "Mary Ann Quartullo": "17",
+      "Larry King": "1",
+      "Write In": "1",
+      "ward": 45,
+      "division": 4
+    },
+    {
+      "Candidate": "Louis Farinella",
+      "Kathy Enggasser": "21",
+      "Louis Farinella": "4",
+      "Patrick Parkinson": "17",
+      "Barbara A Deeley": "14",
+      "Mary Ann Quartullo": "12",
+      "Larry King": "1",
+      "Write In": "0",
+      "ward": 45,
+      "division": 4
+    },
+    {
+      "Candidate": "Patrick Parkinson",
+      "Kathy Enggasser": "19",
+      "Louis Farinella": "17",
+      "Patrick Parkinson": "1",
+      "Barbara A Deeley": "15",
+      "Mary Ann Quartullo": "12",
+      "Larry King": "1",
+      "Write In": "0",
+      "ward": 45,
+      "division": 4
+    },
+    {
+      "Candidate": "Barbara A Deeley",
+      "Kathy Enggasser": "18",
+      "Louis Farinella": "14",
+      "Patrick Parkinson": "15",
+      "Barbara A Deeley": "1",
+      "Mary Ann Quartullo": "14",
+      "Larry King": "1",
+      "Write In": "0",
+      "ward": 45,
+      "division": 4
+    },
+    {
+      "Candidate": "Mary Ann Quartullo",
+      "Kathy Enggasser": "17",
+      "Louis Farinella": "12",
+      "Patrick Parkinson": "12",
+      "Barbara A Deeley": "14",
+      "Mary Ann Quartullo": "0",
+      "Larry King": "1",
+      "Write In": "1",
+      "ward": 45,
+      "division": 4
+    },
+    {
+      "Candidate": "Larry King",
+      "Kathy Enggasser": "1",
+      "Louis Farinella": "1",
+      "Patrick Parkinson": "1",
+      "Barbara A Deeley": "1",
+      "Mary Ann Quartullo": "1",
+      "Larry King": "0",
+      "Write In": "0",
+      "ward": 45,
+      "division": 4
+    },
+    {
+      "Candidate": "Write In",
+      "Kathy Enggasser": "1",
+      "Louis Farinella": "0",
+      "Patrick Parkinson": "0",
+      "Barbara A Deeley": "0",
+      "Mary Ann Quartullo": "1",
+      "Larry King": "0",
+      "Write In": "0",
+      "ward": 45,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Enggasser": "50",
+      "Louis Farinella": "25",
+      "Patrick Parkinson": "20",
+      "Barbara A Deeley": "19",
+      "Mary Ann Quartullo": "17",
+      "Larry King": "1",
+      "Write In": "1",
+      "ward": 45,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Kathy Enggasser": "Kathy Enggasser",
+      "Louis Farinella": "Louis Farinella",
+      "Barbara A Deeley": "Barbara A Deeley",
+      "Mary Ann Quartullo": "Mary Ann Quartullo",
+      "Patrick Parkinson": "Patrick Parkinson",
+      "Larry King": "Larry King",
+      "Write In": "Write In",
+      "ward": 45,
+      "division": 5
+    },
+    {
+      "Candidate": "Kathy Enggasser",
+      "Kathy Enggasser": "8",
+      "Louis Farinella": "8",
+      "Barbara A Deeley": "8",
+      "Mary Ann Quartullo": "9",
+      "Patrick Parkinson": "9",
+      "Larry King": "1",
+      "Write In": "1",
+      "ward": 45,
+      "division": 5
+    },
+    {
+      "Candidate": "Louis Farinella",
+      "Kathy Enggasser": "8",
+      "Louis Farinella": "3",
+      "Barbara A Deeley": "8",
+      "Mary Ann Quartullo": "9",
+      "Patrick Parkinson": "8",
+      "Larry King": "1",
+      "Write In": "0",
+      "ward": 45,
+      "division": 5
+    },
+    {
+      "Candidate": "Barbara A Deeley",
+      "Kathy Enggasser": "8",
+      "Louis Farinella": "8",
+      "Barbara A Deeley": "3",
+      "Mary Ann Quartullo": "8",
+      "Patrick Parkinson": "8",
+      "Larry King": "1",
+      "Write In": "0",
+      "ward": 45,
+      "division": 5
+    },
+    {
+      "Candidate": "Mary Ann Quartullo",
+      "Kathy Enggasser": "9",
+      "Louis Farinella": "9",
+      "Barbara A Deeley": "8",
+      "Mary Ann Quartullo": "0",
+      "Patrick Parkinson": "9",
+      "Larry King": "1",
+      "Write In": "0",
+      "ward": 45,
+      "division": 5
+    },
+    {
+      "Candidate": "Patrick Parkinson",
+      "Kathy Enggasser": "9",
+      "Louis Farinella": "8",
+      "Barbara A Deeley": "8",
+      "Mary Ann Quartullo": "9",
+      "Patrick Parkinson": "0",
+      "Larry King": "1",
+      "Write In": "0",
+      "ward": 45,
+      "division": 5
+    },
+    {
+      "Candidate": "Larry King",
+      "Kathy Enggasser": "1",
+      "Louis Farinella": "1",
+      "Barbara A Deeley": "1",
+      "Mary Ann Quartullo": "1",
+      "Patrick Parkinson": "1",
+      "Larry King": "0",
+      "Write In": "0",
+      "ward": 45,
+      "division": 5
+    },
+    {
+      "Candidate": "Write In",
+      "Kathy Enggasser": "1",
+      "Louis Farinella": "0",
+      "Barbara A Deeley": "0",
+      "Mary Ann Quartullo": "0",
+      "Patrick Parkinson": "0",
+      "Larry King": "0",
+      "Write In": "0",
+      "ward": 45,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Enggasser": "18",
+      "Louis Farinella": "12",
+      "Barbara A Deeley": "11",
+      "Mary Ann Quartullo": "10",
+      "Patrick Parkinson": "9",
+      "Larry King": "1",
+      "Write In": "1",
+      "ward": 45,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Kathy Enggasser": "Kathy Enggasser",
+      "Barbara A Deeley": "Barbara A Deeley",
+      "Patrick Parkinson": "Patrick Parkinson",
+      "Mary Ann Quartullo": "Mary Ann Quartullo",
+      "Louis Farinella": "Louis Farinella",
+      "ward": 45,
+      "division": 6
+    },
+    {
+      "Candidate": "Kathy Enggasser",
+      "Kathy Enggasser": "18",
+      "Barbara A Deeley": "9",
+      "Patrick Parkinson": "9",
+      "Mary Ann Quartullo": "8",
+      "Louis Farinella": "7",
+      "ward": 45,
+      "division": 6
+    },
+    {
+      "Candidate": "Barbara A Deeley",
+      "Kathy Enggasser": "9",
+      "Barbara A Deeley": "1",
+      "Patrick Parkinson": "9",
+      "Mary Ann Quartullo": "8",
+      "Louis Farinella": "7",
+      "ward": 45,
+      "division": 6
+    },
+    {
+      "Candidate": "Patrick Parkinson",
+      "Kathy Enggasser": "9",
+      "Barbara A Deeley": "9",
+      "Patrick Parkinson": "1",
+      "Mary Ann Quartullo": "8",
+      "Louis Farinella": "7",
+      "ward": 45,
+      "division": 6
+    },
+    {
+      "Candidate": "Mary Ann Quartullo",
+      "Kathy Enggasser": "8",
+      "Barbara A Deeley": "8",
+      "Patrick Parkinson": "8",
+      "Mary Ann Quartullo": "1",
+      "Louis Farinella": "7",
+      "ward": 45,
+      "division": 6
+    },
+    {
+      "Candidate": "Louis Farinella",
+      "Kathy Enggasser": "7",
+      "Barbara A Deeley": "7",
+      "Patrick Parkinson": "7",
+      "Mary Ann Quartullo": "7",
+      "Louis Farinella": "1",
+      "ward": 45,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Enggasser": "27",
+      "Barbara A Deeley": "10",
+      "Patrick Parkinson": "10",
+      "Mary Ann Quartullo": "9",
+      "Louis Farinella": "8",
+      "ward": 45,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Kathy Enggasser": "Kathy Enggasser",
+      "Louis Farinella": "Louis Farinella",
+      "Patrick Parkinson": "Patrick Parkinson",
+      "Barbara A Deeley": "Barbara A Deeley",
+      "Mary Ann Quartullo": "Mary Ann Quartullo",
+      "ward": 45,
+      "division": 7
+    },
+    {
+      "Candidate": "Kathy Enggasser",
+      "Kathy Enggasser": "12",
+      "Louis Farinella": "12",
+      "Patrick Parkinson": "9",
+      "Barbara A Deeley": "9",
+      "Mary Ann Quartullo": "9",
+      "ward": 45,
+      "division": 7
+    },
+    {
+      "Candidate": "Louis Farinella",
+      "Kathy Enggasser": "12",
+      "Louis Farinella": "0",
+      "Patrick Parkinson": "12",
+      "Barbara A Deeley": "11",
+      "Mary Ann Quartullo": "9",
+      "ward": 45,
+      "division": 7
+    },
+    {
+      "Candidate": "Patrick Parkinson",
+      "Kathy Enggasser": "9",
+      "Louis Farinella": "12",
+      "Patrick Parkinson": "2",
+      "Barbara A Deeley": "10",
+      "Mary Ann Quartullo": "10",
+      "ward": 45,
+      "division": 7
+    },
+    {
+      "Candidate": "Barbara A Deeley",
+      "Kathy Enggasser": "9",
+      "Louis Farinella": "11",
+      "Patrick Parkinson": "10",
+      "Barbara A Deeley": "1",
+      "Mary Ann Quartullo": "9",
+      "ward": 45,
+      "division": 7
+    },
+    {
+      "Candidate": "Mary Ann Quartullo",
+      "Kathy Enggasser": "9",
+      "Louis Farinella": "9",
+      "Patrick Parkinson": "10",
+      "Barbara A Deeley": "9",
+      "Mary Ann Quartullo": "0",
+      "ward": 45,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Enggasser": "25",
+      "Louis Farinella": "16",
+      "Patrick Parkinson": "15",
+      "Barbara A Deeley": "13",
+      "Mary Ann Quartullo": "11",
+      "ward": 45,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Kathy Enggasser": "Kathy Enggasser",
+      "Louis Farinella": "Louis Farinella",
+      "Barbara A Deeley": "Barbara A Deeley",
+      "Mary Ann Quartullo": "Mary Ann Quartullo",
+      "Patrick Parkinson": "Patrick Parkinson",
+      "ward": 45,
+      "division": 8
+    },
+    {
+      "Candidate": "Kathy Enggasser",
+      "Kathy Enggasser": "11",
+      "Louis Farinella": "3",
+      "Barbara A Deeley": "4",
+      "Mary Ann Quartullo": "3",
+      "Patrick Parkinson": "3",
+      "ward": 45,
+      "division": 8
+    },
+    {
+      "Candidate": "Louis Farinella",
+      "Kathy Enggasser": "3",
+      "Louis Farinella": "3",
+      "Barbara A Deeley": "3",
+      "Mary Ann Quartullo": "3",
+      "Patrick Parkinson": "2",
+      "ward": 45,
+      "division": 8
+    },
+    {
+      "Candidate": "Barbara A Deeley",
+      "Kathy Enggasser": "4",
+      "Louis Farinella": "3",
+      "Barbara A Deeley": "0",
+      "Mary Ann Quartullo": "4",
+      "Patrick Parkinson": "3",
+      "ward": 45,
+      "division": 8
+    },
+    {
+      "Candidate": "Mary Ann Quartullo",
+      "Kathy Enggasser": "3",
+      "Louis Farinella": "3",
+      "Barbara A Deeley": "4",
+      "Mary Ann Quartullo": "0",
+      "Patrick Parkinson": "2",
+      "ward": 45,
+      "division": 8
+    },
+    {
+      "Candidate": "Patrick Parkinson",
+      "Kathy Enggasser": "3",
+      "Louis Farinella": "2",
+      "Barbara A Deeley": "3",
+      "Mary Ann Quartullo": "2",
+      "Patrick Parkinson": "1",
+      "ward": 45,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Enggasser": "15",
+      "Louis Farinella": "6",
+      "Barbara A Deeley": "5",
+      "Mary Ann Quartullo": "4",
+      "Patrick Parkinson": "4",
+      "ward": 45,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Kathy Enggasser": "Kathy Enggasser",
+      "Louis Farinella": "Louis Farinella",
+      "Mary Ann Quartullo": "Mary Ann Quartullo",
+      "Barbara A Deeley": "Barbara A Deeley",
+      "Patrick Parkinson": "Patrick Parkinson",
+      "ward": 45,
+      "division": 9
+    },
+    {
+      "Candidate": "Kathy Enggasser",
+      "Kathy Enggasser": "8",
+      "Louis Farinella": "2",
+      "Mary Ann Quartullo": "3",
+      "Barbara A Deeley": "3",
+      "Patrick Parkinson": "2",
+      "ward": 45,
+      "division": 9
+    },
+    {
+      "Candidate": "Louis Farinella",
+      "Kathy Enggasser": "2",
+      "Louis Farinella": "6",
+      "Mary Ann Quartullo": "2",
+      "Barbara A Deeley": "2",
+      "Patrick Parkinson": "2",
+      "ward": 45,
+      "division": 9
+    },
+    {
+      "Candidate": "Mary Ann Quartullo",
+      "Kathy Enggasser": "3",
+      "Louis Farinella": "2",
+      "Mary Ann Quartullo": "2",
+      "Barbara A Deeley": "3",
+      "Patrick Parkinson": "2",
+      "ward": 45,
+      "division": 9
+    },
+    {
+      "Candidate": "Barbara A Deeley",
+      "Kathy Enggasser": "3",
+      "Louis Farinella": "2",
+      "Mary Ann Quartullo": "3",
+      "Barbara A Deeley": "0",
+      "Patrick Parkinson": "2",
+      "ward": 45,
+      "division": 9
+    },
+    {
+      "Candidate": "Patrick Parkinson",
+      "Kathy Enggasser": "2",
+      "Louis Farinella": "2",
+      "Mary Ann Quartullo": "2",
+      "Barbara A Deeley": "2",
+      "Patrick Parkinson": "1",
+      "ward": 45,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Enggasser": "11",
+      "Louis Farinella": "8",
+      "Mary Ann Quartullo": "5",
+      "Barbara A Deeley": "3",
+      "Patrick Parkinson": "3",
+      "ward": 45,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Kathy Enggasser": "Kathy Enggasser",
+      "Louis Farinella": "Louis Farinella",
+      "Mary Ann Quartullo": "Mary Ann Quartullo",
+      "Patrick Parkinson": "Patrick Parkinson",
+      "Barbara A Deeley": "Barbara A Deeley",
+      "ward": 45,
+      "division": 10
+    },
+    {
+      "Candidate": "Kathy Enggasser",
+      "Kathy Enggasser": "5",
+      "Louis Farinella": "3",
+      "Mary Ann Quartullo": "3",
+      "Patrick Parkinson": "2",
+      "Barbara A Deeley": "1",
+      "ward": 45,
+      "division": 10
+    },
+    {
+      "Candidate": "Louis Farinella",
+      "Kathy Enggasser": "3",
+      "Louis Farinella": "4",
+      "Mary Ann Quartullo": "2",
+      "Patrick Parkinson": "2",
+      "Barbara A Deeley": "1",
+      "ward": 45,
+      "division": 10
+    },
+    {
+      "Candidate": "Mary Ann Quartullo",
+      "Kathy Enggasser": "3",
+      "Louis Farinella": "2",
+      "Mary Ann Quartullo": "0",
+      "Patrick Parkinson": "2",
+      "Barbara A Deeley": "1",
+      "ward": 45,
+      "division": 10
+    },
+    {
+      "Candidate": "Patrick Parkinson",
+      "Kathy Enggasser": "2",
+      "Louis Farinella": "2",
+      "Mary Ann Quartullo": "2",
+      "Patrick Parkinson": "1",
+      "Barbara A Deeley": "1",
+      "ward": 45,
+      "division": 10
+    },
+    {
+      "Candidate": "Barbara A Deeley",
+      "Kathy Enggasser": "1",
+      "Louis Farinella": "1",
+      "Mary Ann Quartullo": "1",
+      "Patrick Parkinson": "1",
+      "Barbara A Deeley": "0",
+      "ward": 45,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Enggasser": "9",
+      "Louis Farinella": "7",
+      "Mary Ann Quartullo": "3",
+      "Patrick Parkinson": "3",
+      "Barbara A Deeley": "1",
+      "ward": 45,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Kathy Enggasser": "Kathy Enggasser",
+      "Patrick Parkinson": "Patrick Parkinson",
+      "Barbara A Deeley": "Barbara A Deeley",
+      "Louis Farinella": "Louis Farinella",
+      "Mary Ann Quartullo": "Mary Ann Quartullo",
+      "ward": 45,
+      "division": 11
+    },
+    {
+      "Candidate": "Kathy Enggasser",
+      "Kathy Enggasser": "11",
+      "Patrick Parkinson": "5",
+      "Barbara A Deeley": "6",
+      "Louis Farinella": "3",
+      "Mary Ann Quartullo": "5",
+      "ward": 45,
+      "division": 11
+    },
+    {
+      "Candidate": "Patrick Parkinson",
+      "Kathy Enggasser": "5",
+      "Patrick Parkinson": "3",
+      "Barbara A Deeley": "5",
+      "Louis Farinella": "4",
+      "Mary Ann Quartullo": "3",
+      "ward": 45,
+      "division": 11
+    },
+    {
+      "Candidate": "Barbara A Deeley",
+      "Kathy Enggasser": "6",
+      "Patrick Parkinson": "5",
+      "Barbara A Deeley": "1",
+      "Louis Farinella": "4",
+      "Mary Ann Quartullo": "4",
+      "ward": 45,
+      "division": 11
+    },
+    {
+      "Candidate": "Louis Farinella",
+      "Kathy Enggasser": "3",
+      "Patrick Parkinson": "4",
+      "Barbara A Deeley": "4",
+      "Louis Farinella": "2",
+      "Mary Ann Quartullo": "3",
+      "ward": 45,
+      "division": 11
+    },
+    {
+      "Candidate": "Mary Ann Quartullo",
+      "Kathy Enggasser": "5",
+      "Patrick Parkinson": "3",
+      "Barbara A Deeley": "4",
+      "Louis Farinella": "3",
+      "Mary Ann Quartullo": "0",
+      "ward": 45,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Enggasser": "19",
+      "Patrick Parkinson": "9",
+      "Barbara A Deeley": "8",
+      "Louis Farinella": "6",
+      "Mary Ann Quartullo": "5",
+      "ward": 45,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Kathy Enggasser": "Kathy Enggasser",
+      "Louis Farinella": "Louis Farinella",
+      "Barbara A Deeley": "Barbara A Deeley",
+      "Mary Ann Quartullo": "Mary Ann Quartullo",
+      "Patrick Parkinson": "Patrick Parkinson",
+      "ward": 45,
+      "division": 12
+    },
+    {
+      "Candidate": "Kathy Enggasser",
+      "Kathy Enggasser": "5",
+      "Louis Farinella": "4",
+      "Barbara A Deeley": "4",
+      "Mary Ann Quartullo": "4",
+      "Patrick Parkinson": "4",
+      "ward": 45,
+      "division": 12
+    },
+    {
+      "Candidate": "Louis Farinella",
+      "Kathy Enggasser": "4",
+      "Louis Farinella": "2",
+      "Barbara A Deeley": "4",
+      "Mary Ann Quartullo": "4",
+      "Patrick Parkinson": "4",
+      "ward": 45,
+      "division": 12
+    },
+    {
+      "Candidate": "Barbara A Deeley",
+      "Kathy Enggasser": "4",
+      "Louis Farinella": "4",
+      "Barbara A Deeley": "0",
+      "Mary Ann Quartullo": "4",
+      "Patrick Parkinson": "4",
+      "ward": 45,
+      "division": 12
+    },
+    {
+      "Candidate": "Mary Ann Quartullo",
+      "Kathy Enggasser": "4",
+      "Louis Farinella": "4",
+      "Barbara A Deeley": "4",
+      "Mary Ann Quartullo": "0",
+      "Patrick Parkinson": "4",
+      "ward": 45,
+      "division": 12
+    },
+    {
+      "Candidate": "Patrick Parkinson",
+      "Kathy Enggasser": "4",
+      "Louis Farinella": "4",
+      "Barbara A Deeley": "4",
+      "Mary Ann Quartullo": "4",
+      "Patrick Parkinson": "0",
+      "ward": 45,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Enggasser": "9",
+      "Louis Farinella": "6",
+      "Barbara A Deeley": "4",
+      "Mary Ann Quartullo": "4",
+      "Patrick Parkinson": "4",
+      "ward": 45,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Kathy Enggasser": "Kathy Enggasser",
+      "Louis Farinella": "Louis Farinella",
+      "Patrick Parkinson": "Patrick Parkinson",
+      "Barbara A Deeley": "Barbara A Deeley",
+      "Mary Ann Quartullo": "Mary Ann Quartullo",
+      "ward": 45,
+      "division": 13
+    },
+    {
+      "Candidate": "Kathy Enggasser",
+      "Kathy Enggasser": "10",
+      "Louis Farinella": "3",
+      "Patrick Parkinson": "4",
+      "Barbara A Deeley": "2",
+      "Mary Ann Quartullo": "3",
+      "ward": 45,
+      "division": 13
+    },
+    {
+      "Candidate": "Louis Farinella",
+      "Kathy Enggasser": "3",
+      "Louis Farinella": "8",
+      "Patrick Parkinson": "2",
+      "Barbara A Deeley": "2",
+      "Mary Ann Quartullo": "2",
+      "ward": 45,
+      "division": 13
+    },
+    {
+      "Candidate": "Patrick Parkinson",
+      "Kathy Enggasser": "4",
+      "Louis Farinella": "2",
+      "Patrick Parkinson": "5",
+      "Barbara A Deeley": "2",
+      "Mary Ann Quartullo": "3",
+      "ward": 45,
+      "division": 13
+    },
+    {
+      "Candidate": "Barbara A Deeley",
+      "Kathy Enggasser": "2",
+      "Louis Farinella": "2",
+      "Patrick Parkinson": "2",
+      "Barbara A Deeley": "1",
+      "Mary Ann Quartullo": "2",
+      "ward": 45,
+      "division": 13
+    },
+    {
+      "Candidate": "Mary Ann Quartullo",
+      "Kathy Enggasser": "3",
+      "Louis Farinella": "2",
+      "Patrick Parkinson": "3",
+      "Barbara A Deeley": "2",
+      "Mary Ann Quartullo": "0",
+      "ward": 45,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Enggasser": "15",
+      "Louis Farinella": "11",
+      "Patrick Parkinson": "9",
+      "Barbara A Deeley": "3",
+      "Mary Ann Quartullo": "3",
+      "ward": 45,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Kathy Enggasser": "Kathy Enggasser",
+      "Patrick Parkinson": "Patrick Parkinson",
+      "Barbara A Deeley": "Barbara A Deeley",
+      "Louis Farinella": "Louis Farinella",
+      "Mary Ann Quartullo": "Mary Ann Quartullo",
+      "Jacqulyne Scott": "Jacqulyne Scott",
+      "Larry King": "Larry King",
+      "ward": 45,
+      "division": 14
+    },
+    {
+      "Candidate": "Kathy Enggasser",
+      "Kathy Enggasser": "5",
+      "Patrick Parkinson": "3",
+      "Barbara A Deeley": "2",
+      "Louis Farinella": "2",
+      "Mary Ann Quartullo": "3",
+      "Jacqulyne Scott": "0",
+      "Larry King": "0",
+      "ward": 45,
+      "division": 14
+    },
+    {
+      "Candidate": "Patrick Parkinson",
+      "Kathy Enggasser": "3",
+      "Patrick Parkinson": "0",
+      "Barbara A Deeley": "3",
+      "Louis Farinella": "3",
+      "Mary Ann Quartullo": "3",
+      "Jacqulyne Scott": "1",
+      "Larry King": "1",
+      "ward": 45,
+      "division": 14
+    },
+    {
+      "Candidate": "Barbara A Deeley",
+      "Kathy Enggasser": "2",
+      "Patrick Parkinson": "3",
+      "Barbara A Deeley": "0",
+      "Louis Farinella": "3",
+      "Mary Ann Quartullo": "2",
+      "Jacqulyne Scott": "1",
+      "Larry King": "1",
+      "ward": 45,
+      "division": 14
+    },
+    {
+      "Candidate": "Louis Farinella",
+      "Kathy Enggasser": "2",
+      "Patrick Parkinson": "3",
+      "Barbara A Deeley": "3",
+      "Louis Farinella": "0",
+      "Mary Ann Quartullo": "2",
+      "Jacqulyne Scott": "1",
+      "Larry King": "1",
+      "ward": 45,
+      "division": 14
+    },
+    {
+      "Candidate": "Mary Ann Quartullo",
+      "Kathy Enggasser": "3",
+      "Patrick Parkinson": "3",
+      "Barbara A Deeley": "2",
+      "Louis Farinella": "2",
+      "Mary Ann Quartullo": "0",
+      "Jacqulyne Scott": "0",
+      "Larry King": "0",
+      "ward": 45,
+      "division": 14
+    },
+    {
+      "Candidate": "Jacqulyne Scott",
+      "Kathy Enggasser": "0",
+      "Patrick Parkinson": "1",
+      "Barbara A Deeley": "1",
+      "Louis Farinella": "1",
+      "Mary Ann Quartullo": "0",
+      "Jacqulyne Scott": "0",
+      "Larry King": "1",
+      "ward": 45,
+      "division": 14
+    },
+    {
+      "Candidate": "Larry King",
+      "Kathy Enggasser": "0",
+      "Patrick Parkinson": "1",
+      "Barbara A Deeley": "1",
+      "Louis Farinella": "1",
+      "Mary Ann Quartullo": "0",
+      "Jacqulyne Scott": "1",
+      "Larry King": "0",
+      "ward": 45,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Enggasser": "8",
+      "Patrick Parkinson": "4",
+      "Barbara A Deeley": "3",
+      "Louis Farinella": "3",
+      "Mary Ann Quartullo": "3",
+      "Jacqulyne Scott": "1",
+      "Larry King": "1",
+      "ward": 45,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Kathy Enggasser": "Kathy Enggasser",
+      "Louis Farinella": "Louis Farinella",
+      "Mary Ann Quartullo": "Mary Ann Quartullo",
+      "Barbara A Deeley": "Barbara A Deeley",
+      "Patrick Parkinson": "Patrick Parkinson",
+      "ward": 45,
+      "division": 15
+    },
+    {
+      "Candidate": "Kathy Enggasser",
+      "Kathy Enggasser": "9",
+      "Louis Farinella": "7",
+      "Mary Ann Quartullo": "5",
+      "Barbara A Deeley": "6",
+      "Patrick Parkinson": "6",
+      "ward": 45,
+      "division": 15
+    },
+    {
+      "Candidate": "Louis Farinella",
+      "Kathy Enggasser": "7",
+      "Louis Farinella": "4",
+      "Mary Ann Quartullo": "5",
+      "Barbara A Deeley": "6",
+      "Patrick Parkinson": "5",
+      "ward": 45,
+      "division": 15
+    },
+    {
+      "Candidate": "Mary Ann Quartullo",
+      "Kathy Enggasser": "5",
+      "Louis Farinella": "5",
+      "Mary Ann Quartullo": "3",
+      "Barbara A Deeley": "5",
+      "Patrick Parkinson": "5",
+      "ward": 45,
+      "division": 15
+    },
+    {
+      "Candidate": "Barbara A Deeley",
+      "Kathy Enggasser": "6",
+      "Louis Farinella": "6",
+      "Mary Ann Quartullo": "5",
+      "Barbara A Deeley": "0",
+      "Patrick Parkinson": "6",
+      "ward": 45,
+      "division": 15
+    },
+    {
+      "Candidate": "Patrick Parkinson",
+      "Kathy Enggasser": "6",
+      "Louis Farinella": "5",
+      "Mary Ann Quartullo": "5",
+      "Barbara A Deeley": "6",
+      "Patrick Parkinson": "1",
+      "ward": 45,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Enggasser": "17",
+      "Louis Farinella": "12",
+      "Mary Ann Quartullo": "8",
+      "Barbara A Deeley": "7",
+      "Patrick Parkinson": "7",
+      "ward": 45,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Kathy Enggasser": "Kathy Enggasser",
+      "Barbara A Deeley": "Barbara A Deeley",
+      "Louis Farinella": "Louis Farinella",
+      "Mary Ann Quartullo": "Mary Ann Quartullo",
+      "Patrick Parkinson": "Patrick Parkinson",
+      "ward": 45,
+      "division": 16
+    },
+    {
+      "Candidate": "Kathy Enggasser",
+      "Kathy Enggasser": "7",
+      "Barbara A Deeley": "4",
+      "Louis Farinella": "4",
+      "Mary Ann Quartullo": "4",
+      "Patrick Parkinson": "4",
+      "ward": 45,
+      "division": 16
+    },
+    {
+      "Candidate": "Barbara A Deeley",
+      "Kathy Enggasser": "4",
+      "Barbara A Deeley": "2",
+      "Louis Farinella": "5",
+      "Mary Ann Quartullo": "6",
+      "Patrick Parkinson": "5",
+      "ward": 45,
+      "division": 16
+    },
+    {
+      "Candidate": "Louis Farinella",
+      "Kathy Enggasser": "4",
+      "Barbara A Deeley": "5",
+      "Louis Farinella": "2",
+      "Mary Ann Quartullo": "5",
+      "Patrick Parkinson": "5",
+      "ward": 45,
+      "division": 16
+    },
+    {
+      "Candidate": "Mary Ann Quartullo",
+      "Kathy Enggasser": "4",
+      "Barbara A Deeley": "6",
+      "Louis Farinella": "5",
+      "Mary Ann Quartullo": "0",
+      "Patrick Parkinson": "6",
+      "ward": 45,
+      "division": 16
+    },
+    {
+      "Candidate": "Patrick Parkinson",
+      "Kathy Enggasser": "4",
+      "Barbara A Deeley": "5",
+      "Louis Farinella": "5",
+      "Mary Ann Quartullo": "6",
+      "Patrick Parkinson": "0",
+      "ward": 45,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Enggasser": "11",
+      "Barbara A Deeley": "9",
+      "Louis Farinella": "8",
+      "Mary Ann Quartullo": "7",
+      "Patrick Parkinson": "6",
+      "ward": 45,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Kathy Enggasser": "Kathy Enggasser",
+      "Barbara A Deeley": "Barbara A Deeley",
+      "Louis Farinella": "Louis Farinella",
+      "Patrick Parkinson": "Patrick Parkinson",
+      "Mary Ann Quartullo": "Mary Ann Quartullo",
+      "Write In": "Write In",
+      "ward": 45,
+      "division": 17
+    },
+    {
+      "Candidate": "Kathy Enggasser",
+      "Kathy Enggasser": "7",
+      "Barbara A Deeley": "13",
+      "Louis Farinella": "13",
+      "Patrick Parkinson": "14",
+      "Mary Ann Quartullo": "11",
+      "Write In": "1",
+      "ward": 45,
+      "division": 17
+    },
+    {
+      "Candidate": "Barbara A Deeley",
+      "Kathy Enggasser": "13",
+      "Barbara A Deeley": "2",
+      "Louis Farinella": "10",
+      "Patrick Parkinson": "13",
+      "Mary Ann Quartullo": "11",
+      "Write In": "1",
+      "ward": 45,
+      "division": 17
+    },
+    {
+      "Candidate": "Louis Farinella",
+      "Kathy Enggasser": "13",
+      "Barbara A Deeley": "10",
+      "Louis Farinella": "1",
+      "Patrick Parkinson": "11",
+      "Mary Ann Quartullo": "11",
+      "Write In": "0",
+      "ward": 45,
+      "division": 17
+    },
+    {
+      "Candidate": "Patrick Parkinson",
+      "Kathy Enggasser": "14",
+      "Barbara A Deeley": "13",
+      "Louis Farinella": "11",
+      "Patrick Parkinson": "0",
+      "Mary Ann Quartullo": "11",
+      "Write In": "1",
+      "ward": 45,
+      "division": 17
+    },
+    {
+      "Candidate": "Mary Ann Quartullo",
+      "Kathy Enggasser": "11",
+      "Barbara A Deeley": "11",
+      "Louis Farinella": "11",
+      "Patrick Parkinson": "11",
+      "Mary Ann Quartullo": "0",
+      "Write In": "1",
+      "ward": 45,
+      "division": 17
+    },
+    {
+      "Candidate": "Write In",
+      "Kathy Enggasser": "1",
+      "Barbara A Deeley": "1",
+      "Louis Farinella": "0",
+      "Patrick Parkinson": "1",
+      "Mary Ann Quartullo": "1",
+      "Write In": "0",
+      "ward": 45,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Enggasser": "23",
+      "Barbara A Deeley": "16",
+      "Louis Farinella": "15",
+      "Patrick Parkinson": "14",
+      "Mary Ann Quartullo": "13",
+      "Write In": "1",
+      "ward": 45,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Kathy Enggasser": "Kathy Enggasser",
+      "Louis Farinella": "Louis Farinella",
+      "Barbara A Deeley": "Barbara A Deeley",
+      "Mary Ann Quartullo": "Mary Ann Quartullo",
+      "Patrick Parkinson": "Patrick Parkinson",
+      "ward": 45,
+      "division": 18
+    },
+    {
+      "Candidate": "Kathy Enggasser",
+      "Kathy Enggasser": "6",
+      "Louis Farinella": "3",
+      "Barbara A Deeley": "3",
+      "Mary Ann Quartullo": "4",
+      "Patrick Parkinson": "4",
+      "ward": 45,
+      "division": 18
+    },
+    {
+      "Candidate": "Louis Farinella",
+      "Kathy Enggasser": "3",
+      "Louis Farinella": "3",
+      "Barbara A Deeley": "3",
+      "Mary Ann Quartullo": "3",
+      "Patrick Parkinson": "3",
+      "ward": 45,
+      "division": 18
+    },
+    {
+      "Candidate": "Barbara A Deeley",
+      "Kathy Enggasser": "3",
+      "Louis Farinella": "3",
+      "Barbara A Deeley": "1",
+      "Mary Ann Quartullo": "4",
+      "Patrick Parkinson": "3",
+      "ward": 45,
+      "division": 18
+    },
+    {
+      "Candidate": "Mary Ann Quartullo",
+      "Kathy Enggasser": "4",
+      "Louis Farinella": "3",
+      "Barbara A Deeley": "4",
+      "Mary Ann Quartullo": "0",
+      "Patrick Parkinson": "4",
+      "ward": 45,
+      "division": 18
+    },
+    {
+      "Candidate": "Patrick Parkinson",
+      "Kathy Enggasser": "4",
+      "Louis Farinella": "3",
+      "Barbara A Deeley": "3",
+      "Mary Ann Quartullo": "4",
+      "Patrick Parkinson": "1",
+      "ward": 45,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Enggasser": "10",
+      "Louis Farinella": "6",
+      "Barbara A Deeley": "5",
+      "Mary Ann Quartullo": "5",
+      "Patrick Parkinson": "5",
+      "ward": 45,
+      "division": 18
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Kathy Enggasser": "Kathy Enggasser",
+      "Louis Farinella": "Louis Farinella",
+      "Mary Ann Quartullo": "Mary Ann Quartullo",
+      "Patrick Parkinson": "Patrick Parkinson",
+      "Barbara A Deeley": "Barbara A Deeley",
+      "ward": 45,
+      "division": 19
+    },
+    {
+      "Candidate": "Kathy Enggasser",
+      "Kathy Enggasser": "5",
+      "Louis Farinella": "2",
+      "Mary Ann Quartullo": "2",
+      "Patrick Parkinson": "3",
+      "Barbara A Deeley": "2",
+      "ward": 45,
+      "division": 19
+    },
+    {
+      "Candidate": "Louis Farinella",
+      "Kathy Enggasser": "2",
+      "Louis Farinella": "2",
+      "Mary Ann Quartullo": "1",
+      "Patrick Parkinson": "1",
+      "Barbara A Deeley": "1",
+      "ward": 45,
+      "division": 19
+    },
+    {
+      "Candidate": "Mary Ann Quartullo",
+      "Kathy Enggasser": "2",
+      "Louis Farinella": "1",
+      "Mary Ann Quartullo": "1",
+      "Patrick Parkinson": "2",
+      "Barbara A Deeley": "1",
+      "ward": 45,
+      "division": 19
+    },
+    {
+      "Candidate": "Patrick Parkinson",
+      "Kathy Enggasser": "3",
+      "Louis Farinella": "1",
+      "Mary Ann Quartullo": "2",
+      "Patrick Parkinson": "0",
+      "Barbara A Deeley": "2",
+      "ward": 45,
+      "division": 19
+    },
+    {
+      "Candidate": "Barbara A Deeley",
+      "Kathy Enggasser": "2",
+      "Louis Farinella": "1",
+      "Mary Ann Quartullo": "1",
+      "Patrick Parkinson": "2",
+      "Barbara A Deeley": "0",
+      "ward": 45,
+      "division": 19
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Enggasser": "9",
+      "Louis Farinella": "4",
+      "Mary Ann Quartullo": "3",
+      "Patrick Parkinson": "3",
+      "Barbara A Deeley": "2",
+      "ward": 45,
+      "division": 19
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Kathy Enggasser": "Kathy Enggasser",
+      "Louis Farinella": "Louis Farinella",
+      "Barbara A Deeley": "Barbara A Deeley",
+      "Mary Ann Quartullo": "Mary Ann Quartullo",
+      "Patrick Parkinson": "Patrick Parkinson",
+      "Jacqulyne Scott": "Jacqulyne Scott",
+      "Larry King": "Larry King",
+      "ward": 45,
+      "division": 20
+    },
+    {
+      "Candidate": "Kathy Enggasser",
+      "Kathy Enggasser": "19",
+      "Louis Farinella": "21",
+      "Barbara A Deeley": "19",
+      "Mary Ann Quartullo": "17",
+      "Patrick Parkinson": "16",
+      "Jacqulyne Scott": "1",
+      "Larry King": "1",
+      "ward": 45,
+      "division": 20
+    },
+    {
+      "Candidate": "Louis Farinella",
+      "Kathy Enggasser": "21",
+      "Louis Farinella": "4",
+      "Barbara A Deeley": "15",
+      "Mary Ann Quartullo": "17",
+      "Patrick Parkinson": "17",
+      "Jacqulyne Scott": "1",
+      "Larry King": "1",
+      "ward": 45,
+      "division": 20
+    },
+    {
+      "Candidate": "Barbara A Deeley",
+      "Kathy Enggasser": "19",
+      "Louis Farinella": "15",
+      "Barbara A Deeley": "0",
+      "Mary Ann Quartullo": "17",
+      "Patrick Parkinson": "16",
+      "Jacqulyne Scott": "1",
+      "Larry King": "1",
+      "ward": 45,
+      "division": 20
+    },
+    {
+      "Candidate": "Mary Ann Quartullo",
+      "Kathy Enggasser": "17",
+      "Louis Farinella": "17",
+      "Barbara A Deeley": "17",
+      "Mary Ann Quartullo": "1",
+      "Patrick Parkinson": "17",
+      "Jacqulyne Scott": "1",
+      "Larry King": "1",
+      "ward": 45,
+      "division": 20
+    },
+    {
+      "Candidate": "Patrick Parkinson",
+      "Kathy Enggasser": "16",
+      "Louis Farinella": "17",
+      "Barbara A Deeley": "16",
+      "Mary Ann Quartullo": "17",
+      "Patrick Parkinson": "0",
+      "Jacqulyne Scott": "1",
+      "Larry King": "1",
+      "ward": 45,
+      "division": 20
+    },
+    {
+      "Candidate": "Jacqulyne Scott",
+      "Kathy Enggasser": "1",
+      "Louis Farinella": "1",
+      "Barbara A Deeley": "1",
+      "Mary Ann Quartullo": "1",
+      "Patrick Parkinson": "1",
+      "Jacqulyne Scott": "0",
+      "Larry King": "0",
+      "ward": 45,
+      "division": 20
+    },
+    {
+      "Candidate": "Larry King",
+      "Kathy Enggasser": "1",
+      "Louis Farinella": "1",
+      "Barbara A Deeley": "1",
+      "Mary Ann Quartullo": "1",
+      "Patrick Parkinson": "1",
+      "Jacqulyne Scott": "0",
+      "Larry King": "0",
+      "ward": 45,
+      "division": 20
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Enggasser": "45",
+      "Louis Farinella": "29",
+      "Barbara A Deeley": "20",
+      "Mary Ann Quartullo": "20",
+      "Patrick Parkinson": "19",
+      "Jacqulyne Scott": "1",
+      "Larry King": "1",
+      "ward": 45,
+      "division": 20
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Kathy Enggasser": "Kathy Enggasser",
+      "Louis Farinella": "Louis Farinella",
+      "Patrick Parkinson": "Patrick Parkinson",
+      "Mary Ann Quartullo": "Mary Ann Quartullo",
+      "Barbara A Deeley": "Barbara A Deeley",
+      "ward": 45,
+      "division": 21
+    },
+    {
+      "Candidate": "Kathy Enggasser",
+      "Kathy Enggasser": "7",
+      "Louis Farinella": "3",
+      "Patrick Parkinson": "3",
+      "Mary Ann Quartullo": "2",
+      "Barbara A Deeley": "2",
+      "ward": 45,
+      "division": 21
+    },
+    {
+      "Candidate": "Louis Farinella",
+      "Kathy Enggasser": "3",
+      "Louis Farinella": "3",
+      "Patrick Parkinson": "2",
+      "Mary Ann Quartullo": "3",
+      "Barbara A Deeley": "2",
+      "ward": 45,
+      "division": 21
+    },
+    {
+      "Candidate": "Patrick Parkinson",
+      "Kathy Enggasser": "3",
+      "Louis Farinella": "2",
+      "Patrick Parkinson": "1",
+      "Mary Ann Quartullo": "2",
+      "Barbara A Deeley": "2",
+      "ward": 45,
+      "division": 21
+    },
+    {
+      "Candidate": "Mary Ann Quartullo",
+      "Kathy Enggasser": "2",
+      "Louis Farinella": "3",
+      "Patrick Parkinson": "2",
+      "Mary Ann Quartullo": "0",
+      "Barbara A Deeley": "2",
+      "ward": 45,
+      "division": 21
+    },
+    {
+      "Candidate": "Barbara A Deeley",
+      "Kathy Enggasser": "2",
+      "Louis Farinella": "2",
+      "Patrick Parkinson": "2",
+      "Mary Ann Quartullo": "2",
+      "Barbara A Deeley": "0",
+      "ward": 45,
+      "division": 21
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Enggasser": "11",
+      "Louis Farinella": "7",
+      "Patrick Parkinson": "4",
+      "Mary Ann Quartullo": "3",
+      "Barbara A Deeley": "2",
+      "ward": 45,
+      "division": 21
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Kathy Enggasser": "Kathy Enggasser",
+      "Louis Farinella": "Louis Farinella",
+      "Patrick Parkinson": "Patrick Parkinson",
+      "Barbara A Deeley": "Barbara A Deeley",
+      "Mary Ann Quartullo": "Mary Ann Quartullo",
+      "Write In": "Write In",
+      "ward": 45,
+      "division": 22
+    },
+    {
+      "Candidate": "Kathy Enggasser",
+      "Kathy Enggasser": "5",
+      "Louis Farinella": "7",
+      "Patrick Parkinson": "3",
+      "Barbara A Deeley": "4",
+      "Mary Ann Quartullo": "3",
+      "Write In": "2",
+      "ward": 45,
+      "division": 22
+    },
+    {
+      "Candidate": "Louis Farinella",
+      "Kathy Enggasser": "7",
+      "Louis Farinella": "5",
+      "Patrick Parkinson": "3",
+      "Barbara A Deeley": "3",
+      "Mary Ann Quartullo": "3",
+      "Write In": "2",
+      "ward": 45,
+      "division": 22
+    },
+    {
+      "Candidate": "Patrick Parkinson",
+      "Kathy Enggasser": "3",
+      "Louis Farinella": "3",
+      "Patrick Parkinson": "3",
+      "Barbara A Deeley": "3",
+      "Mary Ann Quartullo": "3",
+      "Write In": "0",
+      "ward": 45,
+      "division": 22
+    },
+    {
+      "Candidate": "Barbara A Deeley",
+      "Kathy Enggasser": "4",
+      "Louis Farinella": "3",
+      "Patrick Parkinson": "3",
+      "Barbara A Deeley": "1",
+      "Mary Ann Quartullo": "3",
+      "Write In": "0",
+      "ward": 45,
+      "division": 22
+    },
+    {
+      "Candidate": "Mary Ann Quartullo",
+      "Kathy Enggasser": "3",
+      "Louis Farinella": "3",
+      "Patrick Parkinson": "3",
+      "Barbara A Deeley": "3",
+      "Mary Ann Quartullo": "0",
+      "Write In": "0",
+      "ward": 45,
+      "division": 22
+    },
+    {
+      "Candidate": "Write In",
+      "Kathy Enggasser": "2",
+      "Louis Farinella": "2",
+      "Patrick Parkinson": "0",
+      "Barbara A Deeley": "0",
+      "Mary Ann Quartullo": "0",
+      "Write In": "0",
+      "ward": 45,
+      "division": 22
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Enggasser": "13",
+      "Louis Farinella": "12",
+      "Patrick Parkinson": "6",
+      "Barbara A Deeley": "5",
+      "Mary Ann Quartullo": "3",
+      "Write In": "2",
+      "ward": 45,
+      "division": 22
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Kathy Enggasser": "Kathy Enggasser",
+      "Louis Farinella": "Louis Farinella",
+      "Mary Ann Quartullo": "Mary Ann Quartullo",
+      "Patrick Parkinson": "Patrick Parkinson",
+      "Barbara A Deeley": "Barbara A Deeley",
+      "Write In": "Write In",
+      "Jacqulyne Scott": "Jacqulyne Scott",
+      "ward": 45,
+      "division": 23
+    },
+    {
+      "Candidate": "Kathy Enggasser",
+      "Kathy Enggasser": "19",
+      "Louis Farinella": "19",
+      "Mary Ann Quartullo": "17",
+      "Patrick Parkinson": "19",
+      "Barbara A Deeley": "16",
+      "Write In": "2",
+      "Jacqulyne Scott": "1",
+      "ward": 45,
+      "division": 23
+    },
+    {
+      "Candidate": "Louis Farinella",
+      "Kathy Enggasser": "19",
+      "Louis Farinella": "2",
+      "Mary Ann Quartullo": "19",
+      "Patrick Parkinson": "18",
+      "Barbara A Deeley": "16",
+      "Write In": "1",
+      "Jacqulyne Scott": "1",
+      "ward": 45,
+      "division": 23
+    },
+    {
+      "Candidate": "Mary Ann Quartullo",
+      "Kathy Enggasser": "17",
+      "Louis Farinella": "19",
+      "Mary Ann Quartullo": "1",
+      "Patrick Parkinson": "19",
+      "Barbara A Deeley": "19",
+      "Write In": "1",
+      "Jacqulyne Scott": "1",
+      "ward": 45,
+      "division": 23
+    },
+    {
+      "Candidate": "Patrick Parkinson",
+      "Kathy Enggasser": "19",
+      "Louis Farinella": "18",
+      "Mary Ann Quartullo": "19",
+      "Patrick Parkinson": "1",
+      "Barbara A Deeley": "17",
+      "Write In": "2",
+      "Jacqulyne Scott": "1",
+      "ward": 45,
+      "division": 23
+    },
+    {
+      "Candidate": "Barbara A Deeley",
+      "Kathy Enggasser": "16",
+      "Louis Farinella": "16",
+      "Mary Ann Quartullo": "19",
+      "Patrick Parkinson": "17",
+      "Barbara A Deeley": "0",
+      "Write In": "2",
+      "Jacqulyne Scott": "1",
+      "ward": 45,
+      "division": 23
+    },
+    {
+      "Candidate": "Write In",
+      "Kathy Enggasser": "2",
+      "Louis Farinella": "1",
+      "Mary Ann Quartullo": "1",
+      "Patrick Parkinson": "2",
+      "Barbara A Deeley": "2",
+      "Write In": "0",
+      "Jacqulyne Scott": "0",
+      "ward": 45,
+      "division": 23
+    },
+    {
+      "Candidate": "Jacqulyne Scott",
+      "Kathy Enggasser": "1",
+      "Louis Farinella": "1",
+      "Mary Ann Quartullo": "1",
+      "Patrick Parkinson": "1",
+      "Barbara A Deeley": "1",
+      "Write In": "0",
+      "Jacqulyne Scott": "0",
+      "ward": 45,
+      "division": 23
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Enggasser": "42",
+      "Louis Farinella": "24",
+      "Mary Ann Quartullo": "24",
+      "Patrick Parkinson": "23",
+      "Barbara A Deeley": "20",
+      "Write In": "2",
+      "Jacqulyne Scott": "1",
+      "ward": 45,
+      "division": 23
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Kathy Enggasser": "Kathy Enggasser",
+      "Patrick Parkinson": "Patrick Parkinson",
+      "Barbara A Deeley": "Barbara A Deeley",
+      "Louis Farinella": "Louis Farinella",
+      "Mary Ann Quartullo": "Mary Ann Quartullo",
+      "ward": 45,
+      "division": 24
+    },
+    {
+      "Candidate": "Kathy Enggasser",
+      "Kathy Enggasser": "15",
+      "Patrick Parkinson": "18",
+      "Barbara A Deeley": "17",
+      "Louis Farinella": "14",
+      "Mary Ann Quartullo": "13",
+      "ward": 45,
+      "division": 24
+    },
+    {
+      "Candidate": "Patrick Parkinson",
+      "Kathy Enggasser": "18",
+      "Patrick Parkinson": "3",
+      "Barbara A Deeley": "15",
+      "Louis Farinella": "13",
+      "Mary Ann Quartullo": "11",
+      "ward": 45,
+      "division": 24
+    },
+    {
+      "Candidate": "Barbara A Deeley",
+      "Kathy Enggasser": "17",
+      "Patrick Parkinson": "15",
+      "Barbara A Deeley": "1",
+      "Louis Farinella": "13",
+      "Mary Ann Quartullo": "14",
+      "ward": 45,
+      "division": 24
+    },
+    {
+      "Candidate": "Louis Farinella",
+      "Kathy Enggasser": "14",
+      "Patrick Parkinson": "13",
+      "Barbara A Deeley": "13",
+      "Louis Farinella": "5",
+      "Mary Ann Quartullo": "13",
+      "ward": 45,
+      "division": 24
+    },
+    {
+      "Candidate": "Mary Ann Quartullo",
+      "Kathy Enggasser": "13",
+      "Patrick Parkinson": "11",
+      "Barbara A Deeley": "14",
+      "Louis Farinella": "13",
+      "Mary Ann Quartullo": "0",
+      "ward": 45,
+      "division": 24
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Enggasser": "36",
+      "Patrick Parkinson": "21",
+      "Barbara A Deeley": "20",
+      "Louis Farinella": "20",
+      "Mary Ann Quartullo": "15",
+      "ward": 45,
+      "division": 24
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Kathy Enggasser": "Kathy Enggasser",
+      "Barbara A Deeley": "Barbara A Deeley",
+      "Louis Farinella": "Louis Farinella",
+      "Mary Ann Quartullo": "Mary Ann Quartullo",
+      "Patrick Parkinson": "Patrick Parkinson",
+      "Write In": "Write In",
+      "ward": 45,
+      "division": 25
+    },
+    {
+      "Candidate": "Kathy Enggasser",
+      "Kathy Enggasser": "5",
+      "Barbara A Deeley": "8",
+      "Louis Farinella": "7",
+      "Mary Ann Quartullo": "5",
+      "Patrick Parkinson": "5",
+      "Write In": "1",
+      "ward": 45,
+      "division": 25
+    },
+    {
+      "Candidate": "Barbara A Deeley",
+      "Kathy Enggasser": "8",
+      "Barbara A Deeley": "2",
+      "Louis Farinella": "6",
+      "Mary Ann Quartullo": "5",
+      "Patrick Parkinson": "4",
+      "Write In": "0",
+      "ward": 45,
+      "division": 25
+    },
+    {
+      "Candidate": "Louis Farinella",
+      "Kathy Enggasser": "7",
+      "Barbara A Deeley": "6",
+      "Louis Farinella": "2",
+      "Mary Ann Quartullo": "5",
+      "Patrick Parkinson": "5",
+      "Write In": "0",
+      "ward": 45,
+      "division": 25
+    },
+    {
+      "Candidate": "Mary Ann Quartullo",
+      "Kathy Enggasser": "5",
+      "Barbara A Deeley": "5",
+      "Louis Farinella": "5",
+      "Mary Ann Quartullo": "0",
+      "Patrick Parkinson": "3",
+      "Write In": "0",
+      "ward": 45,
+      "division": 25
+    },
+    {
+      "Candidate": "Patrick Parkinson",
+      "Kathy Enggasser": "5",
+      "Barbara A Deeley": "4",
+      "Louis Farinella": "5",
+      "Mary Ann Quartullo": "3",
+      "Patrick Parkinson": "0",
+      "Write In": "0",
+      "ward": 45,
+      "division": 25
+    },
+    {
+      "Candidate": "Write In",
+      "Kathy Enggasser": "1",
+      "Barbara A Deeley": "0",
+      "Louis Farinella": "0",
+      "Mary Ann Quartullo": "0",
+      "Patrick Parkinson": "0",
+      "Write In": "1",
+      "ward": 45,
+      "division": 25
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Enggasser": "15",
+      "Barbara A Deeley": "10",
+      "Louis Farinella": "9",
+      "Mary Ann Quartullo": "5",
+      "Patrick Parkinson": "5",
+      "Write In": "2",
+      "ward": 45,
+      "division": 25
+    }
+  ]
+]

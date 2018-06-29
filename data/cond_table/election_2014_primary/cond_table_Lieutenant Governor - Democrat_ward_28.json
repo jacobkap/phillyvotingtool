@@ -1,0 +1,1220 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Mark Smith": "Mark Smith",
+      "Brandon P Neuman": "Brandon P Neuman",
+      "Mark Critz": "Mark Critz",
+      "Brad Koplinski": "Brad Koplinski",
+      "ward": 28,
+      "division": "All"
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "958",
+      "Mark Smith": "0",
+      "Brandon P Neuman": "0",
+      "Mark Critz": "0",
+      "Brad Koplinski": "0",
+      "ward": 28,
+      "division": "All"
+    },
+    {
+      "Candidate": "Mark Smith",
+      "Mike Stack": "0",
+      "Mark Smith": "77",
+      "Brandon P Neuman": "0",
+      "Mark Critz": "0",
+      "Brad Koplinski": "0",
+      "ward": 28,
+      "division": "All"
+    },
+    {
+      "Candidate": "Brandon P Neuman",
+      "Mike Stack": "0",
+      "Mark Smith": "0",
+      "Brandon P Neuman": "54",
+      "Mark Critz": "0",
+      "Brad Koplinski": "0",
+      "ward": 28,
+      "division": "All"
+    },
+    {
+      "Candidate": "Mark Critz",
+      "Mike Stack": "0",
+      "Mark Smith": "0",
+      "Brandon P Neuman": "0",
+      "Mark Critz": "51",
+      "Brad Koplinski": "0",
+      "ward": 28,
+      "division": "All"
+    },
+    {
+      "Candidate": "Brad Koplinski",
+      "Mike Stack": "0",
+      "Mark Smith": "0",
+      "Brandon P Neuman": "0",
+      "Mark Critz": "0",
+      "Brad Koplinski": "29",
+      "ward": 28,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "958",
+      "Mark Smith": "77",
+      "Brandon P Neuman": "54",
+      "Mark Critz": "51",
+      "Brad Koplinski": "29",
+      "ward": 28,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Mark Smith": "Mark Smith",
+      "Mark Critz": "Mark Critz",
+      "Brandon P Neuman": "Brandon P Neuman",
+      "Brad Koplinski": "Brad Koplinski",
+      "ward": 28,
+      "division": 1
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "25",
+      "Mark Smith": "0",
+      "Mark Critz": "0",
+      "Brandon P Neuman": "0",
+      "Brad Koplinski": "0",
+      "ward": 28,
+      "division": 1
+    },
+    {
+      "Candidate": "Mark Smith",
+      "Mike Stack": "0",
+      "Mark Smith": "5",
+      "Mark Critz": "0",
+      "Brandon P Neuman": "0",
+      "Brad Koplinski": "0",
+      "ward": 28,
+      "division": 1
+    },
+    {
+      "Candidate": "Mark Critz",
+      "Mike Stack": "0",
+      "Mark Smith": "0",
+      "Mark Critz": "3",
+      "Brandon P Neuman": "0",
+      "Brad Koplinski": "0",
+      "ward": 28,
+      "division": 1
+    },
+    {
+      "Candidate": "Brandon P Neuman",
+      "Mike Stack": "0",
+      "Mark Smith": "0",
+      "Mark Critz": "0",
+      "Brandon P Neuman": "2",
+      "Brad Koplinski": "0",
+      "ward": 28,
+      "division": 1
+    },
+    {
+      "Candidate": "Brad Koplinski",
+      "Mike Stack": "0",
+      "Mark Smith": "0",
+      "Mark Critz": "0",
+      "Brandon P Neuman": "0",
+      "Brad Koplinski": "1",
+      "ward": 28,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "25",
+      "Mark Smith": "5",
+      "Mark Critz": "3",
+      "Brandon P Neuman": "2",
+      "Brad Koplinski": "1",
+      "ward": 28,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Mark Critz": "Mark Critz",
+      "Mark Smith": "Mark Smith",
+      "Brandon P Neuman": "Brandon P Neuman",
+      "ward": 28,
+      "division": 2
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "52",
+      "Mark Critz": "0",
+      "Mark Smith": "0",
+      "Brandon P Neuman": "0",
+      "ward": 28,
+      "division": 2
+    },
+    {
+      "Candidate": "Mark Critz",
+      "Mike Stack": "0",
+      "Mark Critz": "3",
+      "Mark Smith": "0",
+      "Brandon P Neuman": "0",
+      "ward": 28,
+      "division": 2
+    },
+    {
+      "Candidate": "Mark Smith",
+      "Mike Stack": "0",
+      "Mark Critz": "0",
+      "Mark Smith": "3",
+      "Brandon P Neuman": "0",
+      "ward": 28,
+      "division": 2
+    },
+    {
+      "Candidate": "Brandon P Neuman",
+      "Mike Stack": "0",
+      "Mark Critz": "0",
+      "Mark Smith": "0",
+      "Brandon P Neuman": "2",
+      "ward": 28,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "52",
+      "Mark Critz": "3",
+      "Mark Smith": "3",
+      "Brandon P Neuman": "2",
+      "ward": 28,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Mark Smith": "Mark Smith",
+      "Brandon P Neuman": "Brandon P Neuman",
+      "Mark Critz": "Mark Critz",
+      "Brad Koplinski": "Brad Koplinski",
+      "ward": 28,
+      "division": 3
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "57",
+      "Mark Smith": "0",
+      "Brandon P Neuman": "0",
+      "Mark Critz": "0",
+      "Brad Koplinski": "0",
+      "ward": 28,
+      "division": 3
+    },
+    {
+      "Candidate": "Mark Smith",
+      "Mike Stack": "0",
+      "Mark Smith": "9",
+      "Brandon P Neuman": "0",
+      "Mark Critz": "0",
+      "Brad Koplinski": "0",
+      "ward": 28,
+      "division": 3
+    },
+    {
+      "Candidate": "Brandon P Neuman",
+      "Mike Stack": "0",
+      "Mark Smith": "0",
+      "Brandon P Neuman": "6",
+      "Mark Critz": "0",
+      "Brad Koplinski": "0",
+      "ward": 28,
+      "division": 3
+    },
+    {
+      "Candidate": "Mark Critz",
+      "Mike Stack": "0",
+      "Mark Smith": "0",
+      "Brandon P Neuman": "0",
+      "Mark Critz": "4",
+      "Brad Koplinski": "0",
+      "ward": 28,
+      "division": 3
+    },
+    {
+      "Candidate": "Brad Koplinski",
+      "Mike Stack": "0",
+      "Mark Smith": "0",
+      "Brandon P Neuman": "0",
+      "Mark Critz": "0",
+      "Brad Koplinski": "2",
+      "ward": 28,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "57",
+      "Mark Smith": "9",
+      "Brandon P Neuman": "6",
+      "Mark Critz": "4",
+      "Brad Koplinski": "2",
+      "ward": 28,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Mark Smith": "Mark Smith",
+      "Brandon P Neuman": "Brandon P Neuman",
+      "Mark Critz": "Mark Critz",
+      "Brad Koplinski": "Brad Koplinski",
+      "ward": 28,
+      "division": 4
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "63",
+      "Mark Smith": "0",
+      "Brandon P Neuman": "0",
+      "Mark Critz": "0",
+      "Brad Koplinski": "0",
+      "ward": 28,
+      "division": 4
+    },
+    {
+      "Candidate": "Mark Smith",
+      "Mike Stack": "0",
+      "Mark Smith": "9",
+      "Brandon P Neuman": "0",
+      "Mark Critz": "0",
+      "Brad Koplinski": "0",
+      "ward": 28,
+      "division": 4
+    },
+    {
+      "Candidate": "Brandon P Neuman",
+      "Mike Stack": "0",
+      "Mark Smith": "0",
+      "Brandon P Neuman": "5",
+      "Mark Critz": "0",
+      "Brad Koplinski": "0",
+      "ward": 28,
+      "division": 4
+    },
+    {
+      "Candidate": "Mark Critz",
+      "Mike Stack": "0",
+      "Mark Smith": "0",
+      "Brandon P Neuman": "0",
+      "Mark Critz": "2",
+      "Brad Koplinski": "0",
+      "ward": 28,
+      "division": 4
+    },
+    {
+      "Candidate": "Brad Koplinski",
+      "Mike Stack": "0",
+      "Mark Smith": "0",
+      "Brandon P Neuman": "0",
+      "Mark Critz": "0",
+      "Brad Koplinski": "1",
+      "ward": 28,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "63",
+      "Mark Smith": "9",
+      "Brandon P Neuman": "5",
+      "Mark Critz": "2",
+      "Brad Koplinski": "1",
+      "ward": 28,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Mark Smith": "Mark Smith",
+      "Brandon P Neuman": "Brandon P Neuman",
+      "Mark Critz": "Mark Critz",
+      "ward": 28,
+      "division": 5
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "73",
+      "Mark Smith": "0",
+      "Brandon P Neuman": "0",
+      "Mark Critz": "0",
+      "ward": 28,
+      "division": 5
+    },
+    {
+      "Candidate": "Mark Smith",
+      "Mike Stack": "0",
+      "Mark Smith": "9",
+      "Brandon P Neuman": "0",
+      "Mark Critz": "0",
+      "ward": 28,
+      "division": 5
+    },
+    {
+      "Candidate": "Brandon P Neuman",
+      "Mike Stack": "0",
+      "Mark Smith": "0",
+      "Brandon P Neuman": "6",
+      "Mark Critz": "0",
+      "ward": 28,
+      "division": 5
+    },
+    {
+      "Candidate": "Mark Critz",
+      "Mike Stack": "0",
+      "Mark Smith": "0",
+      "Brandon P Neuman": "0",
+      "Mark Critz": "3",
+      "ward": 28,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "73",
+      "Mark Smith": "9",
+      "Brandon P Neuman": "6",
+      "Mark Critz": "3",
+      "ward": 28,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Mark Smith": "Mark Smith",
+      "Mark Critz": "Mark Critz",
+      "Brad Koplinski": "Brad Koplinski",
+      "Brandon P Neuman": "Brandon P Neuman",
+      "ward": 28,
+      "division": 6
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "41",
+      "Mark Smith": "0",
+      "Mark Critz": "0",
+      "Brad Koplinski": "0",
+      "Brandon P Neuman": "0",
+      "ward": 28,
+      "division": 6
+    },
+    {
+      "Candidate": "Mark Smith",
+      "Mike Stack": "0",
+      "Mark Smith": "8",
+      "Mark Critz": "0",
+      "Brad Koplinski": "0",
+      "Brandon P Neuman": "0",
+      "ward": 28,
+      "division": 6
+    },
+    {
+      "Candidate": "Mark Critz",
+      "Mike Stack": "0",
+      "Mark Smith": "0",
+      "Mark Critz": "4",
+      "Brad Koplinski": "0",
+      "Brandon P Neuman": "0",
+      "ward": 28,
+      "division": 6
+    },
+    {
+      "Candidate": "Brad Koplinski",
+      "Mike Stack": "0",
+      "Mark Smith": "0",
+      "Mark Critz": "0",
+      "Brad Koplinski": "2",
+      "Brandon P Neuman": "0",
+      "ward": 28,
+      "division": 6
+    },
+    {
+      "Candidate": "Brandon P Neuman",
+      "Mike Stack": "0",
+      "Mark Smith": "0",
+      "Mark Critz": "0",
+      "Brad Koplinski": "0",
+      "Brandon P Neuman": "2",
+      "ward": 28,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "41",
+      "Mark Smith": "8",
+      "Mark Critz": "4",
+      "Brad Koplinski": "2",
+      "Brandon P Neuman": "2",
+      "ward": 28,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Mark Smith": "Mark Smith",
+      "ward": 28,
+      "division": 7
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "9",
+      "Mark Smith": "0",
+      "ward": 28,
+      "division": 7
+    },
+    {
+      "Candidate": "Mark Smith",
+      "Mike Stack": "0",
+      "Mark Smith": "1",
+      "ward": 28,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "9",
+      "Mark Smith": "1",
+      "ward": 28,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Mark Critz": "Mark Critz",
+      "Brad Koplinski": "Brad Koplinski",
+      "Brandon P Neuman": "Brandon P Neuman",
+      "Mark Smith": "Mark Smith",
+      "ward": 28,
+      "division": 8
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "116",
+      "Mark Critz": "0",
+      "Brad Koplinski": "0",
+      "Brandon P Neuman": "0",
+      "Mark Smith": "0",
+      "ward": 28,
+      "division": 8
+    },
+    {
+      "Candidate": "Mark Critz",
+      "Mike Stack": "0",
+      "Mark Critz": "6",
+      "Brad Koplinski": "0",
+      "Brandon P Neuman": "0",
+      "Mark Smith": "0",
+      "ward": 28,
+      "division": 8
+    },
+    {
+      "Candidate": "Brad Koplinski",
+      "Mike Stack": "0",
+      "Mark Critz": "0",
+      "Brad Koplinski": "5",
+      "Brandon P Neuman": "0",
+      "Mark Smith": "0",
+      "ward": 28,
+      "division": 8
+    },
+    {
+      "Candidate": "Brandon P Neuman",
+      "Mike Stack": "0",
+      "Mark Critz": "0",
+      "Brad Koplinski": "0",
+      "Brandon P Neuman": "5",
+      "Mark Smith": "0",
+      "ward": 28,
+      "division": 8
+    },
+    {
+      "Candidate": "Mark Smith",
+      "Mike Stack": "0",
+      "Mark Critz": "0",
+      "Brad Koplinski": "0",
+      "Brandon P Neuman": "0",
+      "Mark Smith": "4",
+      "ward": 28,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "116",
+      "Mark Critz": "6",
+      "Brad Koplinski": "5",
+      "Brandon P Neuman": "5",
+      "Mark Smith": "4",
+      "ward": 28,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Brandon P Neuman": "Brandon P Neuman",
+      "Brad Koplinski": "Brad Koplinski",
+      "Mark Smith": "Mark Smith",
+      "Mark Critz": "Mark Critz",
+      "ward": 28,
+      "division": 9
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "67",
+      "Brandon P Neuman": "0",
+      "Brad Koplinski": "0",
+      "Mark Smith": "0",
+      "Mark Critz": "0",
+      "ward": 28,
+      "division": 9
+    },
+    {
+      "Candidate": "Brandon P Neuman",
+      "Mike Stack": "0",
+      "Brandon P Neuman": "7",
+      "Brad Koplinski": "0",
+      "Mark Smith": "0",
+      "Mark Critz": "0",
+      "ward": 28,
+      "division": 9
+    },
+    {
+      "Candidate": "Brad Koplinski",
+      "Mike Stack": "0",
+      "Brandon P Neuman": "0",
+      "Brad Koplinski": "6",
+      "Mark Smith": "0",
+      "Mark Critz": "0",
+      "ward": 28,
+      "division": 9
+    },
+    {
+      "Candidate": "Mark Smith",
+      "Mike Stack": "0",
+      "Brandon P Neuman": "0",
+      "Brad Koplinski": "0",
+      "Mark Smith": "6",
+      "Mark Critz": "0",
+      "ward": 28,
+      "division": 9
+    },
+    {
+      "Candidate": "Mark Critz",
+      "Mike Stack": "0",
+      "Brandon P Neuman": "0",
+      "Brad Koplinski": "0",
+      "Mark Smith": "0",
+      "Mark Critz": "2",
+      "ward": 28,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "67",
+      "Brandon P Neuman": "7",
+      "Brad Koplinski": "6",
+      "Mark Smith": "6",
+      "Mark Critz": "2",
+      "ward": 28,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Brandon P Neuman": "Brandon P Neuman",
+      "Mark Critz": "Mark Critz",
+      "Mark Smith": "Mark Smith",
+      "Brad Koplinski": "Brad Koplinski",
+      "ward": 28,
+      "division": 10
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "48",
+      "Brandon P Neuman": "0",
+      "Mark Critz": "0",
+      "Mark Smith": "0",
+      "Brad Koplinski": "0",
+      "ward": 28,
+      "division": 10
+    },
+    {
+      "Candidate": "Brandon P Neuman",
+      "Mike Stack": "0",
+      "Brandon P Neuman": "5",
+      "Mark Critz": "0",
+      "Mark Smith": "0",
+      "Brad Koplinski": "0",
+      "ward": 28,
+      "division": 10
+    },
+    {
+      "Candidate": "Mark Critz",
+      "Mike Stack": "0",
+      "Brandon P Neuman": "0",
+      "Mark Critz": "3",
+      "Mark Smith": "0",
+      "Brad Koplinski": "0",
+      "ward": 28,
+      "division": 10
+    },
+    {
+      "Candidate": "Mark Smith",
+      "Mike Stack": "0",
+      "Brandon P Neuman": "0",
+      "Mark Critz": "0",
+      "Mark Smith": "3",
+      "Brad Koplinski": "0",
+      "ward": 28,
+      "division": 10
+    },
+    {
+      "Candidate": "Brad Koplinski",
+      "Mike Stack": "0",
+      "Brandon P Neuman": "0",
+      "Mark Critz": "0",
+      "Mark Smith": "0",
+      "Brad Koplinski": "1",
+      "ward": 28,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "48",
+      "Brandon P Neuman": "5",
+      "Mark Critz": "3",
+      "Mark Smith": "3",
+      "Brad Koplinski": "1",
+      "ward": 28,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Mark Critz": "Mark Critz",
+      "Mark Smith": "Mark Smith",
+      "ward": 28,
+      "division": 11
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "29",
+      "Mark Critz": "0",
+      "Mark Smith": "0",
+      "ward": 28,
+      "division": 11
+    },
+    {
+      "Candidate": "Mark Critz",
+      "Mike Stack": "0",
+      "Mark Critz": "1",
+      "Mark Smith": "0",
+      "ward": 28,
+      "division": 11
+    },
+    {
+      "Candidate": "Mark Smith",
+      "Mike Stack": "0",
+      "Mark Critz": "0",
+      "Mark Smith": "1",
+      "ward": 28,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "29",
+      "Mark Critz": "1",
+      "Mark Smith": "1",
+      "ward": 28,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Brandon P Neuman": "Brandon P Neuman",
+      "Mark Critz": "Mark Critz",
+      "Mark Smith": "Mark Smith",
+      "Brad Koplinski": "Brad Koplinski",
+      "ward": 28,
+      "division": 12
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "43",
+      "Brandon P Neuman": "0",
+      "Mark Critz": "0",
+      "Mark Smith": "0",
+      "Brad Koplinski": "0",
+      "ward": 28,
+      "division": 12
+    },
+    {
+      "Candidate": "Brandon P Neuman",
+      "Mike Stack": "0",
+      "Brandon P Neuman": "4",
+      "Mark Critz": "0",
+      "Mark Smith": "0",
+      "Brad Koplinski": "0",
+      "ward": 28,
+      "division": 12
+    },
+    {
+      "Candidate": "Mark Critz",
+      "Mike Stack": "0",
+      "Brandon P Neuman": "0",
+      "Mark Critz": "4",
+      "Mark Smith": "0",
+      "Brad Koplinski": "0",
+      "ward": 28,
+      "division": 12
+    },
+    {
+      "Candidate": "Mark Smith",
+      "Mike Stack": "0",
+      "Brandon P Neuman": "0",
+      "Mark Critz": "0",
+      "Mark Smith": "2",
+      "Brad Koplinski": "0",
+      "ward": 28,
+      "division": 12
+    },
+    {
+      "Candidate": "Brad Koplinski",
+      "Mike Stack": "0",
+      "Brandon P Neuman": "0",
+      "Mark Critz": "0",
+      "Mark Smith": "0",
+      "Brad Koplinski": "1",
+      "ward": 28,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "43",
+      "Brandon P Neuman": "4",
+      "Mark Critz": "4",
+      "Mark Smith": "2",
+      "Brad Koplinski": "1",
+      "ward": 28,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Mark Critz": "Mark Critz",
+      "Brad Koplinski": "Brad Koplinski",
+      "Mark Smith": "Mark Smith",
+      "Brandon P Neuman": "Brandon P Neuman",
+      "ward": 28,
+      "division": 13
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "57",
+      "Mark Critz": "0",
+      "Brad Koplinski": "0",
+      "Mark Smith": "0",
+      "Brandon P Neuman": "0",
+      "ward": 28,
+      "division": 13
+    },
+    {
+      "Candidate": "Mark Critz",
+      "Mike Stack": "0",
+      "Mark Critz": "6",
+      "Brad Koplinski": "0",
+      "Mark Smith": "0",
+      "Brandon P Neuman": "0",
+      "ward": 28,
+      "division": 13
+    },
+    {
+      "Candidate": "Brad Koplinski",
+      "Mike Stack": "0",
+      "Mark Critz": "0",
+      "Brad Koplinski": "3",
+      "Mark Smith": "0",
+      "Brandon P Neuman": "0",
+      "ward": 28,
+      "division": 13
+    },
+    {
+      "Candidate": "Mark Smith",
+      "Mike Stack": "0",
+      "Mark Critz": "0",
+      "Brad Koplinski": "0",
+      "Mark Smith": "3",
+      "Brandon P Neuman": "0",
+      "ward": 28,
+      "division": 13
+    },
+    {
+      "Candidate": "Brandon P Neuman",
+      "Mike Stack": "0",
+      "Mark Critz": "0",
+      "Brad Koplinski": "0",
+      "Mark Smith": "0",
+      "Brandon P Neuman": "2",
+      "ward": 28,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "57",
+      "Mark Critz": "6",
+      "Brad Koplinski": "3",
+      "Mark Smith": "3",
+      "Brandon P Neuman": "2",
+      "ward": 28,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Mark Smith": "Mark Smith",
+      "Mark Critz": "Mark Critz",
+      "Brad Koplinski": "Brad Koplinski",
+      "Brandon P Neuman": "Brandon P Neuman",
+      "ward": 28,
+      "division": 14
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "54",
+      "Mark Smith": "0",
+      "Mark Critz": "0",
+      "Brad Koplinski": "0",
+      "Brandon P Neuman": "0",
+      "ward": 28,
+      "division": 14
+    },
+    {
+      "Candidate": "Mark Smith",
+      "Mike Stack": "0",
+      "Mark Smith": "5",
+      "Mark Critz": "0",
+      "Brad Koplinski": "0",
+      "Brandon P Neuman": "0",
+      "ward": 28,
+      "division": 14
+    },
+    {
+      "Candidate": "Mark Critz",
+      "Mike Stack": "0",
+      "Mark Smith": "0",
+      "Mark Critz": "3",
+      "Brad Koplinski": "0",
+      "Brandon P Neuman": "0",
+      "ward": 28,
+      "division": 14
+    },
+    {
+      "Candidate": "Brad Koplinski",
+      "Mike Stack": "0",
+      "Mark Smith": "0",
+      "Mark Critz": "0",
+      "Brad Koplinski": "2",
+      "Brandon P Neuman": "0",
+      "ward": 28,
+      "division": 14
+    },
+    {
+      "Candidate": "Brandon P Neuman",
+      "Mike Stack": "0",
+      "Mark Smith": "0",
+      "Mark Critz": "0",
+      "Brad Koplinski": "0",
+      "Brandon P Neuman": "2",
+      "ward": 28,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "54",
+      "Mark Smith": "5",
+      "Mark Critz": "3",
+      "Brad Koplinski": "2",
+      "Brandon P Neuman": "2",
+      "ward": 28,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Mark Smith": "Mark Smith",
+      "Mark Critz": "Mark Critz",
+      "ward": 28,
+      "division": 15
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "48",
+      "Mark Smith": "0",
+      "Mark Critz": "0",
+      "ward": 28,
+      "division": 15
+    },
+    {
+      "Candidate": "Mark Smith",
+      "Mike Stack": "0",
+      "Mark Smith": "2",
+      "Mark Critz": "0",
+      "ward": 28,
+      "division": 15
+    },
+    {
+      "Candidate": "Mark Critz",
+      "Mike Stack": "0",
+      "Mark Smith": "0",
+      "Mark Critz": "1",
+      "ward": 28,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "48",
+      "Mark Smith": "2",
+      "Mark Critz": "1",
+      "ward": 28,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Brandon P Neuman": "Brandon P Neuman",
+      "Mark Smith": "Mark Smith",
+      "Mark Critz": "Mark Critz",
+      "Brad Koplinski": "Brad Koplinski",
+      "ward": 28,
+      "division": 16
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "55",
+      "Brandon P Neuman": "0",
+      "Mark Smith": "0",
+      "Mark Critz": "0",
+      "Brad Koplinski": "0",
+      "ward": 28,
+      "division": 16
+    },
+    {
+      "Candidate": "Brandon P Neuman",
+      "Mike Stack": "0",
+      "Brandon P Neuman": "3",
+      "Mark Smith": "0",
+      "Mark Critz": "0",
+      "Brad Koplinski": "0",
+      "ward": 28,
+      "division": 16
+    },
+    {
+      "Candidate": "Mark Smith",
+      "Mike Stack": "0",
+      "Brandon P Neuman": "0",
+      "Mark Smith": "3",
+      "Mark Critz": "0",
+      "Brad Koplinski": "0",
+      "ward": 28,
+      "division": 16
+    },
+    {
+      "Candidate": "Mark Critz",
+      "Mike Stack": "0",
+      "Brandon P Neuman": "0",
+      "Mark Smith": "0",
+      "Mark Critz": "2",
+      "Brad Koplinski": "0",
+      "ward": 28,
+      "division": 16
+    },
+    {
+      "Candidate": "Brad Koplinski",
+      "Mike Stack": "0",
+      "Brandon P Neuman": "0",
+      "Mark Smith": "0",
+      "Mark Critz": "0",
+      "Brad Koplinski": "1",
+      "ward": 28,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "55",
+      "Brandon P Neuman": "3",
+      "Mark Smith": "3",
+      "Mark Critz": "2",
+      "Brad Koplinski": "1",
+      "ward": 28,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Mark Smith": "Mark Smith",
+      "Brad Koplinski": "Brad Koplinski",
+      "Brandon P Neuman": "Brandon P Neuman",
+      "Mark Critz": "Mark Critz",
+      "ward": 28,
+      "division": 17
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "55",
+      "Mark Smith": "0",
+      "Brad Koplinski": "0",
+      "Brandon P Neuman": "0",
+      "Mark Critz": "0",
+      "ward": 28,
+      "division": 17
+    },
+    {
+      "Candidate": "Mark Smith",
+      "Mike Stack": "0",
+      "Mark Smith": "4",
+      "Brad Koplinski": "0",
+      "Brandon P Neuman": "0",
+      "Mark Critz": "0",
+      "ward": 28,
+      "division": 17
+    },
+    {
+      "Candidate": "Brad Koplinski",
+      "Mike Stack": "0",
+      "Mark Smith": "0",
+      "Brad Koplinski": "2",
+      "Brandon P Neuman": "0",
+      "Mark Critz": "0",
+      "ward": 28,
+      "division": 17
+    },
+    {
+      "Candidate": "Brandon P Neuman",
+      "Mike Stack": "0",
+      "Mark Smith": "0",
+      "Brad Koplinski": "0",
+      "Brandon P Neuman": "2",
+      "Mark Critz": "0",
+      "ward": 28,
+      "division": 17
+    },
+    {
+      "Candidate": "Mark Critz",
+      "Mike Stack": "0",
+      "Mark Smith": "0",
+      "Brad Koplinski": "0",
+      "Brandon P Neuman": "0",
+      "Mark Critz": "1",
+      "ward": 28,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "55",
+      "Mark Smith": "4",
+      "Brad Koplinski": "2",
+      "Brandon P Neuman": "2",
+      "Mark Critz": "1",
+      "ward": 28,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Mark Critz": "Mark Critz",
+      "Brad Koplinski": "Brad Koplinski",
+      "Brandon P Neuman": "Brandon P Neuman",
+      "ward": 28,
+      "division": 18
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "66",
+      "Mark Critz": "0",
+      "Brad Koplinski": "0",
+      "Brandon P Neuman": "0",
+      "ward": 28,
+      "division": 18
+    },
+    {
+      "Candidate": "Mark Critz",
+      "Mike Stack": "0",
+      "Mark Critz": "3",
+      "Brad Koplinski": "0",
+      "Brandon P Neuman": "0",
+      "ward": 28,
+      "division": 18
+    },
+    {
+      "Candidate": "Brad Koplinski",
+      "Mike Stack": "0",
+      "Mark Critz": "0",
+      "Brad Koplinski": "2",
+      "Brandon P Neuman": "0",
+      "ward": 28,
+      "division": 18
+    },
+    {
+      "Candidate": "Brandon P Neuman",
+      "Mike Stack": "0",
+      "Mark Critz": "0",
+      "Brad Koplinski": "0",
+      "Brandon P Neuman": "1",
+      "ward": 28,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "66",
+      "Mark Critz": "3",
+      "Brad Koplinski": "2",
+      "Brandon P Neuman": "1",
+      "ward": 28,
+      "division": 18
+    }
+  ]
+]

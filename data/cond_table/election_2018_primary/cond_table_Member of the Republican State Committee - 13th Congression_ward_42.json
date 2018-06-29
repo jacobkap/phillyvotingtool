@@ -1,0 +1,826 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Linwood Holland": "Linwood Holland",
+      "Camille G Mccolgan": "Camille G Mccolgan",
+      "Margaret L Recupido": "Margaret L Recupido",
+      "Dan Tinney": "Dan Tinney",
+      "Joseph Giedemann": "Joseph Giedemann",
+      "ward": 42,
+      "division": "All"
+    },
+    {
+      "Candidate": "Linwood Holland",
+      "Linwood Holland": "9",
+      "Camille G Mccolgan": "17",
+      "Margaret L Recupido": "15",
+      "Dan Tinney": "9",
+      "Joseph Giedemann": "6",
+      "ward": 42,
+      "division": "All"
+    },
+    {
+      "Candidate": "Camille G Mccolgan",
+      "Linwood Holland": "17",
+      "Camille G Mccolgan": "5",
+      "Margaret L Recupido": "16",
+      "Dan Tinney": "9",
+      "Joseph Giedemann": "6",
+      "ward": 42,
+      "division": "All"
+    },
+    {
+      "Candidate": "Margaret L Recupido",
+      "Linwood Holland": "15",
+      "Camille G Mccolgan": "16",
+      "Margaret L Recupido": "5",
+      "Dan Tinney": "8",
+      "Joseph Giedemann": "4",
+      "ward": 42,
+      "division": "All"
+    },
+    {
+      "Candidate": "Dan Tinney",
+      "Linwood Holland": "9",
+      "Camille G Mccolgan": "9",
+      "Margaret L Recupido": "8",
+      "Dan Tinney": "0",
+      "Joseph Giedemann": "5",
+      "ward": 42,
+      "division": "All"
+    },
+    {
+      "Candidate": "Joseph Giedemann",
+      "Linwood Holland": "6",
+      "Camille G Mccolgan": "6",
+      "Margaret L Recupido": "4",
+      "Dan Tinney": "5",
+      "Joseph Giedemann": "1",
+      "ward": 42,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Linwood Holland": "27",
+      "Camille G Mccolgan": "25",
+      "Margaret L Recupido": "24",
+      "Dan Tinney": "13",
+      "Joseph Giedemann": "9",
+      "ward": 42,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Camille G Mccolgan": "Camille G Mccolgan",
+      "ward": 42,
+      "division": 1
+    },
+    {
+      "Candidate": "Camille G Mccolgan",
+      "Camille G Mccolgan": "1",
+      "ward": 42,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Camille G Mccolgan": "1",
+      "ward": 42,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Margaret L Recupido": "Margaret L Recupido",
+      "Camille G Mccolgan": "Camille G Mccolgan",
+      "Dan Tinney": "Dan Tinney",
+      "Joseph Giedemann": "Joseph Giedemann",
+      "Linwood Holland": "Linwood Holland",
+      "ward": 42,
+      "division": 2
+    },
+    {
+      "Candidate": "Margaret L Recupido",
+      "Margaret L Recupido": "2",
+      "Camille G Mccolgan": "2",
+      "Dan Tinney": "1",
+      "Joseph Giedemann": "1",
+      "Linwood Holland": "1",
+      "ward": 42,
+      "division": 2
+    },
+    {
+      "Candidate": "Camille G Mccolgan",
+      "Margaret L Recupido": "2",
+      "Camille G Mccolgan": "0",
+      "Dan Tinney": "1",
+      "Joseph Giedemann": "1",
+      "Linwood Holland": "1",
+      "ward": 42,
+      "division": 2
+    },
+    {
+      "Candidate": "Dan Tinney",
+      "Margaret L Recupido": "1",
+      "Camille G Mccolgan": "1",
+      "Dan Tinney": "0",
+      "Joseph Giedemann": "0",
+      "Linwood Holland": "1",
+      "ward": 42,
+      "division": 2
+    },
+    {
+      "Candidate": "Joseph Giedemann",
+      "Margaret L Recupido": "1",
+      "Camille G Mccolgan": "1",
+      "Dan Tinney": "0",
+      "Joseph Giedemann": "0",
+      "Linwood Holland": "0",
+      "ward": 42,
+      "division": 2
+    },
+    {
+      "Candidate": "Linwood Holland",
+      "Margaret L Recupido": "1",
+      "Camille G Mccolgan": "1",
+      "Dan Tinney": "1",
+      "Joseph Giedemann": "0",
+      "Linwood Holland": "0",
+      "ward": 42,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "Margaret L Recupido": "4",
+      "Camille G Mccolgan": "2",
+      "Dan Tinney": "1",
+      "Joseph Giedemann": "1",
+      "Linwood Holland": "1",
+      "ward": 42,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Margaret L Recupido": "Margaret L Recupido",
+      "Linwood Holland": "Linwood Holland",
+      "ward": 42,
+      "division": 3
+    },
+    {
+      "Candidate": "Margaret L Recupido",
+      "Margaret L Recupido": "2",
+      "Linwood Holland": "0",
+      "ward": 42,
+      "division": 3
+    },
+    {
+      "Candidate": "Linwood Holland",
+      "Margaret L Recupido": "0",
+      "Linwood Holland": "1",
+      "ward": 42,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Margaret L Recupido": "2",
+      "Linwood Holland": "1",
+      "ward": 42,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Linwood Holland": "Linwood Holland",
+      "ward": 42,
+      "division": 6
+    },
+    {
+      "Candidate": "Linwood Holland",
+      "Linwood Holland": "3",
+      "ward": 42,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "Linwood Holland": "3",
+      "ward": 42,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Linwood Holland": "Linwood Holland",
+      "Camille G Mccolgan": "Camille G Mccolgan",
+      "Dan Tinney": "Dan Tinney",
+      "Joseph Giedemann": "Joseph Giedemann",
+      "Margaret L Recupido": "Margaret L Recupido",
+      "ward": 42,
+      "division": 7
+    },
+    {
+      "Candidate": "Linwood Holland",
+      "Linwood Holland": "0",
+      "Camille G Mccolgan": "3",
+      "Dan Tinney": "3",
+      "Joseph Giedemann": "3",
+      "Margaret L Recupido": "3",
+      "ward": 42,
+      "division": 7
+    },
+    {
+      "Candidate": "Camille G Mccolgan",
+      "Linwood Holland": "3",
+      "Camille G Mccolgan": "0",
+      "Dan Tinney": "2",
+      "Joseph Giedemann": "2",
+      "Margaret L Recupido": "2",
+      "ward": 42,
+      "division": 7
+    },
+    {
+      "Candidate": "Dan Tinney",
+      "Linwood Holland": "3",
+      "Camille G Mccolgan": "2",
+      "Dan Tinney": "0",
+      "Joseph Giedemann": "2",
+      "Margaret L Recupido": "2",
+      "ward": 42,
+      "division": 7
+    },
+    {
+      "Candidate": "Joseph Giedemann",
+      "Linwood Holland": "3",
+      "Camille G Mccolgan": "2",
+      "Dan Tinney": "2",
+      "Joseph Giedemann": "0",
+      "Margaret L Recupido": "2",
+      "ward": 42,
+      "division": 7
+    },
+    {
+      "Candidate": "Margaret L Recupido",
+      "Linwood Holland": "3",
+      "Camille G Mccolgan": "2",
+      "Dan Tinney": "2",
+      "Joseph Giedemann": "2",
+      "Margaret L Recupido": "0",
+      "ward": 42,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Linwood Holland": "4",
+      "Camille G Mccolgan": "3",
+      "Dan Tinney": "3",
+      "Joseph Giedemann": "3",
+      "Margaret L Recupido": "3",
+      "ward": 42,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Linwood Holland": "Linwood Holland",
+      "ward": 42,
+      "division": 8
+    },
+    {
+      "Candidate": "Linwood Holland",
+      "Linwood Holland": "2",
+      "ward": 42,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Linwood Holland": "2",
+      "ward": 42,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Camille G Mccolgan": "Camille G Mccolgan",
+      "Dan Tinney": "Dan Tinney",
+      "Linwood Holland": "Linwood Holland",
+      "Margaret L Recupido": "Margaret L Recupido",
+      "ward": 42,
+      "division": 9
+    },
+    {
+      "Candidate": "Camille G Mccolgan",
+      "Camille G Mccolgan": "0",
+      "Dan Tinney": "2",
+      "Linwood Holland": "1",
+      "Margaret L Recupido": "1",
+      "ward": 42,
+      "division": 9
+    },
+    {
+      "Candidate": "Dan Tinney",
+      "Camille G Mccolgan": "2",
+      "Dan Tinney": "0",
+      "Linwood Holland": "1",
+      "Margaret L Recupido": "1",
+      "ward": 42,
+      "division": 9
+    },
+    {
+      "Candidate": "Linwood Holland",
+      "Camille G Mccolgan": "1",
+      "Dan Tinney": "1",
+      "Linwood Holland": "0",
+      "Margaret L Recupido": "1",
+      "ward": 42,
+      "division": 9
+    },
+    {
+      "Candidate": "Margaret L Recupido",
+      "Camille G Mccolgan": "1",
+      "Dan Tinney": "1",
+      "Linwood Holland": "1",
+      "Margaret L Recupido": "0",
+      "ward": 42,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Camille G Mccolgan": "2",
+      "Dan Tinney": "2",
+      "Linwood Holland": "1",
+      "Margaret L Recupido": "1",
+      "ward": 42,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dan Tinney": "Dan Tinney",
+      "Margaret L Recupido": "Margaret L Recupido",
+      "ward": 42,
+      "division": 11
+    },
+    {
+      "Candidate": "Dan Tinney",
+      "Dan Tinney": "0",
+      "Margaret L Recupido": "1",
+      "ward": 42,
+      "division": 11
+    },
+    {
+      "Candidate": "Margaret L Recupido",
+      "Dan Tinney": "1",
+      "Margaret L Recupido": "0",
+      "ward": 42,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Dan Tinney": "1",
+      "Margaret L Recupido": "1",
+      "ward": 42,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Camille G Mccolgan": "Camille G Mccolgan",
+      "Dan Tinney": "Dan Tinney",
+      "Joseph Giedemann": "Joseph Giedemann",
+      "ward": 42,
+      "division": 14
+    },
+    {
+      "Candidate": "Camille G Mccolgan",
+      "Camille G Mccolgan": "2",
+      "Dan Tinney": "0",
+      "Joseph Giedemann": "0",
+      "ward": 42,
+      "division": 14
+    },
+    {
+      "Candidate": "Dan Tinney",
+      "Camille G Mccolgan": "0",
+      "Dan Tinney": "0",
+      "Joseph Giedemann": "1",
+      "ward": 42,
+      "division": 14
+    },
+    {
+      "Candidate": "Joseph Giedemann",
+      "Camille G Mccolgan": "0",
+      "Dan Tinney": "1",
+      "Joseph Giedemann": "0",
+      "ward": 42,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "Camille G Mccolgan": "2",
+      "Dan Tinney": "1",
+      "Joseph Giedemann": "1",
+      "ward": 42,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Camille G Mccolgan": "Camille G Mccolgan",
+      "Linwood Holland": "Linwood Holland",
+      "Margaret L Recupido": "Margaret L Recupido",
+      "Joseph Giedemann": "Joseph Giedemann",
+      "ward": 42,
+      "division": 15
+    },
+    {
+      "Candidate": "Camille G Mccolgan",
+      "Camille G Mccolgan": "1",
+      "Linwood Holland": "4",
+      "Margaret L Recupido": "4",
+      "Joseph Giedemann": "1",
+      "ward": 42,
+      "division": 15
+    },
+    {
+      "Candidate": "Linwood Holland",
+      "Camille G Mccolgan": "4",
+      "Linwood Holland": "0",
+      "Margaret L Recupido": "4",
+      "Joseph Giedemann": "1",
+      "ward": 42,
+      "division": 15
+    },
+    {
+      "Candidate": "Margaret L Recupido",
+      "Camille G Mccolgan": "4",
+      "Linwood Holland": "4",
+      "Margaret L Recupido": "0",
+      "Joseph Giedemann": "1",
+      "ward": 42,
+      "division": 15
+    },
+    {
+      "Candidate": "Joseph Giedemann",
+      "Camille G Mccolgan": "1",
+      "Linwood Holland": "1",
+      "Margaret L Recupido": "1",
+      "Joseph Giedemann": "0",
+      "ward": 42,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "Camille G Mccolgan": "5",
+      "Linwood Holland": "4",
+      "Margaret L Recupido": "4",
+      "Joseph Giedemann": "1",
+      "ward": 42,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Camille G Mccolgan": "Camille G Mccolgan",
+      "Margaret L Recupido": "Margaret L Recupido",
+      "ward": 42,
+      "division": 16
+    },
+    {
+      "Candidate": "Camille G Mccolgan",
+      "Camille G Mccolgan": "0",
+      "Margaret L Recupido": "1",
+      "ward": 42,
+      "division": 16
+    },
+    {
+      "Candidate": "Margaret L Recupido",
+      "Camille G Mccolgan": "1",
+      "Margaret L Recupido": "0",
+      "ward": 42,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "Camille G Mccolgan": "1",
+      "Margaret L Recupido": "1",
+      "ward": 42,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Linwood Holland": "Linwood Holland",
+      "ward": 42,
+      "division": 17
+    },
+    {
+      "Candidate": "Linwood Holland",
+      "Linwood Holland": "2",
+      "ward": 42,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "Linwood Holland": "2",
+      "ward": 42,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dan Tinney": "Dan Tinney",
+      "Camille G Mccolgan": "Camille G Mccolgan",
+      "Linwood Holland": "Linwood Holland",
+      "Margaret L Recupido": "Margaret L Recupido",
+      "Joseph Giedemann": "Joseph Giedemann",
+      "ward": 42,
+      "division": 18
+    },
+    {
+      "Candidate": "Dan Tinney",
+      "Dan Tinney": "0",
+      "Camille G Mccolgan": "2",
+      "Linwood Holland": "2",
+      "Margaret L Recupido": "2",
+      "Joseph Giedemann": "1",
+      "ward": 42,
+      "division": 18
+    },
+    {
+      "Candidate": "Camille G Mccolgan",
+      "Dan Tinney": "2",
+      "Camille G Mccolgan": "0",
+      "Linwood Holland": "2",
+      "Margaret L Recupido": "1",
+      "Joseph Giedemann": "1",
+      "ward": 42,
+      "division": 18
+    },
+    {
+      "Candidate": "Linwood Holland",
+      "Dan Tinney": "2",
+      "Camille G Mccolgan": "2",
+      "Linwood Holland": "0",
+      "Margaret L Recupido": "1",
+      "Joseph Giedemann": "1",
+      "ward": 42,
+      "division": 18
+    },
+    {
+      "Candidate": "Margaret L Recupido",
+      "Dan Tinney": "2",
+      "Camille G Mccolgan": "1",
+      "Linwood Holland": "1",
+      "Margaret L Recupido": "0",
+      "Joseph Giedemann": "0",
+      "ward": 42,
+      "division": 18
+    },
+    {
+      "Candidate": "Joseph Giedemann",
+      "Dan Tinney": "1",
+      "Camille G Mccolgan": "1",
+      "Linwood Holland": "1",
+      "Margaret L Recupido": "0",
+      "Joseph Giedemann": "0",
+      "ward": 42,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "Dan Tinney": "3",
+      "Camille G Mccolgan": "2",
+      "Linwood Holland": "2",
+      "Margaret L Recupido": "2",
+      "Joseph Giedemann": "1",
+      "ward": 42,
+      "division": 18
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Camille G Mccolgan": "Camille G Mccolgan",
+      "Linwood Holland": "Linwood Holland",
+      "Margaret L Recupido": "Margaret L Recupido",
+      "ward": 42,
+      "division": 20
+    },
+    {
+      "Candidate": "Camille G Mccolgan",
+      "Camille G Mccolgan": "0",
+      "Linwood Holland": "1",
+      "Margaret L Recupido": "1",
+      "ward": 42,
+      "division": 20
+    },
+    {
+      "Candidate": "Linwood Holland",
+      "Camille G Mccolgan": "1",
+      "Linwood Holland": "0",
+      "Margaret L Recupido": "1",
+      "ward": 42,
+      "division": 20
+    },
+    {
+      "Candidate": "Margaret L Recupido",
+      "Camille G Mccolgan": "1",
+      "Linwood Holland": "1",
+      "Margaret L Recupido": "0",
+      "ward": 42,
+      "division": 20
+    },
+    {
+      "Candidate": "Total",
+      "Camille G Mccolgan": "1",
+      "Linwood Holland": "1",
+      "Margaret L Recupido": "1",
+      "ward": 42,
+      "division": 20
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Camille G Mccolgan": "Camille G Mccolgan",
+      "Joseph Giedemann": "Joseph Giedemann",
+      "Linwood Holland": "Linwood Holland",
+      "Margaret L Recupido": "Margaret L Recupido",
+      "ward": 42,
+      "division": 22
+    },
+    {
+      "Candidate": "Camille G Mccolgan",
+      "Camille G Mccolgan": "0",
+      "Joseph Giedemann": "0",
+      "Linwood Holland": "1",
+      "Margaret L Recupido": "1",
+      "ward": 42,
+      "division": 22
+    },
+    {
+      "Candidate": "Joseph Giedemann",
+      "Camille G Mccolgan": "0",
+      "Joseph Giedemann": "1",
+      "Linwood Holland": "0",
+      "Margaret L Recupido": "0",
+      "ward": 42,
+      "division": 22
+    },
+    {
+      "Candidate": "Linwood Holland",
+      "Camille G Mccolgan": "1",
+      "Joseph Giedemann": "0",
+      "Linwood Holland": "0",
+      "Margaret L Recupido": "1",
+      "ward": 42,
+      "division": 22
+    },
+    {
+      "Candidate": "Margaret L Recupido",
+      "Camille G Mccolgan": "1",
+      "Joseph Giedemann": "0",
+      "Linwood Holland": "1",
+      "Margaret L Recupido": "0",
+      "ward": 42,
+      "division": 22
+    },
+    {
+      "Candidate": "Total",
+      "Camille G Mccolgan": "1",
+      "Joseph Giedemann": "1",
+      "Linwood Holland": "1",
+      "Margaret L Recupido": "1",
+      "ward": 42,
+      "division": 22
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Linwood Holland": "Linwood Holland",
+      "Camille G Mccolgan": "Camille G Mccolgan",
+      "Dan Tinney": "Dan Tinney",
+      "Margaret L Recupido": "Margaret L Recupido",
+      "Joseph Giedemann": "Joseph Giedemann",
+      "ward": 42,
+      "division": 24
+    },
+    {
+      "Candidate": "Linwood Holland",
+      "Linwood Holland": "1",
+      "Camille G Mccolgan": "3",
+      "Dan Tinney": "2",
+      "Margaret L Recupido": "2",
+      "Joseph Giedemann": "1",
+      "ward": 42,
+      "division": 24
+    },
+    {
+      "Candidate": "Camille G Mccolgan",
+      "Linwood Holland": "3",
+      "Camille G Mccolgan": "0",
+      "Dan Tinney": "2",
+      "Margaret L Recupido": "2",
+      "Joseph Giedemann": "1",
+      "ward": 42,
+      "division": 24
+    },
+    {
+      "Candidate": "Dan Tinney",
+      "Linwood Holland": "2",
+      "Camille G Mccolgan": "2",
+      "Dan Tinney": "0",
+      "Margaret L Recupido": "1",
+      "Joseph Giedemann": "1",
+      "ward": 42,
+      "division": 24
+    },
+    {
+      "Candidate": "Margaret L Recupido",
+      "Linwood Holland": "2",
+      "Camille G Mccolgan": "2",
+      "Dan Tinney": "1",
+      "Margaret L Recupido": "0",
+      "Joseph Giedemann": "0",
+      "ward": 42,
+      "division": 24
+    },
+    {
+      "Candidate": "Joseph Giedemann",
+      "Linwood Holland": "1",
+      "Camille G Mccolgan": "1",
+      "Dan Tinney": "1",
+      "Margaret L Recupido": "0",
+      "Joseph Giedemann": "0",
+      "ward": 42,
+      "division": 24
+    },
+    {
+      "Candidate": "Total",
+      "Linwood Holland": "4",
+      "Camille G Mccolgan": "3",
+      "Dan Tinney": "2",
+      "Margaret L Recupido": "2",
+      "Joseph Giedemann": "1",
+      "ward": 42,
+      "division": 24
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Camille G Mccolgan": "Camille G Mccolgan",
+      "Margaret L Recupido": "Margaret L Recupido",
+      "Linwood Holland": "Linwood Holland",
+      "ward": 42,
+      "division": 25
+    },
+    {
+      "Candidate": "Camille G Mccolgan",
+      "Camille G Mccolgan": "1",
+      "Margaret L Recupido": "1",
+      "Linwood Holland": "1",
+      "ward": 42,
+      "division": 25
+    },
+    {
+      "Candidate": "Margaret L Recupido",
+      "Camille G Mccolgan": "1",
+      "Margaret L Recupido": "1",
+      "Linwood Holland": "1",
+      "ward": 42,
+      "division": 25
+    },
+    {
+      "Candidate": "Linwood Holland",
+      "Camille G Mccolgan": "1",
+      "Margaret L Recupido": "1",
+      "Linwood Holland": "0",
+      "ward": 42,
+      "division": 25
+    },
+    {
+      "Candidate": "Total",
+      "Camille G Mccolgan": "2",
+      "Margaret L Recupido": "2",
+      "Linwood Holland": "1",
+      "ward": 42,
+      "division": 25
+    }
+  ]
+]

@@ -1,0 +1,926 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Kevin Johnson": "Kevin Johnson",
+      "Write In": "Write In",
+      "ward": 22,
+      "division": "All"
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "4225",
+      "Kevin Johnson": "0",
+      "Write In": "0",
+      "ward": 22,
+      "division": "All"
+    },
+    {
+      "Candidate": "Kevin Johnson",
+      "Dwight Evans": "0",
+      "Kevin Johnson": "1029",
+      "Write In": "0",
+      "ward": 22,
+      "division": "All"
+    },
+    {
+      "Candidate": "Write In",
+      "Dwight Evans": "0",
+      "Kevin Johnson": "0",
+      "Write In": "1",
+      "ward": 22,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "4225",
+      "Kevin Johnson": "1029",
+      "Write In": "1",
+      "ward": 22,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Kevin Johnson": "Kevin Johnson",
+      "ward": 22,
+      "division": 1
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "231",
+      "Kevin Johnson": "0",
+      "ward": 22,
+      "division": 1
+    },
+    {
+      "Candidate": "Kevin Johnson",
+      "Dwight Evans": "0",
+      "Kevin Johnson": "119",
+      "ward": 22,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "231",
+      "Kevin Johnson": "119",
+      "ward": 22,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Kevin Johnson": "Kevin Johnson",
+      "ward": 22,
+      "division": 2
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "281",
+      "Kevin Johnson": "0",
+      "ward": 22,
+      "division": 2
+    },
+    {
+      "Candidate": "Kevin Johnson",
+      "Dwight Evans": "0",
+      "Kevin Johnson": "48",
+      "ward": 22,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "281",
+      "Kevin Johnson": "48",
+      "ward": 22,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Kevin Johnson": "Kevin Johnson",
+      "Write In": "Write In",
+      "ward": 22,
+      "division": 3
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "143",
+      "Kevin Johnson": "0",
+      "Write In": "0",
+      "ward": 22,
+      "division": 3
+    },
+    {
+      "Candidate": "Kevin Johnson",
+      "Dwight Evans": "0",
+      "Kevin Johnson": "28",
+      "Write In": "0",
+      "ward": 22,
+      "division": 3
+    },
+    {
+      "Candidate": "Write In",
+      "Dwight Evans": "0",
+      "Kevin Johnson": "0",
+      "Write In": "1",
+      "ward": 22,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "143",
+      "Kevin Johnson": "28",
+      "Write In": "1",
+      "ward": 22,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Kevin Johnson": "Kevin Johnson",
+      "ward": 22,
+      "division": 4
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "156",
+      "Kevin Johnson": "0",
+      "ward": 22,
+      "division": 4
+    },
+    {
+      "Candidate": "Kevin Johnson",
+      "Dwight Evans": "0",
+      "Kevin Johnson": "17",
+      "ward": 22,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "156",
+      "Kevin Johnson": "17",
+      "ward": 22,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Kevin Johnson": "Kevin Johnson",
+      "ward": 22,
+      "division": 5
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "185",
+      "Kevin Johnson": "0",
+      "ward": 22,
+      "division": 5
+    },
+    {
+      "Candidate": "Kevin Johnson",
+      "Dwight Evans": "0",
+      "Kevin Johnson": "52",
+      "ward": 22,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "185",
+      "Kevin Johnson": "52",
+      "ward": 22,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Kevin Johnson": "Kevin Johnson",
+      "ward": 22,
+      "division": 6
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "197",
+      "Kevin Johnson": "0",
+      "ward": 22,
+      "division": 6
+    },
+    {
+      "Candidate": "Kevin Johnson",
+      "Dwight Evans": "0",
+      "Kevin Johnson": "73",
+      "ward": 22,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "197",
+      "Kevin Johnson": "73",
+      "ward": 22,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Kevin Johnson": "Kevin Johnson",
+      "ward": 22,
+      "division": 7
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "190",
+      "Kevin Johnson": "0",
+      "ward": 22,
+      "division": 7
+    },
+    {
+      "Candidate": "Kevin Johnson",
+      "Dwight Evans": "0",
+      "Kevin Johnson": "54",
+      "ward": 22,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "190",
+      "Kevin Johnson": "54",
+      "ward": 22,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Kevin Johnson": "Kevin Johnson",
+      "ward": 22,
+      "division": 8
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "131",
+      "Kevin Johnson": "0",
+      "ward": 22,
+      "division": 8
+    },
+    {
+      "Candidate": "Kevin Johnson",
+      "Dwight Evans": "0",
+      "Kevin Johnson": "42",
+      "ward": 22,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "131",
+      "Kevin Johnson": "42",
+      "ward": 22,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Kevin Johnson": "Kevin Johnson",
+      "ward": 22,
+      "division": 9
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "101",
+      "Kevin Johnson": "0",
+      "ward": 22,
+      "division": 9
+    },
+    {
+      "Candidate": "Kevin Johnson",
+      "Dwight Evans": "0",
+      "Kevin Johnson": "33",
+      "ward": 22,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "101",
+      "Kevin Johnson": "33",
+      "ward": 22,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Kevin Johnson": "Kevin Johnson",
+      "ward": 22,
+      "division": 10
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "150",
+      "Kevin Johnson": "0",
+      "ward": 22,
+      "division": 10
+    },
+    {
+      "Candidate": "Kevin Johnson",
+      "Dwight Evans": "0",
+      "Kevin Johnson": "25",
+      "ward": 22,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "150",
+      "Kevin Johnson": "25",
+      "ward": 22,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Kevin Johnson": "Kevin Johnson",
+      "ward": 22,
+      "division": 11
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "100",
+      "Kevin Johnson": "0",
+      "ward": 22,
+      "division": 11
+    },
+    {
+      "Candidate": "Kevin Johnson",
+      "Dwight Evans": "0",
+      "Kevin Johnson": "23",
+      "ward": 22,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "100",
+      "Kevin Johnson": "23",
+      "ward": 22,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Kevin Johnson": "Kevin Johnson",
+      "ward": 22,
+      "division": 12
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "120",
+      "Kevin Johnson": "0",
+      "ward": 22,
+      "division": 12
+    },
+    {
+      "Candidate": "Kevin Johnson",
+      "Dwight Evans": "0",
+      "Kevin Johnson": "12",
+      "ward": 22,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "120",
+      "Kevin Johnson": "12",
+      "ward": 22,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Kevin Johnson": "Kevin Johnson",
+      "ward": 22,
+      "division": 13
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "115",
+      "Kevin Johnson": "0",
+      "ward": 22,
+      "division": 13
+    },
+    {
+      "Candidate": "Kevin Johnson",
+      "Dwight Evans": "0",
+      "Kevin Johnson": "15",
+      "ward": 22,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "115",
+      "Kevin Johnson": "15",
+      "ward": 22,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Kevin Johnson": "Kevin Johnson",
+      "ward": 22,
+      "division": 14
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "116",
+      "Kevin Johnson": "0",
+      "ward": 22,
+      "division": 14
+    },
+    {
+      "Candidate": "Kevin Johnson",
+      "Dwight Evans": "0",
+      "Kevin Johnson": "26",
+      "ward": 22,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "116",
+      "Kevin Johnson": "26",
+      "ward": 22,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Kevin Johnson": "Kevin Johnson",
+      "ward": 22,
+      "division": 15
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "126",
+      "Kevin Johnson": "0",
+      "ward": 22,
+      "division": 15
+    },
+    {
+      "Candidate": "Kevin Johnson",
+      "Dwight Evans": "0",
+      "Kevin Johnson": "35",
+      "ward": 22,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "126",
+      "Kevin Johnson": "35",
+      "ward": 22,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Kevin Johnson": "Kevin Johnson",
+      "ward": 22,
+      "division": 16
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "118",
+      "Kevin Johnson": "0",
+      "ward": 22,
+      "division": 16
+    },
+    {
+      "Candidate": "Kevin Johnson",
+      "Dwight Evans": "0",
+      "Kevin Johnson": "25",
+      "ward": 22,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "118",
+      "Kevin Johnson": "25",
+      "ward": 22,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Kevin Johnson": "Kevin Johnson",
+      "ward": 22,
+      "division": 17
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "177",
+      "Kevin Johnson": "0",
+      "ward": 22,
+      "division": 17
+    },
+    {
+      "Candidate": "Kevin Johnson",
+      "Dwight Evans": "0",
+      "Kevin Johnson": "38",
+      "ward": 22,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "177",
+      "Kevin Johnson": "38",
+      "ward": 22,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Kevin Johnson": "Kevin Johnson",
+      "ward": 22,
+      "division": 18
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "135",
+      "Kevin Johnson": "0",
+      "ward": 22,
+      "division": 18
+    },
+    {
+      "Candidate": "Kevin Johnson",
+      "Dwight Evans": "0",
+      "Kevin Johnson": "29",
+      "ward": 22,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "135",
+      "Kevin Johnson": "29",
+      "ward": 22,
+      "division": 18
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Kevin Johnson": "Kevin Johnson",
+      "ward": 22,
+      "division": 19
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "123",
+      "Kevin Johnson": "0",
+      "ward": 22,
+      "division": 19
+    },
+    {
+      "Candidate": "Kevin Johnson",
+      "Dwight Evans": "0",
+      "Kevin Johnson": "32",
+      "ward": 22,
+      "division": 19
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "123",
+      "Kevin Johnson": "32",
+      "ward": 22,
+      "division": 19
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Kevin Johnson": "Kevin Johnson",
+      "ward": 22,
+      "division": 20
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "99",
+      "Kevin Johnson": "0",
+      "ward": 22,
+      "division": 20
+    },
+    {
+      "Candidate": "Kevin Johnson",
+      "Dwight Evans": "0",
+      "Kevin Johnson": "21",
+      "ward": 22,
+      "division": 20
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "99",
+      "Kevin Johnson": "21",
+      "ward": 22,
+      "division": 20
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Kevin Johnson": "Kevin Johnson",
+      "ward": 22,
+      "division": 21
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "96",
+      "Kevin Johnson": "0",
+      "ward": 22,
+      "division": 21
+    },
+    {
+      "Candidate": "Kevin Johnson",
+      "Dwight Evans": "0",
+      "Kevin Johnson": "29",
+      "ward": 22,
+      "division": 21
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "96",
+      "Kevin Johnson": "29",
+      "ward": 22,
+      "division": 21
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Kevin Johnson": "Kevin Johnson",
+      "ward": 22,
+      "division": 22
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "103",
+      "Kevin Johnson": "0",
+      "ward": 22,
+      "division": 22
+    },
+    {
+      "Candidate": "Kevin Johnson",
+      "Dwight Evans": "0",
+      "Kevin Johnson": "18",
+      "ward": 22,
+      "division": 22
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "103",
+      "Kevin Johnson": "18",
+      "ward": 22,
+      "division": 22
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Kevin Johnson": "Kevin Johnson",
+      "ward": 22,
+      "division": 23
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "164",
+      "Kevin Johnson": "0",
+      "ward": 22,
+      "division": 23
+    },
+    {
+      "Candidate": "Kevin Johnson",
+      "Dwight Evans": "0",
+      "Kevin Johnson": "36",
+      "ward": 22,
+      "division": 23
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "164",
+      "Kevin Johnson": "36",
+      "ward": 22,
+      "division": 23
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Kevin Johnson": "Kevin Johnson",
+      "ward": 22,
+      "division": 24
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "188",
+      "Kevin Johnson": "0",
+      "ward": 22,
+      "division": 24
+    },
+    {
+      "Candidate": "Kevin Johnson",
+      "Dwight Evans": "0",
+      "Kevin Johnson": "33",
+      "ward": 22,
+      "division": 24
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "188",
+      "Kevin Johnson": "33",
+      "ward": 22,
+      "division": 24
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Kevin Johnson": "Kevin Johnson",
+      "ward": 22,
+      "division": 25
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "113",
+      "Kevin Johnson": "0",
+      "ward": 22,
+      "division": 25
+    },
+    {
+      "Candidate": "Kevin Johnson",
+      "Dwight Evans": "0",
+      "Kevin Johnson": "21",
+      "ward": 22,
+      "division": 25
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "113",
+      "Kevin Johnson": "21",
+      "ward": 22,
+      "division": 25
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Kevin Johnson": "Kevin Johnson",
+      "ward": 22,
+      "division": 26
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "120",
+      "Kevin Johnson": "0",
+      "ward": 22,
+      "division": 26
+    },
+    {
+      "Candidate": "Kevin Johnson",
+      "Dwight Evans": "0",
+      "Kevin Johnson": "32",
+      "ward": 22,
+      "division": 26
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "120",
+      "Kevin Johnson": "32",
+      "ward": 22,
+      "division": 26
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Kevin Johnson": "Kevin Johnson",
+      "ward": 22,
+      "division": 27
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "161",
+      "Kevin Johnson": "0",
+      "ward": 22,
+      "division": 27
+    },
+    {
+      "Candidate": "Kevin Johnson",
+      "Dwight Evans": "0",
+      "Kevin Johnson": "41",
+      "ward": 22,
+      "division": 27
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "161",
+      "Kevin Johnson": "41",
+      "ward": 22,
+      "division": 27
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Kevin Johnson": "Kevin Johnson",
+      "ward": 22,
+      "division": 28
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "115",
+      "Kevin Johnson": "0",
+      "ward": 22,
+      "division": 28
+    },
+    {
+      "Candidate": "Kevin Johnson",
+      "Dwight Evans": "0",
+      "Kevin Johnson": "29",
+      "ward": 22,
+      "division": 28
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "115",
+      "Kevin Johnson": "29",
+      "ward": 22,
+      "division": 28
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Kevin Johnson": "Kevin Johnson",
+      "ward": 22,
+      "division": 29
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "171",
+      "Kevin Johnson": "0",
+      "ward": 22,
+      "division": 29
+    },
+    {
+      "Candidate": "Kevin Johnson",
+      "Dwight Evans": "0",
+      "Kevin Johnson": "43",
+      "ward": 22,
+      "division": 29
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "171",
+      "Kevin Johnson": "43",
+      "ward": 22,
+      "division": 29
+    }
+  ]
+]

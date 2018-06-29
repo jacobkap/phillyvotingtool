@@ -1,0 +1,932 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Babette Josephs": "Babette Josephs",
+      "Brian K Sims": "Brian K Sims",
+      "ward": 8,
+      "division": "All"
+    },
+    {
+      "Candidate": "Babette Josephs",
+      "Babette Josephs": "1778",
+      "Brian K Sims": "0",
+      "ward": 8,
+      "division": "All"
+    },
+    {
+      "Candidate": "Brian K Sims",
+      "Babette Josephs": "0",
+      "Brian K Sims": "1687",
+      "ward": 8,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Babette Josephs": "1778",
+      "Brian K Sims": "1687",
+      "ward": 8,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Brian K Sims": "Brian K Sims",
+      "Babette Josephs": "Babette Josephs",
+      "ward": 8,
+      "division": 1
+    },
+    {
+      "Candidate": "Brian K Sims",
+      "Brian K Sims": "60",
+      "Babette Josephs": "0",
+      "ward": 8,
+      "division": 1
+    },
+    {
+      "Candidate": "Babette Josephs",
+      "Brian K Sims": "0",
+      "Babette Josephs": "53",
+      "ward": 8,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Brian K Sims": "60",
+      "Babette Josephs": "53",
+      "ward": 8,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Brian K Sims": "Brian K Sims",
+      "Babette Josephs": "Babette Josephs",
+      "ward": 8,
+      "division": 2
+    },
+    {
+      "Candidate": "Brian K Sims",
+      "Brian K Sims": "77",
+      "Babette Josephs": "0",
+      "ward": 8,
+      "division": 2
+    },
+    {
+      "Candidate": "Babette Josephs",
+      "Brian K Sims": "0",
+      "Babette Josephs": "46",
+      "ward": 8,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "Brian K Sims": "77",
+      "Babette Josephs": "46",
+      "ward": 8,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Brian K Sims": "Brian K Sims",
+      "Babette Josephs": "Babette Josephs",
+      "ward": 8,
+      "division": 3
+    },
+    {
+      "Candidate": "Brian K Sims",
+      "Brian K Sims": "82",
+      "Babette Josephs": "0",
+      "ward": 8,
+      "division": 3
+    },
+    {
+      "Candidate": "Babette Josephs",
+      "Brian K Sims": "0",
+      "Babette Josephs": "62",
+      "ward": 8,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Brian K Sims": "82",
+      "Babette Josephs": "62",
+      "ward": 8,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Babette Josephs": "Babette Josephs",
+      "Brian K Sims": "Brian K Sims",
+      "ward": 8,
+      "division": 4
+    },
+    {
+      "Candidate": "Babette Josephs",
+      "Babette Josephs": "65",
+      "Brian K Sims": "0",
+      "ward": 8,
+      "division": 4
+    },
+    {
+      "Candidate": "Brian K Sims",
+      "Babette Josephs": "0",
+      "Brian K Sims": "53",
+      "ward": 8,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Babette Josephs": "65",
+      "Brian K Sims": "53",
+      "ward": 8,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Brian K Sims": "Brian K Sims",
+      "Babette Josephs": "Babette Josephs",
+      "ward": 8,
+      "division": 5
+    },
+    {
+      "Candidate": "Brian K Sims",
+      "Brian K Sims": "29",
+      "Babette Josephs": "0",
+      "ward": 8,
+      "division": 5
+    },
+    {
+      "Candidate": "Babette Josephs",
+      "Brian K Sims": "0",
+      "Babette Josephs": "27",
+      "ward": 8,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Brian K Sims": "29",
+      "Babette Josephs": "27",
+      "ward": 8,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Brian K Sims": "Brian K Sims",
+      "Babette Josephs": "Babette Josephs",
+      "ward": 8,
+      "division": 6
+    },
+    {
+      "Candidate": "Brian K Sims",
+      "Brian K Sims": "36",
+      "Babette Josephs": "0",
+      "ward": 8,
+      "division": 6
+    },
+    {
+      "Candidate": "Babette Josephs",
+      "Brian K Sims": "0",
+      "Babette Josephs": "34",
+      "ward": 8,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "Brian K Sims": "36",
+      "Babette Josephs": "34",
+      "ward": 8,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Babette Josephs": "Babette Josephs",
+      "Brian K Sims": "Brian K Sims",
+      "ward": 8,
+      "division": 7
+    },
+    {
+      "Candidate": "Babette Josephs",
+      "Babette Josephs": "111",
+      "Brian K Sims": "0",
+      "ward": 8,
+      "division": 7
+    },
+    {
+      "Candidate": "Brian K Sims",
+      "Babette Josephs": "0",
+      "Brian K Sims": "63",
+      "ward": 8,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Babette Josephs": "111",
+      "Brian K Sims": "63",
+      "ward": 8,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Babette Josephs": "Babette Josephs",
+      "Brian K Sims": "Brian K Sims",
+      "ward": 8,
+      "division": 8
+    },
+    {
+      "Candidate": "Babette Josephs",
+      "Babette Josephs": "64",
+      "Brian K Sims": "0",
+      "ward": 8,
+      "division": 8
+    },
+    {
+      "Candidate": "Brian K Sims",
+      "Babette Josephs": "0",
+      "Brian K Sims": "40",
+      "ward": 8,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Babette Josephs": "64",
+      "Brian K Sims": "40",
+      "ward": 8,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Brian K Sims": "Brian K Sims",
+      "Babette Josephs": "Babette Josephs",
+      "ward": 8,
+      "division": 9
+    },
+    {
+      "Candidate": "Brian K Sims",
+      "Brian K Sims": "74",
+      "Babette Josephs": "0",
+      "ward": 8,
+      "division": 9
+    },
+    {
+      "Candidate": "Babette Josephs",
+      "Brian K Sims": "0",
+      "Babette Josephs": "36",
+      "ward": 8,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Brian K Sims": "74",
+      "Babette Josephs": "36",
+      "ward": 8,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Babette Josephs": "Babette Josephs",
+      "Brian K Sims": "Brian K Sims",
+      "ward": 8,
+      "division": 10
+    },
+    {
+      "Candidate": "Babette Josephs",
+      "Babette Josephs": "85",
+      "Brian K Sims": "0",
+      "ward": 8,
+      "division": 10
+    },
+    {
+      "Candidate": "Brian K Sims",
+      "Babette Josephs": "0",
+      "Brian K Sims": "57",
+      "ward": 8,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Babette Josephs": "85",
+      "Brian K Sims": "57",
+      "ward": 8,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Babette Josephs": "Babette Josephs",
+      "Brian K Sims": "Brian K Sims",
+      "ward": 8,
+      "division": 11
+    },
+    {
+      "Candidate": "Babette Josephs",
+      "Babette Josephs": "29",
+      "Brian K Sims": "0",
+      "ward": 8,
+      "division": 11
+    },
+    {
+      "Candidate": "Brian K Sims",
+      "Babette Josephs": "0",
+      "Brian K Sims": "22",
+      "ward": 8,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Babette Josephs": "29",
+      "Brian K Sims": "22",
+      "ward": 8,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Brian K Sims": "Brian K Sims",
+      "Babette Josephs": "Babette Josephs",
+      "ward": 8,
+      "division": 12
+    },
+    {
+      "Candidate": "Brian K Sims",
+      "Brian K Sims": "41",
+      "Babette Josephs": "0",
+      "ward": 8,
+      "division": 12
+    },
+    {
+      "Candidate": "Babette Josephs",
+      "Brian K Sims": "0",
+      "Babette Josephs": "37",
+      "ward": 8,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Brian K Sims": "41",
+      "Babette Josephs": "37",
+      "ward": 8,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Babette Josephs": "Babette Josephs",
+      "Brian K Sims": "Brian K Sims",
+      "ward": 8,
+      "division": 13
+    },
+    {
+      "Candidate": "Babette Josephs",
+      "Babette Josephs": "52",
+      "Brian K Sims": "0",
+      "ward": 8,
+      "division": 13
+    },
+    {
+      "Candidate": "Brian K Sims",
+      "Babette Josephs": "0",
+      "Brian K Sims": "30",
+      "ward": 8,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "Babette Josephs": "52",
+      "Brian K Sims": "30",
+      "ward": 8,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Brian K Sims": "Brian K Sims",
+      "Babette Josephs": "Babette Josephs",
+      "ward": 8,
+      "division": 14
+    },
+    {
+      "Candidate": "Brian K Sims",
+      "Brian K Sims": "55",
+      "Babette Josephs": "0",
+      "ward": 8,
+      "division": 14
+    },
+    {
+      "Candidate": "Babette Josephs",
+      "Brian K Sims": "0",
+      "Babette Josephs": "41",
+      "ward": 8,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "Brian K Sims": "55",
+      "Babette Josephs": "41",
+      "ward": 8,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Babette Josephs": "Babette Josephs",
+      "Brian K Sims": "Brian K Sims",
+      "ward": 8,
+      "division": 15
+    },
+    {
+      "Candidate": "Babette Josephs",
+      "Babette Josephs": "58",
+      "Brian K Sims": "0",
+      "ward": 8,
+      "division": 15
+    },
+    {
+      "Candidate": "Brian K Sims",
+      "Babette Josephs": "0",
+      "Brian K Sims": "40",
+      "ward": 8,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "Babette Josephs": "58",
+      "Brian K Sims": "40",
+      "ward": 8,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Babette Josephs": "Babette Josephs",
+      "Brian K Sims": "Brian K Sims",
+      "ward": 8,
+      "division": 16
+    },
+    {
+      "Candidate": "Babette Josephs",
+      "Babette Josephs": "104",
+      "Brian K Sims": "0",
+      "ward": 8,
+      "division": 16
+    },
+    {
+      "Candidate": "Brian K Sims",
+      "Babette Josephs": "0",
+      "Brian K Sims": "90",
+      "ward": 8,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "Babette Josephs": "104",
+      "Brian K Sims": "90",
+      "ward": 8,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Babette Josephs": "Babette Josephs",
+      "Brian K Sims": "Brian K Sims",
+      "ward": 8,
+      "division": 17
+    },
+    {
+      "Candidate": "Babette Josephs",
+      "Babette Josephs": "50",
+      "Brian K Sims": "0",
+      "ward": 8,
+      "division": 17
+    },
+    {
+      "Candidate": "Brian K Sims",
+      "Babette Josephs": "0",
+      "Brian K Sims": "44",
+      "ward": 8,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "Babette Josephs": "50",
+      "Brian K Sims": "44",
+      "ward": 8,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Brian K Sims": "Brian K Sims",
+      "Babette Josephs": "Babette Josephs",
+      "ward": 8,
+      "division": 18
+    },
+    {
+      "Candidate": "Brian K Sims",
+      "Brian K Sims": "76",
+      "Babette Josephs": "0",
+      "ward": 8,
+      "division": 18
+    },
+    {
+      "Candidate": "Babette Josephs",
+      "Brian K Sims": "0",
+      "Babette Josephs": "68",
+      "ward": 8,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "Brian K Sims": "76",
+      "Babette Josephs": "68",
+      "ward": 8,
+      "division": 18
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Brian K Sims": "Brian K Sims",
+      "Babette Josephs": "Babette Josephs",
+      "ward": 8,
+      "division": 19
+    },
+    {
+      "Candidate": "Brian K Sims",
+      "Brian K Sims": "86",
+      "Babette Josephs": "0",
+      "ward": 8,
+      "division": 19
+    },
+    {
+      "Candidate": "Babette Josephs",
+      "Brian K Sims": "0",
+      "Babette Josephs": "47",
+      "ward": 8,
+      "division": 19
+    },
+    {
+      "Candidate": "Total",
+      "Brian K Sims": "86",
+      "Babette Josephs": "47",
+      "ward": 8,
+      "division": 19
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Brian K Sims": "Brian K Sims",
+      "Babette Josephs": "Babette Josephs",
+      "ward": 8,
+      "division": 20
+    },
+    {
+      "Candidate": "Brian K Sims",
+      "Brian K Sims": "23",
+      "Babette Josephs": "0",
+      "ward": 8,
+      "division": 20
+    },
+    {
+      "Candidate": "Babette Josephs",
+      "Brian K Sims": "0",
+      "Babette Josephs": "19",
+      "ward": 8,
+      "division": 20
+    },
+    {
+      "Candidate": "Total",
+      "Brian K Sims": "23",
+      "Babette Josephs": "19",
+      "ward": 8,
+      "division": 20
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Brian K Sims": "Brian K Sims",
+      "Babette Josephs": "Babette Josephs",
+      "ward": 8,
+      "division": 21
+    },
+    {
+      "Candidate": "Brian K Sims",
+      "Brian K Sims": "89",
+      "Babette Josephs": "0",
+      "ward": 8,
+      "division": 21
+    },
+    {
+      "Candidate": "Babette Josephs",
+      "Brian K Sims": "0",
+      "Babette Josephs": "80",
+      "ward": 8,
+      "division": 21
+    },
+    {
+      "Candidate": "Total",
+      "Brian K Sims": "89",
+      "Babette Josephs": "80",
+      "ward": 8,
+      "division": 21
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Babette Josephs": "Babette Josephs",
+      "Brian K Sims": "Brian K Sims",
+      "ward": 8,
+      "division": 22
+    },
+    {
+      "Candidate": "Babette Josephs",
+      "Babette Josephs": "36",
+      "Brian K Sims": "0",
+      "ward": 8,
+      "division": 22
+    },
+    {
+      "Candidate": "Brian K Sims",
+      "Babette Josephs": "0",
+      "Brian K Sims": "13",
+      "ward": 8,
+      "division": 22
+    },
+    {
+      "Candidate": "Total",
+      "Babette Josephs": "36",
+      "Brian K Sims": "13",
+      "ward": 8,
+      "division": 22
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Babette Josephs": "Babette Josephs",
+      "Brian K Sims": "Brian K Sims",
+      "ward": 8,
+      "division": 23
+    },
+    {
+      "Candidate": "Babette Josephs",
+      "Babette Josephs": "98",
+      "Brian K Sims": "0",
+      "ward": 8,
+      "division": 23
+    },
+    {
+      "Candidate": "Brian K Sims",
+      "Babette Josephs": "0",
+      "Brian K Sims": "49",
+      "ward": 8,
+      "division": 23
+    },
+    {
+      "Candidate": "Total",
+      "Babette Josephs": "98",
+      "Brian K Sims": "49",
+      "ward": 8,
+      "division": 23
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Babette Josephs": "Babette Josephs",
+      "Brian K Sims": "Brian K Sims",
+      "ward": 8,
+      "division": 24
+    },
+    {
+      "Candidate": "Babette Josephs",
+      "Babette Josephs": "81",
+      "Brian K Sims": "0",
+      "ward": 8,
+      "division": 24
+    },
+    {
+      "Candidate": "Brian K Sims",
+      "Babette Josephs": "0",
+      "Brian K Sims": "47",
+      "ward": 8,
+      "division": 24
+    },
+    {
+      "Candidate": "Total",
+      "Babette Josephs": "81",
+      "Brian K Sims": "47",
+      "ward": 8,
+      "division": 24
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Babette Josephs": "Babette Josephs",
+      "Brian K Sims": "Brian K Sims",
+      "ward": 8,
+      "division": 25
+    },
+    {
+      "Candidate": "Babette Josephs",
+      "Babette Josephs": "81",
+      "Brian K Sims": "0",
+      "ward": 8,
+      "division": 25
+    },
+    {
+      "Candidate": "Brian K Sims",
+      "Babette Josephs": "0",
+      "Brian K Sims": "59",
+      "ward": 8,
+      "division": 25
+    },
+    {
+      "Candidate": "Total",
+      "Babette Josephs": "81",
+      "Brian K Sims": "59",
+      "ward": 8,
+      "division": 25
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Babette Josephs": "Babette Josephs",
+      "Brian K Sims": "Brian K Sims",
+      "ward": 8,
+      "division": 26
+    },
+    {
+      "Candidate": "Babette Josephs",
+      "Babette Josephs": "54",
+      "Brian K Sims": "0",
+      "ward": 8,
+      "division": 26
+    },
+    {
+      "Candidate": "Brian K Sims",
+      "Babette Josephs": "0",
+      "Brian K Sims": "44",
+      "ward": 8,
+      "division": 26
+    },
+    {
+      "Candidate": "Total",
+      "Babette Josephs": "54",
+      "Brian K Sims": "44",
+      "ward": 8,
+      "division": 26
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Babette Josephs": "Babette Josephs",
+      "Brian K Sims": "Brian K Sims",
+      "ward": 8,
+      "division": 27
+    },
+    {
+      "Candidate": "Babette Josephs",
+      "Babette Josephs": "20",
+      "Brian K Sims": "0",
+      "ward": 8,
+      "division": 27
+    },
+    {
+      "Candidate": "Brian K Sims",
+      "Babette Josephs": "0",
+      "Brian K Sims": "19",
+      "ward": 8,
+      "division": 27
+    },
+    {
+      "Candidate": "Total",
+      "Babette Josephs": "20",
+      "Brian K Sims": "19",
+      "ward": 8,
+      "division": 27
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Brian K Sims": "Brian K Sims",
+      "Babette Josephs": "Babette Josephs",
+      "ward": 8,
+      "division": 28
+    },
+    {
+      "Candidate": "Brian K Sims",
+      "Brian K Sims": "109",
+      "Babette Josephs": "0",
+      "ward": 8,
+      "division": 28
+    },
+    {
+      "Candidate": "Babette Josephs",
+      "Brian K Sims": "0",
+      "Babette Josephs": "80",
+      "ward": 8,
+      "division": 28
+    },
+    {
+      "Candidate": "Total",
+      "Brian K Sims": "109",
+      "Babette Josephs": "80",
+      "ward": 8,
+      "division": 28
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Brian K Sims": "Brian K Sims",
+      "Babette Josephs": "Babette Josephs",
+      "ward": 8,
+      "division": 29
+    },
+    {
+      "Candidate": "Brian K Sims",
+      "Brian K Sims": "146",
+      "Babette Josephs": "0",
+      "ward": 8,
+      "division": 29
+    },
+    {
+      "Candidate": "Babette Josephs",
+      "Brian K Sims": "0",
+      "Babette Josephs": "115",
+      "ward": 8,
+      "division": 29
+    },
+    {
+      "Candidate": "Total",
+      "Brian K Sims": "146",
+      "Babette Josephs": "115",
+      "ward": 8,
+      "division": 29
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Babette Josephs": "Babette Josephs",
+      "Brian K Sims": "Brian K Sims",
+      "ward": 8,
+      "division": 30
+    },
+    {
+      "Candidate": "Babette Josephs",
+      "Babette Josephs": "45",
+      "Brian K Sims": "0",
+      "ward": 8,
+      "division": 30
+    },
+    {
+      "Candidate": "Brian K Sims",
+      "Babette Josephs": "0",
+      "Brian K Sims": "34",
+      "ward": 8,
+      "division": 30
+    },
+    {
+      "Candidate": "Total",
+      "Babette Josephs": "45",
+      "Brian K Sims": "34",
+      "ward": 8,
+      "division": 30
+    }
+  ]
+]

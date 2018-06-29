@@ -1,0 +1,716 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Mitt Romney": "Mitt Romney",
+      "Ron Paul": "Ron Paul",
+      "Newt Gingrich": "Newt Gingrich",
+      "Rick Santorum": "Rick Santorum",
+      "ward": 30,
+      "division": "All"
+    },
+    {
+      "Candidate": "Mitt Romney",
+      "Mitt Romney": "66",
+      "Ron Paul": "0",
+      "Newt Gingrich": "0",
+      "Rick Santorum": "0",
+      "ward": 30,
+      "division": "All"
+    },
+    {
+      "Candidate": "Ron Paul",
+      "Mitt Romney": "0",
+      "Ron Paul": "33",
+      "Newt Gingrich": "0",
+      "Rick Santorum": "0",
+      "ward": 30,
+      "division": "All"
+    },
+    {
+      "Candidate": "Newt Gingrich",
+      "Mitt Romney": "0",
+      "Ron Paul": "0",
+      "Newt Gingrich": "11",
+      "Rick Santorum": "0",
+      "ward": 30,
+      "division": "All"
+    },
+    {
+      "Candidate": "Rick Santorum",
+      "Mitt Romney": "0",
+      "Ron Paul": "0",
+      "Newt Gingrich": "0",
+      "Rick Santorum": "10",
+      "ward": 30,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Mitt Romney": "66",
+      "Ron Paul": "33",
+      "Newt Gingrich": "11",
+      "Rick Santorum": "10",
+      "ward": 30,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mitt Romney": "Mitt Romney",
+      "Newt Gingrich": "Newt Gingrich",
+      "Ron Paul": "Ron Paul",
+      "ward": 30,
+      "division": 1
+    },
+    {
+      "Candidate": "Mitt Romney",
+      "Mitt Romney": "6",
+      "Newt Gingrich": "0",
+      "Ron Paul": "0",
+      "ward": 30,
+      "division": 1
+    },
+    {
+      "Candidate": "Newt Gingrich",
+      "Mitt Romney": "0",
+      "Newt Gingrich": "2",
+      "Ron Paul": "0",
+      "ward": 30,
+      "division": 1
+    },
+    {
+      "Candidate": "Ron Paul",
+      "Mitt Romney": "0",
+      "Newt Gingrich": "0",
+      "Ron Paul": "2",
+      "ward": 30,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Mitt Romney": "6",
+      "Newt Gingrich": "2",
+      "Ron Paul": "2",
+      "ward": 30,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mitt Romney": "Mitt Romney",
+      "Ron Paul": "Ron Paul",
+      "Newt Gingrich": "Newt Gingrich",
+      "Rick Santorum": "Rick Santorum",
+      "ward": 30,
+      "division": 2
+    },
+    {
+      "Candidate": "Mitt Romney",
+      "Mitt Romney": "5",
+      "Ron Paul": "0",
+      "Newt Gingrich": "0",
+      "Rick Santorum": "0",
+      "ward": 30,
+      "division": 2
+    },
+    {
+      "Candidate": "Ron Paul",
+      "Mitt Romney": "0",
+      "Ron Paul": "2",
+      "Newt Gingrich": "0",
+      "Rick Santorum": "0",
+      "ward": 30,
+      "division": 2
+    },
+    {
+      "Candidate": "Newt Gingrich",
+      "Mitt Romney": "0",
+      "Ron Paul": "0",
+      "Newt Gingrich": "1",
+      "Rick Santorum": "0",
+      "ward": 30,
+      "division": 2
+    },
+    {
+      "Candidate": "Rick Santorum",
+      "Mitt Romney": "0",
+      "Ron Paul": "0",
+      "Newt Gingrich": "0",
+      "Rick Santorum": "1",
+      "ward": 30,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "Mitt Romney": "5",
+      "Ron Paul": "2",
+      "Newt Gingrich": "1",
+      "Rick Santorum": "1",
+      "ward": 30,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mitt Romney": "Mitt Romney",
+      "Ron Paul": "Ron Paul",
+      "ward": 30,
+      "division": 3
+    },
+    {
+      "Candidate": "Mitt Romney",
+      "Mitt Romney": "3",
+      "Ron Paul": "0",
+      "ward": 30,
+      "division": 3
+    },
+    {
+      "Candidate": "Ron Paul",
+      "Mitt Romney": "0",
+      "Ron Paul": "1",
+      "ward": 30,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Mitt Romney": "3",
+      "Ron Paul": "1",
+      "ward": 30,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Rick Santorum": "Rick Santorum",
+      "Ron Paul": "Ron Paul",
+      "ward": 30,
+      "division": 4
+    },
+    {
+      "Candidate": "Rick Santorum",
+      "Rick Santorum": "1",
+      "Ron Paul": "0",
+      "ward": 30,
+      "division": 4
+    },
+    {
+      "Candidate": "Ron Paul",
+      "Rick Santorum": "0",
+      "Ron Paul": "1",
+      "ward": 30,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Rick Santorum": "1",
+      "Ron Paul": "1",
+      "ward": 30,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mitt Romney": "Mitt Romney",
+      "Ron Paul": "Ron Paul",
+      "ward": 30,
+      "division": 5
+    },
+    {
+      "Candidate": "Mitt Romney",
+      "Mitt Romney": "2",
+      "Ron Paul": "0",
+      "ward": 30,
+      "division": 5
+    },
+    {
+      "Candidate": "Ron Paul",
+      "Mitt Romney": "0",
+      "Ron Paul": "1",
+      "ward": 30,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Mitt Romney": "2",
+      "Ron Paul": "1",
+      "ward": 30,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mitt Romney": "Mitt Romney",
+      "Ron Paul": "Ron Paul",
+      "Rick Santorum": "Rick Santorum",
+      "ward": 30,
+      "division": 6
+    },
+    {
+      "Candidate": "Mitt Romney",
+      "Mitt Romney": "3",
+      "Ron Paul": "0",
+      "Rick Santorum": "0",
+      "ward": 30,
+      "division": 6
+    },
+    {
+      "Candidate": "Ron Paul",
+      "Mitt Romney": "0",
+      "Ron Paul": "2",
+      "Rick Santorum": "0",
+      "ward": 30,
+      "division": 6
+    },
+    {
+      "Candidate": "Rick Santorum",
+      "Mitt Romney": "0",
+      "Ron Paul": "0",
+      "Rick Santorum": "1",
+      "ward": 30,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "Mitt Romney": "3",
+      "Ron Paul": "2",
+      "Rick Santorum": "1",
+      "ward": 30,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mitt Romney": "Mitt Romney",
+      "Ron Paul": "Ron Paul",
+      "Newt Gingrich": "Newt Gingrich",
+      "ward": 30,
+      "division": 7
+    },
+    {
+      "Candidate": "Mitt Romney",
+      "Mitt Romney": "9",
+      "Ron Paul": "0",
+      "Newt Gingrich": "0",
+      "ward": 30,
+      "division": 7
+    },
+    {
+      "Candidate": "Ron Paul",
+      "Mitt Romney": "0",
+      "Ron Paul": "3",
+      "Newt Gingrich": "0",
+      "ward": 30,
+      "division": 7
+    },
+    {
+      "Candidate": "Newt Gingrich",
+      "Mitt Romney": "0",
+      "Ron Paul": "0",
+      "Newt Gingrich": "1",
+      "ward": 30,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Mitt Romney": "9",
+      "Ron Paul": "3",
+      "Newt Gingrich": "1",
+      "ward": 30,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mitt Romney": "Mitt Romney",
+      "Ron Paul": "Ron Paul",
+      "Rick Santorum": "Rick Santorum",
+      "ward": 30,
+      "division": 8
+    },
+    {
+      "Candidate": "Mitt Romney",
+      "Mitt Romney": "7",
+      "Ron Paul": "0",
+      "Rick Santorum": "0",
+      "ward": 30,
+      "division": 8
+    },
+    {
+      "Candidate": "Ron Paul",
+      "Mitt Romney": "0",
+      "Ron Paul": "4",
+      "Rick Santorum": "0",
+      "ward": 30,
+      "division": 8
+    },
+    {
+      "Candidate": "Rick Santorum",
+      "Mitt Romney": "0",
+      "Ron Paul": "0",
+      "Rick Santorum": "3",
+      "ward": 30,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Mitt Romney": "7",
+      "Ron Paul": "4",
+      "Rick Santorum": "3",
+      "ward": 30,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mitt Romney": "Mitt Romney",
+      "Ron Paul": "Ron Paul",
+      "Rick Santorum": "Rick Santorum",
+      "ward": 30,
+      "division": 9
+    },
+    {
+      "Candidate": "Mitt Romney",
+      "Mitt Romney": "5",
+      "Ron Paul": "0",
+      "Rick Santorum": "0",
+      "ward": 30,
+      "division": 9
+    },
+    {
+      "Candidate": "Ron Paul",
+      "Mitt Romney": "0",
+      "Ron Paul": "2",
+      "Rick Santorum": "0",
+      "ward": 30,
+      "division": 9
+    },
+    {
+      "Candidate": "Rick Santorum",
+      "Mitt Romney": "0",
+      "Ron Paul": "0",
+      "Rick Santorum": "1",
+      "ward": 30,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Mitt Romney": "5",
+      "Ron Paul": "2",
+      "Rick Santorum": "1",
+      "ward": 30,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mitt Romney": "Mitt Romney",
+      "Rick Santorum": "Rick Santorum",
+      "ward": 30,
+      "division": 10
+    },
+    {
+      "Candidate": "Mitt Romney",
+      "Mitt Romney": "4",
+      "Rick Santorum": "0",
+      "ward": 30,
+      "division": 10
+    },
+    {
+      "Candidate": "Rick Santorum",
+      "Mitt Romney": "0",
+      "Rick Santorum": "1",
+      "ward": 30,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Mitt Romney": "4",
+      "Rick Santorum": "1",
+      "ward": 30,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mitt Romney": "Mitt Romney",
+      "Newt Gingrich": "Newt Gingrich",
+      "Ron Paul": "Ron Paul",
+      "ward": 30,
+      "division": 11
+    },
+    {
+      "Candidate": "Mitt Romney",
+      "Mitt Romney": "5",
+      "Newt Gingrich": "0",
+      "Ron Paul": "0",
+      "ward": 30,
+      "division": 11
+    },
+    {
+      "Candidate": "Newt Gingrich",
+      "Mitt Romney": "0",
+      "Newt Gingrich": "1",
+      "Ron Paul": "0",
+      "ward": 30,
+      "division": 11
+    },
+    {
+      "Candidate": "Ron Paul",
+      "Mitt Romney": "0",
+      "Newt Gingrich": "0",
+      "Ron Paul": "1",
+      "ward": 30,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Mitt Romney": "5",
+      "Newt Gingrich": "1",
+      "Ron Paul": "1",
+      "ward": 30,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ron Paul": "Ron Paul",
+      "Mitt Romney": "Mitt Romney",
+      "ward": 30,
+      "division": 12
+    },
+    {
+      "Candidate": "Ron Paul",
+      "Ron Paul": "3",
+      "Mitt Romney": "0",
+      "ward": 30,
+      "division": 12
+    },
+    {
+      "Candidate": "Mitt Romney",
+      "Ron Paul": "0",
+      "Mitt Romney": "1",
+      "ward": 30,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Ron Paul": "3",
+      "Mitt Romney": "1",
+      "ward": 30,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ron Paul": "Ron Paul",
+      "Mitt Romney": "Mitt Romney",
+      "ward": 30,
+      "division": 13
+    },
+    {
+      "Candidate": "Ron Paul",
+      "Ron Paul": "2",
+      "Mitt Romney": "0",
+      "ward": 30,
+      "division": 13
+    },
+    {
+      "Candidate": "Mitt Romney",
+      "Ron Paul": "0",
+      "Mitt Romney": "1",
+      "ward": 30,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "Ron Paul": "2",
+      "Mitt Romney": "1",
+      "ward": 30,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mitt Romney": "Mitt Romney",
+      "Ron Paul": "Ron Paul",
+      "ward": 30,
+      "division": 14
+    },
+    {
+      "Candidate": "Mitt Romney",
+      "Mitt Romney": "4",
+      "Ron Paul": "0",
+      "ward": 30,
+      "division": 14
+    },
+    {
+      "Candidate": "Ron Paul",
+      "Mitt Romney": "0",
+      "Ron Paul": "1",
+      "ward": 30,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "Mitt Romney": "4",
+      "Ron Paul": "1",
+      "ward": 30,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mitt Romney": "Mitt Romney",
+      "Ron Paul": "Ron Paul",
+      "Newt Gingrich": "Newt Gingrich",
+      "ward": 30,
+      "division": 15
+    },
+    {
+      "Candidate": "Mitt Romney",
+      "Mitt Romney": "3",
+      "Ron Paul": "0",
+      "Newt Gingrich": "0",
+      "ward": 30,
+      "division": 15
+    },
+    {
+      "Candidate": "Ron Paul",
+      "Mitt Romney": "0",
+      "Ron Paul": "3",
+      "Newt Gingrich": "0",
+      "ward": 30,
+      "division": 15
+    },
+    {
+      "Candidate": "Newt Gingrich",
+      "Mitt Romney": "0",
+      "Ron Paul": "0",
+      "Newt Gingrich": "2",
+      "ward": 30,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "Mitt Romney": "3",
+      "Ron Paul": "3",
+      "Newt Gingrich": "2",
+      "ward": 30,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mitt Romney": "Mitt Romney",
+      "Ron Paul": "Ron Paul",
+      "Newt Gingrich": "Newt Gingrich",
+      "ward": 30,
+      "division": 16
+    },
+    {
+      "Candidate": "Mitt Romney",
+      "Mitt Romney": "5",
+      "Ron Paul": "0",
+      "Newt Gingrich": "0",
+      "ward": 30,
+      "division": 16
+    },
+    {
+      "Candidate": "Ron Paul",
+      "Mitt Romney": "0",
+      "Ron Paul": "3",
+      "Newt Gingrich": "0",
+      "ward": 30,
+      "division": 16
+    },
+    {
+      "Candidate": "Newt Gingrich",
+      "Mitt Romney": "0",
+      "Ron Paul": "0",
+      "Newt Gingrich": "1",
+      "ward": 30,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "Mitt Romney": "5",
+      "Ron Paul": "3",
+      "Newt Gingrich": "1",
+      "ward": 30,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mitt Romney": "Mitt Romney",
+      "Newt Gingrich": "Newt Gingrich",
+      "Rick Santorum": "Rick Santorum",
+      "Ron Paul": "Ron Paul",
+      "ward": 30,
+      "division": 17
+    },
+    {
+      "Candidate": "Mitt Romney",
+      "Mitt Romney": "3",
+      "Newt Gingrich": "0",
+      "Rick Santorum": "0",
+      "Ron Paul": "0",
+      "ward": 30,
+      "division": 17
+    },
+    {
+      "Candidate": "Newt Gingrich",
+      "Mitt Romney": "0",
+      "Newt Gingrich": "3",
+      "Rick Santorum": "0",
+      "Ron Paul": "0",
+      "ward": 30,
+      "division": 17
+    },
+    {
+      "Candidate": "Rick Santorum",
+      "Mitt Romney": "0",
+      "Newt Gingrich": "0",
+      "Rick Santorum": "2",
+      "Ron Paul": "0",
+      "ward": 30,
+      "division": 17
+    },
+    {
+      "Candidate": "Ron Paul",
+      "Mitt Romney": "0",
+      "Newt Gingrich": "0",
+      "Rick Santorum": "0",
+      "Ron Paul": "2",
+      "ward": 30,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "Mitt Romney": "3",
+      "Newt Gingrich": "3",
+      "Rick Santorum": "2",
+      "Ron Paul": "2",
+      "ward": 30,
+      "division": 17
+    }
+  ]
+]

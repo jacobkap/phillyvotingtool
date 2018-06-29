@@ -1,0 +1,950 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Ed Neilson": "Ed Neilson",
+      "Matt Wolfe": "Matt Wolfe",
+      "Nikki Allen Poe": "Nikki Allen Poe",
+      "ward": 53,
+      "division": "All"
+    },
+    {
+      "Candidate": "Ed Neilson",
+      "Ed Neilson": "746",
+      "Matt Wolfe": "0",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": "All"
+    },
+    {
+      "Candidate": "Matt Wolfe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "237",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": "All"
+    },
+    {
+      "Candidate": "Nikki Allen Poe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "0",
+      "Nikki Allen Poe": "43",
+      "ward": 53,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Ed Neilson": "746",
+      "Matt Wolfe": "237",
+      "Nikki Allen Poe": "43",
+      "ward": 53,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ed Neilson": "Ed Neilson",
+      "Matt Wolfe": "Matt Wolfe",
+      "ward": 53,
+      "division": 1
+    },
+    {
+      "Candidate": "Ed Neilson",
+      "Ed Neilson": "27",
+      "Matt Wolfe": "0",
+      "ward": 53,
+      "division": 1
+    },
+    {
+      "Candidate": "Matt Wolfe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "3",
+      "ward": 53,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Ed Neilson": "27",
+      "Matt Wolfe": "3",
+      "ward": 53,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ed Neilson": "Ed Neilson",
+      "Matt Wolfe": "Matt Wolfe",
+      "ward": 53,
+      "division": 2
+    },
+    {
+      "Candidate": "Ed Neilson",
+      "Ed Neilson": "38",
+      "Matt Wolfe": "0",
+      "ward": 53,
+      "division": 2
+    },
+    {
+      "Candidate": "Matt Wolfe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "4",
+      "ward": 53,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "Ed Neilson": "38",
+      "Matt Wolfe": "4",
+      "ward": 53,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ed Neilson": "Ed Neilson",
+      "Matt Wolfe": "Matt Wolfe",
+      "ward": 53,
+      "division": 3
+    },
+    {
+      "Candidate": "Ed Neilson",
+      "Ed Neilson": "30",
+      "Matt Wolfe": "0",
+      "ward": 53,
+      "division": 3
+    },
+    {
+      "Candidate": "Matt Wolfe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "5",
+      "ward": 53,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Ed Neilson": "30",
+      "Matt Wolfe": "5",
+      "ward": 53,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ed Neilson": "Ed Neilson",
+      "Matt Wolfe": "Matt Wolfe",
+      "ward": 53,
+      "division": 4
+    },
+    {
+      "Candidate": "Ed Neilson",
+      "Ed Neilson": "38",
+      "Matt Wolfe": "0",
+      "ward": 53,
+      "division": 4
+    },
+    {
+      "Candidate": "Matt Wolfe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "8",
+      "ward": 53,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Ed Neilson": "38",
+      "Matt Wolfe": "8",
+      "ward": 53,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ed Neilson": "Ed Neilson",
+      "Matt Wolfe": "Matt Wolfe",
+      "Nikki Allen Poe": "Nikki Allen Poe",
+      "ward": 53,
+      "division": 5
+    },
+    {
+      "Candidate": "Ed Neilson",
+      "Ed Neilson": "40",
+      "Matt Wolfe": "0",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": 5
+    },
+    {
+      "Candidate": "Matt Wolfe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "5",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": 5
+    },
+    {
+      "Candidate": "Nikki Allen Poe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "0",
+      "Nikki Allen Poe": "1",
+      "ward": 53,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Ed Neilson": "40",
+      "Matt Wolfe": "5",
+      "Nikki Allen Poe": "1",
+      "ward": 53,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ed Neilson": "Ed Neilson",
+      "Matt Wolfe": "Matt Wolfe",
+      "Nikki Allen Poe": "Nikki Allen Poe",
+      "ward": 53,
+      "division": 6
+    },
+    {
+      "Candidate": "Ed Neilson",
+      "Ed Neilson": "24",
+      "Matt Wolfe": "0",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": 6
+    },
+    {
+      "Candidate": "Matt Wolfe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "6",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": 6
+    },
+    {
+      "Candidate": "Nikki Allen Poe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "0",
+      "Nikki Allen Poe": "6",
+      "ward": 53,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "Ed Neilson": "24",
+      "Matt Wolfe": "6",
+      "Nikki Allen Poe": "6",
+      "ward": 53,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ed Neilson": "Ed Neilson",
+      "Matt Wolfe": "Matt Wolfe",
+      "Nikki Allen Poe": "Nikki Allen Poe",
+      "ward": 53,
+      "division": 7
+    },
+    {
+      "Candidate": "Ed Neilson",
+      "Ed Neilson": "40",
+      "Matt Wolfe": "0",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": 7
+    },
+    {
+      "Candidate": "Matt Wolfe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "7",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": 7
+    },
+    {
+      "Candidate": "Nikki Allen Poe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "0",
+      "Nikki Allen Poe": "3",
+      "ward": 53,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Ed Neilson": "40",
+      "Matt Wolfe": "7",
+      "Nikki Allen Poe": "3",
+      "ward": 53,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ed Neilson": "Ed Neilson",
+      "Matt Wolfe": "Matt Wolfe",
+      "Nikki Allen Poe": "Nikki Allen Poe",
+      "ward": 53,
+      "division": 8
+    },
+    {
+      "Candidate": "Ed Neilson",
+      "Ed Neilson": "23",
+      "Matt Wolfe": "0",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": 8
+    },
+    {
+      "Candidate": "Matt Wolfe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "7",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": 8
+    },
+    {
+      "Candidate": "Nikki Allen Poe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "0",
+      "Nikki Allen Poe": "2",
+      "ward": 53,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Ed Neilson": "23",
+      "Matt Wolfe": "7",
+      "Nikki Allen Poe": "2",
+      "ward": 53,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ed Neilson": "Ed Neilson",
+      "Matt Wolfe": "Matt Wolfe",
+      "Nikki Allen Poe": "Nikki Allen Poe",
+      "ward": 53,
+      "division": 9
+    },
+    {
+      "Candidate": "Ed Neilson",
+      "Ed Neilson": "23",
+      "Matt Wolfe": "0",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": 9
+    },
+    {
+      "Candidate": "Matt Wolfe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "4",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": 9
+    },
+    {
+      "Candidate": "Nikki Allen Poe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "0",
+      "Nikki Allen Poe": "1",
+      "ward": 53,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Ed Neilson": "23",
+      "Matt Wolfe": "4",
+      "Nikki Allen Poe": "1",
+      "ward": 53,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ed Neilson": "Ed Neilson",
+      "Matt Wolfe": "Matt Wolfe",
+      "Nikki Allen Poe": "Nikki Allen Poe",
+      "ward": 53,
+      "division": 10
+    },
+    {
+      "Candidate": "Ed Neilson",
+      "Ed Neilson": "36",
+      "Matt Wolfe": "0",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": 10
+    },
+    {
+      "Candidate": "Matt Wolfe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "7",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": 10
+    },
+    {
+      "Candidate": "Nikki Allen Poe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "0",
+      "Nikki Allen Poe": "1",
+      "ward": 53,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Ed Neilson": "36",
+      "Matt Wolfe": "7",
+      "Nikki Allen Poe": "1",
+      "ward": 53,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ed Neilson": "Ed Neilson",
+      "Matt Wolfe": "Matt Wolfe",
+      "Nikki Allen Poe": "Nikki Allen Poe",
+      "ward": 53,
+      "division": 11
+    },
+    {
+      "Candidate": "Ed Neilson",
+      "Ed Neilson": "35",
+      "Matt Wolfe": "0",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": 11
+    },
+    {
+      "Candidate": "Matt Wolfe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "10",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": 11
+    },
+    {
+      "Candidate": "Nikki Allen Poe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "0",
+      "Nikki Allen Poe": "1",
+      "ward": 53,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Ed Neilson": "35",
+      "Matt Wolfe": "10",
+      "Nikki Allen Poe": "1",
+      "ward": 53,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ed Neilson": "Ed Neilson",
+      "Matt Wolfe": "Matt Wolfe",
+      "Nikki Allen Poe": "Nikki Allen Poe",
+      "ward": 53,
+      "division": 12
+    },
+    {
+      "Candidate": "Ed Neilson",
+      "Ed Neilson": "32",
+      "Matt Wolfe": "0",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": 12
+    },
+    {
+      "Candidate": "Matt Wolfe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "10",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": 12
+    },
+    {
+      "Candidate": "Nikki Allen Poe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "0",
+      "Nikki Allen Poe": "2",
+      "ward": 53,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Ed Neilson": "32",
+      "Matt Wolfe": "10",
+      "Nikki Allen Poe": "2",
+      "ward": 53,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ed Neilson": "Ed Neilson",
+      "Matt Wolfe": "Matt Wolfe",
+      "Nikki Allen Poe": "Nikki Allen Poe",
+      "ward": 53,
+      "division": 13
+    },
+    {
+      "Candidate": "Ed Neilson",
+      "Ed Neilson": "44",
+      "Matt Wolfe": "0",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": 13
+    },
+    {
+      "Candidate": "Matt Wolfe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "8",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": 13
+    },
+    {
+      "Candidate": "Nikki Allen Poe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "0",
+      "Nikki Allen Poe": "2",
+      "ward": 53,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "Ed Neilson": "44",
+      "Matt Wolfe": "8",
+      "Nikki Allen Poe": "2",
+      "ward": 53,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ed Neilson": "Ed Neilson",
+      "Matt Wolfe": "Matt Wolfe",
+      "Nikki Allen Poe": "Nikki Allen Poe",
+      "ward": 53,
+      "division": 14
+    },
+    {
+      "Candidate": "Ed Neilson",
+      "Ed Neilson": "38",
+      "Matt Wolfe": "0",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": 14
+    },
+    {
+      "Candidate": "Matt Wolfe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "9",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": 14
+    },
+    {
+      "Candidate": "Nikki Allen Poe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "0",
+      "Nikki Allen Poe": "2",
+      "ward": 53,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "Ed Neilson": "38",
+      "Matt Wolfe": "9",
+      "Nikki Allen Poe": "2",
+      "ward": 53,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ed Neilson": "Ed Neilson",
+      "Matt Wolfe": "Matt Wolfe",
+      "Nikki Allen Poe": "Nikki Allen Poe",
+      "ward": 53,
+      "division": 15
+    },
+    {
+      "Candidate": "Ed Neilson",
+      "Ed Neilson": "55",
+      "Matt Wolfe": "0",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": 15
+    },
+    {
+      "Candidate": "Matt Wolfe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "18",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": 15
+    },
+    {
+      "Candidate": "Nikki Allen Poe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "0",
+      "Nikki Allen Poe": "3",
+      "ward": 53,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "Ed Neilson": "55",
+      "Matt Wolfe": "18",
+      "Nikki Allen Poe": "3",
+      "ward": 53,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ed Neilson": "Ed Neilson",
+      "Matt Wolfe": "Matt Wolfe",
+      "Nikki Allen Poe": "Nikki Allen Poe",
+      "ward": 53,
+      "division": 16
+    },
+    {
+      "Candidate": "Ed Neilson",
+      "Ed Neilson": "33",
+      "Matt Wolfe": "0",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": 16
+    },
+    {
+      "Candidate": "Matt Wolfe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "17",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": 16
+    },
+    {
+      "Candidate": "Nikki Allen Poe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "0",
+      "Nikki Allen Poe": "3",
+      "ward": 53,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "Ed Neilson": "33",
+      "Matt Wolfe": "17",
+      "Nikki Allen Poe": "3",
+      "ward": 53,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ed Neilson": "Ed Neilson",
+      "Matt Wolfe": "Matt Wolfe",
+      "Nikki Allen Poe": "Nikki Allen Poe",
+      "ward": 53,
+      "division": 17
+    },
+    {
+      "Candidate": "Ed Neilson",
+      "Ed Neilson": "30",
+      "Matt Wolfe": "0",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": 17
+    },
+    {
+      "Candidate": "Matt Wolfe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "11",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": 17
+    },
+    {
+      "Candidate": "Nikki Allen Poe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "0",
+      "Nikki Allen Poe": "4",
+      "ward": 53,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "Ed Neilson": "30",
+      "Matt Wolfe": "11",
+      "Nikki Allen Poe": "4",
+      "ward": 53,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ed Neilson": "Ed Neilson",
+      "Matt Wolfe": "Matt Wolfe",
+      "Nikki Allen Poe": "Nikki Allen Poe",
+      "ward": 53,
+      "division": 18
+    },
+    {
+      "Candidate": "Ed Neilson",
+      "Ed Neilson": "26",
+      "Matt Wolfe": "0",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": 18
+    },
+    {
+      "Candidate": "Matt Wolfe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "10",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": 18
+    },
+    {
+      "Candidate": "Nikki Allen Poe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "0",
+      "Nikki Allen Poe": "2",
+      "ward": 53,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "Ed Neilson": "26",
+      "Matt Wolfe": "10",
+      "Nikki Allen Poe": "2",
+      "ward": 53,
+      "division": 18
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ed Neilson": "Ed Neilson",
+      "Matt Wolfe": "Matt Wolfe",
+      "ward": 53,
+      "division": 19
+    },
+    {
+      "Candidate": "Ed Neilson",
+      "Ed Neilson": "29",
+      "Matt Wolfe": "0",
+      "ward": 53,
+      "division": 19
+    },
+    {
+      "Candidate": "Matt Wolfe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "10",
+      "ward": 53,
+      "division": 19
+    },
+    {
+      "Candidate": "Total",
+      "Ed Neilson": "29",
+      "Matt Wolfe": "10",
+      "ward": 53,
+      "division": 19
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ed Neilson": "Ed Neilson",
+      "Matt Wolfe": "Matt Wolfe",
+      "Nikki Allen Poe": "Nikki Allen Poe",
+      "ward": 53,
+      "division": 20
+    },
+    {
+      "Candidate": "Ed Neilson",
+      "Ed Neilson": "26",
+      "Matt Wolfe": "0",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": 20
+    },
+    {
+      "Candidate": "Matt Wolfe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "15",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": 20
+    },
+    {
+      "Candidate": "Nikki Allen Poe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "0",
+      "Nikki Allen Poe": "4",
+      "ward": 53,
+      "division": 20
+    },
+    {
+      "Candidate": "Total",
+      "Ed Neilson": "26",
+      "Matt Wolfe": "15",
+      "Nikki Allen Poe": "4",
+      "ward": 53,
+      "division": 20
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Matt Wolfe": "Matt Wolfe",
+      "Ed Neilson": "Ed Neilson",
+      "Nikki Allen Poe": "Nikki Allen Poe",
+      "ward": 53,
+      "division": 21
+    },
+    {
+      "Candidate": "Matt Wolfe",
+      "Matt Wolfe": "51",
+      "Ed Neilson": "0",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": 21
+    },
+    {
+      "Candidate": "Ed Neilson",
+      "Matt Wolfe": "0",
+      "Ed Neilson": "27",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": 21
+    },
+    {
+      "Candidate": "Nikki Allen Poe",
+      "Matt Wolfe": "0",
+      "Ed Neilson": "0",
+      "Nikki Allen Poe": "3",
+      "ward": 53,
+      "division": 21
+    },
+    {
+      "Candidate": "Total",
+      "Matt Wolfe": "51",
+      "Ed Neilson": "27",
+      "Nikki Allen Poe": "3",
+      "ward": 53,
+      "division": 21
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ed Neilson": "Ed Neilson",
+      "Matt Wolfe": "Matt Wolfe",
+      "Nikki Allen Poe": "Nikki Allen Poe",
+      "ward": 53,
+      "division": 22
+    },
+    {
+      "Candidate": "Ed Neilson",
+      "Ed Neilson": "40",
+      "Matt Wolfe": "0",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": 22
+    },
+    {
+      "Candidate": "Matt Wolfe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "7",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": 22
+    },
+    {
+      "Candidate": "Nikki Allen Poe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "0",
+      "Nikki Allen Poe": "2",
+      "ward": 53,
+      "division": 22
+    },
+    {
+      "Candidate": "Total",
+      "Ed Neilson": "40",
+      "Matt Wolfe": "7",
+      "Nikki Allen Poe": "2",
+      "ward": 53,
+      "division": 22
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ed Neilson": "Ed Neilson",
+      "Matt Wolfe": "Matt Wolfe",
+      "Nikki Allen Poe": "Nikki Allen Poe",
+      "ward": 53,
+      "division": 23
+    },
+    {
+      "Candidate": "Ed Neilson",
+      "Ed Neilson": "12",
+      "Matt Wolfe": "0",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": 23
+    },
+    {
+      "Candidate": "Matt Wolfe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "5",
+      "Nikki Allen Poe": "0",
+      "ward": 53,
+      "division": 23
+    },
+    {
+      "Candidate": "Nikki Allen Poe",
+      "Ed Neilson": "0",
+      "Matt Wolfe": "0",
+      "Nikki Allen Poe": "1",
+      "ward": 53,
+      "division": 23
+    },
+    {
+      "Candidate": "Total",
+      "Ed Neilson": "12",
+      "Matt Wolfe": "5",
+      "Nikki Allen Poe": "1",
+      "ward": 53,
+      "division": 23
+    }
+  ]
+]

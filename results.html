@@ -96,14 +96,11 @@
     $.each(elections, function(val, text) {
             $('#results_election').append( new Option(text,val) );
         });
-        $('#results_election').val(0);
-        results_offices = setOffices("election_results", "#results_election", "#results_ballot_position")
+    results_offices = setOffices("election_results", "#results_election", "#results_ballot_position")
     results_wards = getWards("election_results", "#results_election", "#results_ballot_position", results_offices)
-      $.each(results_wards, function(val, text) {
+    $.each(results_wards, function(val, text) {
               $('#results_ward').append( new Option(text,val) );
-          });
-          $('#results_ward').val(0);
-          $('.simple-select').chosen();
+   });
    setDivisionDropdown("#results_ward", "#results_division")
    results_data = getData("results");
    results_data = subsetData(results_data, "results");
@@ -111,7 +108,7 @@
    title_text = results_data[1];
    results_data = results_data[0];
 
-   var ctx_results = document.getElementById("results_chart").getContext('2d');
+   ctx_results = document.getElementById("results_chart").getContext('2d');
    results_chart = new Chart(ctx_results, {
      type: 'horizontalBar',
      data: results_data,

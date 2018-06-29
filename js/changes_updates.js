@@ -5,25 +5,16 @@ function resultsElectionChange() {
   $.each(results_wards, function(val, text) {
     $('#results_ward').append(new Option(text, val));
   });
-  $('#results_ward').val(0);
   resultsChange();
 }
 
 function resultsOfficeChange() {
-    $('#results_ward').empty();
+  $('#results_ward').empty();
   results_wards = getWards("election_results", "#results_election", "#results_ballot_position", results_offices);
   $.each(results_wards, function(val, text) {
     $('#results_ward').append(new Option(text, val));
   });
-  $('#results_ward').val(0);
   resultsChange();
-}
-
-function choicesElectionChange() {
-  choices_offices = setOffices("num_selected",
-    "#choices_election",
-    "#choices_ballot_position");
-  choicesChange();
 }
 
 function resultsChange() {
@@ -36,13 +27,23 @@ function choicesChange() {
   updateChart('choices');
 }
 
+function choicesOfficeChange() {
+    $('#results_ward').empty();
+    $('#choices_ward').empty();
+    choices_wards = getWards("num_selected", "#choices_election", "#choices_ballot_position", choices_offices);
+  $.each(choices_wards, function(val, text) {
+        $('#choices_ward').append( new Option(text,val) );
+    });
+    choicesChange();
+}
+
 function choicesElectionChange() {
+    choices_offices = setOffices("num_selected", "#choices_election", "#choices_ballot_position");
   $('#choices_ward').empty();
   choices_wards = getWards("num_selected", "#choices_election", "#choices_ballot_position", choices_offices);
 $.each(choices_wards, function(val, text) {
       $('#choices_ward').append( new Option(text,val) );
   });
-  $('#choices_ward').val(0);
   choicesChange();
 }
 
@@ -52,7 +53,6 @@ function timeElectionChange() {
   $.each(time_wards, function(val, text) {
     $('#time_ward').append(new Option(text, val));
   });
-  $('#time_ward').val(0);
   timeChange();
 }
 

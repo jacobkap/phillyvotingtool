@@ -1,0 +1,776 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Martina White": "Martina White",
+      "Sarah Del Ricci": "Sarah Del Ricci",
+      "Write In": "Write In",
+      "ward": 66,
+      "division": "All"
+    },
+    {
+      "Candidate": "Martina White",
+      "Martina White": "1420",
+      "Sarah Del Ricci": "0",
+      "Write In": "0",
+      "ward": 66,
+      "division": "All"
+    },
+    {
+      "Candidate": "Sarah Del Ricci",
+      "Martina White": "0",
+      "Sarah Del Ricci": "1250",
+      "Write In": "0",
+      "ward": 66,
+      "division": "All"
+    },
+    {
+      "Candidate": "Write In",
+      "Martina White": "0",
+      "Sarah Del Ricci": "0",
+      "Write In": "3",
+      "ward": 66,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Martina White": "1420",
+      "Sarah Del Ricci": "1250",
+      "Write In": "3",
+      "ward": 66,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Martina White": "Martina White",
+      "Sarah Del Ricci": "Sarah Del Ricci",
+      "ward": 66,
+      "division": 1
+    },
+    {
+      "Candidate": "Martina White",
+      "Martina White": "38",
+      "Sarah Del Ricci": "0",
+      "ward": 66,
+      "division": 1
+    },
+    {
+      "Candidate": "Sarah Del Ricci",
+      "Martina White": "0",
+      "Sarah Del Ricci": "32",
+      "ward": 66,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Martina White": "38",
+      "Sarah Del Ricci": "32",
+      "ward": 66,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Martina White": "Martina White",
+      "Sarah Del Ricci": "Sarah Del Ricci",
+      "ward": 66,
+      "division": 3
+    },
+    {
+      "Candidate": "Martina White",
+      "Martina White": "80",
+      "Sarah Del Ricci": "0",
+      "ward": 66,
+      "division": 3
+    },
+    {
+      "Candidate": "Sarah Del Ricci",
+      "Martina White": "0",
+      "Sarah Del Ricci": "49",
+      "ward": 66,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Martina White": "80",
+      "Sarah Del Ricci": "49",
+      "ward": 66,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Martina White": "Martina White",
+      "Sarah Del Ricci": "Sarah Del Ricci",
+      "ward": 66,
+      "division": 4
+    },
+    {
+      "Candidate": "Martina White",
+      "Martina White": "67",
+      "Sarah Del Ricci": "0",
+      "ward": 66,
+      "division": 4
+    },
+    {
+      "Candidate": "Sarah Del Ricci",
+      "Martina White": "0",
+      "Sarah Del Ricci": "58",
+      "ward": 66,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Martina White": "67",
+      "Sarah Del Ricci": "58",
+      "ward": 66,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Sarah Del Ricci": "Sarah Del Ricci",
+      "Martina White": "Martina White",
+      "ward": 66,
+      "division": 5
+    },
+    {
+      "Candidate": "Sarah Del Ricci",
+      "Sarah Del Ricci": "51",
+      "Martina White": "0",
+      "ward": 66,
+      "division": 5
+    },
+    {
+      "Candidate": "Martina White",
+      "Sarah Del Ricci": "0",
+      "Martina White": "38",
+      "ward": 66,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Sarah Del Ricci": "51",
+      "Martina White": "38",
+      "ward": 66,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Martina White": "Martina White",
+      "Sarah Del Ricci": "Sarah Del Ricci",
+      "ward": 66,
+      "division": 6
+    },
+    {
+      "Candidate": "Martina White",
+      "Martina White": "79",
+      "Sarah Del Ricci": "0",
+      "ward": 66,
+      "division": 6
+    },
+    {
+      "Candidate": "Sarah Del Ricci",
+      "Martina White": "0",
+      "Sarah Del Ricci": "79",
+      "ward": 66,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "Martina White": "79",
+      "Sarah Del Ricci": "79",
+      "ward": 66,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Martina White": "Martina White",
+      "Sarah Del Ricci": "Sarah Del Ricci",
+      "ward": 66,
+      "division": 8
+    },
+    {
+      "Candidate": "Martina White",
+      "Martina White": "69",
+      "Sarah Del Ricci": "0",
+      "ward": 66,
+      "division": 8
+    },
+    {
+      "Candidate": "Sarah Del Ricci",
+      "Martina White": "0",
+      "Sarah Del Ricci": "58",
+      "ward": 66,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Martina White": "69",
+      "Sarah Del Ricci": "58",
+      "ward": 66,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Martina White": "Martina White",
+      "Sarah Del Ricci": "Sarah Del Ricci",
+      "ward": 66,
+      "division": 9
+    },
+    {
+      "Candidate": "Martina White",
+      "Martina White": "96",
+      "Sarah Del Ricci": "0",
+      "ward": 66,
+      "division": 9
+    },
+    {
+      "Candidate": "Sarah Del Ricci",
+      "Martina White": "0",
+      "Sarah Del Ricci": "71",
+      "ward": 66,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Martina White": "96",
+      "Sarah Del Ricci": "71",
+      "ward": 66,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Martina White": "Martina White",
+      "Sarah Del Ricci": "Sarah Del Ricci",
+      "ward": 66,
+      "division": 10
+    },
+    {
+      "Candidate": "Martina White",
+      "Martina White": "67",
+      "Sarah Del Ricci": "0",
+      "ward": 66,
+      "division": 10
+    },
+    {
+      "Candidate": "Sarah Del Ricci",
+      "Martina White": "0",
+      "Sarah Del Ricci": "42",
+      "ward": 66,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Martina White": "67",
+      "Sarah Del Ricci": "42",
+      "ward": 66,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Sarah Del Ricci": "Sarah Del Ricci",
+      "Martina White": "Martina White",
+      "ward": 66,
+      "division": 12
+    },
+    {
+      "Candidate": "Sarah Del Ricci",
+      "Sarah Del Ricci": "44",
+      "Martina White": "0",
+      "ward": 66,
+      "division": 12
+    },
+    {
+      "Candidate": "Martina White",
+      "Sarah Del Ricci": "0",
+      "Martina White": "39",
+      "ward": 66,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Sarah Del Ricci": "44",
+      "Martina White": "39",
+      "ward": 66,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Sarah Del Ricci": "Sarah Del Ricci",
+      "Martina White": "Martina White",
+      "ward": 66,
+      "division": 13
+    },
+    {
+      "Candidate": "Sarah Del Ricci",
+      "Sarah Del Ricci": "57",
+      "Martina White": "0",
+      "ward": 66,
+      "division": 13
+    },
+    {
+      "Candidate": "Martina White",
+      "Sarah Del Ricci": "0",
+      "Martina White": "46",
+      "ward": 66,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "Sarah Del Ricci": "57",
+      "Martina White": "46",
+      "ward": 66,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Sarah Del Ricci": "Sarah Del Ricci",
+      "Martina White": "Martina White",
+      "ward": 66,
+      "division": 14
+    },
+    {
+      "Candidate": "Sarah Del Ricci",
+      "Sarah Del Ricci": "62",
+      "Martina White": "0",
+      "ward": 66,
+      "division": 14
+    },
+    {
+      "Candidate": "Martina White",
+      "Sarah Del Ricci": "0",
+      "Martina White": "57",
+      "ward": 66,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "Sarah Del Ricci": "62",
+      "Martina White": "57",
+      "ward": 66,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Martina White": "Martina White",
+      "Sarah Del Ricci": "Sarah Del Ricci",
+      "ward": 66,
+      "division": 15
+    },
+    {
+      "Candidate": "Martina White",
+      "Martina White": "55",
+      "Sarah Del Ricci": "0",
+      "ward": 66,
+      "division": 15
+    },
+    {
+      "Candidate": "Sarah Del Ricci",
+      "Martina White": "0",
+      "Sarah Del Ricci": "52",
+      "ward": 66,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "Martina White": "55",
+      "Sarah Del Ricci": "52",
+      "ward": 66,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Martina White": "Martina White",
+      "Sarah Del Ricci": "Sarah Del Ricci",
+      "ward": 66,
+      "division": 16
+    },
+    {
+      "Candidate": "Martina White",
+      "Martina White": "59",
+      "Sarah Del Ricci": "0",
+      "ward": 66,
+      "division": 16
+    },
+    {
+      "Candidate": "Sarah Del Ricci",
+      "Martina White": "0",
+      "Sarah Del Ricci": "35",
+      "ward": 66,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "Martina White": "59",
+      "Sarah Del Ricci": "35",
+      "ward": 66,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Martina White": "Martina White",
+      "Sarah Del Ricci": "Sarah Del Ricci",
+      "ward": 66,
+      "division": 18
+    },
+    {
+      "Candidate": "Martina White",
+      "Martina White": "65",
+      "Sarah Del Ricci": "0",
+      "ward": 66,
+      "division": 18
+    },
+    {
+      "Candidate": "Sarah Del Ricci",
+      "Martina White": "0",
+      "Sarah Del Ricci": "47",
+      "ward": 66,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "Martina White": "65",
+      "Sarah Del Ricci": "47",
+      "ward": 66,
+      "division": 18
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Martina White": "Martina White",
+      "Sarah Del Ricci": "Sarah Del Ricci",
+      "Write In": "Write In",
+      "ward": 66,
+      "division": 20
+    },
+    {
+      "Candidate": "Martina White",
+      "Martina White": "53",
+      "Sarah Del Ricci": "0",
+      "Write In": "0",
+      "ward": 66,
+      "division": 20
+    },
+    {
+      "Candidate": "Sarah Del Ricci",
+      "Martina White": "0",
+      "Sarah Del Ricci": "48",
+      "Write In": "0",
+      "ward": 66,
+      "division": 20
+    },
+    {
+      "Candidate": "Write In",
+      "Martina White": "0",
+      "Sarah Del Ricci": "0",
+      "Write In": "3",
+      "ward": 66,
+      "division": 20
+    },
+    {
+      "Candidate": "Total",
+      "Martina White": "53",
+      "Sarah Del Ricci": "48",
+      "Write In": "3",
+      "ward": 66,
+      "division": 20
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Martina White": "Martina White",
+      "Sarah Del Ricci": "Sarah Del Ricci",
+      "ward": 66,
+      "division": 22
+    },
+    {
+      "Candidate": "Martina White",
+      "Martina White": "74",
+      "Sarah Del Ricci": "0",
+      "ward": 66,
+      "division": 22
+    },
+    {
+      "Candidate": "Sarah Del Ricci",
+      "Martina White": "0",
+      "Sarah Del Ricci": "72",
+      "ward": 66,
+      "division": 22
+    },
+    {
+      "Candidate": "Total",
+      "Martina White": "74",
+      "Sarah Del Ricci": "72",
+      "ward": 66,
+      "division": 22
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Martina White": "Martina White",
+      "Sarah Del Ricci": "Sarah Del Ricci",
+      "ward": 66,
+      "division": 23
+    },
+    {
+      "Candidate": "Martina White",
+      "Martina White": "63",
+      "Sarah Del Ricci": "0",
+      "ward": 66,
+      "division": 23
+    },
+    {
+      "Candidate": "Sarah Del Ricci",
+      "Martina White": "0",
+      "Sarah Del Ricci": "37",
+      "ward": 66,
+      "division": 23
+    },
+    {
+      "Candidate": "Total",
+      "Martina White": "63",
+      "Sarah Del Ricci": "37",
+      "ward": 66,
+      "division": 23
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Martina White": "Martina White",
+      "Sarah Del Ricci": "Sarah Del Ricci",
+      "ward": 66,
+      "division": 31
+    },
+    {
+      "Candidate": "Martina White",
+      "Martina White": "38",
+      "Sarah Del Ricci": "0",
+      "ward": 66,
+      "division": 31
+    },
+    {
+      "Candidate": "Sarah Del Ricci",
+      "Martina White": "0",
+      "Sarah Del Ricci": "31",
+      "ward": 66,
+      "division": 31
+    },
+    {
+      "Candidate": "Total",
+      "Martina White": "38",
+      "Sarah Del Ricci": "31",
+      "ward": 66,
+      "division": 31
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Martina White": "Martina White",
+      "Sarah Del Ricci": "Sarah Del Ricci",
+      "ward": 66,
+      "division": 33
+    },
+    {
+      "Candidate": "Martina White",
+      "Martina White": "69",
+      "Sarah Del Ricci": "0",
+      "ward": 66,
+      "division": 33
+    },
+    {
+      "Candidate": "Sarah Del Ricci",
+      "Martina White": "0",
+      "Sarah Del Ricci": "32",
+      "ward": 66,
+      "division": 33
+    },
+    {
+      "Candidate": "Total",
+      "Martina White": "69",
+      "Sarah Del Ricci": "32",
+      "ward": 66,
+      "division": 33
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Sarah Del Ricci": "Sarah Del Ricci",
+      "Martina White": "Martina White",
+      "ward": 66,
+      "division": 34
+    },
+    {
+      "Candidate": "Sarah Del Ricci",
+      "Sarah Del Ricci": "107",
+      "Martina White": "0",
+      "ward": 66,
+      "division": 34
+    },
+    {
+      "Candidate": "Martina White",
+      "Sarah Del Ricci": "0",
+      "Martina White": "64",
+      "ward": 66,
+      "division": 34
+    },
+    {
+      "Candidate": "Total",
+      "Sarah Del Ricci": "107",
+      "Martina White": "64",
+      "ward": 66,
+      "division": 34
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Martina White": "Martina White",
+      "Sarah Del Ricci": "Sarah Del Ricci",
+      "ward": 66,
+      "division": 38
+    },
+    {
+      "Candidate": "Martina White",
+      "Martina White": "65",
+      "Sarah Del Ricci": "0",
+      "ward": 66,
+      "division": 38
+    },
+    {
+      "Candidate": "Sarah Del Ricci",
+      "Martina White": "0",
+      "Sarah Del Ricci": "43",
+      "ward": 66,
+      "division": 38
+    },
+    {
+      "Candidate": "Total",
+      "Martina White": "65",
+      "Sarah Del Ricci": "43",
+      "ward": 66,
+      "division": 38
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Martina White": "Martina White",
+      "Sarah Del Ricci": "Sarah Del Ricci",
+      "ward": 66,
+      "division": 39
+    },
+    {
+      "Candidate": "Martina White",
+      "Martina White": "59",
+      "Sarah Del Ricci": "0",
+      "ward": 66,
+      "division": 39
+    },
+    {
+      "Candidate": "Sarah Del Ricci",
+      "Martina White": "0",
+      "Sarah Del Ricci": "57",
+      "ward": 66,
+      "division": 39
+    },
+    {
+      "Candidate": "Total",
+      "Martina White": "59",
+      "Sarah Del Ricci": "57",
+      "ward": 66,
+      "division": 39
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Martina White": "Martina White",
+      "Sarah Del Ricci": "Sarah Del Ricci",
+      "ward": 66,
+      "division": 40
+    },
+    {
+      "Candidate": "Martina White",
+      "Martina White": "31",
+      "Sarah Del Ricci": "0",
+      "ward": 66,
+      "division": 40
+    },
+    {
+      "Candidate": "Sarah Del Ricci",
+      "Martina White": "0",
+      "Sarah Del Ricci": "29",
+      "ward": 66,
+      "division": 40
+    },
+    {
+      "Candidate": "Total",
+      "Martina White": "31",
+      "Sarah Del Ricci": "29",
+      "ward": 66,
+      "division": 40
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Sarah Del Ricci": "Sarah Del Ricci",
+      "Martina White": "Martina White",
+      "ward": 66,
+      "division": 41
+    },
+    {
+      "Candidate": "Sarah Del Ricci",
+      "Sarah Del Ricci": "57",
+      "Martina White": "0",
+      "ward": 66,
+      "division": 41
+    },
+    {
+      "Candidate": "Martina White",
+      "Sarah Del Ricci": "0",
+      "Martina White": "49",
+      "ward": 66,
+      "division": 41
+    },
+    {
+      "Candidate": "Total",
+      "Sarah Del Ricci": "57",
+      "Martina White": "49",
+      "ward": 66,
+      "division": 41
+    }
+  ]
+]

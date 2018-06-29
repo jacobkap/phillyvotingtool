@@ -1,0 +1,926 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Lamont W Thomas": "Lamont W Thomas",
+      "Write In": "Write In",
+      "ward": 10,
+      "division": "All"
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "4273",
+      "Lamont W Thomas": "0",
+      "Write In": "0",
+      "ward": 10,
+      "division": "All"
+    },
+    {
+      "Candidate": "Lamont W Thomas",
+      "Dwight Evans": "0",
+      "Lamont W Thomas": "699",
+      "Write In": "0",
+      "ward": 10,
+      "division": "All"
+    },
+    {
+      "Candidate": "Write In",
+      "Dwight Evans": "0",
+      "Lamont W Thomas": "0",
+      "Write In": "1",
+      "ward": 10,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "4273",
+      "Lamont W Thomas": "699",
+      "Write In": "1",
+      "ward": 10,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Lamont W Thomas": "Lamont W Thomas",
+      "ward": 10,
+      "division": 1
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "132",
+      "Lamont W Thomas": "0",
+      "ward": 10,
+      "division": 1
+    },
+    {
+      "Candidate": "Lamont W Thomas",
+      "Dwight Evans": "0",
+      "Lamont W Thomas": "14",
+      "ward": 10,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "132",
+      "Lamont W Thomas": "14",
+      "ward": 10,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Lamont W Thomas": "Lamont W Thomas",
+      "Write In": "Write In",
+      "ward": 10,
+      "division": 2
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "175",
+      "Lamont W Thomas": "0",
+      "Write In": "0",
+      "ward": 10,
+      "division": 2
+    },
+    {
+      "Candidate": "Lamont W Thomas",
+      "Dwight Evans": "0",
+      "Lamont W Thomas": "29",
+      "Write In": "0",
+      "ward": 10,
+      "division": 2
+    },
+    {
+      "Candidate": "Write In",
+      "Dwight Evans": "0",
+      "Lamont W Thomas": "0",
+      "Write In": "1",
+      "ward": 10,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "175",
+      "Lamont W Thomas": "29",
+      "Write In": "1",
+      "ward": 10,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Lamont W Thomas": "Lamont W Thomas",
+      "ward": 10,
+      "division": 3
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "177",
+      "Lamont W Thomas": "0",
+      "ward": 10,
+      "division": 3
+    },
+    {
+      "Candidate": "Lamont W Thomas",
+      "Dwight Evans": "0",
+      "Lamont W Thomas": "33",
+      "ward": 10,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "177",
+      "Lamont W Thomas": "33",
+      "ward": 10,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Lamont W Thomas": "Lamont W Thomas",
+      "ward": 10,
+      "division": 4
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "150",
+      "Lamont W Thomas": "0",
+      "ward": 10,
+      "division": 4
+    },
+    {
+      "Candidate": "Lamont W Thomas",
+      "Dwight Evans": "0",
+      "Lamont W Thomas": "18",
+      "ward": 10,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "150",
+      "Lamont W Thomas": "18",
+      "ward": 10,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Lamont W Thomas": "Lamont W Thomas",
+      "ward": 10,
+      "division": 5
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "140",
+      "Lamont W Thomas": "0",
+      "ward": 10,
+      "division": 5
+    },
+    {
+      "Candidate": "Lamont W Thomas",
+      "Dwight Evans": "0",
+      "Lamont W Thomas": "23",
+      "ward": 10,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "140",
+      "Lamont W Thomas": "23",
+      "ward": 10,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Lamont W Thomas": "Lamont W Thomas",
+      "ward": 10,
+      "division": 6
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "155",
+      "Lamont W Thomas": "0",
+      "ward": 10,
+      "division": 6
+    },
+    {
+      "Candidate": "Lamont W Thomas",
+      "Dwight Evans": "0",
+      "Lamont W Thomas": "33",
+      "ward": 10,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "155",
+      "Lamont W Thomas": "33",
+      "ward": 10,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Lamont W Thomas": "Lamont W Thomas",
+      "ward": 10,
+      "division": 7
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "127",
+      "Lamont W Thomas": "0",
+      "ward": 10,
+      "division": 7
+    },
+    {
+      "Candidate": "Lamont W Thomas",
+      "Dwight Evans": "0",
+      "Lamont W Thomas": "31",
+      "ward": 10,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "127",
+      "Lamont W Thomas": "31",
+      "ward": 10,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Lamont W Thomas": "Lamont W Thomas",
+      "ward": 10,
+      "division": 8
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "127",
+      "Lamont W Thomas": "0",
+      "ward": 10,
+      "division": 8
+    },
+    {
+      "Candidate": "Lamont W Thomas",
+      "Dwight Evans": "0",
+      "Lamont W Thomas": "21",
+      "ward": 10,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "127",
+      "Lamont W Thomas": "21",
+      "ward": 10,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Lamont W Thomas": "Lamont W Thomas",
+      "ward": 10,
+      "division": 9
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "158",
+      "Lamont W Thomas": "0",
+      "ward": 10,
+      "division": 9
+    },
+    {
+      "Candidate": "Lamont W Thomas",
+      "Dwight Evans": "0",
+      "Lamont W Thomas": "30",
+      "ward": 10,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "158",
+      "Lamont W Thomas": "30",
+      "ward": 10,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Lamont W Thomas": "Lamont W Thomas",
+      "ward": 10,
+      "division": 10
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "101",
+      "Lamont W Thomas": "0",
+      "ward": 10,
+      "division": 10
+    },
+    {
+      "Candidate": "Lamont W Thomas",
+      "Dwight Evans": "0",
+      "Lamont W Thomas": "7",
+      "ward": 10,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "101",
+      "Lamont W Thomas": "7",
+      "ward": 10,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Lamont W Thomas": "Lamont W Thomas",
+      "ward": 10,
+      "division": 11
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "91",
+      "Lamont W Thomas": "0",
+      "ward": 10,
+      "division": 11
+    },
+    {
+      "Candidate": "Lamont W Thomas",
+      "Dwight Evans": "0",
+      "Lamont W Thomas": "13",
+      "ward": 10,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "91",
+      "Lamont W Thomas": "13",
+      "ward": 10,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Lamont W Thomas": "Lamont W Thomas",
+      "ward": 10,
+      "division": 13
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "218",
+      "Lamont W Thomas": "0",
+      "ward": 10,
+      "division": 13
+    },
+    {
+      "Candidate": "Lamont W Thomas",
+      "Dwight Evans": "0",
+      "Lamont W Thomas": "22",
+      "ward": 10,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "218",
+      "Lamont W Thomas": "22",
+      "ward": 10,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Lamont W Thomas": "Lamont W Thomas",
+      "ward": 10,
+      "division": 14
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "194",
+      "Lamont W Thomas": "0",
+      "ward": 10,
+      "division": 14
+    },
+    {
+      "Candidate": "Lamont W Thomas",
+      "Dwight Evans": "0",
+      "Lamont W Thomas": "21",
+      "ward": 10,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "194",
+      "Lamont W Thomas": "21",
+      "ward": 10,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Lamont W Thomas": "Lamont W Thomas",
+      "ward": 10,
+      "division": 15
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "158",
+      "Lamont W Thomas": "0",
+      "ward": 10,
+      "division": 15
+    },
+    {
+      "Candidate": "Lamont W Thomas",
+      "Dwight Evans": "0",
+      "Lamont W Thomas": "25",
+      "ward": 10,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "158",
+      "Lamont W Thomas": "25",
+      "ward": 10,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Lamont W Thomas": "Lamont W Thomas",
+      "ward": 10,
+      "division": 16
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "124",
+      "Lamont W Thomas": "0",
+      "ward": 10,
+      "division": 16
+    },
+    {
+      "Candidate": "Lamont W Thomas",
+      "Dwight Evans": "0",
+      "Lamont W Thomas": "33",
+      "ward": 10,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "124",
+      "Lamont W Thomas": "33",
+      "ward": 10,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Lamont W Thomas": "Lamont W Thomas",
+      "ward": 10,
+      "division": 17
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "148",
+      "Lamont W Thomas": "0",
+      "ward": 10,
+      "division": 17
+    },
+    {
+      "Candidate": "Lamont W Thomas",
+      "Dwight Evans": "0",
+      "Lamont W Thomas": "19",
+      "ward": 10,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "148",
+      "Lamont W Thomas": "19",
+      "ward": 10,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Lamont W Thomas": "Lamont W Thomas",
+      "ward": 10,
+      "division": 18
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "122",
+      "Lamont W Thomas": "0",
+      "ward": 10,
+      "division": 18
+    },
+    {
+      "Candidate": "Lamont W Thomas",
+      "Dwight Evans": "0",
+      "Lamont W Thomas": "32",
+      "ward": 10,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "122",
+      "Lamont W Thomas": "32",
+      "ward": 10,
+      "division": 18
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Lamont W Thomas": "Lamont W Thomas",
+      "ward": 10,
+      "division": 19
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "166",
+      "Lamont W Thomas": "0",
+      "ward": 10,
+      "division": 19
+    },
+    {
+      "Candidate": "Lamont W Thomas",
+      "Dwight Evans": "0",
+      "Lamont W Thomas": "36",
+      "ward": 10,
+      "division": 19
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "166",
+      "Lamont W Thomas": "36",
+      "ward": 10,
+      "division": 19
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Lamont W Thomas": "Lamont W Thomas",
+      "ward": 10,
+      "division": 20
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "137",
+      "Lamont W Thomas": "0",
+      "ward": 10,
+      "division": 20
+    },
+    {
+      "Candidate": "Lamont W Thomas",
+      "Dwight Evans": "0",
+      "Lamont W Thomas": "29",
+      "ward": 10,
+      "division": 20
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "137",
+      "Lamont W Thomas": "29",
+      "ward": 10,
+      "division": 20
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Lamont W Thomas": "Lamont W Thomas",
+      "ward": 10,
+      "division": 21
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "185",
+      "Lamont W Thomas": "0",
+      "ward": 10,
+      "division": 21
+    },
+    {
+      "Candidate": "Lamont W Thomas",
+      "Dwight Evans": "0",
+      "Lamont W Thomas": "30",
+      "ward": 10,
+      "division": 21
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "185",
+      "Lamont W Thomas": "30",
+      "ward": 10,
+      "division": 21
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Lamont W Thomas": "Lamont W Thomas",
+      "ward": 10,
+      "division": 22
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "132",
+      "Lamont W Thomas": "0",
+      "ward": 10,
+      "division": 22
+    },
+    {
+      "Candidate": "Lamont W Thomas",
+      "Dwight Evans": "0",
+      "Lamont W Thomas": "15",
+      "ward": 10,
+      "division": 22
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "132",
+      "Lamont W Thomas": "15",
+      "ward": 10,
+      "division": 22
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Lamont W Thomas": "Lamont W Thomas",
+      "ward": 10,
+      "division": 23
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "80",
+      "Lamont W Thomas": "0",
+      "ward": 10,
+      "division": 23
+    },
+    {
+      "Candidate": "Lamont W Thomas",
+      "Dwight Evans": "0",
+      "Lamont W Thomas": "13",
+      "ward": 10,
+      "division": 23
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "80",
+      "Lamont W Thomas": "13",
+      "ward": 10,
+      "division": 23
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Lamont W Thomas": "Lamont W Thomas",
+      "ward": 10,
+      "division": 24
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "157",
+      "Lamont W Thomas": "0",
+      "ward": 10,
+      "division": 24
+    },
+    {
+      "Candidate": "Lamont W Thomas",
+      "Dwight Evans": "0",
+      "Lamont W Thomas": "29",
+      "ward": 10,
+      "division": 24
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "157",
+      "Lamont W Thomas": "29",
+      "ward": 10,
+      "division": 24
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Lamont W Thomas": "Lamont W Thomas",
+      "ward": 10,
+      "division": 25
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "156",
+      "Lamont W Thomas": "0",
+      "ward": 10,
+      "division": 25
+    },
+    {
+      "Candidate": "Lamont W Thomas",
+      "Dwight Evans": "0",
+      "Lamont W Thomas": "29",
+      "ward": 10,
+      "division": 25
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "156",
+      "Lamont W Thomas": "29",
+      "ward": 10,
+      "division": 25
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Lamont W Thomas": "Lamont W Thomas",
+      "ward": 10,
+      "division": 26
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "170",
+      "Lamont W Thomas": "0",
+      "ward": 10,
+      "division": 26
+    },
+    {
+      "Candidate": "Lamont W Thomas",
+      "Dwight Evans": "0",
+      "Lamont W Thomas": "16",
+      "ward": 10,
+      "division": 26
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "170",
+      "Lamont W Thomas": "16",
+      "ward": 10,
+      "division": 26
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Lamont W Thomas": "Lamont W Thomas",
+      "ward": 10,
+      "division": 27
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "138",
+      "Lamont W Thomas": "0",
+      "ward": 10,
+      "division": 27
+    },
+    {
+      "Candidate": "Lamont W Thomas",
+      "Dwight Evans": "0",
+      "Lamont W Thomas": "16",
+      "ward": 10,
+      "division": 27
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "138",
+      "Lamont W Thomas": "16",
+      "ward": 10,
+      "division": 27
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Lamont W Thomas": "Lamont W Thomas",
+      "ward": 10,
+      "division": 28
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "136",
+      "Lamont W Thomas": "0",
+      "ward": 10,
+      "division": 28
+    },
+    {
+      "Candidate": "Lamont W Thomas",
+      "Dwight Evans": "0",
+      "Lamont W Thomas": "29",
+      "ward": 10,
+      "division": 28
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "136",
+      "Lamont W Thomas": "29",
+      "ward": 10,
+      "division": 28
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Lamont W Thomas": "Lamont W Thomas",
+      "ward": 10,
+      "division": 29
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "180",
+      "Lamont W Thomas": "0",
+      "ward": 10,
+      "division": 29
+    },
+    {
+      "Candidate": "Lamont W Thomas",
+      "Dwight Evans": "0",
+      "Lamont W Thomas": "24",
+      "ward": 10,
+      "division": 29
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "180",
+      "Lamont W Thomas": "24",
+      "ward": 10,
+      "division": 29
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "Lamont W Thomas": "Lamont W Thomas",
+      "ward": 10,
+      "division": 12
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "139",
+      "Lamont W Thomas": "0",
+      "ward": 10,
+      "division": 12
+    },
+    {
+      "Candidate": "Lamont W Thomas",
+      "Dwight Evans": "0",
+      "Lamont W Thomas": "29",
+      "ward": 10,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "139",
+      "Lamont W Thomas": "29",
+      "ward": 10,
+      "division": 12
+    }
+  ]
+]

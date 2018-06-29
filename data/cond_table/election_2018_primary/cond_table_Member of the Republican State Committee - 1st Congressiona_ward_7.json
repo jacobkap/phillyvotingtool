@@ -1,0 +1,484 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Maria Digiorgio Mccolgan": "Maria Digiorgio Mccolgan",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "Theresa A Dintino": "Theresa A Dintino",
+      "Michael A Cibik": "Michael A Cibik",
+      "Write In": "Write In",
+      "ward": 7,
+      "division": "All"
+    },
+    {
+      "Candidate": "Maria Digiorgio Mccolgan",
+      "Maria Digiorgio Mccolgan": "5",
+      "Christopher M Vogler": "5",
+      "Theresa A Dintino": "5",
+      "Michael A Cibik": "5",
+      "Write In": "0",
+      "ward": 7,
+      "division": "All"
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Maria Digiorgio Mccolgan": "5",
+      "Christopher M Vogler": "2",
+      "Theresa A Dintino": "4",
+      "Michael A Cibik": "5",
+      "Write In": "1",
+      "ward": 7,
+      "division": "All"
+    },
+    {
+      "Candidate": "Theresa A Dintino",
+      "Maria Digiorgio Mccolgan": "5",
+      "Christopher M Vogler": "4",
+      "Theresa A Dintino": "2",
+      "Michael A Cibik": "4",
+      "Write In": "0",
+      "ward": 7,
+      "division": "All"
+    },
+    {
+      "Candidate": "Michael A Cibik",
+      "Maria Digiorgio Mccolgan": "5",
+      "Christopher M Vogler": "5",
+      "Theresa A Dintino": "4",
+      "Michael A Cibik": "1",
+      "Write In": "0",
+      "ward": 7,
+      "division": "All"
+    },
+    {
+      "Candidate": "Write In",
+      "Maria Digiorgio Mccolgan": "0",
+      "Christopher M Vogler": "1",
+      "Theresa A Dintino": "0",
+      "Michael A Cibik": "0",
+      "Write In": "0",
+      "ward": 7,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Maria Digiorgio Mccolgan": "11",
+      "Christopher M Vogler": "8",
+      "Theresa A Dintino": "7",
+      "Michael A Cibik": "6",
+      "Write In": "1",
+      "ward": 7,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Theresa A Dintino": "Theresa A Dintino",
+      "ward": 7,
+      "division": 1
+    },
+    {
+      "Candidate": "Theresa A Dintino",
+      "Theresa A Dintino": "1",
+      "ward": 7,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Theresa A Dintino": "1",
+      "ward": 7,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Maria Digiorgio Mccolgan": "Maria Digiorgio Mccolgan",
+      "ward": 7,
+      "division": 5
+    },
+    {
+      "Candidate": "Maria Digiorgio Mccolgan",
+      "Maria Digiorgio Mccolgan": "2",
+      "ward": 7,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Maria Digiorgio Mccolgan": "2",
+      "ward": 7,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Maria Digiorgio Mccolgan": "Maria Digiorgio Mccolgan",
+      "Theresa A Dintino": "Theresa A Dintino",
+      "ward": 7,
+      "division": 9
+    },
+    {
+      "Candidate": "Maria Digiorgio Mccolgan",
+      "Maria Digiorgio Mccolgan": "1",
+      "Theresa A Dintino": "0",
+      "ward": 7,
+      "division": 9
+    },
+    {
+      "Candidate": "Theresa A Dintino",
+      "Maria Digiorgio Mccolgan": "0",
+      "Theresa A Dintino": "1",
+      "ward": 7,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Maria Digiorgio Mccolgan": "1",
+      "Theresa A Dintino": "1",
+      "ward": 7,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "Maria Digiorgio Mccolgan": "Maria Digiorgio Mccolgan",
+      "ward": 7,
+      "division": 10
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Christopher M Vogler": "1",
+      "Maria Digiorgio Mccolgan": "0",
+      "ward": 7,
+      "division": 10
+    },
+    {
+      "Candidate": "Maria Digiorgio Mccolgan",
+      "Christopher M Vogler": "0",
+      "Maria Digiorgio Mccolgan": "1",
+      "ward": 7,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Christopher M Vogler": "1",
+      "Maria Digiorgio Mccolgan": "1",
+      "ward": 7,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "Maria Digiorgio Mccolgan": "Maria Digiorgio Mccolgan",
+      "Michael A Cibik": "Michael A Cibik",
+      "Theresa A Dintino": "Theresa A Dintino",
+      "ward": 7,
+      "division": 12
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Christopher M Vogler": "0",
+      "Maria Digiorgio Mccolgan": "1",
+      "Michael A Cibik": "1",
+      "Theresa A Dintino": "1",
+      "ward": 7,
+      "division": 12
+    },
+    {
+      "Candidate": "Maria Digiorgio Mccolgan",
+      "Christopher M Vogler": "1",
+      "Maria Digiorgio Mccolgan": "0",
+      "Michael A Cibik": "1",
+      "Theresa A Dintino": "1",
+      "ward": 7,
+      "division": 12
+    },
+    {
+      "Candidate": "Michael A Cibik",
+      "Christopher M Vogler": "1",
+      "Maria Digiorgio Mccolgan": "1",
+      "Michael A Cibik": "0",
+      "Theresa A Dintino": "1",
+      "ward": 7,
+      "division": 12
+    },
+    {
+      "Candidate": "Theresa A Dintino",
+      "Christopher M Vogler": "1",
+      "Maria Digiorgio Mccolgan": "1",
+      "Michael A Cibik": "1",
+      "Theresa A Dintino": "0",
+      "ward": 7,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Christopher M Vogler": "1",
+      "Maria Digiorgio Mccolgan": "1",
+      "Michael A Cibik": "1",
+      "Theresa A Dintino": "1",
+      "ward": 7,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "Maria Digiorgio Mccolgan": "Maria Digiorgio Mccolgan",
+      "Michael A Cibik": "Michael A Cibik",
+      "Theresa A Dintino": "Theresa A Dintino",
+      "ward": 7,
+      "division": 14
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Christopher M Vogler": "0",
+      "Maria Digiorgio Mccolgan": "1",
+      "Michael A Cibik": "1",
+      "Theresa A Dintino": "1",
+      "ward": 7,
+      "division": 14
+    },
+    {
+      "Candidate": "Maria Digiorgio Mccolgan",
+      "Christopher M Vogler": "1",
+      "Maria Digiorgio Mccolgan": "0",
+      "Michael A Cibik": "1",
+      "Theresa A Dintino": "1",
+      "ward": 7,
+      "division": 14
+    },
+    {
+      "Candidate": "Michael A Cibik",
+      "Christopher M Vogler": "1",
+      "Maria Digiorgio Mccolgan": "1",
+      "Michael A Cibik": "0",
+      "Theresa A Dintino": "1",
+      "ward": 7,
+      "division": 14
+    },
+    {
+      "Candidate": "Theresa A Dintino",
+      "Christopher M Vogler": "1",
+      "Maria Digiorgio Mccolgan": "1",
+      "Michael A Cibik": "1",
+      "Theresa A Dintino": "0",
+      "ward": 7,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "Christopher M Vogler": "1",
+      "Maria Digiorgio Mccolgan": "1",
+      "Michael A Cibik": "1",
+      "Theresa A Dintino": "1",
+      "ward": 7,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "ward": 7,
+      "division": 19
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Christopher M Vogler": "1",
+      "ward": 7,
+      "division": 19
+    },
+    {
+      "Candidate": "Total",
+      "Christopher M Vogler": "1",
+      "ward": 7,
+      "division": 19
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "Maria Digiorgio Mccolgan": "Maria Digiorgio Mccolgan",
+      "Michael A Cibik": "Michael A Cibik",
+      "Theresa A Dintino": "Theresa A Dintino",
+      "Write In": "Write In",
+      "ward": 7,
+      "division": 20
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Christopher M Vogler": "0",
+      "Maria Digiorgio Mccolgan": "2",
+      "Michael A Cibik": "2",
+      "Theresa A Dintino": "1",
+      "Write In": "1",
+      "ward": 7,
+      "division": 20
+    },
+    {
+      "Candidate": "Maria Digiorgio Mccolgan",
+      "Christopher M Vogler": "2",
+      "Maria Digiorgio Mccolgan": "1",
+      "Michael A Cibik": "2",
+      "Theresa A Dintino": "1",
+      "Write In": "0",
+      "ward": 7,
+      "division": 20
+    },
+    {
+      "Candidate": "Michael A Cibik",
+      "Christopher M Vogler": "2",
+      "Maria Digiorgio Mccolgan": "2",
+      "Michael A Cibik": "0",
+      "Theresa A Dintino": "1",
+      "Write In": "0",
+      "ward": 7,
+      "division": 20
+    },
+    {
+      "Candidate": "Theresa A Dintino",
+      "Christopher M Vogler": "1",
+      "Maria Digiorgio Mccolgan": "1",
+      "Michael A Cibik": "1",
+      "Theresa A Dintino": "0",
+      "Write In": "0",
+      "ward": 7,
+      "division": 20
+    },
+    {
+      "Candidate": "Write In",
+      "Christopher M Vogler": "1",
+      "Maria Digiorgio Mccolgan": "0",
+      "Michael A Cibik": "0",
+      "Theresa A Dintino": "0",
+      "Write In": "0",
+      "ward": 7,
+      "division": 20
+    },
+    {
+      "Candidate": "Total",
+      "Christopher M Vogler": "3",
+      "Maria Digiorgio Mccolgan": "3",
+      "Michael A Cibik": "2",
+      "Theresa A Dintino": "1",
+      "Write In": "1",
+      "ward": 7,
+      "division": 20
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Christopher M Vogler": "Christopher M Vogler",
+      "Maria Digiorgio Mccolgan": "Maria Digiorgio Mccolgan",
+      "Michael A Cibik": "Michael A Cibik",
+      "Theresa A Dintino": "Theresa A Dintino",
+      "ward": 7,
+      "division": 21
+    },
+    {
+      "Candidate": "Christopher M Vogler",
+      "Christopher M Vogler": "0",
+      "Maria Digiorgio Mccolgan": "1",
+      "Michael A Cibik": "1",
+      "Theresa A Dintino": "1",
+      "ward": 7,
+      "division": 21
+    },
+    {
+      "Candidate": "Maria Digiorgio Mccolgan",
+      "Christopher M Vogler": "1",
+      "Maria Digiorgio Mccolgan": "0",
+      "Michael A Cibik": "1",
+      "Theresa A Dintino": "1",
+      "ward": 7,
+      "division": 21
+    },
+    {
+      "Candidate": "Michael A Cibik",
+      "Christopher M Vogler": "1",
+      "Maria Digiorgio Mccolgan": "1",
+      "Michael A Cibik": "0",
+      "Theresa A Dintino": "1",
+      "ward": 7,
+      "division": 21
+    },
+    {
+      "Candidate": "Theresa A Dintino",
+      "Christopher M Vogler": "1",
+      "Maria Digiorgio Mccolgan": "1",
+      "Michael A Cibik": "1",
+      "Theresa A Dintino": "0",
+      "ward": 7,
+      "division": 21
+    },
+    {
+      "Candidate": "Total",
+      "Christopher M Vogler": "1",
+      "Maria Digiorgio Mccolgan": "1",
+      "Michael A Cibik": "1",
+      "Theresa A Dintino": "1",
+      "ward": 7,
+      "division": 21
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Maria Digiorgio Mccolgan": "Maria Digiorgio Mccolgan",
+      "Theresa A Dintino": "Theresa A Dintino",
+      "ward": 7,
+      "division": 22
+    },
+    {
+      "Candidate": "Maria Digiorgio Mccolgan",
+      "Maria Digiorgio Mccolgan": "0",
+      "Theresa A Dintino": "1",
+      "ward": 7,
+      "division": 22
+    },
+    {
+      "Candidate": "Theresa A Dintino",
+      "Maria Digiorgio Mccolgan": "1",
+      "Theresa A Dintino": "0",
+      "ward": 7,
+      "division": 22
+    },
+    {
+      "Candidate": "Total",
+      "Maria Digiorgio Mccolgan": "1",
+      "Theresa A Dintino": "1",
+      "ward": 7,
+      "division": 22
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael A Cibik": "Michael A Cibik",
+      "ward": 7,
+      "division": 23
+    },
+    {
+      "Candidate": "Michael A Cibik",
+      "Michael A Cibik": "1",
+      "ward": 7,
+      "division": 23
+    },
+    {
+      "Candidate": "Total",
+      "Michael A Cibik": "1",
+      "ward": 7,
+      "division": 23
+    }
+  ]
+]

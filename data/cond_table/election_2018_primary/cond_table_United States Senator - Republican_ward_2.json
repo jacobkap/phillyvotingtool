@@ -1,0 +1,860 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Lou Barletta": "Lou Barletta",
+      "Jim Christiana": "Jim Christiana",
+      "Write In": "Write In",
+      "ward": 2,
+      "division": "All"
+    },
+    {
+      "Candidate": "Lou Barletta",
+      "Lou Barletta": "123",
+      "Jim Christiana": "0",
+      "Write In": "0",
+      "ward": 2,
+      "division": "All"
+    },
+    {
+      "Candidate": "Jim Christiana",
+      "Lou Barletta": "0",
+      "Jim Christiana": "111",
+      "Write In": "0",
+      "ward": 2,
+      "division": "All"
+    },
+    {
+      "Candidate": "Write In",
+      "Lou Barletta": "0",
+      "Jim Christiana": "0",
+      "Write In": "3",
+      "ward": 2,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Lou Barletta": "123",
+      "Jim Christiana": "111",
+      "Write In": "3",
+      "ward": 2,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Lou Barletta": "Lou Barletta",
+      "Jim Christiana": "Jim Christiana",
+      "ward": 2,
+      "division": 1
+    },
+    {
+      "Candidate": "Lou Barletta",
+      "Lou Barletta": "14",
+      "Jim Christiana": "0",
+      "ward": 2,
+      "division": 1
+    },
+    {
+      "Candidate": "Jim Christiana",
+      "Lou Barletta": "0",
+      "Jim Christiana": "8",
+      "ward": 2,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Lou Barletta": "14",
+      "Jim Christiana": "8",
+      "ward": 2,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Jim Christiana": "Jim Christiana",
+      "Lou Barletta": "Lou Barletta",
+      "ward": 2,
+      "division": 2
+    },
+    {
+      "Candidate": "Jim Christiana",
+      "Jim Christiana": "4",
+      "Lou Barletta": "0",
+      "ward": 2,
+      "division": 2
+    },
+    {
+      "Candidate": "Lou Barletta",
+      "Jim Christiana": "0",
+      "Lou Barletta": "2",
+      "ward": 2,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "Jim Christiana": "4",
+      "Lou Barletta": "2",
+      "ward": 2,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Lou Barletta": "Lou Barletta",
+      "Jim Christiana": "Jim Christiana",
+      "ward": 2,
+      "division": 3
+    },
+    {
+      "Candidate": "Lou Barletta",
+      "Lou Barletta": "7",
+      "Jim Christiana": "0",
+      "ward": 2,
+      "division": 3
+    },
+    {
+      "Candidate": "Jim Christiana",
+      "Lou Barletta": "0",
+      "Jim Christiana": "4",
+      "ward": 2,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Lou Barletta": "7",
+      "Jim Christiana": "4",
+      "ward": 2,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Jim Christiana": "Jim Christiana",
+      "Lou Barletta": "Lou Barletta",
+      "ward": 2,
+      "division": 4
+    },
+    {
+      "Candidate": "Jim Christiana",
+      "Jim Christiana": "4",
+      "Lou Barletta": "0",
+      "ward": 2,
+      "division": 4
+    },
+    {
+      "Candidate": "Lou Barletta",
+      "Jim Christiana": "0",
+      "Lou Barletta": "1",
+      "ward": 2,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Jim Christiana": "4",
+      "Lou Barletta": "1",
+      "ward": 2,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Jim Christiana": "Jim Christiana",
+      "Lou Barletta": "Lou Barletta",
+      "ward": 2,
+      "division": 5
+    },
+    {
+      "Candidate": "Jim Christiana",
+      "Jim Christiana": "5",
+      "Lou Barletta": "0",
+      "ward": 2,
+      "division": 5
+    },
+    {
+      "Candidate": "Lou Barletta",
+      "Jim Christiana": "0",
+      "Lou Barletta": "2",
+      "ward": 2,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Jim Christiana": "5",
+      "Lou Barletta": "2",
+      "ward": 2,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Jim Christiana": "Jim Christiana",
+      "Lou Barletta": "Lou Barletta",
+      "Write In": "Write In",
+      "ward": 2,
+      "division": 6
+    },
+    {
+      "Candidate": "Jim Christiana",
+      "Jim Christiana": "4",
+      "Lou Barletta": "0",
+      "Write In": "0",
+      "ward": 2,
+      "division": 6
+    },
+    {
+      "Candidate": "Lou Barletta",
+      "Jim Christiana": "0",
+      "Lou Barletta": "4",
+      "Write In": "0",
+      "ward": 2,
+      "division": 6
+    },
+    {
+      "Candidate": "Write In",
+      "Jim Christiana": "0",
+      "Lou Barletta": "0",
+      "Write In": "1",
+      "ward": 2,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "Jim Christiana": "4",
+      "Lou Barletta": "4",
+      "Write In": "1",
+      "ward": 2,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Lou Barletta": "Lou Barletta",
+      "Jim Christiana": "Jim Christiana",
+      "ward": 2,
+      "division": 7
+    },
+    {
+      "Candidate": "Lou Barletta",
+      "Lou Barletta": "7",
+      "Jim Christiana": "0",
+      "ward": 2,
+      "division": 7
+    },
+    {
+      "Candidate": "Jim Christiana",
+      "Lou Barletta": "0",
+      "Jim Christiana": "4",
+      "ward": 2,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Lou Barletta": "7",
+      "Jim Christiana": "4",
+      "ward": 2,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Jim Christiana": "Jim Christiana",
+      "Lou Barletta": "Lou Barletta",
+      "Write In": "Write In",
+      "ward": 2,
+      "division": 8
+    },
+    {
+      "Candidate": "Jim Christiana",
+      "Jim Christiana": "4",
+      "Lou Barletta": "0",
+      "Write In": "0",
+      "ward": 2,
+      "division": 8
+    },
+    {
+      "Candidate": "Lou Barletta",
+      "Jim Christiana": "0",
+      "Lou Barletta": "2",
+      "Write In": "0",
+      "ward": 2,
+      "division": 8
+    },
+    {
+      "Candidate": "Write In",
+      "Jim Christiana": "0",
+      "Lou Barletta": "0",
+      "Write In": "1",
+      "ward": 2,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Jim Christiana": "4",
+      "Lou Barletta": "2",
+      "Write In": "1",
+      "ward": 2,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Lou Barletta": "Lou Barletta",
+      "Jim Christiana": "Jim Christiana",
+      "ward": 2,
+      "division": 9
+    },
+    {
+      "Candidate": "Lou Barletta",
+      "Lou Barletta": "5",
+      "Jim Christiana": "0",
+      "ward": 2,
+      "division": 9
+    },
+    {
+      "Candidate": "Jim Christiana",
+      "Lou Barletta": "0",
+      "Jim Christiana": "2",
+      "ward": 2,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Lou Barletta": "5",
+      "Jim Christiana": "2",
+      "ward": 2,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Lou Barletta": "Lou Barletta",
+      "Jim Christiana": "Jim Christiana",
+      "ward": 2,
+      "division": 10
+    },
+    {
+      "Candidate": "Lou Barletta",
+      "Lou Barletta": "2",
+      "Jim Christiana": "0",
+      "ward": 2,
+      "division": 10
+    },
+    {
+      "Candidate": "Jim Christiana",
+      "Lou Barletta": "0",
+      "Jim Christiana": "1",
+      "ward": 2,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Lou Barletta": "2",
+      "Jim Christiana": "1",
+      "ward": 2,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Jim Christiana": "Jim Christiana",
+      "Lou Barletta": "Lou Barletta",
+      "ward": 2,
+      "division": 11
+    },
+    {
+      "Candidate": "Jim Christiana",
+      "Jim Christiana": "3",
+      "Lou Barletta": "0",
+      "ward": 2,
+      "division": 11
+    },
+    {
+      "Candidate": "Lou Barletta",
+      "Jim Christiana": "0",
+      "Lou Barletta": "2",
+      "ward": 2,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Jim Christiana": "3",
+      "Lou Barletta": "2",
+      "ward": 2,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Lou Barletta": "Lou Barletta",
+      "Jim Christiana": "Jim Christiana",
+      "ward": 2,
+      "division": 12
+    },
+    {
+      "Candidate": "Lou Barletta",
+      "Lou Barletta": "4",
+      "Jim Christiana": "0",
+      "ward": 2,
+      "division": 12
+    },
+    {
+      "Candidate": "Jim Christiana",
+      "Lou Barletta": "0",
+      "Jim Christiana": "2",
+      "ward": 2,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Lou Barletta": "4",
+      "Jim Christiana": "2",
+      "ward": 2,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Jim Christiana": "Jim Christiana",
+      "ward": 2,
+      "division": 13
+    },
+    {
+      "Candidate": "Jim Christiana",
+      "Jim Christiana": "3",
+      "ward": 2,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "Jim Christiana": "3",
+      "ward": 2,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Jim Christiana": "Jim Christiana",
+      "Lou Barletta": "Lou Barletta",
+      "ward": 2,
+      "division": 14
+    },
+    {
+      "Candidate": "Jim Christiana",
+      "Jim Christiana": "4",
+      "Lou Barletta": "0",
+      "ward": 2,
+      "division": 14
+    },
+    {
+      "Candidate": "Lou Barletta",
+      "Jim Christiana": "0",
+      "Lou Barletta": "2",
+      "ward": 2,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "Jim Christiana": "4",
+      "Lou Barletta": "2",
+      "ward": 2,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Lou Barletta": "Lou Barletta",
+      "Jim Christiana": "Jim Christiana",
+      "ward": 2,
+      "division": 15
+    },
+    {
+      "Candidate": "Lou Barletta",
+      "Lou Barletta": "12",
+      "Jim Christiana": "0",
+      "ward": 2,
+      "division": 15
+    },
+    {
+      "Candidate": "Jim Christiana",
+      "Lou Barletta": "0",
+      "Jim Christiana": "6",
+      "ward": 2,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "Lou Barletta": "12",
+      "Jim Christiana": "6",
+      "ward": 2,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Jim Christiana": "Jim Christiana",
+      "Lou Barletta": "Lou Barletta",
+      "ward": 2,
+      "division": 16
+    },
+    {
+      "Candidate": "Jim Christiana",
+      "Jim Christiana": "6",
+      "Lou Barletta": "0",
+      "ward": 2,
+      "division": 16
+    },
+    {
+      "Candidate": "Lou Barletta",
+      "Jim Christiana": "0",
+      "Lou Barletta": "6",
+      "ward": 2,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "Jim Christiana": "6",
+      "Lou Barletta": "6",
+      "ward": 2,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Jim Christiana": "Jim Christiana",
+      "Lou Barletta": "Lou Barletta",
+      "ward": 2,
+      "division": 17
+    },
+    {
+      "Candidate": "Jim Christiana",
+      "Jim Christiana": "5",
+      "Lou Barletta": "0",
+      "ward": 2,
+      "division": 17
+    },
+    {
+      "Candidate": "Lou Barletta",
+      "Jim Christiana": "0",
+      "Lou Barletta": "5",
+      "ward": 2,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "Jim Christiana": "5",
+      "Lou Barletta": "5",
+      "ward": 2,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Lou Barletta": "Lou Barletta",
+      "ward": 2,
+      "division": 18
+    },
+    {
+      "Candidate": "Lou Barletta",
+      "Lou Barletta": "7",
+      "ward": 2,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "Lou Barletta": "7",
+      "ward": 2,
+      "division": 18
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Lou Barletta": "Lou Barletta",
+      "Jim Christiana": "Jim Christiana",
+      "ward": 2,
+      "division": 19
+    },
+    {
+      "Candidate": "Lou Barletta",
+      "Lou Barletta": "4",
+      "Jim Christiana": "0",
+      "ward": 2,
+      "division": 19
+    },
+    {
+      "Candidate": "Jim Christiana",
+      "Lou Barletta": "0",
+      "Jim Christiana": "3",
+      "ward": 2,
+      "division": 19
+    },
+    {
+      "Candidate": "Total",
+      "Lou Barletta": "4",
+      "Jim Christiana": "3",
+      "ward": 2,
+      "division": 19
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Jim Christiana": "Jim Christiana",
+      "Lou Barletta": "Lou Barletta",
+      "ward": 2,
+      "division": 20
+    },
+    {
+      "Candidate": "Jim Christiana",
+      "Jim Christiana": "3",
+      "Lou Barletta": "0",
+      "ward": 2,
+      "division": 20
+    },
+    {
+      "Candidate": "Lou Barletta",
+      "Jim Christiana": "0",
+      "Lou Barletta": "1",
+      "ward": 2,
+      "division": 20
+    },
+    {
+      "Candidate": "Total",
+      "Jim Christiana": "3",
+      "Lou Barletta": "1",
+      "ward": 2,
+      "division": 20
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Jim Christiana": "Jim Christiana",
+      "ward": 2,
+      "division": 21
+    },
+    {
+      "Candidate": "Jim Christiana",
+      "Jim Christiana": "2",
+      "ward": 2,
+      "division": 21
+    },
+    {
+      "Candidate": "Total",
+      "Jim Christiana": "2",
+      "ward": 2,
+      "division": 21
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Jim Christiana": "Jim Christiana",
+      "Lou Barletta": "Lou Barletta",
+      "ward": 2,
+      "division": 22
+    },
+    {
+      "Candidate": "Jim Christiana",
+      "Jim Christiana": "7",
+      "Lou Barletta": "0",
+      "ward": 2,
+      "division": 22
+    },
+    {
+      "Candidate": "Lou Barletta",
+      "Jim Christiana": "0",
+      "Lou Barletta": "4",
+      "ward": 2,
+      "division": 22
+    },
+    {
+      "Candidate": "Total",
+      "Jim Christiana": "7",
+      "Lou Barletta": "4",
+      "ward": 2,
+      "division": 22
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Jim Christiana": "Jim Christiana",
+      "Lou Barletta": "Lou Barletta",
+      "ward": 2,
+      "division": 23
+    },
+    {
+      "Candidate": "Jim Christiana",
+      "Jim Christiana": "3",
+      "Lou Barletta": "0",
+      "ward": 2,
+      "division": 23
+    },
+    {
+      "Candidate": "Lou Barletta",
+      "Jim Christiana": "0",
+      "Lou Barletta": "3",
+      "ward": 2,
+      "division": 23
+    },
+    {
+      "Candidate": "Total",
+      "Jim Christiana": "3",
+      "Lou Barletta": "3",
+      "ward": 2,
+      "division": 23
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Lou Barletta": "Lou Barletta",
+      "Jim Christiana": "Jim Christiana",
+      "ward": 2,
+      "division": 24
+    },
+    {
+      "Candidate": "Lou Barletta",
+      "Lou Barletta": "7",
+      "Jim Christiana": "0",
+      "ward": 2,
+      "division": 24
+    },
+    {
+      "Candidate": "Jim Christiana",
+      "Lou Barletta": "0",
+      "Jim Christiana": "6",
+      "ward": 2,
+      "division": 24
+    },
+    {
+      "Candidate": "Total",
+      "Lou Barletta": "7",
+      "Jim Christiana": "6",
+      "ward": 2,
+      "division": 24
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Lou Barletta": "Lou Barletta",
+      "Jim Christiana": "Jim Christiana",
+      "ward": 2,
+      "division": 25
+    },
+    {
+      "Candidate": "Lou Barletta",
+      "Lou Barletta": "6",
+      "Jim Christiana": "0",
+      "ward": 2,
+      "division": 25
+    },
+    {
+      "Candidate": "Jim Christiana",
+      "Lou Barletta": "0",
+      "Jim Christiana": "2",
+      "ward": 2,
+      "division": 25
+    },
+    {
+      "Candidate": "Total",
+      "Lou Barletta": "6",
+      "Jim Christiana": "2",
+      "ward": 2,
+      "division": 25
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Lou Barletta": "Lou Barletta",
+      "Jim Christiana": "Jim Christiana",
+      "ward": 2,
+      "division": 26
+    },
+    {
+      "Candidate": "Lou Barletta",
+      "Lou Barletta": "10",
+      "Jim Christiana": "0",
+      "ward": 2,
+      "division": 26
+    },
+    {
+      "Candidate": "Jim Christiana",
+      "Lou Barletta": "0",
+      "Jim Christiana": "5",
+      "ward": 2,
+      "division": 26
+    },
+    {
+      "Candidate": "Total",
+      "Lou Barletta": "10",
+      "Jim Christiana": "5",
+      "ward": 2,
+      "division": 26
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Jim Christiana": "Jim Christiana",
+      "Lou Barletta": "Lou Barletta",
+      "Write In": "Write In",
+      "ward": 2,
+      "division": 27
+    },
+    {
+      "Candidate": "Jim Christiana",
+      "Jim Christiana": "11",
+      "Lou Barletta": "0",
+      "Write In": "0",
+      "ward": 2,
+      "division": 27
+    },
+    {
+      "Candidate": "Lou Barletta",
+      "Jim Christiana": "0",
+      "Lou Barletta": "4",
+      "Write In": "0",
+      "ward": 2,
+      "division": 27
+    },
+    {
+      "Candidate": "Write In",
+      "Jim Christiana": "0",
+      "Lou Barletta": "0",
+      "Write In": "1",
+      "ward": 2,
+      "division": 27
+    },
+    {
+      "Candidate": "Total",
+      "Jim Christiana": "11",
+      "Lou Barletta": "4",
+      "Write In": "1",
+      "ward": 2,
+      "division": 27
+    }
+  ]
+]

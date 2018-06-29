@@ -46,10 +46,10 @@
   <h3>Select an Election:</h3>
   <br>
   <select class="simple-select" id="choices_election" onchange="choicesElectionChange()"></select>
-<br><br>
+<br>
   <h3>Select a Office:</h3>
-  <br>
-  <select class="simple-select" id="choices_ballot_position" onchange="choicesChange()"></select>
+  <br><br>
+  <select class="simple-select" id="choices_ballot_position" onchange="choicesOfficeChange()"></select>
   <br><br>
   <h3>Select a voting ward:</h3>
   <br>
@@ -109,7 +109,7 @@ $.each(choices_wards, function(val, text) {
   title_text = choices_data[1]
   choices_data = choices_data[0]
 
-  var ctx_choices = document.getElementById("choices_chart").getContext('2d');
+  ctx_choices = document.getElementById("choices_chart").getContext('2d');
   choices_chart = new Chart(ctx_choices, {
     type: 'bar',
     data: choices_data,
@@ -123,6 +123,13 @@ $.each(choices_wards, function(val, text) {
         text: title_text,
         fontSize: 14
       },
+      scales: {
+        yAxes: [{
+          ticks: {
+            beginAtZero: true
+          }
+        }]
+      },
       tooltips: {
         enabled: true,
         mode: 'single',
@@ -135,7 +142,7 @@ $.each(choices_wards, function(val, text) {
     }
   });
 
- $("#results_chart").ready($("#loader").hide())
+ $("#choices_chart").ready($("#loader").hide())
  jQuery(window).on('resize', resizeChosen);
 });
 </script>
