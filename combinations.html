@@ -95,10 +95,10 @@
               $('#cand_comb_election').append( new Option(text,val) );
       });
 
-      results_offices = setOffices("election_results", "#results_election", "#results_ballot_position")
-      results_wards = getWards("election_results", "#results_election", "#results_ballot_position", results_offices)
-      $.each(results_wards, function(val, text) {
-                $('#results_ward').append( new Option(text,val) );
+      cand_comb_offices = setOffices("cand_comb", "#cand_comb_election", "#cand_comb_ballot_position")
+      cand_comb_wards = getWards("cand_comb", "#cand_comb_election", "#cand_comb_ballot_position", results_offices)
+      $.each(cand_comb_wards, function(val, text) {
+                $('#cand_comb_ward').append( new Option(text,val) );
       });
 
 

@@ -74,7 +74,7 @@ function getOffices(type, election_dropdown, max_choices = false) {
     }
   });
   data = data.responseJSON;
-
+  data.sort();
   if (type == "num_selected") {
     data = _.map(data, function(x) {
       if (max_choices === false) {
@@ -84,7 +84,6 @@ function getOffices(type, election_dropdown, max_choices = false) {
       }
     });
   }
-  data.sort();
   return (data);
 }
 
@@ -235,8 +234,8 @@ function formatData(data, type) {
   // Default to results type
   if (type == "results") {
     title = results_offices[$('#results_ballot_position').val()];
-    if (wards[$("#results_ward").val()] != "All") {
-      title += ", Ward " + wards[$("#results_ward").val()];
+    if (results_wards[$("#results_ward").val()] != "All") {
+      title += ", Ward " + results_wards[$("#results_ward").val()];
       if ($("#results_division").val() != "0") {
         title += ", Division " + $("#results_division").val();
       }
@@ -246,8 +245,8 @@ function formatData(data, type) {
     title_text = [title];
   } else if (type == "choices") {
     title = choices_offices[$('#choices_ballot_position').val()];
-    if (wards[$("#choices_ward").val()] != "All") {
-      title += ", Ward " + wards[$("#choices_ward").val()];
+    if (choices_wards[$("#choices_ward").val()] != "All") {
+      title += ", Ward " + choices_wards[$("#choices_ward").val()];
     }
     if ($("#choices_division").val() != "0") {
       title += ", Division " + $("#choices_division").val();

@@ -1,0 +1,422 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Bernie Sanders": "Bernie Sanders",
+      "Roque Rocky De La Fuente": "Roque Rocky De La Fuente",
+      "ward": 20,
+      "division": "All"
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "1318",
+      "Bernie Sanders": "0",
+      "Roque Rocky De La Fuente": "0",
+      "ward": 20,
+      "division": "All"
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Hillary Clinton": "0",
+      "Bernie Sanders": "947",
+      "Roque Rocky De La Fuente": "0",
+      "ward": 20,
+      "division": "All"
+    },
+    {
+      "Candidate": "Roque Rocky De La Fuente",
+      "Hillary Clinton": "0",
+      "Bernie Sanders": "0",
+      "Roque Rocky De La Fuente": "5",
+      "ward": 20,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "1318",
+      "Bernie Sanders": "947",
+      "Roque Rocky De La Fuente": "5",
+      "ward": 20,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bernie Sanders": "Bernie Sanders",
+      "Hillary Clinton": "Hillary Clinton",
+      "ward": 20,
+      "division": 1
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Bernie Sanders": "114",
+      "Hillary Clinton": "0",
+      "ward": 20,
+      "division": 1
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Bernie Sanders": "0",
+      "Hillary Clinton": "100",
+      "ward": 20,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Bernie Sanders": "114",
+      "Hillary Clinton": "100",
+      "ward": 20,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Bernie Sanders": "Bernie Sanders",
+      "Roque Rocky De La Fuente": "Roque Rocky De La Fuente",
+      "ward": 20,
+      "division": 2
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "86",
+      "Bernie Sanders": "0",
+      "Roque Rocky De La Fuente": "0",
+      "ward": 20,
+      "division": 2
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Hillary Clinton": "0",
+      "Bernie Sanders": "36",
+      "Roque Rocky De La Fuente": "0",
+      "ward": 20,
+      "division": 2
+    },
+    {
+      "Candidate": "Roque Rocky De La Fuente",
+      "Hillary Clinton": "0",
+      "Bernie Sanders": "0",
+      "Roque Rocky De La Fuente": "1",
+      "ward": 20,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "86",
+      "Bernie Sanders": "36",
+      "Roque Rocky De La Fuente": "1",
+      "ward": 20,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Bernie Sanders": "Bernie Sanders",
+      "ward": 20,
+      "division": 3
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "163",
+      "Bernie Sanders": "0",
+      "ward": 20,
+      "division": 3
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Hillary Clinton": "0",
+      "Bernie Sanders": "98",
+      "ward": 20,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "163",
+      "Bernie Sanders": "98",
+      "ward": 20,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Bernie Sanders": "Bernie Sanders",
+      "Roque Rocky De La Fuente": "Roque Rocky De La Fuente",
+      "ward": 20,
+      "division": 4
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "215",
+      "Bernie Sanders": "0",
+      "Roque Rocky De La Fuente": "0",
+      "ward": 20,
+      "division": 4
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Hillary Clinton": "0",
+      "Bernie Sanders": "48",
+      "Roque Rocky De La Fuente": "0",
+      "ward": 20,
+      "division": 4
+    },
+    {
+      "Candidate": "Roque Rocky De La Fuente",
+      "Hillary Clinton": "0",
+      "Bernie Sanders": "0",
+      "Roque Rocky De La Fuente": "1",
+      "ward": 20,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "215",
+      "Bernie Sanders": "48",
+      "Roque Rocky De La Fuente": "1",
+      "ward": 20,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Bernie Sanders": "Bernie Sanders",
+      "ward": 20,
+      "division": 5
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "66",
+      "Bernie Sanders": "0",
+      "ward": 20,
+      "division": 5
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Hillary Clinton": "0",
+      "Bernie Sanders": "21",
+      "ward": 20,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "66",
+      "Bernie Sanders": "21",
+      "ward": 20,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Bernie Sanders": "Bernie Sanders",
+      "ward": 20,
+      "division": 6
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "242",
+      "Bernie Sanders": "0",
+      "ward": 20,
+      "division": 6
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Hillary Clinton": "0",
+      "Bernie Sanders": "87",
+      "ward": 20,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "242",
+      "Bernie Sanders": "87",
+      "ward": 20,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bernie Sanders": "Bernie Sanders",
+      "Hillary Clinton": "Hillary Clinton",
+      "Roque Rocky De La Fuente": "Roque Rocky De La Fuente",
+      "ward": 20,
+      "division": 7
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Bernie Sanders": "186",
+      "Hillary Clinton": "0",
+      "Roque Rocky De La Fuente": "0",
+      "ward": 20,
+      "division": 7
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Bernie Sanders": "0",
+      "Hillary Clinton": "140",
+      "Roque Rocky De La Fuente": "0",
+      "ward": 20,
+      "division": 7
+    },
+    {
+      "Candidate": "Roque Rocky De La Fuente",
+      "Bernie Sanders": "0",
+      "Hillary Clinton": "0",
+      "Roque Rocky De La Fuente": "2",
+      "ward": 20,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Bernie Sanders": "186",
+      "Hillary Clinton": "140",
+      "Roque Rocky De La Fuente": "2",
+      "ward": 20,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Bernie Sanders": "Bernie Sanders",
+      "ward": 20,
+      "division": 8
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "57",
+      "Bernie Sanders": "0",
+      "ward": 20,
+      "division": 8
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Hillary Clinton": "0",
+      "Bernie Sanders": "23",
+      "ward": 20,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "57",
+      "Bernie Sanders": "23",
+      "ward": 20,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bernie Sanders": "Bernie Sanders",
+      "Hillary Clinton": "Hillary Clinton",
+      "ward": 20,
+      "division": 9
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Bernie Sanders": "95",
+      "Hillary Clinton": "0",
+      "ward": 20,
+      "division": 9
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Bernie Sanders": "0",
+      "Hillary Clinton": "78",
+      "ward": 20,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Bernie Sanders": "95",
+      "Hillary Clinton": "78",
+      "ward": 20,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Bernie Sanders": "Bernie Sanders",
+      "ward": 20,
+      "division": 10
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "152",
+      "Bernie Sanders": "0",
+      "ward": 20,
+      "division": 10
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Hillary Clinton": "0",
+      "Bernie Sanders": "77",
+      "ward": 20,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "152",
+      "Bernie Sanders": "77",
+      "ward": 20,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bernie Sanders": "Bernie Sanders",
+      "Hillary Clinton": "Hillary Clinton",
+      "Roque Rocky De La Fuente": "Roque Rocky De La Fuente",
+      "ward": 20,
+      "division": 11
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Bernie Sanders": "162",
+      "Hillary Clinton": "0",
+      "Roque Rocky De La Fuente": "0",
+      "ward": 20,
+      "division": 11
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Bernie Sanders": "0",
+      "Hillary Clinton": "19",
+      "Roque Rocky De La Fuente": "0",
+      "ward": 20,
+      "division": 11
+    },
+    {
+      "Candidate": "Roque Rocky De La Fuente",
+      "Bernie Sanders": "0",
+      "Hillary Clinton": "0",
+      "Roque Rocky De La Fuente": "1",
+      "ward": 20,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Bernie Sanders": "162",
+      "Hillary Clinton": "19",
+      "Roque Rocky De La Fuente": "1",
+      "ward": 20,
+      "division": 11
+    }
+  ]
+]

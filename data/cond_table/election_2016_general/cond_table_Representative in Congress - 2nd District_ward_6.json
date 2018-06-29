@@ -1,0 +1,596 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "James A Jones": "James A Jones",
+      "Write In": "Write In",
+      "ward": 6,
+      "division": "All"
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "5917",
+      "James A Jones": "0",
+      "Write In": "0",
+      "ward": 6,
+      "division": "All"
+    },
+    {
+      "Candidate": "James A Jones",
+      "Dwight Evans": "0",
+      "James A Jones": "150",
+      "Write In": "0",
+      "ward": 6,
+      "division": "All"
+    },
+    {
+      "Candidate": "Write In",
+      "Dwight Evans": "0",
+      "James A Jones": "0",
+      "Write In": "1",
+      "ward": 6,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "5917",
+      "James A Jones": "150",
+      "Write In": "1",
+      "ward": 6,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "James A Jones": "James A Jones",
+      "ward": 6,
+      "division": 1
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "434",
+      "James A Jones": "0",
+      "ward": 6,
+      "division": 1
+    },
+    {
+      "Candidate": "James A Jones",
+      "Dwight Evans": "0",
+      "James A Jones": "28",
+      "ward": 6,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "434",
+      "James A Jones": "28",
+      "ward": 6,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "James A Jones": "James A Jones",
+      "ward": 6,
+      "division": 2
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "200",
+      "James A Jones": "0",
+      "ward": 6,
+      "division": 2
+    },
+    {
+      "Candidate": "James A Jones",
+      "Dwight Evans": "0",
+      "James A Jones": "7",
+      "ward": 6,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "200",
+      "James A Jones": "7",
+      "ward": 6,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "James A Jones": "James A Jones",
+      "ward": 6,
+      "division": 3
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "449",
+      "James A Jones": "0",
+      "ward": 6,
+      "division": 3
+    },
+    {
+      "Candidate": "James A Jones",
+      "Dwight Evans": "0",
+      "James A Jones": "35",
+      "ward": 6,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "449",
+      "James A Jones": "35",
+      "ward": 6,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "James A Jones": "James A Jones",
+      "ward": 6,
+      "division": 4
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "483",
+      "James A Jones": "0",
+      "ward": 6,
+      "division": 4
+    },
+    {
+      "Candidate": "James A Jones",
+      "Dwight Evans": "0",
+      "James A Jones": "6",
+      "ward": 6,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "483",
+      "James A Jones": "6",
+      "ward": 6,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "James A Jones": "James A Jones",
+      "ward": 6,
+      "division": 5
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "211",
+      "James A Jones": "0",
+      "ward": 6,
+      "division": 5
+    },
+    {
+      "Candidate": "James A Jones",
+      "Dwight Evans": "0",
+      "James A Jones": "1",
+      "ward": 6,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "211",
+      "James A Jones": "1",
+      "ward": 6,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "James A Jones": "James A Jones",
+      "ward": 6,
+      "division": 6
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "322",
+      "James A Jones": "0",
+      "ward": 6,
+      "division": 6
+    },
+    {
+      "Candidate": "James A Jones",
+      "Dwight Evans": "0",
+      "James A Jones": "5",
+      "ward": 6,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "322",
+      "James A Jones": "5",
+      "ward": 6,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "James A Jones": "James A Jones",
+      "Write In": "Write In",
+      "ward": 6,
+      "division": 7
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "372",
+      "James A Jones": "0",
+      "Write In": "0",
+      "ward": 6,
+      "division": 7
+    },
+    {
+      "Candidate": "James A Jones",
+      "Dwight Evans": "0",
+      "James A Jones": "5",
+      "Write In": "0",
+      "ward": 6,
+      "division": 7
+    },
+    {
+      "Candidate": "Write In",
+      "Dwight Evans": "0",
+      "James A Jones": "0",
+      "Write In": "1",
+      "ward": 6,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "372",
+      "James A Jones": "5",
+      "Write In": "1",
+      "ward": 6,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "James A Jones": "James A Jones",
+      "ward": 6,
+      "division": 8
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "241",
+      "James A Jones": "0",
+      "ward": 6,
+      "division": 8
+    },
+    {
+      "Candidate": "James A Jones",
+      "Dwight Evans": "0",
+      "James A Jones": "6",
+      "ward": 6,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "241",
+      "James A Jones": "6",
+      "ward": 6,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "James A Jones": "James A Jones",
+      "ward": 6,
+      "division": 9
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "273",
+      "James A Jones": "0",
+      "ward": 6,
+      "division": 9
+    },
+    {
+      "Candidate": "James A Jones",
+      "Dwight Evans": "0",
+      "James A Jones": "2",
+      "ward": 6,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "273",
+      "James A Jones": "2",
+      "ward": 6,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "James A Jones": "James A Jones",
+      "ward": 6,
+      "division": 10
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "229",
+      "James A Jones": "0",
+      "ward": 6,
+      "division": 10
+    },
+    {
+      "Candidate": "James A Jones",
+      "Dwight Evans": "0",
+      "James A Jones": "6",
+      "ward": 6,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "229",
+      "James A Jones": "6",
+      "ward": 6,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "James A Jones": "James A Jones",
+      "ward": 6,
+      "division": 11
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "451",
+      "James A Jones": "0",
+      "ward": 6,
+      "division": 11
+    },
+    {
+      "Candidate": "James A Jones",
+      "Dwight Evans": "0",
+      "James A Jones": "10",
+      "ward": 6,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "451",
+      "James A Jones": "10",
+      "ward": 6,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "James A Jones": "James A Jones",
+      "ward": 6,
+      "division": 12
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "286",
+      "James A Jones": "0",
+      "ward": 6,
+      "division": 12
+    },
+    {
+      "Candidate": "James A Jones",
+      "Dwight Evans": "0",
+      "James A Jones": "7",
+      "ward": 6,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "286",
+      "James A Jones": "7",
+      "ward": 6,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "James A Jones": "James A Jones",
+      "ward": 6,
+      "division": 13
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "308",
+      "James A Jones": "0",
+      "ward": 6,
+      "division": 13
+    },
+    {
+      "Candidate": "James A Jones",
+      "Dwight Evans": "0",
+      "James A Jones": "5",
+      "ward": 6,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "308",
+      "James A Jones": "5",
+      "ward": 6,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "James A Jones": "James A Jones",
+      "ward": 6,
+      "division": 14
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "319",
+      "James A Jones": "0",
+      "ward": 6,
+      "division": 14
+    },
+    {
+      "Candidate": "James A Jones",
+      "Dwight Evans": "0",
+      "James A Jones": "3",
+      "ward": 6,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "319",
+      "James A Jones": "3",
+      "ward": 6,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "James A Jones": "James A Jones",
+      "ward": 6,
+      "division": 15
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "302",
+      "James A Jones": "0",
+      "ward": 6,
+      "division": 15
+    },
+    {
+      "Candidate": "James A Jones",
+      "Dwight Evans": "0",
+      "James A Jones": "4",
+      "ward": 6,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "302",
+      "James A Jones": "4",
+      "ward": 6,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "James A Jones": "James A Jones",
+      "ward": 6,
+      "division": 16
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "300",
+      "James A Jones": "0",
+      "ward": 6,
+      "division": 16
+    },
+    {
+      "Candidate": "James A Jones",
+      "Dwight Evans": "0",
+      "James A Jones": "2",
+      "ward": 6,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "300",
+      "James A Jones": "2",
+      "ward": 6,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "James A Jones": "James A Jones",
+      "ward": 6,
+      "division": 17
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "351",
+      "James A Jones": "0",
+      "ward": 6,
+      "division": 17
+    },
+    {
+      "Candidate": "James A Jones",
+      "Dwight Evans": "0",
+      "James A Jones": "10",
+      "ward": 6,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "351",
+      "James A Jones": "10",
+      "ward": 6,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "James A Jones": "James A Jones",
+      "ward": 6,
+      "division": 18
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "386",
+      "James A Jones": "0",
+      "ward": 6,
+      "division": 18
+    },
+    {
+      "Candidate": "James A Jones",
+      "Dwight Evans": "0",
+      "James A Jones": "8",
+      "ward": 6,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "386",
+      "James A Jones": "8",
+      "ward": 6,
+      "division": 18
+    }
+  ]
+]

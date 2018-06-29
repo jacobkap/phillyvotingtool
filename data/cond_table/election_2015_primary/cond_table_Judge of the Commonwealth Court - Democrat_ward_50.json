@@ -1,0 +1,956 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Todd Eagen": "Todd Eagen",
+      "Michael Wojcik": "Michael Wojcik",
+      "Write In": "Write In",
+      "ward": 50,
+      "division": "All"
+    },
+    {
+      "Candidate": "Todd Eagen",
+      "Todd Eagen": "1902",
+      "Michael Wojcik": "0",
+      "Write In": "0",
+      "ward": 50,
+      "division": "All"
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Todd Eagen": "0",
+      "Michael Wojcik": "1803",
+      "Write In": "0",
+      "ward": 50,
+      "division": "All"
+    },
+    {
+      "Candidate": "Write In",
+      "Todd Eagen": "0",
+      "Michael Wojcik": "0",
+      "Write In": "1",
+      "ward": 50,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Todd Eagen": "1902",
+      "Michael Wojcik": "1803",
+      "Write In": "1",
+      "ward": 50,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Todd Eagen": "Todd Eagen",
+      "Michael Wojcik": "Michael Wojcik",
+      "ward": 50,
+      "division": 4
+    },
+    {
+      "Candidate": "Todd Eagen",
+      "Todd Eagen": "66",
+      "Michael Wojcik": "0",
+      "ward": 50,
+      "division": 4
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Todd Eagen": "0",
+      "Michael Wojcik": "52",
+      "ward": 50,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Todd Eagen": "66",
+      "Michael Wojcik": "52",
+      "ward": 50,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Todd Eagen": "Todd Eagen",
+      "Michael Wojcik": "Michael Wojcik",
+      "ward": 50,
+      "division": 5
+    },
+    {
+      "Candidate": "Todd Eagen",
+      "Todd Eagen": "67",
+      "Michael Wojcik": "0",
+      "ward": 50,
+      "division": 5
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Todd Eagen": "0",
+      "Michael Wojcik": "60",
+      "ward": 50,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Todd Eagen": "67",
+      "Michael Wojcik": "60",
+      "ward": 50,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Todd Eagen": "Todd Eagen",
+      "Michael Wojcik": "Michael Wojcik",
+      "ward": 50,
+      "division": 6
+    },
+    {
+      "Candidate": "Todd Eagen",
+      "Todd Eagen": "62",
+      "Michael Wojcik": "0",
+      "ward": 50,
+      "division": 6
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Todd Eagen": "0",
+      "Michael Wojcik": "53",
+      "ward": 50,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "Todd Eagen": "62",
+      "Michael Wojcik": "53",
+      "ward": 50,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Todd Eagen": "Todd Eagen",
+      "ward": 50,
+      "division": 7
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "80",
+      "Todd Eagen": "0",
+      "ward": 50,
+      "division": 7
+    },
+    {
+      "Candidate": "Todd Eagen",
+      "Michael Wojcik": "0",
+      "Todd Eagen": "63",
+      "ward": 50,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "80",
+      "Todd Eagen": "63",
+      "ward": 50,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Todd Eagen": "Todd Eagen",
+      "ward": 50,
+      "division": 8
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "67",
+      "Todd Eagen": "0",
+      "ward": 50,
+      "division": 8
+    },
+    {
+      "Candidate": "Todd Eagen",
+      "Michael Wojcik": "0",
+      "Todd Eagen": "61",
+      "ward": 50,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "67",
+      "Todd Eagen": "61",
+      "ward": 50,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Todd Eagen": "Todd Eagen",
+      "Michael Wojcik": "Michael Wojcik",
+      "ward": 50,
+      "division": 9
+    },
+    {
+      "Candidate": "Todd Eagen",
+      "Todd Eagen": "91",
+      "Michael Wojcik": "0",
+      "ward": 50,
+      "division": 9
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Todd Eagen": "0",
+      "Michael Wojcik": "80",
+      "ward": 50,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Todd Eagen": "91",
+      "Michael Wojcik": "80",
+      "ward": 50,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Todd Eagen": "Todd Eagen",
+      "Michael Wojcik": "Michael Wojcik",
+      "ward": 50,
+      "division": 10
+    },
+    {
+      "Candidate": "Todd Eagen",
+      "Todd Eagen": "61",
+      "Michael Wojcik": "0",
+      "ward": 50,
+      "division": 10
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Todd Eagen": "0",
+      "Michael Wojcik": "48",
+      "ward": 50,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Todd Eagen": "61",
+      "Michael Wojcik": "48",
+      "ward": 50,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Todd Eagen": "Todd Eagen",
+      "ward": 50,
+      "division": 11
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "49",
+      "Todd Eagen": "0",
+      "ward": 50,
+      "division": 11
+    },
+    {
+      "Candidate": "Todd Eagen",
+      "Michael Wojcik": "0",
+      "Todd Eagen": "48",
+      "ward": 50,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "49",
+      "Todd Eagen": "48",
+      "ward": 50,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Todd Eagen": "Todd Eagen",
+      "Michael Wojcik": "Michael Wojcik",
+      "ward": 50,
+      "division": 12
+    },
+    {
+      "Candidate": "Todd Eagen",
+      "Todd Eagen": "70",
+      "Michael Wojcik": "0",
+      "ward": 50,
+      "division": 12
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Todd Eagen": "0",
+      "Michael Wojcik": "66",
+      "ward": 50,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Todd Eagen": "70",
+      "Michael Wojcik": "66",
+      "ward": 50,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Todd Eagen": "Todd Eagen",
+      "Michael Wojcik": "Michael Wojcik",
+      "ward": 50,
+      "division": 13
+    },
+    {
+      "Candidate": "Todd Eagen",
+      "Todd Eagen": "58",
+      "Michael Wojcik": "0",
+      "ward": 50,
+      "division": 13
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Todd Eagen": "0",
+      "Michael Wojcik": "37",
+      "ward": 50,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "Todd Eagen": "58",
+      "Michael Wojcik": "37",
+      "ward": 50,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Todd Eagen": "Todd Eagen",
+      "Michael Wojcik": "Michael Wojcik",
+      "ward": 50,
+      "division": 14
+    },
+    {
+      "Candidate": "Todd Eagen",
+      "Todd Eagen": "53",
+      "Michael Wojcik": "0",
+      "ward": 50,
+      "division": 14
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Todd Eagen": "0",
+      "Michael Wojcik": "43",
+      "ward": 50,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "Todd Eagen": "53",
+      "Michael Wojcik": "43",
+      "ward": 50,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Todd Eagen": "Todd Eagen",
+      "ward": 50,
+      "division": 15
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "62",
+      "Todd Eagen": "0",
+      "ward": 50,
+      "division": 15
+    },
+    {
+      "Candidate": "Todd Eagen",
+      "Michael Wojcik": "0",
+      "Todd Eagen": "61",
+      "ward": 50,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "62",
+      "Todd Eagen": "61",
+      "ward": 50,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Todd Eagen": "Todd Eagen",
+      "Michael Wojcik": "Michael Wojcik",
+      "ward": 50,
+      "division": 16
+    },
+    {
+      "Candidate": "Todd Eagen",
+      "Todd Eagen": "68",
+      "Michael Wojcik": "0",
+      "ward": 50,
+      "division": 16
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Todd Eagen": "0",
+      "Michael Wojcik": "62",
+      "ward": 50,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "Todd Eagen": "68",
+      "Michael Wojcik": "62",
+      "ward": 50,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Todd Eagen": "Todd Eagen",
+      "ward": 50,
+      "division": 17
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "68",
+      "Todd Eagen": "0",
+      "ward": 50,
+      "division": 17
+    },
+    {
+      "Candidate": "Todd Eagen",
+      "Michael Wojcik": "0",
+      "Todd Eagen": "60",
+      "ward": 50,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "68",
+      "Todd Eagen": "60",
+      "ward": 50,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Todd Eagen": "Todd Eagen",
+      "Michael Wojcik": "Michael Wojcik",
+      "ward": 50,
+      "division": 18
+    },
+    {
+      "Candidate": "Todd Eagen",
+      "Todd Eagen": "53",
+      "Michael Wojcik": "0",
+      "ward": 50,
+      "division": 18
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Todd Eagen": "0",
+      "Michael Wojcik": "49",
+      "ward": 50,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "Todd Eagen": "53",
+      "Michael Wojcik": "49",
+      "ward": 50,
+      "division": 18
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Todd Eagen": "Todd Eagen",
+      "Write In": "Write In",
+      "ward": 50,
+      "division": 19
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "84",
+      "Todd Eagen": "0",
+      "Write In": "0",
+      "ward": 50,
+      "division": 19
+    },
+    {
+      "Candidate": "Todd Eagen",
+      "Michael Wojcik": "0",
+      "Todd Eagen": "79",
+      "Write In": "0",
+      "ward": 50,
+      "division": 19
+    },
+    {
+      "Candidate": "Write In",
+      "Michael Wojcik": "0",
+      "Todd Eagen": "0",
+      "Write In": "1",
+      "ward": 50,
+      "division": 19
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "84",
+      "Todd Eagen": "79",
+      "Write In": "1",
+      "ward": 50,
+      "division": 19
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Todd Eagen": "Todd Eagen",
+      "Michael Wojcik": "Michael Wojcik",
+      "ward": 50,
+      "division": 20
+    },
+    {
+      "Candidate": "Todd Eagen",
+      "Todd Eagen": "58",
+      "Michael Wojcik": "0",
+      "ward": 50,
+      "division": 20
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Todd Eagen": "0",
+      "Michael Wojcik": "45",
+      "ward": 50,
+      "division": 20
+    },
+    {
+      "Candidate": "Total",
+      "Todd Eagen": "58",
+      "Michael Wojcik": "45",
+      "ward": 50,
+      "division": 20
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Todd Eagen": "Todd Eagen",
+      "ward": 50,
+      "division": 21
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "92",
+      "Todd Eagen": "0",
+      "ward": 50,
+      "division": 21
+    },
+    {
+      "Candidate": "Todd Eagen",
+      "Michael Wojcik": "0",
+      "Todd Eagen": "88",
+      "ward": 50,
+      "division": 21
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "92",
+      "Todd Eagen": "88",
+      "ward": 50,
+      "division": 21
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Todd Eagen": "Todd Eagen",
+      "Michael Wojcik": "Michael Wojcik",
+      "ward": 50,
+      "division": 22
+    },
+    {
+      "Candidate": "Todd Eagen",
+      "Todd Eagen": "70",
+      "Michael Wojcik": "0",
+      "ward": 50,
+      "division": 22
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Todd Eagen": "0",
+      "Michael Wojcik": "61",
+      "ward": 50,
+      "division": 22
+    },
+    {
+      "Candidate": "Total",
+      "Todd Eagen": "70",
+      "Michael Wojcik": "61",
+      "ward": 50,
+      "division": 22
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Todd Eagen": "Todd Eagen",
+      "ward": 50,
+      "division": 23
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "43",
+      "Todd Eagen": "0",
+      "ward": 50,
+      "division": 23
+    },
+    {
+      "Candidate": "Todd Eagen",
+      "Michael Wojcik": "0",
+      "Todd Eagen": "42",
+      "ward": 50,
+      "division": 23
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "43",
+      "Todd Eagen": "42",
+      "ward": 50,
+      "division": 23
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Todd Eagen": "Todd Eagen",
+      "Michael Wojcik": "Michael Wojcik",
+      "ward": 50,
+      "division": 24
+    },
+    {
+      "Candidate": "Todd Eagen",
+      "Todd Eagen": "76",
+      "Michael Wojcik": "0",
+      "ward": 50,
+      "division": 24
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Todd Eagen": "0",
+      "Michael Wojcik": "54",
+      "ward": 50,
+      "division": 24
+    },
+    {
+      "Candidate": "Total",
+      "Todd Eagen": "76",
+      "Michael Wojcik": "54",
+      "ward": 50,
+      "division": 24
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Todd Eagen": "Todd Eagen",
+      "ward": 50,
+      "division": 25
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "50",
+      "Todd Eagen": "0",
+      "ward": 50,
+      "division": 25
+    },
+    {
+      "Candidate": "Todd Eagen",
+      "Michael Wojcik": "0",
+      "Todd Eagen": "44",
+      "ward": 50,
+      "division": 25
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "50",
+      "Todd Eagen": "44",
+      "ward": 50,
+      "division": 25
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Todd Eagen": "Todd Eagen",
+      "ward": 50,
+      "division": 26
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "57",
+      "Todd Eagen": "0",
+      "ward": 50,
+      "division": 26
+    },
+    {
+      "Candidate": "Todd Eagen",
+      "Michael Wojcik": "0",
+      "Todd Eagen": "49",
+      "ward": 50,
+      "division": 26
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "57",
+      "Todd Eagen": "49",
+      "ward": 50,
+      "division": 26
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Todd Eagen": "Todd Eagen",
+      "Michael Wojcik": "Michael Wojcik",
+      "ward": 50,
+      "division": 27
+    },
+    {
+      "Candidate": "Todd Eagen",
+      "Todd Eagen": "73",
+      "Michael Wojcik": "0",
+      "ward": 50,
+      "division": 27
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Todd Eagen": "0",
+      "Michael Wojcik": "70",
+      "ward": 50,
+      "division": 27
+    },
+    {
+      "Candidate": "Total",
+      "Todd Eagen": "73",
+      "Michael Wojcik": "70",
+      "ward": 50,
+      "division": 27
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Todd Eagen": "Todd Eagen",
+      "Michael Wojcik": "Michael Wojcik",
+      "ward": 50,
+      "division": 28
+    },
+    {
+      "Candidate": "Todd Eagen",
+      "Todd Eagen": "69",
+      "Michael Wojcik": "0",
+      "ward": 50,
+      "division": 28
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Todd Eagen": "0",
+      "Michael Wojcik": "64",
+      "ward": 50,
+      "division": 28
+    },
+    {
+      "Candidate": "Total",
+      "Todd Eagen": "69",
+      "Michael Wojcik": "64",
+      "ward": 50,
+      "division": 28
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Todd Eagen": "Todd Eagen",
+      "ward": 50,
+      "division": 29
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "67",
+      "Todd Eagen": "0",
+      "ward": 50,
+      "division": 29
+    },
+    {
+      "Candidate": "Todd Eagen",
+      "Michael Wojcik": "0",
+      "Todd Eagen": "59",
+      "ward": 50,
+      "division": 29
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "67",
+      "Todd Eagen": "59",
+      "ward": 50,
+      "division": 29
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Todd Eagen": "Todd Eagen",
+      "Michael Wojcik": "Michael Wojcik",
+      "ward": 50,
+      "division": 30
+    },
+    {
+      "Candidate": "Todd Eagen",
+      "Todd Eagen": "45",
+      "Michael Wojcik": "0",
+      "ward": 50,
+      "division": 30
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Todd Eagen": "0",
+      "Michael Wojcik": "39",
+      "ward": 50,
+      "division": 30
+    },
+    {
+      "Candidate": "Total",
+      "Todd Eagen": "45",
+      "Michael Wojcik": "39",
+      "ward": 50,
+      "division": 30
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Todd Eagen": "Todd Eagen",
+      "Michael Wojcik": "Michael Wojcik",
+      "ward": 50,
+      "division": 1
+    },
+    {
+      "Candidate": "Todd Eagen",
+      "Todd Eagen": "58",
+      "Michael Wojcik": "0",
+      "ward": 50,
+      "division": 1
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Todd Eagen": "0",
+      "Michael Wojcik": "47",
+      "ward": 50,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Todd Eagen": "58",
+      "Michael Wojcik": "47",
+      "ward": 50,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Todd Eagen": "Todd Eagen",
+      "Michael Wojcik": "Michael Wojcik",
+      "ward": 50,
+      "division": 2
+    },
+    {
+      "Candidate": "Todd Eagen",
+      "Todd Eagen": "79",
+      "Michael Wojcik": "0",
+      "ward": 50,
+      "division": 2
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Todd Eagen": "0",
+      "Michael Wojcik": "71",
+      "ward": 50,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "Todd Eagen": "79",
+      "Michael Wojcik": "71",
+      "ward": 50,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Todd Eagen": "Todd Eagen",
+      "ward": 50,
+      "division": 3
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "83",
+      "Todd Eagen": "0",
+      "ward": 50,
+      "division": 3
+    },
+    {
+      "Candidate": "Todd Eagen",
+      "Michael Wojcik": "0",
+      "Todd Eagen": "71",
+      "ward": 50,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "83",
+      "Todd Eagen": "71",
+      "ward": 50,
+      "division": 3
+    }
+  ]
+]

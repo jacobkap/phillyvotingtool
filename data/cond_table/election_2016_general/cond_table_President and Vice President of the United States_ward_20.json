@@ -1,0 +1,796 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Donald J Trump": "Donald J Trump",
+      "Jill Stein": "Jill Stein",
+      "Gary Johnson": "Gary Johnson",
+      "Write In": "Write In",
+      "Darrell L Castle": "Darrell L Castle",
+      "ward": 20,
+      "division": "All"
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "4405",
+      "Donald J Trump": "0",
+      "Jill Stein": "0",
+      "Gary Johnson": "0",
+      "Write In": "0",
+      "Darrell L Castle": "0",
+      "ward": 20,
+      "division": "All"
+    },
+    {
+      "Candidate": "Donald J Trump",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "351",
+      "Jill Stein": "0",
+      "Gary Johnson": "0",
+      "Write In": "0",
+      "Darrell L Castle": "0",
+      "ward": 20,
+      "division": "All"
+    },
+    {
+      "Candidate": "Jill Stein",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "0",
+      "Jill Stein": "61",
+      "Gary Johnson": "0",
+      "Write In": "0",
+      "Darrell L Castle": "0",
+      "ward": 20,
+      "division": "All"
+    },
+    {
+      "Candidate": "Gary Johnson",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "0",
+      "Jill Stein": "0",
+      "Gary Johnson": "59",
+      "Write In": "0",
+      "Darrell L Castle": "0",
+      "ward": 20,
+      "division": "All"
+    },
+    {
+      "Candidate": "Write In",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "0",
+      "Jill Stein": "0",
+      "Gary Johnson": "0",
+      "Write In": "11",
+      "Darrell L Castle": "0",
+      "ward": 20,
+      "division": "All"
+    },
+    {
+      "Candidate": "Darrell L Castle",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "0",
+      "Jill Stein": "0",
+      "Gary Johnson": "0",
+      "Write In": "0",
+      "Darrell L Castle": "2",
+      "ward": 20,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "4405",
+      "Donald J Trump": "351",
+      "Jill Stein": "61",
+      "Gary Johnson": "59",
+      "Write In": "11",
+      "Darrell L Castle": "2",
+      "ward": 20,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Donald J Trump": "Donald J Trump",
+      "Jill Stein": "Jill Stein",
+      "Gary Johnson": "Gary Johnson",
+      "Darrell L Castle": "Darrell L Castle",
+      "Write In": "Write In",
+      "ward": 20,
+      "division": 1
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "460",
+      "Donald J Trump": "0",
+      "Jill Stein": "0",
+      "Gary Johnson": "0",
+      "Darrell L Castle": "0",
+      "Write In": "0",
+      "ward": 20,
+      "division": 1
+    },
+    {
+      "Candidate": "Donald J Trump",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "39",
+      "Jill Stein": "0",
+      "Gary Johnson": "0",
+      "Darrell L Castle": "0",
+      "Write In": "0",
+      "ward": 20,
+      "division": 1
+    },
+    {
+      "Candidate": "Jill Stein",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "0",
+      "Jill Stein": "10",
+      "Gary Johnson": "0",
+      "Darrell L Castle": "0",
+      "Write In": "0",
+      "ward": 20,
+      "division": 1
+    },
+    {
+      "Candidate": "Gary Johnson",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "0",
+      "Jill Stein": "0",
+      "Gary Johnson": "8",
+      "Darrell L Castle": "0",
+      "Write In": "0",
+      "ward": 20,
+      "division": 1
+    },
+    {
+      "Candidate": "Darrell L Castle",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "0",
+      "Jill Stein": "0",
+      "Gary Johnson": "0",
+      "Darrell L Castle": "1",
+      "Write In": "0",
+      "ward": 20,
+      "division": 1
+    },
+    {
+      "Candidate": "Write In",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "0",
+      "Jill Stein": "0",
+      "Gary Johnson": "0",
+      "Darrell L Castle": "0",
+      "Write In": "1",
+      "ward": 20,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "460",
+      "Donald J Trump": "39",
+      "Jill Stein": "10",
+      "Gary Johnson": "8",
+      "Darrell L Castle": "1",
+      "Write In": "1",
+      "ward": 20,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Donald J Trump": "Donald J Trump",
+      "Jill Stein": "Jill Stein",
+      "ward": 20,
+      "division": 2
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "193",
+      "Donald J Trump": "0",
+      "Jill Stein": "0",
+      "ward": 20,
+      "division": 2
+    },
+    {
+      "Candidate": "Donald J Trump",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "9",
+      "Jill Stein": "0",
+      "ward": 20,
+      "division": 2
+    },
+    {
+      "Candidate": "Jill Stein",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "0",
+      "Jill Stein": "7",
+      "ward": 20,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "193",
+      "Donald J Trump": "9",
+      "Jill Stein": "7",
+      "ward": 20,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Donald J Trump": "Donald J Trump",
+      "Gary Johnson": "Gary Johnson",
+      "Jill Stein": "Jill Stein",
+      "ward": 20,
+      "division": 3
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "401",
+      "Donald J Trump": "0",
+      "Gary Johnson": "0",
+      "Jill Stein": "0",
+      "ward": 20,
+      "division": 3
+    },
+    {
+      "Candidate": "Donald J Trump",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "13",
+      "Gary Johnson": "0",
+      "Jill Stein": "0",
+      "ward": 20,
+      "division": 3
+    },
+    {
+      "Candidate": "Gary Johnson",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "0",
+      "Gary Johnson": "3",
+      "Jill Stein": "0",
+      "ward": 20,
+      "division": 3
+    },
+    {
+      "Candidate": "Jill Stein",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "0",
+      "Gary Johnson": "0",
+      "Jill Stein": "3",
+      "ward": 20,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "401",
+      "Donald J Trump": "13",
+      "Gary Johnson": "3",
+      "Jill Stein": "3",
+      "ward": 20,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Donald J Trump": "Donald J Trump",
+      "Jill Stein": "Jill Stein",
+      "ward": 20,
+      "division": 4
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "404",
+      "Donald J Trump": "0",
+      "Jill Stein": "0",
+      "ward": 20,
+      "division": 4
+    },
+    {
+      "Candidate": "Donald J Trump",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "9",
+      "Jill Stein": "0",
+      "ward": 20,
+      "division": 4
+    },
+    {
+      "Candidate": "Jill Stein",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "0",
+      "Jill Stein": "1",
+      "ward": 20,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "404",
+      "Donald J Trump": "9",
+      "Jill Stein": "1",
+      "ward": 20,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Donald J Trump": "Donald J Trump",
+      "Gary Johnson": "Gary Johnson",
+      "Jill Stein": "Jill Stein",
+      "ward": 20,
+      "division": 5
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "164",
+      "Donald J Trump": "0",
+      "Gary Johnson": "0",
+      "Jill Stein": "0",
+      "ward": 20,
+      "division": 5
+    },
+    {
+      "Candidate": "Donald J Trump",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "7",
+      "Gary Johnson": "0",
+      "Jill Stein": "0",
+      "ward": 20,
+      "division": 5
+    },
+    {
+      "Candidate": "Gary Johnson",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "0",
+      "Gary Johnson": "1",
+      "Jill Stein": "0",
+      "ward": 20,
+      "division": 5
+    },
+    {
+      "Candidate": "Jill Stein",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "0",
+      "Gary Johnson": "0",
+      "Jill Stein": "1",
+      "ward": 20,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "164",
+      "Donald J Trump": "7",
+      "Gary Johnson": "1",
+      "Jill Stein": "1",
+      "ward": 20,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Donald J Trump": "Donald J Trump",
+      "Jill Stein": "Jill Stein",
+      "Gary Johnson": "Gary Johnson",
+      "Write In": "Write In",
+      "ward": 20,
+      "division": 6
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "450",
+      "Donald J Trump": "0",
+      "Jill Stein": "0",
+      "Gary Johnson": "0",
+      "Write In": "0",
+      "ward": 20,
+      "division": 6
+    },
+    {
+      "Candidate": "Donald J Trump",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "12",
+      "Jill Stein": "0",
+      "Gary Johnson": "0",
+      "Write In": "0",
+      "ward": 20,
+      "division": 6
+    },
+    {
+      "Candidate": "Jill Stein",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "0",
+      "Jill Stein": "6",
+      "Gary Johnson": "0",
+      "Write In": "0",
+      "ward": 20,
+      "division": 6
+    },
+    {
+      "Candidate": "Gary Johnson",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "0",
+      "Jill Stein": "0",
+      "Gary Johnson": "3",
+      "Write In": "0",
+      "ward": 20,
+      "division": 6
+    },
+    {
+      "Candidate": "Write In",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "0",
+      "Jill Stein": "0",
+      "Gary Johnson": "0",
+      "Write In": "2",
+      "ward": 20,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "450",
+      "Donald J Trump": "12",
+      "Jill Stein": "6",
+      "Gary Johnson": "3",
+      "Write In": "2",
+      "ward": 20,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Donald J Trump": "Donald J Trump",
+      "Gary Johnson": "Gary Johnson",
+      "Jill Stein": "Jill Stein",
+      "Darrell L Castle": "Darrell L Castle",
+      "Write In": "Write In",
+      "ward": 20,
+      "division": 7
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "763",
+      "Donald J Trump": "0",
+      "Gary Johnson": "0",
+      "Jill Stein": "0",
+      "Darrell L Castle": "0",
+      "Write In": "0",
+      "ward": 20,
+      "division": 7
+    },
+    {
+      "Candidate": "Donald J Trump",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "89",
+      "Gary Johnson": "0",
+      "Jill Stein": "0",
+      "Darrell L Castle": "0",
+      "Write In": "0",
+      "ward": 20,
+      "division": 7
+    },
+    {
+      "Candidate": "Gary Johnson",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "0",
+      "Gary Johnson": "14",
+      "Jill Stein": "0",
+      "Darrell L Castle": "0",
+      "Write In": "0",
+      "ward": 20,
+      "division": 7
+    },
+    {
+      "Candidate": "Jill Stein",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "0",
+      "Gary Johnson": "0",
+      "Jill Stein": "14",
+      "Darrell L Castle": "0",
+      "Write In": "0",
+      "ward": 20,
+      "division": 7
+    },
+    {
+      "Candidate": "Darrell L Castle",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "0",
+      "Gary Johnson": "0",
+      "Jill Stein": "0",
+      "Darrell L Castle": "1",
+      "Write In": "0",
+      "ward": 20,
+      "division": 7
+    },
+    {
+      "Candidate": "Write In",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "0",
+      "Gary Johnson": "0",
+      "Jill Stein": "0",
+      "Darrell L Castle": "0",
+      "Write In": "1",
+      "ward": 20,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "763",
+      "Donald J Trump": "89",
+      "Gary Johnson": "14",
+      "Jill Stein": "14",
+      "Darrell L Castle": "1",
+      "Write In": "1",
+      "ward": 20,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Donald J Trump": "Donald J Trump",
+      "Gary Johnson": "Gary Johnson",
+      "Jill Stein": "Jill Stein",
+      "ward": 20,
+      "division": 8
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "133",
+      "Donald J Trump": "0",
+      "Gary Johnson": "0",
+      "Jill Stein": "0",
+      "ward": 20,
+      "division": 8
+    },
+    {
+      "Candidate": "Donald J Trump",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "9",
+      "Gary Johnson": "0",
+      "Jill Stein": "0",
+      "ward": 20,
+      "division": 8
+    },
+    {
+      "Candidate": "Gary Johnson",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "0",
+      "Gary Johnson": "3",
+      "Jill Stein": "0",
+      "ward": 20,
+      "division": 8
+    },
+    {
+      "Candidate": "Jill Stein",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "0",
+      "Gary Johnson": "0",
+      "Jill Stein": "1",
+      "ward": 20,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "133",
+      "Donald J Trump": "9",
+      "Gary Johnson": "3",
+      "Jill Stein": "1",
+      "ward": 20,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Donald J Trump": "Donald J Trump",
+      "Gary Johnson": "Gary Johnson",
+      "Jill Stein": "Jill Stein",
+      "Write In": "Write In",
+      "ward": 20,
+      "division": 9
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "381",
+      "Donald J Trump": "0",
+      "Gary Johnson": "0",
+      "Jill Stein": "0",
+      "Write In": "0",
+      "ward": 20,
+      "division": 9
+    },
+    {
+      "Candidate": "Donald J Trump",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "32",
+      "Gary Johnson": "0",
+      "Jill Stein": "0",
+      "Write In": "0",
+      "ward": 20,
+      "division": 9
+    },
+    {
+      "Candidate": "Gary Johnson",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "0",
+      "Gary Johnson": "8",
+      "Jill Stein": "0",
+      "Write In": "0",
+      "ward": 20,
+      "division": 9
+    },
+    {
+      "Candidate": "Jill Stein",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "0",
+      "Gary Johnson": "0",
+      "Jill Stein": "8",
+      "Write In": "0",
+      "ward": 20,
+      "division": 9
+    },
+    {
+      "Candidate": "Write In",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "0",
+      "Gary Johnson": "0",
+      "Jill Stein": "0",
+      "Write In": "2",
+      "ward": 20,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "381",
+      "Donald J Trump": "32",
+      "Gary Johnson": "8",
+      "Jill Stein": "8",
+      "Write In": "2",
+      "ward": 20,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Donald J Trump": "Donald J Trump",
+      "Gary Johnson": "Gary Johnson",
+      "Jill Stein": "Jill Stein",
+      "ward": 20,
+      "division": 10
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "386",
+      "Donald J Trump": "0",
+      "Gary Johnson": "0",
+      "Jill Stein": "0",
+      "ward": 20,
+      "division": 10
+    },
+    {
+      "Candidate": "Donald J Trump",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "9",
+      "Gary Johnson": "0",
+      "Jill Stein": "0",
+      "ward": 20,
+      "division": 10
+    },
+    {
+      "Candidate": "Gary Johnson",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "0",
+      "Gary Johnson": "5",
+      "Jill Stein": "0",
+      "ward": 20,
+      "division": 10
+    },
+    {
+      "Candidate": "Jill Stein",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "0",
+      "Gary Johnson": "0",
+      "Jill Stein": "3",
+      "ward": 20,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "386",
+      "Donald J Trump": "9",
+      "Gary Johnson": "5",
+      "Jill Stein": "3",
+      "ward": 20,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Donald J Trump": "Donald J Trump",
+      "Gary Johnson": "Gary Johnson",
+      "Jill Stein": "Jill Stein",
+      "Write In": "Write In",
+      "ward": 20,
+      "division": 11
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "670",
+      "Donald J Trump": "0",
+      "Gary Johnson": "0",
+      "Jill Stein": "0",
+      "Write In": "0",
+      "ward": 20,
+      "division": 11
+    },
+    {
+      "Candidate": "Donald J Trump",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "123",
+      "Gary Johnson": "0",
+      "Jill Stein": "0",
+      "Write In": "0",
+      "ward": 20,
+      "division": 11
+    },
+    {
+      "Candidate": "Gary Johnson",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "0",
+      "Gary Johnson": "14",
+      "Jill Stein": "0",
+      "Write In": "0",
+      "ward": 20,
+      "division": 11
+    },
+    {
+      "Candidate": "Jill Stein",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "0",
+      "Gary Johnson": "0",
+      "Jill Stein": "7",
+      "Write In": "0",
+      "ward": 20,
+      "division": 11
+    },
+    {
+      "Candidate": "Write In",
+      "Hillary Clinton": "0",
+      "Donald J Trump": "0",
+      "Gary Johnson": "0",
+      "Jill Stein": "0",
+      "Write In": "5",
+      "ward": 20,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "670",
+      "Donald J Trump": "123",
+      "Gary Johnson": "14",
+      "Jill Stein": "7",
+      "Write In": "5",
+      "ward": 20,
+      "division": 11
+    }
+  ]
+]

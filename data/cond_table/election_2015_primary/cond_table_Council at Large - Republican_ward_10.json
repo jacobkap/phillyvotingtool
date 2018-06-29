@@ -1,0 +1,862 @@
+[
+  [
+    {
+      "Candidate": "",
+      "David Oh": "David Oh",
+      "Terry Tracy": "Terry Tracy",
+      "James Williams": "James Williams",
+      "Matt Wolfe": "Matt Wolfe",
+      "Daniel Tinney": "Daniel Tinney",
+      "Dennis M O Brien": "Dennis M O Brien",
+      "Al Taubenberger": "Al Taubenberger",
+      "ward": 10,
+      "division": "All"
+    },
+    {
+      "Candidate": "David Oh",
+      "David Oh": "3",
+      "Terry Tracy": "11",
+      "James Williams": "10",
+      "Matt Wolfe": "5",
+      "Daniel Tinney": "5",
+      "Dennis M O Brien": "4",
+      "Al Taubenberger": "3",
+      "ward": 10,
+      "division": "All"
+    },
+    {
+      "Candidate": "Terry Tracy",
+      "David Oh": "11",
+      "Terry Tracy": "0",
+      "James Williams": "11",
+      "Matt Wolfe": "7",
+      "Daniel Tinney": "4",
+      "Dennis M O Brien": "5",
+      "Al Taubenberger": "2",
+      "ward": 10,
+      "division": "All"
+    },
+    {
+      "Candidate": "James Williams",
+      "David Oh": "10",
+      "Terry Tracy": "11",
+      "James Williams": "1",
+      "Matt Wolfe": "5",
+      "Daniel Tinney": "3",
+      "Dennis M O Brien": "2",
+      "Al Taubenberger": "3",
+      "ward": 10,
+      "division": "All"
+    },
+    {
+      "Candidate": "Matt Wolfe",
+      "David Oh": "5",
+      "Terry Tracy": "7",
+      "James Williams": "5",
+      "Matt Wolfe": "0",
+      "Daniel Tinney": "3",
+      "Dennis M O Brien": "2",
+      "Al Taubenberger": "2",
+      "ward": 10,
+      "division": "All"
+    },
+    {
+      "Candidate": "Daniel Tinney",
+      "David Oh": "5",
+      "Terry Tracy": "4",
+      "James Williams": "3",
+      "Matt Wolfe": "3",
+      "Daniel Tinney": "0",
+      "Dennis M O Brien": "3",
+      "Al Taubenberger": "1",
+      "ward": 10,
+      "division": "All"
+    },
+    {
+      "Candidate": "Dennis M O Brien",
+      "David Oh": "4",
+      "Terry Tracy": "5",
+      "James Williams": "2",
+      "Matt Wolfe": "2",
+      "Daniel Tinney": "3",
+      "Dennis M O Brien": "0",
+      "Al Taubenberger": "1",
+      "ward": 10,
+      "division": "All"
+    },
+    {
+      "Candidate": "Al Taubenberger",
+      "David Oh": "3",
+      "Terry Tracy": "2",
+      "James Williams": "3",
+      "Matt Wolfe": "2",
+      "Daniel Tinney": "1",
+      "Dennis M O Brien": "1",
+      "Al Taubenberger": "0",
+      "ward": 10,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "David Oh": "16",
+      "Terry Tracy": "15",
+      "James Williams": "13",
+      "Matt Wolfe": "9",
+      "Daniel Tinney": "5",
+      "Dennis M O Brien": "5",
+      "Al Taubenberger": "3",
+      "ward": 10,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Matt Wolfe": "Matt Wolfe",
+      "Terry Tracy": "Terry Tracy",
+      "ward": 10,
+      "division": 1
+    },
+    {
+      "Candidate": "Matt Wolfe",
+      "Matt Wolfe": "0",
+      "Terry Tracy": "1",
+      "ward": 10,
+      "division": 1
+    },
+    {
+      "Candidate": "Terry Tracy",
+      "Matt Wolfe": "1",
+      "Terry Tracy": "0",
+      "ward": 10,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Matt Wolfe": "1",
+      "Terry Tracy": "1",
+      "ward": 10,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "David Oh": "David Oh",
+      "Terry Tracy": "Terry Tracy",
+      "Daniel Tinney": "Daniel Tinney",
+      "Dennis M O Brien": "Dennis M O Brien",
+      "James Williams": "James Williams",
+      "ward": 10,
+      "division": 2
+    },
+    {
+      "Candidate": "David Oh",
+      "David Oh": "1",
+      "Terry Tracy": "2",
+      "Daniel Tinney": "1",
+      "Dennis M O Brien": "1",
+      "James Williams": "1",
+      "ward": 10,
+      "division": 2
+    },
+    {
+      "Candidate": "Terry Tracy",
+      "David Oh": "2",
+      "Terry Tracy": "0",
+      "Daniel Tinney": "1",
+      "Dennis M O Brien": "1",
+      "James Williams": "1",
+      "ward": 10,
+      "division": 2
+    },
+    {
+      "Candidate": "Daniel Tinney",
+      "David Oh": "1",
+      "Terry Tracy": "1",
+      "Daniel Tinney": "0",
+      "Dennis M O Brien": "1",
+      "James Williams": "0",
+      "ward": 10,
+      "division": 2
+    },
+    {
+      "Candidate": "Dennis M O Brien",
+      "David Oh": "1",
+      "Terry Tracy": "1",
+      "Daniel Tinney": "1",
+      "Dennis M O Brien": "0",
+      "James Williams": "0",
+      "ward": 10,
+      "division": 2
+    },
+    {
+      "Candidate": "James Williams",
+      "David Oh": "1",
+      "Terry Tracy": "1",
+      "Daniel Tinney": "0",
+      "Dennis M O Brien": "0",
+      "James Williams": "0",
+      "ward": 10,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "David Oh": "3",
+      "Terry Tracy": "2",
+      "Daniel Tinney": "1",
+      "Dennis M O Brien": "1",
+      "James Williams": "1",
+      "ward": 10,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Al Taubenberger": "Al Taubenberger",
+      "Daniel Tinney": "Daniel Tinney",
+      "David Oh": "David Oh",
+      "James Williams": "James Williams",
+      "Matt Wolfe": "Matt Wolfe",
+      "ward": 10,
+      "division": 3
+    },
+    {
+      "Candidate": "Al Taubenberger",
+      "Al Taubenberger": "0",
+      "Daniel Tinney": "1",
+      "David Oh": "1",
+      "James Williams": "1",
+      "Matt Wolfe": "1",
+      "ward": 10,
+      "division": 3
+    },
+    {
+      "Candidate": "Daniel Tinney",
+      "Al Taubenberger": "1",
+      "Daniel Tinney": "0",
+      "David Oh": "1",
+      "James Williams": "1",
+      "Matt Wolfe": "1",
+      "ward": 10,
+      "division": 3
+    },
+    {
+      "Candidate": "David Oh",
+      "Al Taubenberger": "1",
+      "Daniel Tinney": "1",
+      "David Oh": "0",
+      "James Williams": "1",
+      "Matt Wolfe": "1",
+      "ward": 10,
+      "division": 3
+    },
+    {
+      "Candidate": "James Williams",
+      "Al Taubenberger": "1",
+      "Daniel Tinney": "1",
+      "David Oh": "1",
+      "James Williams": "0",
+      "Matt Wolfe": "1",
+      "ward": 10,
+      "division": 3
+    },
+    {
+      "Candidate": "Matt Wolfe",
+      "Al Taubenberger": "1",
+      "Daniel Tinney": "1",
+      "David Oh": "1",
+      "James Williams": "1",
+      "Matt Wolfe": "0",
+      "ward": 10,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Al Taubenberger": "1",
+      "Daniel Tinney": "1",
+      "David Oh": "1",
+      "James Williams": "1",
+      "Matt Wolfe": "1",
+      "ward": 10,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Matt Wolfe": "Matt Wolfe",
+      "Terry Tracy": "Terry Tracy",
+      "James Williams": "James Williams",
+      "Dennis M O Brien": "Dennis M O Brien",
+      "ward": 10,
+      "division": 5
+    },
+    {
+      "Candidate": "Matt Wolfe",
+      "Matt Wolfe": "0",
+      "Terry Tracy": "3",
+      "James Williams": "2",
+      "Dennis M O Brien": "1",
+      "ward": 10,
+      "division": 5
+    },
+    {
+      "Candidate": "Terry Tracy",
+      "Matt Wolfe": "3",
+      "Terry Tracy": "0",
+      "James Williams": "2",
+      "Dennis M O Brien": "1",
+      "ward": 10,
+      "division": 5
+    },
+    {
+      "Candidate": "James Williams",
+      "Matt Wolfe": "2",
+      "Terry Tracy": "2",
+      "James Williams": "0",
+      "Dennis M O Brien": "0",
+      "ward": 10,
+      "division": 5
+    },
+    {
+      "Candidate": "Dennis M O Brien",
+      "Matt Wolfe": "1",
+      "Terry Tracy": "1",
+      "James Williams": "0",
+      "Dennis M O Brien": "0",
+      "ward": 10,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Matt Wolfe": "3",
+      "Terry Tracy": "3",
+      "James Williams": "2",
+      "Dennis M O Brien": "1",
+      "ward": 10,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Daniel Tinney": "Daniel Tinney",
+      "David Oh": "David Oh",
+      "Dennis M O Brien": "Dennis M O Brien",
+      "James Williams": "James Williams",
+      "Matt Wolfe": "Matt Wolfe",
+      "Terry Tracy": "Terry Tracy",
+      "ward": 10,
+      "division": 7
+    },
+    {
+      "Candidate": "Daniel Tinney",
+      "Daniel Tinney": "0",
+      "David Oh": "1",
+      "Dennis M O Brien": "1",
+      "James Williams": "0",
+      "Matt Wolfe": "1",
+      "Terry Tracy": "1",
+      "ward": 10,
+      "division": 7
+    },
+    {
+      "Candidate": "David Oh",
+      "Daniel Tinney": "1",
+      "David Oh": "0",
+      "Dennis M O Brien": "1",
+      "James Williams": "0",
+      "Matt Wolfe": "1",
+      "Terry Tracy": "1",
+      "ward": 10,
+      "division": 7
+    },
+    {
+      "Candidate": "Dennis M O Brien",
+      "Daniel Tinney": "1",
+      "David Oh": "1",
+      "Dennis M O Brien": "0",
+      "James Williams": "0",
+      "Matt Wolfe": "1",
+      "Terry Tracy": "1",
+      "ward": 10,
+      "division": 7
+    },
+    {
+      "Candidate": "James Williams",
+      "Daniel Tinney": "0",
+      "David Oh": "0",
+      "Dennis M O Brien": "0",
+      "James Williams": "1",
+      "Matt Wolfe": "0",
+      "Terry Tracy": "0",
+      "ward": 10,
+      "division": 7
+    },
+    {
+      "Candidate": "Matt Wolfe",
+      "Daniel Tinney": "1",
+      "David Oh": "1",
+      "Dennis M O Brien": "1",
+      "James Williams": "0",
+      "Matt Wolfe": "0",
+      "Terry Tracy": "1",
+      "ward": 10,
+      "division": 7
+    },
+    {
+      "Candidate": "Terry Tracy",
+      "Daniel Tinney": "1",
+      "David Oh": "1",
+      "Dennis M O Brien": "1",
+      "James Williams": "0",
+      "Matt Wolfe": "1",
+      "Terry Tracy": "0",
+      "ward": 10,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Daniel Tinney": "1",
+      "David Oh": "1",
+      "Dennis M O Brien": "1",
+      "James Williams": "1",
+      "Matt Wolfe": "1",
+      "Terry Tracy": "1",
+      "ward": 10,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "David Oh": "David Oh",
+      "Matt Wolfe": "Matt Wolfe",
+      "ward": 10,
+      "division": 14
+    },
+    {
+      "Candidate": "David Oh",
+      "David Oh": "0",
+      "Matt Wolfe": "1",
+      "ward": 10,
+      "division": 14
+    },
+    {
+      "Candidate": "Matt Wolfe",
+      "David Oh": "1",
+      "Matt Wolfe": "0",
+      "ward": 10,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "David Oh": "1",
+      "Matt Wolfe": "1",
+      "ward": 10,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "David Oh": "David Oh",
+      "James Williams": "James Williams",
+      "Terry Tracy": "Terry Tracy",
+      "ward": 10,
+      "division": 16
+    },
+    {
+      "Candidate": "David Oh",
+      "David Oh": "0",
+      "James Williams": "2",
+      "Terry Tracy": "2",
+      "ward": 10,
+      "division": 16
+    },
+    {
+      "Candidate": "James Williams",
+      "David Oh": "2",
+      "James Williams": "0",
+      "Terry Tracy": "2",
+      "ward": 10,
+      "division": 16
+    },
+    {
+      "Candidate": "Terry Tracy",
+      "David Oh": "2",
+      "James Williams": "2",
+      "Terry Tracy": "0",
+      "ward": 10,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "David Oh": "2",
+      "James Williams": "2",
+      "Terry Tracy": "2",
+      "ward": 10,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Al Taubenberger": "Al Taubenberger",
+      "David Oh": "David Oh",
+      "James Williams": "James Williams",
+      "Matt Wolfe": "Matt Wolfe",
+      "Terry Tracy": "Terry Tracy",
+      "ward": 10,
+      "division": 17
+    },
+    {
+      "Candidate": "Al Taubenberger",
+      "Al Taubenberger": "0",
+      "David Oh": "1",
+      "James Williams": "1",
+      "Matt Wolfe": "1",
+      "Terry Tracy": "1",
+      "ward": 10,
+      "division": 17
+    },
+    {
+      "Candidate": "David Oh",
+      "Al Taubenberger": "1",
+      "David Oh": "0",
+      "James Williams": "1",
+      "Matt Wolfe": "1",
+      "Terry Tracy": "1",
+      "ward": 10,
+      "division": 17
+    },
+    {
+      "Candidate": "James Williams",
+      "Al Taubenberger": "1",
+      "David Oh": "1",
+      "James Williams": "0",
+      "Matt Wolfe": "1",
+      "Terry Tracy": "1",
+      "ward": 10,
+      "division": 17
+    },
+    {
+      "Candidate": "Matt Wolfe",
+      "Al Taubenberger": "1",
+      "David Oh": "1",
+      "James Williams": "1",
+      "Matt Wolfe": "0",
+      "Terry Tracy": "1",
+      "ward": 10,
+      "division": 17
+    },
+    {
+      "Candidate": "Terry Tracy",
+      "Al Taubenberger": "1",
+      "David Oh": "1",
+      "James Williams": "1",
+      "Matt Wolfe": "1",
+      "Terry Tracy": "0",
+      "ward": 10,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "Al Taubenberger": "1",
+      "David Oh": "1",
+      "James Williams": "1",
+      "Matt Wolfe": "1",
+      "Terry Tracy": "1",
+      "ward": 10,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Daniel Tinney": "Daniel Tinney",
+      "David Oh": "David Oh",
+      "Dennis M O Brien": "Dennis M O Brien",
+      "James Williams": "James Williams",
+      "Terry Tracy": "Terry Tracy",
+      "ward": 10,
+      "division": 18
+    },
+    {
+      "Candidate": "Daniel Tinney",
+      "Daniel Tinney": "0",
+      "David Oh": "1",
+      "Dennis M O Brien": "1",
+      "James Williams": "1",
+      "Terry Tracy": "1",
+      "ward": 10,
+      "division": 18
+    },
+    {
+      "Candidate": "David Oh",
+      "Daniel Tinney": "1",
+      "David Oh": "0",
+      "Dennis M O Brien": "1",
+      "James Williams": "1",
+      "Terry Tracy": "1",
+      "ward": 10,
+      "division": 18
+    },
+    {
+      "Candidate": "Dennis M O Brien",
+      "Daniel Tinney": "1",
+      "David Oh": "1",
+      "Dennis M O Brien": "0",
+      "James Williams": "1",
+      "Terry Tracy": "1",
+      "ward": 10,
+      "division": 18
+    },
+    {
+      "Candidate": "James Williams",
+      "Daniel Tinney": "1",
+      "David Oh": "1",
+      "Dennis M O Brien": "1",
+      "James Williams": "0",
+      "Terry Tracy": "1",
+      "ward": 10,
+      "division": 18
+    },
+    {
+      "Candidate": "Terry Tracy",
+      "Daniel Tinney": "1",
+      "David Oh": "1",
+      "Dennis M O Brien": "1",
+      "James Williams": "1",
+      "Terry Tracy": "0",
+      "ward": 10,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "Daniel Tinney": "1",
+      "David Oh": "1",
+      "Dennis M O Brien": "1",
+      "James Williams": "1",
+      "Terry Tracy": "1",
+      "ward": 10,
+      "division": 18
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "David Oh": "David Oh",
+      "James Williams": "James Williams",
+      "Terry Tracy": "Terry Tracy",
+      "ward": 10,
+      "division": 23
+    },
+    {
+      "Candidate": "David Oh",
+      "David Oh": "0",
+      "James Williams": "1",
+      "Terry Tracy": "1",
+      "ward": 10,
+      "division": 23
+    },
+    {
+      "Candidate": "James Williams",
+      "David Oh": "1",
+      "James Williams": "0",
+      "Terry Tracy": "1",
+      "ward": 10,
+      "division": 23
+    },
+    {
+      "Candidate": "Terry Tracy",
+      "David Oh": "1",
+      "James Williams": "1",
+      "Terry Tracy": "0",
+      "ward": 10,
+      "division": 23
+    },
+    {
+      "Candidate": "Total",
+      "David Oh": "1",
+      "James Williams": "1",
+      "Terry Tracy": "1",
+      "ward": 10,
+      "division": 23
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "David Oh": "David Oh",
+      "ward": 10,
+      "division": 25
+    },
+    {
+      "Candidate": "David Oh",
+      "David Oh": "1",
+      "ward": 10,
+      "division": 25
+    },
+    {
+      "Candidate": "Total",
+      "David Oh": "1",
+      "ward": 10,
+      "division": 25
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "David Oh": "David Oh",
+      "James Williams": "James Williams",
+      "Terry Tracy": "Terry Tracy",
+      "ward": 10,
+      "division": 27
+    },
+    {
+      "Candidate": "David Oh",
+      "David Oh": "0",
+      "James Williams": "1",
+      "Terry Tracy": "1",
+      "ward": 10,
+      "division": 27
+    },
+    {
+      "Candidate": "James Williams",
+      "David Oh": "1",
+      "James Williams": "0",
+      "Terry Tracy": "1",
+      "ward": 10,
+      "division": 27
+    },
+    {
+      "Candidate": "Terry Tracy",
+      "David Oh": "1",
+      "James Williams": "1",
+      "Terry Tracy": "0",
+      "ward": 10,
+      "division": 27
+    },
+    {
+      "Candidate": "Total",
+      "David Oh": "1",
+      "James Williams": "1",
+      "Terry Tracy": "1",
+      "ward": 10,
+      "division": 27
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "David Oh": "David Oh",
+      "James Williams": "James Williams",
+      "Terry Tracy": "Terry Tracy",
+      "Al Taubenberger": "Al Taubenberger",
+      "Daniel Tinney": "Daniel Tinney",
+      "Dennis M O Brien": "Dennis M O Brien",
+      "Matt Wolfe": "Matt Wolfe",
+      "ward": 10,
+      "division": 29
+    },
+    {
+      "Candidate": "David Oh",
+      "David Oh": "1",
+      "James Williams": "2",
+      "Terry Tracy": "2",
+      "Al Taubenberger": "1",
+      "Daniel Tinney": "1",
+      "Dennis M O Brien": "1",
+      "Matt Wolfe": "1",
+      "ward": 10,
+      "division": 29
+    },
+    {
+      "Candidate": "James Williams",
+      "David Oh": "2",
+      "James Williams": "0",
+      "Terry Tracy": "2",
+      "Al Taubenberger": "1",
+      "Daniel Tinney": "1",
+      "Dennis M O Brien": "1",
+      "Matt Wolfe": "1",
+      "ward": 10,
+      "division": 29
+    },
+    {
+      "Candidate": "Terry Tracy",
+      "David Oh": "2",
+      "James Williams": "2",
+      "Terry Tracy": "0",
+      "Al Taubenberger": "1",
+      "Daniel Tinney": "1",
+      "Dennis M O Brien": "1",
+      "Matt Wolfe": "1",
+      "ward": 10,
+      "division": 29
+    },
+    {
+      "Candidate": "Al Taubenberger",
+      "David Oh": "1",
+      "James Williams": "1",
+      "Terry Tracy": "1",
+      "Al Taubenberger": "0",
+      "Daniel Tinney": "0",
+      "Dennis M O Brien": "1",
+      "Matt Wolfe": "0",
+      "ward": 10,
+      "division": 29
+    },
+    {
+      "Candidate": "Daniel Tinney",
+      "David Oh": "1",
+      "James Williams": "1",
+      "Terry Tracy": "1",
+      "Al Taubenberger": "0",
+      "Daniel Tinney": "0",
+      "Dennis M O Brien": "0",
+      "Matt Wolfe": "1",
+      "ward": 10,
+      "division": 29
+    },
+    {
+      "Candidate": "Dennis M O Brien",
+      "David Oh": "1",
+      "James Williams": "1",
+      "Terry Tracy": "1",
+      "Al Taubenberger": "1",
+      "Daniel Tinney": "0",
+      "Dennis M O Brien": "0",
+      "Matt Wolfe": "0",
+      "ward": 10,
+      "division": 29
+    },
+    {
+      "Candidate": "Matt Wolfe",
+      "David Oh": "1",
+      "James Williams": "1",
+      "Terry Tracy": "1",
+      "Al Taubenberger": "0",
+      "Daniel Tinney": "1",
+      "Dennis M O Brien": "0",
+      "Matt Wolfe": "0",
+      "ward": 10,
+      "division": 29
+    },
+    {
+      "Candidate": "Total",
+      "David Oh": "3",
+      "James Williams": "2",
+      "Terry Tracy": "2",
+      "Al Taubenberger": "1",
+      "Daniel Tinney": "1",
+      "Dennis M O Brien": "1",
+      "Matt Wolfe": "1",
+      "ward": 10,
+      "division": 29
+    }
+  ]
+]

@@ -1,0 +1,638 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Craig Stedman": "Craig Stedman",
+      "Emil Giordano": "Emil Giordano",
+      "Wade A Kagarise": "Wade A Kagarise",
+      "Mary Murray": "Mary Murray",
+      "Paula A Patrick": "Paula A Patrick",
+      "ward": 43,
+      "division": "All"
+    },
+    {
+      "Candidate": "Craig Stedman",
+      "Craig Stedman": "3",
+      "Emil Giordano": "8",
+      "Wade A Kagarise": "7",
+      "Mary Murray": "4",
+      "Paula A Patrick": "2",
+      "ward": 43,
+      "division": "All"
+    },
+    {
+      "Candidate": "Emil Giordano",
+      "Craig Stedman": "8",
+      "Emil Giordano": "1",
+      "Wade A Kagarise": "8",
+      "Mary Murray": "5",
+      "Paula A Patrick": "3",
+      "ward": 43,
+      "division": "All"
+    },
+    {
+      "Candidate": "Wade A Kagarise",
+      "Craig Stedman": "7",
+      "Emil Giordano": "8",
+      "Wade A Kagarise": "0",
+      "Mary Murray": "4",
+      "Paula A Patrick": "1",
+      "ward": 43,
+      "division": "All"
+    },
+    {
+      "Candidate": "Mary Murray",
+      "Craig Stedman": "4",
+      "Emil Giordano": "5",
+      "Wade A Kagarise": "4",
+      "Mary Murray": "2",
+      "Paula A Patrick": "2",
+      "ward": 43,
+      "division": "All"
+    },
+    {
+      "Candidate": "Paula A Patrick",
+      "Craig Stedman": "2",
+      "Emil Giordano": "3",
+      "Wade A Kagarise": "1",
+      "Mary Murray": "2",
+      "Paula A Patrick": "2",
+      "ward": 43,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Craig Stedman": "12",
+      "Emil Giordano": "11",
+      "Wade A Kagarise": "8",
+      "Mary Murray": "7",
+      "Paula A Patrick": "6",
+      "ward": 43,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Emil Giordano": "Emil Giordano",
+      "Paula A Patrick": "Paula A Patrick",
+      "ward": 43,
+      "division": 2
+    },
+    {
+      "Candidate": "Emil Giordano",
+      "Emil Giordano": "1",
+      "Paula A Patrick": "0",
+      "ward": 43,
+      "division": 2
+    },
+    {
+      "Candidate": "Paula A Patrick",
+      "Emil Giordano": "0",
+      "Paula A Patrick": "1",
+      "ward": 43,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "Emil Giordano": "1",
+      "Paula A Patrick": "1",
+      "ward": 43,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Emil Giordano": "Emil Giordano",
+      "Mary Murray": "Mary Murray",
+      "Paula A Patrick": "Paula A Patrick",
+      "Wade A Kagarise": "Wade A Kagarise",
+      "ward": 43,
+      "division": 5
+    },
+    {
+      "Candidate": "Emil Giordano",
+      "Emil Giordano": "0",
+      "Mary Murray": "1",
+      "Paula A Patrick": "1",
+      "Wade A Kagarise": "1",
+      "ward": 43,
+      "division": 5
+    },
+    {
+      "Candidate": "Mary Murray",
+      "Emil Giordano": "1",
+      "Mary Murray": "0",
+      "Paula A Patrick": "1",
+      "Wade A Kagarise": "1",
+      "ward": 43,
+      "division": 5
+    },
+    {
+      "Candidate": "Paula A Patrick",
+      "Emil Giordano": "1",
+      "Mary Murray": "1",
+      "Paula A Patrick": "0",
+      "Wade A Kagarise": "1",
+      "ward": 43,
+      "division": 5
+    },
+    {
+      "Candidate": "Wade A Kagarise",
+      "Emil Giordano": "1",
+      "Mary Murray": "1",
+      "Paula A Patrick": "1",
+      "Wade A Kagarise": "0",
+      "ward": 43,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Emil Giordano": "1",
+      "Mary Murray": "1",
+      "Paula A Patrick": "1",
+      "Wade A Kagarise": "1",
+      "ward": 43,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mary Murray": "Mary Murray",
+      "ward": 43,
+      "division": 7
+    },
+    {
+      "Candidate": "Mary Murray",
+      "Mary Murray": "1",
+      "ward": 43,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Mary Murray": "1",
+      "ward": 43,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Craig Stedman": "Craig Stedman",
+      "Emil Giordano": "Emil Giordano",
+      "Mary Murray": "Mary Murray",
+      "Paula A Patrick": "Paula A Patrick",
+      "ward": 43,
+      "division": 8
+    },
+    {
+      "Candidate": "Craig Stedman",
+      "Craig Stedman": "0",
+      "Emil Giordano": "1",
+      "Mary Murray": "1",
+      "Paula A Patrick": "1",
+      "ward": 43,
+      "division": 8
+    },
+    {
+      "Candidate": "Emil Giordano",
+      "Craig Stedman": "1",
+      "Emil Giordano": "0",
+      "Mary Murray": "1",
+      "Paula A Patrick": "1",
+      "ward": 43,
+      "division": 8
+    },
+    {
+      "Candidate": "Mary Murray",
+      "Craig Stedman": "1",
+      "Emil Giordano": "1",
+      "Mary Murray": "0",
+      "Paula A Patrick": "1",
+      "ward": 43,
+      "division": 8
+    },
+    {
+      "Candidate": "Paula A Patrick",
+      "Craig Stedman": "1",
+      "Emil Giordano": "1",
+      "Mary Murray": "1",
+      "Paula A Patrick": "0",
+      "ward": 43,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Craig Stedman": "1",
+      "Emil Giordano": "1",
+      "Mary Murray": "1",
+      "Paula A Patrick": "1",
+      "ward": 43,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Craig Stedman": "Craig Stedman",
+      "ward": 43,
+      "division": 9
+    },
+    {
+      "Candidate": "Craig Stedman",
+      "Craig Stedman": "1",
+      "ward": 43,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Craig Stedman": "1",
+      "ward": 43,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Craig Stedman": "Craig Stedman",
+      "Paula A Patrick": "Paula A Patrick",
+      "ward": 43,
+      "division": 12
+    },
+    {
+      "Candidate": "Craig Stedman",
+      "Craig Stedman": "0",
+      "Paula A Patrick": "1",
+      "ward": 43,
+      "division": 12
+    },
+    {
+      "Candidate": "Paula A Patrick",
+      "Craig Stedman": "1",
+      "Paula A Patrick": "0",
+      "ward": 43,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Craig Stedman": "1",
+      "Paula A Patrick": "1",
+      "ward": 43,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Craig Stedman": "Craig Stedman",
+      "ward": 43,
+      "division": 13
+    },
+    {
+      "Candidate": "Craig Stedman",
+      "Craig Stedman": "1",
+      "ward": 43,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "Craig Stedman": "1",
+      "ward": 43,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Craig Stedman": "Craig Stedman",
+      "ward": 43,
+      "division": 17
+    },
+    {
+      "Candidate": "Craig Stedman",
+      "Craig Stedman": "1",
+      "ward": 43,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "Craig Stedman": "1",
+      "ward": 43,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Craig Stedman": "Craig Stedman",
+      "Emil Giordano": "Emil Giordano",
+      "Wade A Kagarise": "Wade A Kagarise",
+      "Mary Murray": "Mary Murray",
+      "ward": 43,
+      "division": 18
+    },
+    {
+      "Candidate": "Craig Stedman",
+      "Craig Stedman": "0",
+      "Emil Giordano": "2",
+      "Wade A Kagarise": "2",
+      "Mary Murray": "0",
+      "ward": 43,
+      "division": 18
+    },
+    {
+      "Candidate": "Emil Giordano",
+      "Craig Stedman": "2",
+      "Emil Giordano": "0",
+      "Wade A Kagarise": "2",
+      "Mary Murray": "0",
+      "ward": 43,
+      "division": 18
+    },
+    {
+      "Candidate": "Wade A Kagarise",
+      "Craig Stedman": "2",
+      "Emil Giordano": "2",
+      "Wade A Kagarise": "0",
+      "Mary Murray": "0",
+      "ward": 43,
+      "division": 18
+    },
+    {
+      "Candidate": "Mary Murray",
+      "Craig Stedman": "0",
+      "Emil Giordano": "0",
+      "Wade A Kagarise": "0",
+      "Mary Murray": "1",
+      "ward": 43,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "Craig Stedman": "2",
+      "Emil Giordano": "2",
+      "Wade A Kagarise": "2",
+      "Mary Murray": "1",
+      "ward": 43,
+      "division": 18
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Emil Giordano": "Emil Giordano",
+      "Paula A Patrick": "Paula A Patrick",
+      "ward": 43,
+      "division": 19
+    },
+    {
+      "Candidate": "Emil Giordano",
+      "Emil Giordano": "0",
+      "Paula A Patrick": "1",
+      "ward": 43,
+      "division": 19
+    },
+    {
+      "Candidate": "Paula A Patrick",
+      "Emil Giordano": "1",
+      "Paula A Patrick": "0",
+      "ward": 43,
+      "division": 19
+    },
+    {
+      "Candidate": "Total",
+      "Emil Giordano": "1",
+      "Paula A Patrick": "1",
+      "ward": 43,
+      "division": 19
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Craig Stedman": "Craig Stedman",
+      "Emil Giordano": "Emil Giordano",
+      "Mary Murray": "Mary Murray",
+      "Wade A Kagarise": "Wade A Kagarise",
+      "ward": 43,
+      "division": 21
+    },
+    {
+      "Candidate": "Craig Stedman",
+      "Craig Stedman": "0",
+      "Emil Giordano": "1",
+      "Mary Murray": "1",
+      "Wade A Kagarise": "1",
+      "ward": 43,
+      "division": 21
+    },
+    {
+      "Candidate": "Emil Giordano",
+      "Craig Stedman": "1",
+      "Emil Giordano": "0",
+      "Mary Murray": "1",
+      "Wade A Kagarise": "1",
+      "ward": 43,
+      "division": 21
+    },
+    {
+      "Candidate": "Mary Murray",
+      "Craig Stedman": "1",
+      "Emil Giordano": "1",
+      "Mary Murray": "0",
+      "Wade A Kagarise": "1",
+      "ward": 43,
+      "division": 21
+    },
+    {
+      "Candidate": "Wade A Kagarise",
+      "Craig Stedman": "1",
+      "Emil Giordano": "1",
+      "Mary Murray": "1",
+      "Wade A Kagarise": "0",
+      "ward": 43,
+      "division": 21
+    },
+    {
+      "Candidate": "Total",
+      "Craig Stedman": "1",
+      "Emil Giordano": "1",
+      "Mary Murray": "1",
+      "Wade A Kagarise": "1",
+      "ward": 43,
+      "division": 21
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Craig Stedman": "Craig Stedman",
+      "Emil Giordano": "Emil Giordano",
+      "Mary Murray": "Mary Murray",
+      "Paula A Patrick": "Paula A Patrick",
+      "Wade A Kagarise": "Wade A Kagarise",
+      "ward": 43,
+      "division": 22
+    },
+    {
+      "Candidate": "Craig Stedman",
+      "Craig Stedman": "0",
+      "Emil Giordano": "1",
+      "Mary Murray": "1",
+      "Paula A Patrick": "0",
+      "Wade A Kagarise": "1",
+      "ward": 43,
+      "division": 22
+    },
+    {
+      "Candidate": "Emil Giordano",
+      "Craig Stedman": "1",
+      "Emil Giordano": "0",
+      "Mary Murray": "1",
+      "Paula A Patrick": "0",
+      "Wade A Kagarise": "1",
+      "ward": 43,
+      "division": 22
+    },
+    {
+      "Candidate": "Mary Murray",
+      "Craig Stedman": "1",
+      "Emil Giordano": "1",
+      "Mary Murray": "0",
+      "Paula A Patrick": "0",
+      "Wade A Kagarise": "1",
+      "ward": 43,
+      "division": 22
+    },
+    {
+      "Candidate": "Paula A Patrick",
+      "Craig Stedman": "0",
+      "Emil Giordano": "0",
+      "Mary Murray": "0",
+      "Paula A Patrick": "1",
+      "Wade A Kagarise": "0",
+      "ward": 43,
+      "division": 22
+    },
+    {
+      "Candidate": "Wade A Kagarise",
+      "Craig Stedman": "1",
+      "Emil Giordano": "1",
+      "Mary Murray": "1",
+      "Paula A Patrick": "0",
+      "Wade A Kagarise": "0",
+      "ward": 43,
+      "division": 22
+    },
+    {
+      "Candidate": "Total",
+      "Craig Stedman": "1",
+      "Emil Giordano": "1",
+      "Mary Murray": "1",
+      "Paula A Patrick": "1",
+      "Wade A Kagarise": "1",
+      "ward": 43,
+      "division": 22
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Craig Stedman": "Craig Stedman",
+      "Emil Giordano": "Emil Giordano",
+      "Wade A Kagarise": "Wade A Kagarise",
+      "ward": 43,
+      "division": 24
+    },
+    {
+      "Candidate": "Craig Stedman",
+      "Craig Stedman": "0",
+      "Emil Giordano": "1",
+      "Wade A Kagarise": "1",
+      "ward": 43,
+      "division": 24
+    },
+    {
+      "Candidate": "Emil Giordano",
+      "Craig Stedman": "1",
+      "Emil Giordano": "0",
+      "Wade A Kagarise": "1",
+      "ward": 43,
+      "division": 24
+    },
+    {
+      "Candidate": "Wade A Kagarise",
+      "Craig Stedman": "1",
+      "Emil Giordano": "1",
+      "Wade A Kagarise": "0",
+      "ward": 43,
+      "division": 24
+    },
+    {
+      "Candidate": "Total",
+      "Craig Stedman": "1",
+      "Emil Giordano": "1",
+      "Wade A Kagarise": "1",
+      "ward": 43,
+      "division": 24
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Craig Stedman": "Craig Stedman",
+      "Emil Giordano": "Emil Giordano",
+      "Wade A Kagarise": "Wade A Kagarise",
+      "Mary Murray": "Mary Murray",
+      "ward": 43,
+      "division": 25
+    },
+    {
+      "Candidate": "Craig Stedman",
+      "Craig Stedman": "0",
+      "Emil Giordano": "2",
+      "Wade A Kagarise": "2",
+      "Mary Murray": "1",
+      "ward": 43,
+      "division": 25
+    },
+    {
+      "Candidate": "Emil Giordano",
+      "Craig Stedman": "2",
+      "Emil Giordano": "0",
+      "Wade A Kagarise": "2",
+      "Mary Murray": "1",
+      "ward": 43,
+      "division": 25
+    },
+    {
+      "Candidate": "Wade A Kagarise",
+      "Craig Stedman": "2",
+      "Emil Giordano": "2",
+      "Wade A Kagarise": "0",
+      "Mary Murray": "1",
+      "ward": 43,
+      "division": 25
+    },
+    {
+      "Candidate": "Mary Murray",
+      "Craig Stedman": "1",
+      "Emil Giordano": "1",
+      "Wade A Kagarise": "1",
+      "Mary Murray": "0",
+      "ward": 43,
+      "division": 25
+    },
+    {
+      "Candidate": "Total",
+      "Craig Stedman": "2",
+      "Emil Giordano": "2",
+      "Wade A Kagarise": "2",
+      "Mary Murray": "1",
+      "ward": 43,
+      "division": 25
+    }
+  ]
+]

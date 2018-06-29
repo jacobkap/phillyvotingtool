@@ -1,0 +1,386 @@
+[
+  [
+    {
+      "Candidate": "",
+      "John J Taylor": "John J Taylor",
+      "Joe Hohenstein": "Joe Hohenstein",
+      "Write In": "Write In",
+      "ward": 64,
+      "division": "All"
+    },
+    {
+      "Candidate": "John J Taylor",
+      "John J Taylor": "2289",
+      "Joe Hohenstein": "0",
+      "Write In": "0",
+      "ward": 64,
+      "division": "All"
+    },
+    {
+      "Candidate": "Joe Hohenstein",
+      "John J Taylor": "0",
+      "Joe Hohenstein": "1676",
+      "Write In": "0",
+      "ward": 64,
+      "division": "All"
+    },
+    {
+      "Candidate": "Write In",
+      "John J Taylor": "0",
+      "Joe Hohenstein": "0",
+      "Write In": "1",
+      "ward": 64,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "John J Taylor": "2289",
+      "Joe Hohenstein": "1676",
+      "Write In": "1",
+      "ward": 64,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John J Taylor": "John J Taylor",
+      "Joe Hohenstein": "Joe Hohenstein",
+      "Write In": "Write In",
+      "ward": 64,
+      "division": 2
+    },
+    {
+      "Candidate": "John J Taylor",
+      "John J Taylor": "270",
+      "Joe Hohenstein": "0",
+      "Write In": "0",
+      "ward": 64,
+      "division": 2
+    },
+    {
+      "Candidate": "Joe Hohenstein",
+      "John J Taylor": "0",
+      "Joe Hohenstein": "229",
+      "Write In": "0",
+      "ward": 64,
+      "division": 2
+    },
+    {
+      "Candidate": "Write In",
+      "John J Taylor": "0",
+      "Joe Hohenstein": "0",
+      "Write In": "1",
+      "ward": 64,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "John J Taylor": "270",
+      "Joe Hohenstein": "229",
+      "Write In": "1",
+      "ward": 64,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John J Taylor": "John J Taylor",
+      "Joe Hohenstein": "Joe Hohenstein",
+      "ward": 64,
+      "division": 4
+    },
+    {
+      "Candidate": "John J Taylor",
+      "John J Taylor": "214",
+      "Joe Hohenstein": "0",
+      "ward": 64,
+      "division": 4
+    },
+    {
+      "Candidate": "Joe Hohenstein",
+      "John J Taylor": "0",
+      "Joe Hohenstein": "162",
+      "ward": 64,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "John J Taylor": "214",
+      "Joe Hohenstein": "162",
+      "ward": 64,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John J Taylor": "John J Taylor",
+      "Joe Hohenstein": "Joe Hohenstein",
+      "ward": 64,
+      "division": 6
+    },
+    {
+      "Candidate": "John J Taylor",
+      "John J Taylor": "223",
+      "Joe Hohenstein": "0",
+      "ward": 64,
+      "division": 6
+    },
+    {
+      "Candidate": "Joe Hohenstein",
+      "John J Taylor": "0",
+      "Joe Hohenstein": "153",
+      "ward": 64,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "John J Taylor": "223",
+      "Joe Hohenstein": "153",
+      "ward": 64,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John J Taylor": "John J Taylor",
+      "Joe Hohenstein": "Joe Hohenstein",
+      "ward": 64,
+      "division": 10
+    },
+    {
+      "Candidate": "John J Taylor",
+      "John J Taylor": "161",
+      "Joe Hohenstein": "0",
+      "ward": 64,
+      "division": 10
+    },
+    {
+      "Candidate": "Joe Hohenstein",
+      "John J Taylor": "0",
+      "Joe Hohenstein": "159",
+      "ward": 64,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "John J Taylor": "161",
+      "Joe Hohenstein": "159",
+      "ward": 64,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John J Taylor": "John J Taylor",
+      "Joe Hohenstein": "Joe Hohenstein",
+      "ward": 64,
+      "division": 11
+    },
+    {
+      "Candidate": "John J Taylor",
+      "John J Taylor": "206",
+      "Joe Hohenstein": "0",
+      "ward": 64,
+      "division": 11
+    },
+    {
+      "Candidate": "Joe Hohenstein",
+      "John J Taylor": "0",
+      "Joe Hohenstein": "127",
+      "ward": 64,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "John J Taylor": "206",
+      "Joe Hohenstein": "127",
+      "ward": 64,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Joe Hohenstein": "Joe Hohenstein",
+      "John J Taylor": "John J Taylor",
+      "ward": 64,
+      "division": 12
+    },
+    {
+      "Candidate": "Joe Hohenstein",
+      "Joe Hohenstein": "127",
+      "John J Taylor": "0",
+      "ward": 64,
+      "division": 12
+    },
+    {
+      "Candidate": "John J Taylor",
+      "Joe Hohenstein": "0",
+      "John J Taylor": "117",
+      "ward": 64,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Joe Hohenstein": "127",
+      "John J Taylor": "117",
+      "ward": 64,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John J Taylor": "John J Taylor",
+      "Joe Hohenstein": "Joe Hohenstein",
+      "ward": 64,
+      "division": 13
+    },
+    {
+      "Candidate": "John J Taylor",
+      "John J Taylor": "232",
+      "Joe Hohenstein": "0",
+      "ward": 64,
+      "division": 13
+    },
+    {
+      "Candidate": "Joe Hohenstein",
+      "John J Taylor": "0",
+      "Joe Hohenstein": "99",
+      "ward": 64,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "John J Taylor": "232",
+      "Joe Hohenstein": "99",
+      "ward": 64,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John J Taylor": "John J Taylor",
+      "Joe Hohenstein": "Joe Hohenstein",
+      "ward": 64,
+      "division": 14
+    },
+    {
+      "Candidate": "John J Taylor",
+      "John J Taylor": "174",
+      "Joe Hohenstein": "0",
+      "ward": 64,
+      "division": 14
+    },
+    {
+      "Candidate": "Joe Hohenstein",
+      "John J Taylor": "0",
+      "Joe Hohenstein": "108",
+      "ward": 64,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "John J Taylor": "174",
+      "Joe Hohenstein": "108",
+      "ward": 64,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John J Taylor": "John J Taylor",
+      "Joe Hohenstein": "Joe Hohenstein",
+      "ward": 64,
+      "division": 16
+    },
+    {
+      "Candidate": "John J Taylor",
+      "John J Taylor": "229",
+      "Joe Hohenstein": "0",
+      "ward": 64,
+      "division": 16
+    },
+    {
+      "Candidate": "Joe Hohenstein",
+      "John J Taylor": "0",
+      "Joe Hohenstein": "172",
+      "ward": 64,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "John J Taylor": "229",
+      "Joe Hohenstein": "172",
+      "ward": 64,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John J Taylor": "John J Taylor",
+      "Joe Hohenstein": "Joe Hohenstein",
+      "ward": 64,
+      "division": 17
+    },
+    {
+      "Candidate": "John J Taylor",
+      "John J Taylor": "182",
+      "Joe Hohenstein": "0",
+      "ward": 64,
+      "division": 17
+    },
+    {
+      "Candidate": "Joe Hohenstein",
+      "John J Taylor": "0",
+      "Joe Hohenstein": "121",
+      "ward": 64,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "John J Taylor": "182",
+      "Joe Hohenstein": "121",
+      "ward": 64,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John J Taylor": "John J Taylor",
+      "Joe Hohenstein": "Joe Hohenstein",
+      "ward": 64,
+      "division": 18
+    },
+    {
+      "Candidate": "John J Taylor",
+      "John J Taylor": "281",
+      "Joe Hohenstein": "0",
+      "ward": 64,
+      "division": 18
+    },
+    {
+      "Candidate": "Joe Hohenstein",
+      "John J Taylor": "0",
+      "Joe Hohenstein": "219",
+      "ward": 64,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "John J Taylor": "281",
+      "Joe Hohenstein": "219",
+      "ward": 64,
+      "division": 18
+    }
+  ]
+]

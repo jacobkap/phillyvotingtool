@@ -1,0 +1,902 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Josh Shapiro": "Josh Shapiro",
+      "John Rafferty": "John Rafferty",
+      "ward": 10,
+      "division": "All"
+    },
+    {
+      "Candidate": "Josh Shapiro",
+      "Josh Shapiro": "12121",
+      "John Rafferty": "0",
+      "ward": 10,
+      "division": "All"
+    },
+    {
+      "Candidate": "John Rafferty",
+      "Josh Shapiro": "0",
+      "John Rafferty": "183",
+      "ward": 10,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Josh Shapiro": "12121",
+      "John Rafferty": "183",
+      "ward": 10,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Josh Shapiro": "Josh Shapiro",
+      "John Rafferty": "John Rafferty",
+      "ward": 10,
+      "division": 1
+    },
+    {
+      "Candidate": "Josh Shapiro",
+      "Josh Shapiro": "405",
+      "John Rafferty": "0",
+      "ward": 10,
+      "division": 1
+    },
+    {
+      "Candidate": "John Rafferty",
+      "Josh Shapiro": "0",
+      "John Rafferty": "3",
+      "ward": 10,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Josh Shapiro": "405",
+      "John Rafferty": "3",
+      "ward": 10,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Josh Shapiro": "Josh Shapiro",
+      "John Rafferty": "John Rafferty",
+      "ward": 10,
+      "division": 2
+    },
+    {
+      "Candidate": "Josh Shapiro",
+      "Josh Shapiro": "528",
+      "John Rafferty": "0",
+      "ward": 10,
+      "division": 2
+    },
+    {
+      "Candidate": "John Rafferty",
+      "Josh Shapiro": "0",
+      "John Rafferty": "10",
+      "ward": 10,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "Josh Shapiro": "528",
+      "John Rafferty": "10",
+      "ward": 10,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Josh Shapiro": "Josh Shapiro",
+      "John Rafferty": "John Rafferty",
+      "ward": 10,
+      "division": 3
+    },
+    {
+      "Candidate": "Josh Shapiro",
+      "Josh Shapiro": "423",
+      "John Rafferty": "0",
+      "ward": 10,
+      "division": 3
+    },
+    {
+      "Candidate": "John Rafferty",
+      "Josh Shapiro": "0",
+      "John Rafferty": "8",
+      "ward": 10,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Josh Shapiro": "423",
+      "John Rafferty": "8",
+      "ward": 10,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Josh Shapiro": "Josh Shapiro",
+      "John Rafferty": "John Rafferty",
+      "ward": 10,
+      "division": 4
+    },
+    {
+      "Candidate": "Josh Shapiro",
+      "Josh Shapiro": "403",
+      "John Rafferty": "0",
+      "ward": 10,
+      "division": 4
+    },
+    {
+      "Candidate": "John Rafferty",
+      "Josh Shapiro": "0",
+      "John Rafferty": "7",
+      "ward": 10,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Josh Shapiro": "403",
+      "John Rafferty": "7",
+      "ward": 10,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Josh Shapiro": "Josh Shapiro",
+      "John Rafferty": "John Rafferty",
+      "ward": 10,
+      "division": 5
+    },
+    {
+      "Candidate": "Josh Shapiro",
+      "Josh Shapiro": "423",
+      "John Rafferty": "0",
+      "ward": 10,
+      "division": 5
+    },
+    {
+      "Candidate": "John Rafferty",
+      "Josh Shapiro": "0",
+      "John Rafferty": "3",
+      "ward": 10,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Josh Shapiro": "423",
+      "John Rafferty": "3",
+      "ward": 10,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Josh Shapiro": "Josh Shapiro",
+      "John Rafferty": "John Rafferty",
+      "ward": 10,
+      "division": 6
+    },
+    {
+      "Candidate": "Josh Shapiro",
+      "Josh Shapiro": "399",
+      "John Rafferty": "0",
+      "ward": 10,
+      "division": 6
+    },
+    {
+      "Candidate": "John Rafferty",
+      "Josh Shapiro": "0",
+      "John Rafferty": "6",
+      "ward": 10,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "Josh Shapiro": "399",
+      "John Rafferty": "6",
+      "ward": 10,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Josh Shapiro": "Josh Shapiro",
+      "John Rafferty": "John Rafferty",
+      "ward": 10,
+      "division": 7
+    },
+    {
+      "Candidate": "Josh Shapiro",
+      "Josh Shapiro": "391",
+      "John Rafferty": "0",
+      "ward": 10,
+      "division": 7
+    },
+    {
+      "Candidate": "John Rafferty",
+      "Josh Shapiro": "0",
+      "John Rafferty": "8",
+      "ward": 10,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Josh Shapiro": "391",
+      "John Rafferty": "8",
+      "ward": 10,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Josh Shapiro": "Josh Shapiro",
+      "John Rafferty": "John Rafferty",
+      "ward": 10,
+      "division": 8
+    },
+    {
+      "Candidate": "Josh Shapiro",
+      "Josh Shapiro": "407",
+      "John Rafferty": "0",
+      "ward": 10,
+      "division": 8
+    },
+    {
+      "Candidate": "John Rafferty",
+      "Josh Shapiro": "0",
+      "John Rafferty": "7",
+      "ward": 10,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Josh Shapiro": "407",
+      "John Rafferty": "7",
+      "ward": 10,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Josh Shapiro": "Josh Shapiro",
+      "John Rafferty": "John Rafferty",
+      "ward": 10,
+      "division": 9
+    },
+    {
+      "Candidate": "Josh Shapiro",
+      "Josh Shapiro": "423",
+      "John Rafferty": "0",
+      "ward": 10,
+      "division": 9
+    },
+    {
+      "Candidate": "John Rafferty",
+      "Josh Shapiro": "0",
+      "John Rafferty": "8",
+      "ward": 10,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Josh Shapiro": "423",
+      "John Rafferty": "8",
+      "ward": 10,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Josh Shapiro": "Josh Shapiro",
+      "John Rafferty": "John Rafferty",
+      "ward": 10,
+      "division": 10
+    },
+    {
+      "Candidate": "Josh Shapiro",
+      "Josh Shapiro": "356",
+      "John Rafferty": "0",
+      "ward": 10,
+      "division": 10
+    },
+    {
+      "Candidate": "John Rafferty",
+      "Josh Shapiro": "0",
+      "John Rafferty": "4",
+      "ward": 10,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Josh Shapiro": "356",
+      "John Rafferty": "4",
+      "ward": 10,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Josh Shapiro": "Josh Shapiro",
+      "John Rafferty": "John Rafferty",
+      "ward": 10,
+      "division": 11
+    },
+    {
+      "Candidate": "Josh Shapiro",
+      "Josh Shapiro": "411",
+      "John Rafferty": "0",
+      "ward": 10,
+      "division": 11
+    },
+    {
+      "Candidate": "John Rafferty",
+      "Josh Shapiro": "0",
+      "John Rafferty": "7",
+      "ward": 10,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Josh Shapiro": "411",
+      "John Rafferty": "7",
+      "ward": 10,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Josh Shapiro": "Josh Shapiro",
+      "John Rafferty": "John Rafferty",
+      "ward": 10,
+      "division": 12
+    },
+    {
+      "Candidate": "Josh Shapiro",
+      "Josh Shapiro": "451",
+      "John Rafferty": "0",
+      "ward": 10,
+      "division": 12
+    },
+    {
+      "Candidate": "John Rafferty",
+      "Josh Shapiro": "0",
+      "John Rafferty": "8",
+      "ward": 10,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Josh Shapiro": "451",
+      "John Rafferty": "8",
+      "ward": 10,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Josh Shapiro": "Josh Shapiro",
+      "John Rafferty": "John Rafferty",
+      "ward": 10,
+      "division": 13
+    },
+    {
+      "Candidate": "Josh Shapiro",
+      "Josh Shapiro": "538",
+      "John Rafferty": "0",
+      "ward": 10,
+      "division": 13
+    },
+    {
+      "Candidate": "John Rafferty",
+      "Josh Shapiro": "0",
+      "John Rafferty": "6",
+      "ward": 10,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "Josh Shapiro": "538",
+      "John Rafferty": "6",
+      "ward": 10,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Josh Shapiro": "Josh Shapiro",
+      "John Rafferty": "John Rafferty",
+      "ward": 10,
+      "division": 14
+    },
+    {
+      "Candidate": "Josh Shapiro",
+      "Josh Shapiro": "511",
+      "John Rafferty": "0",
+      "ward": 10,
+      "division": 14
+    },
+    {
+      "Candidate": "John Rafferty",
+      "Josh Shapiro": "0",
+      "John Rafferty": "10",
+      "ward": 10,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "Josh Shapiro": "511",
+      "John Rafferty": "10",
+      "ward": 10,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Josh Shapiro": "Josh Shapiro",
+      "John Rafferty": "John Rafferty",
+      "ward": 10,
+      "division": 15
+    },
+    {
+      "Candidate": "Josh Shapiro",
+      "Josh Shapiro": "379",
+      "John Rafferty": "0",
+      "ward": 10,
+      "division": 15
+    },
+    {
+      "Candidate": "John Rafferty",
+      "Josh Shapiro": "0",
+      "John Rafferty": "1",
+      "ward": 10,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "Josh Shapiro": "379",
+      "John Rafferty": "1",
+      "ward": 10,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Josh Shapiro": "Josh Shapiro",
+      "John Rafferty": "John Rafferty",
+      "ward": 10,
+      "division": 16
+    },
+    {
+      "Candidate": "Josh Shapiro",
+      "Josh Shapiro": "402",
+      "John Rafferty": "0",
+      "ward": 10,
+      "division": 16
+    },
+    {
+      "Candidate": "John Rafferty",
+      "Josh Shapiro": "0",
+      "John Rafferty": "6",
+      "ward": 10,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "Josh Shapiro": "402",
+      "John Rafferty": "6",
+      "ward": 10,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Josh Shapiro": "Josh Shapiro",
+      "John Rafferty": "John Rafferty",
+      "ward": 10,
+      "division": 17
+    },
+    {
+      "Candidate": "Josh Shapiro",
+      "Josh Shapiro": "395",
+      "John Rafferty": "0",
+      "ward": 10,
+      "division": 17
+    },
+    {
+      "Candidate": "John Rafferty",
+      "Josh Shapiro": "0",
+      "John Rafferty": "5",
+      "ward": 10,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "Josh Shapiro": "395",
+      "John Rafferty": "5",
+      "ward": 10,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Josh Shapiro": "Josh Shapiro",
+      "John Rafferty": "John Rafferty",
+      "ward": 10,
+      "division": 18
+    },
+    {
+      "Candidate": "Josh Shapiro",
+      "Josh Shapiro": "396",
+      "John Rafferty": "0",
+      "ward": 10,
+      "division": 18
+    },
+    {
+      "Candidate": "John Rafferty",
+      "Josh Shapiro": "0",
+      "John Rafferty": "4",
+      "ward": 10,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "Josh Shapiro": "396",
+      "John Rafferty": "4",
+      "ward": 10,
+      "division": 18
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Josh Shapiro": "Josh Shapiro",
+      "John Rafferty": "John Rafferty",
+      "ward": 10,
+      "division": 19
+    },
+    {
+      "Candidate": "Josh Shapiro",
+      "Josh Shapiro": "383",
+      "John Rafferty": "0",
+      "ward": 10,
+      "division": 19
+    },
+    {
+      "Candidate": "John Rafferty",
+      "Josh Shapiro": "0",
+      "John Rafferty": "5",
+      "ward": 10,
+      "division": 19
+    },
+    {
+      "Candidate": "Total",
+      "Josh Shapiro": "383",
+      "John Rafferty": "5",
+      "ward": 10,
+      "division": 19
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Josh Shapiro": "Josh Shapiro",
+      "John Rafferty": "John Rafferty",
+      "ward": 10,
+      "division": 20
+    },
+    {
+      "Candidate": "Josh Shapiro",
+      "Josh Shapiro": "446",
+      "John Rafferty": "0",
+      "ward": 10,
+      "division": 20
+    },
+    {
+      "Candidate": "John Rafferty",
+      "Josh Shapiro": "0",
+      "John Rafferty": "10",
+      "ward": 10,
+      "division": 20
+    },
+    {
+      "Candidate": "Total",
+      "Josh Shapiro": "446",
+      "John Rafferty": "10",
+      "ward": 10,
+      "division": 20
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Josh Shapiro": "Josh Shapiro",
+      "John Rafferty": "John Rafferty",
+      "ward": 10,
+      "division": 21
+    },
+    {
+      "Candidate": "Josh Shapiro",
+      "Josh Shapiro": "490",
+      "John Rafferty": "0",
+      "ward": 10,
+      "division": 21
+    },
+    {
+      "Candidate": "John Rafferty",
+      "Josh Shapiro": "0",
+      "John Rafferty": "9",
+      "ward": 10,
+      "division": 21
+    },
+    {
+      "Candidate": "Total",
+      "Josh Shapiro": "490",
+      "John Rafferty": "9",
+      "ward": 10,
+      "division": 21
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Josh Shapiro": "Josh Shapiro",
+      "John Rafferty": "John Rafferty",
+      "ward": 10,
+      "division": 22
+    },
+    {
+      "Candidate": "Josh Shapiro",
+      "Josh Shapiro": "324",
+      "John Rafferty": "0",
+      "ward": 10,
+      "division": 22
+    },
+    {
+      "Candidate": "John Rafferty",
+      "Josh Shapiro": "0",
+      "John Rafferty": "5",
+      "ward": 10,
+      "division": 22
+    },
+    {
+      "Candidate": "Total",
+      "Josh Shapiro": "324",
+      "John Rafferty": "5",
+      "ward": 10,
+      "division": 22
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Josh Shapiro": "Josh Shapiro",
+      "John Rafferty": "John Rafferty",
+      "ward": 10,
+      "division": 23
+    },
+    {
+      "Candidate": "Josh Shapiro",
+      "Josh Shapiro": "408",
+      "John Rafferty": "0",
+      "ward": 10,
+      "division": 23
+    },
+    {
+      "Candidate": "John Rafferty",
+      "Josh Shapiro": "0",
+      "John Rafferty": "4",
+      "ward": 10,
+      "division": 23
+    },
+    {
+      "Candidate": "Total",
+      "Josh Shapiro": "408",
+      "John Rafferty": "4",
+      "ward": 10,
+      "division": 23
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Josh Shapiro": "Josh Shapiro",
+      "John Rafferty": "John Rafferty",
+      "ward": 10,
+      "division": 24
+    },
+    {
+      "Candidate": "Josh Shapiro",
+      "Josh Shapiro": "371",
+      "John Rafferty": "0",
+      "ward": 10,
+      "division": 24
+    },
+    {
+      "Candidate": "John Rafferty",
+      "Josh Shapiro": "0",
+      "John Rafferty": "6",
+      "ward": 10,
+      "division": 24
+    },
+    {
+      "Candidate": "Total",
+      "Josh Shapiro": "371",
+      "John Rafferty": "6",
+      "ward": 10,
+      "division": 24
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Josh Shapiro": "Josh Shapiro",
+      "John Rafferty": "John Rafferty",
+      "ward": 10,
+      "division": 25
+    },
+    {
+      "Candidate": "Josh Shapiro",
+      "Josh Shapiro": "407",
+      "John Rafferty": "0",
+      "ward": 10,
+      "division": 25
+    },
+    {
+      "Candidate": "John Rafferty",
+      "Josh Shapiro": "0",
+      "John Rafferty": "1",
+      "ward": 10,
+      "division": 25
+    },
+    {
+      "Candidate": "Total",
+      "Josh Shapiro": "407",
+      "John Rafferty": "1",
+      "ward": 10,
+      "division": 25
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Josh Shapiro": "Josh Shapiro",
+      "John Rafferty": "John Rafferty",
+      "ward": 10,
+      "division": 26
+    },
+    {
+      "Candidate": "Josh Shapiro",
+      "Josh Shapiro": "431",
+      "John Rafferty": "0",
+      "ward": 10,
+      "division": 26
+    },
+    {
+      "Candidate": "John Rafferty",
+      "Josh Shapiro": "0",
+      "John Rafferty": "4",
+      "ward": 10,
+      "division": 26
+    },
+    {
+      "Candidate": "Total",
+      "Josh Shapiro": "431",
+      "John Rafferty": "4",
+      "ward": 10,
+      "division": 26
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Josh Shapiro": "Josh Shapiro",
+      "John Rafferty": "John Rafferty",
+      "ward": 10,
+      "division": 27
+    },
+    {
+      "Candidate": "Josh Shapiro",
+      "Josh Shapiro": "434",
+      "John Rafferty": "0",
+      "ward": 10,
+      "division": 27
+    },
+    {
+      "Candidate": "John Rafferty",
+      "Josh Shapiro": "0",
+      "John Rafferty": "9",
+      "ward": 10,
+      "division": 27
+    },
+    {
+      "Candidate": "Total",
+      "Josh Shapiro": "434",
+      "John Rafferty": "9",
+      "ward": 10,
+      "division": 27
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Josh Shapiro": "Josh Shapiro",
+      "John Rafferty": "John Rafferty",
+      "ward": 10,
+      "division": 28
+    },
+    {
+      "Candidate": "Josh Shapiro",
+      "Josh Shapiro": "365",
+      "John Rafferty": "0",
+      "ward": 10,
+      "division": 28
+    },
+    {
+      "Candidate": "John Rafferty",
+      "Josh Shapiro": "0",
+      "John Rafferty": "8",
+      "ward": 10,
+      "division": 28
+    },
+    {
+      "Candidate": "Total",
+      "Josh Shapiro": "365",
+      "John Rafferty": "8",
+      "ward": 10,
+      "division": 28
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Josh Shapiro": "Josh Shapiro",
+      "John Rafferty": "John Rafferty",
+      "ward": 10,
+      "division": 29
+    },
+    {
+      "Candidate": "Josh Shapiro",
+      "Josh Shapiro": "421",
+      "John Rafferty": "0",
+      "ward": 10,
+      "division": 29
+    },
+    {
+      "Candidate": "John Rafferty",
+      "Josh Shapiro": "0",
+      "John Rafferty": "11",
+      "ward": 10,
+      "division": 29
+    },
+    {
+      "Candidate": "Total",
+      "Josh Shapiro": "421",
+      "John Rafferty": "11",
+      "ward": 10,
+      "division": 29
+    }
+  ]
+]

@@ -1,0 +1,608 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Marissa Brumbach": "Marissa Brumbach",
+      "Matt Wolf": "Matt Wolf",
+      "Write In": "Write In",
+      "ward": 6,
+      "division": "All"
+    },
+    {
+      "Candidate": "Marissa Brumbach",
+      "Marissa Brumbach": "170",
+      "Matt Wolf": "1383",
+      "Write In": "1",
+      "ward": 6,
+      "division": "All"
+    },
+    {
+      "Candidate": "Matt Wolf",
+      "Marissa Brumbach": "1385",
+      "Matt Wolf": "108",
+      "Write In": "1",
+      "ward": 6,
+      "division": "All"
+    },
+    {
+      "Candidate": "Write In",
+      "Marissa Brumbach": "1",
+      "Matt Wolf": "1",
+      "Write In": "1",
+      "ward": 6,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Marissa Brumbach": "1583",
+      "Matt Wolf": "1518",
+      "Write In": "3",
+      "ward": 6,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Marissa Brumbach": "Marissa Brumbach",
+      "Matt Wolf": "Matt Wolf",
+      "Write In": "Write In",
+      "ward": 6,
+      "division": 1
+    },
+    {
+      "Candidate": "Marissa Brumbach",
+      "Marissa Brumbach": "25",
+      "Matt Wolf": "128",
+      "Write In": "1",
+      "ward": 6,
+      "division": 1
+    },
+    {
+      "Candidate": "Matt Wolf",
+      "Marissa Brumbach": "128",
+      "Matt Wolf": "12",
+      "Write In": "1",
+      "ward": 6,
+      "division": 1
+    },
+    {
+      "Candidate": "Write In",
+      "Marissa Brumbach": "1",
+      "Matt Wolf": "1",
+      "Write In": "0",
+      "ward": 6,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Marissa Brumbach": "154",
+      "Matt Wolf": "141",
+      "Write In": "2",
+      "ward": 6,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Marissa Brumbach": "Marissa Brumbach",
+      "Matt Wolf": "Matt Wolf",
+      "ward": 6,
+      "division": 2
+    },
+    {
+      "Candidate": "Marissa Brumbach",
+      "Marissa Brumbach": "9",
+      "Matt Wolf": "95",
+      "ward": 6,
+      "division": 2
+    },
+    {
+      "Candidate": "Matt Wolf",
+      "Marissa Brumbach": "95",
+      "Matt Wolf": "4",
+      "ward": 6,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "Marissa Brumbach": "104",
+      "Matt Wolf": "99",
+      "ward": 6,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Marissa Brumbach": "Marissa Brumbach",
+      "Matt Wolf": "Matt Wolf",
+      "Write In": "Write In",
+      "ward": 6,
+      "division": 3
+    },
+    {
+      "Candidate": "Marissa Brumbach",
+      "Marissa Brumbach": "22",
+      "Matt Wolf": "124",
+      "Write In": "0",
+      "ward": 6,
+      "division": 3
+    },
+    {
+      "Candidate": "Matt Wolf",
+      "Marissa Brumbach": "124",
+      "Matt Wolf": "8",
+      "Write In": "0",
+      "ward": 6,
+      "division": 3
+    },
+    {
+      "Candidate": "Write In",
+      "Marissa Brumbach": "0",
+      "Matt Wolf": "0",
+      "Write In": "1",
+      "ward": 6,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Marissa Brumbach": "146",
+      "Matt Wolf": "132",
+      "Write In": "1",
+      "ward": 6,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Marissa Brumbach": "Marissa Brumbach",
+      "Matt Wolf": "Matt Wolf",
+      "ward": 6,
+      "division": 4
+    },
+    {
+      "Candidate": "Marissa Brumbach",
+      "Marissa Brumbach": "6",
+      "Matt Wolf": "99",
+      "ward": 6,
+      "division": 4
+    },
+    {
+      "Candidate": "Matt Wolf",
+      "Marissa Brumbach": "99",
+      "Matt Wolf": "0",
+      "ward": 6,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Marissa Brumbach": "105",
+      "Matt Wolf": "99",
+      "ward": 6,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Marissa Brumbach": "Marissa Brumbach",
+      "Matt Wolf": "Matt Wolf",
+      "ward": 6,
+      "division": 5
+    },
+    {
+      "Candidate": "Marissa Brumbach",
+      "Marissa Brumbach": "2",
+      "Matt Wolf": "36",
+      "ward": 6,
+      "division": 5
+    },
+    {
+      "Candidate": "Matt Wolf",
+      "Marissa Brumbach": "38",
+      "Matt Wolf": "2",
+      "ward": 6,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Marissa Brumbach": "67",
+      "Matt Wolf": "64",
+      "ward": 6,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Marissa Brumbach": "Marissa Brumbach",
+      "Matt Wolf": "Matt Wolf",
+      "ward": 6,
+      "division": 6
+    },
+    {
+      "Candidate": "Marissa Brumbach",
+      "Marissa Brumbach": "11",
+      "Matt Wolf": "87",
+      "ward": 6,
+      "division": 6
+    },
+    {
+      "Candidate": "Matt Wolf",
+      "Marissa Brumbach": "87",
+      "Matt Wolf": "4",
+      "ward": 6,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "Marissa Brumbach": "98",
+      "Matt Wolf": "91",
+      "ward": 6,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Marissa Brumbach": "Marissa Brumbach",
+      "Matt Wolf": "Matt Wolf",
+      "ward": 6,
+      "division": 7
+    },
+    {
+      "Candidate": "Marissa Brumbach",
+      "Marissa Brumbach": "10",
+      "Matt Wolf": "92",
+      "ward": 6,
+      "division": 7
+    },
+    {
+      "Candidate": "Matt Wolf",
+      "Marissa Brumbach": "92",
+      "Matt Wolf": "5",
+      "ward": 6,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Marissa Brumbach": "102",
+      "Matt Wolf": "97",
+      "ward": 6,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Matt Wolf": "Matt Wolf",
+      "Marissa Brumbach": "Marissa Brumbach",
+      "ward": 6,
+      "division": 8
+    },
+    {
+      "Candidate": "Matt Wolf",
+      "Matt Wolf": "7",
+      "Marissa Brumbach": "43",
+      "ward": 6,
+      "division": 8
+    },
+    {
+      "Candidate": "Marissa Brumbach",
+      "Matt Wolf": "43",
+      "Marissa Brumbach": "6",
+      "ward": 6,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Matt Wolf": "50",
+      "Marissa Brumbach": "49",
+      "ward": 6,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Marissa Brumbach": "Marissa Brumbach",
+      "Matt Wolf": "Matt Wolf",
+      "ward": 6,
+      "division": 9
+    },
+    {
+      "Candidate": "Marissa Brumbach",
+      "Marissa Brumbach": "11",
+      "Matt Wolf": "61",
+      "ward": 6,
+      "division": 9
+    },
+    {
+      "Candidate": "Matt Wolf",
+      "Marissa Brumbach": "61",
+      "Matt Wolf": "4",
+      "ward": 6,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Marissa Brumbach": "72",
+      "Matt Wolf": "65",
+      "ward": 6,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Matt Wolf": "Matt Wolf",
+      "Marissa Brumbach": "Marissa Brumbach",
+      "ward": 6,
+      "division": 10
+    },
+    {
+      "Candidate": "Matt Wolf",
+      "Matt Wolf": "10",
+      "Marissa Brumbach": "47",
+      "ward": 6,
+      "division": 10
+    },
+    {
+      "Candidate": "Marissa Brumbach",
+      "Matt Wolf": "47",
+      "Marissa Brumbach": "5",
+      "ward": 6,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Matt Wolf": "57",
+      "Marissa Brumbach": "52",
+      "ward": 6,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Marissa Brumbach": "Marissa Brumbach",
+      "Matt Wolf": "Matt Wolf",
+      "ward": 6,
+      "division": 11
+    },
+    {
+      "Candidate": "Marissa Brumbach",
+      "Marissa Brumbach": "10",
+      "Matt Wolf": "93",
+      "ward": 6,
+      "division": 11
+    },
+    {
+      "Candidate": "Matt Wolf",
+      "Marissa Brumbach": "93",
+      "Matt Wolf": "9",
+      "ward": 6,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Marissa Brumbach": "103",
+      "Matt Wolf": "102",
+      "ward": 6,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Marissa Brumbach": "Marissa Brumbach",
+      "Matt Wolf": "Matt Wolf",
+      "ward": 6,
+      "division": 12
+    },
+    {
+      "Candidate": "Marissa Brumbach",
+      "Marissa Brumbach": "6",
+      "Matt Wolf": "51",
+      "ward": 6,
+      "division": 12
+    },
+    {
+      "Candidate": "Matt Wolf",
+      "Marissa Brumbach": "51",
+      "Matt Wolf": "6",
+      "ward": 6,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Marissa Brumbach": "57",
+      "Matt Wolf": "57",
+      "ward": 6,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Marissa Brumbach": "Marissa Brumbach",
+      "Matt Wolf": "Matt Wolf",
+      "ward": 6,
+      "division": 13
+    },
+    {
+      "Candidate": "Marissa Brumbach",
+      "Marissa Brumbach": "6",
+      "Matt Wolf": "58",
+      "ward": 6,
+      "division": 13
+    },
+    {
+      "Candidate": "Matt Wolf",
+      "Marissa Brumbach": "58",
+      "Matt Wolf": "5",
+      "ward": 6,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "Marissa Brumbach": "64",
+      "Matt Wolf": "63",
+      "ward": 6,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Marissa Brumbach": "Marissa Brumbach",
+      "Matt Wolf": "Matt Wolf",
+      "ward": 6,
+      "division": 14
+    },
+    {
+      "Candidate": "Marissa Brumbach",
+      "Marissa Brumbach": "10",
+      "Matt Wolf": "56",
+      "ward": 6,
+      "division": 14
+    },
+    {
+      "Candidate": "Matt Wolf",
+      "Marissa Brumbach": "56",
+      "Matt Wolf": "6",
+      "ward": 6,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "Marissa Brumbach": "66",
+      "Matt Wolf": "62",
+      "ward": 6,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Marissa Brumbach": "Marissa Brumbach",
+      "Matt Wolf": "Matt Wolf",
+      "ward": 6,
+      "division": 15
+    },
+    {
+      "Candidate": "Marissa Brumbach",
+      "Marissa Brumbach": "3",
+      "Matt Wolf": "73",
+      "ward": 6,
+      "division": 15
+    },
+    {
+      "Candidate": "Matt Wolf",
+      "Marissa Brumbach": "73",
+      "Matt Wolf": "3",
+      "ward": 6,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "Marissa Brumbach": "76",
+      "Matt Wolf": "76",
+      "ward": 6,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Marissa Brumbach": "Marissa Brumbach",
+      "Matt Wolf": "Matt Wolf",
+      "ward": 6,
+      "division": 16
+    },
+    {
+      "Candidate": "Marissa Brumbach",
+      "Marissa Brumbach": "10",
+      "Matt Wolf": "61",
+      "ward": 6,
+      "division": 16
+    },
+    {
+      "Candidate": "Matt Wolf",
+      "Marissa Brumbach": "61",
+      "Matt Wolf": "9",
+      "ward": 6,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "Marissa Brumbach": "71",
+      "Matt Wolf": "70",
+      "ward": 6,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Marissa Brumbach": "Marissa Brumbach",
+      "Matt Wolf": "Matt Wolf",
+      "ward": 6,
+      "division": 17
+    },
+    {
+      "Candidate": "Marissa Brumbach",
+      "Marissa Brumbach": "8",
+      "Matt Wolf": "83",
+      "ward": 6,
+      "division": 17
+    },
+    {
+      "Candidate": "Matt Wolf",
+      "Marissa Brumbach": "83",
+      "Matt Wolf": "6",
+      "ward": 6,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "Marissa Brumbach": "91",
+      "Matt Wolf": "89",
+      "ward": 6,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Marissa Brumbach": "Marissa Brumbach",
+      "Matt Wolf": "Matt Wolf",
+      "ward": 6,
+      "division": 18
+    },
+    {
+      "Candidate": "Marissa Brumbach",
+      "Marissa Brumbach": "10",
+      "Matt Wolf": "96",
+      "ward": 6,
+      "division": 18
+    },
+    {
+      "Candidate": "Matt Wolf",
+      "Marissa Brumbach": "96",
+      "Matt Wolf": "8",
+      "ward": 6,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "Marissa Brumbach": "106",
+      "Matt Wolf": "104",
+      "ward": 6,
+      "division": 18
+    }
+  ]
+]

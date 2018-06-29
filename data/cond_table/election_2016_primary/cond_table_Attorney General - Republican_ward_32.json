@@ -1,0 +1,542 @@
+[
+  [
+    {
+      "Candidate": "",
+      "John Rafferty": "John Rafferty",
+      "Joe Peters": "Joe Peters",
+      "ward": 32,
+      "division": "All"
+    },
+    {
+      "Candidate": "John Rafferty",
+      "John Rafferty": "45",
+      "Joe Peters": "0",
+      "ward": 32,
+      "division": "All"
+    },
+    {
+      "Candidate": "Joe Peters",
+      "John Rafferty": "0",
+      "Joe Peters": "17",
+      "ward": 32,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "John Rafferty": "45",
+      "Joe Peters": "17",
+      "ward": 32,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Rafferty": "John Rafferty",
+      "ward": 32,
+      "division": 2
+    },
+    {
+      "Candidate": "John Rafferty",
+      "John Rafferty": "2",
+      "ward": 32,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "John Rafferty": "2",
+      "ward": 32,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Joe Peters": "Joe Peters",
+      "ward": 32,
+      "division": 3
+    },
+    {
+      "Candidate": "Joe Peters",
+      "Joe Peters": "1",
+      "ward": 32,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Joe Peters": "1",
+      "ward": 32,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Joe Peters": "Joe Peters",
+      "ward": 32,
+      "division": 4
+    },
+    {
+      "Candidate": "Joe Peters",
+      "Joe Peters": "1",
+      "ward": 32,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Joe Peters": "1",
+      "ward": 32,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Joe Peters": "Joe Peters",
+      "John Rafferty": "John Rafferty",
+      "ward": 32,
+      "division": 5
+    },
+    {
+      "Candidate": "Joe Peters",
+      "Joe Peters": "1",
+      "John Rafferty": "0",
+      "ward": 32,
+      "division": 5
+    },
+    {
+      "Candidate": "John Rafferty",
+      "Joe Peters": "0",
+      "John Rafferty": "1",
+      "ward": 32,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Joe Peters": "1",
+      "John Rafferty": "1",
+      "ward": 32,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Rafferty": "John Rafferty",
+      "Joe Peters": "Joe Peters",
+      "ward": 32,
+      "division": 6
+    },
+    {
+      "Candidate": "John Rafferty",
+      "John Rafferty": "2",
+      "Joe Peters": "0",
+      "ward": 32,
+      "division": 6
+    },
+    {
+      "Candidate": "Joe Peters",
+      "John Rafferty": "0",
+      "Joe Peters": "1",
+      "ward": 32,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "John Rafferty": "2",
+      "Joe Peters": "1",
+      "ward": 32,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Rafferty": "John Rafferty",
+      "Joe Peters": "Joe Peters",
+      "ward": 32,
+      "division": 7
+    },
+    {
+      "Candidate": "John Rafferty",
+      "John Rafferty": "11",
+      "Joe Peters": "0",
+      "ward": 32,
+      "division": 7
+    },
+    {
+      "Candidate": "Joe Peters",
+      "John Rafferty": "0",
+      "Joe Peters": "3",
+      "ward": 32,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "John Rafferty": "11",
+      "Joe Peters": "3",
+      "ward": 32,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Rafferty": "John Rafferty",
+      "Joe Peters": "Joe Peters",
+      "ward": 32,
+      "division": 8
+    },
+    {
+      "Candidate": "John Rafferty",
+      "John Rafferty": "9",
+      "Joe Peters": "0",
+      "ward": 32,
+      "division": 8
+    },
+    {
+      "Candidate": "Joe Peters",
+      "John Rafferty": "0",
+      "Joe Peters": "1",
+      "ward": 32,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "John Rafferty": "9",
+      "Joe Peters": "1",
+      "ward": 32,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Rafferty": "John Rafferty",
+      "Joe Peters": "Joe Peters",
+      "ward": 32,
+      "division": 9
+    },
+    {
+      "Candidate": "John Rafferty",
+      "John Rafferty": "5",
+      "Joe Peters": "0",
+      "ward": 32,
+      "division": 9
+    },
+    {
+      "Candidate": "Joe Peters",
+      "John Rafferty": "0",
+      "Joe Peters": "2",
+      "ward": 32,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "John Rafferty": "5",
+      "Joe Peters": "2",
+      "ward": 32,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Rafferty": "John Rafferty",
+      "ward": 32,
+      "division": 10
+    },
+    {
+      "Candidate": "John Rafferty",
+      "John Rafferty": "2",
+      "ward": 32,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "John Rafferty": "2",
+      "ward": 32,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Rafferty": "John Rafferty",
+      "Joe Peters": "Joe Peters",
+      "ward": 32,
+      "division": 11
+    },
+    {
+      "Candidate": "John Rafferty",
+      "John Rafferty": "2",
+      "Joe Peters": "0",
+      "ward": 32,
+      "division": 11
+    },
+    {
+      "Candidate": "Joe Peters",
+      "John Rafferty": "0",
+      "Joe Peters": "1",
+      "ward": 32,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "John Rafferty": "2",
+      "Joe Peters": "1",
+      "ward": 32,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Rafferty": "John Rafferty",
+      "ward": 32,
+      "division": 14
+    },
+    {
+      "Candidate": "John Rafferty",
+      "John Rafferty": "2",
+      "ward": 32,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "John Rafferty": "2",
+      "ward": 32,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Joe Peters": "Joe Peters",
+      "John Rafferty": "John Rafferty",
+      "ward": 32,
+      "division": 15
+    },
+    {
+      "Candidate": "Joe Peters",
+      "Joe Peters": "1",
+      "John Rafferty": "0",
+      "ward": 32,
+      "division": 15
+    },
+    {
+      "Candidate": "John Rafferty",
+      "Joe Peters": "0",
+      "John Rafferty": "1",
+      "ward": 32,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "Joe Peters": "1",
+      "John Rafferty": "1",
+      "ward": 32,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Joe Peters": "Joe Peters",
+      "ward": 32,
+      "division": 16
+    },
+    {
+      "Candidate": "Joe Peters",
+      "Joe Peters": "1",
+      "ward": 32,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "Joe Peters": "1",
+      "ward": 32,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Rafferty": "John Rafferty",
+      "ward": 32,
+      "division": 17
+    },
+    {
+      "Candidate": "John Rafferty",
+      "John Rafferty": "1",
+      "ward": 32,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "John Rafferty": "1",
+      "ward": 32,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Rafferty": "John Rafferty",
+      "ward": 32,
+      "division": 18
+    },
+    {
+      "Candidate": "John Rafferty",
+      "John Rafferty": "1",
+      "ward": 32,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "John Rafferty": "1",
+      "ward": 32,
+      "division": 18
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Rafferty": "John Rafferty",
+      "Joe Peters": "Joe Peters",
+      "ward": 32,
+      "division": 20
+    },
+    {
+      "Candidate": "John Rafferty",
+      "John Rafferty": "3",
+      "Joe Peters": "0",
+      "ward": 32,
+      "division": 20
+    },
+    {
+      "Candidate": "Joe Peters",
+      "John Rafferty": "0",
+      "Joe Peters": "1",
+      "ward": 32,
+      "division": 20
+    },
+    {
+      "Candidate": "Total",
+      "John Rafferty": "3",
+      "Joe Peters": "1",
+      "ward": 32,
+      "division": 20
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Joe Peters": "Joe Peters",
+      "ward": 32,
+      "division": 21
+    },
+    {
+      "Candidate": "Joe Peters",
+      "Joe Peters": "1",
+      "ward": 32,
+      "division": 21
+    },
+    {
+      "Candidate": "Total",
+      "Joe Peters": "1",
+      "ward": 32,
+      "division": 21
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Joe Peters": "Joe Peters",
+      "ward": 32,
+      "division": 22
+    },
+    {
+      "Candidate": "Joe Peters",
+      "Joe Peters": "1",
+      "ward": 32,
+      "division": 22
+    },
+    {
+      "Candidate": "Total",
+      "Joe Peters": "1",
+      "ward": 32,
+      "division": 22
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Rafferty": "John Rafferty",
+      "ward": 32,
+      "division": 23
+    },
+    {
+      "Candidate": "John Rafferty",
+      "John Rafferty": "1",
+      "ward": 32,
+      "division": 23
+    },
+    {
+      "Candidate": "Total",
+      "John Rafferty": "1",
+      "ward": 32,
+      "division": 23
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Rafferty": "John Rafferty",
+      "ward": 32,
+      "division": 26
+    },
+    {
+      "Candidate": "John Rafferty",
+      "John Rafferty": "1",
+      "ward": 32,
+      "division": 26
+    },
+    {
+      "Candidate": "Total",
+      "John Rafferty": "1",
+      "ward": 32,
+      "division": 26
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Joe Peters": "Joe Peters",
+      "John Rafferty": "John Rafferty",
+      "ward": 32,
+      "division": 28
+    },
+    {
+      "Candidate": "Joe Peters",
+      "Joe Peters": "1",
+      "John Rafferty": "0",
+      "ward": 32,
+      "division": 28
+    },
+    {
+      "Candidate": "John Rafferty",
+      "Joe Peters": "0",
+      "John Rafferty": "1",
+      "ward": 32,
+      "division": 28
+    },
+    {
+      "Candidate": "Total",
+      "Joe Peters": "1",
+      "John Rafferty": "1",
+      "ward": 32,
+      "division": 28
+    }
+  ]
+]
