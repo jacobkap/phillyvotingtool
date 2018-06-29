@@ -20,7 +20,7 @@ function makeGraph(data) {
       visibility: [true],
       interactionModel: {},
       colors: ['#008837'],
-      strokeWidth: 1.3 // Width of lines
+      strokeWidth: 1.5
     });
   return (graph);
 }
@@ -73,19 +73,22 @@ function makeTable(div, data) {
   if (division == "0") {
     division = "All";
   }
-  data = _.filter(data[0], function(x) {
-    return x.division == division;
-  });
+  final_data = [];
+  for (var i = 0; i < data.length; i++) {
+    if (data[i][0].division == division) {
+      final_data.push(data[i]);
+    }
+  }
 
-  final_data = _.map(data, function(x) {
+  final_data = _.map(final_data[0], function(x) {
     return _.omit(x, ['division', 'ward']);
   });
 
   headers = _.keys(final_data[0]);
   z = [];
-  for (var i = 0; i < headers.length; i++) {
+  for (var n = 0; n < headers.length; n++) {
     z.push({
-      data: headers[i],
+      data: headers[n],
     });
   }
 
@@ -106,7 +109,7 @@ function makeTable(div, data) {
 }
 
 function updateTable() {
-  cand_data = getData("cond_cand");
+  cand_data = getData("cand_comb");
   table.destroy();
   $('#table').empty();
   table = makeTable("#table", cand_data);
@@ -116,9 +119,12 @@ function updateTable() {
   if (cand_comb_wards[$("#cand_comb_ward").val()] != "All") {
     title += ", Ward " + cand_comb_wards[$("#cand_comb_ward").val()];
   }
-//  subtitle = "Max number of selections: " + cand_comb_offices[$('#cand_comb_ballot_position').val()];
+  if (cand_comb_division[$("#cand_comb_division").val()] != "All") {
+    title += ", Division " + cand_comb_division[$("#cand_comb_division").val()];
+  }
+  //  subtitle = "Max number of selections: " + cand_comb_offices[$('#cand_comb_ballot_position').val()];
   $("#table_title").text(title);
-//  $("#table_subtitle").text(subtitle);
+  //  $("#table_subtitle").text(subtitle);
 }
 
 function updateGraph() {
@@ -194,7 +200,11 @@ function updateChart(type) {
           xAxes: [{
             ticks: {
               beginAtZero: true
-            }
+            },
+            scaleLabel: {
+  display: true,
+  labelString: '# of Votes'
+}
           }]
         },
         tooltips: {

@@ -103,11 +103,14 @@
      cand_comb_division = setDivisionDropdown("#cand_comb_ward", "#cand_comb_division", cand_comb_wards)
 
 
-      cand_data = getData("cond_cand");
+      cand_data = getData("cand_comb");
       table = makeTable("#table", cand_data);
       title = cand_comb_offices[$('#cand_comb_ballot_position').val()];
       if (cand_comb_wards[$("#cand_comb_ward").val()] != "All") {
             title += ", Ward " + cand_comb_wards[$("#cand_comb_ward").val()];
+      }
+      if (cand_comb_division[$("#cand_comb_division").val()] != "All") {
+        title += ", Division " + cand_comb_division[$("#cand_comb_division").val()];
       }
     //  subtitle = "Max number of selections: " + cand_comb_offices[$('#cand_comb_ballot_position').val()];
       $("#table_title").text(title);

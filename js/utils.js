@@ -52,6 +52,7 @@ function setOffices(type, election_dropdown, ballot_dropdown) {
 }
 
 function getOffices(type, election_dropdown, max_choices = false) {
+  old_type = "";
   if (type == "results") {
    type = "election_results";
  } else if (type == "cand_comb") {
@@ -106,8 +107,8 @@ function getData(type) {
     office_dropdown = "#choices_ballot_position";
     election_dropdown = "#choices_election";
     elections = num_selected_elections;
-  } else if (type == "cond_cand") {
-    folder = "cond_table";
+  } else if (type == "cand_comb") {
+    folder = "cand_comb";
     office_dropdown = "#cand_comb_ballot_position";
     election_dropdown = "#cand_comb_election";
     elections = elections;
@@ -118,12 +119,15 @@ function getData(type) {
   election = election.toLowerCase().replace(" ", "_");
   election = election.replace(" ", "_");
   url = "https://raw.githubusercontent.com/jacobkap/phillyvotingtool/master/data/";
+  if (type == "cand_comb") {
+    folder = "cond_table";
+  }
   url += folder + "/election_";
   url += election + "/";
   url += folder + "_";
   url += office_options[$(office_dropdown).val()];
 
-if (type == "cond_cand") {
+if (type == "cand_comb") {
   url += "_ward_" + cand_comb_wards[$("#cand_comb_ward").val()];
 }
   url += ".json";
