@@ -53,7 +53,7 @@ function whenClicked(e) {
     timeChange();
   }
   if (e.sourceTarget._mapToAdd._container.id == "cand_comb_map_div") {
-    updateTable();
+    candCombChange();
   }
 }
 
