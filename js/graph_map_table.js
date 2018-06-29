@@ -67,24 +67,40 @@ function onEachFeature(feature, layer) {
 
 
 
-function makeTable(div, data, headers) {
+function makeTable(div, data) {
 
+  division = cand_comb_division[$("#cand_comb_division").val()];
+  if (division == "0") {
+    division = "All";
+  }
+  data = _.filter(data[0], function(x) {
+    return x.division == division;
+  });
+
+  final_data = _.map(data, function(x) {
+    return _.omit(x, ['division', 'ward']);
+  });
+
+  headers = _.keys(final_data[0]);
   z = [];
   for (var i = 0; i < headers.length; i++) {
     z.push({
-      title: headers[i],
+      data: headers[i],
     });
   }
 
   var table = $(div).DataTable({
-    data: data,
+    data: final_data,
     columns: z,
     "ordering": false,
     "searching": false,
     "bInfo": false,
     "bPaginate": false, //hide pagination control
     "bFilter": false, //hide filter control
-    "lengthChange": false
+    "lengthChange": false,
+    "scrollX": true,
+    "sScrollXInner": "100%",
+    "sScrollX": "100%",
   });
   return table;
 }
@@ -93,16 +109,16 @@ function updateTable() {
   cand_data = getData("cond_cand");
   table.destroy();
   $('#table').empty();
-  table = makeTable("#table", cand_data, cand_data[0]);
+  table = makeTable("#table", cand_data);
 
 
-  title = all_offices[$('#cand_comb_ballot_position').val()];
-  if (wards[$("#cand_comb_ward").val()] != "All") {
-    title += ", Ward " + wards[$("#cand_comb_ward").val()];
+  title = cand_comb_offices[$('#cand_comb_ballot_position').val()];
+  if (cand_comb_wards[$("#cand_comb_ward").val()] != "All") {
+    title += ", Ward " + cand_comb_wards[$("#cand_comb_ward").val()];
   }
-  subtitle = "Max number of selections: " + mult_offices_choices[$('#cand_comb_ballot_position').val()];
+//  subtitle = "Max number of selections: " + cand_comb_offices[$('#cand_comb_ballot_position').val()];
   $("#table_title").text(title);
-  $("#table_subtitle").text(subtitle);
+//  $("#table_subtitle").text(subtitle);
 }
 
 function updateGraph() {

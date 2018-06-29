@@ -18,12 +18,12 @@ function resultsOfficeChange() {
 }
 
 function resultsChange() {
-  setDivisionDropdown("#results_ward", "#results_division");
+  setDivisionDropdown("#results_ward", "#results_division", results_wards);
   updateChart('results');
 }
 
 function choicesChange() {
-  setDivisionDropdown("#choices_ward", "#choices_division");
+  setDivisionDropdown("#choices_ward", "#choices_division", choices_wards);
   updateChart('choices');
 }
 
@@ -57,6 +57,31 @@ function timeElectionChange() {
 }
 
 function timeChange() {
-  setDivisionDropdown("#time_ward", "#time_division");
+  setDivisionDropdown("#time_ward", "#time_division",time_wards);
   graph = updateGraph();
+}
+
+function candCombElectionChange() {
+  cand_comb_offices = setOffices("cand_comb", "#cand_comb_election", "#cand_comb_ballot_position");
+  $('#cand_comb_ward').empty();
+  cand_comb_wards = getWards("cand_comb", "#cand_comb_election", "#cand_comb_ballot_position", cand_comb_offices);
+  $.each(cand_comb_wards, function(val, text) {
+            $('#cand_comb_ward').append( new Option(text,val) );
+  });
+
+  candCombChange();
+}
+
+function candCombOfficeChange() {
+  $('#cand_comb_ward').empty();
+  cand_comb_wards = getWards("cand_comb", "#cand_comb_election", "#cand_comb_ballot_position", cand_comb_offices);
+  $.each(cand_comb_wards, function(val, text) {
+            $('#cand_comb_ward').append( new Option(text,val) );
+  });
+  candCombChange();
+}
+
+function candCombChange() {
+ cand_comb_division = setDivisionDropdown("#cand_comb_ward", "#cand_comb_division", cand_comb_wards);
+  updateTable();
 }

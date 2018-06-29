@@ -32,6 +32,7 @@ num_selected_elections = [
   "2012 Primary"
 ];
 
+/*
 wards = [
 "All",
 1, 2, 3, 4, 5, 6, 7, 8, 9,
@@ -42,6 +43,7 @@ wards = [
 50, 51, 52, 53, 54, 55, 56, 57, 58, 59,
 60, 61, 62, 63, 64, 65, 66
 ];
+*/
 
 all_offices = [
  "City Controller - Democrat" ,

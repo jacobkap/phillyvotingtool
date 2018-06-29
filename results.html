@@ -101,7 +101,7 @@
     $.each(results_wards, function(val, text) {
               $('#results_ward').append( new Option(text,val) );
    });
-   setDivisionDropdown("#results_ward", "#results_division")
+   setDivisionDropdown("#results_ward", "#results_division", results_wards)
    results_data = getData("results");
    results_data = subsetData(results_data, "results");
    results_data = formatData(results_data, "results");

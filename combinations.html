@@ -45,15 +45,15 @@
       <div class="column sidebar" style="background-color:#aaa;">
         <h3>Select an Election:</h3>
         <br>
-        <select class="simple-select" id="cand_comb_election" onchange="combElectionChange()"></select>
+        <select class="simple-select" id="cand_comb_election" onchange="candCombElectionChange()"></select>
       <br><br>
   <h3>Select a Office:</h3>
   <br>
-  <select class="simple-select" id="cand_comb_ballot_position" onchange="updateTable()"></select>
+  <select class="simple-select" id="cand_comb_ballot_position" onchange="candCombOfficeChange()"></select>
   <br><br>
   <h3>Select a voting ward:</h3>
   <br>
-  <select class="simple-select" id="cand_comb_ward" onchange="updateTable()"></select>
+  <select class="simple-select" id="cand_comb_ward" onchange="candCombChange()"></select>
   <br><br>
   <h3>Select a voting division:</h3>
   <br>
@@ -81,14 +81,14 @@
   <div class="column main">
     <div id="loader"></div>
     <br>
-  <h4 id="table_title" align="center">title</h4>
-  <br>
-  <h5 id="table_subtitle" align="center">subtitle</h5>
+  <h4 id="table_title" align="center"></h4>
+  <!-- <br>
+   <h5 id="table_subtitle" align="center">subtitle</h5> -->
   <table id="table" class="display cell-border"></table>
 
   <script>
-
     $(document).ready(function(){
+        $('.simple-select').chosen();
       resizeChosen();
       jQuery(window).on('resize', resizeChosen);
       $.each(elections, function(val, text) {
@@ -96,21 +96,22 @@
       });
 
       cand_comb_offices = setOffices("cand_comb", "#cand_comb_election", "#cand_comb_ballot_position")
-      cand_comb_wards = getWards("cand_comb", "#cand_comb_election", "#cand_comb_ballot_position", results_offices)
+      cand_comb_wards = getWards("cand_comb", "#cand_comb_election", "#cand_comb_ballot_position", cand_comb_offices)
       $.each(cand_comb_wards, function(val, text) {
                 $('#cand_comb_ward').append( new Option(text,val) );
       });
+     cand_comb_division = setDivisionDropdown("#cand_comb_ward", "#cand_comb_division", cand_comb_wards)
 
 
       cand_data = getData("cond_cand");
-      table = makeTable("#table", cand_data, cand_data[0]);
-      title = all_offices[$('#cand_comb_ballot_position').val()];
-      if (wards[$("#cand_comb_ward").val()] != "All") {
-            title += ", Ward " + wards[$("#cand_comb_ward").val()];
+      table = makeTable("#table", cand_data);
+      title = cand_comb_offices[$('#cand_comb_ballot_position').val()];
+      if (cand_comb_wards[$("#cand_comb_ward").val()] != "All") {
+            title += ", Ward " + cand_comb_wards[$("#cand_comb_ward").val()];
       }
-      subtitle = "Max number of selections: " + mult_offices_choices[$('#cand_comb_ballot_position').val()];
+    //  subtitle = "Max number of selections: " + cand_comb_offices[$('#cand_comb_ballot_position').val()];
       $("#table_title").text(title);
-      $("#table_subtitle").text(subtitle);
+    //  $("#table_subtitle").text(subtitle);
 
 $("#table").ready($("#loader").hide())
 

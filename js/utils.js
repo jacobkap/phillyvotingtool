@@ -14,7 +14,7 @@ function resizeChosen() {
   });
 }
 
-function setDivisionDropdown(ward_dropdown, division_dropdown) {
+function setDivisionDropdown(ward_dropdown, division_dropdown, wards) {
   $(division_dropdown).empty();
   temp_division = ["All"];
   ward_num = wards[$(ward_dropdown).val()];
@@ -34,6 +34,8 @@ function setDivisionDropdown(ward_dropdown, division_dropdown) {
   $(division_dropdown).val(0);
   $('.simple-select').chosen();
   $('.simple-select').trigger('chosen:updated');
+
+  return temp_division;
 }
 
 function setOffices(type, election_dropdown, ballot_dropdown) {
@@ -52,7 +54,10 @@ function setOffices(type, election_dropdown, ballot_dropdown) {
 function getOffices(type, election_dropdown, max_choices = false) {
   if (type == "results") {
    type = "election_results";
-  }
+ } else if (type == "cand_comb") {
+   old_type = "cand_comb";
+   type = "cond_table";
+ }
   url = "https://raw.githubusercontent.com/jacobkap/phillyvotingtool/master/data/";
   url += type + "/election_";
   if (type == "num_selected") {
@@ -63,6 +68,10 @@ function getOffices(type, election_dropdown, max_choices = false) {
   election = election.toLowerCase().replace(" ", "_");
   election = election.replace(" ", "_");
   url += election + "/";
+
+  if (old_type == "cand_comb") {
+    type = "cand_comb";
+  }
   url += type + "_" + "office_choices.json";
   var data = $.getJSON({
     url: url,
@@ -100,6 +109,8 @@ function getData(type) {
   } else if (type == "cond_cand") {
     folder = "cond_table";
     office_dropdown = "#cand_comb_ballot_position";
+    election_dropdown = "#cand_comb_election";
+    elections = elections;
   }
 
   office_options = getOffices(folder, election_dropdown);
@@ -111,6 +122,10 @@ function getData(type) {
   url += election + "/";
   url += folder + "_";
   url += office_options[$(office_dropdown).val()];
+
+if (type == "cond_cand") {
+  url += "_ward_" + cand_comb_wards[$("#cand_comb_ward").val()];
+}
   url += ".json";
 
   var data = $.getJSON({
@@ -131,6 +146,8 @@ function getData(type) {
 function getWards(type, election_dropdown, office_dropdown, offices) {
   if (type == "num_selected") {
     elections = num_selected_elections;
+  } else if (type == "cand_comb") {
+    type = "cond_table";
   }
   election = elections[$(election_dropdown).val()];
   election = election.toLowerCase().replace(" ", "_");

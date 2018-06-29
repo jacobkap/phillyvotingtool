@@ -101,7 +101,7 @@ $.each(choices_wards, function(val, text) {
   });
   $('#choices_ward').val(0);
   $('.simple-select').chosen();
-  setDivisionDropdown("#choices_ward", "#choices_division")
+  setDivisionDropdown("#choices_ward", "#choices_division", choices_wards)
 
   choices_data = getData("choices")
   choices_data = subsetData(choices_data, "choices");
