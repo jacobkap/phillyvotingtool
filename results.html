@@ -102,48 +102,9 @@
               $('#results_ward').append( new Option(text,val) );
    });
    setDivisionDropdown("#results_ward", "#results_division", results_wards)
-   results_data = getData("results");
-   results_data = subsetData(results_data, "results");
-   results_data = formatData(results_data, "results");
-   title_text = results_data[1];
-   results_data = results_data[0];
-
    ctx_results = document.getElementById("results_chart").getContext('2d');
-   results_chart = new Chart(ctx_results, {
-     type: 'horizontalBar',
-     data: results_data,
-     options: {
-       legend: {
-         display: false
-       },
-       title: {
-         display: true,
-         position: 'top',
-         text: title_text,
-         fontSize: 14
-       },
-       scales: {
-         xAxes: [{
-           ticks: {
-             beginAtZero: true
-           },
-           scaleLabel: {
-       display: true,
-       labelString: '# of Votes'
-     }
-         }]
-       },
-       tooltips: {
-         enabled: true,
-         mode: 'single',
-         callbacks: {
-           label: function(tooltipItems, data) {
-             return ' Votes: ' + tooltipItems.xLabel;
-           }
-         }
-       }
-     }
-   });
+   makeChart('results');
+
    $("#results_chart").ready($("#loader").hide())
    jQuery(window).on('resize', resizeChosen);
 });

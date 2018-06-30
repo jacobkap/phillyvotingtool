@@ -102,49 +102,13 @@ $.each(choices_wards, function(val, text) {
   $('#choices_ward').val(0);
   $('.simple-select').chosen();
   setDivisionDropdown("#choices_ward", "#choices_division", choices_wards)
-
-  choices_data = getData("choices")
-  choices_data = subsetData(choices_data, "choices");
-  choices_data = formatData(choices_data, "choices");
-  title_text = choices_data[1]
-  choices_data = choices_data[0]
-
-  ctx_choices = document.getElementById("choices_chart").getContext('2d');
-  choices_chart = new Chart(ctx_choices, {
-    type: 'bar',
-    data: choices_data,
-    options: {
-      legend: {
-        display: false
-      },
-      title: {
-        display: true,
-        position: 'top',
-        text: title_text,
-        fontSize: 14
-      },
-      scales: {
-        yAxes: [{
-          ticks: {
-            beginAtZero: true
-          }
-        }]
-      },
-      tooltips: {
-        enabled: true,
-        mode: 'single',
-        callbacks: {
-          label: function(tooltipItems, data) {
-            return ' % who voted for ' + tooltipItems.xLabel + " choices:" + tooltipItems.yLabel;
-          }
-        }
-      }
-    }
-  });
+    ctx_choices = document.getElementById("choices_chart").getContext('2d');
+  makeChart('choices');
 
  $("#choices_chart").ready($("#loader").hide())
  jQuery(window).on('resize', resizeChosen);
 });
+
 </script>
 </div>
 

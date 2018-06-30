@@ -168,11 +168,11 @@ body {
 
 .topnav a:hover {
   background-color: #ddd;
-  color: black;
+  color: #243743;
 }
 
 .topnav a.active {
-  background-color: #4CAF50;
+  background-color: #28b78d;
   color: white;
 }
 

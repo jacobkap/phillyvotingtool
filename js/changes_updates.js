@@ -19,12 +19,12 @@ function resultsOfficeChange() {
 
 function resultsChange() {
   setDivisionDropdown("#results_ward", "#results_division", results_wards);
-  updateChart('results');
+  updateChart(results_chart, 'results');
 }
 
 function choicesChange() {
   setDivisionDropdown("#choices_ward", "#choices_division", choices_wards);
-  updateChart('choices');
+  updateChart(choices_chart, 'choices');
 }
 
 function choicesOfficeChange() {

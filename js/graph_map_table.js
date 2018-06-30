@@ -103,7 +103,7 @@ function makeTable(div, data) {
     "lengthChange": false,
     "scrollX": true,
     "sScrollXInner": "100%",
-    "sScrollX": "100%",
+    "sScrollX": "100%"
   });
   return table;
 }
@@ -134,7 +134,12 @@ function updateGraph() {
   return (graph);
 }
 
-function updateChart(type) {
+function updateChart(chart, type) {
+  chart.destroy();
+  makeChart(type);
+}
+
+function makeChart(type) {
 
   data = getData(type);
   data = subsetData(data, type);
@@ -145,7 +150,6 @@ function updateChart(type) {
   if (type == "choices") {
     chart_div = ctx_choices;
     chart_type = "bar";
-    choices_chart.destroy();
     choices_chart = new Chart(chart_div, {
       type: chart_type,
       data: data,
@@ -163,8 +167,18 @@ function updateChart(type) {
           yAxes: [{
             ticks: {
               beginAtZero: true
-            }
-          }]
+            },
+            scaleLabel: {
+        display: true,
+        labelString: '% of Votes'
+      }
+    }],
+    xAxes: [{
+      scaleLabel: {
+  display: true,
+  labelString: '# of Selections Made'
+}
+}]
         },
         tooltips: {
           enabled: true,
@@ -182,7 +196,6 @@ function updateChart(type) {
 
     chart_type = "horizontalBar";
     chart_div = ctx_results;
-    results_chart.destroy();
     results_chart = new Chart(chart_div, {
       type: chart_type,
       data: data,
@@ -199,12 +212,18 @@ function updateChart(type) {
         scales: {
           xAxes: [{
             ticks: {
-              beginAtZero: true
+              beginAtZero: true,
+              userCallback: function(value, index, values) {
+                value = value.toString();
+                value = value.split(/(?=(?:...)*$)/);
+                value = value.join(',');
+                return value;
+              }
             },
             scaleLabel: {
-  display: true,
-  labelString: '# of Votes'
-}
+              display: true,
+              labelString: '# of Votes'
+            }
           }]
         },
         tooltips: {
@@ -212,7 +231,11 @@ function updateChart(type) {
           mode: 'single',
           callbacks: {
             label: function(tooltipItems, data) {
-              return ' Votes: ' + tooltipItems.xLabel;
+              value = tooltipItems.xLabel;
+              value = value.toString();
+              value = value.split(/(?=(?:...)*$)/);
+              value = value.join(',');
+              return value;
             }
           }
         }
