@@ -1,0 +1,970 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Eugene A Depasquale": "Eugene A Depasquale",
+      "John Brown": "John Brown",
+      "John J Sweeney": "John J Sweeney",
+      "Roy A Minet": "Roy A Minet",
+      "ward": 44,
+      "division": "All"
+    },
+    {
+      "Candidate": "Eugene A Depasquale",
+      "Eugene A Depasquale": "5,787",
+      "John Brown": "0",
+      "John J Sweeney": "0",
+      "Roy A Minet": "0",
+      "ward": 44,
+      "division": "All"
+    },
+    {
+      "Candidate": "John Brown",
+      "Eugene A Depasquale": "",
+      "John Brown": "119",
+      "John J Sweeney": "0",
+      "Roy A Minet": "0",
+      "ward": 44,
+      "division": "All"
+    },
+    {
+      "Candidate": "John J Sweeney",
+      "Eugene A Depasquale": "",
+      "John Brown": "",
+      "John J Sweeney": "60",
+      "Roy A Minet": "0",
+      "ward": 44,
+      "division": "All"
+    },
+    {
+      "Candidate": "Roy A Minet",
+      "Eugene A Depasquale": "",
+      "John Brown": "",
+      "John J Sweeney": "",
+      "Roy A Minet": "16",
+      "ward": 44,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Eugene A Depasquale": "5,787",
+      "John Brown": "119",
+      "John J Sweeney": "60",
+      "Roy A Minet": "16",
+      "ward": 44,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Eugene A Depasquale": "Eugene A Depasquale",
+      "John Brown": "John Brown",
+      "John J Sweeney": "John J Sweeney",
+      "ward": 44,
+      "division": 1
+    },
+    {
+      "Candidate": "Eugene A Depasquale",
+      "Eugene A Depasquale": "330",
+      "John Brown": "0",
+      "John J Sweeney": "0",
+      "ward": 44,
+      "division": 1
+    },
+    {
+      "Candidate": "John Brown",
+      "Eugene A Depasquale": "",
+      "John Brown": "6",
+      "John J Sweeney": "0",
+      "ward": 44,
+      "division": 1
+    },
+    {
+      "Candidate": "John J Sweeney",
+      "Eugene A Depasquale": "",
+      "John Brown": "",
+      "John J Sweeney": "5",
+      "ward": 44,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Eugene A Depasquale": "330",
+      "John Brown": "6",
+      "John J Sweeney": "5",
+      "ward": 44,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Eugene A Depasquale": "Eugene A Depasquale",
+      "John Brown": "John Brown",
+      "John J Sweeney": "John J Sweeney",
+      "Roy A Minet": "Roy A Minet",
+      "ward": 44,
+      "division": 2
+    },
+    {
+      "Candidate": "Eugene A Depasquale",
+      "Eugene A Depasquale": "357",
+      "John Brown": "0",
+      "John J Sweeney": "0",
+      "Roy A Minet": "0",
+      "ward": 44,
+      "division": 2
+    },
+    {
+      "Candidate": "John Brown",
+      "Eugene A Depasquale": "",
+      "John Brown": "8",
+      "John J Sweeney": "0",
+      "Roy A Minet": "0",
+      "ward": 44,
+      "division": 2
+    },
+    {
+      "Candidate": "John J Sweeney",
+      "Eugene A Depasquale": "",
+      "John Brown": "",
+      "John J Sweeney": "4",
+      "Roy A Minet": "0",
+      "ward": 44,
+      "division": 2
+    },
+    {
+      "Candidate": "Roy A Minet",
+      "Eugene A Depasquale": "",
+      "John Brown": "",
+      "John J Sweeney": "",
+      "Roy A Minet": "4",
+      "ward": 44,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "Eugene A Depasquale": "357",
+      "John Brown": "8",
+      "John J Sweeney": "4",
+      "Roy A Minet": "4",
+      "ward": 44,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Eugene A Depasquale": "Eugene A Depasquale",
+      "John Brown": "John Brown",
+      "John J Sweeney": "John J Sweeney",
+      "Roy A Minet": "Roy A Minet",
+      "ward": 44,
+      "division": 3
+    },
+    {
+      "Candidate": "Eugene A Depasquale",
+      "Eugene A Depasquale": "241",
+      "John Brown": "0",
+      "John J Sweeney": "0",
+      "Roy A Minet": "0",
+      "ward": 44,
+      "division": 3
+    },
+    {
+      "Candidate": "John Brown",
+      "Eugene A Depasquale": "",
+      "John Brown": "5",
+      "John J Sweeney": "0",
+      "Roy A Minet": "0",
+      "ward": 44,
+      "division": 3
+    },
+    {
+      "Candidate": "John J Sweeney",
+      "Eugene A Depasquale": "",
+      "John Brown": "",
+      "John J Sweeney": "2",
+      "Roy A Minet": "0",
+      "ward": 44,
+      "division": 3
+    },
+    {
+      "Candidate": "Roy A Minet",
+      "Eugene A Depasquale": "",
+      "John Brown": "",
+      "John J Sweeney": "",
+      "Roy A Minet": "1",
+      "ward": 44,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Eugene A Depasquale": "241",
+      "John Brown": "5",
+      "John J Sweeney": "2",
+      "Roy A Minet": "1",
+      "ward": 44,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Eugene A Depasquale": "Eugene A Depasquale",
+      "John Brown": "John Brown",
+      "John J Sweeney": "John J Sweeney",
+      "ward": 44,
+      "division": 4
+    },
+    {
+      "Candidate": "Eugene A Depasquale",
+      "Eugene A Depasquale": "312",
+      "John Brown": "0",
+      "John J Sweeney": "0",
+      "ward": 44,
+      "division": 4
+    },
+    {
+      "Candidate": "John Brown",
+      "Eugene A Depasquale": "",
+      "John Brown": "5",
+      "John J Sweeney": "0",
+      "ward": 44,
+      "division": 4
+    },
+    {
+      "Candidate": "John J Sweeney",
+      "Eugene A Depasquale": "",
+      "John Brown": "",
+      "John J Sweeney": "2",
+      "ward": 44,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Eugene A Depasquale": "312",
+      "John Brown": "5",
+      "John J Sweeney": "2",
+      "ward": 44,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Eugene A Depasquale": "Eugene A Depasquale",
+      "John Brown": "John Brown",
+      "John J Sweeney": "John J Sweeney",
+      "ward": 44,
+      "division": 5
+    },
+    {
+      "Candidate": "Eugene A Depasquale",
+      "Eugene A Depasquale": "230",
+      "John Brown": "0",
+      "John J Sweeney": "0",
+      "ward": 44,
+      "division": 5
+    },
+    {
+      "Candidate": "John Brown",
+      "Eugene A Depasquale": "",
+      "John Brown": "10",
+      "John J Sweeney": "0",
+      "ward": 44,
+      "division": 5
+    },
+    {
+      "Candidate": "John J Sweeney",
+      "Eugene A Depasquale": "",
+      "John Brown": "",
+      "John J Sweeney": "3",
+      "ward": 44,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Eugene A Depasquale": "230",
+      "John Brown": "10",
+      "John J Sweeney": "3",
+      "ward": 44,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Eugene A Depasquale": "Eugene A Depasquale",
+      "John Brown": "John Brown",
+      "John J Sweeney": "John J Sweeney",
+      "Roy A Minet": "Roy A Minet",
+      "ward": 44,
+      "division": 6
+    },
+    {
+      "Candidate": "Eugene A Depasquale",
+      "Eugene A Depasquale": "397",
+      "John Brown": "0",
+      "John J Sweeney": "0",
+      "Roy A Minet": "0",
+      "ward": 44,
+      "division": 6
+    },
+    {
+      "Candidate": "John Brown",
+      "Eugene A Depasquale": "",
+      "John Brown": "5",
+      "John J Sweeney": "0",
+      "Roy A Minet": "0",
+      "ward": 44,
+      "division": 6
+    },
+    {
+      "Candidate": "John J Sweeney",
+      "Eugene A Depasquale": "",
+      "John Brown": "",
+      "John J Sweeney": "2",
+      "Roy A Minet": "0",
+      "ward": 44,
+      "division": 6
+    },
+    {
+      "Candidate": "Roy A Minet",
+      "Eugene A Depasquale": "",
+      "John Brown": "",
+      "John J Sweeney": "",
+      "Roy A Minet": "1",
+      "ward": 44,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "Eugene A Depasquale": "397",
+      "John Brown": "5",
+      "John J Sweeney": "2",
+      "Roy A Minet": "1",
+      "ward": 44,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Eugene A Depasquale": "Eugene A Depasquale",
+      "John J Sweeney": "John J Sweeney",
+      "John Brown": "John Brown",
+      "ward": 44,
+      "division": 7
+    },
+    {
+      "Candidate": "Eugene A Depasquale",
+      "Eugene A Depasquale": "398",
+      "John J Sweeney": "0",
+      "John Brown": "0",
+      "ward": 44,
+      "division": 7
+    },
+    {
+      "Candidate": "John J Sweeney",
+      "Eugene A Depasquale": "",
+      "John J Sweeney": "5",
+      "John Brown": "0",
+      "ward": 44,
+      "division": 7
+    },
+    {
+      "Candidate": "John Brown",
+      "Eugene A Depasquale": "",
+      "John J Sweeney": "",
+      "John Brown": "1",
+      "ward": 44,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Eugene A Depasquale": "398",
+      "John J Sweeney": "5",
+      "John Brown": "1",
+      "ward": 44,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Eugene A Depasquale": "Eugene A Depasquale",
+      "John J Sweeney": "John J Sweeney",
+      "John Brown": "John Brown",
+      "ward": 44,
+      "division": 8
+    },
+    {
+      "Candidate": "Eugene A Depasquale",
+      "Eugene A Depasquale": "244",
+      "John J Sweeney": "0",
+      "John Brown": "0",
+      "ward": 44,
+      "division": 8
+    },
+    {
+      "Candidate": "John J Sweeney",
+      "Eugene A Depasquale": "",
+      "John J Sweeney": "11",
+      "John Brown": "0",
+      "ward": 44,
+      "division": 8
+    },
+    {
+      "Candidate": "John Brown",
+      "Eugene A Depasquale": "",
+      "John J Sweeney": "",
+      "John Brown": "3",
+      "ward": 44,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Eugene A Depasquale": "244",
+      "John J Sweeney": "11",
+      "John Brown": "3",
+      "ward": 44,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Eugene A Depasquale": "Eugene A Depasquale",
+      "John Brown": "John Brown",
+      "John J Sweeney": "John J Sweeney",
+      "ward": 44,
+      "division": 9
+    },
+    {
+      "Candidate": "Eugene A Depasquale",
+      "Eugene A Depasquale": "298",
+      "John Brown": "0",
+      "John J Sweeney": "0",
+      "ward": 44,
+      "division": 9
+    },
+    {
+      "Candidate": "John Brown",
+      "Eugene A Depasquale": "",
+      "John Brown": "4",
+      "John J Sweeney": "0",
+      "ward": 44,
+      "division": 9
+    },
+    {
+      "Candidate": "John J Sweeney",
+      "Eugene A Depasquale": "",
+      "John Brown": "",
+      "John J Sweeney": "1",
+      "ward": 44,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Eugene A Depasquale": "298",
+      "John Brown": "4",
+      "John J Sweeney": "1",
+      "ward": 44,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Eugene A Depasquale": "Eugene A Depasquale",
+      "John Brown": "John Brown",
+      "John J Sweeney": "John J Sweeney",
+      "Roy A Minet": "Roy A Minet",
+      "ward": 44,
+      "division": 10
+    },
+    {
+      "Candidate": "Eugene A Depasquale",
+      "Eugene A Depasquale": "279",
+      "John Brown": "0",
+      "John J Sweeney": "0",
+      "Roy A Minet": "0",
+      "ward": 44,
+      "division": 10
+    },
+    {
+      "Candidate": "John Brown",
+      "Eugene A Depasquale": "",
+      "John Brown": "6",
+      "John J Sweeney": "0",
+      "Roy A Minet": "0",
+      "ward": 44,
+      "division": 10
+    },
+    {
+      "Candidate": "John J Sweeney",
+      "Eugene A Depasquale": "",
+      "John Brown": "",
+      "John J Sweeney": "2",
+      "Roy A Minet": "0",
+      "ward": 44,
+      "division": 10
+    },
+    {
+      "Candidate": "Roy A Minet",
+      "Eugene A Depasquale": "",
+      "John Brown": "",
+      "John J Sweeney": "",
+      "Roy A Minet": "2",
+      "ward": 44,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Eugene A Depasquale": "279",
+      "John Brown": "6",
+      "John J Sweeney": "2",
+      "Roy A Minet": "2",
+      "ward": 44,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Eugene A Depasquale": "Eugene A Depasquale",
+      "John Brown": "John Brown",
+      "John J Sweeney": "John J Sweeney",
+      "Roy A Minet": "Roy A Minet",
+      "ward": 44,
+      "division": 11
+    },
+    {
+      "Candidate": "Eugene A Depasquale",
+      "Eugene A Depasquale": "397",
+      "John Brown": "0",
+      "John J Sweeney": "0",
+      "Roy A Minet": "0",
+      "ward": 44,
+      "division": 11
+    },
+    {
+      "Candidate": "John Brown",
+      "Eugene A Depasquale": "",
+      "John Brown": "9",
+      "John J Sweeney": "0",
+      "Roy A Minet": "0",
+      "ward": 44,
+      "division": 11
+    },
+    {
+      "Candidate": "John J Sweeney",
+      "Eugene A Depasquale": "",
+      "John Brown": "",
+      "John J Sweeney": "3",
+      "Roy A Minet": "0",
+      "ward": 44,
+      "division": 11
+    },
+    {
+      "Candidate": "Roy A Minet",
+      "Eugene A Depasquale": "",
+      "John Brown": "",
+      "John J Sweeney": "",
+      "Roy A Minet": "2",
+      "ward": 44,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Eugene A Depasquale": "397",
+      "John Brown": "9",
+      "John J Sweeney": "3",
+      "Roy A Minet": "2",
+      "ward": 44,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Eugene A Depasquale": "Eugene A Depasquale",
+      "John Brown": "John Brown",
+      "John J Sweeney": "John J Sweeney",
+      "ward": 44,
+      "division": 12
+    },
+    {
+      "Candidate": "Eugene A Depasquale",
+      "Eugene A Depasquale": "199",
+      "John Brown": "0",
+      "John J Sweeney": "0",
+      "ward": 44,
+      "division": 12
+    },
+    {
+      "Candidate": "John Brown",
+      "Eugene A Depasquale": "",
+      "John Brown": "2",
+      "John J Sweeney": "0",
+      "ward": 44,
+      "division": 12
+    },
+    {
+      "Candidate": "John J Sweeney",
+      "Eugene A Depasquale": "",
+      "John Brown": "",
+      "John J Sweeney": "1",
+      "ward": 44,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Eugene A Depasquale": "199",
+      "John Brown": "2",
+      "John J Sweeney": "1",
+      "ward": 44,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Eugene A Depasquale": "Eugene A Depasquale",
+      "John Brown": "John Brown",
+      "ward": 44,
+      "division": 13
+    },
+    {
+      "Candidate": "Eugene A Depasquale",
+      "Eugene A Depasquale": "301",
+      "John Brown": "0",
+      "ward": 44,
+      "division": 13
+    },
+    {
+      "Candidate": "John Brown",
+      "Eugene A Depasquale": "",
+      "John Brown": "6",
+      "ward": 44,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "Eugene A Depasquale": "301",
+      "John Brown": "6",
+      "ward": 44,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Eugene A Depasquale": "Eugene A Depasquale",
+      "John Brown": "John Brown",
+      "John J Sweeney": "John J Sweeney",
+      "Roy A Minet": "Roy A Minet",
+      "ward": 44,
+      "division": 14
+    },
+    {
+      "Candidate": "Eugene A Depasquale",
+      "Eugene A Depasquale": "347",
+      "John Brown": "0",
+      "John J Sweeney": "0",
+      "Roy A Minet": "0",
+      "ward": 44,
+      "division": 14
+    },
+    {
+      "Candidate": "John Brown",
+      "Eugene A Depasquale": "",
+      "John Brown": "17",
+      "John J Sweeney": "0",
+      "Roy A Minet": "0",
+      "ward": 44,
+      "division": 14
+    },
+    {
+      "Candidate": "John J Sweeney",
+      "Eugene A Depasquale": "",
+      "John Brown": "",
+      "John J Sweeney": "3",
+      "Roy A Minet": "0",
+      "ward": 44,
+      "division": 14
+    },
+    {
+      "Candidate": "Roy A Minet",
+      "Eugene A Depasquale": "",
+      "John Brown": "",
+      "John J Sweeney": "",
+      "Roy A Minet": "1",
+      "ward": 44,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "Eugene A Depasquale": "347",
+      "John Brown": "17",
+      "John J Sweeney": "3",
+      "Roy A Minet": "1",
+      "ward": 44,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Eugene A Depasquale": "Eugene A Depasquale",
+      "John Brown": "John Brown",
+      "John J Sweeney": "John J Sweeney",
+      "Roy A Minet": "Roy A Minet",
+      "ward": 44,
+      "division": 15
+    },
+    {
+      "Candidate": "Eugene A Depasquale",
+      "Eugene A Depasquale": "344",
+      "John Brown": "0",
+      "John J Sweeney": "0",
+      "Roy A Minet": "0",
+      "ward": 44,
+      "division": 15
+    },
+    {
+      "Candidate": "John Brown",
+      "Eugene A Depasquale": "",
+      "John Brown": "5",
+      "John J Sweeney": "0",
+      "Roy A Minet": "0",
+      "ward": 44,
+      "division": 15
+    },
+    {
+      "Candidate": "John J Sweeney",
+      "Eugene A Depasquale": "",
+      "John Brown": "",
+      "John J Sweeney": "2",
+      "Roy A Minet": "0",
+      "ward": 44,
+      "division": 15
+    },
+    {
+      "Candidate": "Roy A Minet",
+      "Eugene A Depasquale": "",
+      "John Brown": "",
+      "John J Sweeney": "",
+      "Roy A Minet": "2",
+      "ward": 44,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "Eugene A Depasquale": "344",
+      "John Brown": "5",
+      "John J Sweeney": "2",
+      "Roy A Minet": "2",
+      "ward": 44,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Eugene A Depasquale": "Eugene A Depasquale",
+      "John J Sweeney": "John J Sweeney",
+      "John Brown": "John Brown",
+      "Roy A Minet": "Roy A Minet",
+      "ward": 44,
+      "division": 16
+    },
+    {
+      "Candidate": "Eugene A Depasquale",
+      "Eugene A Depasquale": "291",
+      "John J Sweeney": "0",
+      "John Brown": "0",
+      "Roy A Minet": "0",
+      "ward": 44,
+      "division": 16
+    },
+    {
+      "Candidate": "John J Sweeney",
+      "Eugene A Depasquale": "",
+      "John J Sweeney": "5",
+      "John Brown": "0",
+      "Roy A Minet": "0",
+      "ward": 44,
+      "division": 16
+    },
+    {
+      "Candidate": "John Brown",
+      "Eugene A Depasquale": "",
+      "John J Sweeney": "",
+      "John Brown": "4",
+      "Roy A Minet": "0",
+      "ward": 44,
+      "division": 16
+    },
+    {
+      "Candidate": "Roy A Minet",
+      "Eugene A Depasquale": "",
+      "John J Sweeney": "",
+      "John Brown": "",
+      "Roy A Minet": "1",
+      "ward": 44,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "Eugene A Depasquale": "291",
+      "John J Sweeney": "5",
+      "John Brown": "4",
+      "Roy A Minet": "1",
+      "ward": 44,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Eugene A Depasquale": "Eugene A Depasquale",
+      "John Brown": "John Brown",
+      "John J Sweeney": "John J Sweeney",
+      "ward": 44,
+      "division": 17
+    },
+    {
+      "Candidate": "Eugene A Depasquale",
+      "Eugene A Depasquale": "232",
+      "John Brown": "0",
+      "John J Sweeney": "0",
+      "ward": 44,
+      "division": 17
+    },
+    {
+      "Candidate": "John Brown",
+      "Eugene A Depasquale": "",
+      "John Brown": "8",
+      "John J Sweeney": "0",
+      "ward": 44,
+      "division": 17
+    },
+    {
+      "Candidate": "John J Sweeney",
+      "Eugene A Depasquale": "",
+      "John Brown": "",
+      "John J Sweeney": "4",
+      "ward": 44,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "Eugene A Depasquale": "232",
+      "John Brown": "8",
+      "John J Sweeney": "4",
+      "ward": 44,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Eugene A Depasquale": "Eugene A Depasquale",
+      "John Brown": "John Brown",
+      "John J Sweeney": "John J Sweeney",
+      "ward": 44,
+      "division": 18
+    },
+    {
+      "Candidate": "Eugene A Depasquale",
+      "Eugene A Depasquale": "255",
+      "John Brown": "0",
+      "John J Sweeney": "0",
+      "ward": 44,
+      "division": 18
+    },
+    {
+      "Candidate": "John Brown",
+      "Eugene A Depasquale": "",
+      "John Brown": "7",
+      "John J Sweeney": "0",
+      "ward": 44,
+      "division": 18
+    },
+    {
+      "Candidate": "John J Sweeney",
+      "Eugene A Depasquale": "",
+      "John Brown": "",
+      "John J Sweeney": "1",
+      "ward": 44,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "Eugene A Depasquale": "255",
+      "John Brown": "7",
+      "John J Sweeney": "1",
+      "ward": 44,
+      "division": 18
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Eugene A Depasquale": "Eugene A Depasquale",
+      "John Brown": "John Brown",
+      "John J Sweeney": "John J Sweeney",
+      "Roy A Minet": "Roy A Minet",
+      "ward": 44,
+      "division": 19
+    },
+    {
+      "Candidate": "Eugene A Depasquale",
+      "Eugene A Depasquale": "335",
+      "John Brown": "0",
+      "John J Sweeney": "0",
+      "Roy A Minet": "0",
+      "ward": 44,
+      "division": 19
+    },
+    {
+      "Candidate": "John Brown",
+      "Eugene A Depasquale": "",
+      "John Brown": "8",
+      "John J Sweeney": "0",
+      "Roy A Minet": "0",
+      "ward": 44,
+      "division": 19
+    },
+    {
+      "Candidate": "John J Sweeney",
+      "Eugene A Depasquale": "",
+      "John Brown": "",
+      "John J Sweeney": "4",
+      "Roy A Minet": "0",
+      "ward": 44,
+      "division": 19
+    },
+    {
+      "Candidate": "Roy A Minet",
+      "Eugene A Depasquale": "",
+      "John Brown": "",
+      "John J Sweeney": "",
+      "Roy A Minet": "2",
+      "ward": 44,
+      "division": 19
+    },
+    {
+      "Candidate": "Total",
+      "Eugene A Depasquale": "335",
+      "John Brown": "8",
+      "John J Sweeney": "4",
+      "Roy A Minet": "2",
+      "ward": 44,
+      "division": 19
+    }
+  ]
+]

@@ -1,0 +1,590 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Stephen Kinsey": "Stephen Kinsey",
+      "Michael K Ellis": "Michael K Ellis",
+      "Karl K Gamble": "Karl K Gamble",
+      "Write In": "Write In",
+      "ward": 12,
+      "division": "All"
+    },
+    {
+      "Candidate": "Stephen Kinsey",
+      "Stephen Kinsey": "749",
+      "Michael K Ellis": "0",
+      "Karl K Gamble": "0",
+      "Write In": "0",
+      "ward": 12,
+      "division": "All"
+    },
+    {
+      "Candidate": "Michael K Ellis",
+      "Stephen Kinsey": "",
+      "Michael K Ellis": "582",
+      "Karl K Gamble": "0",
+      "Write In": "0",
+      "ward": 12,
+      "division": "All"
+    },
+    {
+      "Candidate": "Karl K Gamble",
+      "Stephen Kinsey": "",
+      "Michael K Ellis": "",
+      "Karl K Gamble": "135",
+      "Write In": "0",
+      "ward": 12,
+      "division": "All"
+    },
+    {
+      "Candidate": "Write In",
+      "Stephen Kinsey": "",
+      "Michael K Ellis": "",
+      "Karl K Gamble": "",
+      "Write In": "4",
+      "ward": 12,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Stephen Kinsey": "749",
+      "Michael K Ellis": "582",
+      "Karl K Gamble": "135",
+      "Write In": "4",
+      "ward": 12,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael K Ellis": "Michael K Ellis",
+      "Stephen Kinsey": "Stephen Kinsey",
+      "Karl K Gamble": "Karl K Gamble",
+      "ward": 12,
+      "division": 1
+    },
+    {
+      "Candidate": "Michael K Ellis",
+      "Michael K Ellis": "89",
+      "Stephen Kinsey": "0",
+      "Karl K Gamble": "0",
+      "ward": 12,
+      "division": 1
+    },
+    {
+      "Candidate": "Stephen Kinsey",
+      "Michael K Ellis": "",
+      "Stephen Kinsey": "45",
+      "Karl K Gamble": "0",
+      "ward": 12,
+      "division": 1
+    },
+    {
+      "Candidate": "Karl K Gamble",
+      "Michael K Ellis": "",
+      "Stephen Kinsey": "",
+      "Karl K Gamble": "11",
+      "ward": 12,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Michael K Ellis": "89",
+      "Stephen Kinsey": "45",
+      "Karl K Gamble": "11",
+      "ward": 12,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Stephen Kinsey": "Stephen Kinsey",
+      "Michael K Ellis": "Michael K Ellis",
+      "Karl K Gamble": "Karl K Gamble",
+      "ward": 12,
+      "division": 2
+    },
+    {
+      "Candidate": "Stephen Kinsey",
+      "Stephen Kinsey": "112",
+      "Michael K Ellis": "0",
+      "Karl K Gamble": "0",
+      "ward": 12,
+      "division": 2
+    },
+    {
+      "Candidate": "Michael K Ellis",
+      "Stephen Kinsey": "",
+      "Michael K Ellis": "15",
+      "Karl K Gamble": "0",
+      "ward": 12,
+      "division": 2
+    },
+    {
+      "Candidate": "Karl K Gamble",
+      "Stephen Kinsey": "",
+      "Michael K Ellis": "",
+      "Karl K Gamble": "5",
+      "ward": 12,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "Stephen Kinsey": "112",
+      "Michael K Ellis": "15",
+      "Karl K Gamble": "5",
+      "ward": 12,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Stephen Kinsey": "Stephen Kinsey",
+      "Michael K Ellis": "Michael K Ellis",
+      "Karl K Gamble": "Karl K Gamble",
+      "ward": 12,
+      "division": 3
+    },
+    {
+      "Candidate": "Stephen Kinsey",
+      "Stephen Kinsey": "75",
+      "Michael K Ellis": "0",
+      "Karl K Gamble": "0",
+      "ward": 12,
+      "division": 3
+    },
+    {
+      "Candidate": "Michael K Ellis",
+      "Stephen Kinsey": "",
+      "Michael K Ellis": "18",
+      "Karl K Gamble": "0",
+      "ward": 12,
+      "division": 3
+    },
+    {
+      "Candidate": "Karl K Gamble",
+      "Stephen Kinsey": "",
+      "Michael K Ellis": "",
+      "Karl K Gamble": "3",
+      "ward": 12,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Stephen Kinsey": "75",
+      "Michael K Ellis": "18",
+      "Karl K Gamble": "3",
+      "ward": 12,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Stephen Kinsey": "Stephen Kinsey",
+      "Michael K Ellis": "Michael K Ellis",
+      "Karl K Gamble": "Karl K Gamble",
+      "ward": 12,
+      "division": 4
+    },
+    {
+      "Candidate": "Stephen Kinsey",
+      "Stephen Kinsey": "50",
+      "Michael K Ellis": "0",
+      "Karl K Gamble": "0",
+      "ward": 12,
+      "division": 4
+    },
+    {
+      "Candidate": "Michael K Ellis",
+      "Stephen Kinsey": "",
+      "Michael K Ellis": "37",
+      "Karl K Gamble": "0",
+      "ward": 12,
+      "division": 4
+    },
+    {
+      "Candidate": "Karl K Gamble",
+      "Stephen Kinsey": "",
+      "Michael K Ellis": "",
+      "Karl K Gamble": "8",
+      "ward": 12,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Stephen Kinsey": "50",
+      "Michael K Ellis": "37",
+      "Karl K Gamble": "8",
+      "ward": 12,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Stephen Kinsey": "Stephen Kinsey",
+      "Michael K Ellis": "Michael K Ellis",
+      "Karl K Gamble": "Karl K Gamble",
+      "Write In": "Write In",
+      "ward": 12,
+      "division": 5
+    },
+    {
+      "Candidate": "Stephen Kinsey",
+      "Stephen Kinsey": "81",
+      "Michael K Ellis": "0",
+      "Karl K Gamble": "0",
+      "Write In": "0",
+      "ward": 12,
+      "division": 5
+    },
+    {
+      "Candidate": "Michael K Ellis",
+      "Stephen Kinsey": "",
+      "Michael K Ellis": "66",
+      "Karl K Gamble": "0",
+      "Write In": "0",
+      "ward": 12,
+      "division": 5
+    },
+    {
+      "Candidate": "Karl K Gamble",
+      "Stephen Kinsey": "",
+      "Michael K Ellis": "",
+      "Karl K Gamble": "5",
+      "Write In": "0",
+      "ward": 12,
+      "division": 5
+    },
+    {
+      "Candidate": "Write In",
+      "Stephen Kinsey": "",
+      "Michael K Ellis": "",
+      "Karl K Gamble": "",
+      "Write In": "3",
+      "ward": 12,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Stephen Kinsey": "81",
+      "Michael K Ellis": "66",
+      "Karl K Gamble": "5",
+      "Write In": "3",
+      "ward": 12,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Stephen Kinsey": "Stephen Kinsey",
+      "Michael K Ellis": "Michael K Ellis",
+      "Karl K Gamble": "Karl K Gamble",
+      "ward": 12,
+      "division": 6
+    },
+    {
+      "Candidate": "Stephen Kinsey",
+      "Stephen Kinsey": "44",
+      "Michael K Ellis": "0",
+      "Karl K Gamble": "0",
+      "ward": 12,
+      "division": 6
+    },
+    {
+      "Candidate": "Michael K Ellis",
+      "Stephen Kinsey": "",
+      "Michael K Ellis": "26",
+      "Karl K Gamble": "0",
+      "ward": 12,
+      "division": 6
+    },
+    {
+      "Candidate": "Karl K Gamble",
+      "Stephen Kinsey": "",
+      "Michael K Ellis": "",
+      "Karl K Gamble": "14",
+      "ward": 12,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "Stephen Kinsey": "44",
+      "Michael K Ellis": "26",
+      "Karl K Gamble": "14",
+      "ward": 12,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael K Ellis": "Michael K Ellis",
+      "Stephen Kinsey": "Stephen Kinsey",
+      "Karl K Gamble": "Karl K Gamble",
+      "ward": 12,
+      "division": 7
+    },
+    {
+      "Candidate": "Michael K Ellis",
+      "Michael K Ellis": "55",
+      "Stephen Kinsey": "0",
+      "Karl K Gamble": "0",
+      "ward": 12,
+      "division": 7
+    },
+    {
+      "Candidate": "Stephen Kinsey",
+      "Michael K Ellis": "",
+      "Stephen Kinsey": "51",
+      "Karl K Gamble": "0",
+      "ward": 12,
+      "division": 7
+    },
+    {
+      "Candidate": "Karl K Gamble",
+      "Michael K Ellis": "",
+      "Stephen Kinsey": "",
+      "Karl K Gamble": "18",
+      "ward": 12,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Michael K Ellis": "55",
+      "Stephen Kinsey": "51",
+      "Karl K Gamble": "18",
+      "ward": 12,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael K Ellis": "Michael K Ellis",
+      "Stephen Kinsey": "Stephen Kinsey",
+      "Karl K Gamble": "Karl K Gamble",
+      "ward": 12,
+      "division": 9
+    },
+    {
+      "Candidate": "Michael K Ellis",
+      "Michael K Ellis": "57",
+      "Stephen Kinsey": "0",
+      "Karl K Gamble": "0",
+      "ward": 12,
+      "division": 9
+    },
+    {
+      "Candidate": "Stephen Kinsey",
+      "Michael K Ellis": "",
+      "Stephen Kinsey": "48",
+      "Karl K Gamble": "0",
+      "ward": 12,
+      "division": 9
+    },
+    {
+      "Candidate": "Karl K Gamble",
+      "Michael K Ellis": "",
+      "Stephen Kinsey": "",
+      "Karl K Gamble": "13",
+      "ward": 12,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Michael K Ellis": "57",
+      "Stephen Kinsey": "48",
+      "Karl K Gamble": "13",
+      "ward": 12,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Stephen Kinsey": "Stephen Kinsey",
+      "Michael K Ellis": "Michael K Ellis",
+      "Karl K Gamble": "Karl K Gamble",
+      "ward": 12,
+      "division": 10
+    },
+    {
+      "Candidate": "Stephen Kinsey",
+      "Stephen Kinsey": "75",
+      "Michael K Ellis": "0",
+      "Karl K Gamble": "0",
+      "ward": 12,
+      "division": 10
+    },
+    {
+      "Candidate": "Michael K Ellis",
+      "Stephen Kinsey": "",
+      "Michael K Ellis": "49",
+      "Karl K Gamble": "0",
+      "ward": 12,
+      "division": 10
+    },
+    {
+      "Candidate": "Karl K Gamble",
+      "Stephen Kinsey": "",
+      "Michael K Ellis": "",
+      "Karl K Gamble": "11",
+      "ward": 12,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Stephen Kinsey": "75",
+      "Michael K Ellis": "49",
+      "Karl K Gamble": "11",
+      "ward": 12,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Stephen Kinsey": "Stephen Kinsey",
+      "Michael K Ellis": "Michael K Ellis",
+      "Karl K Gamble": "Karl K Gamble",
+      "ward": 12,
+      "division": 12
+    },
+    {
+      "Candidate": "Stephen Kinsey",
+      "Stephen Kinsey": "75",
+      "Michael K Ellis": "0",
+      "Karl K Gamble": "0",
+      "ward": 12,
+      "division": 12
+    },
+    {
+      "Candidate": "Michael K Ellis",
+      "Stephen Kinsey": "",
+      "Michael K Ellis": "64",
+      "Karl K Gamble": "0",
+      "ward": 12,
+      "division": 12
+    },
+    {
+      "Candidate": "Karl K Gamble",
+      "Stephen Kinsey": "",
+      "Michael K Ellis": "",
+      "Karl K Gamble": "14",
+      "ward": 12,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Stephen Kinsey": "75",
+      "Michael K Ellis": "64",
+      "Karl K Gamble": "14",
+      "ward": 12,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael K Ellis": "Michael K Ellis",
+      "Stephen Kinsey": "Stephen Kinsey",
+      "Karl K Gamble": "Karl K Gamble",
+      "ward": 12,
+      "division": 13
+    },
+    {
+      "Candidate": "Michael K Ellis",
+      "Michael K Ellis": "44",
+      "Stephen Kinsey": "0",
+      "Karl K Gamble": "0",
+      "ward": 12,
+      "division": 13
+    },
+    {
+      "Candidate": "Stephen Kinsey",
+      "Michael K Ellis": "",
+      "Stephen Kinsey": "44",
+      "Karl K Gamble": "0",
+      "ward": 12,
+      "division": 13
+    },
+    {
+      "Candidate": "Karl K Gamble",
+      "Michael K Ellis": "",
+      "Stephen Kinsey": "",
+      "Karl K Gamble": "12",
+      "ward": 12,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "Michael K Ellis": "44",
+      "Stephen Kinsey": "44",
+      "Karl K Gamble": "12",
+      "ward": 12,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael K Ellis": "Michael K Ellis",
+      "Stephen Kinsey": "Stephen Kinsey",
+      "Karl K Gamble": "Karl K Gamble",
+      "Write In": "Write In",
+      "ward": 12,
+      "division": 14
+    },
+    {
+      "Candidate": "Michael K Ellis",
+      "Michael K Ellis": "62",
+      "Stephen Kinsey": "0",
+      "Karl K Gamble": "0",
+      "Write In": "0",
+      "ward": 12,
+      "division": 14
+    },
+    {
+      "Candidate": "Stephen Kinsey",
+      "Michael K Ellis": "",
+      "Stephen Kinsey": "49",
+      "Karl K Gamble": "0",
+      "Write In": "0",
+      "ward": 12,
+      "division": 14
+    },
+    {
+      "Candidate": "Karl K Gamble",
+      "Michael K Ellis": "",
+      "Stephen Kinsey": "",
+      "Karl K Gamble": "21",
+      "Write In": "0",
+      "ward": 12,
+      "division": 14
+    },
+    {
+      "Candidate": "Write In",
+      "Michael K Ellis": "",
+      "Stephen Kinsey": "",
+      "Karl K Gamble": "",
+      "Write In": "1",
+      "ward": 12,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "Michael K Ellis": "62",
+      "Stephen Kinsey": "49",
+      "Karl K Gamble": "21",
+      "Write In": "1",
+      "ward": 12,
+      "division": 14
+    }
+  ]
+]

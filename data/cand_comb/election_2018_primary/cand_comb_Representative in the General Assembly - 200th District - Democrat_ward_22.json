@@ -1,0 +1,926 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Chris Rabb": "Chris Rabb",
+      "Melissa Scott": "Melissa Scott",
+      "Write In": "Write In",
+      "ward": 22,
+      "division": "All"
+    },
+    {
+      "Candidate": "Chris Rabb",
+      "Chris Rabb": "3,191",
+      "Melissa Scott": "0",
+      "Write In": "0",
+      "ward": 22,
+      "division": "All"
+    },
+    {
+      "Candidate": "Melissa Scott",
+      "Chris Rabb": "",
+      "Melissa Scott": "2,140",
+      "Write In": "0",
+      "ward": 22,
+      "division": "All"
+    },
+    {
+      "Candidate": "Write In",
+      "Chris Rabb": "",
+      "Melissa Scott": "",
+      "Write In": "1",
+      "ward": 22,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Chris Rabb": "3,191",
+      "Melissa Scott": "2,140",
+      "Write In": "1",
+      "ward": 22,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Chris Rabb": "Chris Rabb",
+      "Melissa Scott": "Melissa Scott",
+      "ward": 22,
+      "division": 1
+    },
+    {
+      "Candidate": "Chris Rabb",
+      "Chris Rabb": "314",
+      "Melissa Scott": "0",
+      "ward": 22,
+      "division": 1
+    },
+    {
+      "Candidate": "Melissa Scott",
+      "Chris Rabb": "",
+      "Melissa Scott": "53",
+      "ward": 22,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Chris Rabb": "314",
+      "Melissa Scott": "53",
+      "ward": 22,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Chris Rabb": "Chris Rabb",
+      "Melissa Scott": "Melissa Scott",
+      "ward": 22,
+      "division": 2
+    },
+    {
+      "Candidate": "Chris Rabb",
+      "Chris Rabb": "284",
+      "Melissa Scott": "0",
+      "ward": 22,
+      "division": 2
+    },
+    {
+      "Candidate": "Melissa Scott",
+      "Chris Rabb": "",
+      "Melissa Scott": "54",
+      "ward": 22,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "Chris Rabb": "284",
+      "Melissa Scott": "54",
+      "ward": 22,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Chris Rabb": "Chris Rabb",
+      "Melissa Scott": "Melissa Scott",
+      "ward": 22,
+      "division": 3
+    },
+    {
+      "Candidate": "Chris Rabb",
+      "Chris Rabb": "113",
+      "Melissa Scott": "0",
+      "ward": 22,
+      "division": 3
+    },
+    {
+      "Candidate": "Melissa Scott",
+      "Chris Rabb": "",
+      "Melissa Scott": "66",
+      "ward": 22,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Chris Rabb": "113",
+      "Melissa Scott": "66",
+      "ward": 22,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Chris Rabb": "Chris Rabb",
+      "Melissa Scott": "Melissa Scott",
+      "ward": 22,
+      "division": 4
+    },
+    {
+      "Candidate": "Chris Rabb",
+      "Chris Rabb": "117",
+      "Melissa Scott": "0",
+      "ward": 22,
+      "division": 4
+    },
+    {
+      "Candidate": "Melissa Scott",
+      "Chris Rabb": "",
+      "Melissa Scott": "63",
+      "ward": 22,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Chris Rabb": "117",
+      "Melissa Scott": "63",
+      "ward": 22,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Chris Rabb": "Chris Rabb",
+      "Melissa Scott": "Melissa Scott",
+      "ward": 22,
+      "division": 5
+    },
+    {
+      "Candidate": "Chris Rabb",
+      "Chris Rabb": "165",
+      "Melissa Scott": "0",
+      "ward": 22,
+      "division": 5
+    },
+    {
+      "Candidate": "Melissa Scott",
+      "Chris Rabb": "",
+      "Melissa Scott": "72",
+      "ward": 22,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Chris Rabb": "165",
+      "Melissa Scott": "72",
+      "ward": 22,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Chris Rabb": "Chris Rabb",
+      "Melissa Scott": "Melissa Scott",
+      "ward": 22,
+      "division": 6
+    },
+    {
+      "Candidate": "Chris Rabb",
+      "Chris Rabb": "210",
+      "Melissa Scott": "0",
+      "ward": 22,
+      "division": 6
+    },
+    {
+      "Candidate": "Melissa Scott",
+      "Chris Rabb": "",
+      "Melissa Scott": "69",
+      "ward": 22,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "Chris Rabb": "210",
+      "Melissa Scott": "69",
+      "ward": 22,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Chris Rabb": "Chris Rabb",
+      "Melissa Scott": "Melissa Scott",
+      "ward": 22,
+      "division": 7
+    },
+    {
+      "Candidate": "Chris Rabb",
+      "Chris Rabb": "173",
+      "Melissa Scott": "0",
+      "ward": 22,
+      "division": 7
+    },
+    {
+      "Candidate": "Melissa Scott",
+      "Chris Rabb": "",
+      "Melissa Scott": "74",
+      "ward": 22,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Chris Rabb": "173",
+      "Melissa Scott": "74",
+      "ward": 22,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Chris Rabb": "Chris Rabb",
+      "Melissa Scott": "Melissa Scott",
+      "ward": 22,
+      "division": 8
+    },
+    {
+      "Candidate": "Chris Rabb",
+      "Chris Rabb": "100",
+      "Melissa Scott": "0",
+      "ward": 22,
+      "division": 8
+    },
+    {
+      "Candidate": "Melissa Scott",
+      "Chris Rabb": "",
+      "Melissa Scott": "73",
+      "ward": 22,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Chris Rabb": "100",
+      "Melissa Scott": "73",
+      "ward": 22,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Chris Rabb": "Chris Rabb",
+      "Melissa Scott": "Melissa Scott",
+      "ward": 22,
+      "division": 9
+    },
+    {
+      "Candidate": "Chris Rabb",
+      "Chris Rabb": "70",
+      "Melissa Scott": "0",
+      "ward": 22,
+      "division": 9
+    },
+    {
+      "Candidate": "Melissa Scott",
+      "Chris Rabb": "",
+      "Melissa Scott": "66",
+      "ward": 22,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Chris Rabb": "70",
+      "Melissa Scott": "66",
+      "ward": 22,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Chris Rabb": "Chris Rabb",
+      "Melissa Scott": "Melissa Scott",
+      "ward": 22,
+      "division": 10
+    },
+    {
+      "Candidate": "Chris Rabb",
+      "Chris Rabb": "94",
+      "Melissa Scott": "0",
+      "ward": 22,
+      "division": 10
+    },
+    {
+      "Candidate": "Melissa Scott",
+      "Chris Rabb": "",
+      "Melissa Scott": "83",
+      "ward": 22,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Chris Rabb": "94",
+      "Melissa Scott": "83",
+      "ward": 22,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Chris Rabb": "Chris Rabb",
+      "Melissa Scott": "Melissa Scott",
+      "ward": 22,
+      "division": 11
+    },
+    {
+      "Candidate": "Chris Rabb",
+      "Chris Rabb": "66",
+      "Melissa Scott": "0",
+      "ward": 22,
+      "division": 11
+    },
+    {
+      "Candidate": "Melissa Scott",
+      "Chris Rabb": "",
+      "Melissa Scott": "56",
+      "ward": 22,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Chris Rabb": "66",
+      "Melissa Scott": "56",
+      "ward": 22,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Chris Rabb": "Chris Rabb",
+      "Melissa Scott": "Melissa Scott",
+      "ward": 22,
+      "division": 12
+    },
+    {
+      "Candidate": "Chris Rabb",
+      "Chris Rabb": "66",
+      "Melissa Scott": "0",
+      "ward": 22,
+      "division": 12
+    },
+    {
+      "Candidate": "Melissa Scott",
+      "Chris Rabb": "",
+      "Melissa Scott": "62",
+      "ward": 22,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Chris Rabb": "66",
+      "Melissa Scott": "62",
+      "ward": 22,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Melissa Scott": "Melissa Scott",
+      "Chris Rabb": "Chris Rabb",
+      "ward": 22,
+      "division": 13
+    },
+    {
+      "Candidate": "Melissa Scott",
+      "Melissa Scott": "80",
+      "Chris Rabb": "0",
+      "ward": 22,
+      "division": 13
+    },
+    {
+      "Candidate": "Chris Rabb",
+      "Melissa Scott": "",
+      "Chris Rabb": "49",
+      "ward": 22,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "Melissa Scott": "80",
+      "Chris Rabb": "49",
+      "ward": 22,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Melissa Scott": "Melissa Scott",
+      "Chris Rabb": "Chris Rabb",
+      "ward": 22,
+      "division": 14
+    },
+    {
+      "Candidate": "Melissa Scott",
+      "Melissa Scott": "73",
+      "Chris Rabb": "0",
+      "ward": 22,
+      "division": 14
+    },
+    {
+      "Candidate": "Chris Rabb",
+      "Melissa Scott": "",
+      "Chris Rabb": "66",
+      "ward": 22,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "Melissa Scott": "73",
+      "Chris Rabb": "66",
+      "ward": 22,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Melissa Scott": "Melissa Scott",
+      "Chris Rabb": "Chris Rabb",
+      "ward": 22,
+      "division": 15
+    },
+    {
+      "Candidate": "Melissa Scott",
+      "Melissa Scott": "103",
+      "Chris Rabb": "0",
+      "ward": 22,
+      "division": 15
+    },
+    {
+      "Candidate": "Chris Rabb",
+      "Melissa Scott": "",
+      "Chris Rabb": "59",
+      "ward": 22,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "Melissa Scott": "103",
+      "Chris Rabb": "59",
+      "ward": 22,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Chris Rabb": "Chris Rabb",
+      "Melissa Scott": "Melissa Scott",
+      "ward": 22,
+      "division": 16
+    },
+    {
+      "Candidate": "Chris Rabb",
+      "Chris Rabb": "96",
+      "Melissa Scott": "0",
+      "ward": 22,
+      "division": 16
+    },
+    {
+      "Candidate": "Melissa Scott",
+      "Chris Rabb": "",
+      "Melissa Scott": "49",
+      "ward": 22,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "Chris Rabb": "96",
+      "Melissa Scott": "49",
+      "ward": 22,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Chris Rabb": "Chris Rabb",
+      "Melissa Scott": "Melissa Scott",
+      "ward": 22,
+      "division": 17
+    },
+    {
+      "Candidate": "Chris Rabb",
+      "Chris Rabb": "151",
+      "Melissa Scott": "0",
+      "ward": 22,
+      "division": 17
+    },
+    {
+      "Candidate": "Melissa Scott",
+      "Chris Rabb": "",
+      "Melissa Scott": "70",
+      "ward": 22,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "Chris Rabb": "151",
+      "Melissa Scott": "70",
+      "ward": 22,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Chris Rabb": "Chris Rabb",
+      "Melissa Scott": "Melissa Scott",
+      "ward": 22,
+      "division": 18
+    },
+    {
+      "Candidate": "Chris Rabb",
+      "Chris Rabb": "105",
+      "Melissa Scott": "0",
+      "ward": 22,
+      "division": 18
+    },
+    {
+      "Candidate": "Melissa Scott",
+      "Chris Rabb": "",
+      "Melissa Scott": "61",
+      "ward": 22,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "Chris Rabb": "105",
+      "Melissa Scott": "61",
+      "ward": 22,
+      "division": 18
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Chris Rabb": "Chris Rabb",
+      "Melissa Scott": "Melissa Scott",
+      "Write In": "Write In",
+      "ward": 22,
+      "division": 19
+    },
+    {
+      "Candidate": "Chris Rabb",
+      "Chris Rabb": "90",
+      "Melissa Scott": "0",
+      "Write In": "0",
+      "ward": 22,
+      "division": 19
+    },
+    {
+      "Candidate": "Melissa Scott",
+      "Chris Rabb": "",
+      "Melissa Scott": "73",
+      "Write In": "0",
+      "ward": 22,
+      "division": 19
+    },
+    {
+      "Candidate": "Write In",
+      "Chris Rabb": "",
+      "Melissa Scott": "",
+      "Write In": "1",
+      "ward": 22,
+      "division": 19
+    },
+    {
+      "Candidate": "Total",
+      "Chris Rabb": "90",
+      "Melissa Scott": "73",
+      "Write In": "1",
+      "ward": 22,
+      "division": 19
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Chris Rabb": "Chris Rabb",
+      "Melissa Scott": "Melissa Scott",
+      "ward": 22,
+      "division": 20
+    },
+    {
+      "Candidate": "Chris Rabb",
+      "Chris Rabb": "66",
+      "Melissa Scott": "0",
+      "ward": 22,
+      "division": 20
+    },
+    {
+      "Candidate": "Melissa Scott",
+      "Chris Rabb": "",
+      "Melissa Scott": "58",
+      "ward": 22,
+      "division": 20
+    },
+    {
+      "Candidate": "Total",
+      "Chris Rabb": "66",
+      "Melissa Scott": "58",
+      "ward": 22,
+      "division": 20
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Melissa Scott": "Melissa Scott",
+      "Chris Rabb": "Chris Rabb",
+      "ward": 22,
+      "division": 21
+    },
+    {
+      "Candidate": "Melissa Scott",
+      "Melissa Scott": "91",
+      "Chris Rabb": "0",
+      "ward": 22,
+      "division": 21
+    },
+    {
+      "Candidate": "Chris Rabb",
+      "Melissa Scott": "",
+      "Chris Rabb": "38",
+      "ward": 22,
+      "division": 21
+    },
+    {
+      "Candidate": "Total",
+      "Melissa Scott": "91",
+      "Chris Rabb": "38",
+      "ward": 22,
+      "division": 21
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Melissa Scott": "Melissa Scott",
+      "Chris Rabb": "Chris Rabb",
+      "ward": 22,
+      "division": 22
+    },
+    {
+      "Candidate": "Melissa Scott",
+      "Melissa Scott": "70",
+      "Chris Rabb": "0",
+      "ward": 22,
+      "division": 22
+    },
+    {
+      "Candidate": "Chris Rabb",
+      "Melissa Scott": "",
+      "Chris Rabb": "50",
+      "ward": 22,
+      "division": 22
+    },
+    {
+      "Candidate": "Total",
+      "Melissa Scott": "70",
+      "Chris Rabb": "50",
+      "ward": 22,
+      "division": 22
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Chris Rabb": "Chris Rabb",
+      "Melissa Scott": "Melissa Scott",
+      "ward": 22,
+      "division": 23
+    },
+    {
+      "Candidate": "Chris Rabb",
+      "Chris Rabb": "154",
+      "Melissa Scott": "0",
+      "ward": 22,
+      "division": 23
+    },
+    {
+      "Candidate": "Melissa Scott",
+      "Chris Rabb": "",
+      "Melissa Scott": "49",
+      "ward": 22,
+      "division": 23
+    },
+    {
+      "Candidate": "Total",
+      "Chris Rabb": "154",
+      "Melissa Scott": "49",
+      "ward": 22,
+      "division": 23
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Chris Rabb": "Chris Rabb",
+      "Melissa Scott": "Melissa Scott",
+      "ward": 22,
+      "division": 24
+    },
+    {
+      "Candidate": "Chris Rabb",
+      "Chris Rabb": "151",
+      "Melissa Scott": "0",
+      "ward": 22,
+      "division": 24
+    },
+    {
+      "Candidate": "Melissa Scott",
+      "Chris Rabb": "",
+      "Melissa Scott": "70",
+      "ward": 22,
+      "division": 24
+    },
+    {
+      "Candidate": "Total",
+      "Chris Rabb": "151",
+      "Melissa Scott": "70",
+      "ward": 22,
+      "division": 24
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Melissa Scott": "Melissa Scott",
+      "Chris Rabb": "Chris Rabb",
+      "ward": 22,
+      "division": 25
+    },
+    {
+      "Candidate": "Melissa Scott",
+      "Melissa Scott": "82",
+      "Chris Rabb": "0",
+      "ward": 22,
+      "division": 25
+    },
+    {
+      "Candidate": "Chris Rabb",
+      "Melissa Scott": "",
+      "Chris Rabb": "57",
+      "ward": 22,
+      "division": 25
+    },
+    {
+      "Candidate": "Total",
+      "Melissa Scott": "82",
+      "Chris Rabb": "57",
+      "ward": 22,
+      "division": 25
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Melissa Scott": "Melissa Scott",
+      "Chris Rabb": "Chris Rabb",
+      "ward": 22,
+      "division": 26
+    },
+    {
+      "Candidate": "Melissa Scott",
+      "Melissa Scott": "88",
+      "Chris Rabb": "0",
+      "ward": 22,
+      "division": 26
+    },
+    {
+      "Candidate": "Chris Rabb",
+      "Melissa Scott": "",
+      "Chris Rabb": "66",
+      "ward": 22,
+      "division": 26
+    },
+    {
+      "Candidate": "Total",
+      "Melissa Scott": "88",
+      "Chris Rabb": "66",
+      "ward": 22,
+      "division": 26
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Melissa Scott": "Melissa Scott",
+      "Chris Rabb": "Chris Rabb",
+      "ward": 22,
+      "division": 27
+    },
+    {
+      "Candidate": "Melissa Scott",
+      "Melissa Scott": "114",
+      "Chris Rabb": "0",
+      "ward": 22,
+      "division": 27
+    },
+    {
+      "Candidate": "Chris Rabb",
+      "Melissa Scott": "",
+      "Chris Rabb": "80",
+      "ward": 22,
+      "division": 27
+    },
+    {
+      "Candidate": "Total",
+      "Melissa Scott": "114",
+      "Chris Rabb": "80",
+      "ward": 22,
+      "division": 27
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Melissa Scott": "Melissa Scott",
+      "Chris Rabb": "Chris Rabb",
+      "ward": 22,
+      "division": 28
+    },
+    {
+      "Candidate": "Melissa Scott",
+      "Melissa Scott": "75",
+      "Chris Rabb": "0",
+      "ward": 22,
+      "division": 28
+    },
+    {
+      "Candidate": "Chris Rabb",
+      "Melissa Scott": "",
+      "Chris Rabb": "73",
+      "ward": 22,
+      "division": 28
+    },
+    {
+      "Candidate": "Total",
+      "Melissa Scott": "75",
+      "Chris Rabb": "73",
+      "ward": 22,
+      "division": 28
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Melissa Scott": "Melissa Scott",
+      "Chris Rabb": "Chris Rabb",
+      "ward": 22,
+      "division": 29
+    },
+    {
+      "Candidate": "Melissa Scott",
+      "Melissa Scott": "143",
+      "Chris Rabb": "0",
+      "ward": 22,
+      "division": 29
+    },
+    {
+      "Candidate": "Chris Rabb",
+      "Melissa Scott": "",
+      "Chris Rabb": "68",
+      "ward": 22,
+      "division": 29
+    },
+    {
+      "Candidate": "Total",
+      "Melissa Scott": "143",
+      "Chris Rabb": "68",
+      "ward": 22,
+      "division": 29
+    }
+  ]
+]

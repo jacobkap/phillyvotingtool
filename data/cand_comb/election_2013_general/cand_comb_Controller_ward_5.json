@@ -1,0 +1,938 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Terrence J Tracy Jr": "Terrence J Tracy Jr",
+      "Write In": "Write In",
+      "ward": 5,
+      "division": "All"
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "2,048",
+      "Terrence J Tracy Jr": "0",
+      "Write In": "0",
+      "ward": 5,
+      "division": "All"
+    },
+    {
+      "Candidate": "Terrence J Tracy Jr",
+      "Alan Butkovitz": "",
+      "Terrence J Tracy Jr": "608",
+      "Write In": "0",
+      "ward": 5,
+      "division": "All"
+    },
+    {
+      "Candidate": "Write In",
+      "Alan Butkovitz": "",
+      "Terrence J Tracy Jr": "",
+      "Write In": "3",
+      "ward": 5,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "2,048",
+      "Terrence J Tracy Jr": "608",
+      "Write In": "3",
+      "ward": 5,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Terrence J Tracy Jr": "Terrence J Tracy Jr",
+      "Write In": "Write In",
+      "ward": 5,
+      "division": 1
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "146",
+      "Terrence J Tracy Jr": "0",
+      "Write In": "0",
+      "ward": 5,
+      "division": 1
+    },
+    {
+      "Candidate": "Terrence J Tracy Jr",
+      "Alan Butkovitz": "",
+      "Terrence J Tracy Jr": "37",
+      "Write In": "0",
+      "ward": 5,
+      "division": 1
+    },
+    {
+      "Candidate": "Write In",
+      "Alan Butkovitz": "",
+      "Terrence J Tracy Jr": "",
+      "Write In": "1",
+      "ward": 5,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "146",
+      "Terrence J Tracy Jr": "37",
+      "Write In": "1",
+      "ward": 5,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Terrence J Tracy Jr": "Terrence J Tracy Jr",
+      "ward": 5,
+      "division": 2
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "73",
+      "Terrence J Tracy Jr": "0",
+      "ward": 5,
+      "division": 2
+    },
+    {
+      "Candidate": "Terrence J Tracy Jr",
+      "Alan Butkovitz": "",
+      "Terrence J Tracy Jr": "27",
+      "ward": 5,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "73",
+      "Terrence J Tracy Jr": "27",
+      "ward": 5,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Terrence J Tracy Jr": "Terrence J Tracy Jr",
+      "ward": 5,
+      "division": 3
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "122",
+      "Terrence J Tracy Jr": "0",
+      "ward": 5,
+      "division": 3
+    },
+    {
+      "Candidate": "Terrence J Tracy Jr",
+      "Alan Butkovitz": "",
+      "Terrence J Tracy Jr": "57",
+      "ward": 5,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "122",
+      "Terrence J Tracy Jr": "57",
+      "ward": 5,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Terrence J Tracy Jr": "Terrence J Tracy Jr",
+      "ward": 5,
+      "division": 4
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "99",
+      "Terrence J Tracy Jr": "0",
+      "ward": 5,
+      "division": 4
+    },
+    {
+      "Candidate": "Terrence J Tracy Jr",
+      "Alan Butkovitz": "",
+      "Terrence J Tracy Jr": "28",
+      "ward": 5,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "99",
+      "Terrence J Tracy Jr": "28",
+      "ward": 5,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Terrence J Tracy Jr": "Terrence J Tracy Jr",
+      "ward": 5,
+      "division": 5
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "77",
+      "Terrence J Tracy Jr": "0",
+      "ward": 5,
+      "division": 5
+    },
+    {
+      "Candidate": "Terrence J Tracy Jr",
+      "Alan Butkovitz": "",
+      "Terrence J Tracy Jr": "31",
+      "ward": 5,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "77",
+      "Terrence J Tracy Jr": "31",
+      "ward": 5,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Terrence J Tracy Jr": "Terrence J Tracy Jr",
+      "Write In": "Write In",
+      "ward": 5,
+      "division": 6
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "86",
+      "Terrence J Tracy Jr": "0",
+      "Write In": "0",
+      "ward": 5,
+      "division": 6
+    },
+    {
+      "Candidate": "Terrence J Tracy Jr",
+      "Alan Butkovitz": "",
+      "Terrence J Tracy Jr": "32",
+      "Write In": "0",
+      "ward": 5,
+      "division": 6
+    },
+    {
+      "Candidate": "Write In",
+      "Alan Butkovitz": "",
+      "Terrence J Tracy Jr": "",
+      "Write In": "2",
+      "ward": 5,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "86",
+      "Terrence J Tracy Jr": "32",
+      "Write In": "2",
+      "ward": 5,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Terrence J Tracy Jr": "Terrence J Tracy Jr",
+      "ward": 5,
+      "division": 7
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "62",
+      "Terrence J Tracy Jr": "0",
+      "ward": 5,
+      "division": 7
+    },
+    {
+      "Candidate": "Terrence J Tracy Jr",
+      "Alan Butkovitz": "",
+      "Terrence J Tracy Jr": "18",
+      "ward": 5,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "62",
+      "Terrence J Tracy Jr": "18",
+      "ward": 5,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Terrence J Tracy Jr": "Terrence J Tracy Jr",
+      "ward": 5,
+      "division": 8
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "107",
+      "Terrence J Tracy Jr": "0",
+      "ward": 5,
+      "division": 8
+    },
+    {
+      "Candidate": "Terrence J Tracy Jr",
+      "Alan Butkovitz": "",
+      "Terrence J Tracy Jr": "16",
+      "ward": 5,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "107",
+      "Terrence J Tracy Jr": "16",
+      "ward": 5,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Terrence J Tracy Jr": "Terrence J Tracy Jr",
+      "ward": 5,
+      "division": 9
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "90",
+      "Terrence J Tracy Jr": "0",
+      "ward": 5,
+      "division": 9
+    },
+    {
+      "Candidate": "Terrence J Tracy Jr",
+      "Alan Butkovitz": "",
+      "Terrence J Tracy Jr": "17",
+      "ward": 5,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "90",
+      "Terrence J Tracy Jr": "17",
+      "ward": 5,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Terrence J Tracy Jr": "Terrence J Tracy Jr",
+      "ward": 5,
+      "division": 10
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "38",
+      "Terrence J Tracy Jr": "0",
+      "ward": 5,
+      "division": 10
+    },
+    {
+      "Candidate": "Terrence J Tracy Jr",
+      "Alan Butkovitz": "",
+      "Terrence J Tracy Jr": "23",
+      "ward": 5,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "38",
+      "Terrence J Tracy Jr": "23",
+      "ward": 5,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Terrence J Tracy Jr": "Terrence J Tracy Jr",
+      "ward": 5,
+      "division": 11
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "66",
+      "Terrence J Tracy Jr": "0",
+      "ward": 5,
+      "division": 11
+    },
+    {
+      "Candidate": "Terrence J Tracy Jr",
+      "Alan Butkovitz": "",
+      "Terrence J Tracy Jr": "14",
+      "ward": 5,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "66",
+      "Terrence J Tracy Jr": "14",
+      "ward": 5,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Terrence J Tracy Jr": "Terrence J Tracy Jr",
+      "ward": 5,
+      "division": 12
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "67",
+      "Terrence J Tracy Jr": "0",
+      "ward": 5,
+      "division": 12
+    },
+    {
+      "Candidate": "Terrence J Tracy Jr",
+      "Alan Butkovitz": "",
+      "Terrence J Tracy Jr": "17",
+      "ward": 5,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "67",
+      "Terrence J Tracy Jr": "17",
+      "ward": 5,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Terrence J Tracy Jr": "Terrence J Tracy Jr",
+      "ward": 5,
+      "division": 13
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "9",
+      "Terrence J Tracy Jr": "0",
+      "ward": 5,
+      "division": 13
+    },
+    {
+      "Candidate": "Terrence J Tracy Jr",
+      "Alan Butkovitz": "",
+      "Terrence J Tracy Jr": "6",
+      "ward": 5,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "9",
+      "Terrence J Tracy Jr": "6",
+      "ward": 5,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Terrence J Tracy Jr": "Terrence J Tracy Jr",
+      "ward": 5,
+      "division": 14
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "69",
+      "Terrence J Tracy Jr": "0",
+      "ward": 5,
+      "division": 14
+    },
+    {
+      "Candidate": "Terrence J Tracy Jr",
+      "Alan Butkovitz": "",
+      "Terrence J Tracy Jr": "19",
+      "ward": 5,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "69",
+      "Terrence J Tracy Jr": "19",
+      "ward": 5,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Terrence J Tracy Jr": "Terrence J Tracy Jr",
+      "ward": 5,
+      "division": 15
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "32",
+      "Terrence J Tracy Jr": "0",
+      "ward": 5,
+      "division": 15
+    },
+    {
+      "Candidate": "Terrence J Tracy Jr",
+      "Alan Butkovitz": "",
+      "Terrence J Tracy Jr": "18",
+      "ward": 5,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "32",
+      "Terrence J Tracy Jr": "18",
+      "ward": 5,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Terrence J Tracy Jr": "Terrence J Tracy Jr",
+      "ward": 5,
+      "division": 16
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "47",
+      "Terrence J Tracy Jr": "0",
+      "ward": 5,
+      "division": 16
+    },
+    {
+      "Candidate": "Terrence J Tracy Jr",
+      "Alan Butkovitz": "",
+      "Terrence J Tracy Jr": "12",
+      "ward": 5,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "47",
+      "Terrence J Tracy Jr": "12",
+      "ward": 5,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Terrence J Tracy Jr": "Terrence J Tracy Jr",
+      "ward": 5,
+      "division": 17
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "72",
+      "Terrence J Tracy Jr": "0",
+      "ward": 5,
+      "division": 17
+    },
+    {
+      "Candidate": "Terrence J Tracy Jr",
+      "Alan Butkovitz": "",
+      "Terrence J Tracy Jr": "18",
+      "ward": 5,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "72",
+      "Terrence J Tracy Jr": "18",
+      "ward": 5,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Terrence J Tracy Jr": "Terrence J Tracy Jr",
+      "ward": 5,
+      "division": 18
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "133",
+      "Terrence J Tracy Jr": "0",
+      "ward": 5,
+      "division": 18
+    },
+    {
+      "Candidate": "Terrence J Tracy Jr",
+      "Alan Butkovitz": "",
+      "Terrence J Tracy Jr": "58",
+      "ward": 5,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "133",
+      "Terrence J Tracy Jr": "58",
+      "ward": 5,
+      "division": 18
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Terrence J Tracy Jr": "Terrence J Tracy Jr",
+      "ward": 5,
+      "division": 19
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "131",
+      "Terrence J Tracy Jr": "0",
+      "ward": 5,
+      "division": 19
+    },
+    {
+      "Candidate": "Terrence J Tracy Jr",
+      "Alan Butkovitz": "",
+      "Terrence J Tracy Jr": "43",
+      "ward": 5,
+      "division": 19
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "131",
+      "Terrence J Tracy Jr": "43",
+      "ward": 5,
+      "division": 19
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Terrence J Tracy Jr": "Terrence J Tracy Jr",
+      "ward": 5,
+      "division": 20
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "35",
+      "Terrence J Tracy Jr": "0",
+      "ward": 5,
+      "division": 20
+    },
+    {
+      "Candidate": "Terrence J Tracy Jr",
+      "Alan Butkovitz": "",
+      "Terrence J Tracy Jr": "6",
+      "ward": 5,
+      "division": 20
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "35",
+      "Terrence J Tracy Jr": "6",
+      "ward": 5,
+      "division": 20
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Terrence J Tracy Jr": "Terrence J Tracy Jr",
+      "ward": 5,
+      "division": 21
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "79",
+      "Terrence J Tracy Jr": "0",
+      "ward": 5,
+      "division": 21
+    },
+    {
+      "Candidate": "Terrence J Tracy Jr",
+      "Alan Butkovitz": "",
+      "Terrence J Tracy Jr": "21",
+      "ward": 5,
+      "division": 21
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "79",
+      "Terrence J Tracy Jr": "21",
+      "ward": 5,
+      "division": 21
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Terrence J Tracy Jr": "Terrence J Tracy Jr",
+      "ward": 5,
+      "division": 22
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "68",
+      "Terrence J Tracy Jr": "0",
+      "ward": 5,
+      "division": 22
+    },
+    {
+      "Candidate": "Terrence J Tracy Jr",
+      "Alan Butkovitz": "",
+      "Terrence J Tracy Jr": "16",
+      "ward": 5,
+      "division": 22
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "68",
+      "Terrence J Tracy Jr": "16",
+      "ward": 5,
+      "division": 22
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Terrence J Tracy Jr": "Terrence J Tracy Jr",
+      "ward": 5,
+      "division": 23
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "100",
+      "Terrence J Tracy Jr": "0",
+      "ward": 5,
+      "division": 23
+    },
+    {
+      "Candidate": "Terrence J Tracy Jr",
+      "Alan Butkovitz": "",
+      "Terrence J Tracy Jr": "9",
+      "ward": 5,
+      "division": 23
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "100",
+      "Terrence J Tracy Jr": "9",
+      "ward": 5,
+      "division": 23
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Terrence J Tracy Jr": "Terrence J Tracy Jr",
+      "ward": 5,
+      "division": 24
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "41",
+      "Terrence J Tracy Jr": "0",
+      "ward": 5,
+      "division": 24
+    },
+    {
+      "Candidate": "Terrence J Tracy Jr",
+      "Alan Butkovitz": "",
+      "Terrence J Tracy Jr": "14",
+      "ward": 5,
+      "division": 24
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "41",
+      "Terrence J Tracy Jr": "14",
+      "ward": 5,
+      "division": 24
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Terrence J Tracy Jr": "Terrence J Tracy Jr",
+      "ward": 5,
+      "division": 25
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "38",
+      "Terrence J Tracy Jr": "0",
+      "ward": 5,
+      "division": 25
+    },
+    {
+      "Candidate": "Terrence J Tracy Jr",
+      "Alan Butkovitz": "",
+      "Terrence J Tracy Jr": "11",
+      "ward": 5,
+      "division": 25
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "38",
+      "Terrence J Tracy Jr": "11",
+      "ward": 5,
+      "division": 25
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Terrence J Tracy Jr": "Terrence J Tracy Jr",
+      "ward": 5,
+      "division": 26
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "62",
+      "Terrence J Tracy Jr": "0",
+      "ward": 5,
+      "division": 26
+    },
+    {
+      "Candidate": "Terrence J Tracy Jr",
+      "Alan Butkovitz": "",
+      "Terrence J Tracy Jr": "11",
+      "ward": 5,
+      "division": 26
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "62",
+      "Terrence J Tracy Jr": "11",
+      "ward": 5,
+      "division": 26
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Terrence J Tracy Jr": "Terrence J Tracy Jr",
+      "ward": 5,
+      "division": 27
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "58",
+      "Terrence J Tracy Jr": "0",
+      "ward": 5,
+      "division": 27
+    },
+    {
+      "Candidate": "Terrence J Tracy Jr",
+      "Alan Butkovitz": "",
+      "Terrence J Tracy Jr": "19",
+      "ward": 5,
+      "division": 27
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "58",
+      "Terrence J Tracy Jr": "19",
+      "ward": 5,
+      "division": 27
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Terrence J Tracy Jr": "Terrence J Tracy Jr",
+      "ward": 5,
+      "division": 28
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "34",
+      "Terrence J Tracy Jr": "0",
+      "ward": 5,
+      "division": 28
+    },
+    {
+      "Candidate": "Terrence J Tracy Jr",
+      "Alan Butkovitz": "",
+      "Terrence J Tracy Jr": "9",
+      "ward": 5,
+      "division": 28
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "34",
+      "Terrence J Tracy Jr": "9",
+      "ward": 5,
+      "division": 28
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Alan Butkovitz": "Alan Butkovitz",
+      "Terrence J Tracy Jr": "Terrence J Tracy Jr",
+      "ward": 5,
+      "division": 29
+    },
+    {
+      "Candidate": "Alan Butkovitz",
+      "Alan Butkovitz": "7",
+      "Terrence J Tracy Jr": "0",
+      "ward": 5,
+      "division": 29
+    },
+    {
+      "Candidate": "Terrence J Tracy Jr",
+      "Alan Butkovitz": "",
+      "Terrence J Tracy Jr": "1",
+      "ward": 5,
+      "division": 29
+    },
+    {
+      "Candidate": "Total",
+      "Alan Butkovitz": "7",
+      "Terrence J Tracy Jr": "1",
+      "ward": 5,
+      "division": 29
+    }
+  ]
+]

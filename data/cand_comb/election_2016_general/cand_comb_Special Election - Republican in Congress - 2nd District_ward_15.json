@@ -1,0 +1,62 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "James Jones": "James Jones",
+      "ward": 15,
+      "division": "All"
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "304",
+      "James Jones": "0",
+      "ward": 15,
+      "division": "All"
+    },
+    {
+      "Candidate": "James Jones",
+      "Dwight Evans": "",
+      "James Jones": "44",
+      "ward": 15,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "304",
+      "James Jones": "44",
+      "ward": 15,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Dwight Evans": "Dwight Evans",
+      "James Jones": "James Jones",
+      "ward": 15,
+      "division": 15
+    },
+    {
+      "Candidate": "Dwight Evans",
+      "Dwight Evans": "304",
+      "James Jones": "0",
+      "ward": 15,
+      "division": 15
+    },
+    {
+      "Candidate": "James Jones",
+      "Dwight Evans": "",
+      "James Jones": "44",
+      "ward": 15,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "Dwight Evans": "304",
+      "James Jones": "44",
+      "ward": 15,
+      "division": 15
+    }
+  ]
+]

@@ -1,0 +1,836 @@
+[
+  [
+    {
+      "Candidate": "",
+      "John Sabatina": "John Sabatina",
+      "Ross Feinberg": "Ross Feinberg",
+      "Write In": "Write In",
+      "ward": 41,
+      "division": "All"
+    },
+    {
+      "Candidate": "John Sabatina",
+      "John Sabatina": "5,757",
+      "Ross Feinberg": "0",
+      "Write In": "0",
+      "ward": 41,
+      "division": "All"
+    },
+    {
+      "Candidate": "Ross Feinberg",
+      "John Sabatina": "",
+      "Ross Feinberg": "1,569",
+      "Write In": "0",
+      "ward": 41,
+      "division": "All"
+    },
+    {
+      "Candidate": "Write In",
+      "John Sabatina": "",
+      "Ross Feinberg": "",
+      "Write In": "1",
+      "ward": 41,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "John Sabatina": "5,757",
+      "Ross Feinberg": "1,569",
+      "Write In": "1",
+      "ward": 41,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Sabatina": "John Sabatina",
+      "Ross Feinberg": "Ross Feinberg",
+      "ward": 41,
+      "division": 1
+    },
+    {
+      "Candidate": "John Sabatina",
+      "John Sabatina": "219",
+      "Ross Feinberg": "0",
+      "ward": 41,
+      "division": 1
+    },
+    {
+      "Candidate": "Ross Feinberg",
+      "John Sabatina": "",
+      "Ross Feinberg": "58",
+      "ward": 41,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "John Sabatina": "219",
+      "Ross Feinberg": "58",
+      "ward": 41,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Sabatina": "John Sabatina",
+      "Ross Feinberg": "Ross Feinberg",
+      "ward": 41,
+      "division": 2
+    },
+    {
+      "Candidate": "John Sabatina",
+      "John Sabatina": "262",
+      "Ross Feinberg": "0",
+      "ward": 41,
+      "division": 2
+    },
+    {
+      "Candidate": "Ross Feinberg",
+      "John Sabatina": "",
+      "Ross Feinberg": "33",
+      "ward": 41,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "John Sabatina": "262",
+      "Ross Feinberg": "33",
+      "ward": 41,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Sabatina": "John Sabatina",
+      "Ross Feinberg": "Ross Feinberg",
+      "ward": 41,
+      "division": 3
+    },
+    {
+      "Candidate": "John Sabatina",
+      "John Sabatina": "224",
+      "Ross Feinberg": "0",
+      "ward": 41,
+      "division": 3
+    },
+    {
+      "Candidate": "Ross Feinberg",
+      "John Sabatina": "",
+      "Ross Feinberg": "39",
+      "ward": 41,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "John Sabatina": "224",
+      "Ross Feinberg": "39",
+      "ward": 41,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Sabatina": "John Sabatina",
+      "Ross Feinberg": "Ross Feinberg",
+      "ward": 41,
+      "division": 4
+    },
+    {
+      "Candidate": "John Sabatina",
+      "John Sabatina": "254",
+      "Ross Feinberg": "0",
+      "ward": 41,
+      "division": 4
+    },
+    {
+      "Candidate": "Ross Feinberg",
+      "John Sabatina": "",
+      "Ross Feinberg": "61",
+      "ward": 41,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "John Sabatina": "254",
+      "Ross Feinberg": "61",
+      "ward": 41,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Sabatina": "John Sabatina",
+      "Ross Feinberg": "Ross Feinberg",
+      "ward": 41,
+      "division": 5
+    },
+    {
+      "Candidate": "John Sabatina",
+      "John Sabatina": "160",
+      "Ross Feinberg": "0",
+      "ward": 41,
+      "division": 5
+    },
+    {
+      "Candidate": "Ross Feinberg",
+      "John Sabatina": "",
+      "Ross Feinberg": "44",
+      "ward": 41,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "John Sabatina": "160",
+      "Ross Feinberg": "44",
+      "ward": 41,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Sabatina": "John Sabatina",
+      "Ross Feinberg": "Ross Feinberg",
+      "ward": 41,
+      "division": 6
+    },
+    {
+      "Candidate": "John Sabatina",
+      "John Sabatina": "251",
+      "Ross Feinberg": "0",
+      "ward": 41,
+      "division": 6
+    },
+    {
+      "Candidate": "Ross Feinberg",
+      "John Sabatina": "",
+      "Ross Feinberg": "68",
+      "ward": 41,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "John Sabatina": "251",
+      "Ross Feinberg": "68",
+      "ward": 41,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Sabatina": "John Sabatina",
+      "Ross Feinberg": "Ross Feinberg",
+      "ward": 41,
+      "division": 7
+    },
+    {
+      "Candidate": "John Sabatina",
+      "John Sabatina": "194",
+      "Ross Feinberg": "0",
+      "ward": 41,
+      "division": 7
+    },
+    {
+      "Candidate": "Ross Feinberg",
+      "John Sabatina": "",
+      "Ross Feinberg": "56",
+      "ward": 41,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "John Sabatina": "194",
+      "Ross Feinberg": "56",
+      "ward": 41,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Sabatina": "John Sabatina",
+      "Ross Feinberg": "Ross Feinberg",
+      "ward": 41,
+      "division": 8
+    },
+    {
+      "Candidate": "John Sabatina",
+      "John Sabatina": "259",
+      "Ross Feinberg": "0",
+      "ward": 41,
+      "division": 8
+    },
+    {
+      "Candidate": "Ross Feinberg",
+      "John Sabatina": "",
+      "Ross Feinberg": "65",
+      "ward": 41,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "John Sabatina": "259",
+      "Ross Feinberg": "65",
+      "ward": 41,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Sabatina": "John Sabatina",
+      "Ross Feinberg": "Ross Feinberg",
+      "ward": 41,
+      "division": 9
+    },
+    {
+      "Candidate": "John Sabatina",
+      "John Sabatina": "236",
+      "Ross Feinberg": "0",
+      "ward": 41,
+      "division": 9
+    },
+    {
+      "Candidate": "Ross Feinberg",
+      "John Sabatina": "",
+      "Ross Feinberg": "64",
+      "ward": 41,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "John Sabatina": "236",
+      "Ross Feinberg": "64",
+      "ward": 41,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Sabatina": "John Sabatina",
+      "Ross Feinberg": "Ross Feinberg",
+      "ward": 41,
+      "division": 10
+    },
+    {
+      "Candidate": "John Sabatina",
+      "John Sabatina": "273",
+      "Ross Feinberg": "0",
+      "ward": 41,
+      "division": 10
+    },
+    {
+      "Candidate": "Ross Feinberg",
+      "John Sabatina": "",
+      "Ross Feinberg": "65",
+      "ward": 41,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "John Sabatina": "273",
+      "Ross Feinberg": "65",
+      "ward": 41,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Sabatina": "John Sabatina",
+      "Ross Feinberg": "Ross Feinberg",
+      "Write In": "Write In",
+      "ward": 41,
+      "division": 11
+    },
+    {
+      "Candidate": "John Sabatina",
+      "John Sabatina": "191",
+      "Ross Feinberg": "0",
+      "Write In": "0",
+      "ward": 41,
+      "division": 11
+    },
+    {
+      "Candidate": "Ross Feinberg",
+      "John Sabatina": "",
+      "Ross Feinberg": "51",
+      "Write In": "0",
+      "ward": 41,
+      "division": 11
+    },
+    {
+      "Candidate": "Write In",
+      "John Sabatina": "",
+      "Ross Feinberg": "",
+      "Write In": "1",
+      "ward": 41,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "John Sabatina": "191",
+      "Ross Feinberg": "51",
+      "Write In": "1",
+      "ward": 41,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Sabatina": "John Sabatina",
+      "Ross Feinberg": "Ross Feinberg",
+      "ward": 41,
+      "division": 12
+    },
+    {
+      "Candidate": "John Sabatina",
+      "John Sabatina": "215",
+      "Ross Feinberg": "0",
+      "ward": 41,
+      "division": 12
+    },
+    {
+      "Candidate": "Ross Feinberg",
+      "John Sabatina": "",
+      "Ross Feinberg": "56",
+      "ward": 41,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "John Sabatina": "215",
+      "Ross Feinberg": "56",
+      "ward": 41,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Sabatina": "John Sabatina",
+      "Ross Feinberg": "Ross Feinberg",
+      "ward": 41,
+      "division": 13
+    },
+    {
+      "Candidate": "John Sabatina",
+      "John Sabatina": "131",
+      "Ross Feinberg": "0",
+      "ward": 41,
+      "division": 13
+    },
+    {
+      "Candidate": "Ross Feinberg",
+      "John Sabatina": "",
+      "Ross Feinberg": "34",
+      "ward": 41,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "John Sabatina": "131",
+      "Ross Feinberg": "34",
+      "ward": 41,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Sabatina": "John Sabatina",
+      "Ross Feinberg": "Ross Feinberg",
+      "ward": 41,
+      "division": 14
+    },
+    {
+      "Candidate": "John Sabatina",
+      "John Sabatina": "239",
+      "Ross Feinberg": "0",
+      "ward": 41,
+      "division": 14
+    },
+    {
+      "Candidate": "Ross Feinberg",
+      "John Sabatina": "",
+      "Ross Feinberg": "52",
+      "ward": 41,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "John Sabatina": "239",
+      "Ross Feinberg": "52",
+      "ward": 41,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Sabatina": "John Sabatina",
+      "Ross Feinberg": "Ross Feinberg",
+      "ward": 41,
+      "division": 15
+    },
+    {
+      "Candidate": "John Sabatina",
+      "John Sabatina": "263",
+      "Ross Feinberg": "0",
+      "ward": 41,
+      "division": 15
+    },
+    {
+      "Candidate": "Ross Feinberg",
+      "John Sabatina": "",
+      "Ross Feinberg": "63",
+      "ward": 41,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "John Sabatina": "263",
+      "Ross Feinberg": "63",
+      "ward": 41,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Sabatina": "John Sabatina",
+      "Ross Feinberg": "Ross Feinberg",
+      "ward": 41,
+      "division": 16
+    },
+    {
+      "Candidate": "John Sabatina",
+      "John Sabatina": "177",
+      "Ross Feinberg": "0",
+      "ward": 41,
+      "division": 16
+    },
+    {
+      "Candidate": "Ross Feinberg",
+      "John Sabatina": "",
+      "Ross Feinberg": "42",
+      "ward": 41,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "John Sabatina": "177",
+      "Ross Feinberg": "42",
+      "ward": 41,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Sabatina": "John Sabatina",
+      "Ross Feinberg": "Ross Feinberg",
+      "ward": 41,
+      "division": 17
+    },
+    {
+      "Candidate": "John Sabatina",
+      "John Sabatina": "178",
+      "Ross Feinberg": "0",
+      "ward": 41,
+      "division": 17
+    },
+    {
+      "Candidate": "Ross Feinberg",
+      "John Sabatina": "",
+      "Ross Feinberg": "74",
+      "ward": 41,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "John Sabatina": "178",
+      "Ross Feinberg": "74",
+      "ward": 41,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Sabatina": "John Sabatina",
+      "Ross Feinberg": "Ross Feinberg",
+      "ward": 41,
+      "division": 18
+    },
+    {
+      "Candidate": "John Sabatina",
+      "John Sabatina": "195",
+      "Ross Feinberg": "0",
+      "ward": 41,
+      "division": 18
+    },
+    {
+      "Candidate": "Ross Feinberg",
+      "John Sabatina": "",
+      "Ross Feinberg": "62",
+      "ward": 41,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "John Sabatina": "195",
+      "Ross Feinberg": "62",
+      "ward": 41,
+      "division": 18
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Sabatina": "John Sabatina",
+      "Ross Feinberg": "Ross Feinberg",
+      "ward": 41,
+      "division": 19
+    },
+    {
+      "Candidate": "John Sabatina",
+      "John Sabatina": "206",
+      "Ross Feinberg": "0",
+      "ward": 41,
+      "division": 19
+    },
+    {
+      "Candidate": "Ross Feinberg",
+      "John Sabatina": "",
+      "Ross Feinberg": "87",
+      "ward": 41,
+      "division": 19
+    },
+    {
+      "Candidate": "Total",
+      "John Sabatina": "206",
+      "Ross Feinberg": "87",
+      "ward": 41,
+      "division": 19
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Sabatina": "John Sabatina",
+      "Ross Feinberg": "Ross Feinberg",
+      "ward": 41,
+      "division": 20
+    },
+    {
+      "Candidate": "John Sabatina",
+      "John Sabatina": "229",
+      "Ross Feinberg": "0",
+      "ward": 41,
+      "division": 20
+    },
+    {
+      "Candidate": "Ross Feinberg",
+      "John Sabatina": "",
+      "Ross Feinberg": "47",
+      "ward": 41,
+      "division": 20
+    },
+    {
+      "Candidate": "Total",
+      "John Sabatina": "229",
+      "Ross Feinberg": "47",
+      "ward": 41,
+      "division": 20
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Sabatina": "John Sabatina",
+      "Ross Feinberg": "Ross Feinberg",
+      "ward": 41,
+      "division": 21
+    },
+    {
+      "Candidate": "John Sabatina",
+      "John Sabatina": "210",
+      "Ross Feinberg": "0",
+      "ward": 41,
+      "division": 21
+    },
+    {
+      "Candidate": "Ross Feinberg",
+      "John Sabatina": "",
+      "Ross Feinberg": "78",
+      "ward": 41,
+      "division": 21
+    },
+    {
+      "Candidate": "Total",
+      "John Sabatina": "210",
+      "Ross Feinberg": "78",
+      "ward": 41,
+      "division": 21
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Sabatina": "John Sabatina",
+      "Ross Feinberg": "Ross Feinberg",
+      "ward": 41,
+      "division": 22
+    },
+    {
+      "Candidate": "John Sabatina",
+      "John Sabatina": "242",
+      "Ross Feinberg": "0",
+      "ward": 41,
+      "division": 22
+    },
+    {
+      "Candidate": "Ross Feinberg",
+      "John Sabatina": "",
+      "Ross Feinberg": "62",
+      "ward": 41,
+      "division": 22
+    },
+    {
+      "Candidate": "Total",
+      "John Sabatina": "242",
+      "Ross Feinberg": "62",
+      "ward": 41,
+      "division": 22
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Sabatina": "John Sabatina",
+      "Ross Feinberg": "Ross Feinberg",
+      "ward": 41,
+      "division": 23
+    },
+    {
+      "Candidate": "John Sabatina",
+      "John Sabatina": "244",
+      "Ross Feinberg": "0",
+      "ward": 41,
+      "division": 23
+    },
+    {
+      "Candidate": "Ross Feinberg",
+      "John Sabatina": "",
+      "Ross Feinberg": "87",
+      "ward": 41,
+      "division": 23
+    },
+    {
+      "Candidate": "Total",
+      "John Sabatina": "244",
+      "Ross Feinberg": "87",
+      "ward": 41,
+      "division": 23
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Sabatina": "John Sabatina",
+      "Ross Feinberg": "Ross Feinberg",
+      "ward": 41,
+      "division": 24
+    },
+    {
+      "Candidate": "John Sabatina",
+      "John Sabatina": "221",
+      "Ross Feinberg": "0",
+      "ward": 41,
+      "division": 24
+    },
+    {
+      "Candidate": "Ross Feinberg",
+      "John Sabatina": "",
+      "Ross Feinberg": "85",
+      "ward": 41,
+      "division": 24
+    },
+    {
+      "Candidate": "Total",
+      "John Sabatina": "221",
+      "Ross Feinberg": "85",
+      "ward": 41,
+      "division": 24
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Sabatina": "John Sabatina",
+      "Ross Feinberg": "Ross Feinberg",
+      "ward": 41,
+      "division": 25
+    },
+    {
+      "Candidate": "John Sabatina",
+      "John Sabatina": "278",
+      "Ross Feinberg": "0",
+      "ward": 41,
+      "division": 25
+    },
+    {
+      "Candidate": "Ross Feinberg",
+      "John Sabatina": "",
+      "Ross Feinberg": "84",
+      "ward": 41,
+      "division": 25
+    },
+    {
+      "Candidate": "Total",
+      "John Sabatina": "278",
+      "Ross Feinberg": "84",
+      "ward": 41,
+      "division": 25
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Sabatina": "John Sabatina",
+      "Ross Feinberg": "Ross Feinberg",
+      "ward": 41,
+      "division": 26
+    },
+    {
+      "Candidate": "John Sabatina",
+      "John Sabatina": "206",
+      "Ross Feinberg": "0",
+      "ward": 41,
+      "division": 26
+    },
+    {
+      "Candidate": "Ross Feinberg",
+      "John Sabatina": "",
+      "Ross Feinberg": "52",
+      "ward": 41,
+      "division": 26
+    },
+    {
+      "Candidate": "Total",
+      "John Sabatina": "206",
+      "Ross Feinberg": "52",
+      "ward": 41,
+      "division": 26
+    }
+  ]
+]

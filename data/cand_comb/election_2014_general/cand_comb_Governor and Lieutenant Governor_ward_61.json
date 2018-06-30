@@ -1,0 +1,896 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Tom Wolf": "Tom Wolf",
+      "Tom Corbett": "Tom Corbett",
+      "Write In": "Write In",
+      "ward": 61,
+      "division": "All"
+    },
+    {
+      "Candidate": "Tom Wolf",
+      "Tom Wolf": "6,682",
+      "Tom Corbett": "0",
+      "Write In": "0",
+      "ward": 61,
+      "division": "All"
+    },
+    {
+      "Candidate": "Tom Corbett",
+      "Tom Wolf": "",
+      "Tom Corbett": "337",
+      "Write In": "0",
+      "ward": 61,
+      "division": "All"
+    },
+    {
+      "Candidate": "Write In",
+      "Tom Wolf": "",
+      "Tom Corbett": "",
+      "Write In": "1",
+      "ward": 61,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Tom Wolf": "6,682",
+      "Tom Corbett": "337",
+      "Write In": "1",
+      "ward": 61,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Tom Wolf": "Tom Wolf",
+      "Tom Corbett": "Tom Corbett",
+      "ward": 61,
+      "division": 1
+    },
+    {
+      "Candidate": "Tom Wolf",
+      "Tom Wolf": "196",
+      "Tom Corbett": "0",
+      "ward": 61,
+      "division": 1
+    },
+    {
+      "Candidate": "Tom Corbett",
+      "Tom Wolf": "",
+      "Tom Corbett": "10",
+      "ward": 61,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Tom Wolf": "196",
+      "Tom Corbett": "10",
+      "ward": 61,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Tom Wolf": "Tom Wolf",
+      "Tom Corbett": "Tom Corbett",
+      "ward": 61,
+      "division": 2
+    },
+    {
+      "Candidate": "Tom Wolf",
+      "Tom Wolf": "234",
+      "Tom Corbett": "0",
+      "ward": 61,
+      "division": 2
+    },
+    {
+      "Candidate": "Tom Corbett",
+      "Tom Wolf": "",
+      "Tom Corbett": "12",
+      "ward": 61,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "Tom Wolf": "234",
+      "Tom Corbett": "12",
+      "ward": 61,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Tom Wolf": "Tom Wolf",
+      "Tom Corbett": "Tom Corbett",
+      "ward": 61,
+      "division": 3
+    },
+    {
+      "Candidate": "Tom Wolf",
+      "Tom Wolf": "200",
+      "Tom Corbett": "0",
+      "ward": 61,
+      "division": 3
+    },
+    {
+      "Candidate": "Tom Corbett",
+      "Tom Wolf": "",
+      "Tom Corbett": "10",
+      "ward": 61,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Tom Wolf": "200",
+      "Tom Corbett": "10",
+      "ward": 61,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Tom Wolf": "Tom Wolf",
+      "Tom Corbett": "Tom Corbett",
+      "Write In": "Write In",
+      "ward": 61,
+      "division": 4
+    },
+    {
+      "Candidate": "Tom Wolf",
+      "Tom Wolf": "173",
+      "Tom Corbett": "0",
+      "Write In": "0",
+      "ward": 61,
+      "division": 4
+    },
+    {
+      "Candidate": "Tom Corbett",
+      "Tom Wolf": "",
+      "Tom Corbett": "14",
+      "Write In": "0",
+      "ward": 61,
+      "division": 4
+    },
+    {
+      "Candidate": "Write In",
+      "Tom Wolf": "",
+      "Tom Corbett": "",
+      "Write In": "1",
+      "ward": 61,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Tom Wolf": "173",
+      "Tom Corbett": "14",
+      "Write In": "1",
+      "ward": 61,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Tom Wolf": "Tom Wolf",
+      "Tom Corbett": "Tom Corbett",
+      "ward": 61,
+      "division": 5
+    },
+    {
+      "Candidate": "Tom Wolf",
+      "Tom Wolf": "179",
+      "Tom Corbett": "0",
+      "ward": 61,
+      "division": 5
+    },
+    {
+      "Candidate": "Tom Corbett",
+      "Tom Wolf": "",
+      "Tom Corbett": "13",
+      "ward": 61,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Tom Wolf": "179",
+      "Tom Corbett": "13",
+      "ward": 61,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Tom Wolf": "Tom Wolf",
+      "Tom Corbett": "Tom Corbett",
+      "ward": 61,
+      "division": 6
+    },
+    {
+      "Candidate": "Tom Wolf",
+      "Tom Wolf": "426",
+      "Tom Corbett": "0",
+      "ward": 61,
+      "division": 6
+    },
+    {
+      "Candidate": "Tom Corbett",
+      "Tom Wolf": "",
+      "Tom Corbett": "17",
+      "ward": 61,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "Tom Wolf": "426",
+      "Tom Corbett": "17",
+      "ward": 61,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Tom Wolf": "Tom Wolf",
+      "Tom Corbett": "Tom Corbett",
+      "ward": 61,
+      "division": 7
+    },
+    {
+      "Candidate": "Tom Wolf",
+      "Tom Wolf": "274",
+      "Tom Corbett": "0",
+      "ward": 61,
+      "division": 7
+    },
+    {
+      "Candidate": "Tom Corbett",
+      "Tom Wolf": "",
+      "Tom Corbett": "17",
+      "ward": 61,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Tom Wolf": "274",
+      "Tom Corbett": "17",
+      "ward": 61,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Tom Wolf": "Tom Wolf",
+      "Tom Corbett": "Tom Corbett",
+      "ward": 61,
+      "division": 8
+    },
+    {
+      "Candidate": "Tom Wolf",
+      "Tom Wolf": "203",
+      "Tom Corbett": "0",
+      "ward": 61,
+      "division": 8
+    },
+    {
+      "Candidate": "Tom Corbett",
+      "Tom Wolf": "",
+      "Tom Corbett": "19",
+      "ward": 61,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Tom Wolf": "203",
+      "Tom Corbett": "19",
+      "ward": 61,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Tom Wolf": "Tom Wolf",
+      "Tom Corbett": "Tom Corbett",
+      "ward": 61,
+      "division": 9
+    },
+    {
+      "Candidate": "Tom Wolf",
+      "Tom Wolf": "229",
+      "Tom Corbett": "0",
+      "ward": 61,
+      "division": 9
+    },
+    {
+      "Candidate": "Tom Corbett",
+      "Tom Wolf": "",
+      "Tom Corbett": "8",
+      "ward": 61,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Tom Wolf": "229",
+      "Tom Corbett": "8",
+      "ward": 61,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Tom Wolf": "Tom Wolf",
+      "Tom Corbett": "Tom Corbett",
+      "ward": 61,
+      "division": 10
+    },
+    {
+      "Candidate": "Tom Wolf",
+      "Tom Wolf": "221",
+      "Tom Corbett": "0",
+      "ward": 61,
+      "division": 10
+    },
+    {
+      "Candidate": "Tom Corbett",
+      "Tom Wolf": "",
+      "Tom Corbett": "12",
+      "ward": 61,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Tom Wolf": "221",
+      "Tom Corbett": "12",
+      "ward": 61,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Tom Wolf": "Tom Wolf",
+      "Tom Corbett": "Tom Corbett",
+      "ward": 61,
+      "division": 11
+    },
+    {
+      "Candidate": "Tom Wolf",
+      "Tom Wolf": "198",
+      "Tom Corbett": "0",
+      "ward": 61,
+      "division": 11
+    },
+    {
+      "Candidate": "Tom Corbett",
+      "Tom Wolf": "",
+      "Tom Corbett": "8",
+      "ward": 61,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Tom Wolf": "198",
+      "Tom Corbett": "8",
+      "ward": 61,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Tom Wolf": "Tom Wolf",
+      "Tom Corbett": "Tom Corbett",
+      "ward": 61,
+      "division": 12
+    },
+    {
+      "Candidate": "Tom Wolf",
+      "Tom Wolf": "180",
+      "Tom Corbett": "0",
+      "ward": 61,
+      "division": 12
+    },
+    {
+      "Candidate": "Tom Corbett",
+      "Tom Wolf": "",
+      "Tom Corbett": "2",
+      "ward": 61,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Tom Wolf": "180",
+      "Tom Corbett": "2",
+      "ward": 61,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Tom Wolf": "Tom Wolf",
+      "Tom Corbett": "Tom Corbett",
+      "ward": 61,
+      "division": 13
+    },
+    {
+      "Candidate": "Tom Wolf",
+      "Tom Wolf": "219",
+      "Tom Corbett": "0",
+      "ward": 61,
+      "division": 13
+    },
+    {
+      "Candidate": "Tom Corbett",
+      "Tom Wolf": "",
+      "Tom Corbett": "6",
+      "ward": 61,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "Tom Wolf": "219",
+      "Tom Corbett": "6",
+      "ward": 61,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Tom Wolf": "Tom Wolf",
+      "Tom Corbett": "Tom Corbett",
+      "ward": 61,
+      "division": 14
+    },
+    {
+      "Candidate": "Tom Wolf",
+      "Tom Wolf": "215",
+      "Tom Corbett": "0",
+      "ward": 61,
+      "division": 14
+    },
+    {
+      "Candidate": "Tom Corbett",
+      "Tom Wolf": "",
+      "Tom Corbett": "11",
+      "ward": 61,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "Tom Wolf": "215",
+      "Tom Corbett": "11",
+      "ward": 61,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Tom Wolf": "Tom Wolf",
+      "Tom Corbett": "Tom Corbett",
+      "ward": 61,
+      "division": 15
+    },
+    {
+      "Candidate": "Tom Wolf",
+      "Tom Wolf": "197",
+      "Tom Corbett": "0",
+      "ward": 61,
+      "division": 15
+    },
+    {
+      "Candidate": "Tom Corbett",
+      "Tom Wolf": "",
+      "Tom Corbett": "20",
+      "ward": 61,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "Tom Wolf": "197",
+      "Tom Corbett": "20",
+      "ward": 61,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Tom Wolf": "Tom Wolf",
+      "Tom Corbett": "Tom Corbett",
+      "ward": 61,
+      "division": 16
+    },
+    {
+      "Candidate": "Tom Wolf",
+      "Tom Wolf": "224",
+      "Tom Corbett": "0",
+      "ward": 61,
+      "division": 16
+    },
+    {
+      "Candidate": "Tom Corbett",
+      "Tom Wolf": "",
+      "Tom Corbett": "8",
+      "ward": 61,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "Tom Wolf": "224",
+      "Tom Corbett": "8",
+      "ward": 61,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Tom Wolf": "Tom Wolf",
+      "Tom Corbett": "Tom Corbett",
+      "ward": 61,
+      "division": 17
+    },
+    {
+      "Candidate": "Tom Wolf",
+      "Tom Wolf": "203",
+      "Tom Corbett": "0",
+      "ward": 61,
+      "division": 17
+    },
+    {
+      "Candidate": "Tom Corbett",
+      "Tom Wolf": "",
+      "Tom Corbett": "27",
+      "ward": 61,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "Tom Wolf": "203",
+      "Tom Corbett": "27",
+      "ward": 61,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Tom Wolf": "Tom Wolf",
+      "Tom Corbett": "Tom Corbett",
+      "ward": 61,
+      "division": 18
+    },
+    {
+      "Candidate": "Tom Wolf",
+      "Tom Wolf": "258",
+      "Tom Corbett": "0",
+      "ward": 61,
+      "division": 18
+    },
+    {
+      "Candidate": "Tom Corbett",
+      "Tom Wolf": "",
+      "Tom Corbett": "18",
+      "ward": 61,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "Tom Wolf": "258",
+      "Tom Corbett": "18",
+      "ward": 61,
+      "division": 18
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Tom Wolf": "Tom Wolf",
+      "Tom Corbett": "Tom Corbett",
+      "ward": 61,
+      "division": 19
+    },
+    {
+      "Candidate": "Tom Wolf",
+      "Tom Wolf": "253",
+      "Tom Corbett": "0",
+      "ward": 61,
+      "division": 19
+    },
+    {
+      "Candidate": "Tom Corbett",
+      "Tom Wolf": "",
+      "Tom Corbett": "19",
+      "ward": 61,
+      "division": 19
+    },
+    {
+      "Candidate": "Total",
+      "Tom Wolf": "253",
+      "Tom Corbett": "19",
+      "ward": 61,
+      "division": 19
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Tom Wolf": "Tom Wolf",
+      "Tom Corbett": "Tom Corbett",
+      "ward": 61,
+      "division": 20
+    },
+    {
+      "Candidate": "Tom Wolf",
+      "Tom Wolf": "267",
+      "Tom Corbett": "0",
+      "ward": 61,
+      "division": 20
+    },
+    {
+      "Candidate": "Tom Corbett",
+      "Tom Wolf": "",
+      "Tom Corbett": "3",
+      "ward": 61,
+      "division": 20
+    },
+    {
+      "Candidate": "Total",
+      "Tom Wolf": "267",
+      "Tom Corbett": "3",
+      "ward": 61,
+      "division": 20
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Tom Wolf": "Tom Wolf",
+      "Tom Corbett": "Tom Corbett",
+      "ward": 61,
+      "division": 21
+    },
+    {
+      "Candidate": "Tom Wolf",
+      "Tom Wolf": "344",
+      "Tom Corbett": "0",
+      "ward": 61,
+      "division": 21
+    },
+    {
+      "Candidate": "Tom Corbett",
+      "Tom Wolf": "",
+      "Tom Corbett": "7",
+      "ward": 61,
+      "division": 21
+    },
+    {
+      "Candidate": "Total",
+      "Tom Wolf": "344",
+      "Tom Corbett": "7",
+      "ward": 61,
+      "division": 21
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Tom Wolf": "Tom Wolf",
+      "Tom Corbett": "Tom Corbett",
+      "ward": 61,
+      "division": 22
+    },
+    {
+      "Candidate": "Tom Wolf",
+      "Tom Wolf": "198",
+      "Tom Corbett": "0",
+      "ward": 61,
+      "division": 22
+    },
+    {
+      "Candidate": "Tom Corbett",
+      "Tom Wolf": "",
+      "Tom Corbett": "8",
+      "ward": 61,
+      "division": 22
+    },
+    {
+      "Candidate": "Total",
+      "Tom Wolf": "198",
+      "Tom Corbett": "8",
+      "ward": 61,
+      "division": 22
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Tom Wolf": "Tom Wolf",
+      "Tom Corbett": "Tom Corbett",
+      "ward": 61,
+      "division": 23
+    },
+    {
+      "Candidate": "Tom Wolf",
+      "Tom Wolf": "265",
+      "Tom Corbett": "0",
+      "ward": 61,
+      "division": 23
+    },
+    {
+      "Candidate": "Tom Corbett",
+      "Tom Wolf": "",
+      "Tom Corbett": "16",
+      "ward": 61,
+      "division": 23
+    },
+    {
+      "Candidate": "Total",
+      "Tom Wolf": "265",
+      "Tom Corbett": "16",
+      "ward": 61,
+      "division": 23
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Tom Wolf": "Tom Wolf",
+      "Tom Corbett": "Tom Corbett",
+      "ward": 61,
+      "division": 24
+    },
+    {
+      "Candidate": "Tom Wolf",
+      "Tom Wolf": "167",
+      "Tom Corbett": "0",
+      "ward": 61,
+      "division": 24
+    },
+    {
+      "Candidate": "Tom Corbett",
+      "Tom Wolf": "",
+      "Tom Corbett": "15",
+      "ward": 61,
+      "division": 24
+    },
+    {
+      "Candidate": "Total",
+      "Tom Wolf": "167",
+      "Tom Corbett": "15",
+      "ward": 61,
+      "division": 24
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Tom Wolf": "Tom Wolf",
+      "Tom Corbett": "Tom Corbett",
+      "ward": 61,
+      "division": 25
+    },
+    {
+      "Candidate": "Tom Wolf",
+      "Tom Wolf": "290",
+      "Tom Corbett": "0",
+      "ward": 61,
+      "division": 25
+    },
+    {
+      "Candidate": "Tom Corbett",
+      "Tom Wolf": "",
+      "Tom Corbett": "10",
+      "ward": 61,
+      "division": 25
+    },
+    {
+      "Candidate": "Total",
+      "Tom Wolf": "290",
+      "Tom Corbett": "10",
+      "ward": 61,
+      "division": 25
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Tom Wolf": "Tom Wolf",
+      "Tom Corbett": "Tom Corbett",
+      "ward": 61,
+      "division": 26
+    },
+    {
+      "Candidate": "Tom Wolf",
+      "Tom Wolf": "271",
+      "Tom Corbett": "0",
+      "ward": 61,
+      "division": 26
+    },
+    {
+      "Candidate": "Tom Corbett",
+      "Tom Wolf": "",
+      "Tom Corbett": "18",
+      "ward": 61,
+      "division": 26
+    },
+    {
+      "Candidate": "Total",
+      "Tom Wolf": "271",
+      "Tom Corbett": "18",
+      "ward": 61,
+      "division": 26
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Tom Wolf": "Tom Wolf",
+      "Tom Corbett": "Tom Corbett",
+      "ward": 61,
+      "division": 27
+    },
+    {
+      "Candidate": "Tom Wolf",
+      "Tom Wolf": "286",
+      "Tom Corbett": "0",
+      "ward": 61,
+      "division": 27
+    },
+    {
+      "Candidate": "Tom Corbett",
+      "Tom Wolf": "",
+      "Tom Corbett": "5",
+      "ward": 61,
+      "division": 27
+    },
+    {
+      "Candidate": "Total",
+      "Tom Wolf": "286",
+      "Tom Corbett": "5",
+      "ward": 61,
+      "division": 27
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Tom Wolf": "Tom Wolf",
+      "Tom Corbett": "Tom Corbett",
+      "ward": 61,
+      "division": 28
+    },
+    {
+      "Candidate": "Tom Wolf",
+      "Tom Wolf": "312",
+      "Tom Corbett": "0",
+      "ward": 61,
+      "division": 28
+    },
+    {
+      "Candidate": "Tom Corbett",
+      "Tom Wolf": "",
+      "Tom Corbett": "4",
+      "ward": 61,
+      "division": 28
+    },
+    {
+      "Candidate": "Total",
+      "Tom Wolf": "312",
+      "Tom Corbett": "4",
+      "ward": 61,
+      "division": 28
+    }
+  ]
+]

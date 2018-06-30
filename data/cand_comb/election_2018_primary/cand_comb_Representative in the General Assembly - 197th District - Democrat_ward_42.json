@@ -1,0 +1,548 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Frederick Ramirez": "Frederick Ramirez",
+      "Emilio Vazquez": "Emilio Vazquez",
+      "Danilo Burgos": "Danilo Burgos",
+      "Write In": "Write In",
+      "ward": 42,
+      "division": "All"
+    },
+    {
+      "Candidate": "Frederick Ramirez",
+      "Frederick Ramirez": "170",
+      "Emilio Vazquez": "0",
+      "Danilo Burgos": "0",
+      "Write In": "0",
+      "ward": 42,
+      "division": "All"
+    },
+    {
+      "Candidate": "Emilio Vazquez",
+      "Frederick Ramirez": "",
+      "Emilio Vazquez": "153",
+      "Danilo Burgos": "0",
+      "Write In": "0",
+      "ward": 42,
+      "division": "All"
+    },
+    {
+      "Candidate": "Danilo Burgos",
+      "Frederick Ramirez": "",
+      "Emilio Vazquez": "",
+      "Danilo Burgos": "136",
+      "Write In": "0",
+      "ward": 42,
+      "division": "All"
+    },
+    {
+      "Candidate": "Write In",
+      "Frederick Ramirez": "",
+      "Emilio Vazquez": "",
+      "Danilo Burgos": "",
+      "Write In": "2",
+      "ward": 42,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Frederick Ramirez": "170",
+      "Emilio Vazquez": "153",
+      "Danilo Burgos": "136",
+      "Write In": "2",
+      "ward": 42,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Danilo Burgos": "Danilo Burgos",
+      "Emilio Vazquez": "Emilio Vazquez",
+      "Frederick Ramirez": "Frederick Ramirez",
+      "ward": 42,
+      "division": 2
+    },
+    {
+      "Candidate": "Danilo Burgos",
+      "Danilo Burgos": "19",
+      "Emilio Vazquez": "0",
+      "Frederick Ramirez": "0",
+      "ward": 42,
+      "division": 2
+    },
+    {
+      "Candidate": "Emilio Vazquez",
+      "Danilo Burgos": "",
+      "Emilio Vazquez": "17",
+      "Frederick Ramirez": "0",
+      "ward": 42,
+      "division": 2
+    },
+    {
+      "Candidate": "Frederick Ramirez",
+      "Danilo Burgos": "",
+      "Emilio Vazquez": "",
+      "Frederick Ramirez": "7",
+      "ward": 42,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "Danilo Burgos": "19",
+      "Emilio Vazquez": "17",
+      "Frederick Ramirez": "7",
+      "ward": 42,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Emilio Vazquez": "Emilio Vazquez",
+      "Frederick Ramirez": "Frederick Ramirez",
+      "Danilo Burgos": "Danilo Burgos",
+      "ward": 42,
+      "division": 3
+    },
+    {
+      "Candidate": "Emilio Vazquez",
+      "Emilio Vazquez": "28",
+      "Frederick Ramirez": "0",
+      "Danilo Burgos": "0",
+      "ward": 42,
+      "division": 3
+    },
+    {
+      "Candidate": "Frederick Ramirez",
+      "Emilio Vazquez": "",
+      "Frederick Ramirez": "13",
+      "Danilo Burgos": "0",
+      "ward": 42,
+      "division": 3
+    },
+    {
+      "Candidate": "Danilo Burgos",
+      "Emilio Vazquez": "",
+      "Frederick Ramirez": "",
+      "Danilo Burgos": "11",
+      "ward": 42,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Emilio Vazquez": "28",
+      "Frederick Ramirez": "13",
+      "Danilo Burgos": "11",
+      "ward": 42,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Frederick Ramirez": "Frederick Ramirez",
+      "Emilio Vazquez": "Emilio Vazquez",
+      "Danilo Burgos": "Danilo Burgos",
+      "ward": 42,
+      "division": 4
+    },
+    {
+      "Candidate": "Frederick Ramirez",
+      "Frederick Ramirez": "16",
+      "Emilio Vazquez": "0",
+      "Danilo Burgos": "0",
+      "ward": 42,
+      "division": 4
+    },
+    {
+      "Candidate": "Emilio Vazquez",
+      "Frederick Ramirez": "",
+      "Emilio Vazquez": "13",
+      "Danilo Burgos": "0",
+      "ward": 42,
+      "division": 4
+    },
+    {
+      "Candidate": "Danilo Burgos",
+      "Frederick Ramirez": "",
+      "Emilio Vazquez": "",
+      "Danilo Burgos": "4",
+      "ward": 42,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Frederick Ramirez": "16",
+      "Emilio Vazquez": "13",
+      "Danilo Burgos": "4",
+      "ward": 42,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Frederick Ramirez": "Frederick Ramirez",
+      "Danilo Burgos": "Danilo Burgos",
+      "Emilio Vazquez": "Emilio Vazquez",
+      "ward": 42,
+      "division": 5
+    },
+    {
+      "Candidate": "Frederick Ramirez",
+      "Frederick Ramirez": "28",
+      "Danilo Burgos": "0",
+      "Emilio Vazquez": "0",
+      "ward": 42,
+      "division": 5
+    },
+    {
+      "Candidate": "Danilo Burgos",
+      "Frederick Ramirez": "",
+      "Danilo Burgos": "19",
+      "Emilio Vazquez": "0",
+      "ward": 42,
+      "division": 5
+    },
+    {
+      "Candidate": "Emilio Vazquez",
+      "Frederick Ramirez": "",
+      "Danilo Burgos": "",
+      "Emilio Vazquez": "8",
+      "ward": 42,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Frederick Ramirez": "28",
+      "Danilo Burgos": "19",
+      "Emilio Vazquez": "8",
+      "ward": 42,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Frederick Ramirez": "Frederick Ramirez",
+      "Emilio Vazquez": "Emilio Vazquez",
+      "Danilo Burgos": "Danilo Burgos",
+      "Write In": "Write In",
+      "ward": 42,
+      "division": 6
+    },
+    {
+      "Candidate": "Frederick Ramirez",
+      "Frederick Ramirez": "19",
+      "Emilio Vazquez": "0",
+      "Danilo Burgos": "0",
+      "Write In": "0",
+      "ward": 42,
+      "division": 6
+    },
+    {
+      "Candidate": "Emilio Vazquez",
+      "Frederick Ramirez": "",
+      "Emilio Vazquez": "12",
+      "Danilo Burgos": "0",
+      "Write In": "0",
+      "ward": 42,
+      "division": 6
+    },
+    {
+      "Candidate": "Danilo Burgos",
+      "Frederick Ramirez": "",
+      "Emilio Vazquez": "",
+      "Danilo Burgos": "7",
+      "Write In": "0",
+      "ward": 42,
+      "division": 6
+    },
+    {
+      "Candidate": "Write In",
+      "Frederick Ramirez": "",
+      "Emilio Vazquez": "",
+      "Danilo Burgos": "",
+      "Write In": "1",
+      "ward": 42,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "Frederick Ramirez": "19",
+      "Emilio Vazquez": "12",
+      "Danilo Burgos": "7",
+      "Write In": "1",
+      "ward": 42,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Frederick Ramirez": "Frederick Ramirez",
+      "Danilo Burgos": "Danilo Burgos",
+      "Emilio Vazquez": "Emilio Vazquez",
+      "ward": 42,
+      "division": 7
+    },
+    {
+      "Candidate": "Frederick Ramirez",
+      "Frederick Ramirez": "23",
+      "Danilo Burgos": "0",
+      "Emilio Vazquez": "0",
+      "ward": 42,
+      "division": 7
+    },
+    {
+      "Candidate": "Danilo Burgos",
+      "Frederick Ramirez": "",
+      "Danilo Burgos": "16",
+      "Emilio Vazquez": "0",
+      "ward": 42,
+      "division": 7
+    },
+    {
+      "Candidate": "Emilio Vazquez",
+      "Frederick Ramirez": "",
+      "Danilo Burgos": "",
+      "Emilio Vazquez": "11",
+      "ward": 42,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Frederick Ramirez": "23",
+      "Danilo Burgos": "16",
+      "Emilio Vazquez": "11",
+      "ward": 42,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Danilo Burgos": "Danilo Burgos",
+      "Frederick Ramirez": "Frederick Ramirez",
+      "Emilio Vazquez": "Emilio Vazquez",
+      "ward": 42,
+      "division": 8
+    },
+    {
+      "Candidate": "Danilo Burgos",
+      "Danilo Burgos": "17",
+      "Frederick Ramirez": "0",
+      "Emilio Vazquez": "0",
+      "ward": 42,
+      "division": 8
+    },
+    {
+      "Candidate": "Frederick Ramirez",
+      "Danilo Burgos": "",
+      "Frederick Ramirez": "16",
+      "Emilio Vazquez": "0",
+      "ward": 42,
+      "division": 8
+    },
+    {
+      "Candidate": "Emilio Vazquez",
+      "Danilo Burgos": "",
+      "Frederick Ramirez": "",
+      "Emilio Vazquez": "11",
+      "ward": 42,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Danilo Burgos": "17",
+      "Frederick Ramirez": "16",
+      "Emilio Vazquez": "11",
+      "ward": 42,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Emilio Vazquez": "Emilio Vazquez",
+      "Danilo Burgos": "Danilo Burgos",
+      "Frederick Ramirez": "Frederick Ramirez",
+      "ward": 42,
+      "division": 9
+    },
+    {
+      "Candidate": "Emilio Vazquez",
+      "Emilio Vazquez": "16",
+      "Danilo Burgos": "0",
+      "Frederick Ramirez": "0",
+      "ward": 42,
+      "division": 9
+    },
+    {
+      "Candidate": "Danilo Burgos",
+      "Emilio Vazquez": "",
+      "Danilo Burgos": "11",
+      "Frederick Ramirez": "0",
+      "ward": 42,
+      "division": 9
+    },
+    {
+      "Candidate": "Frederick Ramirez",
+      "Emilio Vazquez": "",
+      "Danilo Burgos": "",
+      "Frederick Ramirez": "9",
+      "ward": 42,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Emilio Vazquez": "16",
+      "Danilo Burgos": "11",
+      "Frederick Ramirez": "9",
+      "ward": 42,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Emilio Vazquez": "Emilio Vazquez",
+      "Frederick Ramirez": "Frederick Ramirez",
+      "Danilo Burgos": "Danilo Burgos",
+      "Write In": "Write In",
+      "ward": 42,
+      "division": 10
+    },
+    {
+      "Candidate": "Emilio Vazquez",
+      "Emilio Vazquez": "10",
+      "Frederick Ramirez": "0",
+      "Danilo Burgos": "0",
+      "Write In": "0",
+      "ward": 42,
+      "division": 10
+    },
+    {
+      "Candidate": "Frederick Ramirez",
+      "Emilio Vazquez": "",
+      "Frederick Ramirez": "9",
+      "Danilo Burgos": "0",
+      "Write In": "0",
+      "ward": 42,
+      "division": 10
+    },
+    {
+      "Candidate": "Danilo Burgos",
+      "Emilio Vazquez": "",
+      "Frederick Ramirez": "",
+      "Danilo Burgos": "7",
+      "Write In": "0",
+      "ward": 42,
+      "division": 10
+    },
+    {
+      "Candidate": "Write In",
+      "Emilio Vazquez": "",
+      "Frederick Ramirez": "",
+      "Danilo Burgos": "",
+      "Write In": "1",
+      "ward": 42,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Emilio Vazquez": "10",
+      "Frederick Ramirez": "9",
+      "Danilo Burgos": "7",
+      "Write In": "1",
+      "ward": 42,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Frederick Ramirez": "Frederick Ramirez",
+      "Danilo Burgos": "Danilo Burgos",
+      "Emilio Vazquez": "Emilio Vazquez",
+      "ward": 42,
+      "division": 11
+    },
+    {
+      "Candidate": "Frederick Ramirez",
+      "Frederick Ramirez": "15",
+      "Danilo Burgos": "0",
+      "Emilio Vazquez": "0",
+      "ward": 42,
+      "division": 11
+    },
+    {
+      "Candidate": "Danilo Burgos",
+      "Frederick Ramirez": "",
+      "Danilo Burgos": "14",
+      "Emilio Vazquez": "0",
+      "ward": 42,
+      "division": 11
+    },
+    {
+      "Candidate": "Emilio Vazquez",
+      "Frederick Ramirez": "",
+      "Danilo Burgos": "",
+      "Emilio Vazquez": "12",
+      "ward": 42,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Frederick Ramirez": "15",
+      "Danilo Burgos": "14",
+      "Emilio Vazquez": "12",
+      "ward": 42,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Emilio Vazquez": "Emilio Vazquez",
+      "Frederick Ramirez": "Frederick Ramirez",
+      "Danilo Burgos": "Danilo Burgos",
+      "ward": 42,
+      "division": 22
+    },
+    {
+      "Candidate": "Emilio Vazquez",
+      "Emilio Vazquez": "15",
+      "Frederick Ramirez": "0",
+      "Danilo Burgos": "0",
+      "ward": 42,
+      "division": 22
+    },
+    {
+      "Candidate": "Frederick Ramirez",
+      "Emilio Vazquez": "",
+      "Frederick Ramirez": "15",
+      "Danilo Burgos": "0",
+      "ward": 42,
+      "division": 22
+    },
+    {
+      "Candidate": "Danilo Burgos",
+      "Emilio Vazquez": "",
+      "Frederick Ramirez": "",
+      "Danilo Burgos": "11",
+      "ward": 42,
+      "division": 22
+    },
+    {
+      "Candidate": "Total",
+      "Emilio Vazquez": "15",
+      "Frederick Ramirez": "15",
+      "Danilo Burgos": "11",
+      "ward": 42,
+      "division": 22
+    }
+  ]
+]

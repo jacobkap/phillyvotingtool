@@ -1,0 +1,806 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Michael J Tomlinson": "Michael J Tomlinson",
+      "Write In": "Write In",
+      "ward": 45,
+      "division": "All"
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "5,264",
+      "Michael J Tomlinson": "0",
+      "Write In": "0",
+      "ward": 45,
+      "division": "All"
+    },
+    {
+      "Candidate": "Michael J Tomlinson",
+      "Mike Stack": "",
+      "Michael J Tomlinson": "1,829",
+      "Write In": "0",
+      "ward": 45,
+      "division": "All"
+    },
+    {
+      "Candidate": "Write In",
+      "Mike Stack": "",
+      "Michael J Tomlinson": "",
+      "Write In": "1",
+      "ward": 45,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "5,264",
+      "Michael J Tomlinson": "1,829",
+      "Write In": "1",
+      "ward": 45,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Michael J Tomlinson": "Michael J Tomlinson",
+      "ward": 45,
+      "division": 1
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "237",
+      "Michael J Tomlinson": "0",
+      "ward": 45,
+      "division": 1
+    },
+    {
+      "Candidate": "Michael J Tomlinson",
+      "Mike Stack": "",
+      "Michael J Tomlinson": "122",
+      "ward": 45,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "237",
+      "Michael J Tomlinson": "122",
+      "ward": 45,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Michael J Tomlinson": "Michael J Tomlinson",
+      "ward": 45,
+      "division": 2
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "227",
+      "Michael J Tomlinson": "0",
+      "ward": 45,
+      "division": 2
+    },
+    {
+      "Candidate": "Michael J Tomlinson",
+      "Mike Stack": "",
+      "Michael J Tomlinson": "65",
+      "ward": 45,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "227",
+      "Michael J Tomlinson": "65",
+      "ward": 45,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Michael J Tomlinson": "Michael J Tomlinson",
+      "ward": 45,
+      "division": 3
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "352",
+      "Michael J Tomlinson": "0",
+      "ward": 45,
+      "division": 3
+    },
+    {
+      "Candidate": "Michael J Tomlinson",
+      "Mike Stack": "",
+      "Michael J Tomlinson": "203",
+      "ward": 45,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "352",
+      "Michael J Tomlinson": "203",
+      "ward": 45,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Michael J Tomlinson": "Michael J Tomlinson",
+      "ward": 45,
+      "division": 4
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "166",
+      "Michael J Tomlinson": "0",
+      "ward": 45,
+      "division": 4
+    },
+    {
+      "Candidate": "Michael J Tomlinson",
+      "Mike Stack": "",
+      "Michael J Tomlinson": "86",
+      "ward": 45,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "166",
+      "Michael J Tomlinson": "86",
+      "ward": 45,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Michael J Tomlinson": "Michael J Tomlinson",
+      "ward": 45,
+      "division": 5
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "238",
+      "Michael J Tomlinson": "0",
+      "ward": 45,
+      "division": 5
+    },
+    {
+      "Candidate": "Michael J Tomlinson",
+      "Mike Stack": "",
+      "Michael J Tomlinson": "120",
+      "ward": 45,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "238",
+      "Michael J Tomlinson": "120",
+      "ward": 45,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Michael J Tomlinson": "Michael J Tomlinson",
+      "ward": 45,
+      "division": 6
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "205",
+      "Michael J Tomlinson": "0",
+      "ward": 45,
+      "division": 6
+    },
+    {
+      "Candidate": "Michael J Tomlinson",
+      "Mike Stack": "",
+      "Michael J Tomlinson": "80",
+      "ward": 45,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "205",
+      "Michael J Tomlinson": "80",
+      "ward": 45,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Michael J Tomlinson": "Michael J Tomlinson",
+      "ward": 45,
+      "division": 7
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "144",
+      "Michael J Tomlinson": "0",
+      "ward": 45,
+      "division": 7
+    },
+    {
+      "Candidate": "Michael J Tomlinson",
+      "Mike Stack": "",
+      "Michael J Tomlinson": "72",
+      "ward": 45,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "144",
+      "Michael J Tomlinson": "72",
+      "ward": 45,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Michael J Tomlinson": "Michael J Tomlinson",
+      "ward": 45,
+      "division": 8
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "187",
+      "Michael J Tomlinson": "0",
+      "ward": 45,
+      "division": 8
+    },
+    {
+      "Candidate": "Michael J Tomlinson",
+      "Mike Stack": "",
+      "Michael J Tomlinson": "36",
+      "ward": 45,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "187",
+      "Michael J Tomlinson": "36",
+      "ward": 45,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Michael J Tomlinson": "Michael J Tomlinson",
+      "ward": 45,
+      "division": 9
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "256",
+      "Michael J Tomlinson": "0",
+      "ward": 45,
+      "division": 9
+    },
+    {
+      "Candidate": "Michael J Tomlinson",
+      "Mike Stack": "",
+      "Michael J Tomlinson": "21",
+      "ward": 45,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "256",
+      "Michael J Tomlinson": "21",
+      "ward": 45,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Michael J Tomlinson": "Michael J Tomlinson",
+      "ward": 45,
+      "division": 10
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "251",
+      "Michael J Tomlinson": "0",
+      "ward": 45,
+      "division": 10
+    },
+    {
+      "Candidate": "Michael J Tomlinson",
+      "Mike Stack": "",
+      "Michael J Tomlinson": "21",
+      "ward": 45,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "251",
+      "Michael J Tomlinson": "21",
+      "ward": 45,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Michael J Tomlinson": "Michael J Tomlinson",
+      "ward": 45,
+      "division": 11
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "256",
+      "Michael J Tomlinson": "0",
+      "ward": 45,
+      "division": 11
+    },
+    {
+      "Candidate": "Michael J Tomlinson",
+      "Mike Stack": "",
+      "Michael J Tomlinson": "38",
+      "ward": 45,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "256",
+      "Michael J Tomlinson": "38",
+      "ward": 45,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Michael J Tomlinson": "Michael J Tomlinson",
+      "Write In": "Write In",
+      "ward": 45,
+      "division": 12
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "137",
+      "Michael J Tomlinson": "0",
+      "Write In": "0",
+      "ward": 45,
+      "division": 12
+    },
+    {
+      "Candidate": "Michael J Tomlinson",
+      "Mike Stack": "",
+      "Michael J Tomlinson": "43",
+      "Write In": "0",
+      "ward": 45,
+      "division": 12
+    },
+    {
+      "Candidate": "Write In",
+      "Mike Stack": "",
+      "Michael J Tomlinson": "",
+      "Write In": "1",
+      "ward": 45,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "137",
+      "Michael J Tomlinson": "43",
+      "Write In": "1",
+      "ward": 45,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Michael J Tomlinson": "Michael J Tomlinson",
+      "ward": 45,
+      "division": 13
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "196",
+      "Michael J Tomlinson": "0",
+      "ward": 45,
+      "division": 13
+    },
+    {
+      "Candidate": "Michael J Tomlinson",
+      "Mike Stack": "",
+      "Michael J Tomlinson": "25",
+      "ward": 45,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "196",
+      "Michael J Tomlinson": "25",
+      "ward": 45,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Michael J Tomlinson": "Michael J Tomlinson",
+      "ward": 45,
+      "division": 14
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "50",
+      "Michael J Tomlinson": "0",
+      "ward": 45,
+      "division": 14
+    },
+    {
+      "Candidate": "Michael J Tomlinson",
+      "Mike Stack": "",
+      "Michael J Tomlinson": "32",
+      "ward": 45,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "50",
+      "Michael J Tomlinson": "32",
+      "ward": 45,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Michael J Tomlinson": "Michael J Tomlinson",
+      "ward": 45,
+      "division": 15
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "177",
+      "Michael J Tomlinson": "0",
+      "ward": 45,
+      "division": 15
+    },
+    {
+      "Candidate": "Michael J Tomlinson",
+      "Mike Stack": "",
+      "Michael J Tomlinson": "85",
+      "ward": 45,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "177",
+      "Michael J Tomlinson": "85",
+      "ward": 45,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Michael J Tomlinson": "Michael J Tomlinson",
+      "ward": 45,
+      "division": 16
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "199",
+      "Michael J Tomlinson": "0",
+      "ward": 45,
+      "division": 16
+    },
+    {
+      "Candidate": "Michael J Tomlinson",
+      "Mike Stack": "",
+      "Michael J Tomlinson": "30",
+      "ward": 45,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "199",
+      "Michael J Tomlinson": "30",
+      "ward": 45,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Michael J Tomlinson": "Michael J Tomlinson",
+      "ward": 45,
+      "division": 17
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "261",
+      "Michael J Tomlinson": "0",
+      "ward": 45,
+      "division": 17
+    },
+    {
+      "Candidate": "Michael J Tomlinson",
+      "Mike Stack": "",
+      "Michael J Tomlinson": "31",
+      "ward": 45,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "261",
+      "Michael J Tomlinson": "31",
+      "ward": 45,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Michael J Tomlinson": "Michael J Tomlinson",
+      "ward": 45,
+      "division": 18
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "200",
+      "Michael J Tomlinson": "0",
+      "ward": 45,
+      "division": 18
+    },
+    {
+      "Candidate": "Michael J Tomlinson",
+      "Mike Stack": "",
+      "Michael J Tomlinson": "27",
+      "ward": 45,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "200",
+      "Michael J Tomlinson": "27",
+      "ward": 45,
+      "division": 18
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Michael J Tomlinson": "Michael J Tomlinson",
+      "ward": 45,
+      "division": 19
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "200",
+      "Michael J Tomlinson": "0",
+      "ward": 45,
+      "division": 19
+    },
+    {
+      "Candidate": "Michael J Tomlinson",
+      "Mike Stack": "",
+      "Michael J Tomlinson": "20",
+      "ward": 45,
+      "division": 19
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "200",
+      "Michael J Tomlinson": "20",
+      "ward": 45,
+      "division": 19
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Michael J Tomlinson": "Michael J Tomlinson",
+      "ward": 45,
+      "division": 20
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "245",
+      "Michael J Tomlinson": "0",
+      "ward": 45,
+      "division": 20
+    },
+    {
+      "Candidate": "Michael J Tomlinson",
+      "Mike Stack": "",
+      "Michael J Tomlinson": "161",
+      "ward": 45,
+      "division": 20
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "245",
+      "Michael J Tomlinson": "161",
+      "ward": 45,
+      "division": 20
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Michael J Tomlinson": "Michael J Tomlinson",
+      "ward": 45,
+      "division": 21
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "177",
+      "Michael J Tomlinson": "0",
+      "ward": 45,
+      "division": 21
+    },
+    {
+      "Candidate": "Michael J Tomlinson",
+      "Mike Stack": "",
+      "Michael J Tomlinson": "30",
+      "ward": 45,
+      "division": 21
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "177",
+      "Michael J Tomlinson": "30",
+      "ward": 45,
+      "division": 21
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Michael J Tomlinson": "Michael J Tomlinson",
+      "ward": 45,
+      "division": 22
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "193",
+      "Michael J Tomlinson": "0",
+      "ward": 45,
+      "division": 22
+    },
+    {
+      "Candidate": "Michael J Tomlinson",
+      "Mike Stack": "",
+      "Michael J Tomlinson": "111",
+      "ward": 45,
+      "division": 22
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "193",
+      "Michael J Tomlinson": "111",
+      "ward": 45,
+      "division": 22
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Michael J Tomlinson": "Michael J Tomlinson",
+      "ward": 45,
+      "division": 23
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "244",
+      "Michael J Tomlinson": "0",
+      "ward": 45,
+      "division": 23
+    },
+    {
+      "Candidate": "Michael J Tomlinson",
+      "Mike Stack": "",
+      "Michael J Tomlinson": "113",
+      "ward": 45,
+      "division": 23
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "244",
+      "Michael J Tomlinson": "113",
+      "ward": 45,
+      "division": 23
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Michael J Tomlinson": "Michael J Tomlinson",
+      "ward": 45,
+      "division": 24
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "265",
+      "Michael J Tomlinson": "0",
+      "ward": 45,
+      "division": 24
+    },
+    {
+      "Candidate": "Michael J Tomlinson",
+      "Mike Stack": "",
+      "Michael J Tomlinson": "176",
+      "ward": 45,
+      "division": 24
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "265",
+      "Michael J Tomlinson": "176",
+      "ward": 45,
+      "division": 24
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike Stack": "Mike Stack",
+      "Michael J Tomlinson": "Michael J Tomlinson",
+      "ward": 45,
+      "division": 25
+    },
+    {
+      "Candidate": "Mike Stack",
+      "Mike Stack": "201",
+      "Michael J Tomlinson": "0",
+      "ward": 45,
+      "division": 25
+    },
+    {
+      "Candidate": "Michael J Tomlinson",
+      "Mike Stack": "",
+      "Michael J Tomlinson": "81",
+      "ward": 45,
+      "division": 25
+    },
+    {
+      "Candidate": "Total",
+      "Mike Stack": "201",
+      "Michael J Tomlinson": "81",
+      "ward": 45,
+      "division": 25
+    }
+  ]
+]

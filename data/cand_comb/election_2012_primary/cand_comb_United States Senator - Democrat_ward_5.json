@@ -1,0 +1,916 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Joseph John Vodvarka": "Joseph John Vodvarka",
+      "Write In": "Write In",
+      "ward": 5,
+      "division": "All"
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "2,403",
+      "Joseph John Vodvarka": "0",
+      "Write In": "0",
+      "ward": 5,
+      "division": "All"
+    },
+    {
+      "Candidate": "Joseph John Vodvarka",
+      "Bob Casey Jr": "",
+      "Joseph John Vodvarka": "328",
+      "Write In": "0",
+      "ward": 5,
+      "division": "All"
+    },
+    {
+      "Candidate": "Write In",
+      "Bob Casey Jr": "",
+      "Joseph John Vodvarka": "",
+      "Write In": "1",
+      "ward": 5,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "2,403",
+      "Joseph John Vodvarka": "328",
+      "Write In": "1",
+      "ward": 5,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Joseph John Vodvarka": "Joseph John Vodvarka",
+      "ward": 5,
+      "division": 1
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "129",
+      "Joseph John Vodvarka": "0",
+      "ward": 5,
+      "division": 1
+    },
+    {
+      "Candidate": "Joseph John Vodvarka",
+      "Bob Casey Jr": "",
+      "Joseph John Vodvarka": "9",
+      "ward": 5,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "129",
+      "Joseph John Vodvarka": "9",
+      "ward": 5,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Joseph John Vodvarka": "Joseph John Vodvarka",
+      "ward": 5,
+      "division": 2
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "83",
+      "Joseph John Vodvarka": "0",
+      "ward": 5,
+      "division": 2
+    },
+    {
+      "Candidate": "Joseph John Vodvarka",
+      "Bob Casey Jr": "",
+      "Joseph John Vodvarka": "13",
+      "ward": 5,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "83",
+      "Joseph John Vodvarka": "13",
+      "ward": 5,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Joseph John Vodvarka": "Joseph John Vodvarka",
+      "ward": 5,
+      "division": 3
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "142",
+      "Joseph John Vodvarka": "0",
+      "ward": 5,
+      "division": 3
+    },
+    {
+      "Candidate": "Joseph John Vodvarka",
+      "Bob Casey Jr": "",
+      "Joseph John Vodvarka": "12",
+      "ward": 5,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "142",
+      "Joseph John Vodvarka": "12",
+      "ward": 5,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Joseph John Vodvarka": "Joseph John Vodvarka",
+      "ward": 5,
+      "division": 4
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "125",
+      "Joseph John Vodvarka": "0",
+      "ward": 5,
+      "division": 4
+    },
+    {
+      "Candidate": "Joseph John Vodvarka",
+      "Bob Casey Jr": "",
+      "Joseph John Vodvarka": "25",
+      "ward": 5,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "125",
+      "Joseph John Vodvarka": "25",
+      "ward": 5,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Joseph John Vodvarka": "Joseph John Vodvarka",
+      "ward": 5,
+      "division": 5
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "102",
+      "Joseph John Vodvarka": "0",
+      "ward": 5,
+      "division": 5
+    },
+    {
+      "Candidate": "Joseph John Vodvarka",
+      "Bob Casey Jr": "",
+      "Joseph John Vodvarka": "18",
+      "ward": 5,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "102",
+      "Joseph John Vodvarka": "18",
+      "ward": 5,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Joseph John Vodvarka": "Joseph John Vodvarka",
+      "ward": 5,
+      "division": 6
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "121",
+      "Joseph John Vodvarka": "0",
+      "ward": 5,
+      "division": 6
+    },
+    {
+      "Candidate": "Joseph John Vodvarka",
+      "Bob Casey Jr": "",
+      "Joseph John Vodvarka": "6",
+      "ward": 5,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "121",
+      "Joseph John Vodvarka": "6",
+      "ward": 5,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Joseph John Vodvarka": "Joseph John Vodvarka",
+      "ward": 5,
+      "division": 7
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "95",
+      "Joseph John Vodvarka": "0",
+      "ward": 5,
+      "division": 7
+    },
+    {
+      "Candidate": "Joseph John Vodvarka",
+      "Bob Casey Jr": "",
+      "Joseph John Vodvarka": "7",
+      "ward": 5,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "95",
+      "Joseph John Vodvarka": "7",
+      "ward": 5,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Joseph John Vodvarka": "Joseph John Vodvarka",
+      "ward": 5,
+      "division": 8
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "114",
+      "Joseph John Vodvarka": "0",
+      "ward": 5,
+      "division": 8
+    },
+    {
+      "Candidate": "Joseph John Vodvarka",
+      "Bob Casey Jr": "",
+      "Joseph John Vodvarka": "19",
+      "ward": 5,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "114",
+      "Joseph John Vodvarka": "19",
+      "ward": 5,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Joseph John Vodvarka": "Joseph John Vodvarka",
+      "ward": 5,
+      "division": 9
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "55",
+      "Joseph John Vodvarka": "0",
+      "ward": 5,
+      "division": 9
+    },
+    {
+      "Candidate": "Joseph John Vodvarka",
+      "Bob Casey Jr": "",
+      "Joseph John Vodvarka": "10",
+      "ward": 5,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "55",
+      "Joseph John Vodvarka": "10",
+      "ward": 5,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Joseph John Vodvarka": "Joseph John Vodvarka",
+      "ward": 5,
+      "division": 10
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "44",
+      "Joseph John Vodvarka": "0",
+      "ward": 5,
+      "division": 10
+    },
+    {
+      "Candidate": "Joseph John Vodvarka",
+      "Bob Casey Jr": "",
+      "Joseph John Vodvarka": "7",
+      "ward": 5,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "44",
+      "Joseph John Vodvarka": "7",
+      "ward": 5,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Joseph John Vodvarka": "Joseph John Vodvarka",
+      "Write In": "Write In",
+      "ward": 5,
+      "division": 11
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "95",
+      "Joseph John Vodvarka": "0",
+      "Write In": "0",
+      "ward": 5,
+      "division": 11
+    },
+    {
+      "Candidate": "Joseph John Vodvarka",
+      "Bob Casey Jr": "",
+      "Joseph John Vodvarka": "16",
+      "Write In": "0",
+      "ward": 5,
+      "division": 11
+    },
+    {
+      "Candidate": "Write In",
+      "Bob Casey Jr": "",
+      "Joseph John Vodvarka": "",
+      "Write In": "1",
+      "ward": 5,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "95",
+      "Joseph John Vodvarka": "16",
+      "Write In": "1",
+      "ward": 5,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Joseph John Vodvarka": "Joseph John Vodvarka",
+      "ward": 5,
+      "division": 12
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "57",
+      "Joseph John Vodvarka": "0",
+      "ward": 5,
+      "division": 12
+    },
+    {
+      "Candidate": "Joseph John Vodvarka",
+      "Bob Casey Jr": "",
+      "Joseph John Vodvarka": "11",
+      "ward": 5,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "57",
+      "Joseph John Vodvarka": "11",
+      "ward": 5,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Joseph John Vodvarka": "Joseph John Vodvarka",
+      "ward": 5,
+      "division": 13
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "17",
+      "Joseph John Vodvarka": "0",
+      "ward": 5,
+      "division": 13
+    },
+    {
+      "Candidate": "Joseph John Vodvarka",
+      "Bob Casey Jr": "",
+      "Joseph John Vodvarka": "6",
+      "ward": 5,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "17",
+      "Joseph John Vodvarka": "6",
+      "ward": 5,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Joseph John Vodvarka": "Joseph John Vodvarka",
+      "ward": 5,
+      "division": 14
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "96",
+      "Joseph John Vodvarka": "0",
+      "ward": 5,
+      "division": 14
+    },
+    {
+      "Candidate": "Joseph John Vodvarka",
+      "Bob Casey Jr": "",
+      "Joseph John Vodvarka": "9",
+      "ward": 5,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "96",
+      "Joseph John Vodvarka": "9",
+      "ward": 5,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Joseph John Vodvarka": "Joseph John Vodvarka",
+      "ward": 5,
+      "division": 15
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "61",
+      "Joseph John Vodvarka": "0",
+      "ward": 5,
+      "division": 15
+    },
+    {
+      "Candidate": "Joseph John Vodvarka",
+      "Bob Casey Jr": "",
+      "Joseph John Vodvarka": "4",
+      "ward": 5,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "61",
+      "Joseph John Vodvarka": "4",
+      "ward": 5,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Joseph John Vodvarka": "Joseph John Vodvarka",
+      "ward": 5,
+      "division": 16
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "52",
+      "Joseph John Vodvarka": "0",
+      "ward": 5,
+      "division": 16
+    },
+    {
+      "Candidate": "Joseph John Vodvarka",
+      "Bob Casey Jr": "",
+      "Joseph John Vodvarka": "6",
+      "ward": 5,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "52",
+      "Joseph John Vodvarka": "6",
+      "ward": 5,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Joseph John Vodvarka": "Joseph John Vodvarka",
+      "ward": 5,
+      "division": 17
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "85",
+      "Joseph John Vodvarka": "0",
+      "ward": 5,
+      "division": 17
+    },
+    {
+      "Candidate": "Joseph John Vodvarka",
+      "Bob Casey Jr": "",
+      "Joseph John Vodvarka": "21",
+      "ward": 5,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "85",
+      "Joseph John Vodvarka": "21",
+      "ward": 5,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Joseph John Vodvarka": "Joseph John Vodvarka",
+      "ward": 5,
+      "division": 18
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "150",
+      "Joseph John Vodvarka": "0",
+      "ward": 5,
+      "division": 18
+    },
+    {
+      "Candidate": "Joseph John Vodvarka",
+      "Bob Casey Jr": "",
+      "Joseph John Vodvarka": "11",
+      "ward": 5,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "150",
+      "Joseph John Vodvarka": "11",
+      "ward": 5,
+      "division": 18
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Joseph John Vodvarka": "Joseph John Vodvarka",
+      "ward": 5,
+      "division": 19
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "149",
+      "Joseph John Vodvarka": "0",
+      "ward": 5,
+      "division": 19
+    },
+    {
+      "Candidate": "Joseph John Vodvarka",
+      "Bob Casey Jr": "",
+      "Joseph John Vodvarka": "13",
+      "ward": 5,
+      "division": 19
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "149",
+      "Joseph John Vodvarka": "13",
+      "ward": 5,
+      "division": 19
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Joseph John Vodvarka": "Joseph John Vodvarka",
+      "ward": 5,
+      "division": 20
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "45",
+      "Joseph John Vodvarka": "0",
+      "ward": 5,
+      "division": 20
+    },
+    {
+      "Candidate": "Joseph John Vodvarka",
+      "Bob Casey Jr": "",
+      "Joseph John Vodvarka": "8",
+      "ward": 5,
+      "division": 20
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "45",
+      "Joseph John Vodvarka": "8",
+      "ward": 5,
+      "division": 20
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Joseph John Vodvarka": "Joseph John Vodvarka",
+      "ward": 5,
+      "division": 21
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "84",
+      "Joseph John Vodvarka": "0",
+      "ward": 5,
+      "division": 21
+    },
+    {
+      "Candidate": "Joseph John Vodvarka",
+      "Bob Casey Jr": "",
+      "Joseph John Vodvarka": "14",
+      "ward": 5,
+      "division": 21
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "84",
+      "Joseph John Vodvarka": "14",
+      "ward": 5,
+      "division": 21
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Joseph John Vodvarka": "Joseph John Vodvarka",
+      "ward": 5,
+      "division": 22
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "127",
+      "Joseph John Vodvarka": "0",
+      "ward": 5,
+      "division": 22
+    },
+    {
+      "Candidate": "Joseph John Vodvarka",
+      "Bob Casey Jr": "",
+      "Joseph John Vodvarka": "23",
+      "ward": 5,
+      "division": 22
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "127",
+      "Joseph John Vodvarka": "23",
+      "ward": 5,
+      "division": 22
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Joseph John Vodvarka": "Joseph John Vodvarka",
+      "ward": 5,
+      "division": 23
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "106",
+      "Joseph John Vodvarka": "0",
+      "ward": 5,
+      "division": 23
+    },
+    {
+      "Candidate": "Joseph John Vodvarka",
+      "Bob Casey Jr": "",
+      "Joseph John Vodvarka": "33",
+      "ward": 5,
+      "division": 23
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "106",
+      "Joseph John Vodvarka": "33",
+      "ward": 5,
+      "division": 23
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Joseph John Vodvarka": "Joseph John Vodvarka",
+      "ward": 5,
+      "division": 24
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "41",
+      "Joseph John Vodvarka": "0",
+      "ward": 5,
+      "division": 24
+    },
+    {
+      "Candidate": "Joseph John Vodvarka",
+      "Bob Casey Jr": "",
+      "Joseph John Vodvarka": "4",
+      "ward": 5,
+      "division": 24
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "41",
+      "Joseph John Vodvarka": "4",
+      "ward": 5,
+      "division": 24
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Joseph John Vodvarka": "Joseph John Vodvarka",
+      "ward": 5,
+      "division": 25
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "35",
+      "Joseph John Vodvarka": "0",
+      "ward": 5,
+      "division": 25
+    },
+    {
+      "Candidate": "Joseph John Vodvarka",
+      "Bob Casey Jr": "",
+      "Joseph John Vodvarka": "4",
+      "ward": 5,
+      "division": 25
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "35",
+      "Joseph John Vodvarka": "4",
+      "ward": 5,
+      "division": 25
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Joseph John Vodvarka": "Joseph John Vodvarka",
+      "ward": 5,
+      "division": 26
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "71",
+      "Joseph John Vodvarka": "0",
+      "ward": 5,
+      "division": 26
+    },
+    {
+      "Candidate": "Joseph John Vodvarka",
+      "Bob Casey Jr": "",
+      "Joseph John Vodvarka": "8",
+      "ward": 5,
+      "division": 26
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "71",
+      "Joseph John Vodvarka": "8",
+      "ward": 5,
+      "division": 26
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Joseph John Vodvarka": "Joseph John Vodvarka",
+      "ward": 5,
+      "division": 27
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "68",
+      "Joseph John Vodvarka": "0",
+      "ward": 5,
+      "division": 27
+    },
+    {
+      "Candidate": "Joseph John Vodvarka",
+      "Bob Casey Jr": "",
+      "Joseph John Vodvarka": "5",
+      "ward": 5,
+      "division": 27
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "68",
+      "Joseph John Vodvarka": "5",
+      "ward": 5,
+      "division": 27
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Joseph John Vodvarka": "Joseph John Vodvarka",
+      "ward": 5,
+      "division": 28
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "45",
+      "Joseph John Vodvarka": "0",
+      "ward": 5,
+      "division": 28
+    },
+    {
+      "Candidate": "Joseph John Vodvarka",
+      "Bob Casey Jr": "",
+      "Joseph John Vodvarka": "6",
+      "ward": 5,
+      "division": 28
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "45",
+      "Joseph John Vodvarka": "6",
+      "ward": 5,
+      "division": 28
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "ward": 5,
+      "division": 29
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "9",
+      "ward": 5,
+      "division": 29
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "9",
+      "ward": 5,
+      "division": 29
+    }
+  ]
+]

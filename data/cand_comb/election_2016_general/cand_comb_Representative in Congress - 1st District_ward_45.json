@@ -1,0 +1,806 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Robert A Brady": "Robert A Brady",
+      "Deborah Williams": "Deborah Williams",
+      "Write In": "Write In",
+      "ward": 45,
+      "division": "All"
+    },
+    {
+      "Candidate": "Robert A Brady",
+      "Robert A Brady": "5,483",
+      "Deborah Williams": "0",
+      "Write In": "0",
+      "ward": 45,
+      "division": "All"
+    },
+    {
+      "Candidate": "Deborah Williams",
+      "Robert A Brady": "",
+      "Deborah Williams": "2,635",
+      "Write In": "0",
+      "ward": 45,
+      "division": "All"
+    },
+    {
+      "Candidate": "Write In",
+      "Robert A Brady": "",
+      "Deborah Williams": "",
+      "Write In": "1",
+      "ward": 45,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Robert A Brady": "5,483",
+      "Deborah Williams": "2,635",
+      "Write In": "1",
+      "ward": 45,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Robert A Brady": "Robert A Brady",
+      "Deborah Williams": "Deborah Williams",
+      "ward": 45,
+      "division": 1
+    },
+    {
+      "Candidate": "Robert A Brady",
+      "Robert A Brady": "190",
+      "Deborah Williams": "0",
+      "ward": 45,
+      "division": 1
+    },
+    {
+      "Candidate": "Deborah Williams",
+      "Robert A Brady": "",
+      "Deborah Williams": "169",
+      "ward": 45,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Robert A Brady": "190",
+      "Deborah Williams": "169",
+      "ward": 45,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Robert A Brady": "Robert A Brady",
+      "Deborah Williams": "Deborah Williams",
+      "ward": 45,
+      "division": 2
+    },
+    {
+      "Candidate": "Robert A Brady",
+      "Robert A Brady": "198",
+      "Deborah Williams": "0",
+      "ward": 45,
+      "division": 2
+    },
+    {
+      "Candidate": "Deborah Williams",
+      "Robert A Brady": "",
+      "Deborah Williams": "103",
+      "ward": 45,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "Robert A Brady": "198",
+      "Deborah Williams": "103",
+      "ward": 45,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Robert A Brady": "Robert A Brady",
+      "Deborah Williams": "Deborah Williams",
+      "ward": 45,
+      "division": 3
+    },
+    {
+      "Candidate": "Robert A Brady",
+      "Robert A Brady": "294",
+      "Deborah Williams": "0",
+      "ward": 45,
+      "division": 3
+    },
+    {
+      "Candidate": "Deborah Williams",
+      "Robert A Brady": "",
+      "Deborah Williams": "266",
+      "ward": 45,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Robert A Brady": "294",
+      "Deborah Williams": "266",
+      "ward": 45,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Robert A Brady": "Robert A Brady",
+      "Deborah Williams": "Deborah Williams",
+      "ward": 45,
+      "division": 4
+    },
+    {
+      "Candidate": "Robert A Brady",
+      "Robert A Brady": "239",
+      "Deborah Williams": "0",
+      "ward": 45,
+      "division": 4
+    },
+    {
+      "Candidate": "Deborah Williams",
+      "Robert A Brady": "",
+      "Deborah Williams": "214",
+      "ward": 45,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Robert A Brady": "239",
+      "Deborah Williams": "214",
+      "ward": 45,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Robert A Brady": "Robert A Brady",
+      "Deborah Williams": "Deborah Williams",
+      "ward": 45,
+      "division": 5
+    },
+    {
+      "Candidate": "Robert A Brady",
+      "Robert A Brady": "254",
+      "Deborah Williams": "0",
+      "ward": 45,
+      "division": 5
+    },
+    {
+      "Candidate": "Deborah Williams",
+      "Robert A Brady": "",
+      "Deborah Williams": "163",
+      "ward": 45,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Robert A Brady": "254",
+      "Deborah Williams": "163",
+      "ward": 45,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Robert A Brady": "Robert A Brady",
+      "Deborah Williams": "Deborah Williams",
+      "ward": 45,
+      "division": 6
+    },
+    {
+      "Candidate": "Robert A Brady",
+      "Robert A Brady": "211",
+      "Deborah Williams": "0",
+      "ward": 45,
+      "division": 6
+    },
+    {
+      "Candidate": "Deborah Williams",
+      "Robert A Brady": "",
+      "Deborah Williams": "122",
+      "ward": 45,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "Robert A Brady": "211",
+      "Deborah Williams": "122",
+      "ward": 45,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Robert A Brady": "Robert A Brady",
+      "Deborah Williams": "Deborah Williams",
+      "ward": 45,
+      "division": 7
+    },
+    {
+      "Candidate": "Robert A Brady",
+      "Robert A Brady": "165",
+      "Deborah Williams": "0",
+      "ward": 45,
+      "division": 7
+    },
+    {
+      "Candidate": "Deborah Williams",
+      "Robert A Brady": "",
+      "Deborah Williams": "121",
+      "ward": 45,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Robert A Brady": "165",
+      "Deborah Williams": "121",
+      "ward": 45,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Robert A Brady": "Robert A Brady",
+      "Deborah Williams": "Deborah Williams",
+      "ward": 45,
+      "division": 8
+    },
+    {
+      "Candidate": "Robert A Brady",
+      "Robert A Brady": "244",
+      "Deborah Williams": "0",
+      "ward": 45,
+      "division": 8
+    },
+    {
+      "Candidate": "Deborah Williams",
+      "Robert A Brady": "",
+      "Deborah Williams": "54",
+      "ward": 45,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Robert A Brady": "244",
+      "Deborah Williams": "54",
+      "ward": 45,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Robert A Brady": "Robert A Brady",
+      "Deborah Williams": "Deborah Williams",
+      "ward": 45,
+      "division": 9
+    },
+    {
+      "Candidate": "Robert A Brady",
+      "Robert A Brady": "248",
+      "Deborah Williams": "0",
+      "ward": 45,
+      "division": 9
+    },
+    {
+      "Candidate": "Deborah Williams",
+      "Robert A Brady": "",
+      "Deborah Williams": "34",
+      "ward": 45,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Robert A Brady": "248",
+      "Deborah Williams": "34",
+      "ward": 45,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Robert A Brady": "Robert A Brady",
+      "Deborah Williams": "Deborah Williams",
+      "ward": 45,
+      "division": 10
+    },
+    {
+      "Candidate": "Robert A Brady",
+      "Robert A Brady": "250",
+      "Deborah Williams": "0",
+      "ward": 45,
+      "division": 10
+    },
+    {
+      "Candidate": "Deborah Williams",
+      "Robert A Brady": "",
+      "Deborah Williams": "32",
+      "ward": 45,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Robert A Brady": "250",
+      "Deborah Williams": "32",
+      "ward": 45,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Robert A Brady": "Robert A Brady",
+      "Deborah Williams": "Deborah Williams",
+      "ward": 45,
+      "division": 11
+    },
+    {
+      "Candidate": "Robert A Brady",
+      "Robert A Brady": "317",
+      "Deborah Williams": "0",
+      "ward": 45,
+      "division": 11
+    },
+    {
+      "Candidate": "Deborah Williams",
+      "Robert A Brady": "",
+      "Deborah Williams": "34",
+      "ward": 45,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Robert A Brady": "317",
+      "Deborah Williams": "34",
+      "ward": 45,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Robert A Brady": "Robert A Brady",
+      "Deborah Williams": "Deborah Williams",
+      "ward": 45,
+      "division": 12
+    },
+    {
+      "Candidate": "Robert A Brady",
+      "Robert A Brady": "103",
+      "Deborah Williams": "0",
+      "ward": 45,
+      "division": 12
+    },
+    {
+      "Candidate": "Deborah Williams",
+      "Robert A Brady": "",
+      "Deborah Williams": "62",
+      "ward": 45,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Robert A Brady": "103",
+      "Deborah Williams": "62",
+      "ward": 45,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Robert A Brady": "Robert A Brady",
+      "Deborah Williams": "Deborah Williams",
+      "ward": 45,
+      "division": 13
+    },
+    {
+      "Candidate": "Robert A Brady",
+      "Robert A Brady": "224",
+      "Deborah Williams": "0",
+      "ward": 45,
+      "division": 13
+    },
+    {
+      "Candidate": "Deborah Williams",
+      "Robert A Brady": "",
+      "Deborah Williams": "35",
+      "ward": 45,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "Robert A Brady": "224",
+      "Deborah Williams": "35",
+      "ward": 45,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Robert A Brady": "Robert A Brady",
+      "Deborah Williams": "Deborah Williams",
+      "ward": 45,
+      "division": 14
+    },
+    {
+      "Candidate": "Robert A Brady",
+      "Robert A Brady": "71",
+      "Deborah Williams": "0",
+      "ward": 45,
+      "division": 14
+    },
+    {
+      "Candidate": "Deborah Williams",
+      "Robert A Brady": "",
+      "Deborah Williams": "21",
+      "ward": 45,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "Robert A Brady": "71",
+      "Deborah Williams": "21",
+      "ward": 45,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Robert A Brady": "Robert A Brady",
+      "Deborah Williams": "Deborah Williams",
+      "ward": 45,
+      "division": 15
+    },
+    {
+      "Candidate": "Robert A Brady",
+      "Robert A Brady": "231",
+      "Deborah Williams": "0",
+      "ward": 45,
+      "division": 15
+    },
+    {
+      "Candidate": "Deborah Williams",
+      "Robert A Brady": "",
+      "Deborah Williams": "131",
+      "ward": 45,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "Robert A Brady": "231",
+      "Deborah Williams": "131",
+      "ward": 45,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Robert A Brady": "Robert A Brady",
+      "Deborah Williams": "Deborah Williams",
+      "ward": 45,
+      "division": 16
+    },
+    {
+      "Candidate": "Robert A Brady",
+      "Robert A Brady": "231",
+      "Deborah Williams": "0",
+      "ward": 45,
+      "division": 16
+    },
+    {
+      "Candidate": "Deborah Williams",
+      "Robert A Brady": "",
+      "Deborah Williams": "26",
+      "ward": 45,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "Robert A Brady": "231",
+      "Deborah Williams": "26",
+      "ward": 45,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Robert A Brady": "Robert A Brady",
+      "Deborah Williams": "Deborah Williams",
+      "ward": 45,
+      "division": 17
+    },
+    {
+      "Candidate": "Robert A Brady",
+      "Robert A Brady": "327",
+      "Deborah Williams": "0",
+      "ward": 45,
+      "division": 17
+    },
+    {
+      "Candidate": "Deborah Williams",
+      "Robert A Brady": "",
+      "Deborah Williams": "39",
+      "ward": 45,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "Robert A Brady": "327",
+      "Deborah Williams": "39",
+      "ward": 45,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Robert A Brady": "Robert A Brady",
+      "Deborah Williams": "Deborah Williams",
+      "ward": 45,
+      "division": 18
+    },
+    {
+      "Candidate": "Robert A Brady",
+      "Robert A Brady": "209",
+      "Deborah Williams": "0",
+      "ward": 45,
+      "division": 18
+    },
+    {
+      "Candidate": "Deborah Williams",
+      "Robert A Brady": "",
+      "Deborah Williams": "34",
+      "ward": 45,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "Robert A Brady": "209",
+      "Deborah Williams": "34",
+      "ward": 45,
+      "division": 18
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Robert A Brady": "Robert A Brady",
+      "Deborah Williams": "Deborah Williams",
+      "Write In": "Write In",
+      "ward": 45,
+      "division": 19
+    },
+    {
+      "Candidate": "Robert A Brady",
+      "Robert A Brady": "221",
+      "Deborah Williams": "0",
+      "Write In": "0",
+      "ward": 45,
+      "division": 19
+    },
+    {
+      "Candidate": "Deborah Williams",
+      "Robert A Brady": "",
+      "Deborah Williams": "33",
+      "Write In": "0",
+      "ward": 45,
+      "division": 19
+    },
+    {
+      "Candidate": "Write In",
+      "Robert A Brady": "",
+      "Deborah Williams": "",
+      "Write In": "1",
+      "ward": 45,
+      "division": 19
+    },
+    {
+      "Candidate": "Total",
+      "Robert A Brady": "221",
+      "Deborah Williams": "33",
+      "Write In": "1",
+      "ward": 45,
+      "division": 19
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Deborah Williams": "Deborah Williams",
+      "Robert A Brady": "Robert A Brady",
+      "ward": 45,
+      "division": 20
+    },
+    {
+      "Candidate": "Deborah Williams",
+      "Deborah Williams": "238",
+      "Robert A Brady": "0",
+      "ward": 45,
+      "division": 20
+    },
+    {
+      "Candidate": "Robert A Brady",
+      "Deborah Williams": "",
+      "Robert A Brady": "219",
+      "ward": 45,
+      "division": 20
+    },
+    {
+      "Candidate": "Total",
+      "Deborah Williams": "238",
+      "Robert A Brady": "219",
+      "ward": 45,
+      "division": 20
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Robert A Brady": "Robert A Brady",
+      "Deborah Williams": "Deborah Williams",
+      "ward": 45,
+      "division": 21
+    },
+    {
+      "Candidate": "Robert A Brady",
+      "Robert A Brady": "198",
+      "Deborah Williams": "0",
+      "ward": 45,
+      "division": 21
+    },
+    {
+      "Candidate": "Deborah Williams",
+      "Robert A Brady": "",
+      "Deborah Williams": "32",
+      "ward": 45,
+      "division": 21
+    },
+    {
+      "Candidate": "Total",
+      "Robert A Brady": "198",
+      "Deborah Williams": "32",
+      "ward": 45,
+      "division": 21
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Robert A Brady": "Robert A Brady",
+      "Deborah Williams": "Deborah Williams",
+      "ward": 45,
+      "division": 22
+    },
+    {
+      "Candidate": "Robert A Brady",
+      "Robert A Brady": "180",
+      "Deborah Williams": "0",
+      "ward": 45,
+      "division": 22
+    },
+    {
+      "Candidate": "Deborah Williams",
+      "Robert A Brady": "",
+      "Deborah Williams": "125",
+      "ward": 45,
+      "division": 22
+    },
+    {
+      "Candidate": "Total",
+      "Robert A Brady": "180",
+      "Deborah Williams": "125",
+      "ward": 45,
+      "division": 22
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Robert A Brady": "Robert A Brady",
+      "Deborah Williams": "Deborah Williams",
+      "ward": 45,
+      "division": 23
+    },
+    {
+      "Candidate": "Robert A Brady",
+      "Robert A Brady": "234",
+      "Deborah Williams": "0",
+      "ward": 45,
+      "division": 23
+    },
+    {
+      "Candidate": "Deborah Williams",
+      "Robert A Brady": "",
+      "Deborah Williams": "175",
+      "ward": 45,
+      "division": 23
+    },
+    {
+      "Candidate": "Total",
+      "Robert A Brady": "234",
+      "Deborah Williams": "175",
+      "ward": 45,
+      "division": 23
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Robert A Brady": "Robert A Brady",
+      "Deborah Williams": "Deborah Williams",
+      "ward": 45,
+      "division": 24
+    },
+    {
+      "Candidate": "Robert A Brady",
+      "Robert A Brady": "257",
+      "Deborah Williams": "0",
+      "ward": 45,
+      "division": 24
+    },
+    {
+      "Candidate": "Deborah Williams",
+      "Robert A Brady": "",
+      "Deborah Williams": "216",
+      "ward": 45,
+      "division": 24
+    },
+    {
+      "Candidate": "Total",
+      "Robert A Brady": "257",
+      "Deborah Williams": "216",
+      "ward": 45,
+      "division": 24
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Robert A Brady": "Robert A Brady",
+      "Deborah Williams": "Deborah Williams",
+      "ward": 45,
+      "division": 25
+    },
+    {
+      "Candidate": "Robert A Brady",
+      "Robert A Brady": "168",
+      "Deborah Williams": "0",
+      "ward": 45,
+      "division": 25
+    },
+    {
+      "Candidate": "Deborah Williams",
+      "Robert A Brady": "",
+      "Deborah Williams": "156",
+      "ward": 45,
+      "division": 25
+    },
+    {
+      "Candidate": "Total",
+      "Robert A Brady": "168",
+      "Deborah Williams": "156",
+      "ward": 45,
+      "division": 25
+    }
+  ]
+]

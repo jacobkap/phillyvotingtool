@@ -1,0 +1,908 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Paul Lalley": "Paul Lalley",
+      "Write In": "Write In",
+      "ward": 17,
+      "division": "All"
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "3,545",
+      "Paul Lalley": "0",
+      "Write In": "0",
+      "ward": 17,
+      "division": "All"
+    },
+    {
+      "Candidate": "Paul Lalley",
+      "Michael Wojcik": "",
+      "Paul Lalley": "62",
+      "Write In": "0",
+      "ward": 17,
+      "division": "All"
+    },
+    {
+      "Candidate": "Write In",
+      "Michael Wojcik": "",
+      "Paul Lalley": "",
+      "Write In": "2",
+      "ward": 17,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "3,545",
+      "Paul Lalley": "62",
+      "Write In": "2",
+      "ward": 17,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Paul Lalley": "Paul Lalley",
+      "ward": 17,
+      "division": 1
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "119",
+      "Paul Lalley": "0",
+      "ward": 17,
+      "division": 1
+    },
+    {
+      "Candidate": "Paul Lalley",
+      "Michael Wojcik": "",
+      "Paul Lalley": "3",
+      "ward": 17,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "119",
+      "Paul Lalley": "3",
+      "ward": 17,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Paul Lalley": "Paul Lalley",
+      "ward": 17,
+      "division": 2
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "123",
+      "Paul Lalley": "0",
+      "ward": 17,
+      "division": 2
+    },
+    {
+      "Candidate": "Paul Lalley",
+      "Michael Wojcik": "",
+      "Paul Lalley": "1",
+      "ward": 17,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "123",
+      "Paul Lalley": "1",
+      "ward": 17,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Paul Lalley": "Paul Lalley",
+      "ward": 17,
+      "division": 3
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "141",
+      "Paul Lalley": "0",
+      "ward": 17,
+      "division": 3
+    },
+    {
+      "Candidate": "Paul Lalley",
+      "Michael Wojcik": "",
+      "Paul Lalley": "1",
+      "ward": 17,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "141",
+      "Paul Lalley": "1",
+      "ward": 17,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Paul Lalley": "Paul Lalley",
+      "ward": 17,
+      "division": 4
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "150",
+      "Paul Lalley": "0",
+      "ward": 17,
+      "division": 4
+    },
+    {
+      "Candidate": "Paul Lalley",
+      "Michael Wojcik": "",
+      "Paul Lalley": "5",
+      "ward": 17,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "150",
+      "Paul Lalley": "5",
+      "ward": 17,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Paul Lalley": "Paul Lalley",
+      "ward": 17,
+      "division": 5
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "135",
+      "Paul Lalley": "0",
+      "ward": 17,
+      "division": 5
+    },
+    {
+      "Candidate": "Paul Lalley",
+      "Michael Wojcik": "",
+      "Paul Lalley": "1",
+      "ward": 17,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "135",
+      "Paul Lalley": "1",
+      "ward": 17,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Paul Lalley": "Paul Lalley",
+      "ward": 17,
+      "division": 6
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "115",
+      "Paul Lalley": "0",
+      "ward": 17,
+      "division": 6
+    },
+    {
+      "Candidate": "Paul Lalley",
+      "Michael Wojcik": "",
+      "Paul Lalley": "2",
+      "ward": 17,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "115",
+      "Paul Lalley": "2",
+      "ward": 17,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "ward": 17,
+      "division": 7
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "142",
+      "ward": 17,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "142",
+      "ward": 17,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Paul Lalley": "Paul Lalley",
+      "ward": 17,
+      "division": 8
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "132",
+      "Paul Lalley": "0",
+      "ward": 17,
+      "division": 8
+    },
+    {
+      "Candidate": "Paul Lalley",
+      "Michael Wojcik": "",
+      "Paul Lalley": "1",
+      "ward": 17,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "132",
+      "Paul Lalley": "1",
+      "ward": 17,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Paul Lalley": "Paul Lalley",
+      "Write In": "Write In",
+      "ward": 17,
+      "division": 9
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "126",
+      "Paul Lalley": "0",
+      "Write In": "0",
+      "ward": 17,
+      "division": 9
+    },
+    {
+      "Candidate": "Paul Lalley",
+      "Michael Wojcik": "",
+      "Paul Lalley": "2",
+      "Write In": "0",
+      "ward": 17,
+      "division": 9
+    },
+    {
+      "Candidate": "Write In",
+      "Michael Wojcik": "",
+      "Paul Lalley": "",
+      "Write In": "1",
+      "ward": 17,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "126",
+      "Paul Lalley": "2",
+      "Write In": "1",
+      "ward": 17,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Paul Lalley": "Paul Lalley",
+      "ward": 17,
+      "division": 10
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "146",
+      "Paul Lalley": "0",
+      "ward": 17,
+      "division": 10
+    },
+    {
+      "Candidate": "Paul Lalley",
+      "Michael Wojcik": "",
+      "Paul Lalley": "3",
+      "ward": 17,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "146",
+      "Paul Lalley": "3",
+      "ward": 17,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "ward": 17,
+      "division": 11
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "127",
+      "ward": 17,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "127",
+      "ward": 17,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Paul Lalley": "Paul Lalley",
+      "ward": 17,
+      "division": 12
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "155",
+      "Paul Lalley": "0",
+      "ward": 17,
+      "division": 12
+    },
+    {
+      "Candidate": "Paul Lalley",
+      "Michael Wojcik": "",
+      "Paul Lalley": "6",
+      "ward": 17,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "155",
+      "Paul Lalley": "6",
+      "ward": 17,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Paul Lalley": "Paul Lalley",
+      "ward": 17,
+      "division": 13
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "111",
+      "Paul Lalley": "0",
+      "ward": 17,
+      "division": 13
+    },
+    {
+      "Candidate": "Paul Lalley",
+      "Michael Wojcik": "",
+      "Paul Lalley": "2",
+      "ward": 17,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "111",
+      "Paul Lalley": "2",
+      "ward": 17,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Paul Lalley": "Paul Lalley",
+      "ward": 17,
+      "division": 14
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "149",
+      "Paul Lalley": "0",
+      "ward": 17,
+      "division": 14
+    },
+    {
+      "Candidate": "Paul Lalley",
+      "Michael Wojcik": "",
+      "Paul Lalley": "3",
+      "ward": 17,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "149",
+      "Paul Lalley": "3",
+      "ward": 17,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Paul Lalley": "Paul Lalley",
+      "ward": 17,
+      "division": 15
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "123",
+      "Paul Lalley": "0",
+      "ward": 17,
+      "division": 15
+    },
+    {
+      "Candidate": "Paul Lalley",
+      "Michael Wojcik": "",
+      "Paul Lalley": "4",
+      "ward": 17,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "123",
+      "Paul Lalley": "4",
+      "ward": 17,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Paul Lalley": "Paul Lalley",
+      "ward": 17,
+      "division": 16
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "69",
+      "Paul Lalley": "0",
+      "ward": 17,
+      "division": 16
+    },
+    {
+      "Candidate": "Paul Lalley",
+      "Michael Wojcik": "",
+      "Paul Lalley": "3",
+      "ward": 17,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "69",
+      "Paul Lalley": "3",
+      "ward": 17,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Paul Lalley": "Paul Lalley",
+      "ward": 17,
+      "division": 17
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "93",
+      "Paul Lalley": "0",
+      "ward": 17,
+      "division": 17
+    },
+    {
+      "Candidate": "Paul Lalley",
+      "Michael Wojcik": "",
+      "Paul Lalley": "1",
+      "ward": 17,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "93",
+      "Paul Lalley": "1",
+      "ward": 17,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Paul Lalley": "Paul Lalley",
+      "ward": 17,
+      "division": 18
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "114",
+      "Paul Lalley": "0",
+      "ward": 17,
+      "division": 18
+    },
+    {
+      "Candidate": "Paul Lalley",
+      "Michael Wojcik": "",
+      "Paul Lalley": "2",
+      "ward": 17,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "114",
+      "Paul Lalley": "2",
+      "ward": 17,
+      "division": 18
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Paul Lalley": "Paul Lalley",
+      "ward": 17,
+      "division": 19
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "126",
+      "Paul Lalley": "0",
+      "ward": 17,
+      "division": 19
+    },
+    {
+      "Candidate": "Paul Lalley",
+      "Michael Wojcik": "",
+      "Paul Lalley": "3",
+      "ward": 17,
+      "division": 19
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "126",
+      "Paul Lalley": "3",
+      "ward": 17,
+      "division": 19
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Paul Lalley": "Paul Lalley",
+      "ward": 17,
+      "division": 20
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "170",
+      "Paul Lalley": "0",
+      "ward": 17,
+      "division": 20
+    },
+    {
+      "Candidate": "Paul Lalley",
+      "Michael Wojcik": "",
+      "Paul Lalley": "3",
+      "ward": 17,
+      "division": 20
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "170",
+      "Paul Lalley": "3",
+      "ward": 17,
+      "division": 20
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Paul Lalley": "Paul Lalley",
+      "ward": 17,
+      "division": 21
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "165",
+      "Paul Lalley": "0",
+      "ward": 17,
+      "division": 21
+    },
+    {
+      "Candidate": "Paul Lalley",
+      "Michael Wojcik": "",
+      "Paul Lalley": "3",
+      "ward": 17,
+      "division": 21
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "165",
+      "Paul Lalley": "3",
+      "ward": 17,
+      "division": 21
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Paul Lalley": "Paul Lalley",
+      "ward": 17,
+      "division": 22
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "120",
+      "Paul Lalley": "0",
+      "ward": 17,
+      "division": 22
+    },
+    {
+      "Candidate": "Paul Lalley",
+      "Michael Wojcik": "",
+      "Paul Lalley": "1",
+      "ward": 17,
+      "division": 22
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "120",
+      "Paul Lalley": "1",
+      "ward": 17,
+      "division": 22
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Paul Lalley": "Paul Lalley",
+      "ward": 17,
+      "division": 23
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "64",
+      "Paul Lalley": "0",
+      "ward": 17,
+      "division": 23
+    },
+    {
+      "Candidate": "Paul Lalley",
+      "Michael Wojcik": "",
+      "Paul Lalley": "2",
+      "ward": 17,
+      "division": 23
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "64",
+      "Paul Lalley": "2",
+      "ward": 17,
+      "division": 23
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Paul Lalley": "Paul Lalley",
+      "ward": 17,
+      "division": 24
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "153",
+      "Paul Lalley": "0",
+      "ward": 17,
+      "division": 24
+    },
+    {
+      "Candidate": "Paul Lalley",
+      "Michael Wojcik": "",
+      "Paul Lalley": "4",
+      "ward": 17,
+      "division": 24
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "153",
+      "Paul Lalley": "4",
+      "ward": 17,
+      "division": 24
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Paul Lalley": "Paul Lalley",
+      "ward": 17,
+      "division": 25
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "104",
+      "Paul Lalley": "0",
+      "ward": 17,
+      "division": 25
+    },
+    {
+      "Candidate": "Paul Lalley",
+      "Michael Wojcik": "",
+      "Paul Lalley": "1",
+      "ward": 17,
+      "division": 25
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "104",
+      "Paul Lalley": "1",
+      "ward": 17,
+      "division": 25
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "ward": 17,
+      "division": 26
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "52",
+      "ward": 17,
+      "division": 26
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "52",
+      "ward": 17,
+      "division": 26
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Paul Lalley": "Paul Lalley",
+      "ward": 17,
+      "division": 27
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "110",
+      "Paul Lalley": "0",
+      "ward": 17,
+      "division": 27
+    },
+    {
+      "Candidate": "Paul Lalley",
+      "Michael Wojcik": "",
+      "Paul Lalley": "1",
+      "ward": 17,
+      "division": 27
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "110",
+      "Paul Lalley": "1",
+      "ward": 17,
+      "division": 27
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Paul Lalley": "Paul Lalley",
+      "ward": 17,
+      "division": 28
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "99",
+      "Paul Lalley": "0",
+      "ward": 17,
+      "division": 28
+    },
+    {
+      "Candidate": "Paul Lalley",
+      "Michael Wojcik": "",
+      "Paul Lalley": "3",
+      "ward": 17,
+      "division": 28
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "99",
+      "Paul Lalley": "3",
+      "ward": 17,
+      "division": 28
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Michael Wojcik": "Michael Wojcik",
+      "Paul Lalley": "Paul Lalley",
+      "Write In": "Write In",
+      "ward": 17,
+      "division": 29
+    },
+    {
+      "Candidate": "Michael Wojcik",
+      "Michael Wojcik": "112",
+      "Paul Lalley": "0",
+      "Write In": "0",
+      "ward": 17,
+      "division": 29
+    },
+    {
+      "Candidate": "Paul Lalley",
+      "Michael Wojcik": "",
+      "Paul Lalley": "1",
+      "Write In": "0",
+      "ward": 17,
+      "division": 29
+    },
+    {
+      "Candidate": "Write In",
+      "Michael Wojcik": "",
+      "Paul Lalley": "",
+      "Write In": "1",
+      "ward": 17,
+      "division": 29
+    },
+    {
+      "Candidate": "Total",
+      "Michael Wojcik": "112",
+      "Paul Lalley": "1",
+      "Write In": "1",
+      "ward": 17,
+      "division": 29
+    }
+  ]
+]

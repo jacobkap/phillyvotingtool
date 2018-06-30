@@ -1,0 +1,602 @@
+[
+  [
+    {
+      "Candidate": "",
+      "John Featherman": "John Featherman",
+      "Write In": "Write In",
+      "ward": 55,
+      "division": "All"
+    },
+    {
+      "Candidate": "John Featherman",
+      "John Featherman": "568",
+      "Write In": "1",
+      "ward": 55,
+      "division": "All"
+    },
+    {
+      "Candidate": "Write In",
+      "John Featherman": "",
+      "Write In": "0",
+      "ward": 55,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "John Featherman": "569",
+      "Write In": "1",
+      "ward": 55,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Featherman": "John Featherman",
+      "ward": 55,
+      "division": 1
+    },
+    {
+      "Candidate": "John Featherman",
+      "John Featherman": "19",
+      "ward": 55,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "John Featherman": "19",
+      "ward": 55,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Featherman": "John Featherman",
+      "ward": 55,
+      "division": 2
+    },
+    {
+      "Candidate": "John Featherman",
+      "John Featherman": "16",
+      "ward": 55,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "John Featherman": "16",
+      "ward": 55,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Featherman": "John Featherman",
+      "ward": 55,
+      "division": 3
+    },
+    {
+      "Candidate": "John Featherman",
+      "John Featherman": "10",
+      "ward": 55,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "John Featherman": "10",
+      "ward": 55,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Featherman": "John Featherman",
+      "ward": 55,
+      "division": 4
+    },
+    {
+      "Candidate": "John Featherman",
+      "John Featherman": "8",
+      "ward": 55,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "John Featherman": "8",
+      "ward": 55,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Featherman": "John Featherman",
+      "ward": 55,
+      "division": 5
+    },
+    {
+      "Candidate": "John Featherman",
+      "John Featherman": "7",
+      "ward": 55,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "John Featherman": "7",
+      "ward": 55,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Featherman": "John Featherman",
+      "ward": 55,
+      "division": 6
+    },
+    {
+      "Candidate": "John Featherman",
+      "John Featherman": "29",
+      "ward": 55,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "John Featherman": "29",
+      "ward": 55,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Featherman": "John Featherman",
+      "ward": 55,
+      "division": 7
+    },
+    {
+      "Candidate": "John Featherman",
+      "John Featherman": "24",
+      "ward": 55,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "John Featherman": "24",
+      "ward": 55,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Featherman": "John Featherman",
+      "ward": 55,
+      "division": 8
+    },
+    {
+      "Candidate": "John Featherman",
+      "John Featherman": "25",
+      "ward": 55,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "John Featherman": "25",
+      "ward": 55,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Featherman": "John Featherman",
+      "ward": 55,
+      "division": 9
+    },
+    {
+      "Candidate": "John Featherman",
+      "John Featherman": "18",
+      "ward": 55,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "John Featherman": "18",
+      "ward": 55,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Featherman": "John Featherman",
+      "ward": 55,
+      "division": 10
+    },
+    {
+      "Candidate": "John Featherman",
+      "John Featherman": "8",
+      "ward": 55,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "John Featherman": "8",
+      "ward": 55,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Featherman": "John Featherman",
+      "ward": 55,
+      "division": 11
+    },
+    {
+      "Candidate": "John Featherman",
+      "John Featherman": "32",
+      "ward": 55,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "John Featherman": "32",
+      "ward": 55,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Featherman": "John Featherman",
+      "ward": 55,
+      "division": 12
+    },
+    {
+      "Candidate": "John Featherman",
+      "John Featherman": "37",
+      "ward": 55,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "John Featherman": "37",
+      "ward": 55,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Featherman": "John Featherman",
+      "Write In": "Write In",
+      "ward": 55,
+      "division": 13
+    },
+    {
+      "Candidate": "John Featherman",
+      "John Featherman": "18",
+      "Write In": "1",
+      "ward": 55,
+      "division": 13
+    },
+    {
+      "Candidate": "Write In",
+      "John Featherman": "",
+      "Write In": "0",
+      "ward": 55,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "John Featherman": "19",
+      "Write In": "1",
+      "ward": 55,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Featherman": "John Featherman",
+      "ward": 55,
+      "division": 14
+    },
+    {
+      "Candidate": "John Featherman",
+      "John Featherman": "16",
+      "ward": 55,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "John Featherman": "16",
+      "ward": 55,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Featherman": "John Featherman",
+      "ward": 55,
+      "division": 15
+    },
+    {
+      "Candidate": "John Featherman",
+      "John Featherman": "23",
+      "ward": 55,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "John Featherman": "23",
+      "ward": 55,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Featherman": "John Featherman",
+      "ward": 55,
+      "division": 16
+    },
+    {
+      "Candidate": "John Featherman",
+      "John Featherman": "18",
+      "ward": 55,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "John Featherman": "18",
+      "ward": 55,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Featherman": "John Featherman",
+      "ward": 55,
+      "division": 17
+    },
+    {
+      "Candidate": "John Featherman",
+      "John Featherman": "22",
+      "ward": 55,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "John Featherman": "22",
+      "ward": 55,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Featherman": "John Featherman",
+      "ward": 55,
+      "division": 18
+    },
+    {
+      "Candidate": "John Featherman",
+      "John Featherman": "17",
+      "ward": 55,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "John Featherman": "17",
+      "ward": 55,
+      "division": 18
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Featherman": "John Featherman",
+      "ward": 55,
+      "division": 19
+    },
+    {
+      "Candidate": "John Featherman",
+      "John Featherman": "38",
+      "ward": 55,
+      "division": 19
+    },
+    {
+      "Candidate": "Total",
+      "John Featherman": "38",
+      "ward": 55,
+      "division": 19
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Featherman": "John Featherman",
+      "ward": 55,
+      "division": 20
+    },
+    {
+      "Candidate": "John Featherman",
+      "John Featherman": "38",
+      "ward": 55,
+      "division": 20
+    },
+    {
+      "Candidate": "Total",
+      "John Featherman": "38",
+      "ward": 55,
+      "division": 20
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Featherman": "John Featherman",
+      "ward": 55,
+      "division": 21
+    },
+    {
+      "Candidate": "John Featherman",
+      "John Featherman": "17",
+      "ward": 55,
+      "division": 21
+    },
+    {
+      "Candidate": "Total",
+      "John Featherman": "17",
+      "ward": 55,
+      "division": 21
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Featherman": "John Featherman",
+      "ward": 55,
+      "division": 22
+    },
+    {
+      "Candidate": "John Featherman",
+      "John Featherman": "23",
+      "ward": 55,
+      "division": 22
+    },
+    {
+      "Candidate": "Total",
+      "John Featherman": "23",
+      "ward": 55,
+      "division": 22
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Featherman": "John Featherman",
+      "ward": 55,
+      "division": 23
+    },
+    {
+      "Candidate": "John Featherman",
+      "John Featherman": "10",
+      "ward": 55,
+      "division": 23
+    },
+    {
+      "Candidate": "Total",
+      "John Featherman": "10",
+      "ward": 55,
+      "division": 23
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Featherman": "John Featherman",
+      "ward": 55,
+      "division": 25
+    },
+    {
+      "Candidate": "John Featherman",
+      "John Featherman": "17",
+      "ward": 55,
+      "division": 25
+    },
+    {
+      "Candidate": "Total",
+      "John Featherman": "17",
+      "ward": 55,
+      "division": 25
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Featherman": "John Featherman",
+      "ward": 55,
+      "division": 26
+    },
+    {
+      "Candidate": "John Featherman",
+      "John Featherman": "21",
+      "ward": 55,
+      "division": 26
+    },
+    {
+      "Candidate": "Total",
+      "John Featherman": "21",
+      "ward": 55,
+      "division": 26
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Featherman": "John Featherman",
+      "ward": 55,
+      "division": 27
+    },
+    {
+      "Candidate": "John Featherman",
+      "John Featherman": "15",
+      "ward": 55,
+      "division": 27
+    },
+    {
+      "Candidate": "Total",
+      "John Featherman": "15",
+      "ward": 55,
+      "division": 27
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Featherman": "John Featherman",
+      "ward": 55,
+      "division": 28
+    },
+    {
+      "Candidate": "John Featherman",
+      "John Featherman": "23",
+      "ward": 55,
+      "division": 28
+    },
+    {
+      "Candidate": "Total",
+      "John Featherman": "23",
+      "ward": 55,
+      "division": 28
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John Featherman": "John Featherman",
+      "ward": 55,
+      "division": 29
+    },
+    {
+      "Candidate": "John Featherman",
+      "John Featherman": "19",
+      "ward": 55,
+      "division": 29
+    },
+    {
+      "Candidate": "Total",
+      "John Featherman": "19",
+      "ward": 55,
+      "division": 29
+    }
+  ]
+]

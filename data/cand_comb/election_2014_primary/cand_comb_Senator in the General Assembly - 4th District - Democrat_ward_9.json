@@ -1,0 +1,786 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Brian D Gralnick": "Brian D Gralnick",
+      "Art Haywood": "Art Haywood",
+      "Leanna Washington": "Leanna Washington",
+      "Write In": "Write In",
+      "ward": 9,
+      "division": "All"
+    },
+    {
+      "Candidate": "Brian D Gralnick",
+      "Brian D Gralnick": "1,736",
+      "Art Haywood": "0",
+      "Leanna Washington": "0",
+      "Write In": "0",
+      "ward": 9,
+      "division": "All"
+    },
+    {
+      "Candidate": "Art Haywood",
+      "Brian D Gralnick": "",
+      "Art Haywood": "1,292",
+      "Leanna Washington": "0",
+      "Write In": "0",
+      "ward": 9,
+      "division": "All"
+    },
+    {
+      "Candidate": "Leanna Washington",
+      "Brian D Gralnick": "",
+      "Art Haywood": "",
+      "Leanna Washington": "455",
+      "Write In": "0",
+      "ward": 9,
+      "division": "All"
+    },
+    {
+      "Candidate": "Write In",
+      "Brian D Gralnick": "",
+      "Art Haywood": "",
+      "Leanna Washington": "",
+      "Write In": "1",
+      "ward": 9,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Brian D Gralnick": "1,736",
+      "Art Haywood": "1,292",
+      "Leanna Washington": "455",
+      "Write In": "1",
+      "ward": 9,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Brian D Gralnick": "Brian D Gralnick",
+      "Art Haywood": "Art Haywood",
+      "Leanna Washington": "Leanna Washington",
+      "ward": 9,
+      "division": 1
+    },
+    {
+      "Candidate": "Brian D Gralnick",
+      "Brian D Gralnick": "97",
+      "Art Haywood": "0",
+      "Leanna Washington": "0",
+      "ward": 9,
+      "division": 1
+    },
+    {
+      "Candidate": "Art Haywood",
+      "Brian D Gralnick": "",
+      "Art Haywood": "85",
+      "Leanna Washington": "0",
+      "ward": 9,
+      "division": 1
+    },
+    {
+      "Candidate": "Leanna Washington",
+      "Brian D Gralnick": "",
+      "Art Haywood": "",
+      "Leanna Washington": "44",
+      "ward": 9,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Brian D Gralnick": "97",
+      "Art Haywood": "85",
+      "Leanna Washington": "44",
+      "ward": 9,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Brian D Gralnick": "Brian D Gralnick",
+      "Art Haywood": "Art Haywood",
+      "Leanna Washington": "Leanna Washington",
+      "ward": 9,
+      "division": 2
+    },
+    {
+      "Candidate": "Brian D Gralnick",
+      "Brian D Gralnick": "137",
+      "Art Haywood": "0",
+      "Leanna Washington": "0",
+      "ward": 9,
+      "division": 2
+    },
+    {
+      "Candidate": "Art Haywood",
+      "Brian D Gralnick": "",
+      "Art Haywood": "121",
+      "Leanna Washington": "0",
+      "ward": 9,
+      "division": 2
+    },
+    {
+      "Candidate": "Leanna Washington",
+      "Brian D Gralnick": "",
+      "Art Haywood": "",
+      "Leanna Washington": "33",
+      "ward": 9,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "Brian D Gralnick": "137",
+      "Art Haywood": "121",
+      "Leanna Washington": "33",
+      "ward": 9,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Brian D Gralnick": "Brian D Gralnick",
+      "Art Haywood": "Art Haywood",
+      "Leanna Washington": "Leanna Washington",
+      "ward": 9,
+      "division": 3
+    },
+    {
+      "Candidate": "Brian D Gralnick",
+      "Brian D Gralnick": "170",
+      "Art Haywood": "0",
+      "Leanna Washington": "0",
+      "ward": 9,
+      "division": 3
+    },
+    {
+      "Candidate": "Art Haywood",
+      "Brian D Gralnick": "",
+      "Art Haywood": "73",
+      "Leanna Washington": "0",
+      "ward": 9,
+      "division": 3
+    },
+    {
+      "Candidate": "Leanna Washington",
+      "Brian D Gralnick": "",
+      "Art Haywood": "",
+      "Leanna Washington": "44",
+      "ward": 9,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Brian D Gralnick": "170",
+      "Art Haywood": "73",
+      "Leanna Washington": "44",
+      "ward": 9,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Brian D Gralnick": "Brian D Gralnick",
+      "Art Haywood": "Art Haywood",
+      "Leanna Washington": "Leanna Washington",
+      "ward": 9,
+      "division": 4
+    },
+    {
+      "Candidate": "Brian D Gralnick",
+      "Brian D Gralnick": "86",
+      "Art Haywood": "0",
+      "Leanna Washington": "0",
+      "ward": 9,
+      "division": 4
+    },
+    {
+      "Candidate": "Art Haywood",
+      "Brian D Gralnick": "",
+      "Art Haywood": "53",
+      "Leanna Washington": "0",
+      "ward": 9,
+      "division": 4
+    },
+    {
+      "Candidate": "Leanna Washington",
+      "Brian D Gralnick": "",
+      "Art Haywood": "",
+      "Leanna Washington": "25",
+      "ward": 9,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Brian D Gralnick": "86",
+      "Art Haywood": "53",
+      "Leanna Washington": "25",
+      "ward": 9,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Brian D Gralnick": "Brian D Gralnick",
+      "Art Haywood": "Art Haywood",
+      "Leanna Washington": "Leanna Washington",
+      "ward": 9,
+      "division": 5
+    },
+    {
+      "Candidate": "Brian D Gralnick",
+      "Brian D Gralnick": "85",
+      "Art Haywood": "0",
+      "Leanna Washington": "0",
+      "ward": 9,
+      "division": 5
+    },
+    {
+      "Candidate": "Art Haywood",
+      "Brian D Gralnick": "",
+      "Art Haywood": "73",
+      "Leanna Washington": "0",
+      "ward": 9,
+      "division": 5
+    },
+    {
+      "Candidate": "Leanna Washington",
+      "Brian D Gralnick": "",
+      "Art Haywood": "",
+      "Leanna Washington": "19",
+      "ward": 9,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Brian D Gralnick": "85",
+      "Art Haywood": "73",
+      "Leanna Washington": "19",
+      "ward": 9,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Brian D Gralnick": "Brian D Gralnick",
+      "Art Haywood": "Art Haywood",
+      "Leanna Washington": "Leanna Washington",
+      "ward": 9,
+      "division": 6
+    },
+    {
+      "Candidate": "Brian D Gralnick",
+      "Brian D Gralnick": "101",
+      "Art Haywood": "0",
+      "Leanna Washington": "0",
+      "ward": 9,
+      "division": 6
+    },
+    {
+      "Candidate": "Art Haywood",
+      "Brian D Gralnick": "",
+      "Art Haywood": "51",
+      "Leanna Washington": "0",
+      "ward": 9,
+      "division": 6
+    },
+    {
+      "Candidate": "Leanna Washington",
+      "Brian D Gralnick": "",
+      "Art Haywood": "",
+      "Leanna Washington": "15",
+      "ward": 9,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "Brian D Gralnick": "101",
+      "Art Haywood": "51",
+      "Leanna Washington": "15",
+      "ward": 9,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Brian D Gralnick": "Brian D Gralnick",
+      "Art Haywood": "Art Haywood",
+      "Leanna Washington": "Leanna Washington",
+      "ward": 9,
+      "division": 7
+    },
+    {
+      "Candidate": "Brian D Gralnick",
+      "Brian D Gralnick": "95",
+      "Art Haywood": "0",
+      "Leanna Washington": "0",
+      "ward": 9,
+      "division": 7
+    },
+    {
+      "Candidate": "Art Haywood",
+      "Brian D Gralnick": "",
+      "Art Haywood": "55",
+      "Leanna Washington": "0",
+      "ward": 9,
+      "division": 7
+    },
+    {
+      "Candidate": "Leanna Washington",
+      "Brian D Gralnick": "",
+      "Art Haywood": "",
+      "Leanna Washington": "12",
+      "ward": 9,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Brian D Gralnick": "95",
+      "Art Haywood": "55",
+      "Leanna Washington": "12",
+      "ward": 9,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Brian D Gralnick": "Brian D Gralnick",
+      "Art Haywood": "Art Haywood",
+      "Leanna Washington": "Leanna Washington",
+      "ward": 9,
+      "division": 8
+    },
+    {
+      "Candidate": "Brian D Gralnick",
+      "Brian D Gralnick": "55",
+      "Art Haywood": "0",
+      "Leanna Washington": "0",
+      "ward": 9,
+      "division": 8
+    },
+    {
+      "Candidate": "Art Haywood",
+      "Brian D Gralnick": "",
+      "Art Haywood": "46",
+      "Leanna Washington": "0",
+      "ward": 9,
+      "division": 8
+    },
+    {
+      "Candidate": "Leanna Washington",
+      "Brian D Gralnick": "",
+      "Art Haywood": "",
+      "Leanna Washington": "9",
+      "ward": 9,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Brian D Gralnick": "55",
+      "Art Haywood": "46",
+      "Leanna Washington": "9",
+      "ward": 9,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Brian D Gralnick": "Brian D Gralnick",
+      "Art Haywood": "Art Haywood",
+      "Leanna Washington": "Leanna Washington",
+      "ward": 9,
+      "division": 9
+    },
+    {
+      "Candidate": "Brian D Gralnick",
+      "Brian D Gralnick": "152",
+      "Art Haywood": "0",
+      "Leanna Washington": "0",
+      "ward": 9,
+      "division": 9
+    },
+    {
+      "Candidate": "Art Haywood",
+      "Brian D Gralnick": "",
+      "Art Haywood": "76",
+      "Leanna Washington": "0",
+      "ward": 9,
+      "division": 9
+    },
+    {
+      "Candidate": "Leanna Washington",
+      "Brian D Gralnick": "",
+      "Art Haywood": "",
+      "Leanna Washington": "24",
+      "ward": 9,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Brian D Gralnick": "152",
+      "Art Haywood": "76",
+      "Leanna Washington": "24",
+      "ward": 9,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Brian D Gralnick": "Brian D Gralnick",
+      "Art Haywood": "Art Haywood",
+      "Leanna Washington": "Leanna Washington",
+      "ward": 9,
+      "division": 10
+    },
+    {
+      "Candidate": "Brian D Gralnick",
+      "Brian D Gralnick": "114",
+      "Art Haywood": "0",
+      "Leanna Washington": "0",
+      "ward": 9,
+      "division": 10
+    },
+    {
+      "Candidate": "Art Haywood",
+      "Brian D Gralnick": "",
+      "Art Haywood": "76",
+      "Leanna Washington": "0",
+      "ward": 9,
+      "division": 10
+    },
+    {
+      "Candidate": "Leanna Washington",
+      "Brian D Gralnick": "",
+      "Art Haywood": "",
+      "Leanna Washington": "20",
+      "ward": 9,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Brian D Gralnick": "114",
+      "Art Haywood": "76",
+      "Leanna Washington": "20",
+      "ward": 9,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Brian D Gralnick": "Brian D Gralnick",
+      "Art Haywood": "Art Haywood",
+      "Leanna Washington": "Leanna Washington",
+      "ward": 9,
+      "division": 11
+    },
+    {
+      "Candidate": "Brian D Gralnick",
+      "Brian D Gralnick": "125",
+      "Art Haywood": "0",
+      "Leanna Washington": "0",
+      "ward": 9,
+      "division": 11
+    },
+    {
+      "Candidate": "Art Haywood",
+      "Brian D Gralnick": "",
+      "Art Haywood": "81",
+      "Leanna Washington": "0",
+      "ward": 9,
+      "division": 11
+    },
+    {
+      "Candidate": "Leanna Washington",
+      "Brian D Gralnick": "",
+      "Art Haywood": "",
+      "Leanna Washington": "24",
+      "ward": 9,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Brian D Gralnick": "125",
+      "Art Haywood": "81",
+      "Leanna Washington": "24",
+      "ward": 9,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Art Haywood": "Art Haywood",
+      "Brian D Gralnick": "Brian D Gralnick",
+      "Leanna Washington": "Leanna Washington",
+      "ward": 9,
+      "division": 12
+    },
+    {
+      "Candidate": "Art Haywood",
+      "Art Haywood": "141",
+      "Brian D Gralnick": "0",
+      "Leanna Washington": "0",
+      "ward": 9,
+      "division": 12
+    },
+    {
+      "Candidate": "Brian D Gralnick",
+      "Art Haywood": "",
+      "Brian D Gralnick": "89",
+      "Leanna Washington": "0",
+      "ward": 9,
+      "division": 12
+    },
+    {
+      "Candidate": "Leanna Washington",
+      "Art Haywood": "",
+      "Brian D Gralnick": "",
+      "Leanna Washington": "31",
+      "ward": 9,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Art Haywood": "141",
+      "Brian D Gralnick": "89",
+      "Leanna Washington": "31",
+      "ward": 9,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Brian D Gralnick": "Brian D Gralnick",
+      "Art Haywood": "Art Haywood",
+      "Leanna Washington": "Leanna Washington",
+      "ward": 9,
+      "division": 13
+    },
+    {
+      "Candidate": "Brian D Gralnick",
+      "Brian D Gralnick": "150",
+      "Art Haywood": "0",
+      "Leanna Washington": "0",
+      "ward": 9,
+      "division": 13
+    },
+    {
+      "Candidate": "Art Haywood",
+      "Brian D Gralnick": "",
+      "Art Haywood": "81",
+      "Leanna Washington": "0",
+      "ward": 9,
+      "division": 13
+    },
+    {
+      "Candidate": "Leanna Washington",
+      "Brian D Gralnick": "",
+      "Art Haywood": "",
+      "Leanna Washington": "19",
+      "ward": 9,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "Brian D Gralnick": "150",
+      "Art Haywood": "81",
+      "Leanna Washington": "19",
+      "ward": 9,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Art Haywood": "Art Haywood",
+      "Brian D Gralnick": "Brian D Gralnick",
+      "Leanna Washington": "Leanna Washington",
+      "ward": 9,
+      "division": 14
+    },
+    {
+      "Candidate": "Art Haywood",
+      "Art Haywood": "92",
+      "Brian D Gralnick": "0",
+      "Leanna Washington": "0",
+      "ward": 9,
+      "division": 14
+    },
+    {
+      "Candidate": "Brian D Gralnick",
+      "Art Haywood": "",
+      "Brian D Gralnick": "83",
+      "Leanna Washington": "0",
+      "ward": 9,
+      "division": 14
+    },
+    {
+      "Candidate": "Leanna Washington",
+      "Art Haywood": "",
+      "Brian D Gralnick": "",
+      "Leanna Washington": "17",
+      "ward": 9,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "Art Haywood": "92",
+      "Brian D Gralnick": "83",
+      "Leanna Washington": "17",
+      "ward": 9,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Art Haywood": "Art Haywood",
+      "Brian D Gralnick": "Brian D Gralnick",
+      "Leanna Washington": "Leanna Washington",
+      "ward": 9,
+      "division": 15
+    },
+    {
+      "Candidate": "Art Haywood",
+      "Art Haywood": "118",
+      "Brian D Gralnick": "0",
+      "Leanna Washington": "0",
+      "ward": 9,
+      "division": 15
+    },
+    {
+      "Candidate": "Brian D Gralnick",
+      "Art Haywood": "",
+      "Brian D Gralnick": "103",
+      "Leanna Washington": "0",
+      "ward": 9,
+      "division": 15
+    },
+    {
+      "Candidate": "Leanna Washington",
+      "Art Haywood": "",
+      "Brian D Gralnick": "",
+      "Leanna Washington": "21",
+      "ward": 9,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "Art Haywood": "118",
+      "Brian D Gralnick": "103",
+      "Leanna Washington": "21",
+      "ward": 9,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Brian D Gralnick": "Brian D Gralnick",
+      "Leanna Washington": "Leanna Washington",
+      "Art Haywood": "Art Haywood",
+      "ward": 9,
+      "division": 16
+    },
+    {
+      "Candidate": "Brian D Gralnick",
+      "Brian D Gralnick": "48",
+      "Leanna Washington": "0",
+      "Art Haywood": "0",
+      "ward": 9,
+      "division": 16
+    },
+    {
+      "Candidate": "Leanna Washington",
+      "Brian D Gralnick": "",
+      "Leanna Washington": "43",
+      "Art Haywood": "0",
+      "ward": 9,
+      "division": 16
+    },
+    {
+      "Candidate": "Art Haywood",
+      "Brian D Gralnick": "",
+      "Leanna Washington": "",
+      "Art Haywood": "31",
+      "ward": 9,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "Brian D Gralnick": "48",
+      "Leanna Washington": "43",
+      "Art Haywood": "31",
+      "ward": 9,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Leanna Washington": "Leanna Washington",
+      "Brian D Gralnick": "Brian D Gralnick",
+      "Art Haywood": "Art Haywood",
+      "Write In": "Write In",
+      "ward": 9,
+      "division": 17
+    },
+    {
+      "Candidate": "Leanna Washington",
+      "Leanna Washington": "55",
+      "Brian D Gralnick": "0",
+      "Art Haywood": "0",
+      "Write In": "0",
+      "ward": 9,
+      "division": 17
+    },
+    {
+      "Candidate": "Brian D Gralnick",
+      "Leanna Washington": "",
+      "Brian D Gralnick": "46",
+      "Art Haywood": "0",
+      "Write In": "0",
+      "ward": 9,
+      "division": 17
+    },
+    {
+      "Candidate": "Art Haywood",
+      "Leanna Washington": "",
+      "Brian D Gralnick": "",
+      "Art Haywood": "39",
+      "Write In": "0",
+      "ward": 9,
+      "division": 17
+    },
+    {
+      "Candidate": "Write In",
+      "Leanna Washington": "",
+      "Brian D Gralnick": "",
+      "Art Haywood": "",
+      "Write In": "1",
+      "ward": 9,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "Leanna Washington": "55",
+      "Brian D Gralnick": "46",
+      "Art Haywood": "39",
+      "Write In": "1",
+      "ward": 9,
+      "division": 17
+    }
+  ]
+]

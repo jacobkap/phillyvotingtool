@@ -1,0 +1,842 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Martin Coleman": "Martin Coleman",
+      "Fran Shields": "Fran Shields",
+      "Henry Lewandowski": "Henry Lewandowski",
+      "ward": 24,
+      "division": "All"
+    },
+    {
+      "Candidate": "Martin Coleman",
+      "Martin Coleman": "63",
+      "Fran Shields": "686",
+      "Henry Lewandowski": "654",
+      "ward": 24,
+      "division": "All"
+    },
+    {
+      "Candidate": "Fran Shields",
+      "Martin Coleman": "",
+      "Fran Shields": "28",
+      "Henry Lewandowski": "644",
+      "ward": 24,
+      "division": "All"
+    },
+    {
+      "Candidate": "Henry Lewandowski",
+      "Martin Coleman": "",
+      "Fran Shields": "",
+      "Henry Lewandowski": "23",
+      "ward": 24,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Martin Coleman": "767",
+      "Fran Shields": "722",
+      "Henry Lewandowski": "685",
+      "ward": 24,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Fran Shields": "Fran Shields",
+      "Martin Coleman": "Martin Coleman",
+      "Henry Lewandowski": "Henry Lewandowski",
+      "ward": 24,
+      "division": 1
+    },
+    {
+      "Candidate": "Fran Shields",
+      "Fran Shields": "2",
+      "Martin Coleman": "33",
+      "Henry Lewandowski": "25",
+      "ward": 24,
+      "division": 1
+    },
+    {
+      "Candidate": "Martin Coleman",
+      "Fran Shields": "",
+      "Martin Coleman": "0",
+      "Henry Lewandowski": "26",
+      "ward": 24,
+      "division": 1
+    },
+    {
+      "Candidate": "Henry Lewandowski",
+      "Fran Shields": "",
+      "Martin Coleman": "",
+      "Henry Lewandowski": "1",
+      "ward": 24,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Fran Shields": "35",
+      "Martin Coleman": "34",
+      "Henry Lewandowski": "27",
+      "ward": 24,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Martin Coleman": "Martin Coleman",
+      "Henry Lewandowski": "Henry Lewandowski",
+      "Fran Shields": "Fran Shields",
+      "ward": 24,
+      "division": 2
+    },
+    {
+      "Candidate": "Martin Coleman",
+      "Martin Coleman": "4",
+      "Henry Lewandowski": "38",
+      "Fran Shields": "37",
+      "ward": 24,
+      "division": 2
+    },
+    {
+      "Candidate": "Henry Lewandowski",
+      "Martin Coleman": "",
+      "Henry Lewandowski": "1",
+      "Fran Shields": "36",
+      "ward": 24,
+      "division": 2
+    },
+    {
+      "Candidate": "Fran Shields",
+      "Martin Coleman": "",
+      "Henry Lewandowski": "",
+      "Fran Shields": "1",
+      "ward": 24,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "Martin Coleman": "44",
+      "Henry Lewandowski": "40",
+      "Fran Shields": "39",
+      "ward": 24,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Martin Coleman": "Martin Coleman",
+      "Fran Shields": "Fran Shields",
+      "Henry Lewandowski": "Henry Lewandowski",
+      "ward": 24,
+      "division": 3
+    },
+    {
+      "Candidate": "Martin Coleman",
+      "Martin Coleman": "7",
+      "Fran Shields": "44",
+      "Henry Lewandowski": "43",
+      "ward": 24,
+      "division": 3
+    },
+    {
+      "Candidate": "Fran Shields",
+      "Martin Coleman": "",
+      "Fran Shields": "3",
+      "Henry Lewandowski": "41",
+      "ward": 24,
+      "division": 3
+    },
+    {
+      "Candidate": "Henry Lewandowski",
+      "Martin Coleman": "",
+      "Fran Shields": "",
+      "Henry Lewandowski": "3",
+      "ward": 24,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Martin Coleman": "53",
+      "Fran Shields": "47",
+      "Henry Lewandowski": "46",
+      "ward": 24,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Martin Coleman": "Martin Coleman",
+      "Fran Shields": "Fran Shields",
+      "Henry Lewandowski": "Henry Lewandowski",
+      "ward": 24,
+      "division": 4
+    },
+    {
+      "Candidate": "Martin Coleman",
+      "Martin Coleman": "4",
+      "Fran Shields": "41",
+      "Henry Lewandowski": "40",
+      "ward": 24,
+      "division": 4
+    },
+    {
+      "Candidate": "Fran Shields",
+      "Martin Coleman": "",
+      "Fran Shields": "2",
+      "Henry Lewandowski": "41",
+      "ward": 24,
+      "division": 4
+    },
+    {
+      "Candidate": "Henry Lewandowski",
+      "Martin Coleman": "",
+      "Fran Shields": "",
+      "Henry Lewandowski": "0",
+      "ward": 24,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Martin Coleman": "45",
+      "Fran Shields": "44",
+      "Henry Lewandowski": "41",
+      "ward": 24,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Martin Coleman": "Martin Coleman",
+      "Fran Shields": "Fran Shields",
+      "Henry Lewandowski": "Henry Lewandowski",
+      "ward": 24,
+      "division": 5
+    },
+    {
+      "Candidate": "Martin Coleman",
+      "Martin Coleman": "4",
+      "Fran Shields": "61",
+      "Henry Lewandowski": "47",
+      "ward": 24,
+      "division": 5
+    },
+    {
+      "Candidate": "Fran Shields",
+      "Martin Coleman": "",
+      "Fran Shields": "3",
+      "Henry Lewandowski": "46",
+      "ward": 24,
+      "division": 5
+    },
+    {
+      "Candidate": "Henry Lewandowski",
+      "Martin Coleman": "",
+      "Fran Shields": "",
+      "Henry Lewandowski": "2",
+      "ward": 24,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Martin Coleman": "67",
+      "Fran Shields": "65",
+      "Henry Lewandowski": "50",
+      "ward": 24,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Martin Coleman": "Martin Coleman",
+      "Fran Shields": "Fran Shields",
+      "Henry Lewandowski": "Henry Lewandowski",
+      "ward": 24,
+      "division": 6
+    },
+    {
+      "Candidate": "Martin Coleman",
+      "Martin Coleman": "7",
+      "Fran Shields": "106",
+      "Henry Lewandowski": "101",
+      "ward": 24,
+      "division": 6
+    },
+    {
+      "Candidate": "Fran Shields",
+      "Martin Coleman": "",
+      "Fran Shields": "3",
+      "Henry Lewandowski": "103",
+      "ward": 24,
+      "division": 6
+    },
+    {
+      "Candidate": "Henry Lewandowski",
+      "Martin Coleman": "",
+      "Fran Shields": "",
+      "Henry Lewandowski": "2",
+      "ward": 24,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "Martin Coleman": "113",
+      "Fran Shields": "111",
+      "Henry Lewandowski": "105",
+      "ward": 24,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Martin Coleman": "Martin Coleman",
+      "Fran Shields": "Fran Shields",
+      "Henry Lewandowski": "Henry Lewandowski",
+      "ward": 24,
+      "division": 7
+    },
+    {
+      "Candidate": "Martin Coleman",
+      "Martin Coleman": "5",
+      "Fran Shields": "49",
+      "Henry Lewandowski": "49",
+      "ward": 24,
+      "division": 7
+    },
+    {
+      "Candidate": "Fran Shields",
+      "Martin Coleman": "",
+      "Fran Shields": "2",
+      "Henry Lewandowski": "48",
+      "ward": 24,
+      "division": 7
+    },
+    {
+      "Candidate": "Henry Lewandowski",
+      "Martin Coleman": "",
+      "Fran Shields": "",
+      "Henry Lewandowski": "1",
+      "ward": 24,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Martin Coleman": "56",
+      "Fran Shields": "52",
+      "Henry Lewandowski": "51",
+      "ward": 24,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Fran Shields": "Fran Shields",
+      "Martin Coleman": "Martin Coleman",
+      "Henry Lewandowski": "Henry Lewandowski",
+      "ward": 24,
+      "division": 8
+    },
+    {
+      "Candidate": "Fran Shields",
+      "Fran Shields": "5",
+      "Martin Coleman": "33",
+      "Henry Lewandowski": "30",
+      "ward": 24,
+      "division": 8
+    },
+    {
+      "Candidate": "Martin Coleman",
+      "Fran Shields": "",
+      "Martin Coleman": "3",
+      "Henry Lewandowski": "30",
+      "ward": 24,
+      "division": 8
+    },
+    {
+      "Candidate": "Henry Lewandowski",
+      "Fran Shields": "",
+      "Martin Coleman": "",
+      "Henry Lewandowski": "0",
+      "ward": 24,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Fran Shields": "38",
+      "Martin Coleman": "36",
+      "Henry Lewandowski": "30",
+      "ward": 24,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Henry Lewandowski": "Henry Lewandowski",
+      "Martin Coleman": "Martin Coleman",
+      "Fran Shields": "Fran Shields",
+      "ward": 24,
+      "division": 9
+    },
+    {
+      "Candidate": "Henry Lewandowski",
+      "Henry Lewandowski": "1",
+      "Martin Coleman": "43",
+      "Fran Shields": "41",
+      "ward": 24,
+      "division": 9
+    },
+    {
+      "Candidate": "Martin Coleman",
+      "Henry Lewandowski": "",
+      "Martin Coleman": "1",
+      "Fran Shields": "41",
+      "ward": 24,
+      "division": 9
+    },
+    {
+      "Candidate": "Fran Shields",
+      "Henry Lewandowski": "",
+      "Martin Coleman": "",
+      "Fran Shields": "1",
+      "ward": 24,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Henry Lewandowski": "44",
+      "Martin Coleman": "44",
+      "Fran Shields": "42",
+      "ward": 24,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Henry Lewandowski": "Henry Lewandowski",
+      "Fran Shields": "Fran Shields",
+      "Martin Coleman": "Martin Coleman",
+      "ward": 24,
+      "division": 10
+    },
+    {
+      "Candidate": "Henry Lewandowski",
+      "Henry Lewandowski": "1",
+      "Fran Shields": "7",
+      "Martin Coleman": "6",
+      "ward": 24,
+      "division": 10
+    },
+    {
+      "Candidate": "Fran Shields",
+      "Henry Lewandowski": "",
+      "Fran Shields": "0",
+      "Martin Coleman": "6",
+      "ward": 24,
+      "division": 10
+    },
+    {
+      "Candidate": "Martin Coleman",
+      "Henry Lewandowski": "",
+      "Fran Shields": "",
+      "Martin Coleman": "1",
+      "ward": 24,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Henry Lewandowski": "8",
+      "Fran Shields": "7",
+      "Martin Coleman": "7",
+      "ward": 24,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Martin Coleman": "Martin Coleman",
+      "Fran Shields": "Fran Shields",
+      "Henry Lewandowski": "Henry Lewandowski",
+      "ward": 24,
+      "division": 11
+    },
+    {
+      "Candidate": "Martin Coleman",
+      "Martin Coleman": "4",
+      "Fran Shields": "32",
+      "Henry Lewandowski": "28",
+      "ward": 24,
+      "division": 11
+    },
+    {
+      "Candidate": "Fran Shields",
+      "Martin Coleman": "",
+      "Fran Shields": "1",
+      "Henry Lewandowski": "28",
+      "ward": 24,
+      "division": 11
+    },
+    {
+      "Candidate": "Henry Lewandowski",
+      "Martin Coleman": "",
+      "Fran Shields": "",
+      "Henry Lewandowski": "0",
+      "ward": 24,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Martin Coleman": "36",
+      "Fran Shields": "33",
+      "Henry Lewandowski": "28",
+      "ward": 24,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Martin Coleman": "Martin Coleman",
+      "Henry Lewandowski": "Henry Lewandowski",
+      "Fran Shields": "Fran Shields",
+      "ward": 24,
+      "division": 12
+    },
+    {
+      "Candidate": "Martin Coleman",
+      "Martin Coleman": "6",
+      "Henry Lewandowski": "35",
+      "Fran Shields": "33",
+      "ward": 24,
+      "division": 12
+    },
+    {
+      "Candidate": "Henry Lewandowski",
+      "Martin Coleman": "",
+      "Henry Lewandowski": "2",
+      "Fran Shields": "33",
+      "ward": 24,
+      "division": 12
+    },
+    {
+      "Candidate": "Fran Shields",
+      "Martin Coleman": "",
+      "Henry Lewandowski": "",
+      "Fran Shields": "1",
+      "ward": 24,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Martin Coleman": "41",
+      "Henry Lewandowski": "37",
+      "Fran Shields": "34",
+      "ward": 24,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Martin Coleman": "Martin Coleman",
+      "Fran Shields": "Fran Shields",
+      "Henry Lewandowski": "Henry Lewandowski",
+      "ward": 24,
+      "division": 13
+    },
+    {
+      "Candidate": "Martin Coleman",
+      "Martin Coleman": "6",
+      "Fran Shields": "49",
+      "Henry Lewandowski": "46",
+      "ward": 24,
+      "division": 13
+    },
+    {
+      "Candidate": "Fran Shields",
+      "Martin Coleman": "",
+      "Fran Shields": "1",
+      "Henry Lewandowski": "45",
+      "ward": 24,
+      "division": 13
+    },
+    {
+      "Candidate": "Henry Lewandowski",
+      "Martin Coleman": "",
+      "Fran Shields": "",
+      "Henry Lewandowski": "2",
+      "ward": 24,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "Martin Coleman": "56",
+      "Fran Shields": "50",
+      "Henry Lewandowski": "48",
+      "ward": 24,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Martin Coleman": "Martin Coleman",
+      "Henry Lewandowski": "Henry Lewandowski",
+      "Fran Shields": "Fran Shields",
+      "ward": 24,
+      "division": 14
+    },
+    {
+      "Candidate": "Martin Coleman",
+      "Martin Coleman": "4",
+      "Henry Lewandowski": "45",
+      "Fran Shields": "43",
+      "ward": 24,
+      "division": 14
+    },
+    {
+      "Candidate": "Henry Lewandowski",
+      "Martin Coleman": "",
+      "Henry Lewandowski": "1",
+      "Fran Shields": "43",
+      "ward": 24,
+      "division": 14
+    },
+    {
+      "Candidate": "Fran Shields",
+      "Martin Coleman": "",
+      "Henry Lewandowski": "",
+      "Fran Shields": "1",
+      "ward": 24,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "Martin Coleman": "49",
+      "Henry Lewandowski": "46",
+      "Fran Shields": "44",
+      "ward": 24,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Henry Lewandowski": "Henry Lewandowski",
+      "Martin Coleman": "Martin Coleman",
+      "Fran Shields": "Fran Shields",
+      "ward": 24,
+      "division": 15
+    },
+    {
+      "Candidate": "Henry Lewandowski",
+      "Henry Lewandowski": "2",
+      "Martin Coleman": "22",
+      "Fran Shields": "22",
+      "ward": 24,
+      "division": 15
+    },
+    {
+      "Candidate": "Martin Coleman",
+      "Henry Lewandowski": "",
+      "Martin Coleman": "2",
+      "Fran Shields": "22",
+      "ward": 24,
+      "division": 15
+    },
+    {
+      "Candidate": "Fran Shields",
+      "Henry Lewandowski": "",
+      "Martin Coleman": "",
+      "Fran Shields": "1",
+      "ward": 24,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "Henry Lewandowski": "25",
+      "Martin Coleman": "25",
+      "Fran Shields": "24",
+      "ward": 24,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Henry Lewandowski": "Henry Lewandowski",
+      "Martin Coleman": "Martin Coleman",
+      "Fran Shields": "Fran Shields",
+      "ward": 24,
+      "division": 16
+    },
+    {
+      "Candidate": "Henry Lewandowski",
+      "Henry Lewandowski": "2",
+      "Martin Coleman": "32",
+      "Fran Shields": "32",
+      "ward": 24,
+      "division": 16
+    },
+    {
+      "Candidate": "Martin Coleman",
+      "Henry Lewandowski": "",
+      "Martin Coleman": "1",
+      "Fran Shields": "32",
+      "ward": 24,
+      "division": 16
+    },
+    {
+      "Candidate": "Fran Shields",
+      "Henry Lewandowski": "",
+      "Martin Coleman": "",
+      "Fran Shields": "0",
+      "ward": 24,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "Henry Lewandowski": "34",
+      "Martin Coleman": "33",
+      "Fran Shields": "32",
+      "ward": 24,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Martin Coleman": "Martin Coleman",
+      "Fran Shields": "Fran Shields",
+      "Henry Lewandowski": "Henry Lewandowski",
+      "ward": 24,
+      "division": 17
+    },
+    {
+      "Candidate": "Martin Coleman",
+      "Martin Coleman": "4",
+      "Fran Shields": "16",
+      "Henry Lewandowski": "16",
+      "ward": 24,
+      "division": 17
+    },
+    {
+      "Candidate": "Fran Shields",
+      "Martin Coleman": "",
+      "Fran Shields": "1",
+      "Henry Lewandowski": "16",
+      "ward": 24,
+      "division": 17
+    },
+    {
+      "Candidate": "Henry Lewandowski",
+      "Martin Coleman": "",
+      "Fran Shields": "",
+      "Henry Lewandowski": "1",
+      "ward": 24,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "Martin Coleman": "20",
+      "Fran Shields": "17",
+      "Henry Lewandowski": "17",
+      "ward": 24,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Fran Shields": "Fran Shields",
+      "Henry Lewandowski": "Henry Lewandowski",
+      "Martin Coleman": "Martin Coleman",
+      "ward": 24,
+      "division": 18
+    },
+    {
+      "Candidate": "Fran Shields",
+      "Fran Shields": "0",
+      "Henry Lewandowski": "1",
+      "Martin Coleman": "2",
+      "ward": 24,
+      "division": 18
+    },
+    {
+      "Candidate": "Henry Lewandowski",
+      "Fran Shields": "",
+      "Henry Lewandowski": "1",
+      "Martin Coleman": "1",
+      "ward": 24,
+      "division": 18
+    },
+    {
+      "Candidate": "Martin Coleman",
+      "Fran Shields": "",
+      "Henry Lewandowski": "",
+      "Martin Coleman": "0",
+      "ward": 24,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "Fran Shields": "2",
+      "Henry Lewandowski": "2",
+      "Martin Coleman": "2",
+      "ward": 24,
+      "division": 18
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Fran Shields": "Fran Shields",
+      "Henry Lewandowski": "Henry Lewandowski",
+      "Martin Coleman": "Martin Coleman",
+      "ward": 24,
+      "division": 19
+    },
+    {
+      "Candidate": "Fran Shields",
+      "Fran Shields": "0",
+      "Henry Lewandowski": "6",
+      "Martin Coleman": "6",
+      "ward": 24,
+      "division": 19
+    },
+    {
+      "Candidate": "Henry Lewandowski",
+      "Fran Shields": "",
+      "Henry Lewandowski": "0",
+      "Martin Coleman": "6",
+      "ward": 24,
+      "division": 19
+    },
+    {
+      "Candidate": "Martin Coleman",
+      "Fran Shields": "",
+      "Henry Lewandowski": "",
+      "Martin Coleman": "0",
+      "ward": 24,
+      "division": 19
+    },
+    {
+      "Candidate": "Total",
+      "Fran Shields": "6",
+      "Henry Lewandowski": "6",
+      "Martin Coleman": "6",
+      "ward": 24,
+      "division": 19
+    }
+  ]
+]

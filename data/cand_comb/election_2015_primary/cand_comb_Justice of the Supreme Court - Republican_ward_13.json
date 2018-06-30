@@ -1,0 +1,702 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Anne Covey": "Anne Covey",
+      "Correale Stevens": "Correale Stevens",
+      "Mike George": "Mike George",
+      "Rebecca Warren": "Rebecca Warren",
+      "Judy Olson": "Judy Olson",
+      "Cheryl Allen": "Cheryl Allen",
+      "ward": 13,
+      "division": "All"
+    },
+    {
+      "Candidate": "Anne Covey",
+      "Anne Covey": "2",
+      "Correale Stevens": "10",
+      "Mike George": "10",
+      "Rebecca Warren": "4",
+      "Judy Olson": "4",
+      "Cheryl Allen": "2",
+      "ward": 13,
+      "division": "All"
+    },
+    {
+      "Candidate": "Correale Stevens",
+      "Anne Covey": "",
+      "Correale Stevens": "4",
+      "Mike George": "3",
+      "Rebecca Warren": "2",
+      "Judy Olson": "0",
+      "Cheryl Allen": "0",
+      "ward": 13,
+      "division": "All"
+    },
+    {
+      "Candidate": "Mike George",
+      "Anne Covey": "",
+      "Correale Stevens": "",
+      "Mike George": "2",
+      "Rebecca Warren": "4",
+      "Judy Olson": "6",
+      "Cheryl Allen": "2",
+      "ward": 13,
+      "division": "All"
+    },
+    {
+      "Candidate": "Rebecca Warren",
+      "Anne Covey": "",
+      "Correale Stevens": "",
+      "Mike George": "",
+      "Rebecca Warren": "1",
+      "Judy Olson": "3",
+      "Cheryl Allen": "1",
+      "ward": 13,
+      "division": "All"
+    },
+    {
+      "Candidate": "Judy Olson",
+      "Anne Covey": "",
+      "Correale Stevens": "",
+      "Mike George": "",
+      "Rebecca Warren": "",
+      "Judy Olson": "0",
+      "Cheryl Allen": "1",
+      "ward": 13,
+      "division": "All"
+    },
+    {
+      "Candidate": "Cheryl Allen",
+      "Anne Covey": "",
+      "Correale Stevens": "",
+      "Mike George": "",
+      "Rebecca Warren": "",
+      "Judy Olson": "",
+      "Cheryl Allen": "2",
+      "ward": 13,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Anne Covey": "20",
+      "Correale Stevens": "15",
+      "Mike George": "15",
+      "Rebecca Warren": "8",
+      "Judy Olson": "7",
+      "Cheryl Allen": "5",
+      "ward": 13,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Correale Stevens": "Correale Stevens",
+      "Mike George": "Mike George",
+      "ward": 13,
+      "division": 1
+    },
+    {
+      "Candidate": "Correale Stevens",
+      "Correale Stevens": "1",
+      "Mike George": "1",
+      "ward": 13,
+      "division": 1
+    },
+    {
+      "Candidate": "Mike George",
+      "Correale Stevens": "",
+      "Mike George": "0",
+      "ward": 13,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Correale Stevens": "2",
+      "Mike George": "1",
+      "ward": 13,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Anne Covey": "Anne Covey",
+      "Cheryl Allen": "Cheryl Allen",
+      "Judy Olson": "Judy Olson",
+      "Mike George": "Mike George",
+      "ward": 13,
+      "division": 3
+    },
+    {
+      "Candidate": "Anne Covey",
+      "Anne Covey": "0",
+      "Cheryl Allen": "0",
+      "Judy Olson": "1",
+      "Mike George": "1",
+      "ward": 13,
+      "division": 3
+    },
+    {
+      "Candidate": "Cheryl Allen",
+      "Anne Covey": "",
+      "Cheryl Allen": "1",
+      "Judy Olson": "0",
+      "Mike George": "0",
+      "ward": 13,
+      "division": 3
+    },
+    {
+      "Candidate": "Judy Olson",
+      "Anne Covey": "",
+      "Cheryl Allen": "",
+      "Judy Olson": "0",
+      "Mike George": "1",
+      "ward": 13,
+      "division": 3
+    },
+    {
+      "Candidate": "Mike George",
+      "Anne Covey": "",
+      "Cheryl Allen": "",
+      "Judy Olson": "",
+      "Mike George": "0",
+      "ward": 13,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Anne Covey": "1",
+      "Cheryl Allen": "1",
+      "Judy Olson": "1",
+      "Mike George": "1",
+      "ward": 13,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike George": "Mike George",
+      "Judy Olson": "Judy Olson",
+      "Rebecca Warren": "Rebecca Warren",
+      "Anne Covey": "Anne Covey",
+      "Cheryl Allen": "Cheryl Allen",
+      "ward": 13,
+      "division": 4
+    },
+    {
+      "Candidate": "Mike George",
+      "Mike George": "0",
+      "Judy Olson": "2",
+      "Rebecca Warren": "2",
+      "Anne Covey": "1",
+      "Cheryl Allen": "1",
+      "ward": 13,
+      "division": 4
+    },
+    {
+      "Candidate": "Judy Olson",
+      "Mike George": "",
+      "Judy Olson": "0",
+      "Rebecca Warren": "2",
+      "Anne Covey": "0",
+      "Cheryl Allen": "0",
+      "ward": 13,
+      "division": 4
+    },
+    {
+      "Candidate": "Rebecca Warren",
+      "Mike George": "",
+      "Judy Olson": "",
+      "Rebecca Warren": "0",
+      "Anne Covey": "0",
+      "Cheryl Allen": "0",
+      "ward": 13,
+      "division": 4
+    },
+    {
+      "Candidate": "Anne Covey",
+      "Mike George": "",
+      "Judy Olson": "",
+      "Rebecca Warren": "",
+      "Anne Covey": "0",
+      "Cheryl Allen": "1",
+      "ward": 13,
+      "division": 4
+    },
+    {
+      "Candidate": "Cheryl Allen",
+      "Mike George": "",
+      "Judy Olson": "",
+      "Rebecca Warren": "",
+      "Anne Covey": "",
+      "Cheryl Allen": "0",
+      "ward": 13,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Mike George": "3",
+      "Judy Olson": "2",
+      "Rebecca Warren": "2",
+      "Anne Covey": "1",
+      "Cheryl Allen": "1",
+      "ward": 13,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Anne Covey": "Anne Covey",
+      "Mike George": "Mike George",
+      "Rebecca Warren": "Rebecca Warren",
+      "Correale Stevens": "Correale Stevens",
+      "Judy Olson": "Judy Olson",
+      "Cheryl Allen": "Cheryl Allen",
+      "ward": 13,
+      "division": 5
+    },
+    {
+      "Candidate": "Anne Covey",
+      "Anne Covey": "0",
+      "Mike George": "4",
+      "Rebecca Warren": "3",
+      "Correale Stevens": "3",
+      "Judy Olson": "1",
+      "Cheryl Allen": "0",
+      "ward": 13,
+      "division": 5
+    },
+    {
+      "Candidate": "Mike George",
+      "Anne Covey": "",
+      "Mike George": "0",
+      "Rebecca Warren": "2",
+      "Correale Stevens": "1",
+      "Judy Olson": "1",
+      "Cheryl Allen": "0",
+      "ward": 13,
+      "division": 5
+    },
+    {
+      "Candidate": "Rebecca Warren",
+      "Anne Covey": "",
+      "Mike George": "",
+      "Rebecca Warren": "0",
+      "Correale Stevens": "1",
+      "Judy Olson": "1",
+      "Cheryl Allen": "1",
+      "ward": 13,
+      "division": 5
+    },
+    {
+      "Candidate": "Correale Stevens",
+      "Anne Covey": "",
+      "Mike George": "",
+      "Rebecca Warren": "",
+      "Correale Stevens": "0",
+      "Judy Olson": "0",
+      "Cheryl Allen": "0",
+      "ward": 13,
+      "division": 5
+    },
+    {
+      "Candidate": "Judy Olson",
+      "Anne Covey": "",
+      "Mike George": "",
+      "Rebecca Warren": "",
+      "Correale Stevens": "",
+      "Judy Olson": "0",
+      "Cheryl Allen": "1",
+      "ward": 13,
+      "division": 5
+    },
+    {
+      "Candidate": "Cheryl Allen",
+      "Anne Covey": "",
+      "Mike George": "",
+      "Rebecca Warren": "",
+      "Correale Stevens": "",
+      "Judy Olson": "",
+      "Cheryl Allen": "0",
+      "ward": 13,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Anne Covey": "6",
+      "Mike George": "4",
+      "Rebecca Warren": "4",
+      "Correale Stevens": "3",
+      "Judy Olson": "2",
+      "Cheryl Allen": "1",
+      "ward": 13,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Anne Covey": "Anne Covey",
+      "Correale Stevens": "Correale Stevens",
+      "ward": 13,
+      "division": 7
+    },
+    {
+      "Candidate": "Anne Covey",
+      "Anne Covey": "0",
+      "Correale Stevens": "1",
+      "ward": 13,
+      "division": 7
+    },
+    {
+      "Candidate": "Correale Stevens",
+      "Anne Covey": "",
+      "Correale Stevens": "0",
+      "ward": 13,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Anne Covey": "1",
+      "Correale Stevens": "1",
+      "ward": 13,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Correale Stevens": "Correale Stevens",
+      "Anne Covey": "Anne Covey",
+      "Mike George": "Mike George",
+      "ward": 13,
+      "division": 11
+    },
+    {
+      "Candidate": "Correale Stevens",
+      "Correale Stevens": "1",
+      "Anne Covey": "1",
+      "Mike George": "1",
+      "ward": 13,
+      "division": 11
+    },
+    {
+      "Candidate": "Anne Covey",
+      "Correale Stevens": "",
+      "Anne Covey": "0",
+      "Mike George": "1",
+      "ward": 13,
+      "division": 11
+    },
+    {
+      "Candidate": "Mike George",
+      "Correale Stevens": "",
+      "Anne Covey": "",
+      "Mike George": "0",
+      "ward": 13,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Correale Stevens": "2",
+      "Anne Covey": "1",
+      "Mike George": "1",
+      "ward": 13,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Anne Covey": "Anne Covey",
+      "Correale Stevens": "Correale Stevens",
+      "ward": 13,
+      "division": 12
+    },
+    {
+      "Candidate": "Anne Covey",
+      "Anne Covey": "0",
+      "Correale Stevens": "1",
+      "ward": 13,
+      "division": 12
+    },
+    {
+      "Candidate": "Correale Stevens",
+      "Anne Covey": "",
+      "Correale Stevens": "0",
+      "ward": 13,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Anne Covey": "1",
+      "Correale Stevens": "1",
+      "ward": 13,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Anne Covey": "Anne Covey",
+      "Cheryl Allen": "Cheryl Allen",
+      "Correale Stevens": "Correale Stevens",
+      "Mike George": "Mike George",
+      "Rebecca Warren": "Rebecca Warren",
+      "ward": 13,
+      "division": 13
+    },
+    {
+      "Candidate": "Anne Covey",
+      "Anne Covey": "0",
+      "Cheryl Allen": "1",
+      "Correale Stevens": "1",
+      "Mike George": "1",
+      "Rebecca Warren": "1",
+      "ward": 13,
+      "division": 13
+    },
+    {
+      "Candidate": "Cheryl Allen",
+      "Anne Covey": "",
+      "Cheryl Allen": "0",
+      "Correale Stevens": "0",
+      "Mike George": "1",
+      "Rebecca Warren": "0",
+      "ward": 13,
+      "division": 13
+    },
+    {
+      "Candidate": "Correale Stevens",
+      "Anne Covey": "",
+      "Cheryl Allen": "",
+      "Correale Stevens": "0",
+      "Mike George": "0",
+      "Rebecca Warren": "1",
+      "ward": 13,
+      "division": 13
+    },
+    {
+      "Candidate": "Mike George",
+      "Anne Covey": "",
+      "Cheryl Allen": "",
+      "Correale Stevens": "",
+      "Mike George": "0",
+      "Rebecca Warren": "0",
+      "ward": 13,
+      "division": 13
+    },
+    {
+      "Candidate": "Rebecca Warren",
+      "Anne Covey": "",
+      "Cheryl Allen": "",
+      "Correale Stevens": "",
+      "Mike George": "",
+      "Rebecca Warren": "0",
+      "ward": 13,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "Anne Covey": "2",
+      "Cheryl Allen": "1",
+      "Correale Stevens": "1",
+      "Mike George": "1",
+      "Rebecca Warren": "1",
+      "ward": 13,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Cheryl Allen": "Cheryl Allen",
+      "ward": 13,
+      "division": 17
+    },
+    {
+      "Candidate": "Cheryl Allen",
+      "Cheryl Allen": "1",
+      "ward": 13,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "Cheryl Allen": "1",
+      "ward": 13,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Anne Covey": "Anne Covey",
+      "ward": 13,
+      "division": 18
+    },
+    {
+      "Candidate": "Anne Covey",
+      "Anne Covey": "1",
+      "ward": 13,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "Anne Covey": "1",
+      "ward": 13,
+      "division": 18
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Mike George": "Mike George",
+      "Rebecca Warren": "Rebecca Warren",
+      "ward": 13,
+      "division": 19
+    },
+    {
+      "Candidate": "Mike George",
+      "Mike George": "2",
+      "Rebecca Warren": "0",
+      "ward": 13,
+      "division": 19
+    },
+    {
+      "Candidate": "Rebecca Warren",
+      "Mike George": "",
+      "Rebecca Warren": "1",
+      "ward": 13,
+      "division": 19
+    },
+    {
+      "Candidate": "Total",
+      "Mike George": "2",
+      "Rebecca Warren": "1",
+      "ward": 13,
+      "division": 19
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Anne Covey": "Anne Covey",
+      "Judy Olson": "Judy Olson",
+      "Mike George": "Mike George",
+      "ward": 13,
+      "division": 20
+    },
+    {
+      "Candidate": "Anne Covey",
+      "Anne Covey": "0",
+      "Judy Olson": "1",
+      "Mike George": "1",
+      "ward": 13,
+      "division": 20
+    },
+    {
+      "Candidate": "Judy Olson",
+      "Anne Covey": "",
+      "Judy Olson": "0",
+      "Mike George": "1",
+      "ward": 13,
+      "division": 20
+    },
+    {
+      "Candidate": "Mike George",
+      "Anne Covey": "",
+      "Judy Olson": "",
+      "Mike George": "0",
+      "ward": 13,
+      "division": 20
+    },
+    {
+      "Candidate": "Total",
+      "Anne Covey": "1",
+      "Judy Olson": "1",
+      "Mike George": "1",
+      "ward": 13,
+      "division": 20
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Correale Stevens": "Correale Stevens",
+      "Anne Covey": "Anne Covey",
+      "Judy Olson": "Judy Olson",
+      "Mike George": "Mike George",
+      "ward": 13,
+      "division": 21
+    },
+    {
+      "Candidate": "Correale Stevens",
+      "Correale Stevens": "2",
+      "Anne Covey": "3",
+      "Judy Olson": "0",
+      "Mike George": "0",
+      "ward": 13,
+      "division": 21
+    },
+    {
+      "Candidate": "Anne Covey",
+      "Correale Stevens": "",
+      "Anne Covey": "0",
+      "Judy Olson": "1",
+      "Mike George": "1",
+      "ward": 13,
+      "division": 21
+    },
+    {
+      "Candidate": "Judy Olson",
+      "Correale Stevens": "",
+      "Anne Covey": "",
+      "Judy Olson": "0",
+      "Mike George": "1",
+      "ward": 13,
+      "division": 21
+    },
+    {
+      "Candidate": "Mike George",
+      "Correale Stevens": "",
+      "Anne Covey": "",
+      "Judy Olson": "",
+      "Mike George": "0",
+      "ward": 13,
+      "division": 21
+    },
+    {
+      "Candidate": "Total",
+      "Correale Stevens": "5",
+      "Anne Covey": "4",
+      "Judy Olson": "1",
+      "Mike George": "1",
+      "ward": 13,
+      "division": 21
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Anne Covey": "Anne Covey",
+      "ward": 13,
+      "division": 25
+    },
+    {
+      "Candidate": "Anne Covey",
+      "Anne Covey": "1",
+      "ward": 13,
+      "division": 25
+    },
+    {
+      "Candidate": "Total",
+      "Anne Covey": "1",
+      "ward": 13,
+      "division": 25
+    }
+  ]
+]

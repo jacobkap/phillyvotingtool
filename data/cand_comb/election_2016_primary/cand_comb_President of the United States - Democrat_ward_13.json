@@ -1,0 +1,856 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Bernie Sanders": "Bernie Sanders",
+      "Roque Rocky De La Fuente": "Roque Rocky De La Fuente",
+      "Write In": "Write In",
+      "ward": 13,
+      "division": "All"
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "3,884",
+      "Bernie Sanders": "0",
+      "Roque Rocky De La Fuente": "0",
+      "Write In": "0",
+      "ward": 13,
+      "division": "All"
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Hillary Clinton": "",
+      "Bernie Sanders": "1,524",
+      "Roque Rocky De La Fuente": "0",
+      "Write In": "0",
+      "ward": 13,
+      "division": "All"
+    },
+    {
+      "Candidate": "Roque Rocky De La Fuente",
+      "Hillary Clinton": "",
+      "Bernie Sanders": "",
+      "Roque Rocky De La Fuente": "3",
+      "Write In": "0",
+      "ward": 13,
+      "division": "All"
+    },
+    {
+      "Candidate": "Write In",
+      "Hillary Clinton": "",
+      "Bernie Sanders": "",
+      "Roque Rocky De La Fuente": "",
+      "Write In": "1",
+      "ward": 13,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "3,884",
+      "Bernie Sanders": "1,524",
+      "Roque Rocky De La Fuente": "3",
+      "Write In": "1",
+      "ward": 13,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Bernie Sanders": "Bernie Sanders",
+      "ward": 13,
+      "division": 1
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "173",
+      "Bernie Sanders": "0",
+      "ward": 13,
+      "division": 1
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Hillary Clinton": "",
+      "Bernie Sanders": "74",
+      "ward": 13,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "173",
+      "Bernie Sanders": "74",
+      "ward": 13,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Bernie Sanders": "Bernie Sanders",
+      "ward": 13,
+      "division": 2
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "134",
+      "Bernie Sanders": "0",
+      "ward": 13,
+      "division": 2
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Hillary Clinton": "",
+      "Bernie Sanders": "67",
+      "ward": 13,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "134",
+      "Bernie Sanders": "67",
+      "ward": 13,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Bernie Sanders": "Bernie Sanders",
+      "ward": 13,
+      "division": 3
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "135",
+      "Bernie Sanders": "0",
+      "ward": 13,
+      "division": 3
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Hillary Clinton": "",
+      "Bernie Sanders": "74",
+      "ward": 13,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "135",
+      "Bernie Sanders": "74",
+      "ward": 13,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Bernie Sanders": "Bernie Sanders",
+      "ward": 13,
+      "division": 4
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "190",
+      "Bernie Sanders": "0",
+      "ward": 13,
+      "division": 4
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Hillary Clinton": "",
+      "Bernie Sanders": "105",
+      "ward": 13,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "190",
+      "Bernie Sanders": "105",
+      "ward": 13,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Bernie Sanders": "Bernie Sanders",
+      "ward": 13,
+      "division": 5
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "142",
+      "Bernie Sanders": "0",
+      "ward": 13,
+      "division": 5
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Hillary Clinton": "",
+      "Bernie Sanders": "111",
+      "ward": 13,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "142",
+      "Bernie Sanders": "111",
+      "ward": 13,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Bernie Sanders": "Bernie Sanders",
+      "ward": 13,
+      "division": 6
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "180",
+      "Bernie Sanders": "0",
+      "ward": 13,
+      "division": 6
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Hillary Clinton": "",
+      "Bernie Sanders": "80",
+      "ward": 13,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "180",
+      "Bernie Sanders": "80",
+      "ward": 13,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Bernie Sanders": "Bernie Sanders",
+      "ward": 13,
+      "division": 7
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "151",
+      "Bernie Sanders": "0",
+      "ward": 13,
+      "division": 7
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Hillary Clinton": "",
+      "Bernie Sanders": "42",
+      "ward": 13,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "151",
+      "Bernie Sanders": "42",
+      "ward": 13,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Bernie Sanders": "Bernie Sanders",
+      "ward": 13,
+      "division": 8
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "131",
+      "Bernie Sanders": "0",
+      "ward": 13,
+      "division": 8
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Hillary Clinton": "",
+      "Bernie Sanders": "51",
+      "ward": 13,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "131",
+      "Bernie Sanders": "51",
+      "ward": 13,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Bernie Sanders": "Bernie Sanders",
+      "ward": 13,
+      "division": 9
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "156",
+      "Bernie Sanders": "0",
+      "ward": 13,
+      "division": 9
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Hillary Clinton": "",
+      "Bernie Sanders": "42",
+      "ward": 13,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "156",
+      "Bernie Sanders": "42",
+      "ward": 13,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Bernie Sanders": "Bernie Sanders",
+      "Write In": "Write In",
+      "ward": 13,
+      "division": 10
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "146",
+      "Bernie Sanders": "0",
+      "Write In": "0",
+      "ward": 13,
+      "division": 10
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Hillary Clinton": "",
+      "Bernie Sanders": "40",
+      "Write In": "0",
+      "ward": 13,
+      "division": 10
+    },
+    {
+      "Candidate": "Write In",
+      "Hillary Clinton": "",
+      "Bernie Sanders": "",
+      "Write In": "1",
+      "ward": 13,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "146",
+      "Bernie Sanders": "40",
+      "Write In": "1",
+      "ward": 13,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Bernie Sanders": "Bernie Sanders",
+      "ward": 13,
+      "division": 11
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "126",
+      "Bernie Sanders": "0",
+      "ward": 13,
+      "division": 11
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Hillary Clinton": "",
+      "Bernie Sanders": "50",
+      "ward": 13,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "126",
+      "Bernie Sanders": "50",
+      "ward": 13,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Bernie Sanders": "Bernie Sanders",
+      "ward": 13,
+      "division": 12
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "137",
+      "Bernie Sanders": "0",
+      "ward": 13,
+      "division": 12
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Hillary Clinton": "",
+      "Bernie Sanders": "53",
+      "ward": 13,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "137",
+      "Bernie Sanders": "53",
+      "ward": 13,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Bernie Sanders": "Bernie Sanders",
+      "ward": 13,
+      "division": 13
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "142",
+      "Bernie Sanders": "0",
+      "ward": 13,
+      "division": 13
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Hillary Clinton": "",
+      "Bernie Sanders": "63",
+      "ward": 13,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "142",
+      "Bernie Sanders": "63",
+      "ward": 13,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Bernie Sanders": "Bernie Sanders",
+      "ward": 13,
+      "division": 14
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "197",
+      "Bernie Sanders": "0",
+      "ward": 13,
+      "division": 14
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Hillary Clinton": "",
+      "Bernie Sanders": "53",
+      "ward": 13,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "197",
+      "Bernie Sanders": "53",
+      "ward": 13,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Bernie Sanders": "Bernie Sanders",
+      "Roque Rocky De La Fuente": "Roque Rocky De La Fuente",
+      "ward": 13,
+      "division": 15
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "160",
+      "Bernie Sanders": "0",
+      "Roque Rocky De La Fuente": "0",
+      "ward": 13,
+      "division": 15
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Hillary Clinton": "",
+      "Bernie Sanders": "47",
+      "Roque Rocky De La Fuente": "0",
+      "ward": 13,
+      "division": 15
+    },
+    {
+      "Candidate": "Roque Rocky De La Fuente",
+      "Hillary Clinton": "",
+      "Bernie Sanders": "",
+      "Roque Rocky De La Fuente": "1",
+      "ward": 13,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "160",
+      "Bernie Sanders": "47",
+      "Roque Rocky De La Fuente": "1",
+      "ward": 13,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Bernie Sanders": "Bernie Sanders",
+      "ward": 13,
+      "division": 16
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "149",
+      "Bernie Sanders": "0",
+      "ward": 13,
+      "division": 16
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Hillary Clinton": "",
+      "Bernie Sanders": "67",
+      "ward": 13,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "149",
+      "Bernie Sanders": "67",
+      "ward": 13,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Bernie Sanders": "Bernie Sanders",
+      "ward": 13,
+      "division": 17
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "181",
+      "Bernie Sanders": "0",
+      "ward": 13,
+      "division": 17
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Hillary Clinton": "",
+      "Bernie Sanders": "52",
+      "ward": 13,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "181",
+      "Bernie Sanders": "52",
+      "ward": 13,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Bernie Sanders": "Bernie Sanders",
+      "Roque Rocky De La Fuente": "Roque Rocky De La Fuente",
+      "ward": 13,
+      "division": 18
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "243",
+      "Bernie Sanders": "0",
+      "Roque Rocky De La Fuente": "0",
+      "ward": 13,
+      "division": 18
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Hillary Clinton": "",
+      "Bernie Sanders": "71",
+      "Roque Rocky De La Fuente": "0",
+      "ward": 13,
+      "division": 18
+    },
+    {
+      "Candidate": "Roque Rocky De La Fuente",
+      "Hillary Clinton": "",
+      "Bernie Sanders": "",
+      "Roque Rocky De La Fuente": "1",
+      "ward": 13,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "243",
+      "Bernie Sanders": "71",
+      "Roque Rocky De La Fuente": "1",
+      "ward": 13,
+      "division": 18
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Bernie Sanders": "Bernie Sanders",
+      "ward": 13,
+      "division": 19
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "204",
+      "Bernie Sanders": "0",
+      "ward": 13,
+      "division": 19
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Hillary Clinton": "",
+      "Bernie Sanders": "55",
+      "ward": 13,
+      "division": 19
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "204",
+      "Bernie Sanders": "55",
+      "ward": 13,
+      "division": 19
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Bernie Sanders": "Bernie Sanders",
+      "ward": 13,
+      "division": 20
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "172",
+      "Bernie Sanders": "0",
+      "ward": 13,
+      "division": 20
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Hillary Clinton": "",
+      "Bernie Sanders": "61",
+      "ward": 13,
+      "division": 20
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "172",
+      "Bernie Sanders": "61",
+      "ward": 13,
+      "division": 20
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Bernie Sanders": "Bernie Sanders",
+      "ward": 13,
+      "division": 21
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "109",
+      "Bernie Sanders": "0",
+      "ward": 13,
+      "division": 21
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Hillary Clinton": "",
+      "Bernie Sanders": "50",
+      "ward": 13,
+      "division": 21
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "109",
+      "Bernie Sanders": "50",
+      "ward": 13,
+      "division": 21
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Bernie Sanders": "Bernie Sanders",
+      "ward": 13,
+      "division": 22
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "207",
+      "Bernie Sanders": "0",
+      "ward": 13,
+      "division": 22
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Hillary Clinton": "",
+      "Bernie Sanders": "86",
+      "ward": 13,
+      "division": 22
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "207",
+      "Bernie Sanders": "86",
+      "ward": 13,
+      "division": 22
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Bernie Sanders": "Bernie Sanders",
+      "Roque Rocky De La Fuente": "Roque Rocky De La Fuente",
+      "ward": 13,
+      "division": 23
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "127",
+      "Bernie Sanders": "0",
+      "Roque Rocky De La Fuente": "0",
+      "ward": 13,
+      "division": 23
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Hillary Clinton": "",
+      "Bernie Sanders": "50",
+      "Roque Rocky De La Fuente": "0",
+      "ward": 13,
+      "division": 23
+    },
+    {
+      "Candidate": "Roque Rocky De La Fuente",
+      "Hillary Clinton": "",
+      "Bernie Sanders": "",
+      "Roque Rocky De La Fuente": "1",
+      "ward": 13,
+      "division": 23
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "127",
+      "Bernie Sanders": "50",
+      "Roque Rocky De La Fuente": "1",
+      "ward": 13,
+      "division": 23
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Bernie Sanders": "Bernie Sanders",
+      "ward": 13,
+      "division": 24
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "84",
+      "Bernie Sanders": "0",
+      "ward": 13,
+      "division": 24
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Hillary Clinton": "",
+      "Bernie Sanders": "36",
+      "ward": 13,
+      "division": 24
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "84",
+      "Bernie Sanders": "36",
+      "ward": 13,
+      "division": 24
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Hillary Clinton": "Hillary Clinton",
+      "Bernie Sanders": "Bernie Sanders",
+      "ward": 13,
+      "division": 25
+    },
+    {
+      "Candidate": "Hillary Clinton",
+      "Hillary Clinton": "108",
+      "Bernie Sanders": "0",
+      "ward": 13,
+      "division": 25
+    },
+    {
+      "Candidate": "Bernie Sanders",
+      "Hillary Clinton": "",
+      "Bernie Sanders": "44",
+      "ward": 13,
+      "division": 25
+    },
+    {
+      "Candidate": "Total",
+      "Hillary Clinton": "108",
+      "Bernie Sanders": "44",
+      "ward": 13,
+      "division": 25
+    }
+  ]
+]

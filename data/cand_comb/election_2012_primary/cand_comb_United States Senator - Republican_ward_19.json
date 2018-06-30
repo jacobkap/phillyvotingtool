@@ -1,0 +1,328 @@
+[
+  [
+    {
+      "Candidate": "",
+      "David Alan Christian": "David Alan Christian",
+      "Tom Smith": "Tom Smith",
+      "Marc A Scaringi": "Marc A Scaringi",
+      "Sam Rohrer": "Sam Rohrer",
+      "ward": 19,
+      "division": "All"
+    },
+    {
+      "Candidate": "David Alan Christian",
+      "David Alan Christian": "7",
+      "Tom Smith": "0",
+      "Marc A Scaringi": "0",
+      "Sam Rohrer": "0",
+      "ward": 19,
+      "division": "All"
+    },
+    {
+      "Candidate": "Tom Smith",
+      "David Alan Christian": "",
+      "Tom Smith": "7",
+      "Marc A Scaringi": "0",
+      "Sam Rohrer": "0",
+      "ward": 19,
+      "division": "All"
+    },
+    {
+      "Candidate": "Marc A Scaringi",
+      "David Alan Christian": "",
+      "Tom Smith": "",
+      "Marc A Scaringi": "2",
+      "Sam Rohrer": "0",
+      "ward": 19,
+      "division": "All"
+    },
+    {
+      "Candidate": "Sam Rohrer",
+      "David Alan Christian": "",
+      "Tom Smith": "",
+      "Marc A Scaringi": "",
+      "Sam Rohrer": "2",
+      "ward": 19,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "David Alan Christian": "7",
+      "Tom Smith": "7",
+      "Marc A Scaringi": "2",
+      "Sam Rohrer": "2",
+      "ward": 19,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Tom Smith": "Tom Smith",
+      "ward": 19,
+      "division": 1
+    },
+    {
+      "Candidate": "Tom Smith",
+      "Tom Smith": "2",
+      "ward": 19,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Tom Smith": "2",
+      "ward": 19,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "David Alan Christian": "David Alan Christian",
+      "Tom Smith": "Tom Smith",
+      "ward": 19,
+      "division": 2
+    },
+    {
+      "Candidate": "David Alan Christian",
+      "David Alan Christian": "1",
+      "Tom Smith": "0",
+      "ward": 19,
+      "division": 2
+    },
+    {
+      "Candidate": "Tom Smith",
+      "David Alan Christian": "",
+      "Tom Smith": "1",
+      "ward": 19,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "David Alan Christian": "1",
+      "Tom Smith": "1",
+      "ward": 19,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Sam Rohrer": "Sam Rohrer",
+      "ward": 19,
+      "division": 4
+    },
+    {
+      "Candidate": "Sam Rohrer",
+      "Sam Rohrer": "1",
+      "ward": 19,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Sam Rohrer": "1",
+      "ward": 19,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Marc A Scaringi": "Marc A Scaringi",
+      "Tom Smith": "Tom Smith",
+      "ward": 19,
+      "division": 5
+    },
+    {
+      "Candidate": "Marc A Scaringi",
+      "Marc A Scaringi": "1",
+      "Tom Smith": "0",
+      "ward": 19,
+      "division": 5
+    },
+    {
+      "Candidate": "Tom Smith",
+      "Marc A Scaringi": "",
+      "Tom Smith": "1",
+      "ward": 19,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Marc A Scaringi": "1",
+      "Tom Smith": "1",
+      "ward": 19,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "David Alan Christian": "David Alan Christian",
+      "ward": 19,
+      "division": 7
+    },
+    {
+      "Candidate": "David Alan Christian",
+      "David Alan Christian": "1",
+      "ward": 19,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "David Alan Christian": "1",
+      "ward": 19,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Tom Smith": "Tom Smith",
+      "Marc A Scaringi": "Marc A Scaringi",
+      "ward": 19,
+      "division": 8
+    },
+    {
+      "Candidate": "Tom Smith",
+      "Tom Smith": "2",
+      "Marc A Scaringi": "0",
+      "ward": 19,
+      "division": 8
+    },
+    {
+      "Candidate": "Marc A Scaringi",
+      "Tom Smith": "",
+      "Marc A Scaringi": "1",
+      "ward": 19,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Tom Smith": "2",
+      "Marc A Scaringi": "1",
+      "ward": 19,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "David Alan Christian": "David Alan Christian",
+      "ward": 19,
+      "division": 9
+    },
+    {
+      "Candidate": "David Alan Christian",
+      "David Alan Christian": "1",
+      "ward": 19,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "David Alan Christian": "1",
+      "ward": 19,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "David Alan Christian": "David Alan Christian",
+      "Tom Smith": "Tom Smith",
+      "ward": 19,
+      "division": 10
+    },
+    {
+      "Candidate": "David Alan Christian",
+      "David Alan Christian": "1",
+      "Tom Smith": "0",
+      "ward": 19,
+      "division": 10
+    },
+    {
+      "Candidate": "Tom Smith",
+      "David Alan Christian": "",
+      "Tom Smith": "1",
+      "ward": 19,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "David Alan Christian": "1",
+      "Tom Smith": "1",
+      "ward": 19,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "David Alan Christian": "David Alan Christian",
+      "ward": 19,
+      "division": 11
+    },
+    {
+      "Candidate": "David Alan Christian",
+      "David Alan Christian": "1",
+      "ward": 19,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "David Alan Christian": "1",
+      "ward": 19,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "David Alan Christian": "David Alan Christian",
+      "Sam Rohrer": "Sam Rohrer",
+      "ward": 19,
+      "division": 16
+    },
+    {
+      "Candidate": "David Alan Christian",
+      "David Alan Christian": "1",
+      "Sam Rohrer": "0",
+      "ward": 19,
+      "division": 16
+    },
+    {
+      "Candidate": "Sam Rohrer",
+      "David Alan Christian": "",
+      "Sam Rohrer": "1",
+      "ward": 19,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "David Alan Christian": "1",
+      "Sam Rohrer": "1",
+      "ward": 19,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "David Alan Christian": "David Alan Christian",
+      "ward": 19,
+      "division": 19
+    },
+    {
+      "Candidate": "David Alan Christian",
+      "David Alan Christian": "1",
+      "ward": 19,
+      "division": 19
+    },
+    {
+      "Candidate": "Total",
+      "David Alan Christian": "1",
+      "ward": 19,
+      "division": 19
+    }
+  ]
+]

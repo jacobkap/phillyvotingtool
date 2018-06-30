@@ -1,0 +1,638 @@
+[
+  [
+    {
+      "Candidate": "",
+      "John J Taylor": "John J Taylor",
+      "William F Dunbar": "William F Dunbar",
+      "Write In": "Write In",
+      "ward": 45,
+      "division": "All"
+    },
+    {
+      "Candidate": "John J Taylor",
+      "John J Taylor": "4,222",
+      "William F Dunbar": "0",
+      "Write In": "0",
+      "ward": 45,
+      "division": "All"
+    },
+    {
+      "Candidate": "William F Dunbar",
+      "John J Taylor": "",
+      "William F Dunbar": "1,725",
+      "Write In": "0",
+      "ward": 45,
+      "division": "All"
+    },
+    {
+      "Candidate": "Write In",
+      "John J Taylor": "",
+      "William F Dunbar": "",
+      "Write In": "2",
+      "ward": 45,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "John J Taylor": "4,222",
+      "William F Dunbar": "1,725",
+      "Write In": "2",
+      "ward": 45,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John J Taylor": "John J Taylor",
+      "William F Dunbar": "William F Dunbar",
+      "ward": 45,
+      "division": 1
+    },
+    {
+      "Candidate": "John J Taylor",
+      "John J Taylor": "317",
+      "William F Dunbar": "0",
+      "ward": 45,
+      "division": 1
+    },
+    {
+      "Candidate": "William F Dunbar",
+      "John J Taylor": "",
+      "William F Dunbar": "62",
+      "ward": 45,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "John J Taylor": "317",
+      "William F Dunbar": "62",
+      "ward": 45,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John J Taylor": "John J Taylor",
+      "William F Dunbar": "William F Dunbar",
+      "ward": 45,
+      "division": 2
+    },
+    {
+      "Candidate": "John J Taylor",
+      "John J Taylor": "176",
+      "William F Dunbar": "0",
+      "ward": 45,
+      "division": 2
+    },
+    {
+      "Candidate": "William F Dunbar",
+      "John J Taylor": "",
+      "William F Dunbar": "140",
+      "ward": 45,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "John J Taylor": "176",
+      "William F Dunbar": "140",
+      "ward": 45,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John J Taylor": "John J Taylor",
+      "William F Dunbar": "William F Dunbar",
+      "ward": 45,
+      "division": 3
+    },
+    {
+      "Candidate": "John J Taylor",
+      "John J Taylor": "485",
+      "William F Dunbar": "0",
+      "ward": 45,
+      "division": 3
+    },
+    {
+      "Candidate": "William F Dunbar",
+      "John J Taylor": "",
+      "William F Dunbar": "100",
+      "ward": 45,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "John J Taylor": "485",
+      "William F Dunbar": "100",
+      "ward": 45,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John J Taylor": "John J Taylor",
+      "William F Dunbar": "William F Dunbar",
+      "ward": 45,
+      "division": 4
+    },
+    {
+      "Candidate": "John J Taylor",
+      "John J Taylor": "216",
+      "William F Dunbar": "0",
+      "ward": 45,
+      "division": 4
+    },
+    {
+      "Candidate": "William F Dunbar",
+      "John J Taylor": "",
+      "William F Dunbar": "44",
+      "ward": 45,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "John J Taylor": "216",
+      "William F Dunbar": "44",
+      "ward": 45,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John J Taylor": "John J Taylor",
+      "William F Dunbar": "William F Dunbar",
+      "ward": 45,
+      "division": 5
+    },
+    {
+      "Candidate": "John J Taylor",
+      "John J Taylor": "301",
+      "William F Dunbar": "0",
+      "ward": 45,
+      "division": 5
+    },
+    {
+      "Candidate": "William F Dunbar",
+      "John J Taylor": "",
+      "William F Dunbar": "84",
+      "ward": 45,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "John J Taylor": "301",
+      "William F Dunbar": "84",
+      "ward": 45,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John J Taylor": "John J Taylor",
+      "William F Dunbar": "William F Dunbar",
+      "ward": 45,
+      "division": 6
+    },
+    {
+      "Candidate": "John J Taylor",
+      "John J Taylor": "242",
+      "William F Dunbar": "0",
+      "ward": 45,
+      "division": 6
+    },
+    {
+      "Candidate": "William F Dunbar",
+      "John J Taylor": "",
+      "William F Dunbar": "73",
+      "ward": 45,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "John J Taylor": "242",
+      "William F Dunbar": "73",
+      "ward": 45,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John J Taylor": "John J Taylor",
+      "William F Dunbar": "William F Dunbar",
+      "ward": 45,
+      "division": 7
+    },
+    {
+      "Candidate": "John J Taylor",
+      "John J Taylor": "189",
+      "William F Dunbar": "0",
+      "ward": 45,
+      "division": 7
+    },
+    {
+      "Candidate": "William F Dunbar",
+      "John J Taylor": "",
+      "William F Dunbar": "58",
+      "ward": 45,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "John J Taylor": "189",
+      "William F Dunbar": "58",
+      "ward": 45,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "William F Dunbar": "William F Dunbar",
+      "John J Taylor": "John J Taylor",
+      "ward": 45,
+      "division": 8
+    },
+    {
+      "Candidate": "William F Dunbar",
+      "William F Dunbar": "150",
+      "John J Taylor": "0",
+      "ward": 45,
+      "division": 8
+    },
+    {
+      "Candidate": "John J Taylor",
+      "William F Dunbar": "",
+      "John J Taylor": "93",
+      "ward": 45,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "William F Dunbar": "150",
+      "John J Taylor": "93",
+      "ward": 45,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John J Taylor": "John J Taylor",
+      "William F Dunbar": "William F Dunbar",
+      "Write In": "Write In",
+      "ward": 45,
+      "division": 12
+    },
+    {
+      "Candidate": "John J Taylor",
+      "John J Taylor": "125",
+      "William F Dunbar": "0",
+      "Write In": "0",
+      "ward": 45,
+      "division": 12
+    },
+    {
+      "Candidate": "William F Dunbar",
+      "John J Taylor": "",
+      "William F Dunbar": "72",
+      "Write In": "0",
+      "ward": 45,
+      "division": 12
+    },
+    {
+      "Candidate": "Write In",
+      "John J Taylor": "",
+      "William F Dunbar": "",
+      "Write In": "1",
+      "ward": 45,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "John J Taylor": "125",
+      "William F Dunbar": "72",
+      "Write In": "1",
+      "ward": 45,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "William F Dunbar": "William F Dunbar",
+      "John J Taylor": "John J Taylor",
+      "ward": 45,
+      "division": 13
+    },
+    {
+      "Candidate": "William F Dunbar",
+      "William F Dunbar": "173",
+      "John J Taylor": "0",
+      "ward": 45,
+      "division": 13
+    },
+    {
+      "Candidate": "John J Taylor",
+      "William F Dunbar": "",
+      "John J Taylor": "75",
+      "ward": 45,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "William F Dunbar": "173",
+      "John J Taylor": "75",
+      "ward": 45,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John J Taylor": "John J Taylor",
+      "William F Dunbar": "William F Dunbar",
+      "ward": 45,
+      "division": 14
+    },
+    {
+      "Candidate": "John J Taylor",
+      "John J Taylor": "51",
+      "William F Dunbar": "0",
+      "ward": 45,
+      "division": 14
+    },
+    {
+      "Candidate": "William F Dunbar",
+      "John J Taylor": "",
+      "William F Dunbar": "34",
+      "ward": 45,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "John J Taylor": "51",
+      "William F Dunbar": "34",
+      "ward": 45,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John J Taylor": "John J Taylor",
+      "William F Dunbar": "William F Dunbar",
+      "ward": 45,
+      "division": 15
+    },
+    {
+      "Candidate": "John J Taylor",
+      "John J Taylor": "230",
+      "William F Dunbar": "0",
+      "ward": 45,
+      "division": 15
+    },
+    {
+      "Candidate": "William F Dunbar",
+      "John J Taylor": "",
+      "William F Dunbar": "75",
+      "ward": 45,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "John J Taylor": "230",
+      "William F Dunbar": "75",
+      "ward": 45,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "William F Dunbar": "William F Dunbar",
+      "John J Taylor": "John J Taylor",
+      "ward": 45,
+      "division": 18
+    },
+    {
+      "Candidate": "William F Dunbar",
+      "William F Dunbar": "179",
+      "John J Taylor": "0",
+      "ward": 45,
+      "division": 18
+    },
+    {
+      "Candidate": "John J Taylor",
+      "William F Dunbar": "",
+      "John J Taylor": "50",
+      "ward": 45,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "William F Dunbar": "179",
+      "John J Taylor": "50",
+      "ward": 45,
+      "division": 18
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John J Taylor": "John J Taylor",
+      "William F Dunbar": "William F Dunbar",
+      "ward": 45,
+      "division": 20
+    },
+    {
+      "Candidate": "John J Taylor",
+      "John J Taylor": "372",
+      "William F Dunbar": "0",
+      "ward": 45,
+      "division": 20
+    },
+    {
+      "Candidate": "William F Dunbar",
+      "John J Taylor": "",
+      "William F Dunbar": "55",
+      "ward": 45,
+      "division": 20
+    },
+    {
+      "Candidate": "Total",
+      "John J Taylor": "372",
+      "William F Dunbar": "55",
+      "ward": 45,
+      "division": 20
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "William F Dunbar": "William F Dunbar",
+      "John J Taylor": "John J Taylor",
+      "ward": 45,
+      "division": 21
+    },
+    {
+      "Candidate": "William F Dunbar",
+      "William F Dunbar": "166",
+      "John J Taylor": "0",
+      "ward": 45,
+      "division": 21
+    },
+    {
+      "Candidate": "John J Taylor",
+      "William F Dunbar": "",
+      "John J Taylor": "61",
+      "ward": 45,
+      "division": 21
+    },
+    {
+      "Candidate": "Total",
+      "William F Dunbar": "166",
+      "John J Taylor": "61",
+      "ward": 45,
+      "division": 21
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John J Taylor": "John J Taylor",
+      "William F Dunbar": "William F Dunbar",
+      "ward": 45,
+      "division": 22
+    },
+    {
+      "Candidate": "John J Taylor",
+      "John J Taylor": "304",
+      "William F Dunbar": "0",
+      "ward": 45,
+      "division": 22
+    },
+    {
+      "Candidate": "William F Dunbar",
+      "John J Taylor": "",
+      "William F Dunbar": "38",
+      "ward": 45,
+      "division": 22
+    },
+    {
+      "Candidate": "Total",
+      "John J Taylor": "304",
+      "William F Dunbar": "38",
+      "ward": 45,
+      "division": 22
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John J Taylor": "John J Taylor",
+      "William F Dunbar": "William F Dunbar",
+      "Write In": "Write In",
+      "ward": 45,
+      "division": 23
+    },
+    {
+      "Candidate": "John J Taylor",
+      "John J Taylor": "306",
+      "William F Dunbar": "0",
+      "Write In": "0",
+      "ward": 45,
+      "division": 23
+    },
+    {
+      "Candidate": "William F Dunbar",
+      "John J Taylor": "",
+      "William F Dunbar": "72",
+      "Write In": "0",
+      "ward": 45,
+      "division": 23
+    },
+    {
+      "Candidate": "Write In",
+      "John J Taylor": "",
+      "William F Dunbar": "",
+      "Write In": "1",
+      "ward": 45,
+      "division": 23
+    },
+    {
+      "Candidate": "Total",
+      "John J Taylor": "306",
+      "William F Dunbar": "72",
+      "Write In": "1",
+      "ward": 45,
+      "division": 23
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John J Taylor": "John J Taylor",
+      "William F Dunbar": "William F Dunbar",
+      "ward": 45,
+      "division": 24
+    },
+    {
+      "Candidate": "John J Taylor",
+      "John J Taylor": "407",
+      "William F Dunbar": "0",
+      "ward": 45,
+      "division": 24
+    },
+    {
+      "Candidate": "William F Dunbar",
+      "John J Taylor": "",
+      "William F Dunbar": "71",
+      "ward": 45,
+      "division": 24
+    },
+    {
+      "Candidate": "Total",
+      "John J Taylor": "407",
+      "William F Dunbar": "71",
+      "ward": 45,
+      "division": 24
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John J Taylor": "John J Taylor",
+      "William F Dunbar": "William F Dunbar",
+      "ward": 45,
+      "division": 25
+    },
+    {
+      "Candidate": "John J Taylor",
+      "John J Taylor": "222",
+      "William F Dunbar": "0",
+      "ward": 45,
+      "division": 25
+    },
+    {
+      "Candidate": "William F Dunbar",
+      "John J Taylor": "",
+      "William F Dunbar": "79",
+      "ward": 45,
+      "division": 25
+    },
+    {
+      "Candidate": "Total",
+      "John J Taylor": "222",
+      "William F Dunbar": "79",
+      "ward": 45,
+      "division": 25
+    }
+  ]
+]

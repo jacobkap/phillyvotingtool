@@ -1,0 +1,866 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Kathy Coder": "Kathy Coder",
+      "Diana Irey Vaughan": "Diana Irey Vaughan",
+      "Jeff Bartos": "Jeff Bartos",
+      "Peg Luksik": "Peg Luksik",
+      "Write In": "Write In",
+      "ward": 31,
+      "division": "All"
+    },
+    {
+      "Candidate": "Kathy Coder",
+      "Kathy Coder": "97",
+      "Diana Irey Vaughan": "0",
+      "Jeff Bartos": "0",
+      "Peg Luksik": "0",
+      "Write In": "0",
+      "ward": 31,
+      "division": "All"
+    },
+    {
+      "Candidate": "Diana Irey Vaughan",
+      "Kathy Coder": "",
+      "Diana Irey Vaughan": "69",
+      "Jeff Bartos": "0",
+      "Peg Luksik": "0",
+      "Write In": "0",
+      "ward": 31,
+      "division": "All"
+    },
+    {
+      "Candidate": "Jeff Bartos",
+      "Kathy Coder": "",
+      "Diana Irey Vaughan": "",
+      "Jeff Bartos": "22",
+      "Peg Luksik": "0",
+      "Write In": "0",
+      "ward": 31,
+      "division": "All"
+    },
+    {
+      "Candidate": "Peg Luksik",
+      "Kathy Coder": "",
+      "Diana Irey Vaughan": "",
+      "Jeff Bartos": "",
+      "Peg Luksik": "10",
+      "Write In": "0",
+      "ward": 31,
+      "division": "All"
+    },
+    {
+      "Candidate": "Write In",
+      "Kathy Coder": "",
+      "Diana Irey Vaughan": "",
+      "Jeff Bartos": "",
+      "Peg Luksik": "",
+      "Write In": "1",
+      "ward": 31,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Coder": "97",
+      "Diana Irey Vaughan": "69",
+      "Jeff Bartos": "22",
+      "Peg Luksik": "10",
+      "Write In": "1",
+      "ward": 31,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Jeff Bartos": "Jeff Bartos",
+      "Kathy Coder": "Kathy Coder",
+      "Peg Luksik": "Peg Luksik",
+      "ward": 31,
+      "division": 1
+    },
+    {
+      "Candidate": "Jeff Bartos",
+      "Jeff Bartos": "2",
+      "Kathy Coder": "0",
+      "Peg Luksik": "0",
+      "ward": 31,
+      "division": 1
+    },
+    {
+      "Candidate": "Kathy Coder",
+      "Jeff Bartos": "",
+      "Kathy Coder": "1",
+      "Peg Luksik": "0",
+      "ward": 31,
+      "division": 1
+    },
+    {
+      "Candidate": "Peg Luksik",
+      "Jeff Bartos": "",
+      "Kathy Coder": "",
+      "Peg Luksik": "1",
+      "ward": 31,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Jeff Bartos": "2",
+      "Kathy Coder": "1",
+      "Peg Luksik": "1",
+      "ward": 31,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Diana Irey Vaughan": "Diana Irey Vaughan",
+      "ward": 31,
+      "division": 2
+    },
+    {
+      "Candidate": "Diana Irey Vaughan",
+      "Diana Irey Vaughan": "1",
+      "ward": 31,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "Diana Irey Vaughan": "1",
+      "ward": 31,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Kathy Coder": "Kathy Coder",
+      "Diana Irey Vaughan": "Diana Irey Vaughan",
+      "Jeff Bartos": "Jeff Bartos",
+      "ward": 31,
+      "division": 3
+    },
+    {
+      "Candidate": "Kathy Coder",
+      "Kathy Coder": "5",
+      "Diana Irey Vaughan": "0",
+      "Jeff Bartos": "0",
+      "ward": 31,
+      "division": 3
+    },
+    {
+      "Candidate": "Diana Irey Vaughan",
+      "Kathy Coder": "",
+      "Diana Irey Vaughan": "2",
+      "Jeff Bartos": "0",
+      "ward": 31,
+      "division": 3
+    },
+    {
+      "Candidate": "Jeff Bartos",
+      "Kathy Coder": "",
+      "Diana Irey Vaughan": "",
+      "Jeff Bartos": "1",
+      "ward": 31,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Coder": "5",
+      "Diana Irey Vaughan": "2",
+      "Jeff Bartos": "1",
+      "ward": 31,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Kathy Coder": "Kathy Coder",
+      "Diana Irey Vaughan": "Diana Irey Vaughan",
+      "Jeff Bartos": "Jeff Bartos",
+      "ward": 31,
+      "division": 4
+    },
+    {
+      "Candidate": "Kathy Coder",
+      "Kathy Coder": "9",
+      "Diana Irey Vaughan": "0",
+      "Jeff Bartos": "0",
+      "ward": 31,
+      "division": 4
+    },
+    {
+      "Candidate": "Diana Irey Vaughan",
+      "Kathy Coder": "",
+      "Diana Irey Vaughan": "4",
+      "Jeff Bartos": "0",
+      "ward": 31,
+      "division": 4
+    },
+    {
+      "Candidate": "Jeff Bartos",
+      "Kathy Coder": "",
+      "Diana Irey Vaughan": "",
+      "Jeff Bartos": "4",
+      "ward": 31,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Coder": "9",
+      "Diana Irey Vaughan": "4",
+      "Jeff Bartos": "4",
+      "ward": 31,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Diana Irey Vaughan": "Diana Irey Vaughan",
+      "Kathy Coder": "Kathy Coder",
+      "Jeff Bartos": "Jeff Bartos",
+      "ward": 31,
+      "division": 5
+    },
+    {
+      "Candidate": "Diana Irey Vaughan",
+      "Diana Irey Vaughan": "4",
+      "Kathy Coder": "0",
+      "Jeff Bartos": "0",
+      "ward": 31,
+      "division": 5
+    },
+    {
+      "Candidate": "Kathy Coder",
+      "Diana Irey Vaughan": "",
+      "Kathy Coder": "4",
+      "Jeff Bartos": "0",
+      "ward": 31,
+      "division": 5
+    },
+    {
+      "Candidate": "Jeff Bartos",
+      "Diana Irey Vaughan": "",
+      "Kathy Coder": "",
+      "Jeff Bartos": "1",
+      "ward": 31,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Diana Irey Vaughan": "4",
+      "Kathy Coder": "4",
+      "Jeff Bartos": "1",
+      "ward": 31,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Diana Irey Vaughan": "Diana Irey Vaughan",
+      "Jeff Bartos": "Jeff Bartos",
+      "Kathy Coder": "Kathy Coder",
+      "ward": 31,
+      "division": 6
+    },
+    {
+      "Candidate": "Diana Irey Vaughan",
+      "Diana Irey Vaughan": "3",
+      "Jeff Bartos": "0",
+      "Kathy Coder": "0",
+      "ward": 31,
+      "division": 6
+    },
+    {
+      "Candidate": "Jeff Bartos",
+      "Diana Irey Vaughan": "",
+      "Jeff Bartos": "1",
+      "Kathy Coder": "0",
+      "ward": 31,
+      "division": 6
+    },
+    {
+      "Candidate": "Kathy Coder",
+      "Diana Irey Vaughan": "",
+      "Jeff Bartos": "",
+      "Kathy Coder": "1",
+      "ward": 31,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "Diana Irey Vaughan": "3",
+      "Jeff Bartos": "1",
+      "Kathy Coder": "1",
+      "ward": 31,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Kathy Coder": "Kathy Coder",
+      "Diana Irey Vaughan": "Diana Irey Vaughan",
+      "Jeff Bartos": "Jeff Bartos",
+      "Peg Luksik": "Peg Luksik",
+      "ward": 31,
+      "division": 7
+    },
+    {
+      "Candidate": "Kathy Coder",
+      "Kathy Coder": "10",
+      "Diana Irey Vaughan": "0",
+      "Jeff Bartos": "0",
+      "Peg Luksik": "0",
+      "ward": 31,
+      "division": 7
+    },
+    {
+      "Candidate": "Diana Irey Vaughan",
+      "Kathy Coder": "",
+      "Diana Irey Vaughan": "6",
+      "Jeff Bartos": "0",
+      "Peg Luksik": "0",
+      "ward": 31,
+      "division": 7
+    },
+    {
+      "Candidate": "Jeff Bartos",
+      "Kathy Coder": "",
+      "Diana Irey Vaughan": "",
+      "Jeff Bartos": "2",
+      "Peg Luksik": "0",
+      "ward": 31,
+      "division": 7
+    },
+    {
+      "Candidate": "Peg Luksik",
+      "Kathy Coder": "",
+      "Diana Irey Vaughan": "",
+      "Jeff Bartos": "",
+      "Peg Luksik": "2",
+      "ward": 31,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Coder": "10",
+      "Diana Irey Vaughan": "6",
+      "Jeff Bartos": "2",
+      "Peg Luksik": "2",
+      "ward": 31,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Diana Irey Vaughan": "Diana Irey Vaughan",
+      "Kathy Coder": "Kathy Coder",
+      "ward": 31,
+      "division": 8
+    },
+    {
+      "Candidate": "Diana Irey Vaughan",
+      "Diana Irey Vaughan": "7",
+      "Kathy Coder": "0",
+      "ward": 31,
+      "division": 8
+    },
+    {
+      "Candidate": "Kathy Coder",
+      "Diana Irey Vaughan": "",
+      "Kathy Coder": "7",
+      "ward": 31,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Diana Irey Vaughan": "7",
+      "Kathy Coder": "7",
+      "ward": 31,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Diana Irey Vaughan": "Diana Irey Vaughan",
+      "ward": 31,
+      "division": 9
+    },
+    {
+      "Candidate": "Diana Irey Vaughan",
+      "Diana Irey Vaughan": "1",
+      "ward": 31,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Diana Irey Vaughan": "1",
+      "ward": 31,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Kathy Coder": "Kathy Coder",
+      "Peg Luksik": "Peg Luksik",
+      "ward": 31,
+      "division": 10
+    },
+    {
+      "Candidate": "Kathy Coder",
+      "Kathy Coder": "7",
+      "Peg Luksik": "0",
+      "ward": 31,
+      "division": 10
+    },
+    {
+      "Candidate": "Peg Luksik",
+      "Kathy Coder": "",
+      "Peg Luksik": "1",
+      "ward": 31,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Coder": "7",
+      "Peg Luksik": "1",
+      "ward": 31,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Kathy Coder": "Kathy Coder",
+      "Diana Irey Vaughan": "Diana Irey Vaughan",
+      "Jeff Bartos": "Jeff Bartos",
+      "Peg Luksik": "Peg Luksik",
+      "Write In": "Write In",
+      "ward": 31,
+      "division": 11
+    },
+    {
+      "Candidate": "Kathy Coder",
+      "Kathy Coder": "6",
+      "Diana Irey Vaughan": "0",
+      "Jeff Bartos": "0",
+      "Peg Luksik": "0",
+      "Write In": "0",
+      "ward": 31,
+      "division": 11
+    },
+    {
+      "Candidate": "Diana Irey Vaughan",
+      "Kathy Coder": "",
+      "Diana Irey Vaughan": "2",
+      "Jeff Bartos": "0",
+      "Peg Luksik": "0",
+      "Write In": "0",
+      "ward": 31,
+      "division": 11
+    },
+    {
+      "Candidate": "Jeff Bartos",
+      "Kathy Coder": "",
+      "Diana Irey Vaughan": "",
+      "Jeff Bartos": "1",
+      "Peg Luksik": "0",
+      "Write In": "0",
+      "ward": 31,
+      "division": 11
+    },
+    {
+      "Candidate": "Peg Luksik",
+      "Kathy Coder": "",
+      "Diana Irey Vaughan": "",
+      "Jeff Bartos": "",
+      "Peg Luksik": "1",
+      "Write In": "0",
+      "ward": 31,
+      "division": 11
+    },
+    {
+      "Candidate": "Write In",
+      "Kathy Coder": "",
+      "Diana Irey Vaughan": "",
+      "Jeff Bartos": "",
+      "Peg Luksik": "",
+      "Write In": "1",
+      "ward": 31,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Coder": "6",
+      "Diana Irey Vaughan": "2",
+      "Jeff Bartos": "1",
+      "Peg Luksik": "1",
+      "Write In": "1",
+      "ward": 31,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Kathy Coder": "Kathy Coder",
+      "Diana Irey Vaughan": "Diana Irey Vaughan",
+      "ward": 31,
+      "division": 12
+    },
+    {
+      "Candidate": "Kathy Coder",
+      "Kathy Coder": "2",
+      "Diana Irey Vaughan": "0",
+      "ward": 31,
+      "division": 12
+    },
+    {
+      "Candidate": "Diana Irey Vaughan",
+      "Kathy Coder": "",
+      "Diana Irey Vaughan": "1",
+      "ward": 31,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Coder": "2",
+      "Diana Irey Vaughan": "1",
+      "ward": 31,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Kathy Coder": "Kathy Coder",
+      "Diana Irey Vaughan": "Diana Irey Vaughan",
+      "Jeff Bartos": "Jeff Bartos",
+      "Peg Luksik": "Peg Luksik",
+      "ward": 31,
+      "division": 13
+    },
+    {
+      "Candidate": "Kathy Coder",
+      "Kathy Coder": "5",
+      "Diana Irey Vaughan": "0",
+      "Jeff Bartos": "0",
+      "Peg Luksik": "0",
+      "ward": 31,
+      "division": 13
+    },
+    {
+      "Candidate": "Diana Irey Vaughan",
+      "Kathy Coder": "",
+      "Diana Irey Vaughan": "4",
+      "Jeff Bartos": "0",
+      "Peg Luksik": "0",
+      "ward": 31,
+      "division": 13
+    },
+    {
+      "Candidate": "Jeff Bartos",
+      "Kathy Coder": "",
+      "Diana Irey Vaughan": "",
+      "Jeff Bartos": "2",
+      "Peg Luksik": "0",
+      "ward": 31,
+      "division": 13
+    },
+    {
+      "Candidate": "Peg Luksik",
+      "Kathy Coder": "",
+      "Diana Irey Vaughan": "",
+      "Jeff Bartos": "",
+      "Peg Luksik": "1",
+      "ward": 31,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Coder": "5",
+      "Diana Irey Vaughan": "4",
+      "Jeff Bartos": "2",
+      "Peg Luksik": "1",
+      "ward": 31,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Diana Irey Vaughan": "Diana Irey Vaughan",
+      "Kathy Coder": "Kathy Coder",
+      "Jeff Bartos": "Jeff Bartos",
+      "Peg Luksik": "Peg Luksik",
+      "ward": 31,
+      "division": 14
+    },
+    {
+      "Candidate": "Diana Irey Vaughan",
+      "Diana Irey Vaughan": "8",
+      "Kathy Coder": "0",
+      "Jeff Bartos": "0",
+      "Peg Luksik": "0",
+      "ward": 31,
+      "division": 14
+    },
+    {
+      "Candidate": "Kathy Coder",
+      "Diana Irey Vaughan": "",
+      "Kathy Coder": "7",
+      "Jeff Bartos": "0",
+      "Peg Luksik": "0",
+      "ward": 31,
+      "division": 14
+    },
+    {
+      "Candidate": "Jeff Bartos",
+      "Diana Irey Vaughan": "",
+      "Kathy Coder": "",
+      "Jeff Bartos": "2",
+      "Peg Luksik": "0",
+      "ward": 31,
+      "division": 14
+    },
+    {
+      "Candidate": "Peg Luksik",
+      "Diana Irey Vaughan": "",
+      "Kathy Coder": "",
+      "Jeff Bartos": "",
+      "Peg Luksik": "1",
+      "ward": 31,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "Diana Irey Vaughan": "8",
+      "Kathy Coder": "7",
+      "Jeff Bartos": "2",
+      "Peg Luksik": "1",
+      "ward": 31,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Diana Irey Vaughan": "Diana Irey Vaughan",
+      "Kathy Coder": "Kathy Coder",
+      "Jeff Bartos": "Jeff Bartos",
+      "ward": 31,
+      "division": 15
+    },
+    {
+      "Candidate": "Diana Irey Vaughan",
+      "Diana Irey Vaughan": "3",
+      "Kathy Coder": "0",
+      "Jeff Bartos": "0",
+      "ward": 31,
+      "division": 15
+    },
+    {
+      "Candidate": "Kathy Coder",
+      "Diana Irey Vaughan": "",
+      "Kathy Coder": "2",
+      "Jeff Bartos": "0",
+      "ward": 31,
+      "division": 15
+    },
+    {
+      "Candidate": "Jeff Bartos",
+      "Diana Irey Vaughan": "",
+      "Kathy Coder": "",
+      "Jeff Bartos": "1",
+      "ward": 31,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "Diana Irey Vaughan": "3",
+      "Kathy Coder": "2",
+      "Jeff Bartos": "1",
+      "ward": 31,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Kathy Coder": "Kathy Coder",
+      "Diana Irey Vaughan": "Diana Irey Vaughan",
+      "Peg Luksik": "Peg Luksik",
+      "ward": 31,
+      "division": 16
+    },
+    {
+      "Candidate": "Kathy Coder",
+      "Kathy Coder": "9",
+      "Diana Irey Vaughan": "0",
+      "Peg Luksik": "0",
+      "ward": 31,
+      "division": 16
+    },
+    {
+      "Candidate": "Diana Irey Vaughan",
+      "Kathy Coder": "",
+      "Diana Irey Vaughan": "3",
+      "Peg Luksik": "0",
+      "ward": 31,
+      "division": 16
+    },
+    {
+      "Candidate": "Peg Luksik",
+      "Kathy Coder": "",
+      "Diana Irey Vaughan": "",
+      "Peg Luksik": "2",
+      "ward": 31,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Coder": "9",
+      "Diana Irey Vaughan": "3",
+      "Peg Luksik": "2",
+      "ward": 31,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Diana Irey Vaughan": "Diana Irey Vaughan",
+      "Kathy Coder": "Kathy Coder",
+      "Jeff Bartos": "Jeff Bartos",
+      "ward": 31,
+      "division": 17
+    },
+    {
+      "Candidate": "Diana Irey Vaughan",
+      "Diana Irey Vaughan": "8",
+      "Kathy Coder": "0",
+      "Jeff Bartos": "0",
+      "ward": 31,
+      "division": 17
+    },
+    {
+      "Candidate": "Kathy Coder",
+      "Diana Irey Vaughan": "",
+      "Kathy Coder": "8",
+      "Jeff Bartos": "0",
+      "ward": 31,
+      "division": 17
+    },
+    {
+      "Candidate": "Jeff Bartos",
+      "Diana Irey Vaughan": "",
+      "Kathy Coder": "",
+      "Jeff Bartos": "3",
+      "ward": 31,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "Diana Irey Vaughan": "8",
+      "Kathy Coder": "8",
+      "Jeff Bartos": "3",
+      "ward": 31,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Kathy Coder": "Kathy Coder",
+      "Diana Irey Vaughan": "Diana Irey Vaughan",
+      "Jeff Bartos": "Jeff Bartos",
+      "Peg Luksik": "Peg Luksik",
+      "ward": 31,
+      "division": 18
+    },
+    {
+      "Candidate": "Kathy Coder",
+      "Kathy Coder": "6",
+      "Diana Irey Vaughan": "0",
+      "Jeff Bartos": "0",
+      "Peg Luksik": "0",
+      "ward": 31,
+      "division": 18
+    },
+    {
+      "Candidate": "Diana Irey Vaughan",
+      "Kathy Coder": "",
+      "Diana Irey Vaughan": "5",
+      "Jeff Bartos": "0",
+      "Peg Luksik": "0",
+      "ward": 31,
+      "division": 18
+    },
+    {
+      "Candidate": "Jeff Bartos",
+      "Kathy Coder": "",
+      "Diana Irey Vaughan": "",
+      "Jeff Bartos": "2",
+      "Peg Luksik": "0",
+      "ward": 31,
+      "division": 18
+    },
+    {
+      "Candidate": "Peg Luksik",
+      "Kathy Coder": "",
+      "Diana Irey Vaughan": "",
+      "Jeff Bartos": "",
+      "Peg Luksik": "1",
+      "ward": 31,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Coder": "6",
+      "Diana Irey Vaughan": "5",
+      "Jeff Bartos": "2",
+      "Peg Luksik": "1",
+      "ward": 31,
+      "division": 18
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Kathy Coder": "Kathy Coder",
+      "Diana Irey Vaughan": "Diana Irey Vaughan",
+      "ward": 31,
+      "division": 19
+    },
+    {
+      "Candidate": "Kathy Coder",
+      "Kathy Coder": "8",
+      "Diana Irey Vaughan": "0",
+      "ward": 31,
+      "division": 19
+    },
+    {
+      "Candidate": "Diana Irey Vaughan",
+      "Kathy Coder": "",
+      "Diana Irey Vaughan": "7",
+      "ward": 31,
+      "division": 19
+    },
+    {
+      "Candidate": "Total",
+      "Kathy Coder": "8",
+      "Diana Irey Vaughan": "7",
+      "ward": 31,
+      "division": 19
+    }
+  ]
+]

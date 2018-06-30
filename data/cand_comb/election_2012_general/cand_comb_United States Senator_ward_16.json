@@ -1,0 +1,658 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Tom Smith": "Tom Smith",
+      "Rayburn Douglas Smith": "Rayburn Douglas Smith",
+      "ward": 16,
+      "division": "All"
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "5,226",
+      "Tom Smith": "0",
+      "Rayburn Douglas Smith": "0",
+      "ward": 16,
+      "division": "All"
+    },
+    {
+      "Candidate": "Tom Smith",
+      "Bob Casey Jr": "",
+      "Tom Smith": "50",
+      "Rayburn Douglas Smith": "0",
+      "ward": 16,
+      "division": "All"
+    },
+    {
+      "Candidate": "Rayburn Douglas Smith",
+      "Bob Casey Jr": "",
+      "Tom Smith": "",
+      "Rayburn Douglas Smith": "10",
+      "ward": 16,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "5,226",
+      "Tom Smith": "50",
+      "Rayburn Douglas Smith": "10",
+      "ward": 16,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Tom Smith": "Tom Smith",
+      "Rayburn Douglas Smith": "Rayburn Douglas Smith",
+      "ward": 16,
+      "division": 1
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "261",
+      "Tom Smith": "0",
+      "Rayburn Douglas Smith": "0",
+      "ward": 16,
+      "division": 1
+    },
+    {
+      "Candidate": "Tom Smith",
+      "Bob Casey Jr": "",
+      "Tom Smith": "6",
+      "Rayburn Douglas Smith": "0",
+      "ward": 16,
+      "division": 1
+    },
+    {
+      "Candidate": "Rayburn Douglas Smith",
+      "Bob Casey Jr": "",
+      "Tom Smith": "",
+      "Rayburn Douglas Smith": "1",
+      "ward": 16,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "261",
+      "Tom Smith": "6",
+      "Rayburn Douglas Smith": "1",
+      "ward": 16,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Tom Smith": "Tom Smith",
+      "Rayburn Douglas Smith": "Rayburn Douglas Smith",
+      "ward": 16,
+      "division": 2
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "283",
+      "Tom Smith": "0",
+      "Rayburn Douglas Smith": "0",
+      "ward": 16,
+      "division": 2
+    },
+    {
+      "Candidate": "Tom Smith",
+      "Bob Casey Jr": "",
+      "Tom Smith": "3",
+      "Rayburn Douglas Smith": "0",
+      "ward": 16,
+      "division": 2
+    },
+    {
+      "Candidate": "Rayburn Douglas Smith",
+      "Bob Casey Jr": "",
+      "Tom Smith": "",
+      "Rayburn Douglas Smith": "2",
+      "ward": 16,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "283",
+      "Tom Smith": "3",
+      "Rayburn Douglas Smith": "2",
+      "ward": 16,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Tom Smith": "Tom Smith",
+      "ward": 16,
+      "division": 3
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "374",
+      "Tom Smith": "0",
+      "ward": 16,
+      "division": 3
+    },
+    {
+      "Candidate": "Tom Smith",
+      "Bob Casey Jr": "",
+      "Tom Smith": "8",
+      "ward": 16,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "374",
+      "Tom Smith": "8",
+      "ward": 16,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Tom Smith": "Tom Smith",
+      "ward": 16,
+      "division": 4
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "280",
+      "Tom Smith": "0",
+      "ward": 16,
+      "division": 4
+    },
+    {
+      "Candidate": "Tom Smith",
+      "Bob Casey Jr": "",
+      "Tom Smith": "4",
+      "ward": 16,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "280",
+      "Tom Smith": "4",
+      "ward": 16,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Tom Smith": "Tom Smith",
+      "ward": 16,
+      "division": 5
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "325",
+      "Tom Smith": "0",
+      "ward": 16,
+      "division": 5
+    },
+    {
+      "Candidate": "Tom Smith",
+      "Bob Casey Jr": "",
+      "Tom Smith": "3",
+      "ward": 16,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "325",
+      "Tom Smith": "3",
+      "ward": 16,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Tom Smith": "Tom Smith",
+      "Rayburn Douglas Smith": "Rayburn Douglas Smith",
+      "ward": 16,
+      "division": 6
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "273",
+      "Tom Smith": "0",
+      "Rayburn Douglas Smith": "0",
+      "ward": 16,
+      "division": 6
+    },
+    {
+      "Candidate": "Tom Smith",
+      "Bob Casey Jr": "",
+      "Tom Smith": "4",
+      "Rayburn Douglas Smith": "0",
+      "ward": 16,
+      "division": 6
+    },
+    {
+      "Candidate": "Rayburn Douglas Smith",
+      "Bob Casey Jr": "",
+      "Tom Smith": "",
+      "Rayburn Douglas Smith": "1",
+      "ward": 16,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "273",
+      "Tom Smith": "4",
+      "Rayburn Douglas Smith": "1",
+      "ward": 16,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Tom Smith": "Tom Smith",
+      "ward": 16,
+      "division": 7
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "328",
+      "Tom Smith": "0",
+      "ward": 16,
+      "division": 7
+    },
+    {
+      "Candidate": "Tom Smith",
+      "Bob Casey Jr": "",
+      "Tom Smith": "2",
+      "ward": 16,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "328",
+      "Tom Smith": "2",
+      "ward": 16,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Rayburn Douglas Smith": "Rayburn Douglas Smith",
+      "Tom Smith": "Tom Smith",
+      "ward": 16,
+      "division": 8
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "274",
+      "Rayburn Douglas Smith": "0",
+      "Tom Smith": "0",
+      "ward": 16,
+      "division": 8
+    },
+    {
+      "Candidate": "Rayburn Douglas Smith",
+      "Bob Casey Jr": "",
+      "Rayburn Douglas Smith": "2",
+      "Tom Smith": "0",
+      "ward": 16,
+      "division": 8
+    },
+    {
+      "Candidate": "Tom Smith",
+      "Bob Casey Jr": "",
+      "Rayburn Douglas Smith": "",
+      "Tom Smith": "1",
+      "ward": 16,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "274",
+      "Rayburn Douglas Smith": "2",
+      "Tom Smith": "1",
+      "ward": 16,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Tom Smith": "Tom Smith",
+      "ward": 16,
+      "division": 9
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "277",
+      "Tom Smith": "0",
+      "ward": 16,
+      "division": 9
+    },
+    {
+      "Candidate": "Tom Smith",
+      "Bob Casey Jr": "",
+      "Tom Smith": "2",
+      "ward": 16,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "277",
+      "Tom Smith": "2",
+      "ward": 16,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Tom Smith": "Tom Smith",
+      "ward": 16,
+      "division": 10
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "224",
+      "Tom Smith": "0",
+      "ward": 16,
+      "division": 10
+    },
+    {
+      "Candidate": "Tom Smith",
+      "Bob Casey Jr": "",
+      "Tom Smith": "2",
+      "ward": 16,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "224",
+      "Tom Smith": "2",
+      "ward": 16,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Tom Smith": "Tom Smith",
+      "Rayburn Douglas Smith": "Rayburn Douglas Smith",
+      "ward": 16,
+      "division": 11
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "278",
+      "Tom Smith": "0",
+      "Rayburn Douglas Smith": "0",
+      "ward": 16,
+      "division": 11
+    },
+    {
+      "Candidate": "Tom Smith",
+      "Bob Casey Jr": "",
+      "Tom Smith": "2",
+      "Rayburn Douglas Smith": "0",
+      "ward": 16,
+      "division": 11
+    },
+    {
+      "Candidate": "Rayburn Douglas Smith",
+      "Bob Casey Jr": "",
+      "Tom Smith": "",
+      "Rayburn Douglas Smith": "1",
+      "ward": 16,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "278",
+      "Tom Smith": "2",
+      "Rayburn Douglas Smith": "1",
+      "ward": 16,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Tom Smith": "Tom Smith",
+      "ward": 16,
+      "division": 12
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "293",
+      "Tom Smith": "0",
+      "ward": 16,
+      "division": 12
+    },
+    {
+      "Candidate": "Tom Smith",
+      "Bob Casey Jr": "",
+      "Tom Smith": "1",
+      "ward": 16,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "293",
+      "Tom Smith": "1",
+      "ward": 16,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Tom Smith": "Tom Smith",
+      "ward": 16,
+      "division": 13
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "270",
+      "Tom Smith": "0",
+      "ward": 16,
+      "division": 13
+    },
+    {
+      "Candidate": "Tom Smith",
+      "Bob Casey Jr": "",
+      "Tom Smith": "2",
+      "ward": 16,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "270",
+      "Tom Smith": "2",
+      "ward": 16,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Tom Smith": "Tom Smith",
+      "ward": 16,
+      "division": 14
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "189",
+      "Tom Smith": "0",
+      "ward": 16,
+      "division": 14
+    },
+    {
+      "Candidate": "Tom Smith",
+      "Bob Casey Jr": "",
+      "Tom Smith": "1",
+      "ward": 16,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "189",
+      "Tom Smith": "1",
+      "ward": 16,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Tom Smith": "Tom Smith",
+      "Rayburn Douglas Smith": "Rayburn Douglas Smith",
+      "ward": 16,
+      "division": 15
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "240",
+      "Tom Smith": "0",
+      "Rayburn Douglas Smith": "0",
+      "ward": 16,
+      "division": 15
+    },
+    {
+      "Candidate": "Tom Smith",
+      "Bob Casey Jr": "",
+      "Tom Smith": "2",
+      "Rayburn Douglas Smith": "0",
+      "ward": 16,
+      "division": 15
+    },
+    {
+      "Candidate": "Rayburn Douglas Smith",
+      "Bob Casey Jr": "",
+      "Tom Smith": "",
+      "Rayburn Douglas Smith": "1",
+      "ward": 16,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "240",
+      "Tom Smith": "2",
+      "Rayburn Douglas Smith": "1",
+      "ward": 16,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "ward": 16,
+      "division": 16
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "290",
+      "ward": 16,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "290",
+      "ward": 16,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Tom Smith": "Tom Smith",
+      "ward": 16,
+      "division": 17
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "368",
+      "Tom Smith": "0",
+      "ward": 16,
+      "division": 17
+    },
+    {
+      "Candidate": "Tom Smith",
+      "Bob Casey Jr": "",
+      "Tom Smith": "4",
+      "ward": 16,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "368",
+      "Tom Smith": "4",
+      "ward": 16,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Bob Casey Jr": "Bob Casey Jr",
+      "Tom Smith": "Tom Smith",
+      "Rayburn Douglas Smith": "Rayburn Douglas Smith",
+      "ward": 16,
+      "division": 18
+    },
+    {
+      "Candidate": "Bob Casey Jr",
+      "Bob Casey Jr": "399",
+      "Tom Smith": "0",
+      "Rayburn Douglas Smith": "0",
+      "ward": 16,
+      "division": 18
+    },
+    {
+      "Candidate": "Tom Smith",
+      "Bob Casey Jr": "",
+      "Tom Smith": "3",
+      "Rayburn Douglas Smith": "0",
+      "ward": 16,
+      "division": 18
+    },
+    {
+      "Candidate": "Rayburn Douglas Smith",
+      "Bob Casey Jr": "",
+      "Tom Smith": "",
+      "Rayburn Douglas Smith": "2",
+      "ward": 16,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "Bob Casey Jr": "399",
+      "Tom Smith": "3",
+      "Rayburn Douglas Smith": "2",
+      "ward": 16,
+      "division": 18
+    }
+  ]
+]

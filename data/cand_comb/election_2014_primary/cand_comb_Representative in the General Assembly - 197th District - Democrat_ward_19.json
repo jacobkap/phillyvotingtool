@@ -1,0 +1,996 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Leslie Acosta": "Leslie Acosta",
+      "Ben Ramos": "Ben Ramos",
+      "Danilo R Burgos": "Danilo R Burgos",
+      "Jose P Miranda": "Jose P Miranda",
+      "ward": 19,
+      "division": "All"
+    },
+    {
+      "Candidate": "Leslie Acosta",
+      "Leslie Acosta": "780",
+      "Ben Ramos": "0",
+      "Danilo R Burgos": "0",
+      "Jose P Miranda": "0",
+      "ward": 19,
+      "division": "All"
+    },
+    {
+      "Candidate": "Ben Ramos",
+      "Leslie Acosta": "",
+      "Ben Ramos": "359",
+      "Danilo R Burgos": "0",
+      "Jose P Miranda": "0",
+      "ward": 19,
+      "division": "All"
+    },
+    {
+      "Candidate": "Danilo R Burgos",
+      "Leslie Acosta": "",
+      "Ben Ramos": "",
+      "Danilo R Burgos": "161",
+      "Jose P Miranda": "0",
+      "ward": 19,
+      "division": "All"
+    },
+    {
+      "Candidate": "Jose P Miranda",
+      "Leslie Acosta": "",
+      "Ben Ramos": "",
+      "Danilo R Burgos": "",
+      "Jose P Miranda": "19",
+      "ward": 19,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Leslie Acosta": "780",
+      "Ben Ramos": "359",
+      "Danilo R Burgos": "161",
+      "Jose P Miranda": "19",
+      "ward": 19,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Leslie Acosta": "Leslie Acosta",
+      "Danilo R Burgos": "Danilo R Burgos",
+      "Ben Ramos": "Ben Ramos",
+      "ward": 19,
+      "division": 1
+    },
+    {
+      "Candidate": "Leslie Acosta",
+      "Leslie Acosta": "33",
+      "Danilo R Burgos": "0",
+      "Ben Ramos": "0",
+      "ward": 19,
+      "division": 1
+    },
+    {
+      "Candidate": "Danilo R Burgos",
+      "Leslie Acosta": "",
+      "Danilo R Burgos": "15",
+      "Ben Ramos": "0",
+      "ward": 19,
+      "division": 1
+    },
+    {
+      "Candidate": "Ben Ramos",
+      "Leslie Acosta": "",
+      "Danilo R Burgos": "",
+      "Ben Ramos": "13",
+      "ward": 19,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Leslie Acosta": "33",
+      "Danilo R Burgos": "15",
+      "Ben Ramos": "13",
+      "ward": 19,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Leslie Acosta": "Leslie Acosta",
+      "Ben Ramos": "Ben Ramos",
+      "Danilo R Burgos": "Danilo R Burgos",
+      "Jose P Miranda": "Jose P Miranda",
+      "ward": 19,
+      "division": 2
+    },
+    {
+      "Candidate": "Leslie Acosta",
+      "Leslie Acosta": "37",
+      "Ben Ramos": "0",
+      "Danilo R Burgos": "0",
+      "Jose P Miranda": "0",
+      "ward": 19,
+      "division": 2
+    },
+    {
+      "Candidate": "Ben Ramos",
+      "Leslie Acosta": "",
+      "Ben Ramos": "36",
+      "Danilo R Burgos": "0",
+      "Jose P Miranda": "0",
+      "ward": 19,
+      "division": 2
+    },
+    {
+      "Candidate": "Danilo R Burgos",
+      "Leslie Acosta": "",
+      "Ben Ramos": "",
+      "Danilo R Burgos": "16",
+      "Jose P Miranda": "0",
+      "ward": 19,
+      "division": 2
+    },
+    {
+      "Candidate": "Jose P Miranda",
+      "Leslie Acosta": "",
+      "Ben Ramos": "",
+      "Danilo R Burgos": "",
+      "Jose P Miranda": "1",
+      "ward": 19,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "Leslie Acosta": "37",
+      "Ben Ramos": "36",
+      "Danilo R Burgos": "16",
+      "Jose P Miranda": "1",
+      "ward": 19,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Leslie Acosta": "Leslie Acosta",
+      "Ben Ramos": "Ben Ramos",
+      "Danilo R Burgos": "Danilo R Burgos",
+      "ward": 19,
+      "division": 3
+    },
+    {
+      "Candidate": "Leslie Acosta",
+      "Leslie Acosta": "18",
+      "Ben Ramos": "0",
+      "Danilo R Burgos": "0",
+      "ward": 19,
+      "division": 3
+    },
+    {
+      "Candidate": "Ben Ramos",
+      "Leslie Acosta": "",
+      "Ben Ramos": "11",
+      "Danilo R Burgos": "0",
+      "ward": 19,
+      "division": 3
+    },
+    {
+      "Candidate": "Danilo R Burgos",
+      "Leslie Acosta": "",
+      "Ben Ramos": "",
+      "Danilo R Burgos": "2",
+      "ward": 19,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Leslie Acosta": "18",
+      "Ben Ramos": "11",
+      "Danilo R Burgos": "2",
+      "ward": 19,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Leslie Acosta": "Leslie Acosta",
+      "Ben Ramos": "Ben Ramos",
+      "Danilo R Burgos": "Danilo R Burgos",
+      "ward": 19,
+      "division": 4
+    },
+    {
+      "Candidate": "Leslie Acosta",
+      "Leslie Acosta": "22",
+      "Ben Ramos": "0",
+      "Danilo R Burgos": "0",
+      "ward": 19,
+      "division": 4
+    },
+    {
+      "Candidate": "Ben Ramos",
+      "Leslie Acosta": "",
+      "Ben Ramos": "21",
+      "Danilo R Burgos": "0",
+      "ward": 19,
+      "division": 4
+    },
+    {
+      "Candidate": "Danilo R Burgos",
+      "Leslie Acosta": "",
+      "Ben Ramos": "",
+      "Danilo R Burgos": "13",
+      "ward": 19,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Leslie Acosta": "22",
+      "Ben Ramos": "21",
+      "Danilo R Burgos": "13",
+      "ward": 19,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Leslie Acosta": "Leslie Acosta",
+      "Danilo R Burgos": "Danilo R Burgos",
+      "Ben Ramos": "Ben Ramos",
+      "Jose P Miranda": "Jose P Miranda",
+      "ward": 19,
+      "division": 5
+    },
+    {
+      "Candidate": "Leslie Acosta",
+      "Leslie Acosta": "26",
+      "Danilo R Burgos": "0",
+      "Ben Ramos": "0",
+      "Jose P Miranda": "0",
+      "ward": 19,
+      "division": 5
+    },
+    {
+      "Candidate": "Danilo R Burgos",
+      "Leslie Acosta": "",
+      "Danilo R Burgos": "17",
+      "Ben Ramos": "0",
+      "Jose P Miranda": "0",
+      "ward": 19,
+      "division": 5
+    },
+    {
+      "Candidate": "Ben Ramos",
+      "Leslie Acosta": "",
+      "Danilo R Burgos": "",
+      "Ben Ramos": "13",
+      "Jose P Miranda": "0",
+      "ward": 19,
+      "division": 5
+    },
+    {
+      "Candidate": "Jose P Miranda",
+      "Leslie Acosta": "",
+      "Danilo R Burgos": "",
+      "Ben Ramos": "",
+      "Jose P Miranda": "5",
+      "ward": 19,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Leslie Acosta": "26",
+      "Danilo R Burgos": "17",
+      "Ben Ramos": "13",
+      "Jose P Miranda": "5",
+      "ward": 19,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Leslie Acosta": "Leslie Acosta",
+      "Ben Ramos": "Ben Ramos",
+      "Danilo R Burgos": "Danilo R Burgos",
+      "ward": 19,
+      "division": 6
+    },
+    {
+      "Candidate": "Leslie Acosta",
+      "Leslie Acosta": "25",
+      "Ben Ramos": "0",
+      "Danilo R Burgos": "0",
+      "ward": 19,
+      "division": 6
+    },
+    {
+      "Candidate": "Ben Ramos",
+      "Leslie Acosta": "",
+      "Ben Ramos": "15",
+      "Danilo R Burgos": "0",
+      "ward": 19,
+      "division": 6
+    },
+    {
+      "Candidate": "Danilo R Burgos",
+      "Leslie Acosta": "",
+      "Ben Ramos": "",
+      "Danilo R Burgos": "3",
+      "ward": 19,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "Leslie Acosta": "25",
+      "Ben Ramos": "15",
+      "Danilo R Burgos": "3",
+      "ward": 19,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Leslie Acosta": "Leslie Acosta",
+      "Ben Ramos": "Ben Ramos",
+      "Danilo R Burgos": "Danilo R Burgos",
+      "Jose P Miranda": "Jose P Miranda",
+      "ward": 19,
+      "division": 7
+    },
+    {
+      "Candidate": "Leslie Acosta",
+      "Leslie Acosta": "52",
+      "Ben Ramos": "0",
+      "Danilo R Burgos": "0",
+      "Jose P Miranda": "0",
+      "ward": 19,
+      "division": 7
+    },
+    {
+      "Candidate": "Ben Ramos",
+      "Leslie Acosta": "",
+      "Ben Ramos": "14",
+      "Danilo R Burgos": "0",
+      "Jose P Miranda": "0",
+      "ward": 19,
+      "division": 7
+    },
+    {
+      "Candidate": "Danilo R Burgos",
+      "Leslie Acosta": "",
+      "Ben Ramos": "",
+      "Danilo R Burgos": "7",
+      "Jose P Miranda": "0",
+      "ward": 19,
+      "division": 7
+    },
+    {
+      "Candidate": "Jose P Miranda",
+      "Leslie Acosta": "",
+      "Ben Ramos": "",
+      "Danilo R Burgos": "",
+      "Jose P Miranda": "2",
+      "ward": 19,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Leslie Acosta": "52",
+      "Ben Ramos": "14",
+      "Danilo R Burgos": "7",
+      "Jose P Miranda": "2",
+      "ward": 19,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Leslie Acosta": "Leslie Acosta",
+      "Ben Ramos": "Ben Ramos",
+      "Danilo R Burgos": "Danilo R Burgos",
+      "Jose P Miranda": "Jose P Miranda",
+      "ward": 19,
+      "division": 8
+    },
+    {
+      "Candidate": "Leslie Acosta",
+      "Leslie Acosta": "43",
+      "Ben Ramos": "0",
+      "Danilo R Burgos": "0",
+      "Jose P Miranda": "0",
+      "ward": 19,
+      "division": 8
+    },
+    {
+      "Candidate": "Ben Ramos",
+      "Leslie Acosta": "",
+      "Ben Ramos": "9",
+      "Danilo R Burgos": "0",
+      "Jose P Miranda": "0",
+      "ward": 19,
+      "division": 8
+    },
+    {
+      "Candidate": "Danilo R Burgos",
+      "Leslie Acosta": "",
+      "Ben Ramos": "",
+      "Danilo R Burgos": "7",
+      "Jose P Miranda": "0",
+      "ward": 19,
+      "division": 8
+    },
+    {
+      "Candidate": "Jose P Miranda",
+      "Leslie Acosta": "",
+      "Ben Ramos": "",
+      "Danilo R Burgos": "",
+      "Jose P Miranda": "2",
+      "ward": 19,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Leslie Acosta": "43",
+      "Ben Ramos": "9",
+      "Danilo R Burgos": "7",
+      "Jose P Miranda": "2",
+      "ward": 19,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ben Ramos": "Ben Ramos",
+      "Leslie Acosta": "Leslie Acosta",
+      "Danilo R Burgos": "Danilo R Burgos",
+      "ward": 19,
+      "division": 9
+    },
+    {
+      "Candidate": "Ben Ramos",
+      "Ben Ramos": "29",
+      "Leslie Acosta": "0",
+      "Danilo R Burgos": "0",
+      "ward": 19,
+      "division": 9
+    },
+    {
+      "Candidate": "Leslie Acosta",
+      "Ben Ramos": "",
+      "Leslie Acosta": "22",
+      "Danilo R Burgos": "0",
+      "ward": 19,
+      "division": 9
+    },
+    {
+      "Candidate": "Danilo R Burgos",
+      "Ben Ramos": "",
+      "Leslie Acosta": "",
+      "Danilo R Burgos": "4",
+      "ward": 19,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Ben Ramos": "29",
+      "Leslie Acosta": "22",
+      "Danilo R Burgos": "4",
+      "ward": 19,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Leslie Acosta": "Leslie Acosta",
+      "Ben Ramos": "Ben Ramos",
+      "Danilo R Burgos": "Danilo R Burgos",
+      "ward": 19,
+      "division": 10
+    },
+    {
+      "Candidate": "Leslie Acosta",
+      "Leslie Acosta": "80",
+      "Ben Ramos": "0",
+      "Danilo R Burgos": "0",
+      "ward": 19,
+      "division": 10
+    },
+    {
+      "Candidate": "Ben Ramos",
+      "Leslie Acosta": "",
+      "Ben Ramos": "42",
+      "Danilo R Burgos": "0",
+      "ward": 19,
+      "division": 10
+    },
+    {
+      "Candidate": "Danilo R Burgos",
+      "Leslie Acosta": "",
+      "Ben Ramos": "",
+      "Danilo R Burgos": "10",
+      "ward": 19,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Leslie Acosta": "80",
+      "Ben Ramos": "42",
+      "Danilo R Burgos": "10",
+      "ward": 19,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Leslie Acosta": "Leslie Acosta",
+      "Ben Ramos": "Ben Ramos",
+      "Danilo R Burgos": "Danilo R Burgos",
+      "Jose P Miranda": "Jose P Miranda",
+      "ward": 19,
+      "division": 11
+    },
+    {
+      "Candidate": "Leslie Acosta",
+      "Leslie Acosta": "54",
+      "Ben Ramos": "0",
+      "Danilo R Burgos": "0",
+      "Jose P Miranda": "0",
+      "ward": 19,
+      "division": 11
+    },
+    {
+      "Candidate": "Ben Ramos",
+      "Leslie Acosta": "",
+      "Ben Ramos": "19",
+      "Danilo R Burgos": "0",
+      "Jose P Miranda": "0",
+      "ward": 19,
+      "division": 11
+    },
+    {
+      "Candidate": "Danilo R Burgos",
+      "Leslie Acosta": "",
+      "Ben Ramos": "",
+      "Danilo R Burgos": "3",
+      "Jose P Miranda": "0",
+      "ward": 19,
+      "division": 11
+    },
+    {
+      "Candidate": "Jose P Miranda",
+      "Leslie Acosta": "",
+      "Ben Ramos": "",
+      "Danilo R Burgos": "",
+      "Jose P Miranda": "1",
+      "ward": 19,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Leslie Acosta": "54",
+      "Ben Ramos": "19",
+      "Danilo R Burgos": "3",
+      "Jose P Miranda": "1",
+      "ward": 19,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ben Ramos": "Ben Ramos",
+      "Leslie Acosta": "Leslie Acosta",
+      "Danilo R Burgos": "Danilo R Burgos",
+      "Jose P Miranda": "Jose P Miranda",
+      "ward": 19,
+      "division": 12
+    },
+    {
+      "Candidate": "Ben Ramos",
+      "Ben Ramos": "52",
+      "Leslie Acosta": "0",
+      "Danilo R Burgos": "0",
+      "Jose P Miranda": "0",
+      "ward": 19,
+      "division": 12
+    },
+    {
+      "Candidate": "Leslie Acosta",
+      "Ben Ramos": "",
+      "Leslie Acosta": "46",
+      "Danilo R Burgos": "0",
+      "Jose P Miranda": "0",
+      "ward": 19,
+      "division": 12
+    },
+    {
+      "Candidate": "Danilo R Burgos",
+      "Ben Ramos": "",
+      "Leslie Acosta": "",
+      "Danilo R Burgos": "17",
+      "Jose P Miranda": "0",
+      "ward": 19,
+      "division": 12
+    },
+    {
+      "Candidate": "Jose P Miranda",
+      "Ben Ramos": "",
+      "Leslie Acosta": "",
+      "Danilo R Burgos": "",
+      "Jose P Miranda": "2",
+      "ward": 19,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Ben Ramos": "52",
+      "Leslie Acosta": "46",
+      "Danilo R Burgos": "17",
+      "Jose P Miranda": "2",
+      "ward": 19,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Leslie Acosta": "Leslie Acosta",
+      "Ben Ramos": "Ben Ramos",
+      "Danilo R Burgos": "Danilo R Burgos",
+      "Jose P Miranda": "Jose P Miranda",
+      "ward": 19,
+      "division": 13
+    },
+    {
+      "Candidate": "Leslie Acosta",
+      "Leslie Acosta": "51",
+      "Ben Ramos": "0",
+      "Danilo R Burgos": "0",
+      "Jose P Miranda": "0",
+      "ward": 19,
+      "division": 13
+    },
+    {
+      "Candidate": "Ben Ramos",
+      "Leslie Acosta": "",
+      "Ben Ramos": "24",
+      "Danilo R Burgos": "0",
+      "Jose P Miranda": "0",
+      "ward": 19,
+      "division": 13
+    },
+    {
+      "Candidate": "Danilo R Burgos",
+      "Leslie Acosta": "",
+      "Ben Ramos": "",
+      "Danilo R Burgos": "15",
+      "Jose P Miranda": "0",
+      "ward": 19,
+      "division": 13
+    },
+    {
+      "Candidate": "Jose P Miranda",
+      "Leslie Acosta": "",
+      "Ben Ramos": "",
+      "Danilo R Burgos": "",
+      "Jose P Miranda": "3",
+      "ward": 19,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "Leslie Acosta": "51",
+      "Ben Ramos": "24",
+      "Danilo R Burgos": "15",
+      "Jose P Miranda": "3",
+      "ward": 19,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Leslie Acosta": "Leslie Acosta",
+      "Ben Ramos": "Ben Ramos",
+      "Danilo R Burgos": "Danilo R Burgos",
+      "ward": 19,
+      "division": 14
+    },
+    {
+      "Candidate": "Leslie Acosta",
+      "Leslie Acosta": "26",
+      "Ben Ramos": "0",
+      "Danilo R Burgos": "0",
+      "ward": 19,
+      "division": 14
+    },
+    {
+      "Candidate": "Ben Ramos",
+      "Leslie Acosta": "",
+      "Ben Ramos": "4",
+      "Danilo R Burgos": "0",
+      "ward": 19,
+      "division": 14
+    },
+    {
+      "Candidate": "Danilo R Burgos",
+      "Leslie Acosta": "",
+      "Ben Ramos": "",
+      "Danilo R Burgos": "3",
+      "ward": 19,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "Leslie Acosta": "26",
+      "Ben Ramos": "4",
+      "Danilo R Burgos": "3",
+      "ward": 19,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Leslie Acosta": "Leslie Acosta",
+      "Danilo R Burgos": "Danilo R Burgos",
+      "Ben Ramos": "Ben Ramos",
+      "ward": 19,
+      "division": 15
+    },
+    {
+      "Candidate": "Leslie Acosta",
+      "Leslie Acosta": "56",
+      "Danilo R Burgos": "0",
+      "Ben Ramos": "0",
+      "ward": 19,
+      "division": 15
+    },
+    {
+      "Candidate": "Danilo R Burgos",
+      "Leslie Acosta": "",
+      "Danilo R Burgos": "6",
+      "Ben Ramos": "0",
+      "ward": 19,
+      "division": 15
+    },
+    {
+      "Candidate": "Ben Ramos",
+      "Leslie Acosta": "",
+      "Danilo R Burgos": "",
+      "Ben Ramos": "5",
+      "ward": 19,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "Leslie Acosta": "56",
+      "Danilo R Burgos": "6",
+      "Ben Ramos": "5",
+      "ward": 19,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Leslie Acosta": "Leslie Acosta",
+      "Ben Ramos": "Ben Ramos",
+      "Danilo R Burgos": "Danilo R Burgos",
+      "ward": 19,
+      "division": 16
+    },
+    {
+      "Candidate": "Leslie Acosta",
+      "Leslie Acosta": "79",
+      "Ben Ramos": "0",
+      "Danilo R Burgos": "0",
+      "ward": 19,
+      "division": 16
+    },
+    {
+      "Candidate": "Ben Ramos",
+      "Leslie Acosta": "",
+      "Ben Ramos": "21",
+      "Danilo R Burgos": "0",
+      "ward": 19,
+      "division": 16
+    },
+    {
+      "Candidate": "Danilo R Burgos",
+      "Leslie Acosta": "",
+      "Ben Ramos": "",
+      "Danilo R Burgos": "8",
+      "ward": 19,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "Leslie Acosta": "79",
+      "Ben Ramos": "21",
+      "Danilo R Burgos": "8",
+      "ward": 19,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Leslie Acosta": "Leslie Acosta",
+      "Ben Ramos": "Ben Ramos",
+      "Danilo R Burgos": "Danilo R Burgos",
+      "Jose P Miranda": "Jose P Miranda",
+      "ward": 19,
+      "division": 17
+    },
+    {
+      "Candidate": "Leslie Acosta",
+      "Leslie Acosta": "23",
+      "Ben Ramos": "0",
+      "Danilo R Burgos": "0",
+      "Jose P Miranda": "0",
+      "ward": 19,
+      "division": 17
+    },
+    {
+      "Candidate": "Ben Ramos",
+      "Leslie Acosta": "",
+      "Ben Ramos": "7",
+      "Danilo R Burgos": "0",
+      "Jose P Miranda": "0",
+      "ward": 19,
+      "division": 17
+    },
+    {
+      "Candidate": "Danilo R Burgos",
+      "Leslie Acosta": "",
+      "Ben Ramos": "",
+      "Danilo R Burgos": "4",
+      "Jose P Miranda": "0",
+      "ward": 19,
+      "division": 17
+    },
+    {
+      "Candidate": "Jose P Miranda",
+      "Leslie Acosta": "",
+      "Ben Ramos": "",
+      "Danilo R Burgos": "",
+      "Jose P Miranda": "1",
+      "ward": 19,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "Leslie Acosta": "23",
+      "Ben Ramos": "7",
+      "Danilo R Burgos": "4",
+      "Jose P Miranda": "1",
+      "ward": 19,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Leslie Acosta": "Leslie Acosta",
+      "Ben Ramos": "Ben Ramos",
+      "Danilo R Burgos": "Danilo R Burgos",
+      "Jose P Miranda": "Jose P Miranda",
+      "ward": 19,
+      "division": 18
+    },
+    {
+      "Candidate": "Leslie Acosta",
+      "Leslie Acosta": "52",
+      "Ben Ramos": "0",
+      "Danilo R Burgos": "0",
+      "Jose P Miranda": "0",
+      "ward": 19,
+      "division": 18
+    },
+    {
+      "Candidate": "Ben Ramos",
+      "Leslie Acosta": "",
+      "Ben Ramos": "11",
+      "Danilo R Burgos": "0",
+      "Jose P Miranda": "0",
+      "ward": 19,
+      "division": 18
+    },
+    {
+      "Candidate": "Danilo R Burgos",
+      "Leslie Acosta": "",
+      "Ben Ramos": "",
+      "Danilo R Burgos": "8",
+      "Jose P Miranda": "0",
+      "ward": 19,
+      "division": 18
+    },
+    {
+      "Candidate": "Jose P Miranda",
+      "Leslie Acosta": "",
+      "Ben Ramos": "",
+      "Danilo R Burgos": "",
+      "Jose P Miranda": "1",
+      "ward": 19,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "Leslie Acosta": "52",
+      "Ben Ramos": "11",
+      "Danilo R Burgos": "8",
+      "Jose P Miranda": "1",
+      "ward": 19,
+      "division": 18
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Leslie Acosta": "Leslie Acosta",
+      "Ben Ramos": "Ben Ramos",
+      "Danilo R Burgos": "Danilo R Burgos",
+      "Jose P Miranda": "Jose P Miranda",
+      "ward": 19,
+      "division": 19
+    },
+    {
+      "Candidate": "Leslie Acosta",
+      "Leslie Acosta": "35",
+      "Ben Ramos": "0",
+      "Danilo R Burgos": "0",
+      "Jose P Miranda": "0",
+      "ward": 19,
+      "division": 19
+    },
+    {
+      "Candidate": "Ben Ramos",
+      "Leslie Acosta": "",
+      "Ben Ramos": "13",
+      "Danilo R Burgos": "0",
+      "Jose P Miranda": "0",
+      "ward": 19,
+      "division": 19
+    },
+    {
+      "Candidate": "Danilo R Burgos",
+      "Leslie Acosta": "",
+      "Ben Ramos": "",
+      "Danilo R Burgos": "3",
+      "Jose P Miranda": "0",
+      "ward": 19,
+      "division": 19
+    },
+    {
+      "Candidate": "Jose P Miranda",
+      "Leslie Acosta": "",
+      "Ben Ramos": "",
+      "Danilo R Burgos": "",
+      "Jose P Miranda": "1",
+      "ward": 19,
+      "division": 19
+    },
+    {
+      "Candidate": "Total",
+      "Leslie Acosta": "35",
+      "Ben Ramos": "13",
+      "Danilo R Burgos": "3",
+      "Jose P Miranda": "1",
+      "ward": 19,
+      "division": 19
+    }
+  ]
+]

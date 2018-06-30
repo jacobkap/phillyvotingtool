@@ -1,0 +1,310 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Ted Cruz": "Ted Cruz",
+      "Donald J Trump": "Donald J Trump",
+      "John R Kasich": "John R Kasich",
+      "Ben Carson": "Ben Carson",
+      "ward": 28,
+      "division": "All"
+    },
+    {
+      "Candidate": "Ted Cruz",
+      "Ted Cruz": "6",
+      "Donald J Trump": "0",
+      "John R Kasich": "0",
+      "Ben Carson": "0",
+      "ward": 28,
+      "division": "All"
+    },
+    {
+      "Candidate": "Donald J Trump",
+      "Ted Cruz": "",
+      "Donald J Trump": "5",
+      "John R Kasich": "0",
+      "Ben Carson": "0",
+      "ward": 28,
+      "division": "All"
+    },
+    {
+      "Candidate": "John R Kasich",
+      "Ted Cruz": "",
+      "Donald J Trump": "",
+      "John R Kasich": "4",
+      "Ben Carson": "0",
+      "ward": 28,
+      "division": "All"
+    },
+    {
+      "Candidate": "Ben Carson",
+      "Ted Cruz": "",
+      "Donald J Trump": "",
+      "John R Kasich": "",
+      "Ben Carson": "1",
+      "ward": 28,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Ted Cruz": "6",
+      "Donald J Trump": "5",
+      "John R Kasich": "4",
+      "Ben Carson": "1",
+      "ward": 28,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ted Cruz": "Ted Cruz",
+      "ward": 28,
+      "division": 1
+    },
+    {
+      "Candidate": "Ted Cruz",
+      "Ted Cruz": "1",
+      "ward": 28,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Ted Cruz": "1",
+      "ward": 28,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Donald J Trump": "Donald J Trump",
+      "Ted Cruz": "Ted Cruz",
+      "ward": 28,
+      "division": 4
+    },
+    {
+      "Candidate": "Donald J Trump",
+      "Donald J Trump": "2",
+      "Ted Cruz": "0",
+      "ward": 28,
+      "division": 4
+    },
+    {
+      "Candidate": "Ted Cruz",
+      "Donald J Trump": "",
+      "Ted Cruz": "1",
+      "ward": 28,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Donald J Trump": "2",
+      "Ted Cruz": "1",
+      "ward": 28,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Donald J Trump": "Donald J Trump",
+      "ward": 28,
+      "division": 10
+    },
+    {
+      "Candidate": "Donald J Trump",
+      "Donald J Trump": "1",
+      "ward": 28,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Donald J Trump": "1",
+      "ward": 28,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John R Kasich": "John R Kasich",
+      "Ted Cruz": "Ted Cruz",
+      "ward": 28,
+      "division": 11
+    },
+    {
+      "Candidate": "John R Kasich",
+      "John R Kasich": "1",
+      "Ted Cruz": "0",
+      "ward": 28,
+      "division": 11
+    },
+    {
+      "Candidate": "Ted Cruz",
+      "John R Kasich": "",
+      "Ted Cruz": "1",
+      "ward": 28,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "John R Kasich": "1",
+      "Ted Cruz": "1",
+      "ward": 28,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ted Cruz": "Ted Cruz",
+      "ward": 28,
+      "division": 13
+    },
+    {
+      "Candidate": "Ted Cruz",
+      "Ted Cruz": "1",
+      "ward": 28,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "Ted Cruz": "1",
+      "ward": 28,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John R Kasich": "John R Kasich",
+      "ward": 28,
+      "division": 14
+    },
+    {
+      "Candidate": "John R Kasich",
+      "John R Kasich": "1",
+      "ward": 28,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "John R Kasich": "1",
+      "ward": 28,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ted Cruz": "Ted Cruz",
+      "ward": 28,
+      "division": 15
+    },
+    {
+      "Candidate": "Ted Cruz",
+      "Ted Cruz": "1",
+      "ward": 28,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "Ted Cruz": "1",
+      "ward": 28,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Ben Carson": "Ben Carson",
+      "Donald J Trump": "Donald J Trump",
+      "Ted Cruz": "Ted Cruz",
+      "ward": 28,
+      "division": 16
+    },
+    {
+      "Candidate": "Ben Carson",
+      "Ben Carson": "1",
+      "Donald J Trump": "0",
+      "Ted Cruz": "0",
+      "ward": 28,
+      "division": 16
+    },
+    {
+      "Candidate": "Donald J Trump",
+      "Ben Carson": "",
+      "Donald J Trump": "1",
+      "Ted Cruz": "0",
+      "ward": 28,
+      "division": 16
+    },
+    {
+      "Candidate": "Ted Cruz",
+      "Ben Carson": "",
+      "Donald J Trump": "",
+      "Ted Cruz": "1",
+      "ward": 28,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "Ben Carson": "1",
+      "Donald J Trump": "1",
+      "Ted Cruz": "1",
+      "ward": 28,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "John R Kasich": "John R Kasich",
+      "ward": 28,
+      "division": 17
+    },
+    {
+      "Candidate": "John R Kasich",
+      "John R Kasich": "1",
+      "ward": 28,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "John R Kasich": "1",
+      "ward": 28,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Donald J Trump": "Donald J Trump",
+      "John R Kasich": "John R Kasich",
+      "ward": 28,
+      "division": 18
+    },
+    {
+      "Candidate": "Donald J Trump",
+      "Donald J Trump": "1",
+      "John R Kasich": "0",
+      "ward": 28,
+      "division": 18
+    },
+    {
+      "Candidate": "John R Kasich",
+      "Donald J Trump": "",
+      "John R Kasich": "1",
+      "ward": 28,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "Donald J Trump": "1",
+      "John R Kasich": "1",
+      "ward": 28,
+      "division": 18
+    }
+  ]
+]

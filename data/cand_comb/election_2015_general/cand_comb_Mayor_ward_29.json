@@ -1,0 +1,798 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Jim Kenney": "Jim Kenney",
+      "Melissa Murray Bailey": "Melissa Murray Bailey",
+      "James Foster": "James Foster",
+      "Boris Kindij": "Boris Kindij",
+      "Osborne Hart": "Osborne Hart",
+      "Write In": "Write In",
+      "ward": 29,
+      "division": "All"
+    },
+    {
+      "Candidate": "Jim Kenney",
+      "Jim Kenney": "1,561",
+      "Melissa Murray Bailey": "0",
+      "James Foster": "0",
+      "Boris Kindij": "0",
+      "Osborne Hart": "0",
+      "Write In": "0",
+      "ward": 29,
+      "division": "All"
+    },
+    {
+      "Candidate": "Melissa Murray Bailey",
+      "Jim Kenney": "",
+      "Melissa Murray Bailey": "83",
+      "James Foster": "0",
+      "Boris Kindij": "0",
+      "Osborne Hart": "0",
+      "Write In": "0",
+      "ward": 29,
+      "division": "All"
+    },
+    {
+      "Candidate": "James Foster",
+      "Jim Kenney": "",
+      "Melissa Murray Bailey": "",
+      "James Foster": "8",
+      "Boris Kindij": "0",
+      "Osborne Hart": "0",
+      "Write In": "0",
+      "ward": 29,
+      "division": "All"
+    },
+    {
+      "Candidate": "Boris Kindij",
+      "Jim Kenney": "",
+      "Melissa Murray Bailey": "",
+      "James Foster": "",
+      "Boris Kindij": "4",
+      "Osborne Hart": "0",
+      "Write In": "0",
+      "ward": 29,
+      "division": "All"
+    },
+    {
+      "Candidate": "Osborne Hart",
+      "Jim Kenney": "",
+      "Melissa Murray Bailey": "",
+      "James Foster": "",
+      "Boris Kindij": "",
+      "Osborne Hart": "4",
+      "Write In": "0",
+      "ward": 29,
+      "division": "All"
+    },
+    {
+      "Candidate": "Write In",
+      "Jim Kenney": "",
+      "Melissa Murray Bailey": "",
+      "James Foster": "",
+      "Boris Kindij": "",
+      "Osborne Hart": "",
+      "Write In": "1",
+      "ward": 29,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Jim Kenney": "1,561",
+      "Melissa Murray Bailey": "83",
+      "James Foster": "8",
+      "Boris Kindij": "4",
+      "Osborne Hart": "4",
+      "Write In": "1",
+      "ward": 29,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Jim Kenney": "Jim Kenney",
+      "Melissa Murray Bailey": "Melissa Murray Bailey",
+      "ward": 29,
+      "division": 1
+    },
+    {
+      "Candidate": "Jim Kenney",
+      "Jim Kenney": "65",
+      "Melissa Murray Bailey": "0",
+      "ward": 29,
+      "division": 1
+    },
+    {
+      "Candidate": "Melissa Murray Bailey",
+      "Jim Kenney": "",
+      "Melissa Murray Bailey": "4",
+      "ward": 29,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Jim Kenney": "65",
+      "Melissa Murray Bailey": "4",
+      "ward": 29,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Jim Kenney": "Jim Kenney",
+      "ward": 29,
+      "division": 2
+    },
+    {
+      "Candidate": "Jim Kenney",
+      "Jim Kenney": "36",
+      "ward": 29,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "Jim Kenney": "36",
+      "ward": 29,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Jim Kenney": "Jim Kenney",
+      "Melissa Murray Bailey": "Melissa Murray Bailey",
+      "Boris Kindij": "Boris Kindij",
+      "James Foster": "James Foster",
+      "Osborne Hart": "Osborne Hart",
+      "Write In": "Write In",
+      "ward": 29,
+      "division": 3
+    },
+    {
+      "Candidate": "Jim Kenney",
+      "Jim Kenney": "168",
+      "Melissa Murray Bailey": "0",
+      "Boris Kindij": "0",
+      "James Foster": "0",
+      "Osborne Hart": "0",
+      "Write In": "0",
+      "ward": 29,
+      "division": 3
+    },
+    {
+      "Candidate": "Melissa Murray Bailey",
+      "Jim Kenney": "",
+      "Melissa Murray Bailey": "11",
+      "Boris Kindij": "0",
+      "James Foster": "0",
+      "Osborne Hart": "0",
+      "Write In": "0",
+      "ward": 29,
+      "division": 3
+    },
+    {
+      "Candidate": "Boris Kindij",
+      "Jim Kenney": "",
+      "Melissa Murray Bailey": "",
+      "Boris Kindij": "2",
+      "James Foster": "0",
+      "Osborne Hart": "0",
+      "Write In": "0",
+      "ward": 29,
+      "division": 3
+    },
+    {
+      "Candidate": "James Foster",
+      "Jim Kenney": "",
+      "Melissa Murray Bailey": "",
+      "Boris Kindij": "",
+      "James Foster": "2",
+      "Osborne Hart": "0",
+      "Write In": "0",
+      "ward": 29,
+      "division": 3
+    },
+    {
+      "Candidate": "Osborne Hart",
+      "Jim Kenney": "",
+      "Melissa Murray Bailey": "",
+      "Boris Kindij": "",
+      "James Foster": "",
+      "Osborne Hart": "1",
+      "Write In": "0",
+      "ward": 29,
+      "division": 3
+    },
+    {
+      "Candidate": "Write In",
+      "Jim Kenney": "",
+      "Melissa Murray Bailey": "",
+      "Boris Kindij": "",
+      "James Foster": "",
+      "Osborne Hart": "",
+      "Write In": "1",
+      "ward": 29,
+      "division": 3
+    },
+    {
+      "Candidate": "Total",
+      "Jim Kenney": "168",
+      "Melissa Murray Bailey": "11",
+      "Boris Kindij": "2",
+      "James Foster": "2",
+      "Osborne Hart": "1",
+      "Write In": "1",
+      "ward": 29,
+      "division": 3
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Jim Kenney": "Jim Kenney",
+      "Melissa Murray Bailey": "Melissa Murray Bailey",
+      "Boris Kindij": "Boris Kindij",
+      "Osborne Hart": "Osborne Hart",
+      "ward": 29,
+      "division": 4
+    },
+    {
+      "Candidate": "Jim Kenney",
+      "Jim Kenney": "51",
+      "Melissa Murray Bailey": "0",
+      "Boris Kindij": "0",
+      "Osborne Hart": "0",
+      "ward": 29,
+      "division": 4
+    },
+    {
+      "Candidate": "Melissa Murray Bailey",
+      "Jim Kenney": "",
+      "Melissa Murray Bailey": "2",
+      "Boris Kindij": "0",
+      "Osborne Hart": "0",
+      "ward": 29,
+      "division": 4
+    },
+    {
+      "Candidate": "Boris Kindij",
+      "Jim Kenney": "",
+      "Melissa Murray Bailey": "",
+      "Boris Kindij": "1",
+      "Osborne Hart": "0",
+      "ward": 29,
+      "division": 4
+    },
+    {
+      "Candidate": "Osborne Hart",
+      "Jim Kenney": "",
+      "Melissa Murray Bailey": "",
+      "Boris Kindij": "",
+      "Osborne Hart": "1",
+      "ward": 29,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Jim Kenney": "51",
+      "Melissa Murray Bailey": "2",
+      "Boris Kindij": "1",
+      "Osborne Hart": "1",
+      "ward": 29,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Jim Kenney": "Jim Kenney",
+      "James Foster": "James Foster",
+      "ward": 29,
+      "division": 5
+    },
+    {
+      "Candidate": "Jim Kenney",
+      "Jim Kenney": "36",
+      "James Foster": "0",
+      "ward": 29,
+      "division": 5
+    },
+    {
+      "Candidate": "James Foster",
+      "Jim Kenney": "",
+      "James Foster": "1",
+      "ward": 29,
+      "division": 5
+    },
+    {
+      "Candidate": "Total",
+      "Jim Kenney": "36",
+      "James Foster": "1",
+      "ward": 29,
+      "division": 5
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Jim Kenney": "Jim Kenney",
+      "Melissa Murray Bailey": "Melissa Murray Bailey",
+      "James Foster": "James Foster",
+      "ward": 29,
+      "division": 6
+    },
+    {
+      "Candidate": "Jim Kenney",
+      "Jim Kenney": "52",
+      "Melissa Murray Bailey": "0",
+      "James Foster": "0",
+      "ward": 29,
+      "division": 6
+    },
+    {
+      "Candidate": "Melissa Murray Bailey",
+      "Jim Kenney": "",
+      "Melissa Murray Bailey": "2",
+      "James Foster": "0",
+      "ward": 29,
+      "division": 6
+    },
+    {
+      "Candidate": "James Foster",
+      "Jim Kenney": "",
+      "Melissa Murray Bailey": "",
+      "James Foster": "1",
+      "ward": 29,
+      "division": 6
+    },
+    {
+      "Candidate": "Total",
+      "Jim Kenney": "52",
+      "Melissa Murray Bailey": "2",
+      "James Foster": "1",
+      "ward": 29,
+      "division": 6
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Jim Kenney": "Jim Kenney",
+      "ward": 29,
+      "division": 7
+    },
+    {
+      "Candidate": "Jim Kenney",
+      "Jim Kenney": "24",
+      "ward": 29,
+      "division": 7
+    },
+    {
+      "Candidate": "Total",
+      "Jim Kenney": "24",
+      "ward": 29,
+      "division": 7
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Jim Kenney": "Jim Kenney",
+      "Melissa Murray Bailey": "Melissa Murray Bailey",
+      "ward": 29,
+      "division": 8
+    },
+    {
+      "Candidate": "Jim Kenney",
+      "Jim Kenney": "57",
+      "Melissa Murray Bailey": "0",
+      "ward": 29,
+      "division": 8
+    },
+    {
+      "Candidate": "Melissa Murray Bailey",
+      "Jim Kenney": "",
+      "Melissa Murray Bailey": "3",
+      "ward": 29,
+      "division": 8
+    },
+    {
+      "Candidate": "Total",
+      "Jim Kenney": "57",
+      "Melissa Murray Bailey": "3",
+      "ward": 29,
+      "division": 8
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Jim Kenney": "Jim Kenney",
+      "Melissa Murray Bailey": "Melissa Murray Bailey",
+      "ward": 29,
+      "division": 9
+    },
+    {
+      "Candidate": "Jim Kenney",
+      "Jim Kenney": "62",
+      "Melissa Murray Bailey": "0",
+      "ward": 29,
+      "division": 9
+    },
+    {
+      "Candidate": "Melissa Murray Bailey",
+      "Jim Kenney": "",
+      "Melissa Murray Bailey": "2",
+      "ward": 29,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "Jim Kenney": "62",
+      "Melissa Murray Bailey": "2",
+      "ward": 29,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Jim Kenney": "Jim Kenney",
+      "Melissa Murray Bailey": "Melissa Murray Bailey",
+      "Boris Kindij": "Boris Kindij",
+      "James Foster": "James Foster",
+      "ward": 29,
+      "division": 10
+    },
+    {
+      "Candidate": "Jim Kenney",
+      "Jim Kenney": "166",
+      "Melissa Murray Bailey": "0",
+      "Boris Kindij": "0",
+      "James Foster": "0",
+      "ward": 29,
+      "division": 10
+    },
+    {
+      "Candidate": "Melissa Murray Bailey",
+      "Jim Kenney": "",
+      "Melissa Murray Bailey": "15",
+      "Boris Kindij": "0",
+      "James Foster": "0",
+      "ward": 29,
+      "division": 10
+    },
+    {
+      "Candidate": "Boris Kindij",
+      "Jim Kenney": "",
+      "Melissa Murray Bailey": "",
+      "Boris Kindij": "1",
+      "James Foster": "0",
+      "ward": 29,
+      "division": 10
+    },
+    {
+      "Candidate": "James Foster",
+      "Jim Kenney": "",
+      "Melissa Murray Bailey": "",
+      "Boris Kindij": "",
+      "James Foster": "1",
+      "ward": 29,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "Jim Kenney": "166",
+      "Melissa Murray Bailey": "15",
+      "Boris Kindij": "1",
+      "James Foster": "1",
+      "ward": 29,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Jim Kenney": "Jim Kenney",
+      "Melissa Murray Bailey": "Melissa Murray Bailey",
+      "James Foster": "James Foster",
+      "Osborne Hart": "Osborne Hart",
+      "ward": 29,
+      "division": 11
+    },
+    {
+      "Candidate": "Jim Kenney",
+      "Jim Kenney": "101",
+      "Melissa Murray Bailey": "0",
+      "James Foster": "0",
+      "Osborne Hart": "0",
+      "ward": 29,
+      "division": 11
+    },
+    {
+      "Candidate": "Melissa Murray Bailey",
+      "Jim Kenney": "",
+      "Melissa Murray Bailey": "10",
+      "James Foster": "0",
+      "Osborne Hart": "0",
+      "ward": 29,
+      "division": 11
+    },
+    {
+      "Candidate": "James Foster",
+      "Jim Kenney": "",
+      "Melissa Murray Bailey": "",
+      "James Foster": "1",
+      "Osborne Hart": "0",
+      "ward": 29,
+      "division": 11
+    },
+    {
+      "Candidate": "Osborne Hart",
+      "Jim Kenney": "",
+      "Melissa Murray Bailey": "",
+      "James Foster": "",
+      "Osborne Hart": "1",
+      "ward": 29,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Jim Kenney": "101",
+      "Melissa Murray Bailey": "10",
+      "James Foster": "1",
+      "Osborne Hart": "1",
+      "ward": 29,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Jim Kenney": "Jim Kenney",
+      "Melissa Murray Bailey": "Melissa Murray Bailey",
+      "James Foster": "James Foster",
+      "ward": 29,
+      "division": 12
+    },
+    {
+      "Candidate": "Jim Kenney",
+      "Jim Kenney": "121",
+      "Melissa Murray Bailey": "0",
+      "James Foster": "0",
+      "ward": 29,
+      "division": 12
+    },
+    {
+      "Candidate": "Melissa Murray Bailey",
+      "Jim Kenney": "",
+      "Melissa Murray Bailey": "6",
+      "James Foster": "0",
+      "ward": 29,
+      "division": 12
+    },
+    {
+      "Candidate": "James Foster",
+      "Jim Kenney": "",
+      "Melissa Murray Bailey": "",
+      "James Foster": "1",
+      "ward": 29,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Jim Kenney": "121",
+      "Melissa Murray Bailey": "6",
+      "James Foster": "1",
+      "ward": 29,
+      "division": 12
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Jim Kenney": "Jim Kenney",
+      "Melissa Murray Bailey": "Melissa Murray Bailey",
+      "ward": 29,
+      "division": 13
+    },
+    {
+      "Candidate": "Jim Kenney",
+      "Jim Kenney": "136",
+      "Melissa Murray Bailey": "0",
+      "ward": 29,
+      "division": 13
+    },
+    {
+      "Candidate": "Melissa Murray Bailey",
+      "Jim Kenney": "",
+      "Melissa Murray Bailey": "7",
+      "ward": 29,
+      "division": 13
+    },
+    {
+      "Candidate": "Total",
+      "Jim Kenney": "136",
+      "Melissa Murray Bailey": "7",
+      "ward": 29,
+      "division": 13
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Jim Kenney": "Jim Kenney",
+      "Melissa Murray Bailey": "Melissa Murray Bailey",
+      "Osborne Hart": "Osborne Hart",
+      "ward": 29,
+      "division": 14
+    },
+    {
+      "Candidate": "Jim Kenney",
+      "Jim Kenney": "73",
+      "Melissa Murray Bailey": "0",
+      "Osborne Hart": "0",
+      "ward": 29,
+      "division": 14
+    },
+    {
+      "Candidate": "Melissa Murray Bailey",
+      "Jim Kenney": "",
+      "Melissa Murray Bailey": "4",
+      "Osborne Hart": "0",
+      "ward": 29,
+      "division": 14
+    },
+    {
+      "Candidate": "Osborne Hart",
+      "Jim Kenney": "",
+      "Melissa Murray Bailey": "",
+      "Osborne Hart": "1",
+      "ward": 29,
+      "division": 14
+    },
+    {
+      "Candidate": "Total",
+      "Jim Kenney": "73",
+      "Melissa Murray Bailey": "4",
+      "Osborne Hart": "1",
+      "ward": 29,
+      "division": 14
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Jim Kenney": "Jim Kenney",
+      "Melissa Murray Bailey": "Melissa Murray Bailey",
+      "ward": 29,
+      "division": 15
+    },
+    {
+      "Candidate": "Jim Kenney",
+      "Jim Kenney": "92",
+      "Melissa Murray Bailey": "0",
+      "ward": 29,
+      "division": 15
+    },
+    {
+      "Candidate": "Melissa Murray Bailey",
+      "Jim Kenney": "",
+      "Melissa Murray Bailey": "2",
+      "ward": 29,
+      "division": 15
+    },
+    {
+      "Candidate": "Total",
+      "Jim Kenney": "92",
+      "Melissa Murray Bailey": "2",
+      "ward": 29,
+      "division": 15
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Jim Kenney": "Jim Kenney",
+      "Melissa Murray Bailey": "Melissa Murray Bailey",
+      "James Foster": "James Foster",
+      "ward": 29,
+      "division": 16
+    },
+    {
+      "Candidate": "Jim Kenney",
+      "Jim Kenney": "113",
+      "Melissa Murray Bailey": "0",
+      "James Foster": "0",
+      "ward": 29,
+      "division": 16
+    },
+    {
+      "Candidate": "Melissa Murray Bailey",
+      "Jim Kenney": "",
+      "Melissa Murray Bailey": "4",
+      "James Foster": "0",
+      "ward": 29,
+      "division": 16
+    },
+    {
+      "Candidate": "James Foster",
+      "Jim Kenney": "",
+      "Melissa Murray Bailey": "",
+      "James Foster": "1",
+      "ward": 29,
+      "division": 16
+    },
+    {
+      "Candidate": "Total",
+      "Jim Kenney": "113",
+      "Melissa Murray Bailey": "4",
+      "James Foster": "1",
+      "ward": 29,
+      "division": 16
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Jim Kenney": "Jim Kenney",
+      "Melissa Murray Bailey": "Melissa Murray Bailey",
+      "ward": 29,
+      "division": 17
+    },
+    {
+      "Candidate": "Jim Kenney",
+      "Jim Kenney": "79",
+      "Melissa Murray Bailey": "0",
+      "ward": 29,
+      "division": 17
+    },
+    {
+      "Candidate": "Melissa Murray Bailey",
+      "Jim Kenney": "",
+      "Melissa Murray Bailey": "7",
+      "ward": 29,
+      "division": 17
+    },
+    {
+      "Candidate": "Total",
+      "Jim Kenney": "79",
+      "Melissa Murray Bailey": "7",
+      "ward": 29,
+      "division": 17
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Jim Kenney": "Jim Kenney",
+      "Melissa Murray Bailey": "Melissa Murray Bailey",
+      "ward": 29,
+      "division": 18
+    },
+    {
+      "Candidate": "Jim Kenney",
+      "Jim Kenney": "129",
+      "Melissa Murray Bailey": "0",
+      "ward": 29,
+      "division": 18
+    },
+    {
+      "Candidate": "Melissa Murray Bailey",
+      "Jim Kenney": "",
+      "Melissa Murray Bailey": "4",
+      "ward": 29,
+      "division": 18
+    },
+    {
+      "Candidate": "Total",
+      "Jim Kenney": "129",
+      "Melissa Murray Bailey": "4",
+      "ward": 29,
+      "division": 18
+    }
+  ]
+]

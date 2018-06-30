@@ -13,38 +13,38 @@
     {
       "Candidate": "Barack Obama",
       "Barack Obama": "10,524",
-      "Mitt Romney": " 0",
-      "Jill Stein": " 0",
-      "Gary Johnson": " 0",
+      "Mitt Romney": "0",
+      "Jill Stein": "0",
+      "Gary Johnson": "0",
       "Write In": "0",
       "ward": 51,
       "division": "All"
     },
     {
       "Candidate": "Mitt Romney",
-      "Barack Obama": "    NA",
+      "Barack Obama": "",
       "Mitt Romney": "94",
-      "Jill Stein": " 0",
-      "Gary Johnson": " 0",
+      "Jill Stein": "0",
+      "Gary Johnson": "0",
       "Write In": "0",
       "ward": 51,
       "division": "All"
     },
     {
       "Candidate": "Jill Stein",
-      "Barack Obama": "    NA",
-      "Mitt Romney": "NA",
+      "Barack Obama": "",
+      "Mitt Romney": "",
       "Jill Stein": "17",
-      "Gary Johnson": " 0",
+      "Gary Johnson": "0",
       "Write In": "0",
       "ward": 51,
       "division": "All"
     },
     {
       "Candidate": "Gary Johnson",
-      "Barack Obama": "    NA",
-      "Mitt Romney": "NA",
-      "Jill Stein": "NA",
+      "Barack Obama": "",
+      "Mitt Romney": "",
+      "Jill Stein": "",
       "Gary Johnson": "14",
       "Write In": "0",
       "ward": 51,
@@ -52,10 +52,10 @@
     },
     {
       "Candidate": "Write In",
-      "Barack Obama": "    NA",
-      "Mitt Romney": "NA",
-      "Jill Stein": "NA",
-      "Gary Johnson": "NA",
+      "Barack Obama": "",
+      "Mitt Romney": "",
+      "Jill Stein": "",
+      "Gary Johnson": "",
       "Write In": "1",
       "ward": 51,
       "division": "All"
@@ -83,23 +83,23 @@
     {
       "Candidate": "Barack Obama",
       "Barack Obama": "366",
-      "Jill Stein": " 0",
+      "Jill Stein": "0",
       "Mitt Romney": "0",
       "ward": 51,
       "division": 1
     },
     {
       "Candidate": "Jill Stein",
-      "Barack Obama": " NA",
-      "Jill Stein": " 1",
+      "Barack Obama": "",
+      "Jill Stein": "1",
       "Mitt Romney": "0",
       "ward": 51,
       "division": 1
     },
     {
       "Candidate": "Mitt Romney",
-      "Barack Obama": " NA",
-      "Jill Stein": "NA",
+      "Barack Obama": "",
+      "Jill Stein": "",
       "Mitt Romney": "1",
       "ward": 51,
       "division": 1
@@ -107,7 +107,7 @@
     {
       "Candidate": "Total",
       "Barack Obama": "366",
-      "Jill Stein": " 1",
+      "Jill Stein": "1",
       "Mitt Romney": "1",
       "ward": 51,
       "division": 1
@@ -126,35 +126,35 @@
     {
       "Candidate": "Barack Obama",
       "Barack Obama": "315",
-      "Gary Johnson": " 0",
-      "Jill Stein": " 0",
+      "Gary Johnson": "0",
+      "Jill Stein": "0",
       "Mitt Romney": "0",
       "ward": 51,
       "division": 2
     },
     {
       "Candidate": "Gary Johnson",
-      "Barack Obama": " NA",
-      "Gary Johnson": " 3",
-      "Jill Stein": " 0",
+      "Barack Obama": "",
+      "Gary Johnson": "3",
+      "Jill Stein": "0",
       "Mitt Romney": "0",
       "ward": 51,
       "division": 2
     },
     {
       "Candidate": "Jill Stein",
-      "Barack Obama": " NA",
-      "Gary Johnson": "NA",
-      "Jill Stein": " 1",
+      "Barack Obama": "",
+      "Gary Johnson": "",
+      "Jill Stein": "1",
       "Mitt Romney": "0",
       "ward": 51,
       "division": 2
     },
     {
       "Candidate": "Mitt Romney",
-      "Barack Obama": " NA",
-      "Gary Johnson": "NA",
-      "Jill Stein": "NA",
+      "Barack Obama": "",
+      "Gary Johnson": "",
+      "Jill Stein": "",
       "Mitt Romney": "1",
       "ward": 51,
       "division": 2
@@ -162,8 +162,8 @@
     {
       "Candidate": "Total",
       "Barack Obama": "315",
-      "Gary Johnson": " 3",
-      "Jill Stein": " 1",
+      "Gary Johnson": "3",
+      "Jill Stein": "1",
       "Mitt Romney": "1",
       "ward": 51,
       "division": 2
@@ -206,7 +206,7 @@
     },
     {
       "Candidate": "Mitt Romney",
-      "Barack Obama": " NA",
+      "Barack Obama": "",
       "Mitt Romney": "4",
       "ward": 51,
       "division": 4
@@ -232,35 +232,35 @@
     {
       "Candidate": "Barack Obama",
       "Barack Obama": "380",
-      "Gary Johnson": " 0",
-      "Jill Stein": " 0",
+      "Gary Johnson": "0",
+      "Jill Stein": "0",
       "Mitt Romney": "0",
       "ward": 51,
       "division": 5
     },
     {
       "Candidate": "Gary Johnson",
-      "Barack Obama": " NA",
-      "Gary Johnson": " 1",
-      "Jill Stein": " 0",
+      "Barack Obama": "",
+      "Gary Johnson": "1",
+      "Jill Stein": "0",
       "Mitt Romney": "0",
       "ward": 51,
       "division": 5
     },
     {
       "Candidate": "Jill Stein",
-      "Barack Obama": " NA",
-      "Gary Johnson": "NA",
-      "Jill Stein": " 1",
+      "Barack Obama": "",
+      "Gary Johnson": "",
+      "Jill Stein": "1",
       "Mitt Romney": "0",
       "ward": 51,
       "division": 5
     },
     {
       "Candidate": "Mitt Romney",
-      "Barack Obama": " NA",
-      "Gary Johnson": "NA",
-      "Jill Stein": "NA",
+      "Barack Obama": "",
+      "Gary Johnson": "",
+      "Jill Stein": "",
       "Mitt Romney": "1",
       "ward": 51,
       "division": 5
@@ -268,8 +268,8 @@
     {
       "Candidate": "Total",
       "Barack Obama": "380",
-      "Gary Johnson": " 1",
-      "Jill Stein": " 1",
+      "Gary Johnson": "1",
+      "Jill Stein": "1",
       "Mitt Romney": "1",
       "ward": 51,
       "division": 5
@@ -289,49 +289,49 @@
     {
       "Candidate": "Barack Obama",
       "Barack Obama": "438",
-      "Jill Stein": " 0",
-      "Mitt Romney": " 0",
-      "Gary Johnson": " 0",
+      "Jill Stein": "0",
+      "Mitt Romney": "0",
+      "Gary Johnson": "0",
       "Write In": "0",
       "ward": 51,
       "division": 6
     },
     {
       "Candidate": "Jill Stein",
-      "Barack Obama": " NA",
-      "Jill Stein": " 7",
-      "Mitt Romney": " 0",
-      "Gary Johnson": " 0",
+      "Barack Obama": "",
+      "Jill Stein": "7",
+      "Mitt Romney": "0",
+      "Gary Johnson": "0",
       "Write In": "0",
       "ward": 51,
       "division": 6
     },
     {
       "Candidate": "Mitt Romney",
-      "Barack Obama": " NA",
-      "Jill Stein": "NA",
-      "Mitt Romney": " 7",
-      "Gary Johnson": " 0",
+      "Barack Obama": "",
+      "Jill Stein": "",
+      "Mitt Romney": "7",
+      "Gary Johnson": "0",
       "Write In": "0",
       "ward": 51,
       "division": 6
     },
     {
       "Candidate": "Gary Johnson",
-      "Barack Obama": " NA",
-      "Jill Stein": "NA",
-      "Mitt Romney": "NA",
-      "Gary Johnson": " 4",
+      "Barack Obama": "",
+      "Jill Stein": "",
+      "Mitt Romney": "",
+      "Gary Johnson": "4",
       "Write In": "0",
       "ward": 51,
       "division": 6
     },
     {
       "Candidate": "Write In",
-      "Barack Obama": " NA",
-      "Jill Stein": "NA",
-      "Mitt Romney": "NA",
-      "Gary Johnson": "NA",
+      "Barack Obama": "",
+      "Jill Stein": "",
+      "Mitt Romney": "",
+      "Gary Johnson": "",
       "Write In": "1",
       "ward": 51,
       "division": 6
@@ -339,9 +339,9 @@
     {
       "Candidate": "Total",
       "Barack Obama": "438",
-      "Jill Stein": " 7",
-      "Mitt Romney": " 7",
-      "Gary Johnson": " 4",
+      "Jill Stein": "7",
+      "Mitt Romney": "7",
+      "Gary Johnson": "4",
       "Write In": "1",
       "ward": 51,
       "division": 6
@@ -364,7 +364,7 @@
     },
     {
       "Candidate": "Mitt Romney",
-      "Barack Obama": " NA",
+      "Barack Obama": "",
       "Mitt Romney": "2",
       "ward": 51,
       "division": 7
@@ -394,7 +394,7 @@
     },
     {
       "Candidate": "Mitt Romney",
-      "Barack Obama": " NA",
+      "Barack Obama": "",
       "Mitt Romney": "3",
       "ward": 51,
       "division": 8
@@ -444,7 +444,7 @@
     },
     {
       "Candidate": "Mitt Romney",
-      "Barack Obama": " NA",
+      "Barack Obama": "",
       "Mitt Romney": "27",
       "ward": 51,
       "division": 10
@@ -474,7 +474,7 @@
     },
     {
       "Candidate": "Mitt Romney",
-      "Barack Obama": " NA",
+      "Barack Obama": "",
       "Mitt Romney": "3",
       "ward": 51,
       "division": 11
@@ -500,35 +500,35 @@
     {
       "Candidate": "Barack Obama",
       "Barack Obama": "412",
-      "Mitt Romney": " 0",
-      "Gary Johnson": " 0",
+      "Mitt Romney": "0",
+      "Gary Johnson": "0",
       "Jill Stein": "0",
       "ward": 51,
       "division": 12
     },
     {
       "Candidate": "Mitt Romney",
-      "Barack Obama": " NA",
-      "Mitt Romney": " 5",
-      "Gary Johnson": " 0",
+      "Barack Obama": "",
+      "Mitt Romney": "5",
+      "Gary Johnson": "0",
       "Jill Stein": "0",
       "ward": 51,
       "division": 12
     },
     {
       "Candidate": "Gary Johnson",
-      "Barack Obama": " NA",
-      "Mitt Romney": "NA",
-      "Gary Johnson": " 1",
+      "Barack Obama": "",
+      "Mitt Romney": "",
+      "Gary Johnson": "1",
       "Jill Stein": "0",
       "ward": 51,
       "division": 12
     },
     {
       "Candidate": "Jill Stein",
-      "Barack Obama": " NA",
-      "Mitt Romney": "NA",
-      "Gary Johnson": "NA",
+      "Barack Obama": "",
+      "Mitt Romney": "",
+      "Gary Johnson": "",
       "Jill Stein": "1",
       "ward": 51,
       "division": 12
@@ -536,8 +536,8 @@
     {
       "Candidate": "Total",
       "Barack Obama": "412",
-      "Mitt Romney": " 5",
-      "Gary Johnson": " 1",
+      "Mitt Romney": "5",
+      "Gary Johnson": "1",
       "Jill Stein": "1",
       "ward": 51,
       "division": 12
@@ -555,23 +555,23 @@
     {
       "Candidate": "Barack Obama",
       "Barack Obama": "399",
-      "Mitt Romney": " 0",
+      "Mitt Romney": "0",
       "Jill Stein": "0",
       "ward": 51,
       "division": 13
     },
     {
       "Candidate": "Mitt Romney",
-      "Barack Obama": " NA",
-      "Mitt Romney": " 5",
+      "Barack Obama": "",
+      "Mitt Romney": "5",
       "Jill Stein": "0",
       "ward": 51,
       "division": 13
     },
     {
       "Candidate": "Jill Stein",
-      "Barack Obama": " NA",
-      "Mitt Romney": "NA",
+      "Barack Obama": "",
+      "Mitt Romney": "",
       "Jill Stein": "2",
       "ward": 51,
       "division": 13
@@ -579,7 +579,7 @@
     {
       "Candidate": "Total",
       "Barack Obama": "399",
-      "Mitt Romney": " 5",
+      "Mitt Romney": "5",
       "Jill Stein": "2",
       "ward": 51,
       "division": 13
@@ -597,23 +597,23 @@
     {
       "Candidate": "Barack Obama",
       "Barack Obama": "466",
-      "Jill Stein": " 0",
+      "Jill Stein": "0",
       "Mitt Romney": "0",
       "ward": 51,
       "division": 14
     },
     {
       "Candidate": "Jill Stein",
-      "Barack Obama": " NA",
-      "Jill Stein": " 2",
+      "Barack Obama": "",
+      "Jill Stein": "2",
       "Mitt Romney": "0",
       "ward": 51,
       "division": 14
     },
     {
       "Candidate": "Mitt Romney",
-      "Barack Obama": " NA",
-      "Jill Stein": "NA",
+      "Barack Obama": "",
+      "Jill Stein": "",
       "Mitt Romney": "2",
       "ward": 51,
       "division": 14
@@ -621,7 +621,7 @@
     {
       "Candidate": "Total",
       "Barack Obama": "466",
-      "Jill Stein": " 2",
+      "Jill Stein": "2",
       "Mitt Romney": "2",
       "ward": 51,
       "division": 14
@@ -644,7 +644,7 @@
     },
     {
       "Candidate": "Mitt Romney",
-      "Barack Obama": " NA",
+      "Barack Obama": "",
       "Mitt Romney": "2",
       "ward": 51,
       "division": 15
@@ -674,7 +674,7 @@
     },
     {
       "Candidate": "Mitt Romney",
-      "Barack Obama": " NA",
+      "Barack Obama": "",
       "Mitt Romney": "2",
       "ward": 51,
       "division": 16
@@ -699,23 +699,23 @@
     {
       "Candidate": "Barack Obama",
       "Barack Obama": "362",
-      "Mitt Romney": " 0",
+      "Mitt Romney": "0",
       "Gary Johnson": "0",
       "ward": 51,
       "division": 17
     },
     {
       "Candidate": "Mitt Romney",
-      "Barack Obama": " NA",
-      "Mitt Romney": " 4",
+      "Barack Obama": "",
+      "Mitt Romney": "4",
       "Gary Johnson": "0",
       "ward": 51,
       "division": 17
     },
     {
       "Candidate": "Gary Johnson",
-      "Barack Obama": " NA",
-      "Mitt Romney": "NA",
+      "Barack Obama": "",
+      "Mitt Romney": "",
       "Gary Johnson": "1",
       "ward": 51,
       "division": 17
@@ -723,7 +723,7 @@
     {
       "Candidate": "Total",
       "Barack Obama": "362",
-      "Mitt Romney": " 4",
+      "Mitt Romney": "4",
       "Gary Johnson": "1",
       "ward": 51,
       "division": 17
@@ -741,23 +741,23 @@
     {
       "Candidate": "Barack Obama",
       "Barack Obama": "422",
-      "Jill Stein": " 0",
+      "Jill Stein": "0",
       "Mitt Romney": "0",
       "ward": 51,
       "division": 18
     },
     {
       "Candidate": "Jill Stein",
-      "Barack Obama": " NA",
-      "Jill Stein": " 1",
+      "Barack Obama": "",
+      "Jill Stein": "1",
       "Mitt Romney": "0",
       "ward": 51,
       "division": 18
     },
     {
       "Candidate": "Mitt Romney",
-      "Barack Obama": " NA",
-      "Jill Stein": "NA",
+      "Barack Obama": "",
+      "Jill Stein": "",
       "Mitt Romney": "1",
       "ward": 51,
       "division": 18
@@ -765,7 +765,7 @@
     {
       "Candidate": "Total",
       "Barack Obama": "422",
-      "Jill Stein": " 1",
+      "Jill Stein": "1",
       "Mitt Romney": "1",
       "ward": 51,
       "division": 18
@@ -788,7 +788,7 @@
     },
     {
       "Candidate": "Mitt Romney",
-      "Barack Obama": " NA",
+      "Barack Obama": "",
       "Mitt Romney": "1",
       "ward": 51,
       "division": 19
@@ -818,7 +818,7 @@
     },
     {
       "Candidate": "Mitt Romney",
-      "Barack Obama": " NA",
+      "Barack Obama": "",
       "Mitt Romney": "5",
       "ward": 51,
       "division": 20
@@ -848,7 +848,7 @@
     },
     {
       "Candidate": "Mitt Romney",
-      "Barack Obama": " NA",
+      "Barack Obama": "",
       "Mitt Romney": "1",
       "ward": 51,
       "division": 21
@@ -878,7 +878,7 @@
     },
     {
       "Candidate": "Mitt Romney",
-      "Barack Obama": " NA",
+      "Barack Obama": "",
       "Mitt Romney": "3",
       "ward": 51,
       "division": 22
@@ -908,7 +908,7 @@
     },
     {
       "Candidate": "Mitt Romney",
-      "Barack Obama": " NA",
+      "Barack Obama": "",
       "Mitt Romney": "3",
       "ward": 51,
       "division": 23
@@ -938,7 +938,7 @@
     },
     {
       "Candidate": "Mitt Romney",
-      "Barack Obama": " NA",
+      "Barack Obama": "",
       "Mitt Romney": "3",
       "ward": 51,
       "division": 24
@@ -964,35 +964,35 @@
     {
       "Candidate": "Barack Obama",
       "Barack Obama": "502",
-      "Mitt Romney": " 0",
-      "Gary Johnson": " 0",
+      "Mitt Romney": "0",
+      "Gary Johnson": "0",
       "Jill Stein": "0",
       "ward": 51,
       "division": 25
     },
     {
       "Candidate": "Mitt Romney",
-      "Barack Obama": " NA",
-      "Mitt Romney": " 4",
-      "Gary Johnson": " 0",
+      "Barack Obama": "",
+      "Mitt Romney": "4",
+      "Gary Johnson": "0",
       "Jill Stein": "0",
       "ward": 51,
       "division": 25
     },
     {
       "Candidate": "Gary Johnson",
-      "Barack Obama": " NA",
-      "Mitt Romney": "NA",
-      "Gary Johnson": " 1",
+      "Barack Obama": "",
+      "Mitt Romney": "",
+      "Gary Johnson": "1",
       "Jill Stein": "0",
       "ward": 51,
       "division": 25
     },
     {
       "Candidate": "Jill Stein",
-      "Barack Obama": " NA",
-      "Mitt Romney": "NA",
-      "Gary Johnson": "NA",
+      "Barack Obama": "",
+      "Mitt Romney": "",
+      "Gary Johnson": "",
       "Jill Stein": "1",
       "ward": 51,
       "division": 25
@@ -1000,8 +1000,8 @@
     {
       "Candidate": "Total",
       "Barack Obama": "502",
-      "Mitt Romney": " 4",
-      "Gary Johnson": " 1",
+      "Mitt Romney": "4",
+      "Gary Johnson": "1",
       "Jill Stein": "1",
       "ward": 51,
       "division": 25
@@ -1019,23 +1019,23 @@
     {
       "Candidate": "Barack Obama",
       "Barack Obama": "348",
-      "Gary Johnson": " 0",
+      "Gary Johnson": "0",
       "Mitt Romney": "0",
       "ward": 51,
       "division": 26
     },
     {
       "Candidate": "Gary Johnson",
-      "Barack Obama": " NA",
-      "Gary Johnson": " 1",
+      "Barack Obama": "",
+      "Gary Johnson": "1",
       "Mitt Romney": "0",
       "ward": 51,
       "division": 26
     },
     {
       "Candidate": "Mitt Romney",
-      "Barack Obama": " NA",
-      "Gary Johnson": "NA",
+      "Barack Obama": "",
+      "Gary Johnson": "",
       "Mitt Romney": "1",
       "ward": 51,
       "division": 26
@@ -1043,7 +1043,7 @@
     {
       "Candidate": "Total",
       "Barack Obama": "348",
-      "Gary Johnson": " 1",
+      "Gary Johnson": "1",
       "Mitt Romney": "1",
       "ward": 51,
       "division": 26
@@ -1081,23 +1081,23 @@
     {
       "Candidate": "Barack Obama",
       "Barack Obama": "429",
-      "Mitt Romney": " 0",
+      "Mitt Romney": "0",
       "Gary Johnson": "0",
       "ward": 51,
       "division": 28
     },
     {
       "Candidate": "Mitt Romney",
-      "Barack Obama": " NA",
-      "Mitt Romney": " 3",
+      "Barack Obama": "",
+      "Mitt Romney": "3",
       "Gary Johnson": "0",
       "ward": 51,
       "division": 28
     },
     {
       "Candidate": "Gary Johnson",
-      "Barack Obama": " NA",
-      "Mitt Romney": "NA",
+      "Barack Obama": "",
+      "Mitt Romney": "",
       "Gary Johnson": "2",
       "ward": 51,
       "division": 28
@@ -1105,7 +1105,7 @@
     {
       "Candidate": "Total",
       "Barack Obama": "429",
-      "Mitt Romney": " 3",
+      "Mitt Romney": "3",
       "Gary Johnson": "2",
       "ward": 51,
       "division": 28

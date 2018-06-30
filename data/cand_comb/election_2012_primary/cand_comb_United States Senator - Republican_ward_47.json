@@ -1,0 +1,244 @@
+[
+  [
+    {
+      "Candidate": "",
+      "Tom Smith": "Tom Smith",
+      "David Alan Christian": "David Alan Christian",
+      "Marc A Scaringi": "Marc A Scaringi",
+      "Sam Rohrer": "Sam Rohrer",
+      "Steven D Welch": "Steven D Welch",
+      "ward": 47,
+      "division": "All"
+    },
+    {
+      "Candidate": "Tom Smith",
+      "Tom Smith": "4",
+      "David Alan Christian": "0",
+      "Marc A Scaringi": "0",
+      "Sam Rohrer": "0",
+      "Steven D Welch": "0",
+      "ward": 47,
+      "division": "All"
+    },
+    {
+      "Candidate": "David Alan Christian",
+      "Tom Smith": "",
+      "David Alan Christian": "2",
+      "Marc A Scaringi": "0",
+      "Sam Rohrer": "0",
+      "Steven D Welch": "0",
+      "ward": 47,
+      "division": "All"
+    },
+    {
+      "Candidate": "Marc A Scaringi",
+      "Tom Smith": "",
+      "David Alan Christian": "",
+      "Marc A Scaringi": "2",
+      "Sam Rohrer": "0",
+      "Steven D Welch": "0",
+      "ward": 47,
+      "division": "All"
+    },
+    {
+      "Candidate": "Sam Rohrer",
+      "Tom Smith": "",
+      "David Alan Christian": "",
+      "Marc A Scaringi": "",
+      "Sam Rohrer": "1",
+      "Steven D Welch": "0",
+      "ward": 47,
+      "division": "All"
+    },
+    {
+      "Candidate": "Steven D Welch",
+      "Tom Smith": "",
+      "David Alan Christian": "",
+      "Marc A Scaringi": "",
+      "Sam Rohrer": "",
+      "Steven D Welch": "1",
+      "ward": 47,
+      "division": "All"
+    },
+    {
+      "Candidate": "Total",
+      "Tom Smith": "4",
+      "David Alan Christian": "2",
+      "Marc A Scaringi": "2",
+      "Sam Rohrer": "1",
+      "Steven D Welch": "1",
+      "ward": 47,
+      "division": "All"
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Marc A Scaringi": "Marc A Scaringi",
+      "ward": 47,
+      "division": 1
+    },
+    {
+      "Candidate": "Marc A Scaringi",
+      "Marc A Scaringi": "1",
+      "ward": 47,
+      "division": 1
+    },
+    {
+      "Candidate": "Total",
+      "Marc A Scaringi": "1",
+      "ward": 47,
+      "division": 1
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Sam Rohrer": "Sam Rohrer",
+      "Tom Smith": "Tom Smith",
+      "ward": 47,
+      "division": 2
+    },
+    {
+      "Candidate": "Sam Rohrer",
+      "Sam Rohrer": "1",
+      "Tom Smith": "0",
+      "ward": 47,
+      "division": 2
+    },
+    {
+      "Candidate": "Tom Smith",
+      "Sam Rohrer": "",
+      "Tom Smith": "1",
+      "ward": 47,
+      "division": 2
+    },
+    {
+      "Candidate": "Total",
+      "Sam Rohrer": "1",
+      "Tom Smith": "1",
+      "ward": 47,
+      "division": 2
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Tom Smith": "Tom Smith",
+      "ward": 47,
+      "division": 4
+    },
+    {
+      "Candidate": "Tom Smith",
+      "Tom Smith": "1",
+      "ward": 47,
+      "division": 4
+    },
+    {
+      "Candidate": "Total",
+      "Tom Smith": "1",
+      "ward": 47,
+      "division": 4
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "David Alan Christian": "David Alan Christian",
+      "ward": 47,
+      "division": 9
+    },
+    {
+      "Candidate": "David Alan Christian",
+      "David Alan Christian": "1",
+      "ward": 47,
+      "division": 9
+    },
+    {
+      "Candidate": "Total",
+      "David Alan Christian": "1",
+      "ward": 47,
+      "division": 9
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "David Alan Christian": "David Alan Christian",
+      "Tom Smith": "Tom Smith",
+      "ward": 47,
+      "division": 10
+    },
+    {
+      "Candidate": "David Alan Christian",
+      "David Alan Christian": "1",
+      "Tom Smith": "0",
+      "ward": 47,
+      "division": 10
+    },
+    {
+      "Candidate": "Tom Smith",
+      "David Alan Christian": "",
+      "Tom Smith": "1",
+      "ward": 47,
+      "division": 10
+    },
+    {
+      "Candidate": "Total",
+      "David Alan Christian": "1",
+      "Tom Smith": "1",
+      "ward": 47,
+      "division": 10
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Steven D Welch": "Steven D Welch",
+      "Tom Smith": "Tom Smith",
+      "ward": 47,
+      "division": 11
+    },
+    {
+      "Candidate": "Steven D Welch",
+      "Steven D Welch": "1",
+      "Tom Smith": "0",
+      "ward": 47,
+      "division": 11
+    },
+    {
+      "Candidate": "Tom Smith",
+      "Steven D Welch": "",
+      "Tom Smith": "1",
+      "ward": 47,
+      "division": 11
+    },
+    {
+      "Candidate": "Total",
+      "Steven D Welch": "1",
+      "Tom Smith": "1",
+      "ward": 47,
+      "division": 11
+    }
+  ],
+  [
+    {
+      "Candidate": "",
+      "Marc A Scaringi": "Marc A Scaringi",
+      "ward": 47,
+      "division": 12
+    },
+    {
+      "Candidate": "Marc A Scaringi",
+      "Marc A Scaringi": "1",
+      "ward": 47,
+      "division": 12
+    },
+    {
+      "Candidate": "Total",
+      "Marc A Scaringi": "1",
+      "ward": 47,
+      "division": 12
+    }
+  ]
+]
