@@ -175,14 +175,7 @@ function updateTable() {
 }
 
 function updateGraph() {
-  graph_data = getGraphData();
-  subsetted_graph_data = subsetGraphData(graph_data);
-  graph = makeGraph(subsetted_graph_data);
-  return (graph);
-}
-
-function updateGraph() {
-    graph.destroy();
+  graph.destroy();
   graph_data = getGraphData();
   subsetted_graph_data = subsetGraphData(graph_data);
   graph = makeGraph(subsetted_graph_data);

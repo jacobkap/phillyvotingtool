@@ -58,7 +58,7 @@
 <br><br>
 <h3>Select a voting division:</h3>
 <br>
-<select class="simple-select" id="results_division" onchange="updateChart('results')">
+<select class="simple-select" id="results_division" onchange="updateChart(results_chart, 'results')">
 </select>
   <br><br>
   <h3>Select a voting ward by clicking on the map</h3>
@@ -73,7 +73,7 @@
       id: 'mapbox.streets',
       accessToken: 'pk.eyJ1IjoiamtrYXBsYW4iLCJhIjoiY2lnOXAyaWZyMHNjZ3V5bHg4YTZieDczaSJ9.vSjaF4o2xaDFhNAv9Z2y7A'
     }).addTo(results_map);
-    results_map.setMaxBounds(results_map.getBounds())
+//    results_map.setMaxBounds(results_map.getBounds())
 
     geojson = L.geoJson(wards_polygon, {
       onEachFeature: onEachFeature

@@ -119,6 +119,10 @@ function getData(type) {
 
 if (type == "cand_comb") {
   url += "_ward_" + cand_comb_wards[$("#cand_comb_ward").val()];
+} else if (type == "results") {
+  url += "_ward_" + results_wards[$("#results_ward").val()];
+} else if (type == "choices") {
+  url += "_ward_" + choices_wards[$("#choices_ward").val()];
 }
   url += ".json";
 
@@ -189,28 +193,22 @@ function getGraphData() {
 function subsetData(data, type) {
   var final_data = [];
   if (type == "results") {
-    wards = results_wards;
-    ward = wards[$("#results_ward").val()];
     division = $("#results_division").val();
-    ward_section = 2;
-    division_section = 3;
-  } else if (type == "choices") {
-    wards = choices_wards;
-    ward = wards[$("#choices_ward").val()];
-    division = $("#choices_division").val();
-    ward_section = 1;
     division_section = 2;
+  } else if (type == "choices") {
+    division = $("#choices_division").val();
+    division_section = 1;
   }
   if (division === "0") {
     division = "All";
   }
 
   for (var i = 0; i < data[0].length; i++) {
-    if (data[ward_section][i] == ward && data[division_section][i] == division) {
+    if (data[division_section][i] == division) {
       if (type == "results") {
         temp = [data[0][i], data[1][i]];
       } else if (type == "choices") {
-        temp = [data[0][i], data[3][i]];
+        temp = [data[0][i], data[2][i]];
       }
       final_data.push(temp);
     }

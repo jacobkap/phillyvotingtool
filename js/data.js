@@ -19,14 +19,11 @@ elections = [
 ];
 
 num_selected_elections = [
-  "2018 Primary",
   "2017 General",
   "2017 Primary",
   "2016 Primary",
   "2015 General",
   "2015 Primary",
-  "2014 General",
-  "2014 Primary",
   "2013 General",
   "2013 Primary",
   "2012 Primary"
