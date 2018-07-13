@@ -1,5 +1,10 @@
+function done(){
+  var url=myLine.toBase64Image();
+  document.getElementById("time_graph").src=url;
+}
+
 function makeGraph(data) {
-  graph_title = "% of Votes by Hour";
+  graph_title = "Percent of Votes by Hour";
   if (time_wards[$("#time_ward").val()] != "All") {
     graph_title += ", Ward " + time_wards[$("#time_ward").val()];
   }
@@ -7,22 +12,59 @@ function makeGraph(data) {
     graph_title += ", Division " + $("#time_division").val();
   }
 
-  graph = new Dygraph(document.getElementById("time_graph"),
-    data, {
-      title: graph_title,
-      drawGrid: true,
-      independentTicks: true,
-      labelsSeparateLines: true,
-      legend: 'always',
-      includeZero: true,
-      ylabel: "% of Voters",
-      xlabel: 'Time',
-      visibility: [true],
-      interactionModel: {},
-      colors: ['#008837'],
-      strokeWidth: 1.5
-    });
-  return (graph);
+  if ($("#cum_sum").is(':checked')) {
+  graph_title = "Cumulative Total Percent of Votes";
+}
+  Chart.defaults.global.defaultFontColor = "#000000";
+  myLineChart = new Chart(ctx_time, {
+    type: 'line',
+    data: {
+      labels: ["7-8AM", "8-9AM", "9-10AM", "10-11AM", "11AM-12PM", "12-1PM",
+        "1-2PM", "2-3PM", "3-4PM", "4-5PM", "5-6PM", "6-7PM", "7-8PM"
+      ],
+      datasets: [{
+        borderColor: "#000000",
+        fill: false,
+        data: data,
+        onAnimationComplete: done ,
+      }]
+    },
+    options: {
+      legend: {
+    display: false,
+},
+    title: {
+      display: true,
+      position: 'top',
+      text: graph_title,
+      fontSize: 14
+    },
+    scales: {
+      yAxes: [{
+        ticks: {
+          beginAtZero: true
+        },
+        scaleLabel: {
+          fontSize: 22,
+          fontColor: "#000000",
+          display: true,
+          labelString: '% of Votes'
+        }
+      }]
+    },
+    responsive: true,
+    tooltips: {
+					mode: 'index',
+					intersect: false,
+				},
+        hover: {
+					mode: 'nearest',
+					intersect: true
+				}
+      }
+  });
+
+  return (myLineChart);
 }
 
 function whenClicked(e) {
@@ -89,6 +131,7 @@ function makeTable(div, data) {
   for (var n = 0; n < headers.length; n++) {
     z.push({
       data: headers[n],
+      title: headers[n],
     });
   }
 
@@ -103,8 +146,12 @@ function makeTable(div, data) {
     "lengthChange": false,
     "scrollX": true,
     "sScrollXInner": "100%",
-    "sScrollX": "100%"
+    "sScrollX": "100%",
+    fixedColumns: {
+      leftColumns: 2
+    }
   });
+  $("#table_wrapper").css("width", "100%");
   return table;
 }
 
@@ -134,13 +181,21 @@ function updateGraph() {
   return (graph);
 }
 
+function updateGraph() {
+    graph.destroy();
+  graph_data = getGraphData();
+  subsetted_graph_data = subsetGraphData(graph_data);
+  graph = makeGraph(subsetted_graph_data);
+  return (graph);
+}
+
 function updateChart(chart, type) {
   chart.destroy();
   makeChart(type);
 }
 
 function makeChart(type) {
-
+  Chart.defaults.global.defaultFontColor = "#000000";
   data = getData(type);
   data = subsetData(data, type);
   data = formatData(data, type);
@@ -169,16 +224,16 @@ function makeChart(type) {
               beginAtZero: true
             },
             scaleLabel: {
-        display: true,
-        labelString: '% of Votes'
-      }
-    }],
-    xAxes: [{
-      scaleLabel: {
-  display: true,
-  labelString: '# of Selections Made'
-}
-}]
+              display: true,
+              labelString: '% of Votes'
+            }
+          }],
+          xAxes: [{
+            scaleLabel: {
+              display: true,
+              labelString: '# of Selections Made'
+            }
+          }]
         },
         tooltips: {
           enabled: true,

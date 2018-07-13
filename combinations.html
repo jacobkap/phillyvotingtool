@@ -12,8 +12,8 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.9.1/underscore-min.js"></script>
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css">
   <script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js"></script>
-  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.10.16/b-1.5.1/b-html5-1.5.1/fc-3.2.4/r-2.2.1/datatables.min.css" />
   <script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.16/b-1.5.1/b-html5-1.5.1/fc-3.2.4/r-2.2.1/datatables.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.10.16/b-1.5.1/b-html5-1.5.1/fc-3.2.4/r-2.2.1/datatables.min.css" />
 
 
   <script src="js/utils.js"></script>
@@ -33,9 +33,9 @@
   <div class="topnav" id="myTopnav">
     <a href="index.html">Home</a>
     <a href="results.html">Election Results</a>
-    <a href="time.html">When do People Vote?</a>
     <a href="choices.html">Number of Choices Made per Office</a>
     <a class="active" href="combinations.html">Candidate Vote Combinations</a>
+    <a id = "timeTab" href="time.html">When do People Vote?</a>
     <a class="icon" onclick="myFunction()">
 <i class="fa fa-bars"></i>
 </div>
@@ -47,9 +47,9 @@
         <br>
         <select class="simple-select" id="cand_comb_election" onchange="candCombElectionChange()"></select>
       <br><br>
-  <h3>Select a Office:</h3>
+  <h3>Select up to two Offices:</h3>
   <br>
-  <select class="simple-select" id="cand_comb_ballot_position" onchange="candCombOfficeChange()"></select>
+  <select multiple class="chosen-select" id="cand_comb_ballot_position" onchange="candCombOfficeChange()"></select>
   <br><br>
   <h3>Select a voting ward:</h3>
   <br>
@@ -80,15 +80,16 @@
 
   <div class="column main">
     <div id="loader"></div>
-    <br>
-  <h4 id="table_title" align="center"></h4>
-  <!-- <br>
-   <h5 id="table_subtitle" align="center">subtitle</h5> -->
-  <table id="table" class="display cell-border"></table>
+
+   <h4 id="table_title" align="center"></h4>
+   <br>
+  <!-- <h5 id="table_subtitle" align="center">subtitle</h5> -->
+  <div><table id="table" class="display" style="width:100%"></table></div>
 
   <script>
     $(document).ready(function(){
         $('.simple-select').chosen();
+        $(".chosen-select").chosen({max_selected_options: 2});
       resizeChosen();
       jQuery(window).on('resize', resizeChosen);
       $.each(elections, function(val, text) {

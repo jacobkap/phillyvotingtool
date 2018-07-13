@@ -32,9 +32,9 @@
   <div class="topnav" id="myTopnav">
     <a href="index.html">Home</a>
     <a href="results.html">Election Results</a>
-    <a href="time.html">When do People Vote?</a>
     <a class="active" href="choices.html">Number of Choices Made per Office</a>
     <a href="combinations.html">Candidate Vote Combinations</a>
+    <a id = "timeTab" href="time.html">When do People Vote?</a>
     <a class="icon" onclick="myFunction()">
 <i class="fa fa-bars"></i>
 </div>
@@ -89,6 +89,7 @@
 
 $(document).ready(function(){
   $('.simple-select').chosen();
+   jQuery(window).on('resize', resizeChosen);
   resizeChosen();
   $.each(num_selected_elections, function(val, text) {
           $('#choices_election').append( new Option(text,val) );
@@ -106,7 +107,7 @@ $.each(choices_wards, function(val, text) {
   makeChart('choices');
 
  $("#choices_chart").ready($("#loader").hide())
- jQuery(window).on('resize', resizeChosen);
+
 });
 
 </script>

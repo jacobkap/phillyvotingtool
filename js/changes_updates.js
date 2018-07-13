@@ -83,5 +83,5 @@ function candCombOfficeChange() {
 
 function candCombChange() {
  cand_comb_division = setDivisionDropdown("#cand_comb_ward", "#cand_comb_division", cand_comb_wards);
-  updateTable();
+ updateTable();
 }
