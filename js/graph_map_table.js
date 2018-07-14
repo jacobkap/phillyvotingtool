@@ -1,4 +1,4 @@
-function done(){
+function allowSaveGraph(){
   var url=myLine.toBase64Image();
   document.getElementById("time_graph").src=url;
 }
@@ -26,7 +26,7 @@ function makeGraph(data) {
         borderColor: "#000000",
         fill: false,
         data: data,
-        onAnimationComplete: done ,
+        onAnimationComplete: allowSaveGraph,
       }]
     },
     options: {
