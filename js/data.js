@@ -21,7 +21,6 @@ elections = [
 num_selected_elections = [
   "2017 General",
   "2017 Primary",
-  "2016 Primary",
   "2015 General",
   "2015 Primary",
   "2013 General",
