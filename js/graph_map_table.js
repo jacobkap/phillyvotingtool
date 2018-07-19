@@ -40,18 +40,24 @@ graph_title = election + ", " + graph_title;
       display: true,
       position: 'top',
       text: graph_title,
-      fontSize: 14
+      fontSize: 22
     },
     scales: {
       yAxes: [{
         ticks: {
-          beginAtZero: true
+          beginAtZero: true,
+          fontSize: 15
         },
         scaleLabel: {
           fontSize: 22,
           fontColor: "#000000",
           display: true,
           labelString: '% of Votes'
+        }
+      }],
+      xAxes: [{
+        ticks: {
+          fontSize: 15
         }
       }]
     },
@@ -212,22 +218,28 @@ function makeChart(type) {
           display: true,
           position: 'top',
           text: title_text,
-          fontSize: 14
+          fontSize: 22
         },
         scales: {
           yAxes: [{
             ticks: {
-              beginAtZero: true
+              beginAtZero: true,
+              fontSize: 15
             },
             scaleLabel: {
+              fontSize: 22,
               display: true,
               labelString: '% of Votes'
             }
           }],
           xAxes: [{
             scaleLabel: {
+              fontSize: 22,
               display: true,
               labelString: '# of Selections Made'
+            },
+            ticks: {
+              fontSize: 15
             }
           }]
         },
@@ -258,12 +270,13 @@ function makeChart(type) {
           display: true,
           position: 'top',
           text: title_text,
-          fontSize: 14
+          fontSize: 22
         },
         scales: {
           xAxes: [{
             ticks: {
               beginAtZero: true,
+              fontSize: 15,
               userCallback: function(value, index, values) {
                 value = value.toString();
                 value = value.split(/(?=(?:...)*$)/);
@@ -272,8 +285,14 @@ function makeChart(type) {
               }
             },
             scaleLabel: {
+              fontSize: 20,
               display: true,
               labelString: '# of Votes'
+            }
+          }],
+          yAxes: [{
+            ticks: {
+              fontSize: 22
             }
           }]
         },
