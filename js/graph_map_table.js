@@ -4,17 +4,20 @@ function allowSaveGraph(){
 }
 
 function makeGraph(data) {
+  election = elections[$(time_election).val()];
   graph_title = "Percent of Votes by Hour";
   if (time_wards[$("#time_ward").val()] != "All") {
-    graph_title += ", Ward " + time_wards[$("#time_ward").val()];
+    graph_title += " Election, Ward " + time_wards[$("#time_ward").val()];
   }
   if ($("#time_division").val() != "0") {
     graph_title += ", Division " + $("#time_division").val();
   }
-
   if ($("#cum_sum").is(':checked')) {
   graph_title = "Cumulative Total Percent of Votes";
 }
+
+graph_title = election + ", " + graph_title;
+
   Chart.defaults.global.defaultFontColor = "#000000";
   myLineChart = new Chart(ctx_time, {
     type: 'line',
