@@ -1,6 +1,6 @@
-function allowSaveGraph(){
-  var url=myLine.toBase64Image();
-  document.getElementById("time_graph").src=url;
+function allowSaveGraph() {
+  var url = myLine.toBase64Image();
+  document.getElementById("time_graph").src = url;
 }
 
 function makeGraph(data) {
@@ -13,10 +13,10 @@ function makeGraph(data) {
     graph_title += ", Division " + $("#time_division").val();
   }
   if ($("#cum_sum").is(':checked')) {
-  graph_title = "Cumulative Total Percent of Votes";
-}
+    graph_title = "Cumulative Total Percent of Votes";
+  }
 
-graph_title = election + ", " + graph_title;
+  graph_title = election + ", " + graph_title;
 
   Chart.defaults.global.defaultFontColor = "#000000";
   myLineChart = new Chart(ctx_time, {
@@ -34,43 +34,43 @@ graph_title = election + ", " + graph_title;
     },
     options: {
       legend: {
-    display: false,
-},
-    title: {
-      display: true,
-      position: 'top',
-      text: graph_title,
-      fontSize: 22
-    },
-    scales: {
-      yAxes: [{
-        ticks: {
-          beginAtZero: true,
-          fontSize: 15
-        },
-        scaleLabel: {
-          fontSize: 22,
-          fontColor: "#000000",
-          display: true,
-          labelString: '% of Votes'
-        }
-      }],
-      xAxes: [{
-        ticks: {
-          fontSize: 15
-        }
-      }]
-    },
-    responsive: true,
-    tooltips: {
-					mode: 'index',
-					intersect: false,
-				},
-        hover: {
-					mode: 'nearest',
-					intersect: true
-				}
+        display: false,
+      },
+      title: {
+        display: true,
+        position: 'top',
+        text: graph_title,
+        fontSize: 22
+      },
+      scales: {
+        yAxes: [{
+          ticks: {
+            beginAtZero: true,
+            fontSize: 15
+          },
+          scaleLabel: {
+            fontSize: 22,
+            fontColor: "#000000",
+            display: true,
+            labelString: '% of Votes'
+          }
+        }],
+        xAxes: [{
+          ticks: {
+            fontSize: 15
+          }
+        }]
+      },
+      responsive: true,
+      tooltips: {
+        mode: 'index',
+        intersect: false,
+      },
+      hover: {
+        mode: 'nearest',
+        intersect: true
       }
+    }
   });
 
   return (myLineChart);
@@ -118,25 +118,39 @@ function onEachFeature(feature, layer) {
 
 
 
-function makeTable(div, data) {
-
-  division = cand_comb_division[$("#cand_comb_division").val()];
-  if (division == "0") {
-    division = "All";
-  }
-  final_data = [];
-  for (var i = 0; i < data.length; i++) {
-    if (data[i][0].division == division) {
-      final_data.push(data[i]);
+function makeTable(div, data, headers) {
+  final_data = data;
+  ward = cand_comb_wards[$("#cand_comb_ward").val()];
+  if (ward != "All") {
+    division = cand_comb_division[$("#cand_comb_division").val()];
+    if (division == "0") {
+      division = "All";
+    }
+    final_data = [];
+    for (var i = 0; i < data.length; i++) {
+      if (data[i].division == division) {
+        final_data.push(data[i]);
+      }
     }
   }
 
-  final_data = _.map(final_data[0], function(x) {
-    return _.omit(x, ['division', 'ward']);
+  final_data = _.map(final_data, function(x) {
+    return _.omit(x, 'division');
   });
 
-  headers = _.keys(final_data[0]);
+final_data[0][0] = "";
+if (_.keys(final_data[0]).toString() == _.keys(final_data[1]).toString()) {
+  final_data.shift();
+}
+
+  // headers = _.keys(final_data[0]);
   z = [];
+  headers = headers.split(",");
+  headers = headers.filter(function(item) {
+    return item !== "division";
+});
+
+
   for (var n = 0; n < headers.length; n++) {
     z.push({
       data: headers[n],
@@ -166,9 +180,13 @@ function makeTable(div, data) {
 
 function updateTable() {
   cand_data = getData("cand_comb");
+  cand_data = cand_data.split("\n");
+  cand_data.pop();
+  headers = cand_data[0];
+  cand_data = data_object_fun(cand_data, headers);
   table.destroy();
   $('#table').empty();
-  table = makeTable("#table", cand_data);
+      table = makeTable("#table", cand_data, headers);
 
 
   title = cand_comb_offices[$('#cand_comb_ballot_position').val()];

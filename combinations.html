@@ -105,7 +105,13 @@
 
 
       cand_data = getData("cand_comb");
-      table = makeTable("#table", cand_data);
+      cand_data = cand_data.split("\n");
+      cand_data.pop();
+      headers = cand_data[0]
+      cand_data = data_object_fun(cand_data, headers)
+
+
+      table = makeTable("#table", cand_data, headers);
       title = cand_comb_offices[$('#cand_comb_ballot_position').val()];
       if (cand_comb_wards[$("#cand_comb_ward").val()] != "All") {
             title += ", Ward " + cand_comb_wards[$("#cand_comb_ward").val()];

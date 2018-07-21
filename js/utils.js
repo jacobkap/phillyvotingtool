@@ -1,3 +1,33 @@
+function readCSV(csv) {
+  var result = null;
+  var scriptUrl = csv;
+  $.ajax({
+    url: scriptUrl,
+    type: 'get',
+    dataType: 'text',
+    async: false,
+    success: function(data) {
+      result = data;
+    }
+  });
+  return result;
+}
+
+function data_object_fun(arr, headers) {
+  headers = headers.split(",");
+  var jsonObj = [];
+  for (var i = 0; i < arr.length; i++) {
+    temp = arr[i];
+    data = temp.split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/);
+    var obj = {};
+    for (var j = 0; j < data.length; j++) {
+      obj[headers[j]] = data[j];
+    }
+    jsonObj.push(obj);
+  }
+  return (jsonObj);
+}
+
 /* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
 function myFunction() {
   var x = document.getElementById("myTopnav");
@@ -115,27 +145,40 @@ function getData(type) {
   url += folder + "/election_";
   url += election + "/";
   url += folder + "_";
-  url += office_options[$(office_dropdown).val()];
+  selected_office = office_options[$(office_dropdown).val()[0]];
+  if ($(office_dropdown).val().length > 1) {
+    selected_office += " " + office_options[$(office_dropdown).val()[1]];
+  }
+  url += selected_office;
 
 if (type == "cand_comb") {
   url += "_ward_" + cand_comb_wards[$("#cand_comb_ward").val()];
+  url += ".csv";
+    data_type = "csv";
 } else if (type == "results") {
   url += "_ward_" + results_wards[$("#results_ward").val()];
+  url += ".json";
+    data_type = "json";
 } else if (type == "choices") {
   url += "_ward_" + choices_wards[$("#choices_ward").val()];
-}
   url += ".json";
+  data_type = "json";
+}
 
   var data = $.getJSON({
     url: url,
     type: 'get',
-    dataType: 'json',
+    dataType: data_type,
     async: false,
     success: function(data) {
       result = data;
     }
   });
+  if (type == "cand_comb") {
+    data = data.responseText;
+  } else {
   data = data.responseJSON;
+}
   return (data);
 }
 
@@ -151,9 +194,15 @@ function getWards(type, election_dropdown, office_dropdown, offices) {
   url = "https://raw.githubusercontent.com/jacobkap/phillyvotingtool/master/data/";
   url += type + "/election_" + election + "/";
   office = "";
-  if (type != "vote_time") {
+  if (type == "cand_comb") {
+    office = "_" + offices[$(office_dropdown).val()[0]];
+    if ($(office_dropdown).val().length > 1) {
+      office += " " + offices[$(office_dropdown).val()[1]];
+    }
+  } else if (type == "election_results" || type == "num_selected") {
     office = "_" + offices[$(office_dropdown).val()];
   }
+  
   url += "wards" + office + ".json";
 
   data = $.getJSON({
