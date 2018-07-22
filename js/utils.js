@@ -145,9 +145,12 @@ function getData(type) {
   url += folder + "/election_";
   url += election + "/";
   url += folder + "_";
-  selected_office = office_options[$(office_dropdown).val()[0]];
-  if ($(office_dropdown).val().length > 1) {
-    selected_office += " " + office_options[$(office_dropdown).val()[1]];
+  temp_office = $(office_dropdown).val();
+  selected_office = office_options[temp_office[0]];
+  if (Array.isArray(temp_office) && $(office_dropdown).val().length > 1) {
+    temp_office = $(office_dropdown).val();
+    temp_office = office_options[temp_office[1]];
+    selected_office += " " + temp_office;
   }
   url += selected_office;
 
@@ -202,7 +205,7 @@ function getWards(type, election_dropdown, office_dropdown, offices) {
   } else if (type == "election_results" || type == "num_selected") {
     office = "_" + offices[$(office_dropdown).val()];
   }
-  
+
   url += "wards" + office + ".json";
 
   data = $.getJSON({

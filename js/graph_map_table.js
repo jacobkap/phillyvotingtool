@@ -134,21 +134,31 @@ function makeTable(div, data, headers) {
     }
   }
 
+
+
+
   final_data = _.map(final_data, function(x) {
     return _.omit(x, 'division');
   });
 
-final_data[0][0] = "";
-if (_.keys(final_data[0]).toString() == _.keys(final_data[1]).toString()) {
-  final_data.shift();
-}
+  data_keys = _.keys(final_data[0]);
+  for (var m = 0; m < final_data.length; m++) {
+    for (n = 0; n < data_keys.length; n++) {
+      final_data[m][data_keys[n]] = final_data[m][data_keys[n]].replace(/"/g, "");
+    }
+  }
+
+  final_data[0][0] = "";
+  if (_.keys(final_data[0]).toString() == _.keys(final_data[1]).toString()) {
+    final_data.shift();
+  }
 
   // headers = _.keys(final_data[0]);
   z = [];
   headers = headers.split(",");
   headers = headers.filter(function(item) {
     return item !== "division";
-});
+  });
 
 
   for (var n = 0; n < headers.length; n++) {
@@ -171,10 +181,11 @@ if (_.keys(final_data[0]).toString() == _.keys(final_data[1]).toString()) {
     "sScrollXInner": "100%",
     "sScrollX": "100%",
     fixedColumns: {
-      leftColumns: 2
+      leftColumns: 1
     }
   });
   $("#table_wrapper").css("width", "100%");
+
   return table;
 }
 
@@ -184,12 +195,16 @@ function updateTable() {
   cand_data.pop();
   headers = cand_data[0];
   cand_data = data_object_fun(cand_data, headers);
+  cand_data.shift();
   table.destroy();
   $('#table').empty();
-      table = makeTable("#table", cand_data, headers);
+  table = makeTable("#table", cand_data, headers);
 
 
-  title = cand_comb_offices[$('#cand_comb_ballot_position').val()];
+  title = cand_comb_offices[$('#cand_comb_ballot_position').val()[0]];
+  if ($('#cand_comb_ballot_position').val().length > 1) {
+    title += " and " + cand_comb_offices[$('#cand_comb_ballot_position').val()[1]];
+  }
   if (cand_comb_wards[$("#cand_comb_ward").val()] != "All") {
     title += ", Ward " + cand_comb_wards[$("#cand_comb_ward").val()];
   }
