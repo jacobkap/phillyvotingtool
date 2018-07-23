@@ -140,6 +140,9 @@ function makeTable(div, data, headers) {
   final_data = _.map(final_data, function(x) {
     return _.omit(x, 'division');
   });
+  final_data = _.map(final_data, function(x) {
+    return _.omit(x, 0);
+  });
 
   data_keys = _.keys(final_data[0]);
   for (var m = 0; m < final_data.length; m++) {

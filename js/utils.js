@@ -146,7 +146,11 @@ function getData(type) {
   url += election + "/";
   url += folder + "_";
   temp_office = $(office_dropdown).val();
+  if (Array.isArray(temp_office)) {
   selected_office = office_options[temp_office[0]];
+} else {
+  selected_office = office_options[temp_office];
+}
   if (Array.isArray(temp_office) && $(office_dropdown).val().length > 1) {
     temp_office = $(office_dropdown).val();
     temp_office = office_options[temp_office[1]];
