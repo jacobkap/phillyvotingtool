@@ -79,18 +79,35 @@ function makeGraph(data) {
 function whenClicked(e) {
   ward_num = e.sourceTarget.feature.properties.WARD_NUM;
   if (e.sourceTarget._mapToAdd._container.id == "results_map_div") {
+    geojson.setStyle({color: '#28b78d'});
+    results_map._layers[e.sourceTarget._leaflet_id].bringToFront();
+    results_map._layers[e.sourceTarget._leaflet_id].setStyle({color: '#ff0000'});
     ward_dropdown = "#results_ward";
+    ward_num = results_wards.indexOf(ward_num);
   }
   if (e.sourceTarget._mapToAdd._container.id == "choices_map_div") {
+    geojson.setStyle({color: '#28b78d'});
+    choices_map._layers[e.sourceTarget._leaflet_id].bringToFront();
+    choices_map._layers[e.sourceTarget._leaflet_id].setStyle({color: '#ff0000'});
     ward_dropdown = "#choices_ward";
+    ward_num = choices_wards.indexOf(ward_num);
   }
   if (e.sourceTarget._mapToAdd._container.id == "cand_comb_map_div") {
+    geojson.setStyle({color: '#28b78d'});
+    cand_comb_map._layers[e.sourceTarget._leaflet_id].bringToFront();
+    cand_comb_map._layers[e.sourceTarget._leaflet_id].setStyle({color: '#ff0000'});
     ward_dropdown = "#cand_comb_ward";
+    ward_num = cand_comb_wards.indexOf(ward_num);
   }
 
   if (e.sourceTarget._mapToAdd._container.id == "time_map_div") {
+    geojson.setStyle({color: '#28b78d'});
+    time_map._layers[e.sourceTarget._leaflet_id].bringToFront();
+    time_map._layers[e.sourceTarget._leaflet_id].setStyle({color: '#ff0000'});
     ward_dropdown = "#time_ward";
+    ward_num = time_wards.indexOf(ward_num);
   }
+
 
   $(ward_dropdown).val(ward_num);
   $(ward_dropdown).trigger("chosen:updated");

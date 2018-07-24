@@ -72,9 +72,6 @@
       accessToken: 'pk.eyJ1IjoiamtrYXBsYW4iLCJhIjoiY2lnOXAyaWZyMHNjZ3V5bHg4YTZieDczaSJ9.vSjaF4o2xaDFhNAv9Z2y7A'
     }).addTo(cand_comb_map);
   //    cand_comb_map.setMaxBounds(cand_comb_map.getBounds())
-    geojson = L.geoJson(wards_polygon, {
-      onEachFeature: onEachFeature
-    }).addTo(cand_comb_map);
   </script>
 </div>
 
@@ -125,6 +122,12 @@
       }
     //  subtitle = "Max number of selections: " + cand_comb_offices[$('#cand_comb_ballot_position').val()];
       $("#table_title").text(title);
+
+      geojson = L.geoJson(wards_polygon, {
+        filter: mapAvailableWardsCond,
+        onEachFeature: onEachFeature
+      }).addTo(cand_comb_map);
+            geojson.setStyle({color: '#28b78d'});
     //  $("#table_subtitle").text(subtitle);
 
 $("#table").ready($("#loader").hide())

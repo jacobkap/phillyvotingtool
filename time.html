@@ -72,9 +72,7 @@
     }).addTo(time_map);
   //  time_map.setMaxBounds(time_map.getBounds())
 
-    geojson = L.geoJson(wards_polygon, {
-      onEachFeature: onEachFeature
-    }).addTo(time_map);
+
   </script>
 </div>
 
@@ -101,12 +99,20 @@
        $('.simple-select').chosen();
        $('.simple-select').trigger('chosen:updated');
 
+
+
    setDivisionDropdown("#time_ward", "#time_division", time_wards)
    ctx_time = document.getElementById("time_graph").getContext('2d');
    graph_data = getGraphData();
    subsetted_graph_data = subsetGraphData(graph_data);
    graph = makeGraph(subsetted_graph_data);
       $("#time_graph").ready($("#loader").hide())
+
+      geojson = L.geoJson(wards_polygon, {
+        filter: mapAvailableWardsTime,
+        onEachFeature: onEachFeature
+      }).addTo(time_map);
+      geojson.setStyle({color: '#28b78d'});
 
       resizeChosen();
       jQuery(window).on('resize', resizeChosen);

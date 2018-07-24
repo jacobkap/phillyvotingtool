@@ -72,9 +72,6 @@
       accessToken: 'pk.eyJ1IjoiamtrYXBsYW4iLCJhIjoiY2lnOXAyaWZyMHNjZ3V5bHg4YTZieDczaSJ9.vSjaF4o2xaDFhNAv9Z2y7A'
     }).addTo(choices_map);
   //    choices_map.setMaxBounds(choices_map.getBounds())
-    geojson = L.geoJson(wards_polygon, {
-      onEachFeature: onEachFeature
-    }).addTo(choices_map);
   </script>
 </div>
 
@@ -105,6 +102,12 @@ $.each(choices_wards, function(val, text) {
   setDivisionDropdown("#choices_ward", "#choices_division", choices_wards)
     ctx_choices = document.getElementById("choices_chart").getContext('2d');
   makeChart('choices');
+
+  geojson = L.geoJson(wards_polygon, {
+    filter: mapAvailableWardsChoices,
+    onEachFeature: onEachFeature
+  }).addTo(choices_map);
+  geojson.setStyle({color: '#28b78d'});
 
  $("#choices_chart").ready($("#loader").hide())
 

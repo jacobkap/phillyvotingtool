@@ -225,6 +225,18 @@ function getWards(type, election_dropdown, office_dropdown, offices) {
   return (data);
 }
 
+
+function mapAvailableWardsTime(feature) {return mapAvailableWards(feature, time_wards);}
+function mapAvailableWardsResults(feature) {return mapAvailableWards(feature, results_wards);}
+function mapAvailableWardsChoices(feature) {return mapAvailableWards(feature, choices_wards);}
+function mapAvailableWardsCond(feature) {return mapAvailableWards(feature, cand_comb_wards);}
+function mapAvailableWards(feature, wards) {
+  // Check if polygon ward is in available wards
+  if (wards.indexOf(feature.properties.WARD_NUM) != -1) {
+    return true;
+  }
+}
+
 function getGraphData() {
   url = "https://raw.githubusercontent.com/jacobkap/phillyvotingtool/master/data/vote_time/election_";
   election = elections[$("#time_election").val()];
