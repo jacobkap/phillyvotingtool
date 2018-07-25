@@ -79,31 +79,47 @@ function makeGraph(data) {
 function whenClicked(e) {
   ward_num = e.sourceTarget.feature.properties.WARD_NUM;
   if (e.sourceTarget._mapToAdd._container.id == "results_map_div") {
-    geojson.setStyle({color: '#28b78d'});
+    geojson.setStyle({
+      color: '#28b78d'
+    });
     results_map._layers[e.sourceTarget._leaflet_id].bringToFront();
-    results_map._layers[e.sourceTarget._leaflet_id].setStyle({color: '#BA0C2F'});
+    results_map._layers[e.sourceTarget._leaflet_id].setStyle({
+      color: '#BA0C2F'
+    });
     ward_dropdown = "#results_ward";
     ward_num = results_wards.indexOf(ward_num);
   }
   if (e.sourceTarget._mapToAdd._container.id == "choices_map_div") {
-    geojson.setStyle({color: '#28b78d'});
+    geojson.setStyle({
+      color: '#28b78d'
+    });
     choices_map._layers[e.sourceTarget._leaflet_id].bringToFront();
-    choices_map._layers[e.sourceTarget._leaflet_id].setStyle({color: '#BA0C2F'});
+    choices_map._layers[e.sourceTarget._leaflet_id].setStyle({
+      color: '#BA0C2F'
+    });
     ward_dropdown = "#choices_ward";
     ward_num = choices_wards.indexOf(ward_num);
   }
   if (e.sourceTarget._mapToAdd._container.id == "cand_comb_map_div") {
-    geojson.setStyle({color: '#28b78d'});
+    geojson.setStyle({
+      color: '#28b78d'
+    });
     cand_comb_map._layers[e.sourceTarget._leaflet_id].bringToFront();
-    cand_comb_map._layers[e.sourceTarget._leaflet_id].setStyle({color: '#BA0C2F'});
+    cand_comb_map._layers[e.sourceTarget._leaflet_id].setStyle({
+      color: '#BA0C2F'
+    });
     ward_dropdown = "#cand_comb_ward";
     ward_num = cand_comb_wards.indexOf(ward_num);
   }
 
   if (e.sourceTarget._mapToAdd._container.id == "time_map_div") {
-    geojson.setStyle({color: '#28b78d'});
+    geojson.setStyle({
+      color: '#28b78d'
+    });
     time_map._layers[e.sourceTarget._leaflet_id].bringToFront();
-    time_map._layers[e.sourceTarget._leaflet_id].setStyle({color: '#BA0C2F'});
+    time_map._layers[e.sourceTarget._leaflet_id].setStyle({
+      color: '#BA0C2F'
+    });
     ward_dropdown = "#time_ward";
     ward_num = time_wards.indexOf(ward_num);
   }
@@ -179,9 +195,8 @@ function makeTable(div, data, headers) {
   headers = headers.filter(function(item) {
     return item !== "division";
   });
-delete(final_data[0]["0"]);
+  delete(final_data[0]["0"]);
   for (var n = 0; n < headers.length; n++) {
-    console.log(headers[n])
     z.push({
       data: headers[n],
       title: headers[n],
@@ -193,20 +208,19 @@ delete(final_data[0]["0"]);
     data: final_data,
     columns: z,
     "scrollX": true,
-  "sScrollXInner": "100%",
-  "sScrollX": "100%",
-  "stripe": true,
-  "hover": true,
-  "lengthChange": false,
-  "paging": false,
-  "searching": false,
-  "pageLength": 100,
-  "ordering": true,
-  "order": [1, "desc"],
-  "fixedHeader": true,
-  fixedColumns: {
-    leftColumns: 2
-  }
+    "sScrollXInner": "100%",
+    "sScrollX": "100%",
+    "stripe": true,
+    "hover": true,
+    "lengthChange": false,
+    "paging": false,
+    "searching": false,
+    "ordering": false,
+    fixedColumns: true,
+    "fixedHeader": {
+      header: true,
+    },
+    "order": [1, "desc"]
   });
   $("#table_wrapper").css("width", "100%");
 

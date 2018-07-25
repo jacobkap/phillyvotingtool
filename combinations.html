@@ -108,7 +108,7 @@
       cand_data.pop();
       headers = cand_data[0]
       cand_data = data_object_fun(cand_data, headers)
-  //  cand_data.shift();
+      cand_data.shift();
 
       table = makeTable("#table", cand_data, headers);
       title = cand_comb_offices[$('#cand_comb_ballot_position').val()];
