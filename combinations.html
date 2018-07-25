@@ -41,7 +41,6 @@
 </div>
 
 
-<div class="row">
       <div class="column sidebar" style="background-color:#aaa;">
         <h3>Select an Election:</h3>
         <br>
@@ -72,6 +71,9 @@
       accessToken: 'pk.eyJ1IjoiamtrYXBsYW4iLCJhIjoiY2lnOXAyaWZyMHNjZ3V5bHg4YTZieDczaSJ9.vSjaF4o2xaDFhNAv9Z2y7A'
     }).addTo(cand_comb_map);
   //    cand_comb_map.setMaxBounds(cand_comb_map.getBounds())
+    geojson = L.geoJson(wards_polygon, {
+      onEachFeature: onEachFeature
+    }).addTo(cand_comb_map);
   </script>
 </div>
 
@@ -79,6 +81,7 @@
     <div id="loader"></div>
 
    <h4 id="table_title" align="center"></h4>
+   <br>
   <!-- <h5 id="table_subtitle" align="center">subtitle</h5> -->
   <div><table id="table" class="display" style="width:100%"></table></div>
 
@@ -105,15 +108,10 @@
       cand_data.pop();
       headers = cand_data[0]
       cand_data = data_object_fun(cand_data, headers)
-    cand_data.shift();
-
-
+  //  cand_data.shift();
 
       table = makeTable("#table", cand_data, headers);
-      title = cand_comb_offices[$('#cand_comb_ballot_position').val()[0]];
-      if ($('#cand_comb_ballot_position').val().length > 1) {
-        title += " and " + cand_comb_offices[$('#cand_comb_ballot_position').val()[1]];
-      }
+      title = cand_comb_offices[$('#cand_comb_ballot_position').val()];
       if (cand_comb_wards[$("#cand_comb_ward").val()] != "All") {
             title += ", Ward " + cand_comb_wards[$("#cand_comb_ward").val()];
       }
@@ -122,19 +120,12 @@
       }
     //  subtitle = "Max number of selections: " + cand_comb_offices[$('#cand_comb_ballot_position').val()];
       $("#table_title").text(title);
-
-      geojson = L.geoJson(wards_polygon, {
-        filter: mapAvailableWardsCond,
-        onEachFeature: onEachFeature
-      }).addTo(cand_comb_map);
-            geojson.setStyle({color: '#28b78d'});
     //  $("#table_subtitle").text(subtitle);
 
 $("#table").ready($("#loader").hide())
 
   });
   </script>
-</div>
 </div>
 
 </body>

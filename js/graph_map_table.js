@@ -7,7 +7,7 @@ function makeGraph(data) {
   election = elections[$(time_election).val()];
   graph_title = "Percent of Votes by Hour";
   if (time_wards[$("#time_ward").val()] != "All") {
-    graph_title += " Election, Ward " + time_wards[$("#time_ward").val()];
+    graph_title += ", Ward " + time_wards[$("#time_ward").val()];
   }
   if ($("#time_division").val() != "0") {
     graph_title += ", Division " + $("#time_division").val();
@@ -81,21 +81,21 @@ function whenClicked(e) {
   if (e.sourceTarget._mapToAdd._container.id == "results_map_div") {
     geojson.setStyle({color: '#28b78d'});
     results_map._layers[e.sourceTarget._leaflet_id].bringToFront();
-    results_map._layers[e.sourceTarget._leaflet_id].setStyle({color: '#ff0000'});
+    results_map._layers[e.sourceTarget._leaflet_id].setStyle({color: '#BA0C2F'});
     ward_dropdown = "#results_ward";
     ward_num = results_wards.indexOf(ward_num);
   }
   if (e.sourceTarget._mapToAdd._container.id == "choices_map_div") {
     geojson.setStyle({color: '#28b78d'});
     choices_map._layers[e.sourceTarget._leaflet_id].bringToFront();
-    choices_map._layers[e.sourceTarget._leaflet_id].setStyle({color: '#ff0000'});
+    choices_map._layers[e.sourceTarget._leaflet_id].setStyle({color: '#BA0C2F'});
     ward_dropdown = "#choices_ward";
     ward_num = choices_wards.indexOf(ward_num);
   }
   if (e.sourceTarget._mapToAdd._container.id == "cand_comb_map_div") {
     geojson.setStyle({color: '#28b78d'});
     cand_comb_map._layers[e.sourceTarget._leaflet_id].bringToFront();
-    cand_comb_map._layers[e.sourceTarget._leaflet_id].setStyle({color: '#ff0000'});
+    cand_comb_map._layers[e.sourceTarget._leaflet_id].setStyle({color: '#BA0C2F'});
     ward_dropdown = "#cand_comb_ward";
     ward_num = cand_comb_wards.indexOf(ward_num);
   }
@@ -103,7 +103,7 @@ function whenClicked(e) {
   if (e.sourceTarget._mapToAdd._container.id == "time_map_div") {
     geojson.setStyle({color: '#28b78d'});
     time_map._layers[e.sourceTarget._leaflet_id].bringToFront();
-    time_map._layers[e.sourceTarget._leaflet_id].setStyle({color: '#ff0000'});
+    time_map._layers[e.sourceTarget._leaflet_id].setStyle({color: '#BA0C2F'});
     ward_dropdown = "#time_ward";
     ward_num = time_wards.indexOf(ward_num);
   }
@@ -179,32 +179,37 @@ function makeTable(div, data, headers) {
   headers = headers.filter(function(item) {
     return item !== "division";
   });
-
-
+delete(final_data[0]["0"]);
   for (var n = 0; n < headers.length; n++) {
+    console.log(headers[n])
     z.push({
       data: headers[n],
       title: headers[n],
+      className: "dt-head-left dt-body-right"
     });
   }
 
-  var table = $(div).DataTable({
+  var table = $("#table").DataTable({
     data: final_data,
     columns: z,
-    "ordering": false,
-    "searching": false,
-    "bInfo": false,
-    "bPaginate": false, //hide pagination control
-    "bFilter": false, //hide filter control
-    "lengthChange": false,
     "scrollX": true,
-    "sScrollXInner": "100%",
-    "sScrollX": "100%",
-    fixedColumns: {
-      leftColumns: 1
-    }
+  "sScrollXInner": "100%",
+  "sScrollX": "100%",
+  "stripe": true,
+  "hover": true,
+  "lengthChange": false,
+  "paging": false,
+  "searching": false,
+  "pageLength": 100,
+  "ordering": true,
+  "order": [1, "desc"],
+  "fixedHeader": true,
+  fixedColumns: {
+    leftColumns: 2
+  }
   });
   $("#table_wrapper").css("width", "100%");
+
 
   return table;
 }
