@@ -87,9 +87,6 @@ function getOffices(type, election_dropdown, max_choices = false) {
  }
   url = "https://raw.githubusercontent.com/jacobkap/phillyvotingtool/master/data/";
   url += type + "/election_";
-  if (type == "num_selected") {
-    elections = elections;
-  }
 
   election = elections[$(election_dropdown).val()];
   election = election.toLowerCase().replace(" ", "_");
