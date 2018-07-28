@@ -18,15 +18,6 @@ elections = [
   "2012 Primary"
 ];
 
-num_selected_elections = [
-  "2017 General",
-  "2017 Primary",
-  "2015 General",
-  "2015 Primary",
-  "2013 General",
-  "2013 Primary",
-  "2012 Primary"
-];
 
 /*
 wards = [

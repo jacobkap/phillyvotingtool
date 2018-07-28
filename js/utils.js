@@ -88,7 +88,7 @@ function getOffices(type, election_dropdown, max_choices = false) {
   url = "https://raw.githubusercontent.com/jacobkap/phillyvotingtool/master/data/";
   url += type + "/election_";
   if (type == "num_selected") {
-    elections = num_selected_elections;
+    elections = elections;
   }
 
   election = elections[$(election_dropdown).val()];
@@ -129,7 +129,7 @@ function getData(type) {
     folder = "num_selected";
     office_dropdown = "#choices_ballot_position";
     election_dropdown = "#choices_election";
-    elections = num_selected_elections;
+    elections = elections;
   } else if (type == "cand_comb") {
     folder = "cand_comb";
     office_dropdown = "#cand_comb_ballot_position";
@@ -193,7 +193,7 @@ if (type == "cand_comb") {
 
 function getWards(type, election_dropdown, office_dropdown, offices) {
   if (type == "num_selected") {
-    elections = num_selected_elections;
+    elections = elections;
   }
   election = elections[$(election_dropdown).val()];
   election = election.toLowerCase().replace(" ", "_");
@@ -319,7 +319,7 @@ function formatData(data, type) {
     }
     title_text = [title];
   } else if (type == "choices") {
-    election = num_selected_elections[$(choices_election).val()];
+    election = elections[$(choices_election).val()];
     title = election + " Election, " + choices_offices[$('#choices_ballot_position').val()];
     if (choices_wards[$("#choices_ward").val()] != "All") {
       title += ", Ward " + choices_wards[$("#choices_ward").val()];

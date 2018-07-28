@@ -88,7 +88,7 @@ $(document).ready(function(){
   $('.simple-select').chosen();
    jQuery(window).on('resize', resizeChosen);
   resizeChosen();
-  $.each(num_selected_elections, function(val, text) {
+  $.each(elections, function(val, text) {
           $('#choices_election').append( new Option(text,val) );
       });
   $('#choices_election').val(0);
