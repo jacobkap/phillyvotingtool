@@ -1,1 +1,22 @@
-["Controller", "District Attorney", "Judge of the Court of Common Pleas", "Judge of the Municipal Court", "Judge of the Superior Court"]
+[
+  {
+    "category": "Controller",
+    "max_choices": 1
+  },
+  {
+    "category": "District Attorney",
+    "max_choices": 1
+  },
+  {
+    "category": "Judge of the Court of Common Pleas",
+    "max_choices": 7
+  },
+  {
+    "category": "Judge of the Municipal Court",
+    "max_choices": 3
+  },
+  {
+    "category": "Judge of the Superior Court",
+    "max_choices": 1
+  }
+]

@@ -5,8 +5,6 @@ function resultsElectionChange() {
   $.each(results_wards, function(val, text) {
     $('#results_ward').append(new Option(text, val));
   });
-
-
   resultsChange();
 }
 

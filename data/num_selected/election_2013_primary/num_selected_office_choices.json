@@ -1,1 +1,46 @@
-["Controller - Democrat", "Controller - Republican", "District Attorney - Democrat", "District Attorney - Republican", "Judge of the Court of Common Pleas - Democrat", "Judge of the Court of Common Pleas - Republican", "Judge of the Municipal Court - Democrat", "Judge of the Superior Court - Democrat", "Judge of the Superior Court - Republican", "Judge of the Traffic Court - Democrat", "Judge of the Traffic Court - Republican"]
+[
+  {
+    "category": "Controller - Democrat",
+    "max_choices": 1
+  },
+  {
+    "category": "Controller - Republican",
+    "max_choices": 1
+  },
+  {
+    "category": "District Attorney - Democrat",
+    "max_choices": 1
+  },
+  {
+    "category": "District Attorney - Republican",
+    "max_choices": 1
+  },
+  {
+    "category": "Judge of the Court of Common Pleas - Democrat",
+    "max_choices": 6
+  },
+  {
+    "category": "Judge of the Court of Common Pleas - Republican",
+    "max_choices": 2
+  },
+  {
+    "category": "Judge of the Municipal Court - Democrat",
+    "max_choices": 3
+  },
+  {
+    "category": "Judge of the Superior Court - Democrat",
+    "max_choices": 1
+  },
+  {
+    "category": "Judge of the Superior Court - Republican",
+    "max_choices": 1
+  },
+  {
+    "category": "Judge of the Traffic Court - Democrat",
+    "max_choices": 3
+  },
+  {
+    "category": "Judge of the Traffic Court - Republican",
+    "max_choices": 2
+  }
+]

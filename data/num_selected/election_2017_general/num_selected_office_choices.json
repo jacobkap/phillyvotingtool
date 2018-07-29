@@ -1,1 +1,30 @@
-["City Controller", "District Attorney", "Judge of the Commonwealth Court", "Judge of the Court of Common Pleas", "Judge of the Municipal Court", "Judge of the Superior Court", "Justice of the Supreme Court"]
+[
+  {
+    "category": "City Controller",
+    "max_choices": 1
+  },
+  {
+    "category": "District Attorney",
+    "max_choices": 1
+  },
+  {
+    "category": "Judge of the Commonwealth Court",
+    "max_choices": 2
+  },
+  {
+    "category": "Judge of the Court of Common Pleas",
+    "max_choices": 9
+  },
+  {
+    "category": "Judge of the Municipal Court",
+    "max_choices": 2
+  },
+  {
+    "category": "Judge of the Superior Court",
+    "max_choices": 4
+  },
+  {
+    "category": "Justice of the Supreme Court",
+    "max_choices": 1
+  }
+]

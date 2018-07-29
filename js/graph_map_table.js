@@ -129,14 +129,11 @@ function whenClicked(e) {
   $(ward_dropdown).trigger("chosen:updated");
   if (e.sourceTarget._mapToAdd._container.id == "results_map_div") {
     resultsChange();
-  }
-  if (e.sourceTarget._mapToAdd._container.id == "choices_map_div") {
+  } else if (e.sourceTarget._mapToAdd._container.id == "choices_map_div") {
     choicesChange();
-  }
-  if (e.sourceTarget._mapToAdd._container.id == "time_map_div") {
+  } else if (e.sourceTarget._mapToAdd._container.id == "time_map_div") {
     timeChange();
-  }
-  if (e.sourceTarget._mapToAdd._container.id == "cand_comb_map_div") {
+  } else if (e.sourceTarget._mapToAdd._container.id == "cand_comb_map_div") {
     candCombChange();
   }
 }
