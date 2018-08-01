@@ -1,66 +1,66 @@
-col_1,col_2,col_3,order,division
-,United States Senator - Republican,,1,All
-,Jim Christiana,Lou Barletta,2,All
-Jim Christiana,11,0,3,All
-Lou Barletta,,8,4,All
-Total,11,8,5,All
-,United States Senator - Republican,,1,1
-,Jim Christiana,Lou Barletta,2,1
-Jim Christiana,1,0,3,1
-Lou Barletta,,0,4,1
-Total,1,0,5,1
-,United States Senator - Republican,,1,2
-,Jim Christiana,Lou Barletta,2,2
-Jim Christiana,1,0,3,2
-Lou Barletta,,0,4,2
-Total,1,0,5,2
-,United States Senator - Republican,,1,3
-,Jim Christiana,Lou Barletta,2,3
-Jim Christiana,2,0,3,3
-Lou Barletta,,0,4,3
-Total,2,0,5,3
-,United States Senator - Republican,,1,4
-,Lou Barletta,Jim Christiana,2,4
-Lou Barletta,1,0,3,4
-Jim Christiana,,0,4,4
-Total,1,0,5,4
-,United States Senator - Republican,,1,5
-,Lou Barletta,Jim Christiana,2,5
-Lou Barletta,1,0,3,5
-Jim Christiana,,0,4,5
-Total,1,0,5,5
-,United States Senator - Republican,,1,10
-,Jim Christiana,Lou Barletta,2,10
-Jim Christiana,2,0,3,10
-Lou Barletta,,0,4,10
-Total,2,0,5,10
-,United States Senator - Republican,,1,11
-,Jim Christiana,Lou Barletta,2,11
-Jim Christiana,2,0,3,11
-Lou Barletta,,2,4,11
-Total,2,2,5,11
-,United States Senator - Republican,,1,13
-,Lou Barletta,Jim Christiana,2,13
-Lou Barletta,2,0,3,13
-Jim Christiana,,0,4,13
-Total,2,0,5,13
-,United States Senator - Republican,,1,14
-,Lou Barletta,Jim Christiana,2,14
-Lou Barletta,2,0,3,14
-Jim Christiana,,0,4,14
-Total,2,0,5,14
-,United States Senator - Republican,,1,15
-,Jim Christiana,Lou Barletta,2,15
-Jim Christiana,1,0,3,15
-Lou Barletta,,0,4,15
-Total,1,0,5,15
-,United States Senator - Republican,,1,17
-,Jim Christiana,Lou Barletta,2,17
-Jim Christiana,1,0,3,17
-Lou Barletta,,0,4,17
-Total,1,0,5,17
-,United States Senator - Republican,,1,18
-,Jim Christiana,Lou Barletta,2,18
-Jim Christiana,1,0,3,18
-Lou Barletta,,0,4,18
-Total,1,0,5,18
+col_1,col_2,col_3,division
+,United States Senator - Republican,,All
+,Jim Christiana,Lou Barletta,All
+Jim Christiana,11,0,All
+Lou Barletta,,8,All
+Total,11,8,All
+,United States Senator - Republican,,1
+,Jim Christiana,Lou Barletta,1
+Jim Christiana,1,0,1
+Lou Barletta,,0,1
+Total,1,0,1
+,United States Senator - Republican,,2
+,Jim Christiana,Lou Barletta,2
+Jim Christiana,1,0,2
+Lou Barletta,,0,2
+Total,1,0,2
+,United States Senator - Republican,,3
+,Jim Christiana,Lou Barletta,3
+Jim Christiana,2,0,3
+Lou Barletta,,0,3
+Total,2,0,3
+,United States Senator - Republican,,4
+,Lou Barletta,Jim Christiana,4
+Lou Barletta,1,0,4
+Jim Christiana,,0,4
+Total,1,0,4
+,United States Senator - Republican,,5
+,Lou Barletta,Jim Christiana,5
+Lou Barletta,1,0,5
+Jim Christiana,,0,5
+Total,1,0,5
+,United States Senator - Republican,,10
+,Jim Christiana,Lou Barletta,10
+Jim Christiana,2,0,10
+Lou Barletta,,0,10
+Total,2,0,10
+,United States Senator - Republican,,11
+,Jim Christiana,Lou Barletta,11
+Jim Christiana,2,0,11
+Lou Barletta,,2,11
+Total,2,2,11
+,United States Senator - Republican,,13
+,Lou Barletta,Jim Christiana,13
+Lou Barletta,2,0,13
+Jim Christiana,,0,13
+Total,2,0,13
+,United States Senator - Republican,,14
+,Lou Barletta,Jim Christiana,14
+Lou Barletta,2,0,14
+Jim Christiana,,0,14
+Total,2,0,14
+,United States Senator - Republican,,15
+,Jim Christiana,Lou Barletta,15
+Jim Christiana,1,0,15
+Lou Barletta,,0,15
+Total,1,0,15
+,United States Senator - Republican,,17
+,Jim Christiana,Lou Barletta,17
+Jim Christiana,1,0,17
+Lou Barletta,,0,17
+Total,1,0,17
+,United States Senator - Republican,,18
+,Jim Christiana,Lou Barletta,18
+Jim Christiana,1,0,18
+Lou Barletta,,0,18
+Total,1,0,18

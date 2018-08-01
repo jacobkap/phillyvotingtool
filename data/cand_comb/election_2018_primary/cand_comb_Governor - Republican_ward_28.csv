@@ -1,25 +1,25 @@
-col_1,col_2,col_3,col_4,order,division
-,Governor - Republican,,,1,All
-,Scott R Wagner,Paul Mango,Laura Ellsworth,2,All
-Scott R Wagner,2,0,0,3,All
-Paul Mango,,1,0,4,All
-Laura Ellsworth,,,0,5,All
-Total,2,1,0,6,All
-,Governor - Republican,,,1,13
-,Paul Mango,Laura Ellsworth,Scott R Wagner,2,13
-Paul Mango,1,0,0,3,13
-Laura Ellsworth,,0,0,4,13
-Scott R Wagner,,,0,5,13
-Total,1,0,0,6,13
-,Governor - Republican,,,1,15
-,Scott R Wagner,Laura Ellsworth,Paul Mango,2,15
-Scott R Wagner,1,0,0,3,15
-Laura Ellsworth,,0,0,4,15
-Paul Mango,,,0,5,15
-Total,1,0,0,6,15
-,Governor - Republican,,,1,16
-,Scott R Wagner,Laura Ellsworth,Paul Mango,2,16
-Scott R Wagner,1,0,0,3,16
-Laura Ellsworth,,0,0,4,16
-Paul Mango,,,0,5,16
-Total,1,0,0,6,16
+col_1,col_2,col_3,col_4,division
+,Governor - Republican,,,All
+,Scott R Wagner,Paul Mango,Laura Ellsworth,All
+Scott R Wagner,2,0,0,All
+Paul Mango,,1,0,All
+Laura Ellsworth,,,0,All
+Total,2,1,0,All
+,Governor - Republican,,,13
+,Paul Mango,Laura Ellsworth,Scott R Wagner,13
+Paul Mango,1,0,0,13
+Laura Ellsworth,,0,0,13
+Scott R Wagner,,,0,13
+Total,1,0,0,13
+,Governor - Republican,,,15
+,Scott R Wagner,Laura Ellsworth,Paul Mango,15
+Scott R Wagner,1,0,0,15
+Laura Ellsworth,,0,0,15
+Paul Mango,,,0,15
+Total,1,0,0,15
+,Governor - Republican,,,16
+,Scott R Wagner,Laura Ellsworth,Paul Mango,16
+Scott R Wagner,1,0,0,16
+Laura Ellsworth,,0,0,16
+Paul Mango,,,0,16
+Total,1,0,0,16

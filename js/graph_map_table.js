@@ -221,7 +221,7 @@ function makeTable(div, data, headers) {
           "sScrollXInner": "100%",
           "sScrollX": "100%"
   });
- $("#table_wrapper").css("width", "100%");
+ $("#table_wrapper").css("width", "95%");
  $($.fn.dataTable.tables(true)).DataTable()
       .columns.adjust()
       .responsive.recalc();

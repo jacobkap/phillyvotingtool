@@ -1,43 +1,43 @@
-col_1,col_2,col_3,col_4,col_5,order,division
-,Lieutenant Governor - Republican,,,,1,All
-,Diana Irey Vaughan,Jeff Bartos,Kathy Coder,Peg Luksik,2,All
-Diana Irey Vaughan,4,0,0,0,3,All
-Jeff Bartos,,2,0,0,4,All
-Kathy Coder,,,2,0,5,All
-Peg Luksik,,,,0,6,All
-Total,4,2,2,0,7,All
-,Lieutenant Governor - Republican,,,,1,1
-,Diana Irey Vaughan,Jeff Bartos,Kathy Coder,Peg Luksik,2,1
-Diana Irey Vaughan,1,0,0,0,3,1
-Jeff Bartos,,0,0,0,4,1
-Kathy Coder,,,0,0,5,1
-Peg Luksik,,,,0,6,1
-Total,1,0,0,0,7,1
-,Lieutenant Governor - Republican,,,,1,2
-,Kathy Coder,Diana Irey Vaughan,Jeff Bartos,Peg Luksik,2,2
-Kathy Coder,1,0,0,0,3,2
-Diana Irey Vaughan,,0,0,0,4,2
-Jeff Bartos,,,0,0,5,2
-Peg Luksik,,,,0,6,2
-Total,1,0,0,0,7,2
-,Lieutenant Governor - Republican,,,,1,3
-,Diana Irey Vaughan,Jeff Bartos,Kathy Coder,Peg Luksik,2,3
-Diana Irey Vaughan,1,0,0,0,3,3
-Jeff Bartos,,0,0,0,4,3
-Kathy Coder,,,0,0,5,3
-Peg Luksik,,,,0,6,3
-Total,1,0,0,0,7,3
-,Lieutenant Governor - Republican,,,,1,5
-,Diana Irey Vaughan,Jeff Bartos,Kathy Coder,Peg Luksik,2,5
-Diana Irey Vaughan,1,0,0,0,3,5
-Jeff Bartos,,1,0,0,4,5
-Kathy Coder,,,0,0,5,5
-Peg Luksik,,,,0,6,5
-Total,1,1,0,0,7,5
-,Lieutenant Governor - Republican,,,,1,10
-,Diana Irey Vaughan,Jeff Bartos,Kathy Coder,Peg Luksik,2,10
-Diana Irey Vaughan,1,0,0,0,3,10
-Jeff Bartos,,1,0,0,4,10
-Kathy Coder,,,1,0,5,10
-Peg Luksik,,,,0,6,10
-Total,1,1,1,0,7,10
+col_1,col_2,col_3,col_4,col_5,division
+,Lieutenant Governor - Republican,,,,All
+,Diana Irey Vaughan,Jeff Bartos,Kathy Coder,Peg Luksik,All
+Diana Irey Vaughan,4,0,0,0,All
+Jeff Bartos,,2,0,0,All
+Kathy Coder,,,2,0,All
+Peg Luksik,,,,0,All
+Total,4,2,2,0,All
+,Lieutenant Governor - Republican,,,,1
+,Diana Irey Vaughan,Jeff Bartos,Kathy Coder,Peg Luksik,1
+Diana Irey Vaughan,1,0,0,0,1
+Jeff Bartos,,0,0,0,1
+Kathy Coder,,,0,0,1
+Peg Luksik,,,,0,1
+Total,1,0,0,0,1
+,Lieutenant Governor - Republican,,,,2
+,Kathy Coder,Diana Irey Vaughan,Jeff Bartos,Peg Luksik,2
+Kathy Coder,1,0,0,0,2
+Diana Irey Vaughan,,0,0,0,2
+Jeff Bartos,,,0,0,2
+Peg Luksik,,,,0,2
+Total,1,0,0,0,2
+,Lieutenant Governor - Republican,,,,3
+,Diana Irey Vaughan,Jeff Bartos,Kathy Coder,Peg Luksik,3
+Diana Irey Vaughan,1,0,0,0,3
+Jeff Bartos,,0,0,0,3
+Kathy Coder,,,0,0,3
+Peg Luksik,,,,0,3
+Total,1,0,0,0,3
+,Lieutenant Governor - Republican,,,,5
+,Diana Irey Vaughan,Jeff Bartos,Kathy Coder,Peg Luksik,5
+Diana Irey Vaughan,1,0,0,0,5
+Jeff Bartos,,1,0,0,5
+Kathy Coder,,,0,0,5
+Peg Luksik,,,,0,5
+Total,1,1,0,0,5
+,Lieutenant Governor - Republican,,,,10
+,Diana Irey Vaughan,Jeff Bartos,Kathy Coder,Peg Luksik,10
+Diana Irey Vaughan,1,0,0,0,10
+Jeff Bartos,,1,0,0,10
+Kathy Coder,,,1,0,10
+Peg Luksik,,,,0,10
+Total,1,1,1,0,10

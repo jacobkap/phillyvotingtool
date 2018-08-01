@@ -1,76 +1,76 @@
-col_1,col_2,col_3,order,division
-,United States Senator - Republican,,1,All
-,Jim Christiana,Lou Barletta,2,All
-Jim Christiana,17,0,3,All
-Lou Barletta,,10,4,All
-Total,17,10,5,All
-,United States Senator - Republican,,1,1
-,Jim Christiana,Lou Barletta,2,1
-Jim Christiana,2,0,3,1
-Lou Barletta,,1,4,1
-Total,2,1,5,1
-,United States Senator - Republican,,1,2
-,Jim Christiana,Lou Barletta,2,2
-Jim Christiana,1,0,3,2
-Lou Barletta,,0,4,2
-Total,1,0,5,2
-,United States Senator - Republican,,1,4
-,Jim Christiana,Lou Barletta,2,4
-Jim Christiana,1,0,3,4
-Lou Barletta,,0,4,4
-Total,1,0,5,4
-,United States Senator - Republican,,1,5
-,Lou Barletta,Jim Christiana,2,5
-Lou Barletta,1,0,3,5
-Jim Christiana,,0,4,5
-Total,1,0,5,5
-,United States Senator - Republican,,1,10
-,Lou Barletta,Jim Christiana,2,10
-Lou Barletta,4,0,3,10
-Jim Christiana,,3,4,10
-Total,4,3,5,10
-,United States Senator - Republican,,1,11
-,Jim Christiana,Lou Barletta,2,11
-Jim Christiana,1,0,3,11
-Lou Barletta,,0,4,11
-Total,1,0,5,11
-,United States Senator - Republican,,1,12
-,Jim Christiana,Lou Barletta,2,12
-Jim Christiana,1,0,3,12
-Lou Barletta,,0,4,12
-Total,1,0,5,12
-,United States Senator - Republican,,1,16
-,Jim Christiana,Lou Barletta,2,16
-Jim Christiana,1,0,3,16
-Lou Barletta,,0,4,16
-Total,1,0,5,16
-,United States Senator - Republican,,1,17
-,Jim Christiana,Lou Barletta,2,17
-Jim Christiana,1,0,3,17
-Lou Barletta,,0,4,17
-Total,1,0,5,17
-,United States Senator - Republican,,1,20
-,Jim Christiana,Lou Barletta,2,20
-Jim Christiana,2,0,3,20
-Lou Barletta,,0,4,20
-Total,2,0,5,20
-,United States Senator - Republican,,1,22
-,Lou Barletta,Jim Christiana,2,22
-Lou Barletta,1,0,3,22
-Jim Christiana,,0,4,22
-Total,1,0,5,22
-,United States Senator - Republican,,1,24
-,Jim Christiana,Lou Barletta,2,24
-Jim Christiana,2,0,3,24
-Lou Barletta,,1,4,24
-Total,2,1,5,24
-,United States Senator - Republican,,1,25
-,Lou Barletta,Jim Christiana,2,25
-Lou Barletta,2,0,3,25
-Jim Christiana,,1,4,25
-Total,2,1,5,25
-,United States Senator - Republican,,1,26
-,Jim Christiana,Lou Barletta,2,26
-Jim Christiana,1,0,3,26
-Lou Barletta,,0,4,26
-Total,1,0,5,26
+col_1,col_2,col_3,division
+,United States Senator - Republican,,All
+,Jim Christiana,Lou Barletta,All
+Jim Christiana,17,0,All
+Lou Barletta,,10,All
+Total,17,10,All
+,United States Senator - Republican,,1
+,Jim Christiana,Lou Barletta,1
+Jim Christiana,2,0,1
+Lou Barletta,,1,1
+Total,2,1,1
+,United States Senator - Republican,,2
+,Jim Christiana,Lou Barletta,2
+Jim Christiana,1,0,2
+Lou Barletta,,0,2
+Total,1,0,2
+,United States Senator - Republican,,4
+,Jim Christiana,Lou Barletta,4
+Jim Christiana,1,0,4
+Lou Barletta,,0,4
+Total,1,0,4
+,United States Senator - Republican,,5
+,Lou Barletta,Jim Christiana,5
+Lou Barletta,1,0,5
+Jim Christiana,,0,5
+Total,1,0,5
+,United States Senator - Republican,,10
+,Lou Barletta,Jim Christiana,10
+Lou Barletta,4,0,10
+Jim Christiana,,3,10
+Total,4,3,10
+,United States Senator - Republican,,11
+,Jim Christiana,Lou Barletta,11
+Jim Christiana,1,0,11
+Lou Barletta,,0,11
+Total,1,0,11
+,United States Senator - Republican,,12
+,Jim Christiana,Lou Barletta,12
+Jim Christiana,1,0,12
+Lou Barletta,,0,12
+Total,1,0,12
+,United States Senator - Republican,,16
+,Jim Christiana,Lou Barletta,16
+Jim Christiana,1,0,16
+Lou Barletta,,0,16
+Total,1,0,16
+,United States Senator - Republican,,17
+,Jim Christiana,Lou Barletta,17
+Jim Christiana,1,0,17
+Lou Barletta,,0,17
+Total,1,0,17
+,United States Senator - Republican,,20
+,Jim Christiana,Lou Barletta,20
+Jim Christiana,2,0,20
+Lou Barletta,,0,20
+Total,2,0,20
+,United States Senator - Republican,,22
+,Lou Barletta,Jim Christiana,22
+Lou Barletta,1,0,22
+Jim Christiana,,0,22
+Total,1,0,22
+,United States Senator - Republican,,24
+,Jim Christiana,Lou Barletta,24
+Jim Christiana,2,0,24
+Lou Barletta,,1,24
+Total,2,1,24
+,United States Senator - Republican,,25
+,Lou Barletta,Jim Christiana,25
+Lou Barletta,2,0,25
+Jim Christiana,,1,25
+Total,2,1,25
+,United States Senator - Republican,,26
+,Jim Christiana,Lou Barletta,26
+Jim Christiana,1,0,26
+Lou Barletta,,0,26
+Total,1,0,26

@@ -1,115 +1,115 @@
-col_1,col_2,col_3,col_4,order,division
-,Governor - Democrat,Representative In Congress 3rd District - Democrat,,1,All
-,Tom Wolf,Dwight Evans,Kevin Johnson,2,All
-Tom Wolf,68,886,173,3,All
-Dwight Evans,,45,0,4,All
-Kevin Johnson,,,11,5,All
-Total,"1,127",931,184,6,All
-,Governor - Democrat,Representative In Congress 3rd District - Democrat,,1,1
-,Tom Wolf,Dwight Evans,Kevin Johnson,2,1
-Tom Wolf,4,51,10,3,1
-Dwight Evans,,0,0,4,1
-Kevin Johnson,,,0,5,1
-Total,65,51,10,6,1
-,Governor - Democrat,Representative In Congress 3rd District - Democrat,,1,2
-,Tom Wolf,Dwight Evans,Kevin Johnson,2,2
-Tom Wolf,1,15,3,3,2
-Dwight Evans,,2,0,4,2
-Kevin Johnson,,,0,5,2
-Total,19,17,3,6,2
-,Governor - Democrat,Representative In Congress 3rd District - Democrat,,1,3
-,Tom Wolf,Dwight Evans,Kevin Johnson,2,3
-Tom Wolf,7,95,28,3,3
-Dwight Evans,,3,0,4,3
-Kevin Johnson,,,4,5,3
-Total,130,98,32,6,3
-,Governor - Democrat,Representative In Congress 3rd District - Democrat,,1,4
-,Tom Wolf,Dwight Evans,Kevin Johnson,2,4
-Tom Wolf,2,14,2,3,4
-Dwight Evans,,3,0,4,4
-Kevin Johnson,,,0,5,4
-Total,18,17,2,6,4
-,Representative In Congress 3rd District - Democrat,,Governor - Democrat,1,5
-,Dwight Evans,Kevin Johnson,Tom Wolf,2,5
-Dwight Evans,4,0,23,3,5
-Kevin Johnson,,0,2,4,5
-Tom Wolf,,,1,5,5
-Total,27,2,26,6,5
-,Governor - Democrat,Representative In Congress 3rd District - Democrat,,1,6
-,Tom Wolf,Dwight Evans,Kevin Johnson,2,6
-Tom Wolf,6,36,2,3,6
-Dwight Evans,,3,0,4,6
-Kevin Johnson,,,1,5,6
-Total,44,39,3,6,6
-,Representative In Congress 3rd District - Democrat,,Governor - Democrat,1,7
-,Dwight Evans,Kevin Johnson,Tom Wolf,2,7
-Dwight Evans,2,0,0,3,7
-Kevin Johnson,,0,1,4,7
-Tom Wolf,,,0,5,7
-Total,2,1,1,6,7
-,Representative In Congress 3rd District - Democrat,,Governor - Democrat,1,8
-,Dwight Evans,Kevin Johnson,Tom Wolf,2,8
-Dwight Evans,2,0,23,3,8
-Kevin Johnson,,0,2,4,8
-Tom Wolf,,,0,5,8
-Total,25,2,25,6,8
-,Governor - Democrat,Representative In Congress 3rd District - Democrat,,1,9
-,Tom Wolf,Dwight Evans,Kevin Johnson,2,9
-Tom Wolf,3,30,3,3,9
-Dwight Evans,,3,0,4,9
-Kevin Johnson,,,0,5,9
-Total,36,33,3,6,9
-,Governor - Democrat,Representative In Congress 3rd District - Democrat,,1,10
-,Tom Wolf,Dwight Evans,Kevin Johnson,2,10
-Tom Wolf,4,100,30,3,10
-Dwight Evans,,2,0,4,10
-Kevin Johnson,,,2,5,10
-Total,134,102,32,6,10
-,Governor - Democrat,Representative In Congress 3rd District - Democrat,,1,11
-,Tom Wolf,Dwight Evans,Kevin Johnson,2,11
-Tom Wolf,5,58,21,3,11
-Dwight Evans,,3,0,4,11
-Kevin Johnson,,,1,5,11
-Total,84,61,22,6,11
-,Governor - Democrat,Representative In Congress 3rd District - Democrat,,1,12
-,Tom Wolf,Dwight Evans,Kevin Johnson,2,12
-Tom Wolf,9,72,10,3,12
-Dwight Evans,,5,0,4,12
-Kevin Johnson,,,1,5,12
-Total,91,77,11,6,12
-,Governor - Democrat,Representative In Congress 3rd District - Democrat,,1,13
-,Tom Wolf,Dwight Evans,Kevin Johnson,2,13
-Tom Wolf,5,89,9,3,13
-Dwight Evans,,4,0,4,13
-Kevin Johnson,,,1,5,13
-Total,103,93,10,6,13
-,Governor - Democrat,Representative In Congress 3rd District - Democrat,,1,14
-,Tom Wolf,Dwight Evans,Kevin Johnson,2,14
-Tom Wolf,8,44,11,3,14
-Dwight Evans,,1,0,4,14
-Kevin Johnson,,,0,5,14
-Total,63,45,11,6,14
-,Governor - Democrat,Representative In Congress 3rd District - Democrat,,1,15
-,Tom Wolf,Dwight Evans,Kevin Johnson,2,15
-Tom Wolf,6,48,12,3,15
-Dwight Evans,,1,0,4,15
-Kevin Johnson,,,0,5,15
-Total,66,49,12,6,15
-,Representative In Congress 3rd District - Democrat,,Governor - Democrat,1,16
-,Dwight Evans,Kevin Johnson,Tom Wolf,2,16
-Dwight Evans,6,0,65,3,16
-Kevin Johnson,,0,6,4,16
-Tom Wolf,,,0,5,16
-Total,71,6,71,6,16
-,Governor - Democrat,Representative In Congress 3rd District - Democrat,,1,17
-,Tom Wolf,Dwight Evans,Kevin Johnson,2,17
-Tom Wolf,2,51,11,3,17
-Dwight Evans,,1,0,4,17
-Kevin Johnson,,,0,5,17
-Total,64,52,11,6,17
-,Governor - Democrat,Representative In Congress 3rd District - Democrat,,1,18
-,Tom Wolf,Dwight Evans,Kevin Johnson,2,18
-Tom Wolf,5,72,10,3,18
-Dwight Evans,,0,0,4,18
-Kevin Johnson,,,1,5,18
-Total,87,72,11,6,18
+col_1,col_2,col_3,col_4,division
+,Governor - Democrat,Representative In Congress 3rd District - Democrat,,All
+,Tom Wolf,Dwight Evans,Kevin Johnson,All
+Tom Wolf,68,886,173,All
+Dwight Evans,,45,0,All
+Kevin Johnson,,,11,All
+Total,"1,127",931,184,All
+,Governor - Democrat,Representative In Congress 3rd District - Democrat,,1
+,Tom Wolf,Dwight Evans,Kevin Johnson,1
+Tom Wolf,4,51,10,1
+Dwight Evans,,0,0,1
+Kevin Johnson,,,0,1
+Total,65,51,10,1
+,Governor - Democrat,Representative In Congress 3rd District - Democrat,,2
+,Tom Wolf,Dwight Evans,Kevin Johnson,2
+Tom Wolf,1,15,3,2
+Dwight Evans,,2,0,2
+Kevin Johnson,,,0,2
+Total,19,17,3,2
+,Governor - Democrat,Representative In Congress 3rd District - Democrat,,3
+,Tom Wolf,Dwight Evans,Kevin Johnson,3
+Tom Wolf,7,95,28,3
+Dwight Evans,,3,0,3
+Kevin Johnson,,,4,3
+Total,130,98,32,3
+,Governor - Democrat,Representative In Congress 3rd District - Democrat,,4
+,Tom Wolf,Dwight Evans,Kevin Johnson,4
+Tom Wolf,2,14,2,4
+Dwight Evans,,3,0,4
+Kevin Johnson,,,0,4
+Total,18,17,2,4
+,Representative In Congress 3rd District - Democrat,,Governor - Democrat,5
+,Dwight Evans,Kevin Johnson,Tom Wolf,5
+Dwight Evans,4,0,23,5
+Kevin Johnson,,0,2,5
+Tom Wolf,,,1,5
+Total,27,2,26,5
+,Governor - Democrat,Representative In Congress 3rd District - Democrat,,6
+,Tom Wolf,Dwight Evans,Kevin Johnson,6
+Tom Wolf,6,36,2,6
+Dwight Evans,,3,0,6
+Kevin Johnson,,,1,6
+Total,44,39,3,6
+,Representative In Congress 3rd District - Democrat,,Governor - Democrat,7
+,Dwight Evans,Kevin Johnson,Tom Wolf,7
+Dwight Evans,2,0,0,7
+Kevin Johnson,,0,1,7
+Tom Wolf,,,0,7
+Total,2,1,1,7
+,Representative In Congress 3rd District - Democrat,,Governor - Democrat,8
+,Dwight Evans,Kevin Johnson,Tom Wolf,8
+Dwight Evans,2,0,23,8
+Kevin Johnson,,0,2,8
+Tom Wolf,,,0,8
+Total,25,2,25,8
+,Governor - Democrat,Representative In Congress 3rd District - Democrat,,9
+,Tom Wolf,Dwight Evans,Kevin Johnson,9
+Tom Wolf,3,30,3,9
+Dwight Evans,,3,0,9
+Kevin Johnson,,,0,9
+Total,36,33,3,9
+,Governor - Democrat,Representative In Congress 3rd District - Democrat,,10
+,Tom Wolf,Dwight Evans,Kevin Johnson,10
+Tom Wolf,4,100,30,10
+Dwight Evans,,2,0,10
+Kevin Johnson,,,2,10
+Total,134,102,32,10
+,Governor - Democrat,Representative In Congress 3rd District - Democrat,,11
+,Tom Wolf,Dwight Evans,Kevin Johnson,11
+Tom Wolf,5,58,21,11
+Dwight Evans,,3,0,11
+Kevin Johnson,,,1,11
+Total,84,61,22,11
+,Governor - Democrat,Representative In Congress 3rd District - Democrat,,12
+,Tom Wolf,Dwight Evans,Kevin Johnson,12
+Tom Wolf,9,72,10,12
+Dwight Evans,,5,0,12
+Kevin Johnson,,,1,12
+Total,91,77,11,12
+,Governor - Democrat,Representative In Congress 3rd District - Democrat,,13
+,Tom Wolf,Dwight Evans,Kevin Johnson,13
+Tom Wolf,5,89,9,13
+Dwight Evans,,4,0,13
+Kevin Johnson,,,1,13
+Total,103,93,10,13
+,Governor - Democrat,Representative In Congress 3rd District - Democrat,,14
+,Tom Wolf,Dwight Evans,Kevin Johnson,14
+Tom Wolf,8,44,11,14
+Dwight Evans,,1,0,14
+Kevin Johnson,,,0,14
+Total,63,45,11,14
+,Governor - Democrat,Representative In Congress 3rd District - Democrat,,15
+,Tom Wolf,Dwight Evans,Kevin Johnson,15
+Tom Wolf,6,48,12,15
+Dwight Evans,,1,0,15
+Kevin Johnson,,,0,15
+Total,66,49,12,15
+,Representative In Congress 3rd District - Democrat,,Governor - Democrat,16
+,Dwight Evans,Kevin Johnson,Tom Wolf,16
+Dwight Evans,6,0,65,16
+Kevin Johnson,,0,6,16
+Tom Wolf,,,0,16
+Total,71,6,71,16
+,Governor - Democrat,Representative In Congress 3rd District - Democrat,,17
+,Tom Wolf,Dwight Evans,Kevin Johnson,17
+Tom Wolf,2,51,11,17
+Dwight Evans,,1,0,17
+Kevin Johnson,,,0,17
+Total,64,52,11,17
+,Governor - Democrat,Representative In Congress 3rd District - Democrat,,18
+,Tom Wolf,Dwight Evans,Kevin Johnson,18
+Tom Wolf,5,72,10,18
+Dwight Evans,,0,0,18
+Kevin Johnson,,,1,18
+Total,87,72,11,18

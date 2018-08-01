@@ -1,151 +1,151 @@
-col_1,col_2,col_3,order,division
-,Governor - Democrat,United States Senator - Democrat,1,All
-,Tom Wolf,Bob Casey Jr,2,All
-Tom Wolf,217,"3,447",3,All
-Bob Casey Jr,,131,4,All
-Total,"3,664","3,578",5,All
-,Governor - Democrat,United States Senator - Democrat,1,1
-,Tom Wolf,Bob Casey Jr,2,1
-Tom Wolf,10,114,3,1
-Bob Casey Jr,,2,4,1
-Total,124,116,5,1
-,Governor - Democrat,United States Senator - Democrat,1,2
-,Tom Wolf,Bob Casey Jr,2,2
-Tom Wolf,9,155,3,2
-Bob Casey Jr,,2,4,2
-Total,164,157,5,2
-,United States Senator - Democrat,Governor - Democrat,1,3
-,Bob Casey Jr,Tom Wolf,2,3
-Bob Casey Jr,4,135,3,3
-Tom Wolf,,4,4,3
-Total,139,139,5,3
-,Governor - Democrat,United States Senator - Democrat,1,4
-,Tom Wolf,Bob Casey Jr,2,4
-Tom Wolf,8,126,3,4
-Bob Casey Jr,,2,4,4
-Total,134,128,5,4
-,Governor - Democrat,United States Senator - Democrat,1,5
-,Tom Wolf,Bob Casey Jr,2,5
-Tom Wolf,4,143,3,5
-Bob Casey Jr,,1,4,5
-Total,147,144,5,5
-,Governor - Democrat,United States Senator - Democrat,1,6
-,Tom Wolf,Bob Casey Jr,2,6
-Tom Wolf,8,133,3,6
-Bob Casey Jr,,3,4,6
-Total,141,136,5,6
-,United States Senator - Democrat,Governor - Democrat,1,7
-,Bob Casey Jr,Tom Wolf,2,7
-Bob Casey Jr,20,81,3,7
-Tom Wolf,,7,4,7
-Total,101,88,5,7
-,Governor - Democrat,United States Senator - Democrat,1,8
-,Tom Wolf,Bob Casey Jr,2,8
-Tom Wolf,7,91,3,8
-Bob Casey Jr,,2,4,8
-Total,98,93,5,8
-,Governor - Democrat,United States Senator - Democrat,1,9
-,Tom Wolf,Bob Casey Jr,2,9
-Tom Wolf,11,100,3,9
-Bob Casey Jr,,0,4,9
-Total,111,100,5,9
-,Governor - Democrat,United States Senator - Democrat,1,10
-,Tom Wolf,Bob Casey Jr,2,10
-Tom Wolf,8,74,3,10
-Bob Casey Jr,,1,4,10
-Total,82,75,5,10
-,United States Senator - Democrat,Governor - Democrat,1,11
-,Bob Casey Jr,Tom Wolf,2,11
-Bob Casey Jr,3,91,3,11
-Tom Wolf,,1,4,11
-Total,94,92,5,11
-,Governor - Democrat,United States Senator - Democrat,1,12
-,Tom Wolf,Bob Casey Jr,2,12
-Tom Wolf,12,114,3,12
-Bob Casey Jr,,8,4,12
-Total,126,122,5,12
-,Governor - Democrat,United States Senator - Democrat,1,13
-,Tom Wolf,Bob Casey Jr,2,13
-Tom Wolf,11,143,3,13
-Bob Casey Jr,,6,4,13
-Total,154,149,5,13
-,United States Senator - Democrat,Governor - Democrat,1,14
-,Bob Casey Jr,Tom Wolf,2,14
-Bob Casey Jr,9,142,3,14
-Tom Wolf,,9,4,14
-Total,151,151,5,14
-,Governor - Democrat,United States Senator - Democrat,1,15
-,Tom Wolf,Bob Casey Jr,2,15
-Tom Wolf,7,126,3,15
-Bob Casey Jr,,4,4,15
-Total,133,130,5,15
-,Governor - Democrat,United States Senator - Democrat,1,16
-,Tom Wolf,Bob Casey Jr,2,16
-Tom Wolf,6,114,3,16
-Bob Casey Jr,,2,4,16
-Total,120,116,5,16
-,Governor - Democrat,United States Senator - Democrat,1,17
-,Tom Wolf,Bob Casey Jr,2,17
-Tom Wolf,8,131,3,17
-Bob Casey Jr,,6,4,17
-Total,139,137,5,17
-,Governor - Democrat,United States Senator - Democrat,1,18
-,Tom Wolf,Bob Casey Jr,2,18
-Tom Wolf,10,104,3,18
-Bob Casey Jr,,4,4,18
-Total,114,108,5,18
-,Governor - Democrat,United States Senator - Democrat,1,19
-,Tom Wolf,Bob Casey Jr,2,19
-Tom Wolf,9,116,3,19
-Bob Casey Jr,,7,4,19
-Total,125,123,5,19
-,Governor - Democrat,United States Senator - Democrat,1,20
-,Tom Wolf,Bob Casey Jr,2,20
-Tom Wolf,8,108,3,20
-Bob Casey Jr,,3,4,20
-Total,116,111,5,20
-,United States Senator - Democrat,Governor - Democrat,1,21
-,Bob Casey Jr,Tom Wolf,2,21
-Bob Casey Jr,12,106,3,21
-Tom Wolf,,9,4,21
-Total,118,115,5,21
-,Governor - Democrat,United States Senator - Democrat,1,22
-,Tom Wolf,Bob Casey Jr,2,22
-Tom Wolf,5,92,3,22
-Bob Casey Jr,,4,4,22
-Total,97,96,5,22
-,Governor - Democrat,United States Senator - Democrat,1,23
-,Tom Wolf,Bob Casey Jr,2,23
-Tom Wolf,9,144,3,23
-Bob Casey Jr,,2,4,23
-Total,153,146,5,23
-,United States Senator - Democrat,Governor - Democrat,1,24
-,Bob Casey Jr,Tom Wolf,2,24
-Bob Casey Jr,4,133,3,24
-Tom Wolf,,2,4,24
-Total,137,135,5,24
-,United States Senator - Democrat,Governor - Democrat,1,25
-,Bob Casey Jr,Tom Wolf,2,25
-Bob Casey Jr,5,138,3,25
-Tom Wolf,,2,4,25
-Total,143,140,5,25
-,Governor - Democrat,United States Senator - Democrat,1,26
-,Tom Wolf,Bob Casey Jr,2,26
-Tom Wolf,6,118,3,26
-Bob Casey Jr,,4,4,26
-Total,124,122,5,26
-,Governor - Democrat,United States Senator - Democrat,1,27
-,Tom Wolf,Bob Casey Jr,2,27
-Tom Wolf,7,106,3,27
-Bob Casey Jr,,2,4,27
-Total,113,108,5,27
-,Governor - Democrat,United States Senator - Democrat,1,28
-,Tom Wolf,Bob Casey Jr,2,28
-Tom Wolf,9,111,3,28
-Bob Casey Jr,,2,4,28
-Total,120,113,5,28
-,Governor - Democrat,United States Senator - Democrat,1,29
-,Tom Wolf,Bob Casey Jr,2,29
-Tom Wolf,11,158,3,29
-Bob Casey Jr,,7,4,29
-Total,169,165,5,29
+col_1,col_2,col_3,division
+,Governor - Democrat,United States Senator - Democrat,All
+,Tom Wolf,Bob Casey Jr,All
+Tom Wolf,217,"3,447",All
+Bob Casey Jr,,131,All
+Total,"3,664","3,578",All
+,Governor - Democrat,United States Senator - Democrat,1
+,Tom Wolf,Bob Casey Jr,1
+Tom Wolf,10,114,1
+Bob Casey Jr,,2,1
+Total,124,116,1
+,Governor - Democrat,United States Senator - Democrat,2
+,Tom Wolf,Bob Casey Jr,2
+Tom Wolf,9,155,2
+Bob Casey Jr,,2,2
+Total,164,157,2
+,United States Senator - Democrat,Governor - Democrat,3
+,Bob Casey Jr,Tom Wolf,3
+Bob Casey Jr,4,135,3
+Tom Wolf,,4,3
+Total,139,139,3
+,Governor - Democrat,United States Senator - Democrat,4
+,Tom Wolf,Bob Casey Jr,4
+Tom Wolf,8,126,4
+Bob Casey Jr,,2,4
+Total,134,128,4
+,Governor - Democrat,United States Senator - Democrat,5
+,Tom Wolf,Bob Casey Jr,5
+Tom Wolf,4,143,5
+Bob Casey Jr,,1,5
+Total,147,144,5
+,Governor - Democrat,United States Senator - Democrat,6
+,Tom Wolf,Bob Casey Jr,6
+Tom Wolf,8,133,6
+Bob Casey Jr,,3,6
+Total,141,136,6
+,United States Senator - Democrat,Governor - Democrat,7
+,Bob Casey Jr,Tom Wolf,7
+Bob Casey Jr,20,81,7
+Tom Wolf,,7,7
+Total,101,88,7
+,Governor - Democrat,United States Senator - Democrat,8
+,Tom Wolf,Bob Casey Jr,8
+Tom Wolf,7,91,8
+Bob Casey Jr,,2,8
+Total,98,93,8
+,Governor - Democrat,United States Senator - Democrat,9
+,Tom Wolf,Bob Casey Jr,9
+Tom Wolf,11,100,9
+Bob Casey Jr,,0,9
+Total,111,100,9
+,Governor - Democrat,United States Senator - Democrat,10
+,Tom Wolf,Bob Casey Jr,10
+Tom Wolf,8,74,10
+Bob Casey Jr,,1,10
+Total,82,75,10
+,United States Senator - Democrat,Governor - Democrat,11
+,Bob Casey Jr,Tom Wolf,11
+Bob Casey Jr,3,91,11
+Tom Wolf,,1,11
+Total,94,92,11
+,Governor - Democrat,United States Senator - Democrat,12
+,Tom Wolf,Bob Casey Jr,12
+Tom Wolf,12,114,12
+Bob Casey Jr,,8,12
+Total,126,122,12
+,Governor - Democrat,United States Senator - Democrat,13
+,Tom Wolf,Bob Casey Jr,13
+Tom Wolf,11,143,13
+Bob Casey Jr,,6,13
+Total,154,149,13
+,United States Senator - Democrat,Governor - Democrat,14
+,Bob Casey Jr,Tom Wolf,14
+Bob Casey Jr,9,142,14
+Tom Wolf,,9,14
+Total,151,151,14
+,Governor - Democrat,United States Senator - Democrat,15
+,Tom Wolf,Bob Casey Jr,15
+Tom Wolf,7,126,15
+Bob Casey Jr,,4,15
+Total,133,130,15
+,Governor - Democrat,United States Senator - Democrat,16
+,Tom Wolf,Bob Casey Jr,16
+Tom Wolf,6,114,16
+Bob Casey Jr,,2,16
+Total,120,116,16
+,Governor - Democrat,United States Senator - Democrat,17
+,Tom Wolf,Bob Casey Jr,17
+Tom Wolf,8,131,17
+Bob Casey Jr,,6,17
+Total,139,137,17
+,Governor - Democrat,United States Senator - Democrat,18
+,Tom Wolf,Bob Casey Jr,18
+Tom Wolf,10,104,18
+Bob Casey Jr,,4,18
+Total,114,108,18
+,Governor - Democrat,United States Senator - Democrat,19
+,Tom Wolf,Bob Casey Jr,19
+Tom Wolf,9,116,19
+Bob Casey Jr,,7,19
+Total,125,123,19
+,Governor - Democrat,United States Senator - Democrat,20
+,Tom Wolf,Bob Casey Jr,20
+Tom Wolf,8,108,20
+Bob Casey Jr,,3,20
+Total,116,111,20
+,United States Senator - Democrat,Governor - Democrat,21
+,Bob Casey Jr,Tom Wolf,21
+Bob Casey Jr,12,106,21
+Tom Wolf,,9,21
+Total,118,115,21
+,Governor - Democrat,United States Senator - Democrat,22
+,Tom Wolf,Bob Casey Jr,22
+Tom Wolf,5,92,22
+Bob Casey Jr,,4,22
+Total,97,96,22
+,Governor - Democrat,United States Senator - Democrat,23
+,Tom Wolf,Bob Casey Jr,23
+Tom Wolf,9,144,23
+Bob Casey Jr,,2,23
+Total,153,146,23
+,United States Senator - Democrat,Governor - Democrat,24
+,Bob Casey Jr,Tom Wolf,24
+Bob Casey Jr,4,133,24
+Tom Wolf,,2,24
+Total,137,135,24
+,United States Senator - Democrat,Governor - Democrat,25
+,Bob Casey Jr,Tom Wolf,25
+Bob Casey Jr,5,138,25
+Tom Wolf,,2,25
+Total,143,140,25
+,Governor - Democrat,United States Senator - Democrat,26
+,Tom Wolf,Bob Casey Jr,26
+Tom Wolf,6,118,26
+Bob Casey Jr,,4,26
+Total,124,122,26
+,Governor - Democrat,United States Senator - Democrat,27
+,Tom Wolf,Bob Casey Jr,27
+Tom Wolf,7,106,27
+Bob Casey Jr,,2,27
+Total,113,108,27
+,Governor - Democrat,United States Senator - Democrat,28
+,Tom Wolf,Bob Casey Jr,28
+Tom Wolf,9,111,28
+Bob Casey Jr,,2,28
+Total,120,113,28
+,Governor - Democrat,United States Senator - Democrat,29
+,Tom Wolf,Bob Casey Jr,29
+Tom Wolf,11,158,29
+Bob Casey Jr,,7,29
+Total,169,165,29
