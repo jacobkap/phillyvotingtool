@@ -111,6 +111,9 @@
 
    $("#results_chart").ready($("#loader").hide())
    jQuery(window).on('resize', resizeChosen);
+   $(".chosen-container").each(function() {
+     $(this).attr('style', 'width: 95%');
+   });
 });
 
 

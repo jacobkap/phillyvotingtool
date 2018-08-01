@@ -34,7 +34,7 @@ function makeGraph(data) {
     },
     options: {
       responsive: true,
-      maintainAspectRatio: true,
+      maintainAspectRatio: false,
       legend: {
         display: false,
       },
@@ -282,7 +282,7 @@ function makeChart(type) {
       data: data,
       options: {
         responsive: true,
-        maintainAspectRatio: true,
+        maintainAspectRatio: false,
         legend: {
           display: false
         },
