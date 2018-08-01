@@ -33,6 +33,8 @@ function makeGraph(data) {
       }]
     },
     options: {
+      responsive: true,
+      maintainAspectRatio: true,
       legend: {
         display: false,
       },
@@ -61,7 +63,6 @@ function makeGraph(data) {
           }
         }]
       },
-      responsive: true,
       tooltips: {
         mode: 'index',
         intersect: false,
@@ -280,6 +281,8 @@ function makeChart(type) {
       type: chart_type,
       data: data,
       options: {
+        responsive: true,
+        maintainAspectRatio: true,
         legend: {
           display: false
         },
@@ -332,6 +335,8 @@ function makeChart(type) {
       type: chart_type,
       data: data,
       options: {
+        responsive: true,
+        maintainAspectRatio: true,
         legend: {
           display: false
         },
