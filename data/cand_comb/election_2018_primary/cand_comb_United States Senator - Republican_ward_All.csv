@@ -1,7 +1,6 @@
-V1,Lou Barletta United States Senator - Republican,Jim Christiana United States Senator - Republican,Write In United States Senator - Republican,division
-,Lou Barletta United States Senator - Republican,Jim Christiana United States Senator - Republican,Write In,All
-Lou Barletta,"7,501",0,0,All
-Jim Christiana,,"6,082",0,All
-Write In,,,26,All
-Total,"7,501","6,082",26,All
-1,2,3,4,All
+col_1,col_2,col_3,order,division
+,United States Senator - Republican,,1,All
+,Lou Barletta,Jim Christiana,2,All
+Lou Barletta,"7,501",0,3,All
+Jim Christiana,,"6,082",4,All
+Total,"7,501","6,082",5,All

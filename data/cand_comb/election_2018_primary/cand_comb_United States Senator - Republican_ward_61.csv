@@ -1,133 +1,111 @@
-V1,Lou Barletta United States Senator - Republican,Jim Christiana United States Senator - Republican,Write In United States Senator - Republican,division
-,Lou Barletta United States Senator - Republican,Jim Christiana United States Senator - Republican,Write In,All
-Jim Christiana,0,32,0,All
-Lou Barletta,26,,0,All
-Write In,,,0,All
-Total,26,32,0,All
-1,3,2,4,All
-,Lou Barletta United States Senator - Republican,Jim Christiana United States Senator - Republican,Write In,1
-Jim Christiana,0,2,0,1
-Lou Barletta,1,,0,1
-Write In,,,0,1
-Total,1,2,0,1
-1,3,2,4,1
-,Lou Barletta United States Senator - Republican,Jim Christiana United States Senator - Republican,Write In,2
-Jim Christiana,0,1,0,2
-Lou Barletta,0,,0,2
-Write In,,,0,2
-Total,0,1,0,2
-1,3,2,4,2
-,Lou Barletta United States Senator - Republican,Jim Christiana United States Senator - Republican,Write In,3
-Jim Christiana,0,3,0,3
-Lou Barletta,0,,0,3
-Write In,,,0,3
-Total,0,3,0,3
-1,3,2,4,3
-,Lou Barletta United States Senator - Republican,Jim Christiana United States Senator - Republican,Write In,4
-Lou Barletta,1,0,0,4
-Jim Christiana,,0,0,4
-Write In,,,0,4
-Total,1,0,0,4
-1,2,3,4,4
-,Lou Barletta United States Senator - Republican,Jim Christiana United States Senator - Republican,Write In,5
-Jim Christiana,0,3,0,5
-Lou Barletta,1,,0,5
-Write In,,,0,5
-Total,1,3,0,5
-1,3,2,4,5
-,Lou Barletta United States Senator - Republican,Jim Christiana United States Senator - Republican,Write In,6
-Lou Barletta,3,0,0,6
-Jim Christiana,,1,0,6
-Write In,,,0,6
-Total,3,1,0,6
-1,2,3,4,6
-,Lou Barletta United States Senator - Republican,Jim Christiana United States Senator - Republican,Write In,7
-Lou Barletta,4,0,0,7
-Jim Christiana,,0,0,7
-Write In,,,0,7
-Total,4,0,0,7
-1,2,3,4,7
-,Lou Barletta United States Senator - Republican,Jim Christiana United States Senator - Republican,Write In,9
-Jim Christiana,0,1,0,9
-Lou Barletta,0,,0,9
-Write In,,,0,9
-Total,0,1,0,9
-1,3,2,4,9
-,Lou Barletta United States Senator - Republican,Jim Christiana United States Senator - Republican,Write In,10
-Jim Christiana,0,1,0,10
-Lou Barletta,0,,0,10
-Write In,,,0,10
-Total,0,1,0,10
-1,3,2,4,10
-,Lou Barletta United States Senator - Republican,Jim Christiana United States Senator - Republican,Write In,11
-Jim Christiana,0,1,0,11
-Lou Barletta,1,,0,11
-Write In,,,0,11
-Total,1,1,0,11
-1,3,2,4,11
-,Lou Barletta United States Senator - Republican,Jim Christiana United States Senator - Republican,Write In,14
-Jim Christiana,0,3,0,14
-Lou Barletta,0,,0,14
-Write In,,,0,14
-Total,0,3,0,14
-1,3,2,4,14
-,Lou Barletta United States Senator - Republican,Jim Christiana United States Senator - Republican,Write In,15
-Jim Christiana,0,2,0,15
-Lou Barletta,0,,0,15
-Write In,,,0,15
-Total,0,2,0,15
-1,3,2,4,15
-,Lou Barletta United States Senator - Republican,Jim Christiana United States Senator - Republican,Write In,17
-Jim Christiana,0,2,0,17
-Lou Barletta,2,,0,17
-Write In,,,0,17
-Total,2,2,0,17
-1,3,2,4,17
-,Lou Barletta United States Senator - Republican,Jim Christiana United States Senator - Republican,Write In,19
-Lou Barletta,3,0,0,19
-Jim Christiana,,2,0,19
-Write In,,,0,19
-Total,3,2,0,19
-1,2,3,4,19
-,Lou Barletta United States Senator - Republican,Jim Christiana United States Senator - Republican,Write In,21
-Jim Christiana,0,1,0,21
-Lou Barletta,0,,0,21
-Write In,,,0,21
-Total,0,1,0,21
-1,3,2,4,21
-,Lou Barletta United States Senator - Republican,Jim Christiana United States Senator - Republican,Write In,22
-Jim Christiana,0,3,0,22
-Lou Barletta,1,,0,22
-Write In,,,0,22
-Total,1,3,0,22
-1,3,2,4,22
-,Lou Barletta United States Senator - Republican,Jim Christiana United States Senator - Republican,Write In,23
-Lou Barletta,5,0,0,23
-Jim Christiana,,0,0,23
-Write In,,,0,23
-Total,5,0,0,23
-1,2,3,4,23
-,Lou Barletta United States Senator - Republican,Jim Christiana United States Senator - Republican,Write In,25
-Lou Barletta,2,0,0,25
-Jim Christiana,,1,0,25
-Write In,,,0,25
-Total,2,1,0,25
-1,2,3,4,25
-,Lou Barletta United States Senator - Republican,Jim Christiana United States Senator - Republican,Write In,26
-Jim Christiana,0,2,0,26
-Lou Barletta,2,,0,26
-Write In,,,0,26
-Total,2,2,0,26
-1,3,2,4,26
-,Lou Barletta United States Senator - Republican,Jim Christiana United States Senator - Republican,Write In,27
-Jim Christiana,0,1,0,27
-Lou Barletta,0,,0,27
-Write In,,,0,27
-Total,0,1,0,27
-1,3,2,4,27
-,Lou Barletta United States Senator - Republican,Jim Christiana United States Senator - Republican,Write In,28
-Jim Christiana,0,2,0,28
-Lou Barletta,0,,0,28
-Write In,,,0,28
-Total,0,2,0,28
-1,3,2,4,28
+col_1,col_2,col_3,order,division
+,United States Senator - Republican,,1,All
+,Jim Christiana,Lou Barletta,2,All
+Jim Christiana,32,0,3,All
+Lou Barletta,,26,4,All
+Total,32,26,5,All
+,United States Senator - Republican,,1,1
+,Jim Christiana,Lou Barletta,2,1
+Jim Christiana,2,0,3,1
+Lou Barletta,,1,4,1
+Total,2,1,5,1
+,United States Senator - Republican,,1,2
+,Jim Christiana,Lou Barletta,2,2
+Jim Christiana,1,0,3,2
+Lou Barletta,,0,4,2
+Total,1,0,5,2
+,United States Senator - Republican,,1,3
+,Jim Christiana,Lou Barletta,2,3
+Jim Christiana,3,0,3,3
+Lou Barletta,,0,4,3
+Total,3,0,5,3
+,United States Senator - Republican,,1,4
+,Lou Barletta,Jim Christiana,2,4
+Lou Barletta,1,0,3,4
+Jim Christiana,,0,4,4
+Total,1,0,5,4
+,United States Senator - Republican,,1,5
+,Jim Christiana,Lou Barletta,2,5
+Jim Christiana,3,0,3,5
+Lou Barletta,,1,4,5
+Total,3,1,5,5
+,United States Senator - Republican,,1,6
+,Lou Barletta,Jim Christiana,2,6
+Lou Barletta,3,0,3,6
+Jim Christiana,,1,4,6
+Total,3,1,5,6
+,United States Senator - Republican,,1,7
+,Lou Barletta,Jim Christiana,2,7
+Lou Barletta,4,0,3,7
+Jim Christiana,,0,4,7
+Total,4,0,5,7
+,United States Senator - Republican,,1,9
+,Jim Christiana,Lou Barletta,2,9
+Jim Christiana,1,0,3,9
+Lou Barletta,,0,4,9
+Total,1,0,5,9
+,United States Senator - Republican,,1,10
+,Jim Christiana,Lou Barletta,2,10
+Jim Christiana,1,0,3,10
+Lou Barletta,,0,4,10
+Total,1,0,5,10
+,United States Senator - Republican,,1,11
+,Jim Christiana,Lou Barletta,2,11
+Jim Christiana,1,0,3,11
+Lou Barletta,,1,4,11
+Total,1,1,5,11
+,United States Senator - Republican,,1,14
+,Jim Christiana,Lou Barletta,2,14
+Jim Christiana,3,0,3,14
+Lou Barletta,,0,4,14
+Total,3,0,5,14
+,United States Senator - Republican,,1,15
+,Jim Christiana,Lou Barletta,2,15
+Jim Christiana,2,0,3,15
+Lou Barletta,,0,4,15
+Total,2,0,5,15
+,United States Senator - Republican,,1,17
+,Jim Christiana,Lou Barletta,2,17
+Jim Christiana,2,0,3,17
+Lou Barletta,,2,4,17
+Total,2,2,5,17
+,United States Senator - Republican,,1,19
+,Lou Barletta,Jim Christiana,2,19
+Lou Barletta,3,0,3,19
+Jim Christiana,,2,4,19
+Total,3,2,5,19
+,United States Senator - Republican,,1,21
+,Jim Christiana,Lou Barletta,2,21
+Jim Christiana,1,0,3,21
+Lou Barletta,,0,4,21
+Total,1,0,5,21
+,United States Senator - Republican,,1,22
+,Jim Christiana,Lou Barletta,2,22
+Jim Christiana,3,0,3,22
+Lou Barletta,,1,4,22
+Total,3,1,5,22
+,United States Senator - Republican,,1,23
+,Lou Barletta,Jim Christiana,2,23
+Lou Barletta,5,0,3,23
+Jim Christiana,,0,4,23
+Total,5,0,5,23
+,United States Senator - Republican,,1,25
+,Lou Barletta,Jim Christiana,2,25
+Lou Barletta,2,0,3,25
+Jim Christiana,,1,4,25
+Total,2,1,5,25
+,United States Senator - Republican,,1,26
+,Jim Christiana,Lou Barletta,2,26
+Jim Christiana,2,0,3,26
+Lou Barletta,,2,4,26
+Total,2,2,5,26
+,United States Senator - Republican,,1,27
+,Jim Christiana,Lou Barletta,2,27
+Jim Christiana,1,0,3,27
+Lou Barletta,,0,4,27
+Total,1,0,5,27
+,United States Senator - Republican,,1,28
+,Jim Christiana,Lou Barletta,2,28
+Jim Christiana,2,0,3,28
+Lou Barletta,,0,4,28
+Total,2,0,5,28

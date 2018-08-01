@@ -1,13 +1,10 @@
-To Remove,Governor - Democrat,To Remove 2,Lieutenant Governor - Democrat,To Remove 3,To Remove 4,To Remove 5,To Remove 6,To Remove 7,division
-,Governor - Democrat,,Lieutenant Governor - Democrat,,,,,,All
-,Tom Wolf,Write In,Mike Stack,Nina Ahmad,John Fetterman,Kathi Cozzone,Ray Sosa,Write In,All
-Tom Wolf,"10,962",0,"47,864","35,325","22,174","19,989","1,053",4,All
-Write In,,5,12,22,20,10,3,5,All
-Mike Stack,,,"3,383",0,0,0,0,0,All
-Nina Ahmad,,,,"1,496",0,0,0,0,All
-John Fetterman,,,,,"1,525",0,0,0,All
-Kathi Cozzone,,,,,,"1,303",0,0,All
-Ray Sosa,,,,,,,273,0,All
-Write In,,,,,,,,1,All
-Total,"137,371",77,"51,259","36,843","23,719","21,302","1,329",10,All
-1,2,3,4,5,6,7,8,9,All
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,order,division
+,Governor - Democrat,Lieutenant Governor - Democrat,,,,,1,All
+,Tom Wolf,Mike Stack,Nina Ahmad,John Fetterman,Kathi Cozzone,Ray Sosa,2,All
+Tom Wolf,"10,966","47,864","35,325","22,174","19,989","1,053",3,All
+Mike Stack,,"3,395",0,0,0,0,4,All
+Nina Ahmad,,,"1,518",0,0,0,5,All
+John Fetterman,,,,"1,545",0,0,6,All
+Kathi Cozzone,,,,,"1,313",0,7,All
+Ray Sosa,,,,,,276,8,All
+Total,"137,371","51,259","36,843","23,719","21,302","1,329",9,All

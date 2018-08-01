@@ -1,9 +1,6 @@
-To Remove,Governor - Democrat,To Remove 2,United States Senator - Democrat,To Remove 3,division
-,Governor - Democrat,,United States Senator - Democrat,,All
-,Tom Wolf,Write In,Bob Casey Jr,Write In,All
-Tom Wolf,"9,368",0,"127,953",50,All
-Write In,,7,40,30,All
-Bob Casey Jr,,,"6,252",0,All
-Write In,,,,9,All
-Total,"137,371",77,"134,245",89,All
-1,2,3,4,5,All
+col_1,col_2,col_3,order,division
+,Governor - Democrat,United States Senator - Democrat,1,All
+,Tom Wolf,Bob Casey Jr,2,All
+Tom Wolf,"9,418","127,953",3,All
+Bob Casey Jr,,"6,292",4,All
+Total,"137,371","134,245",5,All

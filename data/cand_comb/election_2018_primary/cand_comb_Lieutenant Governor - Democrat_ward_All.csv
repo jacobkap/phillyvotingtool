@@ -1,10 +1,9 @@
-V1,Mike Stack Lieutenant Governor - Democrat,Nina Ahmad Lieutenant Governor - Democrat,John Fetterman Lieutenant Governor - Democrat,Kathi Cozzone Lieutenant Governor - Democrat,Ray Sosa Lieutenant Governor - Democrat,Write In Lieutenant Governor - Democrat,division
-,Mike Stack Lieutenant Governor - Democrat,Nina Ahmad Lieutenant Governor - Democrat,John Fetterman Lieutenant Governor - Democrat,Kathi Cozzone Lieutenant Governor - Democrat,Ray Sosa Lieutenant Governor - Democrat,Write In,All
-Mike Stack,"51,259",0,0,0,0,0,All
-Nina Ahmad,,"36,843",0,0,0,0,All
-John Fetterman,,,"23,719",0,0,0,All
-Kathi Cozzone,,,,"21,302",0,0,All
-Ray Sosa,,,,,"1,329",0,All
-Write In,,,,,,10,All
-Total,"51,259","36,843","23,719","21,302","1,329",10,All
-1,2,3,4,5,6,7,All
+col_1,col_2,col_3,col_4,col_5,col_6,order,division
+,Lieutenant Governor - Democrat,,,,,1,All
+,Mike Stack,Nina Ahmad,John Fetterman,Kathi Cozzone,Ray Sosa,2,All
+Mike Stack,"51,259",0,0,0,0,3,All
+Nina Ahmad,,"36,843",0,0,0,4,All
+John Fetterman,,,"23,719",0,0,5,All
+Kathi Cozzone,,,,"21,302",0,6,All
+Ray Sosa,,,,,"1,329",7,All
+Total,"51,259","36,843","23,719","21,302","1,329",8,All

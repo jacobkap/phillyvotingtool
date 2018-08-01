@@ -1,12 +1,9 @@
-To Remove,United States Senator - Republican,To Remove 2,To Remove 3,Governor - Republican,To Remove 4,To Remove 5,To Remove 6,division
-,United States Senator - Republican,,,Governor - Republican,,,,All
-,Lou Barletta,Jim Christiana,Write In,Paul Mango,Scott R Wagner,Laura Ellsworth,Write In,All
-Lou Barletta,140,0,0,"3,243","2,854","1,261",3,All
-Jim Christiana,,179,0,"2,161","2,364","1,375",3,All
-Write In,,,3,3,4,7,9,All
-Paul Mango,,,,556,0,0,0,All
-Scott R Wagner,,,,,467,0,0,All
-Laura Ellsworth,,,,,,406,0,All
-Write In,,,,,,,1,All
-Total,"7,501","6,082",26,"5,963","5,689","3,049",16,All
-1,2,3,4,5,6,7,8,All
+col_1,col_2,col_3,col_4,col_5,col_6,order,division
+,United States Senator - Republican,,Governor - Republican,,,1,All
+,Lou Barletta,Jim Christiana,Paul Mango,Scott R Wagner,Laura Ellsworth,2,All
+Lou Barletta,143,0,"3,243","2,854","1,261",3,All
+Jim Christiana,,182,"2,161","2,364","1,375",4,All
+Paul Mango,,,559,0,0,5,All
+Scott R Wagner,,,,471,0,6,All
+Laura Ellsworth,,,,,413,7,All
+Total,"7,501","6,082","5,963","5,689","3,049",8,All

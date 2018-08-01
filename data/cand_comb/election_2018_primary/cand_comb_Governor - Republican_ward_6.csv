@@ -1,71 +1,7 @@
-V1,Paul Mango Governor - Republican,Scott R Wagner Governor - Republican,Laura Ellsworth Governor - Republican,Write In Governor - Republican,division
-,Paul Mango Governor - Republican,Scott R Wagner Governor - Republican,Laura Ellsworth Governor - Republican,Write In,All
-Scott R Wagner,0,7,0,0,All
-Paul Mango,6,,0,0,All
-Laura Ellsworth,,,5,0,All
-Write In,,,,0,All
-Total,6,7,5,0,All
-1,3,2,4,5,All
-,Paul Mango Governor - Republican,Scott R Wagner Governor - Republican,Laura Ellsworth Governor - Republican,Write In,1
-Scott R Wagner,0,2,0,0,1
-Laura Ellsworth,0,,0,0,1
-Paul Mango,0,,,0,1
-Write In,,,,0,1
-Total,0,2,0,0,1
-1,4,2,3,5,1
-,Paul Mango Governor - Republican,Scott R Wagner Governor - Republican,Laura Ellsworth Governor - Republican,Write In,2
-Paul Mango,1,0,0,0,2
-Laura Ellsworth,,0,0,0,2
-Scott R Wagner,,0,,0,2
-Write In,,,,0,2
-Total,1,0,0,0,2
-1,2,4,3,5,2
-,Paul Mango Governor - Republican,Scott R Wagner Governor - Republican,Laura Ellsworth Governor - Republican,Write In,3
-Paul Mango,3,0,0,0,3
-Scott R Wagner,,2,0,0,3
-Laura Ellsworth,,,1,0,3
-Write In,,,,0,3
-Total,3,2,1,0,3
-1,2,3,4,5,3
-,Paul Mango Governor - Republican,Scott R Wagner Governor - Republican,Laura Ellsworth Governor - Republican,Write In,5
-Laura Ellsworth,0,0,1,0,5
-Paul Mango,0,0,,0,5
-Scott R Wagner,,0,,0,5
-Write In,,,,0,5
-Total,0,0,1,0,5
-1,3,4,2,5,5
-,Paul Mango Governor - Republican,Scott R Wagner Governor - Republican,Laura Ellsworth Governor - Republican,Write In,6
-Scott R Wagner,0,1,0,0,6
-Laura Ellsworth,0,,0,0,6
-Paul Mango,0,,,0,6
-Write In,,,,0,6
-Total,0,1,0,0,6
-1,4,2,3,5,6
-,Paul Mango Governor - Republican,Scott R Wagner Governor - Republican,Laura Ellsworth Governor - Republican,Write In,8
-Paul Mango,1,0,0,0,8
-Laura Ellsworth,,0,0,0,8
-Scott R Wagner,,0,,0,8
-Write In,,,,0,8
-Total,1,0,0,0,8
-1,2,4,3,5,8
-,Paul Mango Governor - Republican,Scott R Wagner Governor - Republican,Laura Ellsworth Governor - Republican,Write In,10
-Laura Ellsworth,0,0,1,0,10
-Paul Mango,0,0,,0,10
-Scott R Wagner,,0,,0,10
-Write In,,,,0,10
-Total,0,0,1,0,10
-1,3,4,2,5,10
-,Paul Mango Governor - Republican,Scott R Wagner Governor - Republican,Laura Ellsworth Governor - Republican,Write In,11
-Laura Ellsworth,0,0,2,0,11
-Scott R Wagner,0,2,,0,11
-Paul Mango,0,,,0,11
-Write In,,,,0,11
-Total,0,2,2,0,11
-1,4,3,2,5,11
-,Paul Mango Governor - Republican,Scott R Wagner Governor - Republican,Laura Ellsworth Governor - Republican,Write In,17
-Paul Mango,1,0,0,0,17
-Laura Ellsworth,,0,0,0,17
-Scott R Wagner,,0,,0,17
-Write In,,,,0,17
-Total,1,0,0,0,17
-1,2,4,3,5,17
+col_1,col_2,col_3,col_4,order,division
+,Governor - Republican,,,1,All
+,Scott R Wagner,Paul Mango,Laura Ellsworth,2,All
+Scott R Wagner,7,0,0,3,All
+Paul Mango,,6,0,4,All
+Laura Ellsworth,,,5,5,All
+Total,7,6,5,6,All
