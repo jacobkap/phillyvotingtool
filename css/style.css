@@ -66,6 +66,9 @@ h3 {
 ​ #table_title {
   display: inline;
 }
+td.highlight {
+    background-color: whitesmoke !important;
+}
 
 #table_subtitle {
   display: inline;

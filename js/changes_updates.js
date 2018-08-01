@@ -123,11 +123,16 @@ function candCombElectionChange() {
 }
 
 function candCombOfficeChange() {
+  first_office_val = $("#cand_comb_ballot_position.chosen-select").val()[0];
+
   $('#cand_comb_ward').empty();
   cand_comb_wards = getWards("cand_comb", "#cand_comb_election", "#cand_comb_ballot_position", cand_comb_offices);
   $.each(cand_comb_wards, function(val, text) {
     $('#cand_comb_ward').append(new Option(text, val));
   });
+  if (cand_comb_wards === undefined) {
+    $("#cand_comb_ballot_position.chosen-select").val(["0"]).trigger('chosen:updated');
+  }
   candCombChange();
 }
 

@@ -35,7 +35,7 @@
     <a href="results.html">Election Results</a>
     <a href="choices.html">Number of Choices Made per Office</a>
     <a class="active" href="combinations.html">Candidate Vote Combinations</a>
-    <a id = "timeTab" href="time.html">When do People Vote?</a>
+    <a id="timeTab" href="time.html">When do People Vote?</a>
     <a class="icon" onclick="myFunction()">
 <i class="fa fa-bars"></i>
 </div>
@@ -124,6 +124,14 @@
     //  $("#table_subtitle").text(subtitle);
 
 $("#table").ready($("#loader").hide())
+
+$("#table tbody")
+  .on( 'mouseenter', 'td', function () {
+            var colIdx = table.cell(this).index().column;
+
+            $( table.cells().nodes() ).removeClass( 'highlight' );
+            $( table.column( colIdx ).nodes() ).addClass( 'highlight' );
+        });
 
   });
   </script>

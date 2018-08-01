@@ -196,11 +196,14 @@ function makeTable(div, data, headers) {
   for (var n = 0; n < headers.length; n++) {
     z.push({
       data: headers[n],
-      title: headers[n],
+      title: final_data[0][headers[n]],
       className: "dt-head-right dt-body-right"
     });
   }
 
+  col_headers = final_data[0];
+  final_data.shift();
+  //final_data.shift();
   var table = $("#table").DataTable({
     data: final_data,
     columns: z,
@@ -209,18 +212,15 @@ function makeTable(div, data, headers) {
     "sScrollX": "100%",
     "stripe": true,
     "hover": true,
-    "lengthChange": false,
+    "lengthChange": true,
     "paging": false,
     "searching": false,
     "ordering": false,
     fixedColumns: true,
-    "fixedHeader": {
-      header: true,
-    },
-    "order": [1, "desc"]
+    "order": [1, "desc"],
+    bSortable: false
   });
   $("#table_wrapper").css("width", "100%");
-
 
   return table;
 }
@@ -357,11 +357,6 @@ function makeChart(type) {
               fontSize: 20,
               display: true,
               labelString: '# of Votes'
-            }
-          }],
-          yAxes: [{
-            ticks: {
-              fontSize: 22
             }
           }]
         },
