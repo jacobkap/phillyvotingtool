@@ -82,7 +82,7 @@
   <div class="column main">
     <div id="loader"></div>
     <br>
-  <canvas id="results_chart" style="width:95%"></canvas>
+  <canvas id="results_chart"  height="500" width="500" ></canvas>
 </div>
 
 <script>
@@ -100,7 +100,7 @@
    });
    setDivisionDropdown("#results_ward", "#results_division", results_wards)
    ctx_results = document.getElementById("results_chart").getContext('2d');
-   ctx_results.height = 700;
+  // ctx_results.height = 700;
    makeChart('results');
 
    geojson = L.geoJson(wards_polygon, {
