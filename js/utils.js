@@ -305,7 +305,7 @@ function formatData(data, type) {
   // Default to results type
   if (type == "results") {
     election = elections[$(results_election).val()];
-    title = election + " Election, " + results_offices[$('#results_ballot_position').val()];
+    title = "  " + election + " Election, " + results_offices[$('#results_ballot_position').val()];
     if (results_wards[$("#results_ward").val()] != "All") {
       title += ", Ward " + results_wards[$("#results_ward").val()];
       if ($("#results_division").val() != "0") {
@@ -324,6 +324,7 @@ function formatData(data, type) {
     if ($("#choices_division").val() != "0") {
       title += ", Division " + $("#choices_division").val();
     }
+    title += "  ";
     choices_max = getOffices("num_selected", "#choices_election", true);
     subtitle = "Max number of selections: " + choices_max[$('#choices_ballot_position').val()];
     title_text = [title, subtitle];

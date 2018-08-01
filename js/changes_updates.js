@@ -131,7 +131,7 @@ function candCombOfficeChange() {
     $('#cand_comb_ward').append(new Option(text, val));
   });
   if (cand_comb_wards === undefined) {
-    $("#cand_comb_ballot_position.chosen-select").val(["0"]).trigger('chosen:updated');
+    $("#cand_comb_ballot_position.chosen-select").val(first_office_val).trigger('chosen:updated');
   }
   candCombChange();
 }

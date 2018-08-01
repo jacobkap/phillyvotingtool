@@ -208,21 +208,23 @@ function makeTable(div, data, headers) {
   var table = $("#table").DataTable({
     data: final_data,
     columns: z,
-    "scrollX": true,
-    "sScrollXInner": "100%",
-    "sScrollX": "100%",
     "stripe": true,
     "hover": true,
-    "lengthChange": true,
     "paging": false,
     "searching": false,
     "ordering": false,
+    "bAutoWidth": true,
+    "bInfo": false,
     fixedColumns: true,
     "order": [1, "desc"],
-    bSortable: false
+          "scrollX": true,
+          "sScrollXInner": "100%",
+          "sScrollX": "100%"
   });
-  $("#table_wrapper").css("width", "100%");
-
+ $("#table_wrapper").css("width", "100%");
+ $($.fn.dataTable.tables(true)).DataTable()
+      .columns.adjust()
+      .responsive.recalc();
   return table;
 }
 
@@ -237,7 +239,7 @@ function updateTable() {
   $('#table').empty();
   table = makeTable("#table", cand_data, headers);
 
-
+/*
   title = cand_comb_offices[$('#cand_comb_ballot_position').val()[0]];
   if ($('#cand_comb_ballot_position').val().length > 1) {
     title += " and " + cand_comb_offices[$('#cand_comb_ballot_position').val()[1]];
@@ -251,6 +253,7 @@ function updateTable() {
   //  subtitle = "Max number of selections: " + cand_comb_offices[$('#cand_comb_ballot_position').val()];
   $("#table_title").text(title);
   //  $("#table_subtitle").text(subtitle);
+  */
 }
 
 function updateGraph() {

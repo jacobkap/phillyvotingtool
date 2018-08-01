@@ -82,9 +82,8 @@
     <div id="loader"></div>
 
    <h4 id="table_title" align="center"></h4>
-   <br>
   <!-- <h5 id="table_subtitle" align="center">subtitle</h5> -->
-  <div><table id="table" class="display" style="width:100%"></table></div>
+  <div><table id="table" class="display" cellspacing="0" width="100%"></table></div>
 
   <script>
     $(document).ready(function(){
@@ -112,7 +111,8 @@
       cand_data.shift();
 
       table = makeTable("#table", cand_data, headers);
-      title = cand_comb_offices[$('#cand_comb_ballot_position').val()];
+
+    /*  title = cand_comb_offices[$('#cand_comb_ballot_position').val()];
       if (cand_comb_wards[$("#cand_comb_ward").val()] != "All") {
             title += ", Ward " + cand_comb_wards[$("#cand_comb_ward").val()];
       }
@@ -122,16 +122,9 @@
     //  subtitle = "Max number of selections: " + cand_comb_offices[$('#cand_comb_ballot_position').val()];
       $("#table_title").text(title);
     //  $("#table_subtitle").text(subtitle);
-
+*/
 $("#table").ready($("#loader").hide())
 
-$("#table tbody")
-  .on( 'mouseenter', 'td', function () {
-            var colIdx = table.cell(this).index().column;
-
-            $( table.cells().nodes() ).removeClass( 'highlight' );
-            $( table.column( colIdx ).nodes() ).addClass( 'highlight' );
-        });
 
   });
   </script>

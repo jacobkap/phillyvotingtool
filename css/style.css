@@ -155,6 +155,11 @@ body {
   }
 }
 
+.dataTables_scroll
+{
+    overflow:auto;
+}
+
 .topnav {
   overflow: hidden;
   position: relative;
