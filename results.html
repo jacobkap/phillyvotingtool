@@ -31,10 +31,17 @@
 </head>
 <div class="topnav" id="myTopnav">
   <a href="index.html">Home</a>
-  <a class="active" href="results.html">Election Results</a>
-  <a href="choices.html">Number of Choices Made per Office</a>
-  <a href="combinations.html">Candidate Vote Combinations</a>
-  <a id = "timeTab" href="time.html">When do People Vote?</a>
+  <a href="time.html">When do People Vote?</a>
+  <div class="dropdown">
+ <button class="dropbtn" onclick="dropdownFun()">How do People Vote?
+   <i class="fa fa-caret-down"></i>
+ </button>
+ <div class="dropdown-content" id="myDropdown">
+   <a href="results.html">Election Results</a>
+   <a href="choices.html">Number of Choices Made per Office</a>
+   <a href="combinations.html">Candidate Vote Combinations</a>
+ </div>
+ </div>
   <a class="icon" onclick="myFunction()">
 <i class="fa fa-bars"></i>
 </div>
@@ -74,7 +81,7 @@
   <div class="column main">
     <div id="loader"></div>
     <br>
-  <canvas id="results_chart"  height="500" width="500" ></canvas>
+  <canvas id="results_chart"  height="550" width="500" ></canvas>
 </div>
 
 <script>
@@ -85,11 +92,11 @@
             $('#results_election').append( new Option(text,val) );
         });
     results_offices = setOffices("election_results", "#results_election", "#results_ballot_position")
-    results_wards = getWards("election_results", "#results_election", "#results_ballot_position", results_offices)
+    results_wards = getWards_locations("election_results", "#results_election", "#results_ballot_position", results_offices)
     $.each(results_wards, function(val, text) {
               $('#results_ward').append( new Option(text,val) );
    });
-   setDivisionDropdown("#results_ward", "#results_division", results_wards)
+   setDivisionDropdown("election_results", "#results_election", "#results_ballot_position", results_offices, "#results_ward", "#results_division", results_wards)
    ctx_results = document.getElementById("results_chart").getContext('2d');
   // ctx_results.height = 700;
    makeChart('results');
@@ -98,7 +105,7 @@
      filter: mapAvailableWardsResults,
      onEachFeature: onEachFeature
    }).addTo(results_map);
-   geojson.setStyle({color: '#28b78d'});
+   geojson.setStyle({color: '#1b9e77'});
 
    $("#results_chart").ready($("#loader").hide())
        resizeChosen();
@@ -109,7 +116,14 @@
    });
 });
 
-
+window.onclick = function(e) {
+  if (!e.target.matches('.dropbtn')) {
+    var myDropdown = document.getElementById("myDropdown");
+      if (myDropdown.classList.contains('show')) {
+        myDropdown.classList.remove('show');
+      }
+  }
+}
 </script>
 </div>
 

@@ -32,10 +32,17 @@
 
   <div class="topnav" id="myTopnav">
     <a href="index.html">Home</a>
-    <a href="results.html">Election Results</a>
-    <a href="choices.html">Number of Choices Made per Office</a>
-    <a class="active" href="combinations.html">Candidate Vote Combinations</a>
-    <a id="timeTab" href="time.html">When do People Vote?</a>
+    <a href="time.html">When do People Vote?</a>
+    <div class="dropdown">
+   <button class="dropbtn" onclick="dropdownFun()">How do People Vote?
+     <i class="fa fa-caret-down"></i>
+   </button>
+   <div class="dropdown-content" id="myDropdown">
+     <ul><a href="results.html">Election Results</a></ul>
+     <ul><a href="choices.html">Number of Choices Made per Office</a></ul>
+     <ul><a href="combinations.html">Candidate Vote Combinations</a></ul>
+   </div>
+   </div>
     <a class="icon" onclick="myFunction()">
 <i class="fa fa-bars"></i>
 </div>
@@ -63,6 +70,7 @@
   <div id="cand_comb_map_div" class="leaflet_map"></div>
   <script>
         cand_comb_map = makeMap('cand_comb_map_div')
+
   </script>
 </div>
 
@@ -84,11 +92,11 @@
       });
 
       cand_comb_offices = setOffices("cand_comb", "#cand_comb_election", "#cand_comb_ballot_position")
-      cand_comb_wards = getWards("cand_comb", "#cand_comb_election", "#cand_comb_ballot_position", cand_comb_offices)
+      cand_comb_wards = getWards_locations("cand_comb", "#cand_comb_election", "#cand_comb_ballot_position", cand_comb_offices)
       $.each(cand_comb_wards, function(val, text) {
                 $('#cand_comb_ward').append( new Option(text,val) );
       });
-     cand_comb_division = setDivisionDropdown("#cand_comb_ward", "#cand_comb_division", cand_comb_wards)
+        setDivisionDropdown("cand_comb", "#cand_comb_election", "#cand_comb_ballot_position", cand_comb_offices, "#cand_comb_ward", "#cand_comb_division", cand_comb_wards)
 
 
       cand_data = getData("cand_comb");
@@ -112,9 +120,20 @@
     //  $("#table_subtitle").text(subtitle);
 */
 $("#table").ready($("#loader").hide())
-
+geojson = L.geoJson(wards_polygon, {
+  onEachFeature: onEachFeature
+}).addTo(cand_comb_map);
+  geojson.setStyle({color: '#1b9e77'});
 
   });
+  window.onclick = function(e) {
+    if (!e.target.matches('.dropbtn')) {
+      var myDropdown = document.getElementById("myDropdown");
+        if (myDropdown.classList.contains('show')) {
+          myDropdown.classList.remove('show');
+        }
+    }
+  }
   </script>
 </div>
 

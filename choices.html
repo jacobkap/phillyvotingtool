@@ -31,10 +31,17 @@
 
   <div class="topnav" id="myTopnav">
     <a href="index.html">Home</a>
-    <a href="results.html">Election Results</a>
-    <a class="active" href="choices.html">Number of Choices Made per Office</a>
-    <a href="combinations.html">Candidate Vote Combinations</a>
-    <a id = "timeTab" href="time.html">When do People Vote?</a>
+    <a href="time.html">When do People Vote?</a>
+    <div class="dropdown">
+   <button class="dropbtn" onclick="dropdownFun()">How do People Vote?
+     <i class="fa fa-caret-down"></i>
+   </button>
+   <div class="dropdown-content" id="myDropdown">
+     <a href="results.html">Election Results</a>
+     <a href="choices.html">Number of Choices Made per Office</a>
+     <a href="combinations.html">Candidate Vote Combinations</a>
+   </div>
+   </div>
     <a class="icon" onclick="myFunction()">
 <i class="fa fa-bars"></i>
 </div>
@@ -72,7 +79,7 @@
   <div class="column main">
     <div id="loader"></div>
     <br>
-  <canvas id="choices_chart"   height="500" width="500"></canvas>
+  <canvas id="choices_chart"   height="550" width="500"></canvas>
 </div>
 <script>
 
@@ -85,13 +92,13 @@ $(document).ready(function(){
       });
   $('#choices_election').val(0);
   choices_offices = setOffices("num_selected", "#choices_election", "#choices_ballot_position")
-  choices_wards = getWards("num_selected", "#choices_election", "#choices_ballot_position", choices_offices)
+  choices_wards = getWards_locations("num_selected", "#choices_election", "#choices_ballot_position", choices_offices)
 $.each(choices_wards, function(val, text) {
       $('#choices_ward').append( new Option(text,val) );
   });
   $('#choices_ward').val(0);
   $('.simple-select').chosen();
-  setDivisionDropdown("#choices_ward", "#choices_division", choices_wards)
+     setDivisionDropdown("num_selected", "#choices_election", "#choices_ballot_position", choices_offices, "#choices_ward", "#choices_division", choices_wards)
     ctx_choices = document.getElementById("choices_chart").getContext('2d');
   makeChart('choices');
 
@@ -99,12 +106,19 @@ $.each(choices_wards, function(val, text) {
     filter: mapAvailableWardsChoices,
     onEachFeature: onEachFeature
   }).addTo(choices_map);
-  geojson.setStyle({color: '#28b78d'});
+  geojson.setStyle({color: '#1b9e77'});
 
  $("#choices_chart").ready($("#loader").hide())
 
 });
-
+window.onclick = function(e) {
+  if (!e.target.matches('.dropbtn')) {
+    var myDropdown = document.getElementById("myDropdown");
+      if (myDropdown.classList.contains('show')) {
+        myDropdown.classList.remove('show');
+      }
+  }
+}
 </script>
 </div>
 

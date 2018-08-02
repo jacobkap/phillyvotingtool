@@ -1,5 +1,46 @@
-.verticalLine {
-  border-left: thick solid white;
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    cursor: pointer;
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.dropdown-content {
+    display: none;
+    position: fixed;
+    background-color: #333333;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block !important;
+    text-align: left;
+    width: 100%
+}
+
+.dropdown-content a:hover {
+    background-color: #333333;
+}
+.dropdown:hover .dropdown-content {
+    display: block !important;
+}
+.show {
+    display: block !important;
 }
 
 /* Spinner while stuff loads */
@@ -169,7 +210,7 @@ body {
 .topnav a {
   float: left;
   color: #f2f2f2;
-  text-align: center;
+  text-align: left;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
@@ -183,9 +224,6 @@ body {
         margin: 0 auto;
     }
 
-#timeTab {
-    border-left: 3px solid white;
-}
 
 .topnav a:hover {
   background-color: #ddd;

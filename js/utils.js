@@ -44,28 +44,42 @@ function resizeChosen() {
   });
 }
 
-function setDivisionDropdown(ward_dropdown, division_dropdown, wards) {
+function setDivisionDropdown(type, election_dropdown, office_dropdown, offices, ward_dropdown, division_dropdown, wards) {
   $(division_dropdown).empty();
-  temp_division = ["All"];
+  divisions = ["All"];
   ward_num = wards[$(ward_dropdown).val()];
 
   if (ward_num != "All") {
+    /*
     division_num = _.filter(max_divisions, function(x) {
       return x.ward == ward_num;
     });
     division_num = division_num[0].max_division;
     for (var i = 1; i < division_num + 1; i++) {
-      temp_division.push(i);
+      divisions.push(i);
     }
   }
-  $.each(temp_division, function(val, text) {
+  */
+  locations = getWards_locations(type, election_dropdown, office_dropdown, offices, wards = false);
+  divisions = [];
+  for (var i = 0; i < locations.length; i++) {
+    if (locations[i].replace(/-.*/, "") === ward_num) {
+      temp = locations[i];
+      temp = temp.replace(/.*-/, "");
+      temp = parseInt(temp);
+      divisions.push(temp);
+    }
+  }
+}
+divisions = divisions.sort(function(a,b) { return a - b; });
+  $.each(divisions, function(val, text) {
     $(division_dropdown).append(new Option(text, val));
   });
   $(division_dropdown).val(0);
   $('.simple-select').chosen();
   $('.simple-select').trigger('chosen:updated');
 
-  return temp_division;
+  return divisions;
 }
 
 function setOffices(type, election_dropdown, ballot_dropdown) {
@@ -188,10 +202,8 @@ if (type == "cand_comb") {
 
 
 
-function getWards(type, election_dropdown, office_dropdown, offices) {
-  if (type == "num_selected") {
-    elections = elections;
-  }
+function getWards_locations(type, election_dropdown, office_dropdown, offices, wards = true) {
+
   election = elections[$(election_dropdown).val()];
   election = election.toLowerCase().replace(" ", "_");
   election = election.replace(" ", "_");
@@ -207,7 +219,12 @@ function getWards(type, election_dropdown, office_dropdown, offices) {
     office = "_" + offices[$(office_dropdown).val()];
   }
 
-  url += "wards" + office + ".json";
+  if (wards === true) {
+    ward_or_location = "wards";
+  } else {
+    ward_or_location = "locations";
+  }
+  url += ward_or_location + office + ".json";
 
   data = $.getJSON({
     url: url,
@@ -360,4 +377,8 @@ function makeMap(map_div) {
   max_bounds = L.latLngBounds(bound1, bound2);
   map.setMaxBounds(max_bounds);
   return map;
+}
+
+function dropdownFun() {
+    document.getElementById("myDropdown").classList.toggle("show");
 }
