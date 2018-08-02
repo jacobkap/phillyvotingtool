@@ -65,15 +65,7 @@
   <br>
   <div id="results_map_div" class="leaflet_map"></div>
   <script>
-    var results_map = L.map('results_map_div', {
-      minZoom: 10
-    }).setView([40, -75.1], 10);
-    L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
-      maxZoom: 18,
-      id: 'mapbox.streets',
-      accessToken: 'pk.eyJ1IjoiamtrYXBsYW4iLCJhIjoiY2lnOXAyaWZyMHNjZ3V5bHg4YTZieDczaSJ9.vSjaF4o2xaDFhNAv9Z2y7A'
-    }).addTo(results_map);
-//    results_map.setMaxBounds(results_map.getBounds())
+  results_map = makeMap('results_map_div')
 
   </script>
 </div>

@@ -62,19 +62,7 @@
   <br>
   <div id="cand_comb_map_div" class="leaflet_map"></div>
   <script>
-    var cand_comb_map = L.map('cand_comb_map_div', {
-      minZoom: 10
-    }).setView([40, -75.1], 10);
-    L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
-      maxZoom: 18,
-      id: 'mapbox.streets',
-      accessToken: 'pk.eyJ1IjoiamtrYXBsYW4iLCJhIjoiY2lnOXAyaWZyMHNjZ3V5bHg4YTZieDczaSJ9.vSjaF4o2xaDFhNAv9Z2y7A'
-    }).addTo(cand_comb_map);
-  //    cand_comb_map.setMaxBounds(cand_comb_map.getBounds())
-    geojson = L.geoJson(wards_polygon, {
-      onEachFeature: onEachFeature
-    }).addTo(cand_comb_map);
-      geojson.setStyle({color: '#28b78d'});
+        cand_comb_map = makeMap('cand_comb_map_div')
   </script>
 </div>
 

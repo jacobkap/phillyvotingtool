@@ -345,3 +345,19 @@ function formatData(data, type) {
   };
   return [formatted_data, title_text];
 }
+
+function makeMap(map_div) {
+  var map = L.map(map_div, {
+    minZoom: 10
+  }).setView([40, -75.1], 10);
+  L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+    maxZoom: 18,
+    id: 'mapbox.streets',
+    accessToken: 'pk.eyJ1IjoiamtrYXBsYW4iLCJhIjoiY2lnOXAyaWZyMHNjZ3V5bHg4YTZieDczaSJ9.vSjaF4o2xaDFhNAv9Z2y7A'
+  }).addTo(map);
+  bound1 = L.latLng(39.85388374694184, -75.38818359375);
+  bound2 = L.latLng(40.212440718286466, -74.8828125);
+  max_bounds = L.latLngBounds(bound1, bound2);
+  map.setMaxBounds(max_bounds);
+  return map;
+}

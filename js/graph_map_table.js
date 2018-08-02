@@ -198,7 +198,7 @@ function makeTable(div, data, headers) {
     z.push({
       data: headers[n],
       title: final_data[0][headers[n]],
-      className: "dt-head-right dt-body-right"
+      className: "dt-head-left dt-body-left"
     });
   }
 
