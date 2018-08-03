@@ -70,9 +70,9 @@ function setDivisionDropdown(type, election_dropdown, office_dropdown, offices, 
       divisions.push(temp);
     }
   }
+  divisions = divisions.sort(function(a,b) { return a - b; });
+   divisions.unshift("All");
 }
-divisions = divisions.sort(function(a,b) { return a - b; });
- divisions.unshift("All");
   $.each(divisions, function(val, text) {
     $(division_dropdown).append(new Option(text, val));
   });
@@ -326,7 +326,7 @@ function formatData(data, type) {
     if (results_wards[$("#results_ward").val()] != "All") {
       title += ", Ward " + results_wards[$("#results_ward").val()];
       if ($("#results_division").val() != "0") {
-        title += ", Division " + $("#results_division").val();
+        title += ", Division " + results_divisions[$("#results_division").val()];
       }
       title_text = [title];
 
@@ -339,7 +339,7 @@ function formatData(data, type) {
       title += ", Ward " + choices_wards[$("#choices_ward").val()];
     }
     if ($("#choices_division").val() != "0") {
-      title += ", Division " + $("#choices_division").val();
+      title += ", Division " + choices_divisions[$("#choices_division").val()];
     }
     title += "  ";
     choices_max = getOffices("num_selected", "#choices_election", true);
