@@ -72,13 +72,13 @@ function setDivisionDropdown(type, election_dropdown, office_dropdown, offices, 
   }
 }
 divisions = divisions.sort(function(a,b) { return a - b; });
+ divisions.unshift("All");
   $.each(divisions, function(val, text) {
     $(division_dropdown).append(new Option(text, val));
   });
   $(division_dropdown).val(0);
   $('.simple-select').chosen();
   $('.simple-select').trigger('chosen:updated');
-
   return divisions;
 }
 
@@ -275,10 +275,10 @@ function getGraphData() {
 function subsetData(data, type) {
   var final_data = [];
   if (type == "results") {
-    division = $("#results_division").val();
+    division = results_divisions[$("#results_division").val()];
     division_section = 2;
   } else if (type == "choices") {
-    division = $("#choices_division").val();
+    division = choices_divisions[$("#choices_division").val()];
     division_section = 1;
   }
   if (division === "0") {

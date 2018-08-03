@@ -96,7 +96,7 @@
       $.each(cand_comb_wards, function(val, text) {
                 $('#cand_comb_ward').append( new Option(text,val) );
       });
-        setDivisionDropdown("cand_comb", "#cand_comb_election", "#cand_comb_ballot_position", cand_comb_offices, "#cand_comb_ward", "#cand_comb_division", cand_comb_wards)
+      cand_comb_divisions = setDivisionDropdown("cand_comb", "#cand_comb_election", "#cand_comb_ballot_position", cand_comb_offices, "#cand_comb_ward", "#cand_comb_division", cand_comb_wards)
 
 
       cand_data = getData("cand_comb");

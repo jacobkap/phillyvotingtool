@@ -96,7 +96,7 @@
     $.each(results_wards, function(val, text) {
               $('#results_ward').append( new Option(text,val) );
    });
-   setDivisionDropdown("election_results", "#results_election", "#results_ballot_position", results_offices, "#results_ward", "#results_division", results_wards)
+   results_divisions = setDivisionDropdown("election_results", "#results_election", "#results_ballot_position", results_offices, "#results_ward", "#results_division", results_wards)
    ctx_results = document.getElementById("results_chart").getContext('2d');
   // ctx_results.height = 700;
    makeChart('results');

@@ -20,7 +20,7 @@ function resultsOfficeChange() {
 }
 
 function resultsChange() {
-  setDivisionDropdown("election_results", "#results_election", "#results_ballot_position", results_offices, "#results_ward", "#results_division", results_wards);
+  results_divisions = setDivisionDropdown("election_results", "#results_election", "#results_ballot_position", results_offices, "#results_ward", "#results_division", results_wards);
 
   geojson.removeFrom(results_map);
   geojson = L.geoJson(wards_polygon, {
@@ -35,7 +35,7 @@ function resultsChange() {
 }
 
 function choicesChange() {
-  setDivisionDropdown("num_selected", "#choices_election", "#choices_ballot_position", choices_offices, "#choices_ward", "#choices_division", choices_wards);
+  choices_divisions = setDivisionDropdown("num_selected", "#choices_election", "#choices_ballot_position", choices_offices, "#choices_ward", "#choices_division", choices_wards);
 
   geojson.removeFrom(choices_map);
   geojson = L.geoJson(wards_polygon, {
@@ -141,7 +141,7 @@ function candCombOfficeChange() {
 }
 
 function candCombChange() {
-  setDivisionDropdown("cand_comb", "#cand_comb_election", "#cand_comb_ballot_position", cand_comb_offices, "#cand_comb_ward", "#cand_comb_division", cand_comb_wards);
+cand_comb_divisions = setDivisionDropdown("cand_comb", "#cand_comb_election", "#cand_comb_ballot_position", cand_comb_offices, "#cand_comb_ward", "#cand_comb_division", cand_comb_wards);
 
   geojson.removeFrom(cand_comb_map);
   geojson = L.geoJson(wards_polygon, {

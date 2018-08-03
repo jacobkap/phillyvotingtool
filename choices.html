@@ -98,7 +98,7 @@ $.each(choices_wards, function(val, text) {
   });
   $('#choices_ward').val(0);
   $('.simple-select').chosen();
-     setDivisionDropdown("num_selected", "#choices_election", "#choices_ballot_position", choices_offices, "#choices_ward", "#choices_division", choices_wards)
+  choices_divisions = setDivisionDropdown("num_selected", "#choices_election", "#choices_ballot_position", choices_offices, "#choices_ward", "#choices_division", choices_wards)
     ctx_choices = document.getElementById("choices_chart").getContext('2d');
   makeChart('choices');
 

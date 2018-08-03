@@ -85,7 +85,7 @@ function whenClicked(e) {
     });
     results_map._layers[e.sourceTarget._leaflet_id].bringToFront();
     results_map._layers[e.sourceTarget._leaflet_id].setStyle({
-      color: '#BA0C2F'
+      color: '#d95f02'
     });
     ward_dropdown = "#results_ward";
     ward_num = results_wards.indexOf(ward_num);
@@ -96,7 +96,7 @@ function whenClicked(e) {
     });
     choices_map._layers[e.sourceTarget._leaflet_id].bringToFront();
     choices_map._layers[e.sourceTarget._leaflet_id].setStyle({
-      color: '#BA0C2F'
+      color: '#d95f02'
     });
     ward_dropdown = "#choices_ward";
     ward_num = choices_wards.indexOf(ward_num);
@@ -107,7 +107,7 @@ function whenClicked(e) {
     });
     cand_comb_map._layers[e.sourceTarget._leaflet_id].bringToFront();
     cand_comb_map._layers[e.sourceTarget._leaflet_id].setStyle({
-      color: '#BA0C2F'
+      color: '#d95f02'
     });
     ward_dropdown = "#cand_comb_ward";
     ward_num = cand_comb_wards.indexOf(ward_num);
@@ -119,7 +119,7 @@ function whenClicked(e) {
     });
     time_map._layers[e.sourceTarget._leaflet_id].bringToFront();
     time_map._layers[e.sourceTarget._leaflet_id].setStyle({
-      color: '#BA0C2F'
+      color: '#d95f02'
     });
     ward_dropdown = "#time_ward";
     ward_num = time_wards.indexOf(ward_num);
@@ -153,7 +153,7 @@ function makeTable(div, data, headers) {
   final_data = data;
   ward = cand_comb_wards[$("#cand_comb_ward").val()];
   if (ward != "All") {
-    division = cand_comb_division[$("#cand_comb_division").val()];
+    division = cand_comb_divisions[$("#cand_comb_division").val()];
     if (division == "0") {
       division = "All";
     }
