@@ -1,0 +1,211 @@
+col_1,col_2,col_3,col_4,col_5,division
+,Judge Of The Superior Court,,District Attorney,,All
+,Jack Mcvay Jr,Vic Stabile,Daniel A Alvarez,R Seth Williams,All
+Jack Mcvay Jr,34,0,154,547,All
+Vic Stabile,,19,486,83,All
+Daniel A Alvarez,,,63,0,All
+R Seth Williams,,,,67,All
+Total,735,588,703,697,All
+,Judge Of The Superior Court,,District Attorney,,1
+,Vic Stabile,Jack Mcvay Jr,Daniel A Alvarez,R Seth Williams,1
+Vic Stabile,2,0,26,1,1
+Jack Mcvay Jr,,0,1,21,1
+Daniel A Alvarez,,,0,0,1
+R Seth Williams,,,,2,1
+Total,29,22,27,24,1
+,Judge Of The Superior Court,,District Attorney,,2
+,Jack Mcvay Jr,Vic Stabile,Daniel A Alvarez,R Seth Williams,2
+Jack Mcvay Jr,0,0,11,25,2
+Vic Stabile,,0,15,2,2
+Daniel A Alvarez,,,2,0,2
+R Seth Williams,,,,1,2
+Total,36,17,28,28,2
+,Judge Of The Superior Court,,District Attorney,,3
+,Jack Mcvay Jr,Vic Stabile,Daniel A Alvarez,R Seth Williams,3
+Jack Mcvay Jr,2,0,4,10,3
+Vic Stabile,,1,6,0,3
+Daniel A Alvarez,,,5,0,3
+R Seth Williams,,,,0,3
+Total,16,7,15,10,3
+,District Attorney,,Judge Of The Superior Court,,4
+,R Seth Williams,Daniel A Alvarez,Jack Mcvay Jr,Vic Stabile,4
+R Seth Williams,5,0,26,3,4
+Daniel A Alvarez,,3,3,21,4
+Jack Mcvay Jr,,,0,0,4
+Vic Stabile,,,,1,4
+Total,34,27,29,25,4
+,Judge Of The Superior Court,,District Attorney,,5
+,Jack Mcvay Jr,Vic Stabile,R Seth Williams,Daniel A Alvarez,5
+Jack Mcvay Jr,2,0,23,9,5
+Vic Stabile,,0,1,6,5
+R Seth Williams,,,1,0,5
+Daniel A Alvarez,,,,0,5
+Total,34,7,25,15,5
+,District Attorney,,Judge Of The Superior Court,,6
+,Daniel A Alvarez,R Seth Williams,Vic Stabile,Jack Mcvay Jr,6
+Daniel A Alvarez,1,0,20,2,6
+R Seth Williams,,1,2,19,6
+Vic Stabile,,,0,0,6
+Jack Mcvay Jr,,,,0,6
+Total,23,22,22,21,6
+,Judge Of The Superior Court,,District Attorney,,7
+,Jack Mcvay Jr,Vic Stabile,R Seth Williams,Daniel A Alvarez,7
+Jack Mcvay Jr,2,0,29,7,7
+Vic Stabile,,0,3,16,7
+R Seth Williams,,,3,0,7
+Daniel A Alvarez,,,,3,7
+Total,38,19,35,26,7
+,District Attorney,,Judge Of The Superior Court,,8
+,Daniel A Alvarez,R Seth Williams,Jack Mcvay Jr,Vic Stabile,8
+Daniel A Alvarez,0,0,14,21,8
+R Seth Williams,,5,20,6,8
+Jack Mcvay Jr,,,1,0,8
+Vic Stabile,,,,0,8
+Total,35,31,35,27,8
+,Judge Of The Superior Court,,District Attorney,,9
+,Jack Mcvay Jr,Vic Stabile,Daniel A Alvarez,R Seth Williams,9
+Jack Mcvay Jr,1,0,5,18,9
+Vic Stabile,,1,12,1,9
+Daniel A Alvarez,,,4,0,9
+R Seth Williams,,,,2,9
+Total,24,14,21,21,9
+,Judge Of The Superior Court,,District Attorney,,10
+,Jack Mcvay Jr,Vic Stabile,R Seth Williams,Daniel A Alvarez,10
+Jack Mcvay Jr,0,0,19,3,10
+Vic Stabile,,0,0,11,10
+R Seth Williams,,,2,0,10
+Daniel A Alvarez,,,,0,10
+Total,22,11,21,14,10
+,District Attorney,,Judge Of The Superior Court,,11
+,R Seth Williams,Daniel A Alvarez,Jack Mcvay Jr,Vic Stabile,11
+R Seth Williams,0,0,25,6,11
+Daniel A Alvarez,,3,5,19,11
+Jack Mcvay Jr,,,0,0,11
+Vic Stabile,,,,2,11
+Total,31,27,30,27,11
+,District Attorney,,Judge Of The Superior Court,,12
+,Daniel A Alvarez,R Seth Williams,Vic Stabile,Jack Mcvay Jr,12
+Daniel A Alvarez,3,0,33,4,12
+R Seth Williams,,2,2,16,12
+Vic Stabile,,,0,0,12
+Jack Mcvay Jr,,,,2,12
+Total,40,20,35,22,12
+,District Attorney,,Judge Of The Superior Court,,13
+,Daniel A Alvarez,R Seth Williams,Jack Mcvay Jr,Vic Stabile,13
+Daniel A Alvarez,1,0,8,18,13
+R Seth Williams,,0,19,6,13
+Jack Mcvay Jr,,,0,0,13
+Vic Stabile,,,,1,13
+Total,27,25,27,25,13
+,Judge Of The Superior Court,,District Attorney,,14
+,Jack Mcvay Jr,Vic Stabile,R Seth Williams,Daniel A Alvarez,14
+Jack Mcvay Jr,2,0,17,3,14
+Vic Stabile,,0,3,13,14
+R Seth Williams,,,1,0,14
+Daniel A Alvarez,,,,3,14
+Total,22,16,21,19,14
+,District Attorney,,Judge Of The Superior Court,,15
+,R Seth Williams,Daniel A Alvarez,Vic Stabile,Jack Mcvay Jr,15
+R Seth Williams,4,0,3,18,15
+Daniel A Alvarez,,1,19,2,15
+Vic Stabile,,,0,0,15
+Jack Mcvay Jr,,,,1,15
+Total,25,22,22,21,15
+,District Attorney,,Judge Of The Superior Court,,16
+,Daniel A Alvarez,R Seth Williams,Jack Mcvay Jr,Vic Stabile,16
+Daniel A Alvarez,2,0,6,12,16
+R Seth Williams,,1,13,2,16
+Jack Mcvay Jr,,,1,0,16
+Vic Stabile,,,,0,16
+Total,20,16,20,14,16
+,District Attorney,,Judge Of The Superior Court,,17
+,R Seth Williams,Daniel A Alvarez,Jack Mcvay Jr,Vic Stabile,17
+R Seth Williams,5,0,17,3,17
+Daniel A Alvarez,,1,3,10,17
+Jack Mcvay Jr,,,0,0,17
+Vic Stabile,,,,1,17
+Total,25,14,20,14,17
+,District Attorney,,Judge Of The Superior Court,,18
+,Daniel A Alvarez,R Seth Williams,Vic Stabile,Jack Mcvay Jr,18
+Daniel A Alvarez,2,0,16,4,18
+R Seth Williams,,2,4,13,18
+Vic Stabile,,,0,0,18
+Jack Mcvay Jr,,,,1,18
+Total,22,19,20,18,18
+,District Attorney,,Judge Of The Superior Court,,19
+,Daniel A Alvarez,R Seth Williams,Vic Stabile,Jack Mcvay Jr,19
+Daniel A Alvarez,4,0,33,6,19
+R Seth Williams,,6,4,15,19
+Vic Stabile,,,3,0,19
+Jack Mcvay Jr,,,,2,19
+Total,43,25,40,23,19
+,District Attorney,,Judge Of The Superior Court,,20
+,Daniel A Alvarez,R Seth Williams,Jack Mcvay Jr,Vic Stabile,20
+Daniel A Alvarez,1,0,12,12,20
+R Seth Williams,,4,12,4,20
+Jack Mcvay Jr,,,0,0,20
+Vic Stabile,,,,0,20
+Total,25,20,24,16,20
+,Judge Of The Superior Court,,District Attorney,,21
+,Jack Mcvay Jr,Vic Stabile,Daniel A Alvarez,R Seth Williams,21
+Jack Mcvay Jr,2,0,9,17,21
+Vic Stabile,,2,13,4,21
+Daniel A Alvarez,,,4,0,21
+R Seth Williams,,,,1,21
+Total,28,19,26,22,21
+,Judge Of The Superior Court,,District Attorney,,22
+,Jack Mcvay Jr,Vic Stabile,Daniel A Alvarez,R Seth Williams,22
+Jack Mcvay Jr,3,0,3,16,22
+Vic Stabile,,1,17,1,22
+Daniel A Alvarez,,,1,0,22
+R Seth Williams,,,,3,22
+Total,22,19,21,20,22
+,District Attorney,,Judge Of The Superior Court,,23
+,Daniel A Alvarez,R Seth Williams,Jack Mcvay Jr,Vic Stabile,23
+Daniel A Alvarez,5,0,3,17,23
+R Seth Williams,,4,15,2,23
+Jack Mcvay Jr,,,3,0,23
+Vic Stabile,,,,1,23
+Total,25,21,21,20,23
+,District Attorney,,Judge Of The Superior Court,,24
+,Daniel A Alvarez,R Seth Williams,Vic Stabile,Jack Mcvay Jr,24
+Daniel A Alvarez,3,0,22,8,24
+R Seth Williams,,3,7,21,24
+Vic Stabile,,,2,0,24
+Jack Mcvay Jr,,,,1,24
+Total,33,31,31,30,24
+,Judge Of The Superior Court,,District Attorney,,25
+,Jack Mcvay Jr,Vic Stabile,R Seth Williams,Daniel A Alvarez,25
+Jack Mcvay Jr,1,0,25,2,25
+Vic Stabile,,0,2,14,25
+R Seth Williams,,,0,0,25
+Daniel A Alvarez,,,,0,25
+Total,28,16,27,16,25
+,Judge Of The Superior Court,,District Attorney,,26
+,Jack Mcvay Jr,Vic Stabile,R Seth Williams,Daniel A Alvarez,26
+Jack Mcvay Jr,1,0,25,7,26
+Vic Stabile,,1,5,14,26
+R Seth Williams,,,3,0,26
+Daniel A Alvarez,,,,2,26
+Total,33,20,33,23,26
+,Judge Of The Superior Court,,District Attorney,,27
+,Jack Mcvay Jr,Vic Stabile,R Seth Williams,Daniel A Alvarez,27
+Jack Mcvay Jr,3,0,20,1,27
+Vic Stabile,,0,1,10,27
+R Seth Williams,,,1,0,27
+Daniel A Alvarez,,,,1,27
+Total,24,11,22,12,27
+,District Attorney,,Judge Of The Superior Court,,28
+,Daniel A Alvarez,R Seth Williams,Vic Stabile,Jack Mcvay Jr,28
+Daniel A Alvarez,3,0,25,6,28
+R Seth Williams,,1,3,11,28
+Vic Stabile,,,0,0,28
+Jack Mcvay Jr,,,,0,28
+Total,34,15,28,17,28
+,Judge Of The Superior Court,,District Attorney,,29
+,Jack Mcvay Jr,Vic Stabile,R Seth Williams,Daniel A Alvarez,29
+Jack Mcvay Jr,3,0,22,3,29
+Vic Stabile,,0,2,15,29
+R Seth Williams,,,4,0,29
+Daniel A Alvarez,,,,5,29
+Total,28,17,28,23,29

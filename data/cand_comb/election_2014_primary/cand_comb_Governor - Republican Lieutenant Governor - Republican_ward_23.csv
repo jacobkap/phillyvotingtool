@@ -1,0 +1,133 @@
+col_1,col_2,col_3,col_4,division
+,Lieutenant Governor - Republican,Governor - Republican,,1
+,Jim Cawley,Robert Guzzardi,Tom Corbett,1
+Jim Cawley,1,0,0,1
+Robert Guzzardi,,0,0,1
+Tom Corbett,,,0,1
+Total,1,0,0,1
+,Lieutenant Governor - Republican,Governor - Republican,,2
+,Jim Cawley,Tom Corbett,Robert Guzzardi,2
+Jim Cawley,0,1,0,2
+Tom Corbett,,0,0,2
+Robert Guzzardi,,,0,2
+Total,1,1,0,2
+,Lieutenant Governor - Republican,Governor - Republican,,3
+,Jim Cawley,Tom Corbett,Robert Guzzardi,3
+Jim Cawley,0,3,0,3
+Tom Corbett,,0,0,3
+Robert Guzzardi,,,0,3
+Total,3,3,0,3
+,Governor - Republican,,Lieutenant Governor - Republican,4
+,Tom Corbett,Robert Guzzardi,Jim Cawley,4
+Tom Corbett,1,0,8,4
+Robert Guzzardi,,0,0,4
+Jim Cawley,,,0,4
+Total,9,0,8,4
+,Lieutenant Governor - Republican,Governor - Republican,,5
+,Jim Cawley,Tom Corbett,Robert Guzzardi,5
+Jim Cawley,2,4,0,5
+Tom Corbett,,0,0,5
+Robert Guzzardi,,,0,5
+Total,6,4,0,5
+,Lieutenant Governor - Republican,Governor - Republican,,6
+,Jim Cawley,Tom Corbett,Robert Guzzardi,6
+Jim Cawley,1,6,0,6
+Tom Corbett,,0,0,6
+Robert Guzzardi,,,0,6
+Total,7,6,0,6
+,Governor - Republican,,Lieutenant Governor - Republican,7
+,Tom Corbett,Robert Guzzardi,Jim Cawley,7
+Tom Corbett,1,0,3,7
+Robert Guzzardi,,0,0,7
+Jim Cawley,,,0,7
+Total,4,0,3,7
+,Lieutenant Governor - Republican,Governor - Republican,,8
+,Jim Cawley,Tom Corbett,Robert Guzzardi,8
+Jim Cawley,0,2,1,8
+Tom Corbett,,0,0,8
+Robert Guzzardi,,,0,8
+Total,3,2,1,8
+,Lieutenant Governor - Republican,Governor - Republican,,9
+,Jim Cawley,Tom Corbett,Robert Guzzardi,9
+Jim Cawley,1,18,1,9
+Tom Corbett,,1,0,9
+Robert Guzzardi,,,0,9
+Total,20,19,1,9
+,Governor - Republican,,Lieutenant Governor - Republican,10
+,Tom Corbett,Robert Guzzardi,Jim Cawley,10
+Tom Corbett,2,0,18,10
+Robert Guzzardi,,0,0,10
+Jim Cawley,,,1,10
+Total,20,0,19,10
+,Lieutenant Governor - Republican,Governor - Republican,,11
+,Jim Cawley,Tom Corbett,Robert Guzzardi,11
+Jim Cawley,0,1,0,11
+Tom Corbett,,0,0,11
+Robert Guzzardi,,,0,11
+Total,1,1,0,11
+,Governor - Republican,,Lieutenant Governor - Republican,12
+,Tom Corbett,Robert Guzzardi,Jim Cawley,12
+Tom Corbett,1,0,1,12
+Robert Guzzardi,,0,0,12
+Jim Cawley,,,0,12
+Total,2,0,1,12
+,Governor - Republican,,Lieutenant Governor - Republican,13
+,Tom Corbett,Robert Guzzardi,Jim Cawley,13
+Tom Corbett,3,0,16,13
+Robert Guzzardi,,0,0,13
+Jim Cawley,,,0,13
+Total,19,0,16,13
+,Lieutenant Governor - Republican,Governor - Republican,,14
+,Jim Cawley,Tom Corbett,Robert Guzzardi,14
+Jim Cawley,3,14,0,14
+Tom Corbett,,3,0,14
+Robert Guzzardi,,,0,14
+Total,17,17,0,14
+,Lieutenant Governor - Republican,Governor - Republican,,15
+,Jim Cawley,Tom Corbett,Robert Guzzardi,15
+Jim Cawley,0,6,0,15
+Tom Corbett,,0,0,15
+Robert Guzzardi,,,0,15
+Total,6,6,0,15
+,Governor - Republican,,Lieutenant Governor - Republican,17
+,Tom Corbett,Robert Guzzardi,Jim Cawley,17
+Tom Corbett,2,0,1,17
+Robert Guzzardi,,0,0,17
+Jim Cawley,,,0,17
+Total,3,0,1,17
+,Lieutenant Governor - Republican,Governor - Republican,,18
+,Jim Cawley,Tom Corbett,Robert Guzzardi,18
+Jim Cawley,1,2,0,18
+Tom Corbett,,0,0,18
+Robert Guzzardi,,,0,18
+Total,3,2,0,18
+,Lieutenant Governor - Republican,Governor - Republican,,20
+,Jim Cawley,Tom Corbett,Robert Guzzardi,20
+Jim Cawley,0,3,0,20
+Tom Corbett,,0,0,20
+Robert Guzzardi,,,0,20
+Total,3,3,0,20
+,Lieutenant Governor - Republican,Governor - Republican,,21
+,Jim Cawley,Tom Corbett,Robert Guzzardi,21
+Jim Cawley,0,2,0,21
+Tom Corbett,,0,0,21
+Robert Guzzardi,,,0,21
+Total,2,2,0,21
+,Lieutenant Governor - Republican,Governor - Republican,,22
+,Jim Cawley,Tom Corbett,Robert Guzzardi,22
+Jim Cawley,2,0,0,22
+Tom Corbett,,2,0,22
+Robert Guzzardi,,,0,22
+Total,2,2,0,22
+,Lieutenant Governor - Republican,Governor - Republican,,23
+,Jim Cawley,Tom Corbett,Robert Guzzardi,23
+Jim Cawley,0,1,0,23
+Tom Corbett,,0,0,23
+Robert Guzzardi,,,0,23
+Total,1,1,0,23
+,Governor - Republican,,Lieutenant Governor - Republican,All
+,Tom Corbett,Robert Guzzardi,Jim Cawley,All
+Tom Corbett,16,0,110,All
+Robert Guzzardi,,0,2,All
+Jim Cawley,,,12,All
+Total,126,2,124,All

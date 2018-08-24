@@ -1,0 +1,377 @@
+col_1,col_2,col_3,col_4,col_5,col_6,division
+,United States Senator - Republican,,,,,All
+,David Alan Christian,Tom Smith,Steven D Welch,Sam Rohrer,Marc A Scaringi,All
+David Alan Christian,815,0,0,0,0,All
+Tom Smith,,653,0,0,0,All
+Steven D Welch,,,522,0,0,All
+Sam Rohrer,,,,118,0,All
+Marc A Scaringi,,,,,107,All
+Total,815,653,522,118,107,All
+,United States Senator - Republican,,,,,1
+,David Alan Christian,Tom Smith,Sam Rohrer,Marc A Scaringi,Steven D Welch,1
+David Alan Christian,8,0,0,0,0,1
+Tom Smith,,8,0,0,0,1
+Sam Rohrer,,,6,0,0,1
+Marc A Scaringi,,,,1,0,1
+Steven D Welch,,,,,1,1
+Total,8,8,6,1,1,1
+,United States Senator - Republican,,,,,2
+,David Alan Christian,Steven D Welch,Tom Smith,Marc A Scaringi,Sam Rohrer,2
+David Alan Christian,12,0,0,0,0,2
+Steven D Welch,,11,0,0,0,2
+Tom Smith,,,8,0,0,2
+Marc A Scaringi,,,,3,0,2
+Sam Rohrer,,,,,2,2
+Total,12,11,8,3,2,2
+,United States Senator - Republican,,,,,3
+,Tom Smith,David Alan Christian,Steven D Welch,Marc A Scaringi,Sam Rohrer,3
+Tom Smith,11,0,0,0,0,3
+David Alan Christian,,8,0,0,0,3
+Steven D Welch,,,8,0,0,3
+Marc A Scaringi,,,,3,0,3
+Sam Rohrer,,,,,0,3
+Total,11,8,8,3,0,3
+,United States Senator - Republican,,,,,4
+,Tom Smith,Steven D Welch,Marc A Scaringi,David Alan Christian,Sam Rohrer,4
+Tom Smith,8,0,0,0,0,4
+Steven D Welch,,7,0,0,0,4
+Marc A Scaringi,,,4,0,0,4
+David Alan Christian,,,,2,0,4
+Sam Rohrer,,,,,1,4
+Total,8,7,4,2,1,4
+,United States Senator - Republican,,,,,5
+,Steven D Welch,David Alan Christian,Tom Smith,Marc A Scaringi,Sam Rohrer,5
+Steven D Welch,14,0,0,0,0,5
+David Alan Christian,,11,0,0,0,5
+Tom Smith,,,8,0,0,5
+Marc A Scaringi,,,,0,0,5
+Sam Rohrer,,,,,0,5
+Total,14,11,8,0,0,5
+,United States Senator - Republican,,,,,6
+,David Alan Christian,Steven D Welch,Marc A Scaringi,Tom Smith,Sam Rohrer,6
+David Alan Christian,15,0,0,0,0,6
+Steven D Welch,,8,0,0,0,6
+Marc A Scaringi,,,6,0,0,6
+Tom Smith,,,,5,0,6
+Sam Rohrer,,,,,3,6
+Total,15,8,6,5,3,6
+,United States Senator - Republican,,,,,7
+,Steven D Welch,David Alan Christian,Tom Smith,Marc A Scaringi,Sam Rohrer,7
+Steven D Welch,24,0,0,0,0,7
+David Alan Christian,,18,0,0,0,7
+Tom Smith,,,9,0,0,7
+Marc A Scaringi,,,,3,0,7
+Sam Rohrer,,,,,3,7
+Total,24,18,9,3,3,7
+,United States Senator - Republican,,,,,8
+,Tom Smith,David Alan Christian,Steven D Welch,Sam Rohrer,Marc A Scaringi,8
+Tom Smith,22,0,0,0,0,8
+David Alan Christian,,18,0,0,0,8
+Steven D Welch,,,8,0,0,8
+Sam Rohrer,,,,3,0,8
+Marc A Scaringi,,,,,2,8
+Total,22,18,8,3,2,8
+,United States Senator - Republican,,,,,9
+,Tom Smith,David Alan Christian,Steven D Welch,Sam Rohrer,Marc A Scaringi,9
+Tom Smith,19,0,0,0,0,9
+David Alan Christian,,16,0,0,0,9
+Steven D Welch,,,13,0,0,9
+Sam Rohrer,,,,3,0,9
+Marc A Scaringi,,,,,2,9
+Total,19,16,13,3,2,9
+,United States Senator - Republican,,,,,10
+,David Alan Christian,Tom Smith,Steven D Welch,Marc A Scaringi,Sam Rohrer,10
+David Alan Christian,27,0,0,0,0,10
+Tom Smith,,22,0,0,0,10
+Steven D Welch,,,3,0,0,10
+Marc A Scaringi,,,,2,0,10
+Sam Rohrer,,,,,1,10
+Total,27,22,3,2,1,10
+,United States Senator - Republican,,,,,11
+,David Alan Christian,Tom Smith,Steven D Welch,Sam Rohrer,Marc A Scaringi,11
+David Alan Christian,21,0,0,0,0,11
+Tom Smith,,10,0,0,0,11
+Steven D Welch,,,8,0,0,11
+Sam Rohrer,,,,6,0,11
+Marc A Scaringi,,,,,2,11
+Total,21,10,8,6,2,11
+,United States Senator - Republican,,,,,12
+,David Alan Christian,Tom Smith,Steven D Welch,Marc A Scaringi,Sam Rohrer,12
+David Alan Christian,11,0,0,0,0,12
+Tom Smith,,10,0,0,0,12
+Steven D Welch,,,4,0,0,12
+Marc A Scaringi,,,,2,0,12
+Sam Rohrer,,,,,2,12
+Total,11,10,4,2,2,12
+,United States Senator - Republican,,,,,13
+,David Alan Christian,Steven D Welch,Tom Smith,Sam Rohrer,Marc A Scaringi,13
+David Alan Christian,11,0,0,0,0,13
+Steven D Welch,,10,0,0,0,13
+Tom Smith,,,5,0,0,13
+Sam Rohrer,,,,1,0,13
+Marc A Scaringi,,,,,0,13
+Total,11,10,5,1,0,13
+,United States Senator - Republican,,,,,14
+,Tom Smith,David Alan Christian,Sam Rohrer,Steven D Welch,Marc A Scaringi,14
+Tom Smith,16,0,0,0,0,14
+David Alan Christian,,13,0,0,0,14
+Sam Rohrer,,,8,0,0,14
+Steven D Welch,,,,6,0,14
+Marc A Scaringi,,,,,1,14
+Total,16,13,8,6,1,14
+,United States Senator - Republican,,,,,15
+,Tom Smith,David Alan Christian,Steven D Welch,Sam Rohrer,Marc A Scaringi,15
+Tom Smith,15,0,0,0,0,15
+David Alan Christian,,13,0,0,0,15
+Steven D Welch,,,7,0,0,15
+Sam Rohrer,,,,4,0,15
+Marc A Scaringi,,,,,3,15
+Total,15,13,7,4,3,15
+,United States Senator - Republican,,,,,16
+,David Alan Christian,Tom Smith,Marc A Scaringi,Steven D Welch,Sam Rohrer,16
+David Alan Christian,13,0,0,0,0,16
+Tom Smith,,12,0,0,0,16
+Marc A Scaringi,,,4,0,0,16
+Steven D Welch,,,,4,0,16
+Sam Rohrer,,,,,1,16
+Total,13,12,4,4,1,16
+,United States Senator - Republican,,,,,17
+,Tom Smith,Steven D Welch,David Alan Christian,Marc A Scaringi,Sam Rohrer,17
+Tom Smith,49,0,0,0,0,17
+Steven D Welch,,10,0,0,0,17
+David Alan Christian,,,6,0,0,17
+Marc A Scaringi,,,,2,0,17
+Sam Rohrer,,,,,0,17
+Total,49,10,6,2,0,17
+,United States Senator - Republican,,,,,18
+,David Alan Christian,Tom Smith,Steven D Welch,Marc A Scaringi,Sam Rohrer,18
+David Alan Christian,28,0,0,0,0,18
+Tom Smith,,17,0,0,0,18
+Steven D Welch,,,4,0,0,18
+Marc A Scaringi,,,,1,0,18
+Sam Rohrer,,,,,0,18
+Total,28,17,4,1,0,18
+,United States Senator - Republican,,,,,19
+,David Alan Christian,Steven D Welch,Tom Smith,Marc A Scaringi,Sam Rohrer,19
+David Alan Christian,18,0,0,0,0,19
+Steven D Welch,,8,0,0,0,19
+Tom Smith,,,7,0,0,19
+Marc A Scaringi,,,,3,0,19
+Sam Rohrer,,,,,1,19
+Total,18,8,7,3,1,19
+,United States Senator - Republican,,,,,20
+,David Alan Christian,Tom Smith,Steven D Welch,Marc A Scaringi,Sam Rohrer,20
+David Alan Christian,18,0,0,0,0,20
+Tom Smith,,12,0,0,0,20
+Steven D Welch,,,5,0,0,20
+Marc A Scaringi,,,,4,0,20
+Sam Rohrer,,,,,1,20
+Total,18,12,5,4,1,20
+,United States Senator - Republican,,,,,21
+,David Alan Christian,Tom Smith,Steven D Welch,Sam Rohrer,Marc A Scaringi,21
+David Alan Christian,28,0,0,0,0,21
+Tom Smith,,15,0,0,0,21
+Steven D Welch,,,12,0,0,21
+Sam Rohrer,,,,9,0,21
+Marc A Scaringi,,,,,2,21
+Total,28,15,12,9,2,21
+,United States Senator - Republican,,,,,22
+,David Alan Christian,Tom Smith,Steven D Welch,Marc A Scaringi,Sam Rohrer,22
+David Alan Christian,19,0,0,0,0,22
+Tom Smith,,14,0,0,0,22
+Steven D Welch,,,7,0,0,22
+Marc A Scaringi,,,,3,0,22
+Sam Rohrer,,,,,1,22
+Total,19,14,7,3,1,22
+,United States Senator - Republican,,,,,23
+,David Alan Christian,Steven D Welch,Tom Smith,Sam Rohrer,Marc A Scaringi,23
+David Alan Christian,9,0,0,0,0,23
+Steven D Welch,,8,0,0,0,23
+Tom Smith,,,7,0,0,23
+Sam Rohrer,,,,4,0,23
+Marc A Scaringi,,,,,1,23
+Total,9,8,7,4,1,23
+,United States Senator - Republican,,,,,24
+,David Alan Christian,Steven D Welch,Tom Smith,Marc A Scaringi,Sam Rohrer,24
+David Alan Christian,24,0,0,0,0,24
+Steven D Welch,,7,0,0,0,24
+Tom Smith,,,7,0,0,24
+Marc A Scaringi,,,,5,0,24
+Sam Rohrer,,,,,1,24
+Total,24,7,7,5,1,24
+,United States Senator - Republican,,,,,25
+,David Alan Christian,Steven D Welch,Tom Smith,Sam Rohrer,Marc A Scaringi,25
+David Alan Christian,29,0,0,0,0,25
+Steven D Welch,,28,0,0,0,25
+Tom Smith,,,21,0,0,25
+Sam Rohrer,,,,2,0,25
+Marc A Scaringi,,,,,0,25
+Total,29,28,21,2,0,25
+,United States Senator - Republican,,,,,26
+,David Alan Christian,Tom Smith,Steven D Welch,Marc A Scaringi,Sam Rohrer,26
+David Alan Christian,13,0,0,0,0,26
+Tom Smith,,10,0,0,0,26
+Steven D Welch,,,5,0,0,26
+Marc A Scaringi,,,,1,0,26
+Sam Rohrer,,,,,1,26
+Total,13,10,5,1,1,26
+,United States Senator - Republican,,,,,27
+,Steven D Welch,David Alan Christian,Tom Smith,Marc A Scaringi,Sam Rohrer,27
+Steven D Welch,7,0,0,0,0,27
+David Alan Christian,,4,0,0,0,27
+Tom Smith,,,4,0,0,27
+Marc A Scaringi,,,,2,0,27
+Sam Rohrer,,,,,0,27
+Total,7,4,4,2,0,27
+,United States Senator - Republican,,,,,28
+,David Alan Christian,Steven D Welch,Tom Smith,Marc A Scaringi,Sam Rohrer,28
+David Alan Christian,26,0,0,0,0,28
+Steven D Welch,,10,0,0,0,28
+Tom Smith,,,9,0,0,28
+Marc A Scaringi,,,,1,0,28
+Sam Rohrer,,,,,1,28
+Total,26,10,9,1,1,28
+,United States Senator - Republican,,,,,29
+,David Alan Christian,Tom Smith,Steven D Welch,Marc A Scaringi,Sam Rohrer,29
+David Alan Christian,45,0,0,0,0,29
+Tom Smith,,40,0,0,0,29
+Steven D Welch,,,25,0,0,29
+Marc A Scaringi,,,,8,0,29
+Sam Rohrer,,,,,7,29
+Total,45,40,25,8,7,29
+,United States Senator - Republican,,,,,30
+,David Alan Christian,Tom Smith,Steven D Welch,Sam Rohrer,Marc A Scaringi,30
+David Alan Christian,24,0,0,0,0,30
+Tom Smith,,24,0,0,0,30
+Steven D Welch,,,18,0,0,30
+Sam Rohrer,,,,7,0,30
+Marc A Scaringi,,,,,2,30
+Total,24,24,18,7,2,30
+,United States Senator - Republican,,,,,31
+,David Alan Christian,Tom Smith,Sam Rohrer,Steven D Welch,Marc A Scaringi,31
+David Alan Christian,12,0,0,0,0,31
+Tom Smith,,7,0,0,0,31
+Sam Rohrer,,,5,0,0,31
+Steven D Welch,,,,5,0,31
+Marc A Scaringi,,,,,1,31
+Total,12,7,5,5,1,31
+,United States Senator - Republican,,,,,32
+,Tom Smith,David Alan Christian,Steven D Welch,Marc A Scaringi,Sam Rohrer,32
+Tom Smith,11,0,0,0,0,32
+David Alan Christian,,8,0,0,0,32
+Steven D Welch,,,7,0,0,32
+Marc A Scaringi,,,,2,0,32
+Sam Rohrer,,,,,1,32
+Total,11,8,7,2,1,32
+,United States Senator - Republican,,,,,33
+,David Alan Christian,Tom Smith,Steven D Welch,Sam Rohrer,Marc A Scaringi,33
+David Alan Christian,32,0,0,0,0,33
+Tom Smith,,19,0,0,0,33
+Steven D Welch,,,13,0,0,33
+Sam Rohrer,,,,6,0,33
+Marc A Scaringi,,,,,2,33
+Total,32,19,13,6,2,33
+,United States Senator - Republican,,,,,34
+,Tom Smith,David Alan Christian,Steven D Welch,Marc A Scaringi,Sam Rohrer,34
+Tom Smith,15,0,0,0,0,34
+David Alan Christian,,12,0,0,0,34
+Steven D Welch,,,12,0,0,34
+Marc A Scaringi,,,,2,0,34
+Sam Rohrer,,,,,1,34
+Total,15,12,12,2,1,34
+,United States Senator - Republican,,,,,35
+,David Alan Christian,Tom Smith,Steven D Welch,Sam Rohrer,Marc A Scaringi,35
+David Alan Christian,21,0,0,0,0,35
+Tom Smith,,13,0,0,0,35
+Steven D Welch,,,8,0,0,35
+Sam Rohrer,,,,2,0,35
+Marc A Scaringi,,,,,1,35
+Total,21,13,8,2,1,35
+,United States Senator - Republican,,,,,36
+,David Alan Christian,Steven D Welch,Tom Smith,Marc A Scaringi,Sam Rohrer,36
+David Alan Christian,30,0,0,0,0,36
+Steven D Welch,,17,0,0,0,36
+Tom Smith,,,15,0,0,36
+Marc A Scaringi,,,,4,0,36
+Sam Rohrer,,,,,3,36
+Total,30,17,15,4,3,36
+,United States Senator - Republican,,,,,37
+,David Alan Christian,Tom Smith,Steven D Welch,Marc A Scaringi,Sam Rohrer,37
+David Alan Christian,10,0,0,0,0,37
+Tom Smith,,4,0,0,0,37
+Steven D Welch,,,2,0,0,37
+Marc A Scaringi,,,,1,0,37
+Sam Rohrer,,,,,1,37
+Total,10,4,2,1,1,37
+,United States Senator - Republican,,,,,38
+,David Alan Christian,Tom Smith,Steven D Welch,Marc A Scaringi,Sam Rohrer,38
+David Alan Christian,18,0,0,0,0,38
+Tom Smith,,16,0,0,0,38
+Steven D Welch,,,12,0,0,38
+Marc A Scaringi,,,,2,0,38
+Sam Rohrer,,,,,0,38
+Total,18,16,12,2,0,38
+,United States Senator - Republican,,,,,39
+,Tom Smith,David Alan Christian,Steven D Welch,Sam Rohrer,Marc A Scaringi,39
+Tom Smith,22,0,0,0,0,39
+David Alan Christian,,16,0,0,0,39
+Steven D Welch,,,5,0,0,39
+Sam Rohrer,,,,3,0,39
+Marc A Scaringi,,,,,2,39
+Total,22,16,5,3,2,39
+,United States Senator - Republican,,,,,40
+,David Alan Christian,Tom Smith,Steven D Welch,Marc A Scaringi,Sam Rohrer,40
+David Alan Christian,13,0,0,0,0,40
+Tom Smith,,13,0,0,0,40
+Steven D Welch,,,8,0,0,40
+Marc A Scaringi,,,,1,0,40
+Sam Rohrer,,,,,1,40
+Total,13,13,8,1,1,40
+,United States Senator - Republican,,,,,41
+,David Alan Christian,Steven D Welch,Tom Smith,Marc A Scaringi,Sam Rohrer,41
+David Alan Christian,13,0,0,0,0,41
+Steven D Welch,,8,0,0,0,41
+Tom Smith,,,5,0,0,41
+Marc A Scaringi,,,,3,0,41
+Sam Rohrer,,,,,2,41
+Total,13,8,5,3,2,41
+,United States Senator - Republican,,,,,42
+,Steven D Welch,David Alan Christian,Tom Smith,Sam Rohrer,Marc A Scaringi,42
+Steven D Welch,23,0,0,0,0,42
+David Alan Christian,,21,0,0,0,42
+Tom Smith,,,16,0,0,42
+Sam Rohrer,,,,3,0,42
+Marc A Scaringi,,,,,2,42
+Total,23,21,16,3,2,42
+,United States Senator - Republican,,,,,43
+,David Alan Christian,Steven D Welch,Tom Smith,Marc A Scaringi,Sam Rohrer,43
+David Alan Christian,45,0,0,0,0,43
+Steven D Welch,,29,0,0,0,43
+Tom Smith,,,26,0,0,43
+Marc A Scaringi,,,,7,0,43
+Sam Rohrer,,,,,3,43
+Total,45,29,26,7,3,43
+,United States Senator - Republican,,,,,44
+,Tom Smith,David Alan Christian,Steven D Welch,Sam Rohrer,Marc A Scaringi,44
+Tom Smith,28,0,0,0,0,44
+David Alan Christian,,23,0,0,0,44
+Steven D Welch,,,9,0,0,44
+Sam Rohrer,,,,3,0,44
+Marc A Scaringi,,,,,1,44
+Total,28,23,9,3,1,44
+,United States Senator - Republican,,,,,45
+,David Alan Christian,Steven D Welch,Tom Smith,Marc A Scaringi,Sam Rohrer,45
+David Alan Christian,11,0,0,0,0,45
+Steven D Welch,,9,0,0,0,45
+Tom Smith,,,9,0,0,45
+Marc A Scaringi,,,,2,0,45
+Sam Rohrer,,,,,1,45
+Total,11,9,9,2,1,45
+,United States Senator - Republican,,,,,46
+,Steven D Welch,David Alan Christian,Tom Smith,Sam Rohrer,Marc A Scaringi,46
+Steven D Welch,65,0,0,0,0,46
+David Alan Christian,,22,0,0,0,46
+Tom Smith,,,10,0,0,46
+Sam Rohrer,,,,4,0,46
+Marc A Scaringi,,,,,1,46
+Total,65,22,10,4,1,46

@@ -1,0 +1,365 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10,col_11,col_12,division
+,Judge Of The Court Of Common Pleas,,,,,,,,,Controller,,All
+,Anne Marie Coyle,Joe Fernandes,Giovanni Campbell,Sierra Thomas Street,Daniel D Mccaffery,Timika Lane,J Scott O Keefe,Kenneth J Powell Jr,Stephen Miller Miller,Alan Butkovitz,Terrence J Tracy Jr,All
+Anne Marie Coyle,8,894,897,878,898,875,894,86,43,904,91,All
+Joe Fernandes,,8,897,889,890,875,874,35,40,895,38,All
+Giovanni Campbell,,,3,890,895,891,889,44,39,894,42,All
+Sierra Thomas Street,,,,7,877,885,860,25,27,890,31,All
+Daniel D Mccaffery,,,,,2,877,887,43,40,890,39,All
+Timika Lane,,,,,,4,861,26,37,890,29,All
+J Scott O Keefe,,,,,,,2,38,38,872,36,All
+Kenneth J Powell Jr,,,,,,,,2,26,30,78,All
+Stephen Miller Miller,,,,,,,,,2,41,17,All
+Alan Butkovitz,,,,,,,,,,11,0,All
+Terrence J Tracy Jr,,,,,,,,,,,11,All
+Total,"1,023",964,960,955,946,939,920,110,63,"1,020",123,All
+,Judge Of The Court Of Common Pleas,,,,,,,,,Controller,,1
+,Anne Marie Coyle,Daniel D Mccaffery,Giovanni Campbell,Sierra Thomas Street,Timika Lane,J Scott O Keefe,Joe Fernandes,Kenneth J Powell Jr,Stephen Miller Miller,Alan Butkovitz,Terrence J Tracy Jr,1
+Anne Marie Coyle,1,39,38,37,36,38,36,5,3,35,5,1
+Daniel D Mccaffery,,0,40,38,37,38,37,3,3,37,2,1
+Giovanni Campbell,,,0,38,37,37,36,3,2,37,2,1
+Sierra Thomas Street,,,,0,38,36,36,2,3,36,1,1
+Timika Lane,,,,,0,35,36,1,2,37,0,1
+J Scott O Keefe,,,,,,0,35,2,2,35,2,1
+Joe Fernandes,,,,,,,0,2,2,36,1,1
+Kenneth J Powell Jr,,,,,,,,0,3,1,5,1
+Stephen Miller Miller,,,,,,,,,0,2,2,1
+Alan Butkovitz,,,,,,,,,,0,0,1
+Terrence J Tracy Jr,,,,,,,,,,,0,1
+Total,43,41,41,39,39,38,38,6,4,40,5,1
+,Judge Of The Court Of Common Pleas,,,,,,,,,Controller,,2
+,Joe Fernandes,Anne Marie Coyle,Giovanni Campbell,Daniel D Mccaffery,J Scott O Keefe,Timika Lane,Sierra Thomas Street,Kenneth J Powell Jr,Stephen Miller Miller,Alan Butkovitz,Terrence J Tracy Jr,2
+Joe Fernandes,0,22,23,22,21,19,19,5,3,24,4,2
+Anne Marie Coyle,,0,23,24,22,20,18,6,2,22,4,2
+Giovanni Campbell,,,0,22,23,20,18,4,2,21,3,2
+Daniel D Mccaffery,,,,0,21,20,18,5,2,20,3,2
+J Scott O Keefe,,,,,0,19,17,3,2,21,2,2
+Timika Lane,,,,,,0,17,2,1,20,1,2
+Sierra Thomas Street,,,,,,,0,2,0,17,2,2
+Kenneth J Powell Jr,,,,,,,,0,1,3,5,2
+Stephen Miller Miller,,,,,,,,,0,2,1,2
+Alan Butkovitz,,,,,,,,,,0,0,2
+Terrence J Tracy Jr,,,,,,,,,,,0,2
+Total,29,27,25,24,23,21,19,8,3,28,6,2
+,Judge Of The Court Of Common Pleas,,,,,,,,,Controller,,3
+,Anne Marie Coyle,Joe Fernandes,Sierra Thomas Street,Timika Lane,Daniel D Mccaffery,Giovanni Campbell,J Scott O Keefe,Stephen Miller Miller,Kenneth J Powell Jr,Alan Butkovitz,Terrence J Tracy Jr,3
+Anne Marie Coyle,3,33,33,32,32,31,30,2,2,26,8,3
+Joe Fernandes,,0,36,34,34,34,31,3,0,27,7,3
+Sierra Thomas Street,,,0,33,32,32,30,2,0,27,6,3
+Timika Lane,,,,0,32,33,30,2,0,26,7,3
+Daniel D Mccaffery,,,,,0,32,30,2,0,24,7,3
+Giovanni Campbell,,,,,,0,30,1,0,24,7,3
+J Scott O Keefe,,,,,,,0,0,0,23,6,3
+Stephen Miller Miller,,,,,,,,0,0,2,0,3
+Kenneth J Powell Jr,,,,,,,,,0,0,2,3
+Alan Butkovitz,,,,,,,,,,0,0,3
+Terrence J Tracy Jr,,,,,,,,,,,2,3
+Total,40,39,37,35,34,34,31,3,2,28,12,3
+,Controller,,Judge Of The Court Of Common Pleas,,,,,,,,,4
+,Alan Butkovitz,Terrence J Tracy Jr,Anne Marie Coyle,Giovanni Campbell,Sierra Thomas Street,Daniel D Mccaffery,Joe Fernandes,Timika Lane,J Scott O Keefe,Kenneth J Powell Jr,Stephen Miller Miller,4
+Alan Butkovitz,1,0,11,11,11,11,11,11,10,0,0,4
+Terrence J Tracy Jr,,0,0,0,0,0,0,0,0,0,0,4
+Anne Marie Coyle,,,0,12,12,11,11,11,10,0,0,4
+Giovanni Campbell,,,,0,12,11,11,11,10,0,0,4
+Sierra Thomas Street,,,,,0,11,11,11,10,0,0,4
+Daniel D Mccaffery,,,,,,0,11,11,10,0,0,4
+Joe Fernandes,,,,,,,0,11,10,0,0,4
+Timika Lane,,,,,,,,0,10,0,0,4
+J Scott O Keefe,,,,,,,,,0,0,0,4
+Kenneth J Powell Jr,,,,,,,,,,0,0,4
+Stephen Miller Miller,,,,,,,,,,,0,4
+Total,12,0,12,12,12,11,11,11,10,0,0,4
+,Controller,,Judge Of The Court Of Common Pleas,,,,,,,,,5
+,Alan Butkovitz,Terrence J Tracy Jr,Anne Marie Coyle,J Scott O Keefe,Daniel D Mccaffery,Giovanni Campbell,Joe Fernandes,Sierra Thomas Street,Timika Lane,Kenneth J Powell Jr,Stephen Miller Miller,5
+Alan Butkovitz,0,0,36,36,36,35,37,36,34,1,0,5
+Terrence J Tracy Jr,,0,4,1,1,1,0,1,1,3,1,5
+Anne Marie Coyle,,,0,36,37,34,35,35,34,3,1,5
+J Scott O Keefe,,,,2,36,35,35,36,34,0,1,5
+Daniel D Mccaffery,,,,,0,35,35,35,34,0,1,5
+Giovanni Campbell,,,,,,0,35,36,36,0,1,5
+Joe Fernandes,,,,,,,0,35,34,0,0,5
+Sierra Thomas Street,,,,,,,,1,35,0,1,5
+Timika Lane,,,,,,,,,0,0,1,5
+Kenneth J Powell Jr,,,,,,,,,,0,0,5
+Stephen Miller Miller,,,,,,,,,,,0,5
+Total,40,4,40,39,38,38,38,38,36,4,1,5
+,Judge Of The Court Of Common Pleas,,,,,,,,,Controller,,6
+,Anne Marie Coyle,Joe Fernandes,Timika Lane,Giovanni Campbell,Daniel D Mccaffery,Sierra Thomas Street,J Scott O Keefe,Kenneth J Powell Jr,Stephen Miller Miller,Alan Butkovitz,Terrence J Tracy Jr,6
+Anne Marie Coyle,0,30,32,31,30,28,30,4,1,29,7,6
+Joe Fernandes,,1,31,31,30,31,29,2,0,29,5,6
+Timika Lane,,,0,31,30,29,29,2,0,28,5,6
+Giovanni Campbell,,,,0,31,29,30,1,1,27,4,6
+Daniel D Mccaffery,,,,,0,28,30,1,1,27,3,6
+Sierra Thomas Street,,,,,,0,27,1,0,26,4,6
+J Scott O Keefe,,,,,,,0,1,1,26,3,6
+Kenneth J Powell Jr,,,,,,,,0,0,1,6,6
+Stephen Miller Miller,,,,,,,,,0,0,0,6
+Alan Butkovitz,,,,,,,,,,2,0,6
+Terrence J Tracy Jr,,,,,,,,,,,1,6
+Total,37,36,33,32,31,31,30,7,1,35,10,6
+,Controller,,Judge Of The Court Of Common Pleas,,,,,,,,,7
+,Alan Butkovitz,Terrence J Tracy Jr,Anne Marie Coyle,Giovanni Campbell,Daniel D Mccaffery,J Scott O Keefe,Joe Fernandes,Sierra Thomas Street,Timika Lane,Kenneth J Powell Jr,Stephen Miller Miller,7
+Alan Butkovitz,0,0,42,47,46,45,43,43,43,1,4,7
+Terrence J Tracy Jr,,0,6,2,1,2,1,1,1,6,3,7
+Anne Marie Coyle,,,1,43,39,42,39,39,39,6,3,7
+Giovanni Campbell,,,,0,45,46,42,44,44,3,5,7
+Daniel D Mccaffery,,,,,0,44,42,42,42,1,4,7
+J Scott O Keefe,,,,,,0,42,43,43,3,6,7
+Joe Fernandes,,,,,,,3,40,40,1,4,7
+Sierra Thomas Street,,,,,,,,1,44,2,5,7
+Timika Lane,,,,,,,,,0,2,5,7
+Kenneth J Powell Jr,,,,,,,,,,0,4,7
+Stephen Miller Miller,,,,,,,,,,,0,7
+Total,51,7,50,50,47,47,47,45,44,7,7,7
+,Controller,,Judge Of The Court Of Common Pleas,,,,,,,,,8
+,Alan Butkovitz,Terrence J Tracy Jr,Giovanni Campbell,Sierra Thomas Street,Anne Marie Coyle,Daniel D Mccaffery,Joe Fernandes,J Scott O Keefe,Timika Lane,Kenneth J Powell Jr,Stephen Miller Miller,8
+Alan Butkovitz,0,0,21,19,20,19,18,18,18,0,1,8
+Terrence J Tracy Jr,,2,1,1,1,1,1,1,0,2,0,8
+Giovanni Campbell,,,1,20,20,20,20,18,19,1,0,8
+Sierra Thomas Street,,,,0,19,19,21,18,19,1,1,8
+Anne Marie Coyle,,,,,0,20,19,18,18,1,0,8
+Daniel D Mccaffery,,,,,,1,19,18,18,1,0,8
+Joe Fernandes,,,,,,,0,18,19,1,0,8
+J Scott O Keefe,,,,,,,,0,17,1,0,8
+Timika Lane,,,,,,,,,0,0,0,8
+Kenneth J Powell Jr,,,,,,,,,,1,0,8
+Stephen Miller Miller,,,,,,,,,,,0,8
+Total,24,4,24,22,21,21,21,19,19,3,1,8
+,Judge Of The Court Of Common Pleas,,,,,,,,,Controller,,9
+,Anne Marie Coyle,Daniel D Mccaffery,Giovanni Campbell,Joe Fernandes,Sierra Thomas Street,J Scott O Keefe,Timika Lane,Kenneth J Powell Jr,Stephen Miller Miller,Alan Butkovitz,Terrence J Tracy Jr,9
+Anne Marie Coyle,0,22,23,23,23,22,21,2,0,23,2,9
+Daniel D Mccaffery,,0,23,22,22,22,21,2,1,23,1,9
+Giovanni Campbell,,,0,22,23,23,22,2,1,23,1,9
+Joe Fernandes,,,,0,23,21,21,1,0,22,1,9
+Sierra Thomas Street,,,,,0,22,22,2,1,22,1,9
+J Scott O Keefe,,,,,,0,21,1,1,23,0,9
+Timika Lane,,,,,,,0,2,1,21,1,9
+Kenneth J Powell Jr,,,,,,,,0,1,1,3,9
+Stephen Miller Miller,,,,,,,,,1,1,0,9
+Alan Butkovitz,,,,,,,,,,0,0,9
+Terrence J Tracy Jr,,,,,,,,,,,1,9
+Total,26,24,24,24,24,23,22,4,2,25,4,9
+,Judge Of The Court Of Common Pleas,,,,,,,,,Controller,,10
+,Anne Marie Coyle,Giovanni Campbell,Daniel D Mccaffery,Joe Fernandes,J Scott O Keefe,Timika Lane,Sierra Thomas Street,Kenneth J Powell Jr,Stephen Miller Miller,Alan Butkovitz,Terrence J Tracy Jr,10
+Anne Marie Coyle,0,28,27,26,27,26,24,5,4,25,5,10
+Giovanni Campbell,,0,27,27,26,25,25,4,4,26,3,10
+Daniel D Mccaffery,,,0,26,26,25,23,4,3,26,2,10
+Joe Fernandes,,,,0,25,24,25,2,1,26,1,10
+J Scott O Keefe,,,,,0,24,23,3,3,24,2,10
+Timika Lane,,,,,,0,23,1,2,26,1,10
+Sierra Thomas Street,,,,,,,0,0,0,25,0,10
+Kenneth J Powell Jr,,,,,,,,0,3,2,4,10
+Stephen Miller Miller,,,,,,,,,0,1,3,10
+Alan Butkovitz,,,,,,,,,,1,0,10
+Terrence J Tracy Jr,,,,,,,,,,,2,10
+Total,31,30,28,28,27,27,26,6,4,30,7,10
+,Judge Of The Court Of Common Pleas,,,,,,,,,Controller,,11
+,Sierra Thomas Street,Anne Marie Coyle,Timika Lane,Giovanni Campbell,Joe Fernandes,Daniel D Mccaffery,J Scott O Keefe,Kenneth J Powell Jr,Stephen Miller Miller,Alan Butkovitz,Terrence J Tracy Jr,11
+Sierra Thomas Street,1,41,42,41,41,41,40,1,0,42,1,11
+Anne Marie Coyle,,0,42,41,41,41,41,3,2,41,2,11
+Timika Lane,,,0,41,39,41,40,1,2,43,0,11
+Giovanni Campbell,,,,0,40,41,41,2,1,42,1,11
+Joe Fernandes,,,,,1,40,40,2,0,39,2,11
+Daniel D Mccaffery,,,,,,0,41,2,1,41,1,11
+J Scott O Keefe,,,,,,,0,2,1,40,1,11
+Kenneth J Powell Jr,,,,,,,,0,1,1,2,11
+Stephen Miller Miller,,,,,,,,,0,1,0,11
+Alan Butkovitz,,,,,,,,,,0,0,11
+Terrence J Tracy Jr,,,,,,,,,,,1,11
+Total,45,44,44,43,43,42,41,3,2,44,3,11
+,Controller,,Judge Of The Court Of Common Pleas,,,,,,,,,12
+,Alan Butkovitz,Terrence J Tracy Jr,Daniel D Mccaffery,Timika Lane,Anne Marie Coyle,J Scott O Keefe,Sierra Thomas Street,Giovanni Campbell,Joe Fernandes,Kenneth J Powell Jr,Stephen Miller Miller,12
+Alan Butkovitz,1,0,33,34,32,33,33,32,30,1,1,12
+Terrence J Tracy Jr,,0,0,0,1,0,0,0,0,0,0,12
+Daniel D Mccaffery,,,1,33,32,32,32,31,30,1,0,12
+Timika Lane,,,,0,32,32,33,31,30,1,0,12
+Anne Marie Coyle,,,,,0,32,31,31,30,1,0,12
+J Scott O Keefe,,,,,,0,31,31,30,1,0,12
+Sierra Thomas Street,,,,,,,0,31,30,1,0,12
+Giovanni Campbell,,,,,,,,0,30,1,0,12
+Joe Fernandes,,,,,,,,,0,0,0,12
+Kenneth J Powell Jr,,,,,,,,,,0,0,12
+Stephen Miller Miller,,,,,,,,,,,0,12
+Total,38,1,34,34,33,33,33,32,30,1,1,12
+,Controller,,Judge Of The Court Of Common Pleas,,,,,,,,,13
+,Alan Butkovitz,Terrence J Tracy Jr,Sierra Thomas Street,Anne Marie Coyle,J Scott O Keefe,Giovanni Campbell,Joe Fernandes,Timika Lane,Daniel D Mccaffery,Kenneth J Powell Jr,Stephen Miller Miller,13
+Alan Butkovitz,2,0,81,80,80,79,79,79,78,0,0,13
+Terrence J Tracy Jr,,0,0,1,0,0,0,0,0,1,0,13
+Sierra Thomas Street,,,1,79,79,79,78,78,78,0,0,13
+Anne Marie Coyle,,,,0,79,77,78,78,77,1,0,13
+J Scott O Keefe,,,,,0,77,79,78,78,0,0,13
+Giovanni Campbell,,,,,,0,76,76,76,0,0,13
+Joe Fernandes,,,,,,,0,77,77,0,0,13
+Timika Lane,,,,,,,,0,77,0,0,13
+Daniel D Mccaffery,,,,,,,,,0,0,0,13
+Kenneth J Powell Jr,,,,,,,,,,0,0,13
+Stephen Miller Miller,,,,,,,,,,,0,13
+Total,84,1,82,81,80,79,79,79,78,1,0,13
+,Judge Of The Court Of Common Pleas,,,,,,,,,Controller,,14
+,Anne Marie Coyle,Joe Fernandes,Daniel D Mccaffery,Giovanni Campbell,Sierra Thomas Street,J Scott O Keefe,Timika Lane,Kenneth J Powell Jr,Stephen Miller Miller,Alan Butkovitz,Terrence J Tracy Jr,14
+Anne Marie Coyle,0,35,35,33,34,35,29,7,4,37,5,14
+Joe Fernandes,,1,36,34,35,35,31,2,5,37,0,14
+Daniel D Mccaffery,,,0,34,35,35,30,3,5,36,1,14
+Giovanni Campbell,,,,0,35,34,32,3,3,35,2,14
+Sierra Thomas Street,,,,,0,35,32,2,3,35,2,14
+J Scott O Keefe,,,,,,0,30,3,4,35,1,14
+Timika Lane,,,,,,,1,0,1,31,1,14
+Kenneth J Powell Jr,,,,,,,,0,1,2,5,14
+Stephen Miller Miller,,,,,,,,,0,5,0,14
+Alan Butkovitz,,,,,,,,,,0,0,14
+Terrence J Tracy Jr,,,,,,,,,,,1,14
+Total,42,38,37,37,37,36,33,7,5,40,7,14
+,Judge Of The Court Of Common Pleas,,,,,,,,,Controller,,15
+,Anne Marie Coyle,Daniel D Mccaffery,Giovanni Campbell,Joe Fernandes,Sierra Thomas Street,J Scott O Keefe,Timika Lane,Kenneth J Powell Jr,Stephen Miller Miller,Alan Butkovitz,Terrence J Tracy Jr,15
+Anne Marie Coyle,0,52,53,52,51,52,48,5,1,50,6,15
+Daniel D Mccaffery,,0,54,54,52,53,51,4,2,52,3,15
+Giovanni Campbell,,,0,54,52,53,50,4,2,51,3,15
+Joe Fernandes,,,,0,53,52,50,4,2,51,2,15
+Sierra Thomas Street,,,,,0,50,51,2,1,52,1,15
+J Scott O Keefe,,,,,,0,49,4,3,51,3,15
+Timika Lane,,,,,,,0,1,2,52,0,15
+Kenneth J Powell Jr,,,,,,,,0,2,2,5,15
+Stephen Miller Miller,,,,,,,,,0,3,1,15
+Alan Butkovitz,,,,,,,,,,0,0,15
+Terrence J Tracy Jr,,,,,,,,,,,0,15
+Total,57,57,55,55,55,54,53,7,4,56,7,15
+,Controller,,Judge Of The Court Of Common Pleas,,,,,,,,,16
+,Alan Butkovitz,Terrence J Tracy Jr,Anne Marie Coyle,Giovanni Campbell,Timika Lane,Daniel D Mccaffery,J Scott O Keefe,Joe Fernandes,Sierra Thomas Street,Kenneth J Powell Jr,Stephen Miller Miller,16
+Alan Butkovitz,0,0,25,30,27,26,27,26,26,1,2,16
+Terrence J Tracy Jr,,0,6,0,1,1,0,1,1,6,1,16
+Anne Marie Coyle,,,1,24,24,25,24,25,24,6,3,16
+Giovanni Campbell,,,,0,26,26,27,25,25,1,1,16
+Timika Lane,,,,,1,25,24,26,26,0,1,16
+Daniel D Mccaffery,,,,,,0,25,25,25,2,1,16
+J Scott O Keefe,,,,,,,0,24,24,1,1,16
+Joe Fernandes,,,,,,,,0,25,0,2,16
+Sierra Thomas Street,,,,,,,,,0,1,2,16
+Kenneth J Powell Jr,,,,,,,,,,0,1,16
+Stephen Miller Miller,,,,,,,,,,,0,16
+Total,32,7,32,30,29,27,27,27,27,7,3,16
+,Controller,,Judge Of The Court Of Common Pleas,,,,,,,,,17
+,Alan Butkovitz,Terrence J Tracy Jr,Timika Lane,Anne Marie Coyle,Giovanni Campbell,Sierra Thomas Street,Daniel D Mccaffery,Joe Fernandes,J Scott O Keefe,Kenneth J Powell Jr,Stephen Miller Miller,17
+Alan Butkovitz,0,0,47,46,48,45,46,46,44,1,1,17
+Terrence J Tracy Jr,,0,1,2,0,1,0,0,0,3,0,17
+Timika Lane,,,0,45,47,46,46,46,44,2,1,17
+Anne Marie Coyle,,,,0,46,43,44,45,43,3,1,17
+Giovanni Campbell,,,,,0,45,45,46,44,1,1,17
+Sierra Thomas Street,,,,,,1,44,43,41,2,0,17
+Daniel D Mccaffery,,,,,,,0,45,43,1,1,17
+Joe Fernandes,,,,,,,,1,44,1,1,17
+J Scott O Keefe,,,,,,,,,0,0,1,17
+Kenneth J Powell Jr,,,,,,,,,,0,0,17
+Stephen Miller Miller,,,,,,,,,,,1,17
+Total,49,3,49,48,48,48,47,47,44,4,2,17
+,Judge Of The Court Of Common Pleas,,,,,,,,,Controller,,18
+,Anne Marie Coyle,Daniel D Mccaffery,J Scott O Keefe,Sierra Thomas Street,Timika Lane,Giovanni Campbell,Joe Fernandes,Kenneth J Powell Jr,Stephen Miller Miller,Alan Butkovitz,Terrence J Tracy Jr,18
+Anne Marie Coyle,0,63,63,61,61,60,61,7,2,62,8,18
+Daniel D Mccaffery,,0,62,59,60,58,58,4,1,60,5,18
+J Scott O Keefe,,,0,59,61,58,59,4,1,57,5,18
+Sierra Thomas Street,,,,0,59,60,59,1,0,57,3,18
+Timika Lane,,,,,0,60,59,2,1,58,4,18
+Giovanni Campbell,,,,,,0,60,1,0,57,3,18
+Joe Fernandes,,,,,,,0,1,1,56,3,18
+Kenneth J Powell Jr,,,,,,,,0,1,3,7,18
+Stephen Miller Miller,,,,,,,,,0,2,0,18
+Alan Butkovitz,,,,,,,,,,1,0,18
+Terrence J Tracy Jr,,,,,,,,,,,1,18
+Total,74,65,64,63,63,62,62,10,2,67,12,18
+,Controller,,Judge Of The Court Of Common Pleas,,,,,,,,,19
+,Alan Butkovitz,Terrence J Tracy Jr,Sierra Thomas Street,Anne Marie Coyle,Timika Lane,Joe Fernandes,Daniel D Mccaffery,J Scott O Keefe,Giovanni Campbell,Kenneth J Powell Jr,Stephen Miller Miller,19
+Alan Butkovitz,0,0,43,43,40,41,40,40,39,0,0,19
+Terrence J Tracy Jr,,0,0,1,1,1,0,1,1,1,1,19
+Sierra Thomas Street,,,1,41,39,39,40,39,38,0,0,19
+Anne Marie Coyle,,,,0,41,42,40,41,40,1,1,19
+Timika Lane,,,,,1,41,40,40,40,1,1,19
+Joe Fernandes,,,,,,0,39,40,40,1,1,19
+Daniel D Mccaffery,,,,,,,0,39,39,0,0,19
+J Scott O Keefe,,,,,,,,0,40,1,1,19
+Giovanni Campbell,,,,,,,,,0,1,1,19
+Kenneth J Powell Jr,,,,,,,,,,0,1,19
+Stephen Miller Miller,,,,,,,,,,,0,19
+Total,45,1,45,44,43,42,41,41,40,1,1,19
+,Controller,,Judge Of The Court Of Common Pleas,,,,,,,,,20
+,Alan Butkovitz,Terrence J Tracy Jr,Anne Marie Coyle,Daniel D Mccaffery,Joe Fernandes,Sierra Thomas Street,Timika Lane,Giovanni Campbell,J Scott O Keefe,Kenneth J Powell Jr,Stephen Miller Miller,20
+Alan Butkovitz,1,0,46,47,47,47,46,44,43,0,1,20
+Terrence J Tracy Jr,,0,2,0,0,0,0,1,0,1,0,20
+Anne Marie Coyle,,,0,44,44,44,44,42,42,1,1,20
+Daniel D Mccaffery,,,,0,46,46,45,44,43,0,1,20
+Joe Fernandes,,,,,0,46,45,44,43,0,1,20
+Sierra Thomas Street,,,,,,0,46,44,43,0,1,20
+Timika Lane,,,,,,,0,43,42,0,1,20
+Giovanni Campbell,,,,,,,,0,42,0,0,20
+J Scott O Keefe,,,,,,,,,0,0,1,20
+Kenneth J Powell Jr,,,,,,,,,,0,0,20
+Stephen Miller Miller,,,,,,,,,,,0,20
+Total,52,3,48,47,47,47,46,45,43,1,1,20
+,Controller,,Judge Of The Court Of Common Pleas,,,,,,,,,21
+,Alan Butkovitz,Terrence J Tracy Jr,Giovanni Campbell,Sierra Thomas Street,Timika Lane,Anne Marie Coyle,J Scott O Keefe,Joe Fernandes,Daniel D Mccaffery,Kenneth J Powell Jr,Stephen Miller Miller,21
+Alan Butkovitz,0,0,20,19,19,18,18,18,17,1,1,21
+Terrence J Tracy Jr,,0,0,0,0,0,0,0,0,0,0,21
+Giovanni Campbell,,,0,19,19,18,18,17,17,1,1,21
+Sierra Thomas Street,,,,0,18,17,17,17,16,0,1,21
+Timika Lane,,,,,0,18,18,17,17,1,1,21
+Anne Marie Coyle,,,,,,0,18,17,17,1,1,21
+J Scott O Keefe,,,,,,,0,17,17,1,1,21
+Joe Fernandes,,,,,,,,0,16,0,1,21
+Daniel D Mccaffery,,,,,,,,,0,1,0,21
+Kenneth J Powell Jr,,,,,,,,,,1,0,21
+Stephen Miller Miller,,,,,,,,,,,0,21
+Total,21,0,20,19,19,18,18,18,17,2,1,21
+,Judge Of The Court Of Common Pleas,,,,,,,,,Controller,,22
+,Anne Marie Coyle,Joe Fernandes,Timika Lane,Daniel D Mccaffery,Giovanni Campbell,J Scott O Keefe,Sierra Thomas Street,Kenneth J Powell Jr,Stephen Miller Miller,Alan Butkovitz,Terrence J Tracy Jr,22
+Anne Marie Coyle,0,31,32,33,32,32,30,3,1,33,4,22
+Joe Fernandes,,1,32,32,32,30,33,2,2,33,2,22
+Timika Lane,,,1,32,33,31,30,3,3,31,2,22
+Daniel D Mccaffery,,,,0,32,32,31,1,1,32,1,22
+Giovanni Campbell,,,,,0,32,30,2,2,31,1,22
+J Scott O Keefe,,,,,,0,30,0,0,30,1,22
+Sierra Thomas Street,,,,,,,0,0,0,30,1,22
+Kenneth J Powell Jr,,,,,,,,0,3,2,3,22
+Stephen Miller Miller,,,,,,,,,0,2,1,22
+Alan Butkovitz,,,,,,,,,,0,0,22
+Terrence J Tracy Jr,,,,,,,,,,,0,22
+Total,38,38,35,34,34,33,33,5,3,36,6,22
+,Controller,,Judge Of The Court Of Common Pleas,,,,,,,,,23
+,Alan Butkovitz,Terrence J Tracy Jr,Anne Marie Coyle,Giovanni Campbell,J Scott O Keefe,Daniel D Mccaffery,Joe Fernandes,Sierra Thomas Street,Timika Lane,Kenneth J Powell Jr,Stephen Miller Miller,23
+Alan Butkovitz,0,0,13,13,13,13,13,11,12,0,1,23
+Terrence J Tracy Jr,,0,1,1,1,0,0,1,0,1,0,23
+Anne Marie Coyle,,,0,14,14,12,13,12,12,1,1,23
+Giovanni Campbell,,,,0,14,12,13,12,12,1,1,23
+J Scott O Keefe,,,,,0,12,13,12,12,1,1,23
+Daniel D Mccaffery,,,,,,0,12,11,12,0,1,23
+Joe Fernandes,,,,,,,0,11,12,0,1,23
+Sierra Thomas Street,,,,,,,,0,11,1,0,23
+Timika Lane,,,,,,,,,0,0,1,23
+Kenneth J Powell Jr,,,,,,,,,,0,0,23
+Stephen Miller Miller,,,,,,,,,,,0,23
+Total,14,1,14,14,14,13,13,12,12,1,1,23
+,Controller,,Judge Of The Court Of Common Pleas,,,,,,,,,24
+,Alan Butkovitz,Terrence J Tracy Jr,Anne Marie Coyle,Joe Fernandes,Daniel D Mccaffery,Sierra Thomas Street,Giovanni Campbell,Timika Lane,J Scott O Keefe,Kenneth J Powell Jr,Stephen Miller Miller,24
+Alan Butkovitz,2,0,66,66,64,63,59,63,61,3,6,24
+Terrence J Tracy Jr,,0,8,5,6,3,5,2,4,6,3,24
+Anne Marie Coyle,,,2,66,66,63,63,60,64,8,7,24
+Joe Fernandes,,,,0,66,64,65,61,63,5,9,24
+Daniel D Mccaffery,,,,,0,63,65,61,64,6,8,24
+Sierra Thomas Street,,,,,,1,62,60,60,3,5,24
+Giovanni Campbell,,,,,,,1,61,62,5,8,24
+Timika Lane,,,,,,,,0,59,1,6,24
+J Scott O Keefe,,,,,,,,,0,4,6,24
+Kenneth J Powell Jr,,,,,,,,,,0,3,24
+Stephen Miller Miller,,,,,,,,,,,0,24
+Total,79,9,77,72,71,69,67,67,66,9,9,24
+,Controller,,Judge Of The Court Of Common Pleas,,,,,,,,,25
+,Alan Butkovitz,Terrence J Tracy Jr,Sierra Thomas Street,Anne Marie Coyle,Timika Lane,Giovanni Campbell,Joe Fernandes,J Scott O Keefe,Daniel D Mccaffery,Kenneth J Powell Jr,Stephen Miller Miller,25
+Alan Butkovitz,0,0,44,43,44,42,40,39,36,3,2,25
+Terrence J Tracy Jr,,0,0,2,0,0,1,0,0,1,0,25
+Sierra Thomas Street,,,0,39,43,40,38,38,36,1,1,25
+Anne Marie Coyle,,,,0,40,40,40,39,36,4,2,25
+Timika Lane,,,,,0,42,40,39,37,3,2,25
+Giovanni Campbell,,,,,,1,40,38,35,3,1,25
+Joe Fernandes,,,,,,,0,38,36,3,1,25
+J Scott O Keefe,,,,,,,,0,36,2,1,25
+Daniel D Mccaffery,,,,,,,,,0,1,1,25
+Kenneth J Powell Jr,,,,,,,,,,0,1,25
+Stephen Miller Miller,,,,,,,,,,,0,25
+Total,50,3,47,46,46,44,42,39,37,4,2,25

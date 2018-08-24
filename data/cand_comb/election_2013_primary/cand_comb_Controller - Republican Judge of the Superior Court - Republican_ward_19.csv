@@ -1,0 +1,31 @@
+col_1,col_2,col_3,division
+,Controller - Republican,Judge Of The Superior Court - Republican,1
+,Terrence J Tracy Jr,Vic Stabile,1
+Terrence J Tracy Jr,1,1,1
+Vic Stabile,,0,1
+Total,2,1,1
+,Controller - Republican,Judge Of The Superior Court - Republican,2
+,Terrence J Tracy Jr,Vic Stabile,2
+Terrence J Tracy Jr,0,1,2
+Vic Stabile,,0,2
+Total,1,1,2
+,Controller - Republican,Judge Of The Superior Court - Republican,5
+,Terrence J Tracy Jr,Vic Stabile,5
+Terrence J Tracy Jr,0,1,5
+Vic Stabile,,0,5
+Total,1,1,5
+,Judge Of The Superior Court - Republican,Controller - Republican,8
+,Vic Stabile,Terrence J Tracy Jr,8
+Vic Stabile,1,1,8
+Terrence J Tracy Jr,,0,8
+Total,2,1,8
+,Judge Of The Superior Court - Republican,Controller - Republican,10
+,Vic Stabile,Terrence J Tracy Jr,10
+Vic Stabile,1,0,10
+Terrence J Tracy Jr,,0,10
+Total,1,0,10
+,Judge Of The Superior Court - Republican,Controller - Republican,All
+,Vic Stabile,Terrence J Tracy Jr,All
+Vic Stabile,2,4,All
+Terrence J Tracy Jr,,1,All
+Total,6,5,All

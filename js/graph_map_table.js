@@ -6,14 +6,16 @@ function allowSaveGraph() {
 function makeGraph(data) {
   election = elections[$(time_election).val()];
   graph_title = "Percent of Votes by Hour";
+  yaxis_label = "% of Votes";
   if (time_wards[$("#time_ward").val()] != "All") {
     graph_title += ", Ward " + time_wards[$("#time_ward").val()];
   }
   if ($("#time_division").val() != "0") {
     graph_title += ", Division " + $("#time_division").val();
   }
-  if ($("#cum_sum").is(':checked')) {
-    graph_title = "Cumulative Total Percent of Votes";
+  if ($("#vote_numbers").is(':checked')) {
+    graph_title = "Number of Votes by Hour";
+    yaxis_label = "# of Votes";
   }
 
   graph_title = election + ", " + graph_title;
@@ -54,7 +56,7 @@ function makeGraph(data) {
             fontSize: 22,
             fontColor: "#000000",
             display: true,
-            labelString: '% of Votes'
+            labelString: yaxis_label
           }
         }],
         xAxes: [{

@@ -305,8 +305,8 @@ function subsetGraphData(data) {
     division = "All";
   }
   data_column = 2;
-  if ($("#cum_sum").is(':checked')) {
-    data_column = 4;
+  if ($("#vote_numbers").is(':checked')) {
+    data_column = 1;
   }
 
   for (var i = 0; i < data[0].length; i++) {

@@ -1,0 +1,49 @@
+col_1,col_2,col_3,col_4,col_5,col_6,division
+,Member Of - Republican State Committee 1st Congressional District,,,,Representative In Congress 1st District - Republican,1
+,Jimmy Dintino,Monika A Czapla,Annie Havey,Christopher M Vogler,Megan Rath,1
+Jimmy Dintino,1,1,1,1,1,1
+Monika A Czapla,,0,1,1,2,1
+Annie Havey,,,0,1,1,1
+Christopher M Vogler,,,,0,1,1
+Megan Rath,,,,,0,1
+Total,2,2,1,1,2,1
+,Member Of - Republican State Committee 1st Congressional District,,,,Representative In Congress 1st District - Republican,4
+,Annie Havey,Monika A Czapla,Christopher M Vogler,Jimmy Dintino,Megan Rath,4
+Annie Havey,0,1,0,0,2,4
+Monika A Czapla,,0,0,0,1,4
+Christopher M Vogler,,,0,0,0,4
+Jimmy Dintino,,,,0,0,4
+Megan Rath,,,,,0,4
+Total,2,1,0,0,2,4
+,Member Of - Republican State Committee 1st Congressional District,,,,Representative In Congress 1st District - Republican,9
+,Annie Havey,Jimmy Dintino,Christopher M Vogler,Monika A Czapla,Megan Rath,9
+Annie Havey,1,2,1,1,1,9
+Jimmy Dintino,,0,1,1,1,9
+Christopher M Vogler,,,0,1,1,9
+Monika A Czapla,,,,0,1,9
+Megan Rath,,,,,0,9
+Total,3,2,1,1,1,9
+,Member Of - Republican State Committee 1st Congressional District,,,,Representative In Congress 1st District - Republican,10
+,Annie Havey,Monika A Czapla,Christopher M Vogler,Jimmy Dintino,Megan Rath,10
+Annie Havey,0,4,3,3,4,10
+Monika A Czapla,,0,3,3,4,10
+Christopher M Vogler,,,0,3,3,10
+Jimmy Dintino,,,,0,3,10
+Megan Rath,,,,,0,10
+Total,4,4,3,3,4,10
+,Representative In Congress 1st District - Republican,Member Of - Republican State Committee 1st Congressional District,,,,11
+,Megan Rath,Monika A Czapla,Annie Havey,Christopher M Vogler,Jimmy Dintino,11
+Megan Rath,0,1,0,0,0,11
+Monika A Czapla,,0,0,0,0,11
+Annie Havey,,,0,0,0,11
+Christopher M Vogler,,,,0,0,11
+Jimmy Dintino,,,,,0,11
+Total,1,1,0,0,0,11
+,Member Of - Republican State Committee 1st Congressional District,,,,Representative In Congress 1st District - Republican,All
+,Annie Havey,Monika A Czapla,Jimmy Dintino,Christopher M Vogler,Megan Rath,All
+Annie Havey,1,7,6,5,8,All
+Monika A Czapla,,0,5,5,9,All
+Jimmy Dintino,,,1,5,5,All
+Christopher M Vogler,,,,0,5,All
+Megan Rath,,,,,0,All
+Total,10,9,7,5,10,All

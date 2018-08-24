@@ -1,0 +1,55 @@
+col_1,col_2,col_3,col_4,division
+,District Attorney - Republican,Judge Of The Court Of Common Pleas - Republican,,1
+,Daniel A Alvarez,Anne Marie Coyle,Kenneth J Powell Jr,1
+Daniel A Alvarez,1,0,0,1
+Anne Marie Coyle,,0,0,1
+Kenneth J Powell Jr,,,0,1
+Total,1,0,0,1
+,District Attorney - Republican,Judge Of The Court Of Common Pleas - Republican,,2
+,Daniel A Alvarez,Kenneth J Powell Jr,Anne Marie Coyle,2
+Daniel A Alvarez,0,3,2,2
+Kenneth J Powell Jr,,0,2,2
+Anne Marie Coyle,,,0,2
+Total,3,3,2,2
+,Judge Of The Court Of Common Pleas - Republican,,District Attorney - Republican,4
+,Anne Marie Coyle,Kenneth J Powell Jr,Daniel A Alvarez,4
+Anne Marie Coyle,0,0,1,4
+Kenneth J Powell Jr,,0,0,4
+Daniel A Alvarez,,,0,4
+Total,1,0,1,4
+,District Attorney - Republican,Judge Of The Court Of Common Pleas - Republican,,6
+,Daniel A Alvarez,Kenneth J Powell Jr,Anne Marie Coyle,6
+Daniel A Alvarez,0,1,0,6
+Kenneth J Powell Jr,,0,0,6
+Anne Marie Coyle,,,0,6
+Total,1,1,0,6
+,Judge Of The Court Of Common Pleas - Republican,,District Attorney - Republican,8
+,Anne Marie Coyle,Kenneth J Powell Jr,Daniel A Alvarez,8
+Anne Marie Coyle,1,1,1,8
+Kenneth J Powell Jr,,0,1,8
+Daniel A Alvarez,,,0,8
+Total,2,1,1,8
+,Judge Of The Court Of Common Pleas - Republican,,District Attorney - Republican,9
+,Anne Marie Coyle,Kenneth J Powell Jr,Daniel A Alvarez,9
+Anne Marie Coyle,0,1,1,9
+Kenneth J Powell Jr,,0,1,9
+Daniel A Alvarez,,,0,9
+Total,1,1,1,9
+,Judge Of The Court Of Common Pleas - Republican,,District Attorney - Republican,10
+,Anne Marie Coyle,Kenneth J Powell Jr,Daniel A Alvarez,10
+Anne Marie Coyle,0,1,0,10
+Kenneth J Powell Jr,,0,0,10
+Daniel A Alvarez,,,0,10
+Total,1,1,0,10
+,Judge Of The Court Of Common Pleas - Republican,,District Attorney - Republican,11
+,Anne Marie Coyle,Kenneth J Powell Jr,Daniel A Alvarez,11
+Anne Marie Coyle,1,0,0,11
+Kenneth J Powell Jr,,0,1,11
+Daniel A Alvarez,,,0,11
+Total,1,1,1,11
+,District Attorney - Republican,Judge Of The Court Of Common Pleas - Republican,,All
+,Daniel A Alvarez,Anne Marie Coyle,Kenneth J Powell Jr,All
+Daniel A Alvarez,1,5,7,All
+Anne Marie Coyle,,2,5,All
+Kenneth J Powell Jr,,,0,All
+Total,9,8,8,All

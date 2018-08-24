@@ -1,0 +1,281 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10,col_11,col_12,division
+,Judge Of The Superior Court,,Judge Of The Court Of Common Pleas,,,,,,,,,All
+,Jack Mcvay Jr,Vic Stabile,Anne Marie Coyle,Timika Lane,Sierra Thomas Street,Giovanni Campbell,Joe Fernandes,Daniel D Mccaffery,J Scott O Keefe,Kenneth J Powell Jr,Stephen Miller Miller,All
+Jack Mcvay Jr,11,0,682,701,669,672,671,670,660,39,42,All
+Vic Stabile,,5,55,22,16,25,25,24,24,48,21,All
+Anne Marie Coyle,,,3,677,638,670,674,664,666,76,39,All
+Timika Lane,,,,6,661,684,677,673,666,45,39,All
+Sierra Thomas Street,,,,,8,633,636,628,623,26,32,All
+Giovanni Campbell,,,,,,0,676,664,671,51,36,All
+Joe Fernandes,,,,,,,2,662,668,45,40,All
+Daniel D Mccaffery,,,,,,,,1,661,45,32,All
+J Scott O Keefe,,,,,,,,,1,46,37,All
+Kenneth J Powell Jr,,,,,,,,,,3,24,All
+Stephen Miller Miller,,,,,,,,,,,2,All
+Total,793,75,760,755,717,714,713,704,696,95,66,All
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,1
+,Anne Marie Coyle,Timika Lane,Daniel D Mccaffery,Giovanni Campbell,Joe Fernandes,J Scott O Keefe,Sierra Thomas Street,Kenneth J Powell Jr,Stephen Miller Miller,Jack Mcvay Jr,Vic Stabile,1
+Anne Marie Coyle,0,35,33,34,33,33,26,16,5,31,10,1
+Timika Lane,,0,31,33,31,30,25,9,4,30,3,1
+Daniel D Mccaffery,,,0,31,30,30,24,8,3,28,4,1
+Giovanni Campbell,,,,0,32,31,25,9,5,30,2,1
+Joe Fernandes,,,,,0,31,25,8,4,29,3,1
+J Scott O Keefe,,,,,,0,23,9,3,27,4,1
+Sierra Thomas Street,,,,,,,0,1,3,25,0,1
+Kenneth J Powell Jr,,,,,,,,0,4,8,10,1
+Stephen Miller Miller,,,,,,,,,0,5,2,1
+Jack Mcvay Jr,,,,,,,,,,0,0,1
+Vic Stabile,,,,,,,,,,,1,1
+Total,43,35,34,34,34,33,26,18,7,33,13,1
+,Judge Of The Superior Court,,Judge Of The Court Of Common Pleas,,,,,,,,,2
+,Jack Mcvay Jr,Vic Stabile,Timika Lane,Daniel D Mccaffery,Anne Marie Coyle,Giovanni Campbell,Sierra Thomas Street,J Scott O Keefe,Joe Fernandes,Stephen Miller Miller,Kenneth J Powell Jr,2
+Jack Mcvay Jr,0,0,42,40,38,39,38,37,38,6,4,2
+Vic Stabile,,1,0,0,1,0,0,0,0,0,0,2
+Timika Lane,,,0,39,36,37,36,36,37,3,2,2
+Daniel D Mccaffery,,,,0,36,36,36,36,37,3,3,2
+Anne Marie Coyle,,,,,0,35,33,35,36,2,3,2
+Giovanni Campbell,,,,,,0,33,36,36,4,3,2
+Sierra Thomas Street,,,,,,,0,34,33,4,1,2
+J Scott O Keefe,,,,,,,,1,36,4,3,2
+Joe Fernandes,,,,,,,,,0,4,3,2
+Stephen Miller Miller,,,,,,,,,,0,2,2
+Kenneth J Powell Jr,,,,,,,,,,,1,2
+Total,47,2,43,40,39,39,39,38,38,6,5,2
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,3
+,Anne Marie Coyle,Timika Lane,Sierra Thomas Street,Joe Fernandes,Daniel D Mccaffery,Giovanni Campbell,J Scott O Keefe,Kenneth J Powell Jr,Stephen Miller Miller,Jack Mcvay Jr,Vic Stabile,3
+Anne Marie Coyle,1,50,47,49,46,45,43,5,5,51,2,3
+Timika Lane,,0,49,47,45,44,41,3,4,49,1,3
+Sierra Thomas Street,,,0,44,41,44,39,2,4,47,1,3
+Joe Fernandes,,,,0,44,43,43,3,5,48,1,3
+Daniel D Mccaffery,,,,,0,42,41,2,2,46,1,3
+Giovanni Campbell,,,,,,0,39,2,3,44,1,3
+J Scott O Keefe,,,,,,,0,3,2,42,1,3
+Kenneth J Powell Jr,,,,,,,,0,2,2,3,3
+Stephen Miller Miller,,,,,,,,,0,4,1,3
+Jack Mcvay Jr,,,,,,,,,,1,0,3
+Vic Stabile,,,,,,,,,,,0,3
+Total,58,53,52,50,47,47,43,6,5,57,3,3
+,Judge Of The Superior Court,,Judge Of The Court Of Common Pleas,,,,,,,,,4
+,Jack Mcvay Jr,Vic Stabile,Timika Lane,Giovanni Campbell,Sierra Thomas Street,J Scott O Keefe,Joe Fernandes,Anne Marie Coyle,Daniel D Mccaffery,Kenneth J Powell Jr,Stephen Miller Miller,4
+Jack Mcvay Jr,1,0,41,41,40,40,40,38,38,1,0,4
+Vic Stabile,,0,0,0,0,0,0,0,0,0,0,4
+Timika Lane,,,0,40,38,38,39,38,37,1,0,4
+Giovanni Campbell,,,,0,36,40,41,38,39,1,0,4
+Sierra Thomas Street,,,,,1,36,35,35,35,0,0,4
+J Scott O Keefe,,,,,,0,40,37,39,0,0,4
+Joe Fernandes,,,,,,,0,38,39,1,0,4
+Anne Marie Coyle,,,,,,,,0,36,1,0,4
+Daniel D Mccaffery,,,,,,,,,0,0,0,4
+Kenneth J Powell Jr,,,,,,,,,,1,0,4
+Stephen Miller Miller,,,,,,,,,,,0,4
+Total,47,0,43,42,42,41,41,40,39,2,0,4
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,5
+,Anne Marie Coyle,Giovanni Campbell,Joe Fernandes,Timika Lane,J Scott O Keefe,Daniel D Mccaffery,Sierra Thomas Street,Kenneth J Powell Jr,Stephen Miller Miller,Jack Mcvay Jr,Vic Stabile,5
+Anne Marie Coyle,0,57,56,53,55,49,38,17,4,57,12,5
+Giovanni Campbell,,0,59,57,55,51,41,12,5,56,6,5
+Joe Fernandes,,,0,56,55,51,42,9,3,56,4,5
+Timika Lane,,,,1,53,49,42,8,2,53,3,5
+J Scott O Keefe,,,,,0,49,40,9,3,52,4,5
+Daniel D Mccaffery,,,,,,0,36,7,1,50,3,5
+Sierra Thomas Street,,,,,,,0,2,1,40,2,5
+Kenneth J Powell Jr,,,,,,,,0,2,11,7,5
+Stephen Miller Miller,,,,,,,,,0,2,5,5
+Jack Mcvay Jr,,,,,,,,,,3,0,5
+Vic Stabile,,,,,,,,,,,2,5
+Total,71,64,62,59,58,54,43,19,7,69,16,5
+,Judge Of The Superior Court,,Judge Of The Court Of Common Pleas,,,,,,,,,6
+,Jack Mcvay Jr,Vic Stabile,Sierra Thomas Street,Anne Marie Coyle,Daniel D Mccaffery,Giovanni Campbell,Timika Lane,J Scott O Keefe,Joe Fernandes,Stephen Miller Miller,Kenneth J Powell Jr,6
+Jack Mcvay Jr,1,0,108,108,108,104,103,104,101,6,3,6
+Vic Stabile,,0,4,5,3,4,3,3,3,1,4,6
+Sierra Thomas Street,,,2,108,106,106,104,104,103,6,6,6
+Anne Marie Coyle,,,,1,107,104,103,104,102,5,6,6
+Daniel D Mccaffery,,,,,0,106,106,106,102,6,5,6
+Giovanni Campbell,,,,,,0,104,105,102,4,5,6
+Timika Lane,,,,,,,0,105,100,5,4,6
+J Scott O Keefe,,,,,,,,0,101,5,4,6
+Joe Fernandes,,,,,,,,,0,2,3,6
+Stephen Miller Miller,,,,,,,,,,1,2,6
+Kenneth J Powell Jr,,,,,,,,,,,0,6
+Total,118,6,118,117,112,111,109,108,106,8,7,6
+,Judge Of The Superior Court,,Judge Of The Court Of Common Pleas,,,,,,,,,7
+,Jack Mcvay Jr,Vic Stabile,Joe Fernandes,Sierra Thomas Street,Timika Lane,Anne Marie Coyle,Daniel D Mccaffery,Giovanni Campbell,J Scott O Keefe,Kenneth J Powell Jr,Stephen Miller Miller,7
+Jack Mcvay Jr,3,0,53,54,53,52,51,49,49,0,1,7
+Vic Stabile,,0,1,0,2,1,1,1,1,2,2,7
+Joe Fernandes,,,1,51,54,51,51,50,50,1,2,7
+Sierra Thomas Street,,,,1,51,50,48,48,48,0,0,7
+Timika Lane,,,,,0,51,51,50,50,1,2,7
+Anne Marie Coyle,,,,,,0,50,49,49,2,1,7
+Daniel D Mccaffery,,,,,,,0,49,49,1,2,7
+Giovanni Campbell,,,,,,,,0,50,1,1,7
+J Scott O Keefe,,,,,,,,,0,1,1,7
+Kenneth J Powell Jr,,,,,,,,,,0,2,7
+Stephen Miller Miller,,,,,,,,,,,0,7
+Total,60,3,55,55,55,54,52,50,50,3,3,7
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,8
+,Timika Lane,Sierra Thomas Street,Anne Marie Coyle,Joe Fernandes,Giovanni Campbell,J Scott O Keefe,Daniel D Mccaffery,Stephen Miller Miller,Kenneth J Powell Jr,Jack Mcvay Jr,Vic Stabile,8
+Timika Lane,0,31,31,31,33,31,29,4,4,34,2,8
+Sierra Thomas Street,,0,29,28,28,28,25,5,3,29,2,8
+Anne Marie Coyle,,,0,31,28,30,28,5,6,29,4,8
+Joe Fernandes,,,,0,29,31,28,6,4,30,3,8
+Giovanni Campbell,,,,,0,30,28,2,4,30,1,8
+J Scott O Keefe,,,,,,0,29,4,5,29,3,8
+Daniel D Mccaffery,,,,,,,1,2,4,27,2,8
+Stephen Miller Miller,,,,,,,,0,2,5,3,8
+Kenneth J Powell Jr,,,,,,,,,0,4,3,8
+Jack Mcvay Jr,,,,,,,,,,0,0,8
+Vic Stabile,,,,,,,,,,,0,8
+Total,38,35,34,34,33,33,30,8,7,37,4,8
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,9
+,Anne Marie Coyle,Daniel D Mccaffery,Timika Lane,Giovanni Campbell,J Scott O Keefe,Sierra Thomas Street,Joe Fernandes,Kenneth J Powell Jr,Stephen Miller Miller,Jack Mcvay Jr,Vic Stabile,9
+Anne Marie Coyle,0,45,45,44,44,43,42,1,0,43,1,9
+Daniel D Mccaffery,,0,45,44,44,44,42,0,0,43,1,9
+Timika Lane,,,0,44,44,43,42,0,0,44,0,9
+Giovanni Campbell,,,,0,44,42,42,0,0,42,0,9
+J Scott O Keefe,,,,,0,42,42,0,0,42,0,9
+Sierra Thomas Street,,,,,,0,41,0,0,42,1,9
+Joe Fernandes,,,,,,,0,0,0,40,0,9
+Kenneth J Powell Jr,,,,,,,,0,0,0,1,9
+Stephen Miller Miller,,,,,,,,,0,0,0,9
+Jack Mcvay Jr,,,,,,,,,,0,0,9
+Vic Stabile,,,,,,,,,,,0,9
+Total,46,46,46,44,44,44,42,1,0,44,2,9
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,10
+,Anne Marie Coyle,Daniel D Mccaffery,Giovanni Campbell,J Scott O Keefe,Joe Fernandes,Sierra Thomas Street,Timika Lane,Kenneth J Powell Jr,Stephen Miller Miller,Jack Mcvay Jr,Vic Stabile,10
+Anne Marie Coyle,0,7,7,7,7,6,6,1,1,6,2,10
+Daniel D Mccaffery,,0,7,7,7,7,7,2,1,6,1,10
+Giovanni Campbell,,,0,7,7,6,6,1,1,6,1,10
+J Scott O Keefe,,,,0,7,6,6,1,1,6,1,10
+Joe Fernandes,,,,,0,6,6,1,1,6,1,10
+Sierra Thomas Street,,,,,,0,7,1,0,6,0,10
+Timika Lane,,,,,,,0,1,0,6,0,10
+Kenneth J Powell Jr,,,,,,,,0,1,0,2,10
+Stephen Miller Miller,,,,,,,,,0,0,1,10
+Jack Mcvay Jr,,,,,,,,,,0,0,10
+Vic Stabile,,,,,,,,,,,0,10
+Total,8,8,7,7,7,7,7,3,1,6,3,10
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,11
+,Timika Lane,Daniel D Mccaffery,Giovanni Campbell,Sierra Thomas Street,J Scott O Keefe,Joe Fernandes,Anne Marie Coyle,Kenneth J Powell Jr,Stephen Miller Miller,Jack Mcvay Jr,Vic Stabile,11
+Timika Lane,1,30,31,29,29,29,27,4,2,30,3,11
+Daniel D Mccaffery,,0,30,28,29,29,28,5,2,28,4,11
+Giovanni Campbell,,,0,28,29,30,27,4,1,29,3,11
+Sierra Thomas Street,,,,2,27,27,26,3,2,27,2,11
+J Scott O Keefe,,,,,0,28,27,3,2,27,3,11
+Joe Fernandes,,,,,,0,27,3,1,27,3,11
+Anne Marie Coyle,,,,,,,0,5,1,24,5,11
+Kenneth J Powell Jr,,,,,,,,0,1,1,5,11
+Stephen Miller Miller,,,,,,,,,1,1,1,11
+Jack Mcvay Jr,,,,,,,,,,0,0,11
+Vic Stabile,,,,,,,,,,,0,11
+Total,35,32,32,32,30,30,29,6,3,31,5,11
+,Judge Of The Superior Court,,Judge Of The Court Of Common Pleas,,,,,,,,,12
+,Jack Mcvay Jr,Vic Stabile,Sierra Thomas Street,Timika Lane,Anne Marie Coyle,Joe Fernandes,Daniel D Mccaffery,Giovanni Campbell,J Scott O Keefe,Kenneth J Powell Jr,Stephen Miller Miller,12
+Jack Mcvay Jr,0,0,38,40,37,35,35,35,33,1,1,12
+Vic Stabile,,0,0,0,1,0,0,0,0,1,0,12
+Sierra Thomas Street,,,1,36,35,36,34,33,32,1,1,12
+Timika Lane,,,,0,34,35,35,35,33,1,1,12
+Anne Marie Coyle,,,,,0,33,34,32,32,2,1,12
+Joe Fernandes,,,,,,0,33,34,32,0,0,12
+Daniel D Mccaffery,,,,,,,0,33,33,1,1,12
+Giovanni Campbell,,,,,,,,0,32,0,0,12
+J Scott O Keefe,,,,,,,,,0,1,1,12
+Kenneth J Powell Jr,,,,,,,,,,0,1,12
+Stephen Miller Miller,,,,,,,,,,,0,12
+Total,45,1,41,41,38,37,35,35,33,2,1,12
+,Judge Of The Superior Court,,Judge Of The Court Of Common Pleas,,,,,,,,,13
+,Jack Mcvay Jr,Vic Stabile,Anne Marie Coyle,Sierra Thomas Street,Timika Lane,Giovanni Campbell,J Scott O Keefe,Joe Fernandes,Daniel D Mccaffery,Kenneth J Powell Jr,Stephen Miller Miller,13
+Jack Mcvay Jr,0,0,48,49,46,47,48,46,45,2,2,13
+Vic Stabile,,0,3,1,2,1,0,1,1,2,1,13
+Anne Marie Coyle,,,1,45,46,47,46,45,44,4,2,13
+Sierra Thomas Street,,,,1,46,45,44,45,45,2,1,13
+Timika Lane,,,,,0,45,44,44,44,2,2,13
+Giovanni Campbell,,,,,,0,47,45,45,3,1,13
+J Scott O Keefe,,,,,,,0,44,44,2,1,13
+Joe Fernandes,,,,,,,,0,44,3,2,13
+Daniel D Mccaffery,,,,,,,,,0,3,1,13
+Kenneth J Powell Jr,,,,,,,,,,0,2,13
+Stephen Miller Miller,,,,,,,,,,,0,13
+Total,55,3,53,51,49,48,48,47,46,4,3,13
+,Judge Of The Superior Court,,Judge Of The Court Of Common Pleas,,,,,,,,,14
+,Jack Mcvay Jr,Vic Stabile,Anne Marie Coyle,Timika Lane,Daniel D Mccaffery,J Scott O Keefe,Joe Fernandes,Sierra Thomas Street,Giovanni Campbell,Kenneth J Powell Jr,Stephen Miller Miller,14
+Jack Mcvay Jr,1,0,45,47,46,46,45,45,44,1,2,14
+Vic Stabile,,0,4,1,1,0,1,1,1,3,0,14
+Anne Marie Coyle,,,0,45,45,44,45,43,45,3,1,14
+Timika Lane,,,,1,46,45,46,45,45,2,1,14
+Daniel D Mccaffery,,,,,0,45,46,44,45,2,1,14
+J Scott O Keefe,,,,,,0,45,43,44,1,1,14
+Joe Fernandes,,,,,,,0,44,45,2,1,14
+Sierra Thomas Street,,,,,,,,0,43,1,0,14
+Giovanni Campbell,,,,,,,,,0,2,1,14
+Kenneth J Powell Jr,,,,,,,,,,0,0,14
+Stephen Miller Miller,,,,,,,,,,,0,14
+Total,53,5,49,49,47,46,46,46,45,4,2,14
+,Judge Of The Superior Court,,Judge Of The Court Of Common Pleas,,,,,,,,,15
+,Jack Mcvay Jr,Vic Stabile,Sierra Thomas Street,Timika Lane,Joe Fernandes,Anne Marie Coyle,Giovanni Campbell,J Scott O Keefe,Daniel D Mccaffery,Kenneth J Powell Jr,Stephen Miller Miller,15
+Jack Mcvay Jr,1,0,25,24,23,23,23,23,23,0,0,15
+Vic Stabile,,1,1,0,0,0,0,0,0,0,0,15
+Sierra Thomas Street,,,0,25,24,23,24,24,23,0,0,15
+Timika Lane,,,,1,23,22,23,23,22,0,0,15
+Joe Fernandes,,,,,1,23,24,24,23,0,0,15
+Anne Marie Coyle,,,,,,0,23,23,22,0,0,15
+Giovanni Campbell,,,,,,,0,24,23,0,0,15
+J Scott O Keefe,,,,,,,,0,23,0,0,15
+Daniel D Mccaffery,,,,,,,,,0,0,0,15
+Kenneth J Powell Jr,,,,,,,,,,0,0,15
+Stephen Miller Miller,,,,,,,,,,,0,15
+Total,28,2,28,27,25,24,24,24,23,0,0,15
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,16
+,Timika Lane,Sierra Thomas Street,Giovanni Campbell,J Scott O Keefe,Joe Fernandes,Anne Marie Coyle,Daniel D Mccaffery,Stephen Miller Miller,Kenneth J Powell Jr,Jack Mcvay Jr,Vic Stabile,16
+Timika Lane,1,32,32,32,31,30,31,5,1,33,0,16
+Sierra Thomas Street,,0,31,32,31,30,30,5,3,33,1,16
+Giovanni Campbell,,,0,32,31,30,30,3,1,30,1,16
+J Scott O Keefe,,,,0,32,31,31,4,1,31,1,16
+Joe Fernandes,,,,,0,30,30,4,1,30,1,16
+Anne Marie Coyle,,,,,,0,29,2,1,29,1,16
+Daniel D Mccaffery,,,,,,,0,3,0,30,0,16
+Stephen Miller Miller,,,,,,,,0,1,4,0,16
+Kenneth J Powell Jr,,,,,,,,,1,1,1,16
+Jack Mcvay Jr,,,,,,,,,,0,0,16
+Vic Stabile,,,,,,,,,,,0,16
+Total,37,35,33,33,32,31,31,5,4,35,1,16
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,17
+,Timika Lane,Anne Marie Coyle,Daniel D Mccaffery,J Scott O Keefe,Joe Fernandes,Sierra Thomas Street,Giovanni Campbell,Kenneth J Powell Jr,Stephen Miller Miller,Jack Mcvay Jr,Vic Stabile,17
+Timika Lane,1,18,18,18,18,18,17,1,1,19,1,17
+Anne Marie Coyle,,0,18,19,19,17,18,2,2,17,2,17
+Daniel D Mccaffery,,,0,18,18,18,17,1,1,18,1,17
+J Scott O Keefe,,,,0,19,17,18,2,2,17,2,17
+Joe Fernandes,,,,,0,17,18,2,2,17,2,17
+Sierra Thomas Street,,,,,,0,16,0,0,19,0,17
+Giovanni Campbell,,,,,,,0,2,2,16,2,17
+Kenneth J Powell Jr,,,,,,,,0,2,0,2,17
+Stephen Miller Miller,,,,,,,,,0,0,2,17
+Jack Mcvay Jr,,,,,,,,,,0,0,17
+Vic Stabile,,,,,,,,,,,0,17
+Total,21,19,19,19,19,19,18,2,2,20,2,17
+,Judge Of The Superior Court,,Judge Of The Court Of Common Pleas,,,,,,,,,18
+,Vic Stabile,Jack Mcvay Jr,Anne Marie Coyle,Daniel D Mccaffery,Giovanni Campbell,J Scott O Keefe,Joe Fernandes,Kenneth J Powell Jr,Stephen Miller Miller,Timika Lane,Sierra Thomas Street,18
+Vic Stabile,0,0,1,1,1,1,1,2,2,1,0,18
+Jack Mcvay Jr,,0,1,1,1,1,1,0,0,1,1,18
+Anne Marie Coyle,,,0,2,2,2,2,1,0,2,1,18
+Daniel D Mccaffery,,,,0,2,2,2,1,0,2,1,18
+Giovanni Campbell,,,,,0,2,2,1,0,2,1,18
+J Scott O Keefe,,,,,,0,2,1,0,2,1,18
+Joe Fernandes,,,,,,,0,1,0,2,1,18
+Kenneth J Powell Jr,,,,,,,,0,0,1,0,18
+Stephen Miller Miller,,,,,,,,,0,0,0,18
+Timika Lane,,,,,,,,,,0,1,18
+Sierra Thomas Street,,,,,,,,,,,0,18
+Total,4,1,2,2,2,2,2,2,2,2,1,18
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,19
+,Daniel D Mccaffery,Giovanni Campbell,J Scott O Keefe,Joe Fernandes,Timika Lane,Anne Marie Coyle,Sierra Thomas Street,Stephen Miller Miller,Kenneth J Powell Jr,Jack Mcvay Jr,Vic Stabile,19
+Daniel D Mccaffery,0,6,6,6,6,5,3,3,0,7,0,19
+Giovanni Campbell,,0,6,6,6,5,3,3,0,6,0,19
+J Scott O Keefe,,,0,6,6,5,3,3,0,6,0,19
+Joe Fernandes,,,,0,6,5,3,3,0,6,0,19
+Timika Lane,,,,,0,5,3,3,0,6,0,19
+Anne Marie Coyle,,,,,,0,3,2,0,5,0,19
+Sierra Thomas Street,,,,,,,0,0,0,3,0,19
+Stephen Miller Miller,,,,,,,,0,0,3,0,19
+Kenneth J Powell Jr,,,,,,,,,0,0,0,19
+Jack Mcvay Jr,,,,,,,,,,0,0,19
+Vic Stabile,,,,,,,,,,,0,19
+Total,7,6,6,6,6,5,3,3,0,7,0,19

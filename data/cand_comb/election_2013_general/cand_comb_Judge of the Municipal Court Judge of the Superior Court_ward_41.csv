@@ -1,0 +1,217 @@
+col_1,col_2,col_3,col_4,col_5,col_6,division
+,Judge Of The Superior Court,,Judge Of The Municipal Court,,,All
+,Jack Mcvay Jr,Vic Stabile,Henry Lewandowski,Fran Shields,Martin Coleman,All
+Jack Mcvay Jr,40,0,501,503,499,All
+Vic Stabile,,240,92,81,71,All
+Henry Lewandowski,,,12,524,518,All
+Fran Shields,,,,10,523,All
+Martin Coleman,,,,,9,All
+Total,620,363,615,602,588,All
+,Judge Of The Superior Court,,Judge Of The Municipal Court,,,1
+,Jack Mcvay Jr,Vic Stabile,Martin Coleman,Fran Shields,Henry Lewandowski,1
+Jack Mcvay Jr,1,0,24,23,21,1
+Vic Stabile,,2,2,2,4,1
+Martin Coleman,,,1,23,22,1
+Fran Shields,,,,0,23,1
+Henry Lewandowski,,,,,0,1
+Total,27,6,27,25,25,1
+,Judge Of The Superior Court,,Judge Of The Municipal Court,,,2
+,Jack Mcvay Jr,Vic Stabile,Martin Coleman,Fran Shields,Henry Lewandowski,2
+Jack Mcvay Jr,1,0,18,17,16,2
+Vic Stabile,,4,1,1,2,2
+Martin Coleman,,,0,17,16,2
+Fran Shields,,,,0,16,2
+Henry Lewandowski,,,,,0,2
+Total,21,6,19,18,18,2
+,Judge Of The Municipal Court,,,Judge Of The Superior Court,,3
+,Henry Lewandowski,Martin Coleman,Fran Shields,Jack Mcvay Jr,Vic Stabile,3
+Henry Lewandowski,1,25,25,24,3,3
+Martin Coleman,,1,26,25,2,3
+Fran Shields,,,0,24,2,3
+Jack Mcvay Jr,,,,2,0,3
+Vic Stabile,,,,,6,3
+Total,28,28,26,28,9,3
+,Judge Of The Municipal Court,,,Judge Of The Superior Court,,4
+,Martin Coleman,Fran Shields,Henry Lewandowski,Jack Mcvay Jr,Vic Stabile,4
+Martin Coleman,0,41,40,38,7,4
+Fran Shields,,0,41,35,8,4
+Henry Lewandowski,,,2,33,8,4
+Jack Mcvay Jr,,,,1,0,4
+Vic Stabile,,,,,13,4
+Total,45,44,44,40,22,4
+,Judge Of The Municipal Court,,,Judge Of The Superior Court,,5
+,Fran Shields,Martin Coleman,Henry Lewandowski,Jack Mcvay Jr,Vic Stabile,5
+Fran Shields,1,19,18,18,4,5
+Martin Coleman,,1,18,17,3,5
+Henry Lewandowski,,,0,17,3,5
+Jack Mcvay Jr,,,,2,0,5
+Vic Stabile,,,,,5,5
+Total,23,21,20,22,10,5
+,Judge Of The Superior Court,,Judge Of The Municipal Court,,,6
+,Jack Mcvay Jr,Vic Stabile,Henry Lewandowski,Fran Shields,Martin Coleman,6
+Jack Mcvay Jr,1,0,27,27,28,6
+Vic Stabile,,6,2,1,0,6
+Henry Lewandowski,,,0,25,25,6
+Fran Shields,,,,0,26,6
+Martin Coleman,,,,,0,6
+Total,34,9,30,29,29,6
+,Judge Of The Municipal Court,,,Judge Of The Superior Court,,7
+,Henry Lewandowski,Martin Coleman,Fran Shields,Jack Mcvay Jr,Vic Stabile,7
+Henry Lewandowski,0,12,11,10,3,7
+Martin Coleman,,0,12,12,1,7
+Fran Shields,,,0,11,2,7
+Jack Mcvay Jr,,,,0,0,7
+Vic Stabile,,,,,8,7
+Total,14,14,13,12,12,7
+,Judge Of The Superior Court,,Judge Of The Municipal Court,,,8
+,Jack Mcvay Jr,Vic Stabile,Fran Shields,Henry Lewandowski,Martin Coleman,8
+Jack Mcvay Jr,3,0,17,16,16,8
+Vic Stabile,,8,2,2,1,8
+Fran Shields,,,0,14,17,8
+Henry Lewandowski,,,,0,14,8
+Martin Coleman,,,,,0,8
+Total,23,11,19,18,17,8
+,Judge Of The Municipal Court,,,Judge Of The Superior Court,,9
+,Henry Lewandowski,Fran Shields,Martin Coleman,Jack Mcvay Jr,Vic Stabile,9
+Henry Lewandowski,1,11,12,14,0,9
+Fran Shields,,0,11,11,2,9
+Martin Coleman,,,0,12,0,9
+Jack Mcvay Jr,,,,0,0,9
+Vic Stabile,,,,,6,9
+Total,15,13,12,14,8,9
+,Judge Of The Municipal Court,,,Judge Of The Superior Court,,10
+,Henry Lewandowski,Fran Shields,Martin Coleman,Jack Mcvay Jr,Vic Stabile,10
+Henry Lewandowski,0,24,23,24,2,10
+Fran Shields,,1,22,24,1,10
+Martin Coleman,,,0,22,1,10
+Jack Mcvay Jr,,,,1,0,10
+Vic Stabile,,,,,6,10
+Total,27,26,24,27,8,10
+,Judge Of The Superior Court,,Judge Of The Municipal Court,,,11
+,Jack Mcvay Jr,Vic Stabile,Fran Shields,Henry Lewandowski,Martin Coleman,11
+Jack Mcvay Jr,1,0,14,13,13,11
+Vic Stabile,,10,0,1,0,11
+Fran Shields,,,0,13,13,11
+Henry Lewandowski,,,,0,13,11
+Martin Coleman,,,,,0,11
+Total,15,11,14,14,13,11
+,Judge Of The Municipal Court,,,Judge Of The Superior Court,,12
+,Henry Lewandowski,Fran Shields,Martin Coleman,Jack Mcvay Jr,Vic Stabile,12
+Henry Lewandowski,0,23,23,19,7,12
+Fran Shields,,0,22,17,7,12
+Martin Coleman,,,0,16,7,12
+Jack Mcvay Jr,,,,1,0,12
+Vic Stabile,,,,,9,12
+Total,26,24,23,21,16,12
+,Judge Of The Superior Court,,Judge Of The Municipal Court,,,13
+,Vic Stabile,Jack Mcvay Jr,Henry Lewandowski,Martin Coleman,Fran Shields,13
+Vic Stabile,16,0,3,2,2,13
+Jack Mcvay Jr,,2,16,16,15,13
+Henry Lewandowski,,,0,17,16,13
+Martin Coleman,,,,0,16,13
+Fran Shields,,,,,0,13
+Total,20,19,19,18,17,13
+,Judge Of The Municipal Court,,,Judge Of The Superior Court,,14
+,Fran Shields,Henry Lewandowski,Martin Coleman,Jack Mcvay Jr,Vic Stabile,14
+Fran Shields,2,17,16,19,2,14
+Henry Lewandowski,,0,15,17,2,14
+Martin Coleman,,,1,15,1,14
+Jack Mcvay Jr,,,,3,0,14
+Vic Stabile,,,,,6,14
+Total,23,19,17,23,9,14
+,Judge Of The Municipal Court,,,Judge Of The Superior Court,,15
+,Fran Shields,Henry Lewandowski,Martin Coleman,Vic Stabile,Jack Mcvay Jr,15
+Fran Shields,2,26,25,9,19,15
+Henry Lewandowski,,1,26,7,20,15
+Martin Coleman,,,0,8,18,15
+Vic Stabile,,,,12,0,15
+Jack Mcvay Jr,,,,,0,15
+Total,31,29,27,22,21,15
+,Judge Of The Superior Court,,Judge Of The Municipal Court,,,16
+,Jack Mcvay Jr,Vic Stabile,Fran Shields,Henry Lewandowski,Martin Coleman,16
+Jack Mcvay Jr,2,0,9,10,8,16
+Vic Stabile,,4,1,1,2,16
+Fran Shields,,,1,9,9,16
+Henry Lewandowski,,,,0,9,16
+Martin Coleman,,,,,0,16
+Total,15,6,12,12,11,16
+,Judge Of The Superior Court,,Judge Of The Municipal Court,,,17
+,Jack Mcvay Jr,Vic Stabile,Fran Shields,Henry Lewandowski,Martin Coleman,17
+Jack Mcvay Jr,3,0,36,32,30,17
+Vic Stabile,,23,7,6,4,17
+Fran Shields,,,0,31,30,17
+Henry Lewandowski,,,,2,31,17
+Martin Coleman,,,,,0,17
+Total,45,34,43,40,34,17
+,Judge Of The Municipal Court,,,Judge Of The Superior Court,,18
+,Martin Coleman,Fran Shields,Henry Lewandowski,Jack Mcvay Jr,Vic Stabile,18
+Martin Coleman,1,18,15,18,1,18
+Fran Shields,,1,15,17,1,18
+Henry Lewandowski,,,0,14,1,18
+Jack Mcvay Jr,,,,1,0,18
+Vic Stabile,,,,,10,18
+Total,20,19,15,19,11,18
+,Judge Of The Superior Court,,Judge Of The Municipal Court,,,19
+,Vic Stabile,Jack Mcvay Jr,Henry Lewandowski,Martin Coleman,Fran Shields,19
+Vic Stabile,17,0,5,2,1,19
+Jack Mcvay Jr,,1,16,17,15,19
+Henry Lewandowski,,,1,15,15,19
+Martin Coleman,,,,0,16,19
+Fran Shields,,,,,0,19
+Total,23,20,22,19,16,19
+,Judge Of The Superior Court,,Judge Of The Municipal Court,,,20
+,Jack Mcvay Jr,Vic Stabile,Martin Coleman,Fran Shields,Henry Lewandowski,20
+Jack Mcvay Jr,2,0,21,20,20,20
+Vic Stabile,,6,2,2,2,20
+Martin Coleman,,,1,21,21,20
+Fran Shields,,,,0,21,20
+Henry Lewandowski,,,,,0,20
+Total,25,8,24,22,22,20
+,Judge Of The Municipal Court,,,Judge Of The Superior Court,,21
+,Henry Lewandowski,Fran Shields,Martin Coleman,Jack Mcvay Jr,Vic Stabile,21
+Henry Lewandowski,1,21,22,20,6,21
+Fran Shields,,0,21,19,4,21
+Martin Coleman,,,0,19,3,21
+Jack Mcvay Jr,,,,3,0,21
+Vic Stabile,,,,,6,21
+Total,29,24,24,25,14,21
+,Judge Of The Superior Court,,Judge Of The Municipal Court,,,22
+,Jack Mcvay Jr,Vic Stabile,Fran Shields,Henry Lewandowski,Martin Coleman,22
+Jack Mcvay Jr,1,0,12,12,13,22
+Vic Stabile,,11,3,3,2,22
+Fran Shields,,,0,14,9,22
+Henry Lewandowski,,,,0,10,22
+Martin Coleman,,,,,1,22
+Total,18,16,16,16,16,22
+,Judge Of The Municipal Court,,,Judge Of The Superior Court,,23
+,Fran Shields,Henry Lewandowski,Martin Coleman,Jack Mcvay Jr,Vic Stabile,23
+Fran Shields,0,34,33,27,9,23
+Henry Lewandowski,,0,33,28,8,23
+Martin Coleman,,,0,26,7,23
+Jack Mcvay Jr,,,,2,0,23
+Vic Stabile,,,,,17,23
+Total,37,36,34,31,26,23
+,Judge Of The Municipal Court,,,Judge Of The Superior Court,,24
+,Henry Lewandowski,Martin Coleman,Fran Shields,Jack Mcvay Jr,Vic Stabile,24
+Henry Lewandowski,2,18,18,21,1,24
+Martin Coleman,,2,19,17,2,24
+Fran Shields,,,0,17,3,24
+Jack Mcvay Jr,,,,2,0,24
+Vic Stabile,,,,,8,24
+Total,24,21,20,23,11,24
+,Judge Of The Municipal Court,,,Judge Of The Superior Court,,25
+,Henry Lewandowski,Fran Shields,Martin Coleman,Jack Mcvay Jr,Vic Stabile,25
+Henry Lewandowski,0,27,26,25,5,25
+Fran Shields,,1,25,24,3,25
+Martin Coleman,,,0,23,5,25
+Jack Mcvay Jr,,,,3,0,25
+Vic Stabile,,,,,11,25
+Total,31,29,29,31,17,25
+,Judge Of The Municipal Court,,,Judge Of The Superior Court,,26
+,Henry Lewandowski,Martin Coleman,Fran Shields,Jack Mcvay Jr,Vic Stabile,26
+Henry Lewandowski,1,17,16,16,5,26
+Martin Coleman,,0,16,17,5,26
+Fran Shields,,,1,16,2,26
+Jack Mcvay Jr,,,,1,0,26
+Vic Stabile,,,,,10,26
+Total,22,22,19,21,18,26

@@ -1,0 +1,25 @@
+col_1,col_2,col_3,col_4,col_5,col_6,division
+,Judge Of The Superior Court,,Judge Of The Municipal Court,,,All
+,Jack Mcvay Jr,Vic Stabile,Martin Coleman,Fran Shields,Henry Lewandowski,All
+Jack Mcvay Jr,1,0,60,59,56,All
+Vic Stabile,,13,5,6,5,All
+Martin Coleman,,,2,60,58,All
+Fran Shields,,,,0,59,All
+Henry Lewandowski,,,,,0,All
+Total,67,19,67,65,61,All
+,Judge Of The Municipal Court,,,Judge Of The Superior Court,,16
+,Fran Shields,Henry Lewandowski,Martin Coleman,Jack Mcvay Jr,Vic Stabile,16
+Fran Shields,0,12,12,11,3,16
+Henry Lewandowski,,0,11,10,2,16
+Martin Coleman,,,0,10,2,16
+Jack Mcvay Jr,,,,0,0,16
+Vic Stabile,,,,,1,16
+Total,14,12,12,11,4,16
+,Judge Of The Superior Court,,Judge Of The Municipal Court,,,17
+,Jack Mcvay Jr,Vic Stabile,Martin Coleman,Fran Shields,Henry Lewandowski,17
+Jack Mcvay Jr,1,0,50,48,46,17
+Vic Stabile,,12,3,3,3,17
+Martin Coleman,,,2,48,47,17
+Fran Shields,,,,0,47,17
+Henry Lewandowski,,,,,0,17
+Total,56,15,55,51,49,17

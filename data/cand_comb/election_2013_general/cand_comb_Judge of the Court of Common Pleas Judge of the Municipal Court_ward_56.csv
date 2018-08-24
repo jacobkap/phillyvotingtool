@@ -1,0 +1,631 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10,col_11,col_12,col_13,division
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,All
+,Anne Marie Coyle,Daniel D Mccaffery,Joe Fernandes,J Scott O Keefe,Giovanni Campbell,Timika Lane,Sierra Thomas Street,Kenneth J Powell Jr,Stephen Miller Miller,Fran Shields,Henry Lewandowski,Martin Coleman,All
+Anne Marie Coyle,97,"1,355","1,247","1,307","1,254","1,125","1,027",652,185,"1,311","1,301","1,274",All
+Daniel D Mccaffery,,26,"1,237","1,307","1,239","1,113","1,022",264,152,"1,261","1,243","1,223",All
+Joe Fernandes,,,45,"1,209","1,195","1,095","1,026",218,120,"1,207","1,157","1,192",All
+J Scott O Keefe,,,,5,"1,241","1,112","1,020",250,154,"1,249","1,210","1,212",All
+Giovanni Campbell,,,,,4,"1,109","1,029",232,136,"1,203","1,165","1,184",All
+Timika Lane,,,,,,5,990,127,90,"1,093","1,059","1,096",All
+Sierra Thomas Street,,,,,,,4,92,48,"1,019","1,002","1,016",All
+Kenneth J Powell Jr,,,,,,,,60,129,262,257,239,All
+Stephen Miller Miller,,,,,,,,,8,150,152,130,All
+Fran Shields,,,,,,,,,,5,"1,230","1,267",All
+Henry Lewandowski,,,,,,,,,,,9,"1,217",All
+Martin Coleman,,,,,,,,,,,,4,All
+Total,"2,018","1,525","1,431","1,407","1,327","1,189","1,089",768,233,"1,435","1,427","1,402",All
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,1
+,Anne Marie Coyle,Joe Fernandes,Daniel D Mccaffery,Giovanni Campbell,J Scott O Keefe,Timika Lane,Sierra Thomas Street,Kenneth J Powell Jr,Stephen Miller Miller,Henry Lewandowski,Fran Shields,Martin Coleman,1
+Anne Marie Coyle,3,44,45,43,43,40,38,15,7,42,41,40,1
+Joe Fernandes,,2,40,40,40,37,37,5,1,41,40,38,1
+Daniel D Mccaffery,,,1,41,41,38,36,4,4,39,39,38,1
+Giovanni Campbell,,,,0,42,40,37,4,3,39,37,36,1
+J Scott O Keefe,,,,,0,39,36,3,3,39,37,36,1
+Timika Lane,,,,,,1,37,2,2,36,35,34,1
+Sierra Thomas Street,,,,,,,1,2,1,34,33,32,1
+Kenneth J Powell Jr,,,,,,,,0,4,5,3,3,1
+Stephen Miller Miller,,,,,,,,,0,3,3,3,1
+Henry Lewandowski,,,,,,,,,,0,40,40,1
+Fran Shields,,,,,,,,,,,0,39,1
+Martin Coleman,,,,,,,,,,,,0,1
+Total,64,50,47,43,43,41,39,16,7,45,44,43,1
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,2
+,Anne Marie Coyle,Daniel D Mccaffery,J Scott O Keefe,Giovanni Campbell,Joe Fernandes,Sierra Thomas Street,Timika Lane,Kenneth J Powell Jr,Stephen Miller Miller,Martin Coleman,Fran Shields,Henry Lewandowski,2
+Anne Marie Coyle,3,36,34,30,30,26,28,22,6,31,31,31,2
+Daniel D Mccaffery,,1,36,32,32,28,28,12,7,27,30,32,2
+J Scott O Keefe,,,0,33,34,31,30,11,7,30,32,31,2
+Giovanni Campbell,,,,0,31,30,26,9,5,28,32,30,2
+Joe Fernandes,,,,,0,28,27,8,3,27,29,27,2
+Sierra Thomas Street,,,,,,0,25,7,4,26,29,26,2
+Timika Lane,,,,,,,0,3,3,28,27,25,2
+Kenneth J Powell Jr,,,,,,,,0,5,9,8,11,2
+Stephen Miller Miller,,,,,,,,,0,4,5,6,2
+Martin Coleman,,,,,,,,,,0,30,28,2
+Fran Shields,,,,,,,,,,,0,30,2
+Henry Lewandowski,,,,,,,,,,,,0,2
+Total,54,41,39,35,35,32,31,26,8,36,35,35,2
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,3
+,Daniel D Mccaffery,Anne Marie Coyle,Joe Fernandes,J Scott O Keefe,Giovanni Campbell,Timika Lane,Sierra Thomas Street,Kenneth J Powell Jr,Stephen Miller Miller,Fran Shields,Henry Lewandowski,Martin Coleman,3
+Daniel D Mccaffery,0,14,12,12,11,10,9,2,1,14,14,12,3
+Anne Marie Coyle,,0,12,12,11,11,10,3,2,14,13,13,3
+Joe Fernandes,,,1,11,10,10,10,2,1,13,12,11,3
+J Scott O Keefe,,,,0,11,11,10,3,2,12,12,12,3
+Giovanni Campbell,,,,,1,10,9,2,1,11,10,11,3
+Timika Lane,,,,,,0,9,2,2,11,10,11,3
+Sierra Thomas Street,,,,,,,0,2,1,10,10,10,3
+Kenneth J Powell Jr,,,,,,,,1,2,3,3,3,3
+Stephen Miller Miller,,,,,,,,,0,2,2,2,3
+Fran Shields,,,,,,,,,,0,14,13,3
+Henry Lewandowski,,,,,,,,,,,0,12,3
+Martin Coleman,,,,,,,,,,,,0,3
+Total,16,15,14,13,12,11,10,4,2,15,15,13,3
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,4
+,Anne Marie Coyle,Daniel D Mccaffery,J Scott O Keefe,Kenneth J Powell Jr,Joe Fernandes,Timika Lane,Giovanni Campbell,Sierra Thomas Street,Stephen Miller Miller,Henry Lewandowski,Fran Shields,Martin Coleman,4
+Anne Marie Coyle,2,20,20,16,16,16,15,11,2,22,21,20,4
+Daniel D Mccaffery,,1,18,6,15,14,14,12,2,20,20,17,4
+J Scott O Keefe,,,0,5,15,15,15,11,2,19,19,17,4
+Kenneth J Powell Jr,,,,3,2,3,4,0,2,6,8,7,4
+Joe Fernandes,,,,,0,13,13,11,0,16,14,13,4
+Timika Lane,,,,,,0,14,12,1,16,15,17,4
+Giovanni Campbell,,,,,,,0,11,1,15,15,15,4
+Sierra Thomas Street,,,,,,,,0,0,12,12,12,4
+Stephen Miller Miller,,,,,,,,,0,2,2,2,4
+Henry Lewandowski,,,,,,,,,,0,19,19,4
+Fran Shields,,,,,,,,,,,0,19,4
+Martin Coleman,,,,,,,,,,,,0,4
+Total,38,25,21,20,17,17,15,12,2,25,23,21,4
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,5
+,Anne Marie Coyle,Kenneth J Powell Jr,Daniel D Mccaffery,J Scott O Keefe,Joe Fernandes,Giovanni Campbell,Sierra Thomas Street,Timika Lane,Stephen Miller Miller,Henry Lewandowski,Martin Coleman,Fran Shields,5
+Anne Marie Coyle,2,28,26,26,27,26,22,20,7,31,26,26,5
+Kenneth J Powell Jr,,5,10,9,11,11,6,5,5,11,11,11,5
+Daniel D Mccaffery,,,0,24,23,23,20,19,5,27,25,24,5
+J Scott O Keefe,,,,0,24,24,23,19,3,26,26,26,5
+Joe Fernandes,,,,,0,25,22,20,3,26,24,24,5
+Giovanni Campbell,,,,,,0,20,20,3,25,24,24,5
+Sierra Thomas Street,,,,,,,0,18,1,23,21,22,5
+Timika Lane,,,,,,,,0,2,21,20,20,5
+Stephen Miller Miller,,,,,,,,,0,6,4,4,5
+Henry Lewandowski,,,,,,,,,,0,26,26,5
+Martin Coleman,,,,,,,,,,,0,27,5
+Fran Shields,,,,,,,,,,,,0,5
+Total,51,34,29,29,29,27,24,22,8,33,30,28,5
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,6
+,Anne Marie Coyle,Daniel D Mccaffery,J Scott O Keefe,Giovanni Campbell,Joe Fernandes,Timika Lane,Sierra Thomas Street,Kenneth J Powell Jr,Stephen Miller Miller,Fran Shields,Henry Lewandowski,Martin Coleman,6
+Anne Marie Coyle,9,65,61,54,48,52,46,41,4,58,52,55,6
+Daniel D Mccaffery,,1,63,54,46,52,47,7,3,55,53,53,6
+J Scott O Keefe,,,1,53,48,49,44,7,2,56,53,55,6
+Giovanni Campbell,,,,0,46,49,45,5,3,49,46,50,6
+Joe Fernandes,,,,,3,42,43,5,0,47,45,46,6
+Timika Lane,,,,,,0,44,3,2,46,44,44,6
+Sierra Thomas Street,,,,,,,0,3,1,42,45,43,6
+Kenneth J Powell Jr,,,,,,,,6,2,7,7,7,6
+Stephen Miller Miller,,,,,,,,,1,1,1,2,6
+Fran Shields,,,,,,,,,,0,50,53,6
+Henry Lewandowski,,,,,,,,,,,0,48,6
+Martin Coleman,,,,,,,,,,,,1,6
+Total,114,70,68,56,55,53,50,47,5,61,60,60,6
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,7
+,Anne Marie Coyle,Daniel D Mccaffery,Giovanni Campbell,Joe Fernandes,J Scott O Keefe,Timika Lane,Sierra Thomas Street,Kenneth J Powell Jr,Stephen Miller Miller,Martin Coleman,Fran Shields,Henry Lewandowski,7
+Anne Marie Coyle,4,51,47,43,45,38,32,21,7,46,45,42,7
+Daniel D Mccaffery,,2,47,42,43,37,31,10,5,46,44,42,7
+Giovanni Campbell,,,0,43,42,37,32,10,4,45,42,38,7
+Joe Fernandes,,,,1,39,34,31,7,4,42,40,34,7
+J Scott O Keefe,,,,,0,34,32,6,3,41,42,37,7
+Timika Lane,,,,,,0,30,4,3,38,35,34,7
+Sierra Thomas Street,,,,,,,0,2,0,31,31,29,7
+Kenneth J Powell Jr,,,,,,,,2,5,7,6,9,7
+Stephen Miller Miller,,,,,,,,,0,4,4,6,7
+Martin Coleman,,,,,,,,,,0,43,39,7
+Fran Shields,,,,,,,,,,,0,36,7
+Henry Lewandowski,,,,,,,,,,,,0,7
+Total,70,57,48,47,46,38,32,23,8,48,46,46,7
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,8
+,Anne Marie Coyle,J Scott O Keefe,Daniel D Mccaffery,Joe Fernandes,Giovanni Campbell,Timika Lane,Sierra Thomas Street,Kenneth J Powell Jr,Stephen Miller Miller,Fran Shields,Henry Lewandowski,Martin Coleman,8
+Anne Marie Coyle,3,54,52,46,47,42,38,28,7,55,50,46,8
+J Scott O Keefe,,0,52,47,49,44,39,11,6,52,47,44,8
+Daniel D Mccaffery,,,0,46,46,43,40,6,4,49,47,43,8
+Joe Fernandes,,,,0,47,43,39,7,4,46,43,42,8
+Giovanni Campbell,,,,,0,44,40,7,5,46,43,43,8
+Timika Lane,,,,,,0,38,3,4,41,41,42,8
+Sierra Thomas Street,,,,,,,0,2,1,36,37,37,8
+Kenneth J Powell Jr,,,,,,,,3,5,12,10,7,8
+Stephen Miller Miller,,,,,,,,,0,5,4,4,8
+Fran Shields,,,,,,,,,,0,48,46,8
+Henry Lewandowski,,,,,,,,,,,2,46,8
+Martin Coleman,,,,,,,,,,,,0,8
+Total,80,58,57,51,50,45,40,34,8,59,56,49,8
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,9
+,Anne Marie Coyle,Joe Fernandes,Daniel D Mccaffery,J Scott O Keefe,Kenneth J Powell Jr,Giovanni Campbell,Timika Lane,Sierra Thomas Street,Stephen Miller Miller,Martin Coleman,Fran Shields,Henry Lewandowski,9
+Anne Marie Coyle,3,28,31,26,23,23,18,16,7,28,27,25,9
+Joe Fernandes,,4,27,21,11,21,16,17,6,24,24,24,9
+Daniel D Mccaffery,,,1,25,11,21,16,16,4,26,25,24,9
+J Scott O Keefe,,,,0,8,21,17,15,2,22,23,21,9
+Kenneth J Powell Jr,,,,,2,9,5,5,3,10,10,8,9
+Giovanni Campbell,,,,,,0,15,16,4,22,23,20,9
+Timika Lane,,,,,,,0,11,2,16,16,16,9
+Sierra Thomas Street,,,,,,,,0,4,17,17,17,9
+Stephen Miller Miller,,,,,,,,,0,5,5,5,9
+Martin Coleman,,,,,,,,,,1,26,24,9
+Fran Shields,,,,,,,,,,,0,25,9
+Henry Lewandowski,,,,,,,,,,,,0,9
+Total,50,36,35,27,25,24,18,17,8,30,28,28,9
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,10
+,Anne Marie Coyle,Daniel D Mccaffery,J Scott O Keefe,Joe Fernandes,Giovanni Campbell,Kenneth J Powell Jr,Sierra Thomas Street,Timika Lane,Stephen Miller Miller,Henry Lewandowski,Fran Shields,Martin Coleman,10
+Anne Marie Coyle,1,30,27,21,23,22,17,16,7,32,27,25,10
+Daniel D Mccaffery,,1,28,24,24,13,18,16,7,30,28,24,10
+J Scott O Keefe,,,0,22,23,12,19,16,7,27,26,23,10
+Joe Fernandes,,,,2,20,9,17,16,4,21,22,19,10
+Giovanni Campbell,,,,,1,9,18,16,3,23,20,19,10
+Kenneth J Powell Jr,,,,,,1,5,5,4,12,12,12,10
+Sierra Thomas Street,,,,,,,0,14,2,19,18,18,10
+Timika Lane,,,,,,,,0,2,16,15,15,10
+Stephen Miller Miller,,,,,,,,,1,7,7,4,10
+Henry Lewandowski,,,,,,,,,,0,28,27,10
+Fran Shields,,,,,,,,,,,0,26,10
+Martin Coleman,,,,,,,,,,,,0,10
+Total,43,39,30,29,26,26,19,17,12,35,33,29,10
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,11
+,Anne Marie Coyle,Daniel D Mccaffery,J Scott O Keefe,Giovanni Campbell,Joe Fernandes,Timika Lane,Sierra Thomas Street,Kenneth J Powell Jr,Stephen Miller Miller,Fran Shields,Martin Coleman,Henry Lewandowski,11
+Anne Marie Coyle,1,22,20,19,19,19,13,7,3,19,19,19,11
+Daniel D Mccaffery,,0,21,20,21,20,14,5,3,21,20,20,11
+J Scott O Keefe,,,0,21,21,20,14,5,4,21,21,20,11
+Giovanni Campbell,,,,0,20,19,14,4,2,20,21,19,11
+Joe Fernandes,,,,,0,19,13,4,3,21,20,19,11
+Timika Lane,,,,,,0,13,4,3,19,19,18,11
+Sierra Thomas Street,,,,,,,0,2,1,14,14,14,11
+Kenneth J Powell Jr,,,,,,,,2,2,5,5,5,11
+Stephen Miller Miller,,,,,,,,,0,2,3,2,11
+Fran Shields,,,,,,,,,,0,20,20,11
+Martin Coleman,,,,,,,,,,,0,19,11
+Henry Lewandowski,,,,,,,,,,,,0,11
+Total,25,24,23,22,22,20,14,9,5,22,22,21,11
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,12
+,Anne Marie Coyle,Joe Fernandes,J Scott O Keefe,Daniel D Mccaffery,Giovanni Campbell,Kenneth J Powell Jr,Timika Lane,Sierra Thomas Street,Stephen Miller Miller,Fran Shields,Martin Coleman,Henry Lewandowski,12
+Anne Marie Coyle,1,40,41,40,35,31,27,22,10,38,37,37,12
+Joe Fernandes,,1,41,36,37,17,28,23,8,37,36,35,12
+J Scott O Keefe,,,0,38,35,17,27,22,11,37,36,36,12
+Daniel D Mccaffery,,,,0,33,18,26,22,12,38,37,36,12
+Giovanni Campbell,,,,,0,12,26,22,7,34,33,32,12
+Kenneth J Powell Jr,,,,,,2,6,3,10,16,15,15,12
+Timika Lane,,,,,,,0,22,1,26,25,23,12
+Sierra Thomas Street,,,,,,,,0,0,22,22,19,12
+Stephen Miller Miller,,,,,,,,,0,10,10,9,12
+Fran Shields,,,,,,,,,,0,38,34,12
+Martin Coleman,,,,,,,,,,,0,33,12
+Henry Lewandowski,,,,,,,,,,,,0,12
+Total,59,46,45,44,37,36,28,23,13,44,42,40,12
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,13
+,Anne Marie Coyle,Daniel D Mccaffery,J Scott O Keefe,Joe Fernandes,Giovanni Campbell,Timika Lane,Sierra Thomas Street,Kenneth J Powell Jr,Stephen Miller Miller,Henry Lewandowski,Martin Coleman,Fran Shields,13
+Anne Marie Coyle,1,30,32,31,31,30,25,11,3,31,31,28,13
+Daniel D Mccaffery,,3,30,28,29,29,25,2,1,30,30,27,13
+J Scott O Keefe,,,0,31,31,31,26,4,3,31,30,28,13
+Joe Fernandes,,,,1,29,30,25,4,3,29,30,28,13
+Giovanni Campbell,,,,,0,29,24,3,3,30,29,27,13
+Timika Lane,,,,,,0,26,3,2,29,30,28,13
+Sierra Thomas Street,,,,,,,1,1,0,24,25,23,13
+Kenneth J Powell Jr,,,,,,,,0,1,3,2,3,13
+Stephen Miller Miller,,,,,,,,,0,3,2,2,13
+Henry Lewandowski,,,,,,,,,,0,30,28,13
+Martin Coleman,,,,,,,,,,,0,29,13
+Fran Shields,,,,,,,,,,,,0,13
+Total,42,34,33,33,31,31,27,12,3,32,32,30,13
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,14
+,Anne Marie Coyle,Joe Fernandes,Daniel D Mccaffery,J Scott O Keefe,Giovanni Campbell,Timika Lane,Sierra Thomas Street,Kenneth J Powell Jr,Stephen Miller Miller,Fran Shields,Martin Coleman,Henry Lewandowski,14
+Anne Marie Coyle,3,21,20,18,18,16,12,10,2,19,16,17,14
+Joe Fernandes,,1,21,19,19,17,13,7,3,20,17,17,14
+Daniel D Mccaffery,,,1,18,19,17,13,5,3,18,16,16,14
+J Scott O Keefe,,,,0,18,16,13,7,2,18,17,15,14
+Giovanni Campbell,,,,,0,17,13,5,2,17,16,16,14
+Timika Lane,,,,,,0,12,3,1,15,16,14,14
+Sierra Thomas Street,,,,,,,0,1,1,13,13,12,14
+Kenneth J Powell Jr,,,,,,,,0,1,7,7,8,14
+Stephen Miller Miller,,,,,,,,,0,3,1,2,14
+Fran Shields,,,,,,,,,,0,18,17,14
+Martin Coleman,,,,,,,,,,,0,16,14
+Henry Lewandowski,,,,,,,,,,,,0,14
+Total,29,25,22,20,19,18,14,13,3,23,21,20,14
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,15
+,Anne Marie Coyle,Daniel D Mccaffery,Joe Fernandes,Giovanni Campbell,J Scott O Keefe,Timika Lane,Sierra Thomas Street,Kenneth J Powell Jr,Stephen Miller Miller,Fran Shields,Henry Lewandowski,Martin Coleman,15
+Anne Marie Coyle,1,20,18,17,17,16,14,11,3,21,20,17,15
+Daniel D Mccaffery,,0,19,19,17,16,14,3,4,20,20,19,15
+Joe Fernandes,,,2,18,17,16,14,1,4,18,18,19,15
+Giovanni Campbell,,,,1,16,16,14,1,4,18,17,18,15
+J Scott O Keefe,,,,,0,14,13,1,2,15,17,16,15
+Timika Lane,,,,,,0,13,0,4,17,15,16,15
+Sierra Thomas Street,,,,,,,0,1,1,14,14,14,15
+Kenneth J Powell Jr,,,,,,,,1,0,3,2,2,15
+Stephen Miller Miller,,,,,,,,,0,4,3,4,15
+Fran Shields,,,,,,,,,,0,19,19,15
+Henry Lewandowski,,,,,,,,,,,0,19,15
+Martin Coleman,,,,,,,,,,,,0,15
+Total,34,24,24,20,18,17,14,12,4,23,23,20,15
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,16
+,Anne Marie Coyle,Daniel D Mccaffery,J Scott O Keefe,Giovanni Campbell,Joe Fernandes,Kenneth J Powell Jr,Timika Lane,Sierra Thomas Street,Stephen Miller Miller,Fran Shields,Henry Lewandowski,Martin Coleman,16
+Anne Marie Coyle,3,18,17,16,15,12,12,12,6,19,20,17,16
+Daniel D Mccaffery,,1,16,16,13,3,13,11,3,18,16,14,16
+J Scott O Keefe,,,0,15,14,5,13,10,3,17,17,15,16
+Giovanni Campbell,,,,0,14,4,11,11,3,16,16,15,16
+Joe Fernandes,,,,,1,4,11,10,3,14,15,13,16
+Kenneth J Powell Jr,,,,,,2,1,1,4,6,6,6,16
+Timika Lane,,,,,,,0,9,1,13,12,11,16
+Sierra Thomas Street,,,,,,,,0,0,11,12,11,16
+Stephen Miller Miller,,,,,,,,,0,3,4,3,16
+Fran Shields,,,,,,,,,,0,17,16,16
+Henry Lewandowski,,,,,,,,,,,0,16,16
+Martin Coleman,,,,,,,,,,,,0,16
+Total,31,21,18,17,17,14,13,12,6,21,21,17,16
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,17
+,Anne Marie Coyle,Daniel D Mccaffery,J Scott O Keefe,Giovanni Campbell,Joe Fernandes,Kenneth J Powell Jr,Sierra Thomas Street,Timika Lane,Stephen Miller Miller,Henry Lewandowski,Fran Shields,Martin Coleman,17
+Anne Marie Coyle,1,29,27,25,24,18,22,22,4,27,27,24,17
+Daniel D Mccaffery,,1,25,24,21,9,21,21,2,25,23,24,17
+J Scott O Keefe,,,0,24,22,8,21,20,2,23,24,23,17
+Giovanni Campbell,,,,0,22,7,22,21,1,23,24,25,17
+Joe Fernandes,,,,,0,4,21,20,0,21,24,22,17
+Kenneth J Powell Jr,,,,,,3,4,4,5,9,8,6,17
+Sierra Thomas Street,,,,,,,0,19,0,22,22,22,17
+Timika Lane,,,,,,,,0,1,20,22,21,17
+Stephen Miller Miller,,,,,,,,,0,4,3,1,17
+Henry Lewandowski,,,,,,,,,,0,25,23,17
+Fran Shields,,,,,,,,,,,0,24,17
+Martin Coleman,,,,,,,,,,,,0,17
+Total,42,31,27,26,24,23,22,22,5,29,28,26,17
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,18
+,Anne Marie Coyle,Daniel D Mccaffery,J Scott O Keefe,Joe Fernandes,Timika Lane,Giovanni Campbell,Kenneth J Powell Jr,Sierra Thomas Street,Stephen Miller Miller,Henry Lewandowski,Fran Shields,Martin Coleman,18
+Anne Marie Coyle,3,32,31,25,24,23,18,17,6,33,31,26,18
+Daniel D Mccaffery,,0,28,23,23,22,9,18,4,27,26,23,18
+J Scott O Keefe,,,0,25,24,23,10,17,6,27,27,24,18
+Joe Fernandes,,,,1,23,22,8,17,3,22,24,23,18
+Timika Lane,,,,,0,22,7,17,4,23,22,22,18
+Giovanni Campbell,,,,,,0,8,17,4,22,21,21,18
+Kenneth J Powell Jr,,,,,,,0,2,4,8,11,9,18
+Sierra Thomas Street,,,,,,,,0,2,17,16,15,18
+Stephen Miller Miller,,,,,,,,,0,6,5,5,18
+Henry Lewandowski,,,,,,,,,,0,27,26,18
+Fran Shields,,,,,,,,,,,0,26,18
+Martin Coleman,,,,,,,,,,,,0,18
+Total,49,33,32,30,25,24,18,18,6,35,33,29,18
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,19
+,Anne Marie Coyle,Daniel D Mccaffery,Joe Fernandes,Giovanni Campbell,J Scott O Keefe,Kenneth J Powell Jr,Timika Lane,Sierra Thomas Street,Stephen Miller Miller,Martin Coleman,Fran Shields,Henry Lewandowski,19
+Anne Marie Coyle,2,47,43,46,44,38,37,32,6,46,44,39,19
+Daniel D Mccaffery,,1,39,43,43,21,36,33,4,42,43,38,19
+Joe Fernandes,,,2,40,39,17,36,32,4,44,41,33,19
+Giovanni Campbell,,,,0,44,21,38,35,5,42,44,35,19
+J Scott O Keefe,,,,,0,20,37,32,5,41,43,35,19
+Kenneth J Powell Jr,,,,,,2,15,10,8,21,22,18,19
+Timika Lane,,,,,,,0,30,3,36,37,29,19
+Sierra Thomas Street,,,,,,,,0,1,32,34,31,19
+Stephen Miller Miller,,,,,,,,,0,3,5,3,19
+Martin Coleman,,,,,,,,,,1,44,38,19
+Fran Shields,,,,,,,,,,,0,37,19
+Henry Lewandowski,,,,,,,,,,,,1,19
+Total,70,51,51,50,48,44,41,35,8,53,50,43,19
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,20
+,Anne Marie Coyle,Daniel D Mccaffery,Joe Fernandes,J Scott O Keefe,Giovanni Campbell,Sierra Thomas Street,Timika Lane,Kenneth J Powell Jr,Stephen Miller Miller,Henry Lewandowski,Fran Shields,Martin Coleman,20
+Anne Marie Coyle,2,24,23,22,20,18,18,7,1,26,21,21,20
+Daniel D Mccaffery,,1,27,23,22,19,19,6,1,26,24,24,20
+Joe Fernandes,,,2,22,21,19,18,6,1,25,23,25,20
+J Scott O Keefe,,,,1,20,19,19,3,1,23,22,23,20
+Giovanni Campbell,,,,,0,18,18,4,1,21,19,20,20
+Sierra Thomas Street,,,,,,0,19,2,0,18,20,20,20
+Timika Lane,,,,,,,0,2,0,18,18,20,20
+Kenneth J Powell Jr,,,,,,,,0,1,6,4,4,20
+Stephen Miller Miller,,,,,,,,,0,1,1,1,20
+Henry Lewandowski,,,,,,,,,,0,23,23,20
+Fran Shields,,,,,,,,,,,0,24,20
+Martin Coleman,,,,,,,,,,,,0,20
+Total,34,32,32,25,22,21,20,9,1,30,27,27,20
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,21
+,Anne Marie Coyle,Daniel D Mccaffery,J Scott O Keefe,Giovanni Campbell,Joe Fernandes,Sierra Thomas Street,Timika Lane,Kenneth J Powell Jr,Stephen Miller Miller,Fran Shields,Henry Lewandowski,Martin Coleman,21
+Anne Marie Coyle,1,18,19,17,15,13,14,9,4,19,20,18,21
+Daniel D Mccaffery,,0,23,21,18,18,17,5,4,22,20,21,21
+J Scott O Keefe,,,0,21,19,18,17,5,5,22,21,22,21
+Giovanni Campbell,,,,0,17,17,16,5,3,21,19,20,21
+Joe Fernandes,,,,,0,16,17,1,3,18,18,18,21
+Sierra Thomas Street,,,,,,0,15,2,2,17,16,18,21
+Timika Lane,,,,,,,0,1,2,16,16,16,21
+Kenneth J Powell Jr,,,,,,,,2,3,5,4,4,21
+Stephen Miller Miller,,,,,,,,,1,4,5,3,21
+Fran Shields,,,,,,,,,,0,21,22,21
+Henry Lewandowski,,,,,,,,,,,0,19,21
+Martin Coleman,,,,,,,,,,,,0,21
+Total,29,24,24,21,19,18,17,13,7,25,24,24,21
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,22
+,Anne Marie Coyle,Joe Fernandes,Giovanni Campbell,Daniel D Mccaffery,J Scott O Keefe,Sierra Thomas Street,Timika Lane,Kenneth J Powell Jr,Stephen Miller Miller,Martin Coleman,Henry Lewandowski,Fran Shields,22
+Anne Marie Coyle,0,111,109,108,108,107,106,28,1,112,112,110,22
+Joe Fernandes,,1,109,108,108,106,106,5,1,110,108,109,22
+Giovanni Campbell,,,0,108,109,107,106,4,0,110,109,109,22
+Daniel D Mccaffery,,,,0,107,106,104,5,0,108,107,107,22
+J Scott O Keefe,,,,,0,106,105,3,0,109,108,108,22
+Sierra Thomas Street,,,,,,0,105,3,0,108,108,106,22
+Timika Lane,,,,,,,0,2,0,106,107,105,22
+Kenneth J Powell Jr,,,,,,,,1,0,5,3,4,22
+Stephen Miller Miller,,,,,,,,,0,0,0,0,22
+Martin Coleman,,,,,,,,,,0,110,110,22
+Henry Lewandowski,,,,,,,,,,,0,109,22
+Fran Shields,,,,,,,,,,,,0,22
+Total,142,116,110,109,109,109,108,30,2,115,113,112,22
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,23
+,Anne Marie Coyle,Daniel D Mccaffery,J Scott O Keefe,Giovanni Campbell,Joe Fernandes,Timika Lane,Kenneth J Powell Jr,Sierra Thomas Street,Stephen Miller Miller,Fran Shields,Henry Lewandowski,Martin Coleman,23
+Anne Marie Coyle,3,29,30,31,27,25,20,21,8,28,24,23,23
+Daniel D Mccaffery,,1,33,30,28,24,12,20,9,28,23,23,23
+J Scott O Keefe,,,0,31,29,25,12,21,7,29,25,25,23
+Giovanni Campbell,,,,0,27,26,12,21,7,29,23,22,23
+Joe Fernandes,,,,,0,22,8,20,6,25,21,22,23
+Timika Lane,,,,,,0,7,21,4,22,19,19,23
+Kenneth J Powell Jr,,,,,,,0,3,9,10,10,8,23
+Sierra Thomas Street,,,,,,,,0,2,20,18,18,23
+Stephen Miller Miller,,,,,,,,,0,9,8,7,23
+Fran Shields,,,,,,,,,,0,26,26,23
+Henry Lewandowski,,,,,,,,,,,0,24,23
+Martin Coleman,,,,,,,,,,,,0,23
+Total,45,36,36,35,31,27,23,22,11,34,27,27,23
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,24
+,Anne Marie Coyle,Daniel D Mccaffery,J Scott O Keefe,Joe Fernandes,Giovanni Campbell,Timika Lane,Sierra Thomas Street,Kenneth J Powell Jr,Stephen Miller Miller,Henry Lewandowski,Fran Shields,Martin Coleman,24
+Anne Marie Coyle,1,26,28,24,27,24,17,11,7,28,29,25,24
+Daniel D Mccaffery,,0,27,27,24,22,15,4,3,24,23,21,24
+J Scott O Keefe,,,0,24,26,24,16,5,5,26,25,23,24
+Joe Fernandes,,,,0,24,23,15,3,4,21,23,22,24
+Giovanni Campbell,,,,,0,23,16,4,4,24,23,22,24
+Timika Lane,,,,,,0,16,3,4,21,23,22,24
+Sierra Thomas Street,,,,,,,0,1,2,16,16,15,24
+Kenneth J Powell Jr,,,,,,,,0,5,5,5,6,24
+Stephen Miller Miller,,,,,,,,,1,6,7,6,24
+Henry Lewandowski,,,,,,,,,,1,25,24,24
+Fran Shields,,,,,,,,,,,0,24,24
+Martin Coleman,,,,,,,,,,,,0,24
+Total,38,32,29,29,27,24,17,12,8,30,29,26,24
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,25
+,Anne Marie Coyle,Daniel D Mccaffery,Joe Fernandes,Giovanni Campbell,J Scott O Keefe,Timika Lane,Sierra Thomas Street,Kenneth J Powell Jr,Stephen Miller Miller,Martin Coleman,Henry Lewandowski,Fran Shields,25
+Anne Marie Coyle,3,45,42,44,42,40,38,11,6,46,45,42,25
+Daniel D Mccaffery,,1,48,43,44,40,39,4,7,48,45,41,25
+Joe Fernandes,,,3,41,39,37,37,4,7,44,40,40,25
+Giovanni Campbell,,,,0,43,38,38,4,4,44,44,42,25
+J Scott O Keefe,,,,,0,39,38,3,6,43,43,40,25
+Timika Lane,,,,,,0,36,2,4,40,39,37,25
+Sierra Thomas Street,,,,,,,0,3,3,39,37,38,25
+Kenneth J Powell Jr,,,,,,,,2,3,3,5,4,25
+Stephen Miller Miller,,,,,,,,,0,6,6,6,25
+Martin Coleman,,,,,,,,,,0,44,44,25
+Henry Lewandowski,,,,,,,,,,,0,42,25
+Fran Shields,,,,,,,,,,,,1,25
+Total,60,57,53,47,47,42,40,15,8,52,49,46,25
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,26
+,Anne Marie Coyle,Daniel D Mccaffery,J Scott O Keefe,Joe Fernandes,Giovanni Campbell,Sierra Thomas Street,Timika Lane,Kenneth J Powell Jr,Stephen Miller Miller,Fran Shields,Henry Lewandowski,Martin Coleman,26
+Anne Marie Coyle,1,35,35,33,33,28,27,24,7,35,35,33,26
+Daniel D Mccaffery,,2,34,31,31,27,27,5,6,31,30,28,26
+J Scott O Keefe,,,0,31,31,27,27,6,6,31,30,29,26
+Joe Fernandes,,,,1,29,28,27,4,3,29,30,27,26
+Giovanni Campbell,,,,,0,25,25,5,3,27,29,25,26
+Sierra Thomas Street,,,,,,0,26,1,2,26,26,25,26
+Timika Lane,,,,,,,1,1,2,26,26,26,26
+Kenneth J Powell Jr,,,,,,,,1,3,7,6,5,26
+Stephen Miller Miller,,,,,,,,,0,4,5,4,26
+Fran Shields,,,,,,,,,,0,28,30,26
+Henry Lewandowski,,,,,,,,,,,0,29,26
+Martin Coleman,,,,,,,,,,,,1,26
+Total,61,37,36,34,33,28,28,26,7,36,35,35,26
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,27
+,Anne Marie Coyle,Daniel D Mccaffery,Joe Fernandes,J Scott O Keefe,Giovanni Campbell,Timika Lane,Sierra Thomas Street,Kenneth J Powell Jr,Stephen Miller Miller,Henry Lewandowski,Fran Shields,Martin Coleman,27
+Anne Marie Coyle,3,30,23,24,21,17,16,12,9,25,23,21,27
+Daniel D Mccaffery,,1,29,26,21,19,16,7,9,24,23,20,27
+Joe Fernandes,,,1,20,20,18,15,4,6,18,19,18,27
+J Scott O Keefe,,,,0,22,20,17,6,9,23,23,20,27
+Giovanni Campbell,,,,,0,19,16,4,8,20,22,20,27
+Timika Lane,,,,,,0,16,1,5,18,19,17,27
+Sierra Thomas Street,,,,,,,0,1,2,17,17,17,27
+Kenneth J Powell Jr,,,,,,,,0,5,7,5,4,27
+Stephen Miller Miller,,,,,,,,,0,7,8,6,27
+Henry Lewandowski,,,,,,,,,,1,23,22,27
+Fran Shields,,,,,,,,,,,0,21,27
+Martin Coleman,,,,,,,,,,,,0,27
+Total,44,40,33,27,23,20,17,13,11,29,26,24,27
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,28
+,Anne Marie Coyle,Giovanni Campbell,Joe Fernandes,Daniel D Mccaffery,J Scott O Keefe,Timika Lane,Sierra Thomas Street,Kenneth J Powell Jr,Stephen Miller Miller,Henry Lewandowski,Fran Shields,Martin Coleman,28
+Anne Marie Coyle,1,40,39,37,39,38,37,9,4,42,41,41,28
+Giovanni Campbell,,0,38,38,39,38,37,2,3,41,40,39,28
+Joe Fernandes,,,2,36,37,37,37,3,2,38,39,37,28
+Daniel D Mccaffery,,,,0,38,36,35,2,0,39,37,37,28
+J Scott O Keefe,,,,,0,38,36,2,2,40,39,39,28
+Timika Lane,,,,,,0,36,1,3,39,38,37,28
+Sierra Thomas Street,,,,,,,0,1,2,37,37,36,28
+Kenneth J Powell Jr,,,,,,,,2,1,2,2,2,28
+Stephen Miller Miller,,,,,,,,,1,3,3,2,28
+Henry Lewandowski,,,,,,,,,,0,43,43,28
+Fran Shields,,,,,,,,,,,0,42,28
+Martin Coleman,,,,,,,,,,,,0,28
+Total,50,42,42,40,40,39,37,11,5,47,44,43,28
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,29
+,Anne Marie Coyle,Joe Fernandes,Daniel D Mccaffery,J Scott O Keefe,Giovanni Campbell,Timika Lane,Sierra Thomas Street,Kenneth J Powell Jr,Stephen Miller Miller,Martin Coleman,Fran Shields,Henry Lewandowski,29
+Anne Marie Coyle,7,24,23,22,23,22,21,6,0,25,26,22,29
+Joe Fernandes,,2,23,23,22,21,21,1,0,22,23,20,29
+Daniel D Mccaffery,,,0,23,22,21,19,2,0,22,22,18,29
+J Scott O Keefe,,,,0,23,21,19,1,0,23,22,18,29
+Giovanni Campbell,,,,,0,21,19,2,0,22,21,18,29
+Timika Lane,,,,,,0,19,1,0,20,21,19,29
+Sierra Thomas Street,,,,,,,1,0,0,19,19,18,29
+Kenneth J Powell Jr,,,,,,,,2,0,2,0,0,29
+Stephen Miller Miller,,,,,,,,,0,0,0,0,29
+Martin Coleman,,,,,,,,,,0,24,20,29
+Fran Shields,,,,,,,,,,,1,21,29
+Henry Lewandowski,,,,,,,,,,,,1,29
+Total,44,28,27,25,24,23,22,11,0,31,29,24,29
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,30
+,Anne Marie Coyle,J Scott O Keefe,Joe Fernandes,Daniel D Mccaffery,Giovanni Campbell,Timika Lane,Sierra Thomas Street,Kenneth J Powell Jr,Stephen Miller Miller,Martin Coleman,Fran Shields,Henry Lewandowski,30
+Anne Marie Coyle,1,43,43,41,42,37,35,16,6,44,42,43,30
+J Scott O Keefe,,0,50,48,46,40,38,10,6,50,48,49,30
+Joe Fernandes,,,0,48,46,42,40,10,7,52,49,47,30
+Daniel D Mccaffery,,,,0,44,40,38,9,4,48,48,45,30
+Giovanni Campbell,,,,,0,41,39,9,7,46,44,45,30
+Timika Lane,,,,,,0,38,6,4,42,42,40,30
+Sierra Thomas Street,,,,,,,0,4,4,40,39,37,30
+Kenneth J Powell Jr,,,,,,,,2,3,11,11,10,30
+Stephen Miller Miller,,,,,,,,,0,7,6,6,30
+Martin Coleman,,,,,,,,,,0,50,48,30
+Fran Shields,,,,,,,,,,,0,47,30
+Henry Lewandowski,,,,,,,,,,,,1,30
+Total,56,52,52,50,47,42,40,23,8,54,53,52,30
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,31
+,Anne Marie Coyle,Joe Fernandes,Daniel D Mccaffery,Giovanni Campbell,J Scott O Keefe,Sierra Thomas Street,Timika Lane,Kenneth J Powell Jr,Stephen Miller Miller,Fran Shields,Henry Lewandowski,Martin Coleman,31
+Anne Marie Coyle,1,34,35,33,34,30,30,17,4,36,35,35,31
+Joe Fernandes,,1,34,34,34,31,31,2,4,32,32,33,31
+Daniel D Mccaffery,,,0,32,34,29,31,2,4,33,32,33,31
+Giovanni Campbell,,,,0,33,30,29,2,4,32,30,31,31
+J Scott O Keefe,,,,,0,30,30,1,4,33,31,32,31
+Sierra Thomas Street,,,,,,0,28,1,2,28,26,29,31
+Timika Lane,,,,,,,0,1,2,29,28,29,31
+Kenneth J Powell Jr,,,,,,,,1,2,5,5,3,31
+Stephen Miller Miller,,,,,,,,,0,4,4,4,31
+Fran Shields,,,,,,,,,,1,32,33,31
+Henry Lewandowski,,,,,,,,,,,0,31,31
+Martin Coleman,,,,,,,,,,,,0,31
+Total,55,39,36,35,35,32,31,19,5,39,37,37,31
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,32
+,Anne Marie Coyle,Kenneth J Powell Jr,Daniel D Mccaffery,Sierra Thomas Street,Giovanni Campbell,Timika Lane,J Scott O Keefe,Joe Fernandes,Stephen Miller Miller,Henry Lewandowski,Martin Coleman,Fran Shields,32
+Anne Marie Coyle,2,18,14,14,13,11,10,10,2,15,14,13,32
+Kenneth J Powell Jr,,0,3,2,3,0,3,3,1,2,2,3,32
+Daniel D Mccaffery,,,1,12,12,9,9,10,0,12,9,10,32
+Sierra Thomas Street,,,,0,12,12,9,9,0,11,11,11,32
+Giovanni Campbell,,,,,0,9,10,9,0,11,10,11,32
+Timika Lane,,,,,,0,7,7,0,9,9,8,32
+J Scott O Keefe,,,,,,,0,8,0,7,7,8,32
+Joe Fernandes,,,,,,,,0,0,9,8,9,32
+Stephen Miller Miller,,,,,,,,,1,0,0,1,32
+Henry Lewandowski,,,,,,,,,,0,11,11,32
+Martin Coleman,,,,,,,,,,,0,11,32
+Fran Shields,,,,,,,,,,,,0,32
+Total,40,18,16,15,14,12,11,11,3,18,15,14,32
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,33
+,Anne Marie Coyle,Daniel D Mccaffery,J Scott O Keefe,Joe Fernandes,Giovanni Campbell,Timika Lane,Sierra Thomas Street,Kenneth J Powell Jr,Stephen Miller Miller,Fran Shields,Martin Coleman,Henry Lewandowski,33
+Anne Marie Coyle,2,30,30,27,27,24,19,11,2,29,27,25,33
+Daniel D Mccaffery,,1,30,26,27,24,19,6,2,29,26,24,33
+J Scott O Keefe,,,0,27,28,24,19,5,3,30,27,25,33
+Joe Fernandes,,,,2,27,24,19,5,2,26,26,23,33
+Giovanni Campbell,,,,,0,24,19,5,3,27,25,23,33
+Timika Lane,,,,,,0,19,3,0,23,24,21,33
+Sierra Thomas Street,,,,,,,0,0,0,19,19,19,33
+Kenneth J Powell Jr,,,,,,,,1,1,5,3,2,33
+Stephen Miller Miller,,,,,,,,,0,3,1,1,33
+Fran Shields,,,,,,,,,,1,27,25,33
+Martin Coleman,,,,,,,,,,,0,25,33
+Henry Lewandowski,,,,,,,,,,,,0,33
+Total,38,32,31,30,28,25,19,13,3,32,29,25,33
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,34
+,Anne Marie Coyle,Joe Fernandes,Daniel D Mccaffery,Timika Lane,Giovanni Campbell,J Scott O Keefe,Sierra Thomas Street,Kenneth J Powell Jr,Stephen Miller Miller,Martin Coleman,Fran Shields,Henry Lewandowski,34
+Anne Marie Coyle,5,33,33,33,32,29,29,5,2,34,32,32,34
+Joe Fernandes,,3,31,32,31,27,28,2,2,32,30,30,34
+Daniel D Mccaffery,,,0,32,32,29,28,2,2,33,30,29,34
+Timika Lane,,,,0,32,28,29,2,2,33,31,30,34
+Giovanni Campbell,,,,,0,28,28,2,2,32,30,29,34
+J Scott O Keefe,,,,,,2,25,0,1,29,27,26,34
+Sierra Thomas Street,,,,,,,0,1,0,30,29,28,34
+Kenneth J Powell Jr,,,,,,,,2,1,2,2,3,34
+Stephen Miller Miller,,,,,,,,,0,2,1,1,34
+Martin Coleman,,,,,,,,,,0,32,30,34
+Fran Shields,,,,,,,,,,,0,30,34
+Henry Lewandowski,,,,,,,,,,,,1,34
+Total,44,36,33,33,32,31,30,7,2,35,33,33,34
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,35
+,Anne Marie Coyle,Daniel D Mccaffery,J Scott O Keefe,Giovanni Campbell,Joe Fernandes,Timika Lane,Sierra Thomas Street,Kenneth J Powell Jr,Stephen Miller Miller,Henry Lewandowski,Martin Coleman,Fran Shields,35
+Anne Marie Coyle,1,22,22,21,21,19,17,7,3,21,23,22,35
+Daniel D Mccaffery,,0,25,23,22,20,17,4,4,24,23,22,35
+J Scott O Keefe,,,0,23,22,19,17,4,4,23,23,22,35
+Giovanni Campbell,,,,0,20,19,17,3,4,22,22,22,35
+Joe Fernandes,,,,,0,19,17,3,3,21,22,21,35
+Timika Lane,,,,,,0,17,1,2,19,20,20,35
+Sierra Thomas Street,,,,,,,0,0,0,16,18,18,35
+Kenneth J Powell Jr,,,,,,,,1,2,4,4,4,35
+Stephen Miller Miller,,,,,,,,,0,4,3,4,35
+Henry Lewandowski,,,,,,,,,,0,22,22,35
+Martin Coleman,,,,,,,,,,,0,23,35
+Fran Shields,,,,,,,,,,,,0,35
+Total,27,26,25,23,23,21,18,9,4,25,25,24,35
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,36
+,Anne Marie Coyle,Daniel D Mccaffery,J Scott O Keefe,Giovanni Campbell,Joe Fernandes,Timika Lane,Sierra Thomas Street,Kenneth J Powell Jr,Stephen Miller Miller,Henry Lewandowski,Fran Shields,Martin Coleman,36
+Anne Marie Coyle,1,29,29,29,26,24,23,14,6,29,24,24,36
+Daniel D Mccaffery,,0,32,30,24,22,21,8,5,28,23,23,36
+J Scott O Keefe,,,0,29,24,23,22,8,5,28,24,24,36
+Giovanni Campbell,,,,1,24,22,21,8,5,26,22,22,36
+Joe Fernandes,,,,,0,23,23,6,4,23,23,23,36
+Timika Lane,,,,,,1,22,3,3,21,20,20,36
+Sierra Thomas Street,,,,,,,0,3,1,22,21,21,36
+Kenneth J Powell Jr,,,,,,,,1,6,9,6,6,36
+Stephen Miller Miller,,,,,,,,,0,3,1,1,36
+Henry Lewandowski,,,,,,,,,,1,23,25,36
+Fran Shields,,,,,,,,,,,1,23,36
+Martin Coleman,,,,,,,,,,,,0,36
+Total,38,33,33,31,29,26,24,16,7,33,27,26,36
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,37
+,Anne Marie Coyle,Daniel D Mccaffery,Joe Fernandes,Giovanni Campbell,J Scott O Keefe,Timika Lane,Sierra Thomas Street,Kenneth J Powell Jr,Stephen Miller Miller,Henry Lewandowski,Fran Shields,Martin Coleman,37
+Anne Marie Coyle,3,21,21,19,20,19,17,11,4,21,22,20,37
+Daniel D Mccaffery,,2,19,17,18,18,16,5,2,19,19,17,37
+Joe Fernandes,,,0,19,17,19,17,4,3,22,21,20,37
+Giovanni Campbell,,,,0,17,18,17,3,4,18,18,17,37
+J Scott O Keefe,,,,,0,18,15,4,4,17,17,15,37
+Timika Lane,,,,,,0,16,3,4,20,19,18,37
+Sierra Thomas Street,,,,,,,0,1,2,15,16,15,37
+Kenneth J Powell Jr,,,,,,,,3,3,4,2,2,37
+Stephen Miller Miller,,,,,,,,,0,3,3,2,37
+Henry Lewandowski,,,,,,,,,,0,20,19,37
+Fran Shields,,,,,,,,,,,0,19,37
+Martin Coleman,,,,,,,,,,,,0,37
+Total,38,27,25,21,21,21,18,17,5,26,24,21,37
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,38
+,Anne Marie Coyle,Daniel D Mccaffery,Giovanni Campbell,Joe Fernandes,J Scott O Keefe,Timika Lane,Sierra Thomas Street,Kenneth J Powell Jr,Stephen Miller Miller,Martin Coleman,Fran Shields,Henry Lewandowski,38
+Anne Marie Coyle,5,45,41,38,41,34,34,14,4,43,41,41,38
+Daniel D Mccaffery,,0,41,40,41,36,35,5,4,42,43,42,38
+Giovanni Campbell,,,0,38,38,35,35,4,4,40,38,39,38
+Joe Fernandes,,,,2,37,35,35,3,2,39,39,38,38
+J Scott O Keefe,,,,,0,33,33,4,4,39,39,39,38
+Timika Lane,,,,,,1,33,2,1,37,35,35,38
+Sierra Thomas Street,,,,,,,1,1,0,35,34,34,38
+Kenneth J Powell Jr,,,,,,,,1,2,5,5,5,38
+Stephen Miller Miller,,,,,,,,,1,3,3,4,38
+Martin Coleman,,,,,,,,,,0,42,42,38
+Fran Shields,,,,,,,,,,,0,42,38
+Henry Lewandowski,,,,,,,,,,,,0,38
+Total,61,48,42,42,41,38,36,15,5,46,44,43,38
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,39
+,Anne Marie Coyle,Joe Fernandes,Timika Lane,Daniel D Mccaffery,Giovanni Campbell,J Scott O Keefe,Sierra Thomas Street,Kenneth J Powell Jr,Stephen Miller Miller,Fran Shields,Martin Coleman,Henry Lewandowski,39
+Anne Marie Coyle,2,24,23,22,22,22,19,8,1,23,23,20,39
+Joe Fernandes,,0,23,23,23,23,19,2,2,24,23,21,39
+Timika Lane,,,1,22,22,22,20,2,2,23,24,20,39
+Daniel D Mccaffery,,,,0,23,23,18,2,3,24,23,20,39
+Giovanni Campbell,,,,,0,23,18,2,3,24,23,20,39
+J Scott O Keefe,,,,,,0,19,1,2,24,23,20,39
+Sierra Thomas Street,,,,,,,0,0,1,19,20,18,39
+Kenneth J Powell Jr,,,,,,,,1,1,2,2,1,39
+Stephen Miller Miller,,,,,,,,,0,3,3,3,39
+Fran Shields,,,,,,,,,,0,24,21,39
+Martin Coleman,,,,,,,,,,,0,21,39
+Henry Lewandowski,,,,,,,,,,,,0,39
+Total,33,25,25,24,24,24,20,9,3,25,25,22,39
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,40
+,Anne Marie Coyle,J Scott O Keefe,Daniel D Mccaffery,Giovanni Campbell,Joe Fernandes,Timika Lane,Sierra Thomas Street,Kenneth J Powell Jr,Stephen Miller Miller,Fran Shields,Martin Coleman,Henry Lewandowski,40
+Anne Marie Coyle,3,27,26,25,23,25,16,10,4,25,25,22,40
+J Scott O Keefe,,0,27,26,24,26,17,7,5,26,25,22,40
+Daniel D Mccaffery,,,0,25,23,25,17,6,5,25,24,21,40
+Giovanni Campbell,,,,0,23,25,16,6,4,25,24,20,40
+Joe Fernandes,,,,,2,24,17,3,1,23,23,19,40
+Timika Lane,,,,,,0,17,5,3,25,24,20,40
+Sierra Thomas Street,,,,,,,0,0,1,17,16,15,40
+Kenneth J Powell Jr,,,,,,,,1,4,6,5,4,40
+Stephen Miller Miller,,,,,,,,,0,4,3,4,40
+Fran Shields,,,,,,,,,,0,24,20,40
+Martin Coleman,,,,,,,,,,,0,21,40
+Henry Lewandowski,,,,,,,,,,,,0,40
+Total,35,28,27,26,26,26,17,11,5,26,26,23,40
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,,41
+,Anne Marie Coyle,Joe Fernandes,Daniel D Mccaffery,J Scott O Keefe,Giovanni Campbell,Sierra Thomas Street,Timika Lane,Kenneth J Powell Jr,Stephen Miller Miller,Fran Shields,Henry Lewandowski,Martin Coleman,41
+Anne Marie Coyle,3,35,34,36,36,33,31,9,1,37,35,34,41
+Joe Fernandes,,1,34,34,36,34,32,3,0,36,35,36,41
+Daniel D Mccaffery,,,1,35,35,30,31,4,0,35,35,34,41
+J Scott O Keefe,,,,1,35,31,31,5,0,35,33,33,41
+Giovanni Campbell,,,,,0,33,33,4,0,37,35,35,41
+Sierra Thomas Street,,,,,,0,31,3,1,33,33,32,41
+Timika Lane,,,,,,,0,0,0,33,32,32,41
+Kenneth J Powell Jr,,,,,,,,1,1,4,4,2,41
+Stephen Miller Miller,,,,,,,,,1,0,0,0,41
+Fran Shields,,,,,,,,,,0,36,36,41
+Henry Lewandowski,,,,,,,,,,,0,35,41
+Martin Coleman,,,,,,,,,,,,0,41
+Total,46,41,39,39,38,35,33,12,2,40,40,38,41

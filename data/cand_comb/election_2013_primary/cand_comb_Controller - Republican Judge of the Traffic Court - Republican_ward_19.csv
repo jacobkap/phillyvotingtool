@@ -1,0 +1,37 @@
+col_1,col_2,col_3,col_4,division
+,Controller - Republican,Judge Of The Traffic Court - Republican,,1
+,Terrence J Tracy Jr,Ella P Butcher,Christopher M Vogler,1
+Terrence J Tracy Jr,1,1,0,1
+Ella P Butcher,,0,0,1
+Christopher M Vogler,,,0,1
+Total,2,1,0,1
+,Judge Of The Traffic Court - Republican,,Controller - Republican,2
+,Christopher M Vogler,Ella P Butcher,Terrence J Tracy Jr,2
+Christopher M Vogler,0,1,1,2
+Ella P Butcher,,0,1,2
+Terrence J Tracy Jr,,,0,2
+Total,1,1,1,2
+,Judge Of The Traffic Court - Republican,,Controller - Republican,5
+,Ella P Butcher,Christopher M Vogler,Terrence J Tracy Jr,5
+Ella P Butcher,0,0,1,5
+Christopher M Vogler,,0,0,5
+Terrence J Tracy Jr,,,0,5
+Total,1,0,1,5
+,Judge Of The Traffic Court - Republican,,Controller - Republican,8
+,Christopher M Vogler,Ella P Butcher,Terrence J Tracy Jr,8
+Christopher M Vogler,0,1,1,8
+Ella P Butcher,,0,1,8
+Terrence J Tracy Jr,,,0,8
+Total,1,1,1,8
+,Judge Of The Traffic Court - Republican,,Controller - Republican,10
+,Ella P Butcher,Christopher M Vogler,Terrence J Tracy Jr,10
+Ella P Butcher,1,0,0,10
+Christopher M Vogler,,0,0,10
+Terrence J Tracy Jr,,,0,10
+Total,1,0,0,10
+,Judge Of The Traffic Court - Republican,,Controller - Republican,All
+,Ella P Butcher,Christopher M Vogler,Terrence J Tracy Jr,All
+Ella P Butcher,1,2,4,All
+Christopher M Vogler,,0,2,All
+Terrence J Tracy Jr,,,1,All
+Total,5,2,5,All

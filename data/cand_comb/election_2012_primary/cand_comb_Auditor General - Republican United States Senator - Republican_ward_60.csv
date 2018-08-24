@@ -1,0 +1,151 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,division
+,Auditor General - Republican,,United States Senator - Republican,,,,,All
+,John Maher,Frank A Pinto,David Alan Christian,Steven D Welch,Tom Smith,Sam Rohrer,Marc A Scaringi,All
+John Maher,1,0,5,3,2,3,1,All
+Frank A Pinto,,0,3,4,0,0,1,All
+David Alan Christian,,,0,0,0,0,0,All
+Steven D Welch,,,,1,0,0,0,All
+Tom Smith,,,,,5,0,0,All
+Sam Rohrer,,,,,,1,0,All
+Marc A Scaringi,,,,,,,0,All
+Total,15,8,8,8,7,4,2,All
+,United States Senator - Republican,,,,,Auditor General - Republican,,1
+,David Alan Christian,Marc A Scaringi,Sam Rohrer,Steven D Welch,Tom Smith,John Maher,Frank A Pinto,1
+David Alan Christian,0,0,0,0,0,1,0,1
+Marc A Scaringi,,0,0,0,0,0,0,1
+Sam Rohrer,,,0,0,0,0,0,1
+Steven D Welch,,,,0,0,0,0,1
+Tom Smith,,,,,0,0,0,1
+John Maher,,,,,,0,0,1
+Frank A Pinto,,,,,,,0,1
+Total,1,0,0,0,0,1,0,1
+,Auditor General - Republican,,United States Senator - Republican,,,,,2
+,Frank A Pinto,John Maher,Steven D Welch,Tom Smith,David Alan Christian,Marc A Scaringi,Sam Rohrer,2
+Frank A Pinto,0,0,2,0,0,0,0,2
+John Maher,,0,0,0,0,0,0,2
+Steven D Welch,,,0,0,0,0,0,2
+Tom Smith,,,,1,0,0,0,2
+David Alan Christian,,,,,0,0,0,2
+Marc A Scaringi,,,,,,0,0,2
+Sam Rohrer,,,,,,,0,2
+Total,2,0,2,1,0,0,0,2
+,United States Senator - Republican,,,,,Auditor General - Republican,,6
+,David Alan Christian,Marc A Scaringi,Sam Rohrer,Steven D Welch,Tom Smith,John Maher,Frank A Pinto,6
+David Alan Christian,0,0,0,0,0,1,0,6
+Marc A Scaringi,,0,0,0,0,0,0,6
+Sam Rohrer,,,0,0,0,0,0,6
+Steven D Welch,,,,0,0,0,0,6
+Tom Smith,,,,,0,0,0,6
+John Maher,,,,,,0,0,6
+Frank A Pinto,,,,,,,0,6
+Total,1,0,0,0,0,1,0,6
+,United States Senator - Republican,,,,,Auditor General - Republican,,8
+,David Alan Christian,Marc A Scaringi,Sam Rohrer,Steven D Welch,Tom Smith,John Maher,Frank A Pinto,8
+David Alan Christian,0,0,0,0,0,1,0,8
+Marc A Scaringi,,0,0,0,0,0,0,8
+Sam Rohrer,,,0,0,0,0,0,8
+Steven D Welch,,,,0,0,0,0,8
+Tom Smith,,,,,0,0,0,8
+John Maher,,,,,,0,0,8
+Frank A Pinto,,,,,,,0,8
+Total,1,0,0,0,0,1,0,8
+,Auditor General - Republican,,United States Senator - Republican,,,,,9
+,John Maher,Frank A Pinto,Tom Smith,David Alan Christian,Marc A Scaringi,Sam Rohrer,Steven D Welch,9
+John Maher,1,0,1,0,1,1,1,9
+Frank A Pinto,,0,0,2,0,0,0,9
+Tom Smith,,,2,0,0,0,0,9
+David Alan Christian,,,,0,0,0,0,9
+Marc A Scaringi,,,,,0,0,0,9
+Sam Rohrer,,,,,,0,0,9
+Steven D Welch,,,,,,,0,9
+Total,5,2,3,2,1,1,1,9
+,Auditor General - Republican,,United States Senator - Republican,,,,,12
+,Frank A Pinto,John Maher,David Alan Christian,Marc A Scaringi,Sam Rohrer,Steven D Welch,Tom Smith,12
+Frank A Pinto,0,0,1,1,0,0,0,12
+John Maher,,0,0,0,0,0,0,12
+David Alan Christian,,,0,0,0,0,0,12
+Marc A Scaringi,,,,0,0,0,0,12
+Sam Rohrer,,,,,1,0,0,12
+Steven D Welch,,,,,,1,0,12
+Tom Smith,,,,,,,0,12
+Total,2,0,1,1,1,1,0,12
+,Auditor General - Republican,,United States Senator - Republican,,,,,13
+,John Maher,Frank A Pinto,Tom Smith,David Alan Christian,Marc A Scaringi,Sam Rohrer,Steven D Welch,13
+John Maher,0,0,1,0,0,0,0,13
+Frank A Pinto,,0,0,0,0,0,0,13
+Tom Smith,,,0,0,0,0,0,13
+David Alan Christian,,,,0,0,0,0,13
+Marc A Scaringi,,,,,0,0,0,13
+Sam Rohrer,,,,,,0,0,13
+Steven D Welch,,,,,,,0,13
+Total,1,0,1,0,0,0,0,13
+,United States Senator - Republican,,,,,Auditor General - Republican,,14
+,Tom Smith,David Alan Christian,Marc A Scaringi,Sam Rohrer,Steven D Welch,Frank A Pinto,John Maher,14
+Tom Smith,1,0,0,0,0,0,0,14
+David Alan Christian,,0,0,0,0,0,0,14
+Marc A Scaringi,,,0,0,0,0,0,14
+Sam Rohrer,,,,0,0,0,0,14
+Steven D Welch,,,,,0,0,0,14
+Frank A Pinto,,,,,,0,0,14
+John Maher,,,,,,,0,14
+Total,1,0,0,0,0,0,0,14
+,Auditor General - Republican,,United States Senator - Republican,,,,,15
+,Frank A Pinto,John Maher,Sam Rohrer,Steven D Welch,David Alan Christian,Marc A Scaringi,Tom Smith,15
+Frank A Pinto,0,0,0,1,0,0,0,15
+John Maher,,0,1,0,0,0,0,15
+Sam Rohrer,,,0,0,0,0,0,15
+Steven D Welch,,,,0,0,0,0,15
+David Alan Christian,,,,,0,0,0,15
+Marc A Scaringi,,,,,,0,0,15
+Tom Smith,,,,,,,0,15
+Total,1,1,1,1,0,0,0,15
+,Auditor General - Republican,,United States Senator - Republican,,,,,17
+,John Maher,Frank A Pinto,David Alan Christian,Steven D Welch,Marc A Scaringi,Sam Rohrer,Tom Smith,17
+John Maher,0,0,1,1,0,0,0,17
+Frank A Pinto,,0,0,0,0,0,0,17
+David Alan Christian,,,0,0,0,0,0,17
+Steven D Welch,,,,0,0,0,0,17
+Marc A Scaringi,,,,,0,0,0,17
+Sam Rohrer,,,,,,0,0,17
+Tom Smith,,,,,,,0,17
+Total,2,0,1,1,0,0,0,17
+,United States Senator - Republican,,,,,Auditor General - Republican,,18
+,Steven D Welch,David Alan Christian,Marc A Scaringi,Sam Rohrer,Tom Smith,Frank A Pinto,John Maher,18
+Steven D Welch,0,0,0,0,0,1,1,18
+David Alan Christian,,0,0,0,0,0,0,18
+Marc A Scaringi,,,0,0,0,0,0,18
+Sam Rohrer,,,,0,0,0,0,18
+Tom Smith,,,,,0,0,0,18
+Frank A Pinto,,,,,,0,0,18
+John Maher,,,,,,,0,18
+Total,2,0,0,0,0,1,1,18
+,United States Senator - Republican,,,,,Auditor General - Republican,,19
+,Tom Smith,David Alan Christian,Marc A Scaringi,Sam Rohrer,Steven D Welch,Frank A Pinto,John Maher,19
+Tom Smith,1,0,0,0,0,0,0,19
+David Alan Christian,,0,0,0,0,0,0,19
+Marc A Scaringi,,,0,0,0,0,0,19
+Sam Rohrer,,,,0,0,0,0,19
+Steven D Welch,,,,,0,0,0,19
+Frank A Pinto,,,,,,0,0,19
+John Maher,,,,,,,0,19
+Total,1,0,0,0,0,0,0,19
+,Auditor General - Republican,,United States Senator - Republican,,,,,20
+,John Maher,Frank A Pinto,Sam Rohrer,David Alan Christian,Marc A Scaringi,Steven D Welch,Tom Smith,20
+John Maher,0,0,1,0,0,0,0,20
+Frank A Pinto,,0,0,0,0,0,0,20
+Sam Rohrer,,,0,0,0,0,0,20
+David Alan Christian,,,,0,0,0,0,20
+Marc A Scaringi,,,,,0,0,0,20
+Steven D Welch,,,,,,0,0,20
+Tom Smith,,,,,,,0,20
+Total,1,0,1,0,0,0,0,20
+,United States Senator - Republican,,,,,Auditor General - Republican,,23
+,David Alan Christian,Marc A Scaringi,Sam Rohrer,Steven D Welch,Tom Smith,John Maher,Frank A Pinto,23
+David Alan Christian,0,0,0,0,0,1,0,23
+Marc A Scaringi,,0,0,0,0,0,0,23
+Sam Rohrer,,,0,0,0,0,0,23
+Steven D Welch,,,,0,0,0,0,23
+Tom Smith,,,,,0,0,0,23
+John Maher,,,,,,0,0,23
+Frank A Pinto,,,,,,,0,23
+Total,1,0,0,0,0,1,0,23

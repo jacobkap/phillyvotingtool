@@ -1,0 +1,277 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10,division
+,President Of The United States - Republican,,,,United States Senator - Republican,,,,,All
+,Mitt Romney,Rick Santorum,Ron Paul,Newt Gingrich,Tom Smith,David Alan Christian,Steven D Welch,Sam Rohrer,Marc A Scaringi,All
+Mitt Romney,5,0,0,0,26,16,12,7,1,All
+Rick Santorum,,0,0,0,11,4,4,2,0,All
+Ron Paul,,,1,0,3,3,2,2,2,All
+Newt Gingrich,,,,3,3,4,0,0,0,All
+Tom Smith,,,,,1,0,0,0,0,All
+David Alan Christian,,,,,,0,0,0,0,All
+Steven D Welch,,,,,,,1,0,0,All
+Sam Rohrer,,,,,,,,0,0,All
+Marc A Scaringi,,,,,,,,,0,All
+Total,67,21,13,10,44,27,19,11,3,All
+,President Of The United States - Republican,,,,United States Senator - Republican,,,,,1
+,Mitt Romney,Rick Santorum,Ron Paul,Newt Gingrich,Steven D Welch,David Alan Christian,Tom Smith,Sam Rohrer,Marc A Scaringi,1
+Mitt Romney,0,0,0,0,2,2,0,1,0,1
+Rick Santorum,,0,0,0,0,0,2,0,0,1
+Ron Paul,,,0,0,1,0,0,0,0,1
+Newt Gingrich,,,,0,0,0,0,0,0,1
+Steven D Welch,,,,,0,0,0,0,0,1
+David Alan Christian,,,,,,0,0,0,0,1
+Tom Smith,,,,,,,0,0,0,1
+Sam Rohrer,,,,,,,,0,0,1
+Marc A Scaringi,,,,,,,,,0,1
+Total,5,2,1,0,3,2,2,1,0,1
+,United States Senator - Republican,,,,,President Of The United States - Republican,,,,2
+,Tom Smith,David Alan Christian,Marc A Scaringi,Sam Rohrer,Steven D Welch,Mitt Romney,Newt Gingrich,Rick Santorum,Ron Paul,2
+Tom Smith,0,0,0,0,0,1,1,0,0,2
+David Alan Christian,,0,0,0,0,0,0,0,0,2
+Marc A Scaringi,,,0,0,0,0,0,0,0,2
+Sam Rohrer,,,,0,0,0,0,0,0,2
+Steven D Welch,,,,,0,0,0,0,0,2
+Mitt Romney,,,,,,0,0,0,0,2
+Newt Gingrich,,,,,,,0,0,0,2
+Rick Santorum,,,,,,,,0,0,2
+Ron Paul,,,,,,,,,0,2
+Total,2,0,0,0,0,1,1,0,0,2
+,United States Senator - Republican,,,,,President Of The United States - Republican,,,,3
+,Steven D Welch,David Alan Christian,Marc A Scaringi,Sam Rohrer,Tom Smith,Mitt Romney,Newt Gingrich,Rick Santorum,Ron Paul,3
+Steven D Welch,1,0,0,0,0,0,0,0,0,3
+David Alan Christian,,0,0,0,0,0,0,0,0,3
+Marc A Scaringi,,,0,0,0,0,0,0,0,3
+Sam Rohrer,,,,0,0,0,0,0,0,3
+Tom Smith,,,,,0,0,0,0,0,3
+Mitt Romney,,,,,,0,0,0,0,3
+Newt Gingrich,,,,,,,0,0,0,3
+Rick Santorum,,,,,,,,0,0,3
+Ron Paul,,,,,,,,,0,3
+Total,1,0,0,0,0,0,0,0,0,3
+,United States Senator - Republican,,,,,President Of The United States - Republican,,,,4
+,David Alan Christian,Marc A Scaringi,Sam Rohrer,Steven D Welch,Tom Smith,Mitt Romney,Newt Gingrich,Rick Santorum,Ron Paul,4
+David Alan Christian,0,0,0,0,0,2,0,0,0,4
+Marc A Scaringi,,0,0,0,0,0,0,0,0,4
+Sam Rohrer,,,0,0,0,0,0,0,0,4
+Steven D Welch,,,,0,0,0,0,0,0,4
+Tom Smith,,,,,0,0,0,0,0,4
+Mitt Romney,,,,,,0,0,0,0,4
+Newt Gingrich,,,,,,,0,0,0,4
+Rick Santorum,,,,,,,,0,0,4
+Ron Paul,,,,,,,,,0,4
+Total,2,0,0,0,0,2,0,0,0,4
+,President Of The United States - Republican,,,,United States Senator - Republican,,,,,5
+,Mitt Romney,Newt Gingrich,Ron Paul,Rick Santorum,Sam Rohrer,Tom Smith,David Alan Christian,Steven D Welch,Marc A Scaringi,5
+Mitt Romney,0,0,0,0,1,1,1,1,0,5
+Newt Gingrich,,0,0,0,0,1,0,0,0,5
+Ron Paul,,,0,0,1,0,0,0,0,5
+Rick Santorum,,,,0,0,0,0,0,0,5
+Sam Rohrer,,,,,0,0,0,0,0,5
+Tom Smith,,,,,,0,0,0,0,5
+David Alan Christian,,,,,,,0,0,0,5
+Steven D Welch,,,,,,,,0,0,5
+Marc A Scaringi,,,,,,,,,0,5
+Total,4,1,1,0,2,2,1,1,0,5
+,United States Senator - Republican,,,,,President Of The United States - Republican,,,,6
+,David Alan Christian,Tom Smith,Marc A Scaringi,Sam Rohrer,Steven D Welch,Mitt Romney,Rick Santorum,Ron Paul,Newt Gingrich,6
+David Alan Christian,0,0,0,0,0,2,1,1,0,6
+Tom Smith,,0,0,0,0,2,1,0,0,6
+Marc A Scaringi,,,0,0,0,0,0,0,0,6
+Sam Rohrer,,,,0,0,0,0,0,0,6
+Steven D Welch,,,,,0,0,0,0,0,6
+Mitt Romney,,,,,,0,0,0,0,6
+Rick Santorum,,,,,,,0,0,0,6
+Ron Paul,,,,,,,,0,0,6
+Newt Gingrich,,,,,,,,,0,6
+Total,4,3,0,0,0,4,2,1,0,6
+,United States Senator - Republican,,,,,President Of The United States - Republican,,,,7
+,David Alan Christian,Tom Smith,Marc A Scaringi,Sam Rohrer,Steven D Welch,Mitt Romney,Newt Gingrich,Rick Santorum,Ron Paul,7
+David Alan Christian,0,0,0,0,0,0,1,0,0,7
+Tom Smith,,0,0,0,0,1,0,0,0,7
+Marc A Scaringi,,,0,0,0,0,0,0,0,7
+Sam Rohrer,,,,0,0,0,0,0,0,7
+Steven D Welch,,,,,0,0,0,0,0,7
+Mitt Romney,,,,,,0,0,0,0,7
+Newt Gingrich,,,,,,,0,0,0,7
+Rick Santorum,,,,,,,,0,0,7
+Ron Paul,,,,,,,,,0,7
+Total,1,1,0,0,0,1,1,0,0,7
+,President Of The United States - Republican,,,,United States Senator - Republican,,,,,8
+,Mitt Romney,Newt Gingrich,Rick Santorum,Ron Paul,Steven D Welch,David Alan Christian,Marc A Scaringi,Sam Rohrer,Tom Smith,8
+Mitt Romney,0,0,0,0,2,0,0,0,0,8
+Newt Gingrich,,0,0,0,0,1,0,0,0,8
+Rick Santorum,,,0,0,0,0,0,0,0,8
+Ron Paul,,,,0,0,0,0,0,0,8
+Steven D Welch,,,,,0,0,0,0,0,8
+David Alan Christian,,,,,,0,0,0,0,8
+Marc A Scaringi,,,,,,,0,0,0,8
+Sam Rohrer,,,,,,,,0,0,8
+Tom Smith,,,,,,,,,0,8
+Total,2,1,0,0,2,1,0,0,0,8
+,President Of The United States - Republican,,,,United States Senator - Republican,,,,,9
+,Mitt Romney,Rick Santorum,Newt Gingrich,Ron Paul,Tom Smith,Sam Rohrer,David Alan Christian,Marc A Scaringi,Steven D Welch,9
+Mitt Romney,2,0,0,0,5,1,0,1,1,9
+Rick Santorum,,0,0,0,2,1,1,0,0,9
+Newt Gingrich,,,0,0,0,0,0,0,0,9
+Ron Paul,,,,0,0,0,0,0,0,9
+Tom Smith,,,,,0,0,0,0,0,9
+Sam Rohrer,,,,,,0,0,0,0,9
+David Alan Christian,,,,,,,0,0,0,9
+Marc A Scaringi,,,,,,,,0,0,9
+Steven D Welch,,,,,,,,,0,9
+Total,10,4,0,0,7,2,1,1,1,9
+,President Of The United States - Republican,,,,United States Senator - Republican,,,,,10
+,Mitt Romney,Newt Gingrich,Rick Santorum,Ron Paul,David Alan Christian,Sam Rohrer,Tom Smith,Steven D Welch,Marc A Scaringi,10
+Mitt Romney,2,0,0,0,2,1,2,1,0,10
+Newt Gingrich,,1,0,0,0,0,0,0,0,10
+Rick Santorum,,,0,0,0,1,0,0,0,10
+Ron Paul,,,,0,0,0,0,0,0,10
+David Alan Christian,,,,,0,0,0,0,0,10
+Sam Rohrer,,,,,,0,0,0,0,10
+Tom Smith,,,,,,,0,0,0,10
+Steven D Welch,,,,,,,,0,0,10
+Marc A Scaringi,,,,,,,,,0,10
+Total,8,1,1,0,2,2,2,1,0,10
+,President Of The United States - Republican,,,,United States Senator - Republican,,,,,11
+,Mitt Romney,Rick Santorum,Newt Gingrich,Ron Paul,Steven D Welch,David Alan Christian,Marc A Scaringi,Sam Rohrer,Tom Smith,11
+Mitt Romney,1,0,0,0,0,0,0,0,0,11
+Rick Santorum,,0,0,0,1,0,0,0,0,11
+Newt Gingrich,,,0,0,0,0,0,0,0,11
+Ron Paul,,,,0,0,0,0,0,0,11
+Steven D Welch,,,,,0,0,0,0,0,11
+David Alan Christian,,,,,,0,0,0,0,11
+Marc A Scaringi,,,,,,,0,0,0,11
+Sam Rohrer,,,,,,,,0,0,11
+Tom Smith,,,,,,,,,0,11
+Total,1,1,0,0,1,0,0,0,0,11
+,President Of The United States - Republican,,,,United States Senator - Republican,,,,,12
+,Mitt Romney,Newt Gingrich,Rick Santorum,Ron Paul,Tom Smith,David Alan Christian,Marc A Scaringi,Sam Rohrer,Steven D Welch,12
+Mitt Romney,0,0,0,0,1,0,0,0,0,12
+Newt Gingrich,,0,0,0,0,0,0,0,0,12
+Rick Santorum,,,0,0,0,0,0,0,0,12
+Ron Paul,,,,0,0,0,0,0,0,12
+Tom Smith,,,,,0,0,0,0,0,12
+David Alan Christian,,,,,,0,0,0,0,12
+Marc A Scaringi,,,,,,,0,0,0,12
+Sam Rohrer,,,,,,,,0,0,12
+Steven D Welch,,,,,,,,,0,12
+Total,1,0,0,0,1,0,0,0,0,12
+,United States Senator - Republican,,,,,President Of The United States - Republican,,,,13
+,David Alan Christian,Steven D Welch,Marc A Scaringi,Sam Rohrer,Tom Smith,Mitt Romney,Newt Gingrich,Rick Santorum,Ron Paul,13
+David Alan Christian,0,0,0,0,0,0,1,0,0,13
+Steven D Welch,,0,0,0,0,1,0,0,0,13
+Marc A Scaringi,,,0,0,0,0,0,0,0,13
+Sam Rohrer,,,,0,0,0,0,0,0,13
+Tom Smith,,,,,0,0,0,0,0,13
+Mitt Romney,,,,,,0,0,0,0,13
+Newt Gingrich,,,,,,,0,0,0,13
+Rick Santorum,,,,,,,,0,0,13
+Ron Paul,,,,,,,,,0,13
+Total,1,1,0,0,0,1,1,0,0,13
+,President Of The United States - Republican,,,,United States Senator - Republican,,,,,14
+,Mitt Romney,Newt Gingrich,Rick Santorum,Ron Paul,Tom Smith,David Alan Christian,Marc A Scaringi,Sam Rohrer,Steven D Welch,14
+Mitt Romney,0,0,0,0,2,0,0,0,0,14
+Newt Gingrich,,0,0,0,0,0,0,0,0,14
+Rick Santorum,,,0,0,0,0,0,0,0,14
+Ron Paul,,,,0,0,0,0,0,0,14
+Tom Smith,,,,,0,0,0,0,0,14
+David Alan Christian,,,,,,0,0,0,0,14
+Marc A Scaringi,,,,,,,0,0,0,14
+Sam Rohrer,,,,,,,,0,0,14
+Steven D Welch,,,,,,,,,0,14
+Total,2,0,0,0,2,0,0,0,0,14
+,United States Senator - Republican,,,,,President Of The United States - Republican,,,,15
+,David Alan Christian,Steven D Welch,Tom Smith,Marc A Scaringi,Sam Rohrer,Ron Paul,Rick Santorum,Mitt Romney,Newt Gingrich,15
+David Alan Christian,0,0,0,0,0,1,0,1,1,15
+Steven D Welch,,0,0,0,0,0,2,0,0,15
+Tom Smith,,,0,0,0,2,0,0,0,15
+Marc A Scaringi,,,,0,0,0,0,0,0,15
+Sam Rohrer,,,,,0,0,0,0,0,15
+Ron Paul,,,,,,0,0,0,0,15
+Rick Santorum,,,,,,,0,0,0,15
+Mitt Romney,,,,,,,,0,0,15
+Newt Gingrich,,,,,,,,,0,15
+Total,3,2,2,0,0,3,2,1,1,15
+,United States Senator - Republican,,,,,President Of The United States - Republican,,,,16
+,Steven D Welch,David Alan Christian,Marc A Scaringi,Sam Rohrer,Tom Smith,Mitt Romney,Rick Santorum,Ron Paul,Newt Gingrich,16
+Steven D Welch,0,0,0,0,0,1,1,1,0,16
+David Alan Christian,,0,0,0,0,0,0,0,0,16
+Marc A Scaringi,,,0,0,0,0,0,0,0,16
+Sam Rohrer,,,,0,0,0,0,0,0,16
+Tom Smith,,,,,0,0,0,0,0,16
+Mitt Romney,,,,,,0,0,0,0,16
+Rick Santorum,,,,,,,0,0,0,16
+Ron Paul,,,,,,,,0,0,16
+Newt Gingrich,,,,,,,,,0,16
+Total,3,0,0,0,0,1,1,1,0,16
+,President Of The United States - Republican,,,,United States Senator - Republican,,,,,17
+,Mitt Romney,Newt Gingrich,Rick Santorum,Ron Paul,Tom Smith,David Alan Christian,Steven D Welch,Marc A Scaringi,Sam Rohrer,17
+Mitt Romney,0,0,0,0,1,0,1,0,0,17
+Newt Gingrich,,0,0,0,1,0,0,0,0,17
+Rick Santorum,,,0,0,0,1,0,0,0,17
+Ron Paul,,,,0,0,0,0,0,0,17
+Tom Smith,,,,,0,0,0,0,0,17
+David Alan Christian,,,,,,0,0,0,0,17
+Steven D Welch,,,,,,,0,0,0,17
+Marc A Scaringi,,,,,,,,0,0,17
+Sam Rohrer,,,,,,,,,0,17
+Total,2,1,1,0,2,1,1,0,0,17
+,United States Senator - Republican,,,,,President Of The United States - Republican,,,,18
+,Tom Smith,David Alan Christian,Marc A Scaringi,Steven D Welch,Sam Rohrer,Mitt Romney,Rick Santorum,Ron Paul,Newt Gingrich,18
+Tom Smith,0,0,0,0,0,3,2,1,0,18
+David Alan Christian,,0,0,0,0,1,1,0,0,18
+Marc A Scaringi,,,0,0,0,0,0,2,0,18
+Steven D Welch,,,,0,0,1,0,0,0,18
+Sam Rohrer,,,,,0,0,0,0,0,18
+Mitt Romney,,,,,,0,0,0,0,18
+Rick Santorum,,,,,,,0,0,0,18
+Ron Paul,,,,,,,,0,0,18
+Newt Gingrich,,,,,,,,,0,18
+Total,6,2,2,1,0,5,3,3,0,18
+,President Of The United States - Republican,,,,United States Senator - Republican,,,,,19
+,Mitt Romney,Newt Gingrich,Rick Santorum,Ron Paul,David Alan Christian,Sam Rohrer,Tom Smith,Marc A Scaringi,Steven D Welch,19
+Mitt Romney,0,0,0,0,1,1,1,0,0,19
+Newt Gingrich,,2,0,0,0,0,0,0,0,19
+Rick Santorum,,,0,0,0,0,0,0,0,19
+Ron Paul,,,,0,0,0,0,0,0,19
+David Alan Christian,,,,,0,0,0,0,0,19
+Sam Rohrer,,,,,,0,0,0,0,19
+Tom Smith,,,,,,,0,0,0,19
+Marc A Scaringi,,,,,,,,0,0,19
+Steven D Welch,,,,,,,,,0,19
+Total,3,2,0,0,1,1,1,0,0,19
+,President Of The United States - Republican,,,,United States Senator - Republican,,,,,20
+,Mitt Romney,Ron Paul,Rick Santorum,Newt Gingrich,Tom Smith,Sam Rohrer,David Alan Christian,Marc A Scaringi,Steven D Welch,20
+Mitt Romney,0,0,0,0,2,1,1,0,0,20
+Ron Paul,,1,0,0,0,1,0,0,0,20
+Rick Santorum,,,0,0,1,0,0,0,0,20
+Newt Gingrich,,,,0,0,0,0,0,0,20
+Tom Smith,,,,,0,0,0,0,0,20
+Sam Rohrer,,,,,,0,0,0,0,20
+David Alan Christian,,,,,,,0,0,0,20
+Marc A Scaringi,,,,,,,,0,0,20
+Steven D Welch,,,,,,,,,0,20
+Total,4,2,1,0,3,2,1,0,0,20
+,President Of The United States - Republican,,,,United States Senator - Republican,,,,,21
+,Mitt Romney,Rick Santorum,Newt Gingrich,Ron Paul,Tom Smith,David Alan Christian,Steven D Welch,Marc A Scaringi,Sam Rohrer,21
+Mitt Romney,0,0,0,0,3,2,1,0,0,21
+Rick Santorum,,0,0,0,1,0,0,0,0,21
+Newt Gingrich,,,0,0,0,0,0,0,0,21
+Ron Paul,,,,0,0,0,0,0,0,21
+Tom Smith,,,,,0,0,0,0,0,21
+David Alan Christian,,,,,,0,0,0,0,21
+Steven D Welch,,,,,,,0,0,0,21
+Marc A Scaringi,,,,,,,,0,0,21
+Sam Rohrer,,,,,,,,,0,21
+Total,6,1,0,0,4,2,1,0,0,21
+,United States Senator - Republican,,,,,President Of The United States - Republican,,,,22
+,Tom Smith,David Alan Christian,Sam Rohrer,Marc A Scaringi,Steven D Welch,Mitt Romney,Rick Santorum,Ron Paul,Newt Gingrich,22
+Tom Smith,1,0,0,0,0,1,2,0,0,22
+David Alan Christian,,0,0,0,0,1,0,1,0,22
+Sam Rohrer,,,0,0,0,1,0,0,0,22
+Marc A Scaringi,,,,0,0,0,0,0,0,22
+Steven D Welch,,,,,0,0,0,0,0,22
+Mitt Romney,,,,,,0,0,0,0,22
+Rick Santorum,,,,,,,0,0,0,22
+Ron Paul,,,,,,,,0,0,22
+Newt Gingrich,,,,,,,,,0,22
+Total,4,2,1,0,0,3,2,1,0,22

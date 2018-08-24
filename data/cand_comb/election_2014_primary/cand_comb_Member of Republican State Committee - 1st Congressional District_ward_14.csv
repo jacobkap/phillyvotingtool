@@ -1,0 +1,43 @@
+col_1,col_2,col_3,col_4,col_5,division
+,Member Of - Republican State Committee 1st Congressional District,,,,1
+,Jimmy Dintino,Monika A Czapla,Annie Havey,Christopher M Vogler,1
+Jimmy Dintino,1,1,1,1,1
+Monika A Czapla,,1,1,1,1
+Annie Havey,,,0,1,1
+Christopher M Vogler,,,,0,1
+Total,2,2,1,1,1
+,Member Of - Republican State Committee 1st Congressional District,,,,4
+,Annie Havey,Monika A Czapla,Christopher M Vogler,Jimmy Dintino,4
+Annie Havey,1,1,0,0,4
+Monika A Czapla,,0,0,0,4
+Christopher M Vogler,,,0,0,4
+Jimmy Dintino,,,,0,4
+Total,2,1,0,0,4
+,Member Of - Republican State Committee 1st Congressional District,,,,9
+,Annie Havey,Jimmy Dintino,Christopher M Vogler,Monika A Czapla,9
+Annie Havey,1,2,1,1,9
+Jimmy Dintino,,0,1,1,9
+Christopher M Vogler,,,0,1,9
+Monika A Czapla,,,,0,9
+Total,3,2,1,1,9
+,Member Of - Republican State Committee 1st Congressional District,,,,10
+,Annie Havey,Monika A Czapla,Christopher M Vogler,Jimmy Dintino,10
+Annie Havey,0,4,3,3,10
+Monika A Czapla,,0,3,3,10
+Christopher M Vogler,,,0,3,10
+Jimmy Dintino,,,,0,10
+Total,4,4,3,3,10
+,Member Of - Republican State Committee 1st Congressional District,,,,11
+,Monika A Czapla,Annie Havey,Christopher M Vogler,Jimmy Dintino,11
+Monika A Czapla,1,0,0,0,11
+Annie Havey,,0,0,0,11
+Christopher M Vogler,,,0,0,11
+Jimmy Dintino,,,,0,11
+Total,1,0,0,0,11
+,Member Of - Republican State Committee 1st Congressional District,,,,All
+,Annie Havey,Monika A Czapla,Jimmy Dintino,Christopher M Vogler,All
+Annie Havey,2,7,6,5,All
+Monika A Czapla,,2,5,5,All
+Jimmy Dintino,,,1,5,All
+Christopher M Vogler,,,,0,All
+Total,10,9,7,5,All

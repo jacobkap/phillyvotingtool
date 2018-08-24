@@ -1,12 +1,4 @@
 col_1,col_2,col_3,col_4,col_5,col_6,division
-,United States Senator - Republican,,Governor - Republican,,,All
-,Lou Barletta,Jim Christiana,Scott R Wagner,Paul Mango,Laura Ellsworth,All
-Lou Barletta,1,0,22,29,17,All
-Jim Christiana,,1,32,18,11,All
-Scott R Wagner,,,2,0,0,All
-Paul Mango,,,,8,0,All
-Laura Ellsworth,,,,,2,All
-Total,69,62,56,55,30,All
 ,United States Senator - Republican,,Governor - Republican,,,1
 ,Jim Christiana,Lou Barletta,Scott R Wagner,Laura Ellsworth,Paul Mango,1
 Jim Christiana,0,0,2,0,0,1
@@ -207,3 +199,11 @@ Paul Mango,,,1,0,0,26
 Jim Christiana,,,,0,0,26
 Lou Barletta,,,,,0,26
 Total,4,1,1,3,2,26
+,United States Senator - Republican,,Governor - Republican,,,All
+,Lou Barletta,Jim Christiana,Scott R Wagner,Paul Mango,Laura Ellsworth,All
+Lou Barletta,1,0,22,29,17,All
+Jim Christiana,,1,32,18,11,All
+Scott R Wagner,,,2,0,0,All
+Paul Mango,,,,8,0,All
+Laura Ellsworth,,,,,2,All
+Total,69,62,56,55,30,All

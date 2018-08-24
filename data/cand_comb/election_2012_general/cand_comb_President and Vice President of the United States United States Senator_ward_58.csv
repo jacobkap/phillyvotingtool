@@ -1,0 +1,451 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,division
+,United States Senator,,,President And Vice President Of The United States,,,,All
+,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,All
+Bob Casey Jr,71,0,0,"9,669","1,276",32,34,All
+Tom Smith,,63,0,388,"7,010",22,9,All
+Rayburn Douglas Smith,,,3,45,22,41,5,All
+Barack Obama,,,,491,0,0,0,All
+Mitt Romney,,,,,512,0,0,All
+Gary Johnson,,,,,,1,0,All
+Jill Stein,,,,,,,8,All
+Total,"11,082","7,492",116,"10,593","8,820",96,56,All
+,President And Vice President Of The United States,,,,United States Senator,,,1
+,Barack Obama,Mitt Romney,Jill Stein,Gary Johnson,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,1
+Barack Obama,7,0,0,0,196,6,0,1
+Mitt Romney,,5,0,0,7,66,1,1
+Jill Stein,,,1,0,0,0,0,1
+Gary Johnson,,,,0,0,0,0,1
+Bob Casey Jr,,,,,1,0,0,1
+Tom Smith,,,,,,1,0,1
+Rayburn Douglas Smith,,,,,,,0,1
+Total,209,79,1,0,204,73,1,1
+,President And Vice President Of The United States,,,,United States Senator,,,2
+,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,2
+Barack Obama,13,0,0,0,172,6,0,2
+Mitt Romney,,3,0,0,6,36,0,2
+Gary Johnson,,,0,0,0,0,0,2
+Jill Stein,,,,0,0,0,0,2
+Bob Casey Jr,,,,,3,0,0,2
+Tom Smith,,,,,,0,0,2
+Rayburn Douglas Smith,,,,,,,0,2
+Total,191,45,0,0,181,42,0,2
+,United States Senator,,,President And Vice President Of The United States,,,,3
+,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,3
+Bob Casey Jr,3,0,0,361,23,0,0,3
+Tom Smith,,5,0,13,178,2,1,3
+Rayburn Douglas Smith,,,0,0,1,1,0,3
+Barack Obama,,,,10,0,0,0,3
+Mitt Romney,,,,,11,0,0,3
+Gary Johnson,,,,,,0,0,3
+Jill Stein,,,,,,,0,3
+Total,387,199,2,384,213,3,1,3
+,President And Vice President Of The United States,,,,United States Senator,,,4
+,Mitt Romney,Barack Obama,Gary Johnson,Jill Stein,Tom Smith,Bob Casey Jr,Rayburn Douglas Smith,4
+Mitt Romney,8,0,0,0,266,44,1,4
+Barack Obama,,10,0,0,16,171,1,4
+Gary Johnson,,,0,0,1,0,0,4
+Jill Stein,,,,0,1,0,0,4
+Tom Smith,,,,,1,0,0,4
+Bob Casey Jr,,,,,,1,0,4
+Rayburn Douglas Smith,,,,,,,1,4
+Total,319,198,1,1,285,216,3,4
+,United States Senator,,,President And Vice President Of The United States,,,,5
+,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,5
+Bob Casey Jr,3,0,0,357,34,2,1,5
+Tom Smith,,1,0,15,236,1,1,5
+Rayburn Douglas Smith,,,0,2,1,8,0,5
+Barack Obama,,,,10,0,0,0,5
+Mitt Romney,,,,,18,0,0,5
+Gary Johnson,,,,,,0,0,5
+Jill Stein,,,,,,,0,5
+Total,397,254,11,384,289,11,2,5
+,United States Senator,,,President And Vice President Of The United States,,,,6
+,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,Barack Obama,Mitt Romney,Jill Stein,Gary Johnson,6
+Bob Casey Jr,1,0,0,193,30,3,0,6
+Tom Smith,,1,0,9,151,0,0,6
+Rayburn Douglas Smith,,,0,0,0,0,0,6
+Barack Obama,,,,4,0,0,0,6
+Mitt Romney,,,,,7,0,0,6
+Jill Stein,,,,,,0,0,6
+Gary Johnson,,,,,,,0,6
+Total,227,161,0,206,188,3,0,6
+,United States Senator,,,President And Vice President Of The United States,,,,7
+,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,Barack Obama,Mitt Romney,Jill Stein,Gary Johnson,7
+Bob Casey Jr,2,0,0,155,19,1,0,7
+Tom Smith,,0,0,12,136,0,0,7
+Rayburn Douglas Smith,,,0,2,0,0,0,7
+Barack Obama,,,,6,0,0,0,7
+Mitt Romney,,,,,8,0,0,7
+Jill Stein,,,,,,0,0,7
+Gary Johnson,,,,,,,0,7
+Total,177,148,2,175,163,1,0,7
+,President And Vice President Of The United States,,,,United States Senator,,,8
+,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,8
+Barack Obama,27,0,0,0,298,15,0,8
+Mitt Romney,,21,0,0,20,140,1,8
+Gary Johnson,,,0,0,2,1,1,8
+Jill Stein,,,,0,0,1,0,8
+Bob Casey Jr,,,,,2,0,0,8
+Tom Smith,,,,,,1,0,8
+Rayburn Douglas Smith,,,,,,,0,8
+Total,340,182,4,1,322,158,2,8
+,United States Senator,,,President And Vice President Of The United States,,,,9
+,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,Mitt Romney,Barack Obama,Gary Johnson,Jill Stein,9
+Bob Casey Jr,4,0,0,57,284,2,2,9
+Tom Smith,,2,0,256,26,0,0,9
+Rayburn Douglas Smith,,,0,0,0,0,0,9
+Mitt Romney,,,,9,0,0,0,9
+Barack Obama,,,,,11,0,0,9
+Gary Johnson,,,,,,0,0,9
+Jill Stein,,,,,,,0,9
+Total,349,284,0,322,321,2,2,9
+,United States Senator,,,President And Vice President Of The United States,,,,10
+,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,10
+Bob Casey Jr,2,0,0,214,36,0,2,10
+Tom Smith,,0,0,9,159,0,0,10
+Rayburn Douglas Smith,,,0,0,0,2,0,10
+Barack Obama,,,,18,0,0,0,10
+Mitt Romney,,,,,16,0,0,10
+Gary Johnson,,,,,,0,0,10
+Jill Stein,,,,,,,0,10
+Total,254,168,2,241,211,2,2,10
+,United States Senator,,,President And Vice President Of The United States,,,,11
+,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,11
+Bob Casey Jr,1,0,0,175,28,1,0,11
+Tom Smith,,2,0,5,134,0,0,11
+Rayburn Douglas Smith,,,0,2,1,1,0,11
+Barack Obama,,,,11,0,0,0,11
+Mitt Romney,,,,,22,0,0,11
+Gary Johnson,,,,,,0,0,11
+Jill Stein,,,,,,,0,11
+Total,205,141,4,193,185,2,0,11
+,United States Senator,,,President And Vice President Of The United States,,,,12
+,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,12
+Bob Casey Jr,0,0,0,185,27,1,3,12
+Tom Smith,,0,0,6,131,0,0,12
+Rayburn Douglas Smith,,,0,0,0,2,0,12
+Barack Obama,,,,7,0,0,0,12
+Mitt Romney,,,,,13,0,0,12
+Gary Johnson,,,,,,0,0,12
+Jill Stein,,,,,,,0,12
+Total,216,137,2,198,171,3,3,12
+,United States Senator,,,President And Vice President Of The United States,,,,13
+,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,13
+Bob Casey Jr,2,0,0,200,30,0,1,13
+Tom Smith,,1,0,7,160,0,0,13
+Rayburn Douglas Smith,,,0,0,0,2,0,13
+Barack Obama,,,,8,0,0,0,13
+Mitt Romney,,,,,8,0,0,13
+Gary Johnson,,,,,,0,0,13
+Jill Stein,,,,,,,1,13
+Total,233,168,2,215,198,2,2,13
+,United States Senator,,,President And Vice President Of The United States,,,,14
+,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,14
+Bob Casey Jr,1,0,0,161,23,1,0,14
+Tom Smith,,0,0,2,111,0,1,14
+Rayburn Douglas Smith,,,0,2,1,0,0,14
+Barack Obama,,,,7,0,0,0,14
+Mitt Romney,,,,,8,0,0,14
+Gary Johnson,,,,,,0,0,14
+Jill Stein,,,,,,,0,14
+Total,186,114,3,172,143,1,1,14
+,President And Vice President Of The United States,,,,United States Senator,,,15
+,Barack Obama,Mitt Romney,Jill Stein,Gary Johnson,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,15
+Barack Obama,11,0,0,0,173,3,0,15
+Mitt Romney,,3,0,0,9,39,0,15
+Jill Stein,,,1,0,0,0,0,15
+Gary Johnson,,,,0,0,0,0,15
+Bob Casey Jr,,,,,0,0,0,15
+Tom Smith,,,,,,0,0,15
+Rayburn Douglas Smith,,,,,,,0,15
+Total,187,51,1,0,182,42,0,15
+,President And Vice President Of The United States,,,,United States Senator,,,16
+,Mitt Romney,Barack Obama,Gary Johnson,Jill Stein,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,16
+Mitt Romney,13,0,0,0,35,190,1,16
+Barack Obama,,10,0,0,164,9,1,16
+Gary Johnson,,,0,0,1,0,0,16
+Jill Stein,,,,0,0,0,0,16
+Bob Casey Jr,,,,,2,0,0,16
+Tom Smith,,,,,,0,0,16
+Rayburn Douglas Smith,,,,,,,0,16
+Total,239,184,1,0,202,199,2,16
+,United States Senator,,,President And Vice President Of The United States,,,,17
+,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,17
+Bob Casey Jr,2,0,0,336,62,2,2,17
+Tom Smith,,4,0,14,266,2,0,17
+Rayburn Douglas Smith,,,0,2,0,0,0,17
+Barack Obama,,,,8,0,0,0,17
+Mitt Romney,,,,,8,0,0,17
+Gary Johnson,,,,,,0,0,17
+Jill Stein,,,,,,,1,17
+Total,404,286,2,360,336,4,3,17
+,President And Vice President Of The United States,,,,United States Senator,,,18
+,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,18
+Barack Obama,19,0,0,0,270,14,0,18
+Mitt Romney,,1,0,0,19,99,0,18
+Gary Johnson,,,0,0,1,0,1,18
+Jill Stein,,,,0,1,0,0,18
+Bob Casey Jr,,,,,0,0,0,18
+Tom Smith,,,,,,1,0,18
+Rayburn Douglas Smith,,,,,,,0,18
+Total,303,119,2,1,291,114,1,18
+,United States Senator,,,President And Vice President Of The United States,,,,19
+,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,19
+Bob Casey Jr,2,0,0,263,58,1,0,19
+Tom Smith,,1,0,9,209,1,0,19
+Rayburn Douglas Smith,,,0,1,1,2,0,19
+Barack Obama,,,,16,0,0,0,19
+Mitt Romney,,,,,17,0,0,19
+Gary Johnson,,,,,,0,0,19
+Jill Stein,,,,,,,0,19
+Total,324,220,4,289,285,4,0,19
+,United States Senator,,,President And Vice President Of The United States,,,,20
+,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,20
+Bob Casey Jr,1,0,0,222,18,0,0,20
+Tom Smith,,1,0,5,112,1,1,20
+Rayburn Douglas Smith,,,0,1,0,1,0,20
+Barack Obama,,,,8,0,0,0,20
+Mitt Romney,,,,,6,0,0,20
+Gary Johnson,,,,,,0,0,20
+Jill Stein,,,,,,,0,20
+Total,241,120,2,236,136,2,1,20
+,President And Vice President Of The United States,,,,United States Senator,,,21
+,Mitt Romney,Barack Obama,Gary Johnson,Jill Stein,Tom Smith,Bob Casey Jr,Rayburn Douglas Smith,21
+Mitt Romney,9,0,0,0,224,42,0,21
+Barack Obama,,2,0,0,13,190,1,21
+Gary Johnson,,,0,0,0,3,2,21
+Jill Stein,,,,0,2,0,1,21
+Tom Smith,,,,,3,0,0,21
+Bob Casey Jr,,,,,,3,0,21
+Rayburn Douglas Smith,,,,,,,0,21
+Total,275,206,5,3,242,238,4,21
+,United States Senator,,,President And Vice President Of The United States,,,,22
+,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,22
+Bob Casey Jr,3,0,0,184,30,1,1,22
+Tom Smith,,2,0,6,141,0,0,22
+Rayburn Douglas Smith,,,0,0,0,1,0,22
+Barack Obama,,,,8,0,0,0,22
+Mitt Romney,,,,,9,0,0,22
+Gary Johnson,,,,,,0,0,22
+Jill Stein,,,,,,,0,22
+Total,219,149,1,198,180,2,1,22
+,United States Senator,,,President And Vice President Of The United States,,,,23
+,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,23
+Bob Casey Jr,0,0,0,370,49,0,1,23
+Tom Smith,,0,0,6,235,2,0,23
+Rayburn Douglas Smith,,,0,3,0,0,0,23
+Barack Obama,,,,20,0,0,0,23
+Mitt Romney,,,,,22,0,0,23
+Gary Johnson,,,,,,0,0,23
+Jill Stein,,,,,,,0,23
+Total,420,243,3,399,306,2,1,23
+,United States Senator,,,President And Vice President Of The United States,,,,24
+,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,Barack Obama,Mitt Romney,Jill Stein,Gary Johnson,24
+Bob Casey Jr,0,0,0,205,31,1,0,24
+Tom Smith,,2,0,9,139,0,1,24
+Rayburn Douglas Smith,,,0,2,0,1,0,24
+Barack Obama,,,,11,0,0,0,24
+Mitt Romney,,,,,7,0,0,24
+Jill Stein,,,,,,1,0,24
+Gary Johnson,,,,,,,0,24
+Total,237,151,3,227,177,3,1,24
+,United States Senator,,,President And Vice President Of The United States,,,,25
+,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,Barack Obama,Mitt Romney,Jill Stein,Gary Johnson,25
+Bob Casey Jr,0,0,0,212,25,1,1,25
+Tom Smith,,2,0,14,123,0,0,25
+Rayburn Douglas Smith,,,0,0,3,1,0,25
+Barack Obama,,,,5,0,0,0,25
+Mitt Romney,,,,,8,0,0,25
+Jill Stein,,,,,,0,0,25
+Gary Johnson,,,,,,,0,25
+Total,239,139,4,231,159,2,1,25
+,United States Senator,,,President And Vice President Of The United States,,,,26
+,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,26
+Bob Casey Jr,2,0,0,211,43,1,0,26
+Tom Smith,,2,0,10,158,0,1,26
+Rayburn Douglas Smith,,,0,3,0,2,0,26
+Barack Obama,,,,11,0,0,0,26
+Mitt Romney,,,,,15,0,0,26
+Gary Johnson,,,,,,1,0,26
+Jill Stein,,,,,,,1,26
+Total,257,171,5,235,216,4,2,26
+,United States Senator,,,President And Vice President Of The United States,,,,27
+,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,27
+Bob Casey Jr,2,0,0,212,23,2,1,27
+Tom Smith,,0,0,6,161,1,0,27
+Rayburn Douglas Smith,,,1,0,0,1,1,27
+Barack Obama,,,,13,0,0,0,27
+Mitt Romney,,,,,13,0,0,27
+Gary Johnson,,,,,,0,0,27
+Jill Stein,,,,,,,1,27
+Total,240,168,3,231,197,4,3,27
+,United States Senator,,,President And Vice President Of The United States,,,,28
+,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,28
+Bob Casey Jr,1,0,0,162,28,0,0,28
+Tom Smith,,2,0,4,138,0,0,28
+Rayburn Douglas Smith,,,0,2,0,0,0,28
+Barack Obama,,,,12,0,0,0,28
+Mitt Romney,,,,,8,0,0,28
+Gary Johnson,,,,,,0,0,28
+Jill Stein,,,,,,,0,28
+Total,191,144,2,180,174,0,0,28
+,United States Senator,,,President And Vice President Of The United States,,,,29
+,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,29
+Bob Casey Jr,0,0,0,290,49,1,2,29
+Tom Smith,,1,0,19,220,2,0,29
+Rayburn Douglas Smith,,,0,3,1,4,0,29
+Barack Obama,,,,11,0,0,0,29
+Mitt Romney,,,,,11,0,0,29
+Gary Johnson,,,,,,0,0,29
+Jill Stein,,,,,,,0,29
+Total,342,242,8,323,281,7,2,29
+,United States Senator,,,President And Vice President Of The United States,,,,30
+,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,30
+Bob Casey Jr,1,0,0,203,21,0,0,30
+Tom Smith,,1,0,5,115,1,0,30
+Rayburn Douglas Smith,,,0,3,0,2,0,30
+Barack Obama,,,,8,0,0,0,30
+Mitt Romney,,,,,8,0,0,30
+Gary Johnson,,,,,,0,0,30
+Jill Stein,,,,,,,0,30
+Total,225,122,5,219,144,3,0,30
+,President And Vice President Of The United States,,,,United States Senator,,,31
+,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,31
+Barack Obama,30,0,0,0,321,9,2,31
+Mitt Romney,,12,0,0,18,161,0,31
+Gary Johnson,,,0,0,0,1,0,31
+Jill Stein,,,,0,0,0,0,31
+Bob Casey Jr,,,,,2,0,0,31
+Tom Smith,,,,,,1,0,31
+Rayburn Douglas Smith,,,,,,,0,31
+Total,362,191,1,0,341,172,2,31
+,United States Senator,,,President And Vice President Of The United States,,,,32
+,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,32
+Bob Casey Jr,0,0,0,137,12,0,1,32
+Tom Smith,,1,0,5,69,1,0,32
+Rayburn Douglas Smith,,,0,0,1,1,0,32
+Barack Obama,,,,4,0,0,0,32
+Mitt Romney,,,,,10,0,0,32
+Gary Johnson,,,,,,0,0,32
+Jill Stein,,,,,,,1,32
+Total,150,76,2,146,92,2,2,32
+,United States Senator,,,President And Vice President Of The United States,,,,33
+,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,33
+Bob Casey Jr,1,0,0,169,12,0,0,33
+Tom Smith,,3,0,3,125,1,0,33
+Rayburn Douglas Smith,,,0,0,2,0,0,33
+Barack Obama,,,,5,0,0,0,33
+Mitt Romney,,,,,9,0,0,33
+Gary Johnson,,,,,,0,0,33
+Jill Stein,,,,,,,0,33
+Total,182,132,2,177,148,1,0,33
+,United States Senator,,,President And Vice President Of The United States,,,,34
+,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,Barack Obama,Mitt Romney,Jill Stein,Gary Johnson,34
+Bob Casey Jr,2,0,0,319,42,2,0,34
+Tom Smith,,0,0,15,259,0,0,34
+Rayburn Douglas Smith,,,0,4,0,1,0,34
+Barack Obama,,,,21,0,0,0,34
+Mitt Romney,,,,,22,0,0,34
+Jill Stein,,,,,,0,0,34
+Gary Johnson,,,,,,,0,34
+Total,365,274,5,359,323,3,0,34
+,President And Vice President Of The United States,,,,United States Senator,,,35
+,Mitt Romney,Barack Obama,Gary Johnson,Jill Stein,Tom Smith,Bob Casey Jr,Rayburn Douglas Smith,35
+Mitt Romney,33,0,0,0,307,30,2,35
+Barack Obama,,25,0,0,3,265,0,35
+Gary Johnson,,,0,0,1,1,3,35
+Jill Stein,,,,0,0,1,0,35
+Tom Smith,,,,,7,0,0,35
+Bob Casey Jr,,,,,,7,0,35
+Rayburn Douglas Smith,,,,,,,0,35
+Total,372,293,5,1,318,304,5,35
+,President And Vice President Of The United States,,,,United States Senator,,,36
+,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,36
+Barack Obama,15,0,0,0,134,2,0,36
+Mitt Romney,,11,0,0,9,46,0,36
+Gary Johnson,,,0,0,1,0,0,36
+Jill Stein,,,,0,0,0,0,36
+Bob Casey Jr,,,,,2,0,0,36
+Tom Smith,,,,,,4,0,36
+Rayburn Douglas Smith,,,,,,,0,36
+Total,151,66,1,0,146,52,0,36
+,United States Senator,,,President And Vice President Of The United States,,,,37
+,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,Barack Obama,Mitt Romney,Jill Stein,Gary Johnson,37
+Bob Casey Jr,2,0,0,219,33,4,1,37
+Tom Smith,,0,0,10,163,0,0,37
+Rayburn Douglas Smith,,,0,1,0,0,0,37
+Barack Obama,,,,8,0,0,0,37
+Mitt Romney,,,,,10,0,0,37
+Jill Stein,,,,,,0,0,37
+Gary Johnson,,,,,,,0,37
+Total,259,173,1,238,206,4,1,37
+,President And Vice President Of The United States,,,,United States Senator,,,38
+,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,38
+Barack Obama,10,0,0,0,153,7,1,38
+Mitt Romney,,7,0,0,15,91,1,38
+Gary Johnson,,,0,0,0,0,1,38
+Jill Stein,,,,0,1,0,0,38
+Bob Casey Jr,,,,,1,0,0,38
+Tom Smith,,,,,,3,0,38
+Rayburn Douglas Smith,,,,,,,0,38
+Total,171,114,1,1,170,101,3,38
+,President And Vice President Of The United States,,,,United States Senator,,,39
+,Mitt Romney,Barack Obama,Gary Johnson,Jill Stein,Tom Smith,Bob Casey Jr,Rayburn Douglas Smith,39
+Mitt Romney,21,0,0,0,209,46,0,39
+Barack Obama,,4,0,0,6,157,0,39
+Gary Johnson,,,0,0,0,1,1,39
+Jill Stein,,,,0,0,1,0,39
+Tom Smith,,,,,1,0,0,39
+Bob Casey Jr,,,,,,1,0,39
+Rayburn Douglas Smith,,,,,,,1,39
+Total,276,167,2,1,216,206,2,39
+,United States Senator,,,President And Vice President Of The United States,,,,40
+,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,40
+Bob Casey Jr,0,0,0,159,16,1,0,40
+Tom Smith,,2,0,6,134,0,0,40
+Rayburn Douglas Smith,,,0,0,1,1,0,40
+Barack Obama,,,,2,0,0,0,40
+Mitt Romney,,,,,9,0,0,40
+Gary Johnson,,,,,,0,0,40
+Jill Stein,,,,,,,0,40
+Total,176,142,2,167,160,2,0,40
+,President And Vice President Of The United States,,,,United States Senator,,,41
+,Mitt Romney,Barack Obama,Gary Johnson,Jill Stein,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,41
+Mitt Romney,18,0,0,0,59,293,0,41
+Barack Obama,,12,0,0,246,10,1,41
+Gary Johnson,,,0,0,2,0,0,41
+Jill Stein,,,,0,0,0,0,41
+Bob Casey Jr,,,,,3,0,0,41
+Tom Smith,,,,,,1,0,41
+Rayburn Douglas Smith,,,,,,,0,41
+Total,370,269,2,0,310,304,1,41
+,President And Vice President Of The United States,,,,United States Senator,,,42
+,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,42
+Barack Obama,14,0,0,0,163,5,2,42
+Mitt Romney,,16,0,0,18,124,0,42
+Gary Johnson,,,0,0,1,0,1,42
+Jill Stein,,,,0,0,0,0,42
+Bob Casey Jr,,,,,2,0,0,42
+Tom Smith,,,,,,2,0,42
+Rayburn Douglas Smith,,,,,,,0,42
+Total,184,158,2,0,184,131,3,42
+,United States Senator,,,President And Vice President Of The United States,,,,43
+,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,43
+Bob Casey Jr,1,0,0,158,28,1,1,43
+Tom Smith,,0,0,11,113,2,0,43
+Rayburn Douglas Smith,,,0,3,2,0,0,43
+Barack Obama,,,,8,0,0,0,43
+Mitt Romney,,,,,6,0,0,43
+Gary Johnson,,,,,,0,0,43
+Jill Stein,,,,,,,0,43
+Total,189,126,5,180,149,3,1,43
+,President And Vice President Of The United States,,,,United States Senator,,,44
+,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,44
+Barack Obama,11,0,0,0,280,3,0,44
+Mitt Romney,,13,0,0,12,187,0,44
+Gary Johnson,,,0,0,0,0,0,44
+Jill Stein,,,,0,0,0,0,44
+Bob Casey Jr,,,,,2,0,0,44
+Tom Smith,,,,,,1,0,44
+Rayburn Douglas Smith,,,,,,,0,44
+Total,294,212,0,0,294,191,0,44
