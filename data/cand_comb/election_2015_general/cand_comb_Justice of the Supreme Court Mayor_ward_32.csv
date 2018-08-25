@@ -1,0 +1,481 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10,col_11,col_12,col_13,division
+,Justice Of The Supreme Court,,,,,,,Mayor,,,,,1
+,Kevin M Dougherty,Christine Donohue,David Wecht,Paul P Panepinto,Judy Olson,Anne Covey,Mike George,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,1
+Kevin M Dougherty,4,36,32,3,1,0,0,42,1,0,0,0,1
+Christine Donohue,,0,33,3,1,0,0,33,0,0,0,0,1
+David Wecht,,,0,0,0,0,0,30,0,0,0,0,1
+Paul P Panepinto,,,,0,0,0,0,2,0,0,0,0,1
+Judy Olson,,,,,1,0,0,0,0,0,0,0,1
+Anne Covey,,,,,,0,0,0,0,0,0,0,1
+Mike George,,,,,,,0,0,0,0,0,0,1
+Jim Kenney,,,,,,,,2,0,0,0,0,1
+Melissa Murray Bailey,,,,,,,,,0,0,0,0,1
+Boris Kindij,,,,,,,,,,0,0,0,1
+James Foster,,,,,,,,,,,0,0,1
+Osborne Hart,,,,,,,,,,,,0,1
+Total,51,38,33,3,2,0,0,45,1,0,0,0,1
+,Justice Of The Supreme Court,,,,,,,Mayor,,,,,2
+,Kevin M Dougherty,David Wecht,Christine Donohue,Anne Covey,Judy Olson,Mike George,Paul P Panepinto,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,2
+Kevin M Dougherty,7,53,52,0,0,0,0,59,1,0,0,0,2
+David Wecht,,1,52,0,0,0,0,54,1,0,0,0,2
+Christine Donohue,,,1,0,0,0,0,52,1,0,0,0,2
+Anne Covey,,,,0,1,1,0,0,1,0,0,0,2
+Judy Olson,,,,,0,1,0,0,1,0,0,0,2
+Mike George,,,,,,0,0,0,1,0,0,0,2
+Paul P Panepinto,,,,,,,0,0,0,0,0,0,2
+Jim Kenney,,,,,,,,2,0,0,0,0,2
+Melissa Murray Bailey,,,,,,,,,0,0,0,0,2
+Boris Kindij,,,,,,,,,,0,0,0,2
+James Foster,,,,,,,,,,,0,0,2
+Osborne Hart,,,,,,,,,,,,0,2
+Total,69,58,56,1,1,1,0,66,2,0,0,0,2
+,Mayor,,,,,Justice Of The Supreme Court,,,,,,,3
+,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Kevin M Dougherty,David Wecht,Christine Donohue,Judy Olson,Anne Covey,Mike George,Paul P Panepinto,3
+Jim Kenney,2,0,0,0,0,71,66,67,2,0,0,0,3
+Melissa Murray Bailey,,0,0,0,0,1,1,1,1,1,1,0,3
+Boris Kindij,,,0,0,0,0,0,0,0,0,0,0,3
+James Foster,,,,0,0,0,0,0,0,0,0,0,3
+Osborne Hart,,,,,0,0,0,0,0,0,0,0,3
+Kevin M Dougherty,,,,,,3,67,65,1,0,0,0,3
+David Wecht,,,,,,,2,62,0,0,0,0,3
+Christine Donohue,,,,,,,,0,1,0,0,0,3
+Judy Olson,,,,,,,,,0,1,1,0,3
+Anne Covey,,,,,,,,,,1,1,0,3
+Mike George,,,,,,,,,,,0,0,3
+Paul P Panepinto,,,,,,,,,,,,0,3
+Total,84,3,0,0,0,80,73,72,3,2,1,0,3
+,Mayor,,,,,Justice Of The Supreme Court,,,,,,,4
+,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Kevin M Dougherty,Christine Donohue,David Wecht,Anne Covey,Judy Olson,Mike George,Paul P Panepinto,4
+Jim Kenney,6,0,0,0,0,80,61,63,1,1,2,0,4
+Melissa Murray Bailey,,0,0,0,0,2,2,1,2,1,0,0,4
+Boris Kindij,,,0,0,0,0,0,0,0,0,0,0,4
+James Foster,,,,0,0,0,0,0,0,0,0,0,4
+Osborne Hart,,,,,0,0,0,0,0,0,0,0,4
+Kevin M Dougherty,,,,,,7,62,61,0,0,1,0,4
+Christine Donohue,,,,,,,2,60,0,0,1,0,4
+David Wecht,,,,,,,,1,0,0,0,0,4
+Anne Covey,,,,,,,,,0,2,1,0,4
+Judy Olson,,,,,,,,,,0,1,0,4
+Mike George,,,,,,,,,,,0,0,4
+Paul P Panepinto,,,,,,,,,,,,0,4
+Total,91,4,0,0,0,90,66,65,3,2,2,0,4
+,Mayor,,,,,Justice Of The Supreme Court,,,,,,,5
+,Jim Kenney,Osborne Hart,Boris Kindij,James Foster,Melissa Murray Bailey,Christine Donohue,David Wecht,Kevin M Dougherty,Judy Olson,Anne Covey,Mike George,Paul P Panepinto,5
+Jim Kenney,1,0,0,0,0,17,17,17,1,0,0,0,5
+Osborne Hart,,0,0,0,0,1,0,0,1,0,0,0,5
+Boris Kindij,,,0,0,0,0,0,0,0,0,0,0,5
+James Foster,,,,0,0,0,0,0,0,0,0,0,5
+Melissa Murray Bailey,,,,,0,0,0,0,0,0,0,0,5
+Christine Donohue,,,,,,0,16,16,2,0,0,0,5
+David Wecht,,,,,,,0,15,1,0,0,0,5
+Kevin M Dougherty,,,,,,,,0,0,0,0,0,5
+Judy Olson,,,,,,,,,0,0,0,0,5
+Anne Covey,,,,,,,,,,0,0,0,5
+Mike George,,,,,,,,,,,0,0,5
+Paul P Panepinto,,,,,,,,,,,,0,5
+Total,20,1,0,0,0,18,17,17,2,0,0,0,5
+,Mayor,,,,,Justice Of The Supreme Court,,,,,,,6
+,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Kevin M Dougherty,David Wecht,Christine Donohue,Anne Covey,Judy Olson,Paul P Panepinto,Mike George,6
+Jim Kenney,3,0,0,0,0,43,37,38,0,0,1,0,6
+Melissa Murray Bailey,,1,0,0,0,2,2,2,0,0,0,0,6
+Boris Kindij,,,0,0,0,1,1,1,0,0,0,0,6
+James Foster,,,,0,0,1,1,1,0,0,0,0,6
+Osborne Hart,,,,,0,0,0,0,0,0,0,0,6
+Kevin M Dougherty,,,,,,2,39,36,1,0,1,0,6
+David Wecht,,,,,,,2,39,2,1,1,0,6
+Christine Donohue,,,,,,,,0,0,0,0,0,6
+Anne Covey,,,,,,,,,0,1,0,0,6
+Judy Olson,,,,,,,,,,0,0,0,6
+Paul P Panepinto,,,,,,,,,,,0,0,6
+Mike George,,,,,,,,,,,,0,6
+Total,53,3,1,1,0,52,47,42,2,1,1,0,6
+,Justice Of The Supreme Court,,,,,,,Mayor,,,,,7
+,Kevin M Dougherty,Christine Donohue,David Wecht,Judy Olson,Paul P Panepinto,Anne Covey,Mike George,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,7
+Kevin M Dougherty,2,38,37,0,1,0,0,44,1,3,0,0,7
+Christine Donohue,,1,38,1,1,0,0,35,2,3,0,0,7
+David Wecht,,,2,1,1,1,0,35,0,3,0,0,7
+Judy Olson,,,,0,0,0,1,1,1,0,0,0,7
+Paul P Panepinto,,,,,0,1,0,1,1,0,0,0,7
+Anne Covey,,,,,,0,0,1,0,0,0,0,7
+Mike George,,,,,,,0,0,1,0,0,0,7
+Jim Kenney,,,,,,,,2,0,0,0,0,7
+Melissa Murray Bailey,,,,,,,,,1,0,0,0,7
+James Foster,,,,,,,,,,0,0,0,7
+Boris Kindij,,,,,,,,,,,0,0,7
+Osborne Hart,,,,,,,,,,,,0,7
+Total,52,43,42,2,2,1,1,50,4,3,0,0,7
+,Justice Of The Supreme Court,,,,,,,Mayor,,,,,8
+,Kevin M Dougherty,Christine Donohue,David Wecht,Judy Olson,Mike George,Anne Covey,Paul P Panepinto,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,8
+Kevin M Dougherty,3,24,23,2,1,0,0,28,1,0,0,0,8
+Christine Donohue,,0,23,1,0,0,0,26,0,0,0,0,8
+David Wecht,,,0,2,0,0,0,22,0,0,0,0,8
+Judy Olson,,,,0,2,1,0,1,2,0,0,0,8
+Mike George,,,,,0,1,0,0,2,0,0,0,8
+Anne Covey,,,,,,0,0,0,1,0,0,0,8
+Paul P Panepinto,,,,,,,0,0,0,0,0,0,8
+Jim Kenney,,,,,,,,1,0,0,0,0,8
+Melissa Murray Bailey,,,,,,,,,0,0,0,0,8
+Boris Kindij,,,,,,,,,,0,0,0,8
+James Foster,,,,,,,,,,,0,0,8
+Osborne Hart,,,,,,,,,,,,0,8
+Total,34,27,24,4,2,1,0,32,2,0,0,0,8
+,Justice Of The Supreme Court,,,,,,,Mayor,,,,,9
+,David Wecht,Kevin M Dougherty,Christine Donohue,Anne Covey,Judy Olson,Mike George,Paul P Panepinto,Jim Kenney,Melissa Murray Bailey,Osborne Hart,Boris Kindij,James Foster,9
+David Wecht,1,50,51,1,0,0,1,49,2,1,0,0,9
+Kevin M Dougherty,,2,47,0,0,0,0,49,2,0,0,0,9
+Christine Donohue,,,1,1,0,0,1,44,4,1,0,0,9
+Anne Covey,,,,0,1,1,0,1,1,0,0,0,9
+Judy Olson,,,,,0,1,0,0,1,0,0,0,9
+Mike George,,,,,,0,0,0,1,0,0,0,9
+Paul P Panepinto,,,,,,,0,0,0,1,0,0,9
+Jim Kenney,,,,,,,,0,0,0,0,0,9
+Melissa Murray Bailey,,,,,,,,,0,0,0,0,9
+Osborne Hart,,,,,,,,,,0,0,0,9
+Boris Kindij,,,,,,,,,,,0,0,9
+James Foster,,,,,,,,,,,,0,9
+Total,59,58,54,2,1,1,1,55,5,1,0,0,9
+,Mayor,,,,,Justice Of The Supreme Court,,,,,,,10
+,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Kevin M Dougherty,David Wecht,Christine Donohue,Judy Olson,Anne Covey,Mike George,Paul P Panepinto,10
+Jim Kenney,5,0,0,0,0,106,101,100,3,1,0,0,10
+Melissa Murray Bailey,,0,0,0,0,3,2,1,3,3,3,0,10
+Boris Kindij,,,0,0,0,0,0,0,0,0,0,0,10
+James Foster,,,,0,0,0,0,0,0,0,0,0,10
+Osborne Hart,,,,,0,0,0,0,0,0,0,0,10
+Kevin M Dougherty,,,,,,6,101,101,2,1,0,0,10
+David Wecht,,,,,,,1,103,1,0,0,0,10
+Christine Donohue,,,,,,,,0,2,0,0,0,10
+Judy Olson,,,,,,,,,0,4,3,0,10
+Anne Covey,,,,,,,,,,0,3,0,10
+Mike George,,,,,,,,,,,0,0,10
+Paul P Panepinto,,,,,,,,,,,,0,10
+Total,122,7,0,0,0,121,111,108,6,4,3,0,10
+,Justice Of The Supreme Court,,,,,,,Mayor,,,,,11
+,Kevin M Dougherty,Christine Donohue,David Wecht,Paul P Panepinto,Judy Olson,Anne Covey,Mike George,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,11
+Kevin M Dougherty,7,60,59,2,1,0,0,79,3,0,0,0,11
+Christine Donohue,,2,57,3,1,1,0,60,2,0,0,0,11
+David Wecht,,,0,1,1,0,0,57,2,0,0,0,11
+Paul P Panepinto,,,,0,0,0,0,2,1,0,0,0,11
+Judy Olson,,,,,0,1,0,0,1,0,0,0,11
+Anne Covey,,,,,,0,0,0,0,0,0,0,11
+Mike George,,,,,,,0,0,0,0,0,0,11
+Jim Kenney,,,,,,,,3,0,0,0,0,11
+Melissa Murray Bailey,,,,,,,,,0,0,0,0,11
+Boris Kindij,,,,,,,,,,0,0,0,11
+James Foster,,,,,,,,,,,0,0,11
+Osborne Hart,,,,,,,,,,,,0,11
+Total,92,68,61,3,2,1,0,87,3,0,0,0,11
+,Justice Of The Supreme Court,,,,,,,Mayor,,,,,12
+,Kevin M Dougherty,David Wecht,Christine Donohue,Anne Covey,Paul P Panepinto,Judy Olson,Mike George,Jim Kenney,Osborne Hart,Boris Kindij,James Foster,Melissa Murray Bailey,12
+Kevin M Dougherty,8,42,42,1,1,0,0,49,3,0,0,0,12
+David Wecht,,3,38,0,0,0,0,39,2,0,0,0,12
+Christine Donohue,,,0,1,1,0,0,38,2,0,0,0,12
+Anne Covey,,,,0,0,0,0,1,0,0,0,0,12
+Paul P Panepinto,,,,,0,0,0,1,0,0,0,0,12
+Judy Olson,,,,,,0,0,0,0,0,0,0,12
+Mike George,,,,,,,0,0,0,0,0,0,12
+Jim Kenney,,,,,,,,3,0,0,0,0,12
+Osborne Hart,,,,,,,,,0,0,0,0,12
+Boris Kindij,,,,,,,,,,0,0,0,12
+James Foster,,,,,,,,,,,0,0,12
+Melissa Murray Bailey,,,,,,,,,,,,0,12
+Total,64,47,43,1,1,0,0,55,3,0,0,0,12
+,Mayor,,,,,Justice Of The Supreme Court,,,,,,,13
+,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Kevin M Dougherty,David Wecht,Christine Donohue,Mike George,Anne Covey,Judy Olson,Paul P Panepinto,13
+Jim Kenney,2,0,0,0,0,37,33,33,0,0,0,0,13
+Melissa Murray Bailey,,1,0,0,0,1,1,1,0,0,0,0,13
+James Foster,,,0,0,0,0,1,0,0,0,0,0,13
+Boris Kindij,,,,0,0,0,0,0,0,0,0,0,13
+Osborne Hart,,,,,0,0,0,0,0,0,0,0,13
+Kevin M Dougherty,,,,,,0,33,32,0,0,0,0,13
+David Wecht,,,,,,,1,33,0,0,0,0,13
+Christine Donohue,,,,,,,,0,0,0,0,0,13
+Mike George,,,,,,,,,1,0,0,0,13
+Anne Covey,,,,,,,,,,0,0,0,13
+Judy Olson,,,,,,,,,,,0,0,13
+Paul P Panepinto,,,,,,,,,,,,0,13
+Total,43,2,1,0,0,39,37,35,1,0,0,0,13
+,Justice Of The Supreme Court,,,,,,,Mayor,,,,,14
+,Kevin M Dougherty,David Wecht,Christine Donohue,Anne Covey,Mike George,Paul P Panepinto,Judy Olson,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,14
+Kevin M Dougherty,3,43,43,1,0,1,0,54,1,1,0,0,14
+David Wecht,,1,44,0,1,1,0,40,1,1,0,0,14
+Christine Donohue,,,0,0,1,0,0,40,1,0,0,0,14
+Anne Covey,,,,0,0,0,0,1,0,0,0,0,14
+Mike George,,,,,0,0,0,1,0,0,0,0,14
+Paul P Panepinto,,,,,,0,0,0,0,1,0,0,14
+Judy Olson,,,,,,,0,0,0,0,0,0,14
+Jim Kenney,,,,,,,,1,0,0,0,0,14
+Melissa Murray Bailey,,,,,,,,,1,0,0,0,14
+James Foster,,,,,,,,,,0,0,0,14
+Boris Kindij,,,,,,,,,,,0,0,14
+Osborne Hart,,,,,,,,,,,,0,14
+Total,64,48,46,1,1,1,0,60,2,1,0,0,14
+,Justice Of The Supreme Court,,,,,,,Mayor,,,,,15
+,Kevin M Dougherty,David Wecht,Christine Donohue,Mike George,Judy Olson,Paul P Panepinto,Anne Covey,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,15
+Kevin M Dougherty,4,69,69,0,0,1,0,78,2,0,0,0,15
+David Wecht,,1,67,1,0,0,0,70,2,0,0,0,15
+Christine Donohue,,,1,0,0,1,0,68,2,0,0,0,15
+Mike George,,,,1,1,0,0,1,1,0,0,0,15
+Judy Olson,,,,,0,0,0,0,1,0,0,0,15
+Paul P Panepinto,,,,,,0,0,1,0,0,0,0,15
+Anne Covey,,,,,,,0,0,0,0,0,0,15
+Jim Kenney,,,,,,,,1,0,0,0,0,15
+Melissa Murray Bailey,,,,,,,,,0,0,0,0,15
+Boris Kindij,,,,,,,,,,0,0,0,15
+James Foster,,,,,,,,,,,0,0,15
+Osborne Hart,,,,,,,,,,,,0,15
+Total,84,73,71,3,1,1,0,83,3,0,0,0,15
+,Mayor,,,,,Justice Of The Supreme Court,,,,,,,16
+,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Kevin M Dougherty,David Wecht,Christine Donohue,Anne Covey,Judy Olson,Mike George,Paul P Panepinto,16
+Jim Kenney,3,0,0,0,0,88,81,81,1,1,0,0,16
+Melissa Murray Bailey,,1,0,0,0,1,0,1,1,0,1,0,16
+Boris Kindij,,,0,0,0,0,0,0,0,0,0,0,16
+James Foster,,,,0,0,0,0,0,0,0,0,0,16
+Osborne Hart,,,,,0,0,0,0,0,0,0,0,16
+Kevin M Dougherty,,,,,,5,75,75,0,0,0,0,16
+David Wecht,,,,,,,2,77,0,0,0,0,16
+Christine Donohue,,,,,,,,0,1,1,0,0,16
+Anne Covey,,,,,,,,,1,1,1,0,16
+Judy Olson,,,,,,,,,,0,0,0,16
+Mike George,,,,,,,,,,,0,0,16
+Paul P Panepinto,,,,,,,,,,,,0,16
+Total,102,4,0,0,0,96,87,84,3,1,1,0,16
+,Mayor,,,,,Justice Of The Supreme Court,,,,,,,17
+,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Kevin M Dougherty,David Wecht,Christine Donohue,Anne Covey,Judy Olson,Mike George,Paul P Panepinto,17
+Jim Kenney,3,0,0,0,0,64,64,60,0,0,0,0,17
+Melissa Murray Bailey,,0,0,0,0,1,0,0,1,1,1,0,17
+James Foster,,,0,0,0,0,0,1,0,1,0,1,17
+Boris Kindij,,,,0,0,0,0,0,0,0,0,0,17
+Osborne Hart,,,,,0,0,0,0,0,0,0,0,17
+Kevin M Dougherty,,,,,,2,59,59,0,0,0,0,17
+David Wecht,,,,,,,0,60,0,0,0,0,17
+Christine Donohue,,,,,,,,0,0,1,0,1,17
+Anne Covey,,,,,,,,,1,1,1,0,17
+Judy Olson,,,,,,,,,,0,1,1,17
+Mike George,,,,,,,,,,,0,0,17
+Paul P Panepinto,,,,,,,,,,,,0,17
+Total,72,2,1,0,0,67,64,61,2,2,1,1,17
+,Justice Of The Supreme Court,,,,,,,Mayor,,,,,18
+,Kevin M Dougherty,David Wecht,Christine Donohue,Judy Olson,Mike George,Anne Covey,Paul P Panepinto,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,18
+Kevin M Dougherty,5,72,70,0,0,0,0,80,1,0,0,0,18
+David Wecht,,2,71,0,0,0,0,71,1,0,0,0,18
+Christine Donohue,,,1,1,1,0,0,71,2,0,0,0,18
+Judy Olson,,,,0,1,0,0,0,1,0,0,0,18
+Mike George,,,,,0,0,0,0,1,0,0,0,18
+Anne Covey,,,,,,0,0,0,0,0,0,0,18
+Paul P Panepinto,,,,,,,0,0,0,0,0,0,18
+Jim Kenney,,,,,,,,1,0,0,0,0,18
+Melissa Murray Bailey,,,,,,,,,0,0,0,0,18
+Boris Kindij,,,,,,,,,,0,0,0,18
+James Foster,,,,,,,,,,,0,0,18
+Osborne Hart,,,,,,,,,,,,0,18
+Total,87,75,74,1,1,0,0,83,2,0,0,0,18
+,Mayor,,,,,Justice Of The Supreme Court,,,,,,,19
+,Jim Kenney,James Foster,Melissa Murray Bailey,Boris Kindij,Osborne Hart,Kevin M Dougherty,Christine Donohue,David Wecht,Anne Covey,Judy Olson,Mike George,Paul P Panepinto,19
+Jim Kenney,2,0,0,0,0,96,91,87,0,1,0,0,19
+James Foster,,1,0,0,0,0,0,0,0,0,0,0,19
+Melissa Murray Bailey,,,0,0,0,0,0,0,1,1,1,0,19
+Boris Kindij,,,,0,0,0,0,0,0,0,0,0,19
+Osborne Hart,,,,,0,0,0,0,0,0,0,0,19
+Kevin M Dougherty,,,,,,8,85,82,0,0,1,0,19
+Christine Donohue,,,,,,,2,83,0,0,0,0,19
+David Wecht,,,,,,,,1,0,1,0,0,19
+Anne Covey,,,,,,,,,1,1,1,0,19
+Judy Olson,,,,,,,,,,0,1,0,19
+Mike George,,,,,,,,,,,0,0,19
+Paul P Panepinto,,,,,,,,,,,,0,19
+Total,110,1,1,0,0,106,94,89,2,2,2,0,19
+,Mayor,,,,,Justice Of The Supreme Court,,,,,,,20
+,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Kevin M Dougherty,David Wecht,Christine Donohue,Anne Covey,Judy Olson,Mike George,Paul P Panepinto,20
+Jim Kenney,2,0,0,0,0,78,68,67,2,2,2,0,20
+Melissa Murray Bailey,,0,0,0,0,0,0,0,1,1,1,0,20
+Boris Kindij,,,0,0,0,0,0,0,0,0,0,0,20
+James Foster,,,,0,0,0,0,0,0,0,0,0,20
+Osborne Hart,,,,,0,0,0,0,0,0,0,0,20
+Kevin M Dougherty,,,,,,0,71,71,0,0,0,0,20
+David Wecht,,,,,,,0,70,0,0,0,0,20
+Christine Donohue,,,,,,,,0,0,0,0,0,20
+Anne Covey,,,,,,,,,0,3,3,0,20
+Judy Olson,,,,,,,,,,0,3,0,20
+Mike George,,,,,,,,,,,0,0,20
+Paul P Panepinto,,,,,,,,,,,,0,20
+Total,84,1,0,0,0,83,73,72,3,3,3,0,20
+,Justice Of The Supreme Court,,,,,,,Mayor,,,,,21
+,Kevin M Dougherty,Christine Donohue,David Wecht,Anne Covey,Judy Olson,Mike George,Paul P Panepinto,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,21
+Kevin M Dougherty,11,96,96,0,0,0,0,106,2,0,0,0,21
+Christine Donohue,,1,95,0,0,0,0,100,1,0,0,0,21
+David Wecht,,,0,0,0,0,0,99,1,0,0,0,21
+Anne Covey,,,,0,2,1,0,0,1,1,0,0,21
+Judy Olson,,,,,0,1,0,0,1,1,0,0,21
+Mike George,,,,,,0,0,0,1,0,0,0,21
+Paul P Panepinto,,,,,,,0,0,0,0,0,0,21
+Jim Kenney,,,,,,,,2,0,0,0,0,21
+Melissa Murray Bailey,,,,,,,,,1,0,0,0,21
+James Foster,,,,,,,,,,1,0,0,21
+Boris Kindij,,,,,,,,,,,0,0,21
+Osborne Hart,,,,,,,,,,,,0,21
+Total,120,103,101,2,2,1,0,118,4,2,0,0,21
+,Mayor,,,,,Justice Of The Supreme Court,,,,,,,22
+,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Kevin M Dougherty,Christine Donohue,David Wecht,Anne Covey,Judy Olson,Mike George,Paul P Panepinto,22
+Jim Kenney,9,0,0,0,0,66,66,64,0,0,0,0,22
+Melissa Murray Bailey,,0,0,0,0,1,0,0,1,1,1,0,22
+James Foster,,,0,0,0,1,1,1,0,0,0,0,22
+Boris Kindij,,,,0,0,0,0,0,0,0,0,0,22
+Osborne Hart,,,,,0,0,0,0,0,0,0,0,22
+Kevin M Dougherty,,,,,,2,65,65,0,0,0,0,22
+Christine Donohue,,,,,,,0,67,0,0,0,0,22
+David Wecht,,,,,,,,0,0,0,0,0,22
+Anne Covey,,,,,,,,,0,1,1,0,22
+Judy Olson,,,,,,,,,,0,1,0,22
+Mike George,,,,,,,,,,,0,0,22
+Paul P Panepinto,,,,,,,,,,,,0,22
+Total,82,2,1,0,0,73,71,69,1,1,1,0,22
+,Mayor,,,,,Justice Of The Supreme Court,,,,,,,23
+,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Kevin M Dougherty,Christine Donohue,David Wecht,Paul P Panepinto,Mike George,Judy Olson,Anne Covey,23
+Jim Kenney,5,0,0,0,0,100,90,89,2,2,0,0,23
+Melissa Murray Bailey,,0,0,0,0,1,1,1,0,0,1,0,23
+James Foster,,,0,0,0,1,0,1,1,0,0,0,23
+Boris Kindij,,,,0,0,0,0,0,0,0,0,0,23
+Osborne Hart,,,,,0,0,0,0,0,0,0,0,23
+Kevin M Dougherty,,,,,,3,88,86,3,2,0,0,23
+Christine Donohue,,,,,,,2,86,0,1,0,0,23
+David Wecht,,,,,,,,0,2,0,0,0,23
+Paul P Panepinto,,,,,,,,,0,1,0,0,23
+Mike George,,,,,,,,,,0,0,0,23
+Judy Olson,,,,,,,,,,,0,0,23
+Anne Covey,,,,,,,,,,,,0,23
+Total,113,3,1,0,0,107,95,94,3,2,1,0,23
+,Justice Of The Supreme Court,,,,,,,Mayor,,,,,24
+,Kevin M Dougherty,Christine Donohue,David Wecht,Judy Olson,Mike George,Anne Covey,Paul P Panepinto,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,24
+Kevin M Dougherty,5,77,74,2,0,0,0,81,3,0,0,0,24
+Christine Donohue,,1,74,2,0,0,1,74,3,0,0,0,24
+David Wecht,,,0,0,1,0,1,72,4,0,0,0,24
+Judy Olson,,,,0,1,1,0,2,1,0,0,0,24
+Mike George,,,,,0,1,0,0,2,0,0,0,24
+Anne Covey,,,,,,0,0,0,1,0,0,0,24
+Paul P Panepinto,,,,,,,0,1,0,0,0,0,24
+Jim Kenney,,,,,,,,4,0,0,0,0,24
+Melissa Murray Bailey,,,,,,,,,1,0,0,0,24
+Boris Kindij,,,,,,,,,,0,0,0,24
+James Foster,,,,,,,,,,,0,0,24
+Osborne Hart,,,,,,,,,,,,0,24
+Total,97,83,83,3,2,1,1,94,7,0,0,0,24
+,Mayor,,,,,Justice Of The Supreme Court,,,,,,,25
+,Jim Kenney,Boris Kindij,James Foster,Melissa Murray Bailey,Osborne Hart,Kevin M Dougherty,David Wecht,Christine Donohue,Paul P Panepinto,Anne Covey,Judy Olson,Mike George,25
+Jim Kenney,4,0,0,0,0,128,112,109,1,0,0,0,25
+Boris Kindij,,0,0,0,0,0,0,0,0,0,0,0,25
+James Foster,,,0,0,0,0,0,0,0,0,0,0,25
+Melissa Murray Bailey,,,,0,0,0,0,0,0,0,0,0,25
+Osborne Hart,,,,,0,0,0,0,0,0,0,0,25
+Kevin M Dougherty,,,,,,4,111,111,1,0,0,0,25
+David Wecht,,,,,,,0,111,1,0,0,0,25
+Christine Donohue,,,,,,,,2,0,0,0,0,25
+Paul P Panepinto,,,,,,,,,0,0,0,0,25
+Anne Covey,,,,,,,,,,0,0,0,25
+Judy Olson,,,,,,,,,,,0,0,25
+Mike George,,,,,,,,,,,,0,25
+Total,137,0,0,0,0,135,116,115,1,0,0,0,25
+,Justice Of The Supreme Court,,,,,,,Mayor,,,,,26
+,Kevin M Dougherty,David Wecht,Christine Donohue,Judy Olson,Mike George,Anne Covey,Paul P Panepinto,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,26
+Kevin M Dougherty,6,54,54,3,1,0,1,77,1,0,0,0,26
+David Wecht,,2,50,0,0,0,0,53,2,0,0,0,26
+Christine Donohue,,,0,2,0,0,0,53,1,0,0,0,26
+Judy Olson,,,,0,4,3,0,3,4,0,0,0,26
+Mike George,,,,,0,3,0,1,3,0,0,0,26
+Anne Covey,,,,,,0,0,0,3,0,0,0,26
+Paul P Panepinto,,,,,,,0,1,0,0,0,0,26
+Jim Kenney,,,,,,,,2,0,0,0,0,26
+Melissa Murray Bailey,,,,,,,,,1,0,0,0,26
+Boris Kindij,,,,,,,,,,0,0,0,26
+James Foster,,,,,,,,,,,0,0,26
+Osborne Hart,,,,,,,,,,,,0,26
+Total,88,59,57,8,4,3,1,84,7,0,0,0,26
+,Justice Of The Supreme Court,,,,,,,Mayor,,,,,27
+,Kevin M Dougherty,Christine Donohue,David Wecht,Anne Covey,Judy Olson,Mike George,Paul P Panepinto,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,27
+Kevin M Dougherty,5,33,35,1,2,0,0,43,2,0,0,0,27
+Christine Donohue,,1,33,2,1,0,0,34,1,0,0,0,27
+David Wecht,,,0,1,1,0,0,32,1,0,0,0,27
+Anne Covey,,,,0,4,2,0,3,2,0,0,0,27
+Judy Olson,,,,,0,2,0,3,2,0,0,0,27
+Mike George,,,,,,0,0,1,1,0,0,0,27
+Paul P Panepinto,,,,,,,0,0,0,0,0,0,27
+Jim Kenney,,,,,,,,1,0,0,0,0,27
+Melissa Murray Bailey,,,,,,,,,0,0,0,0,27
+Boris Kindij,,,,,,,,,,0,0,0,27
+James Foster,,,,,,,,,,,0,0,27
+Osborne Hart,,,,,,,,,,,,0,27
+Total,53,39,36,5,5,2,0,49,4,0,0,0,27
+,Mayor,,,,,Justice Of The Supreme Court,,,,,,,28
+,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Kevin M Dougherty,David Wecht,Christine Donohue,Judy Olson,Anne Covey,Mike George,Paul P Panepinto,28
+Jim Kenney,3,0,0,0,0,112,94,89,1,1,1,0,28
+Melissa Murray Bailey,,1,0,0,0,2,0,1,1,1,1,0,28
+James Foster,,,0,0,0,1,1,1,0,0,0,0,28
+Boris Kindij,,,,0,0,0,0,0,0,0,0,0,28
+Osborne Hart,,,,,0,0,0,0,0,0,0,0,28
+Kevin M Dougherty,,,,,,18,84,83,0,0,0,0,28
+David Wecht,,,,,,,8,83,0,0,0,0,28
+Christine Donohue,,,,,,,,4,0,0,0,0,28
+Judy Olson,,,,,,,,,1,2,2,0,28
+Anne Covey,,,,,,,,,,0,2,0,28
+Mike George,,,,,,,,,,,0,0,28
+Paul P Panepinto,,,,,,,,,,,,0,28
+Total,139,5,1,0,0,137,108,99,3,2,2,0,28
+,Justice Of The Supreme Court,,,,,,,Mayor,,,,,29
+,Kevin M Dougherty,David Wecht,Christine Donohue,Anne Covey,Judy Olson,Mike George,Paul P Panepinto,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,29
+Kevin M Dougherty,10,47,48,0,0,0,0,59,2,0,0,0,29
+David Wecht,,2,48,0,0,0,0,49,2,0,0,0,29
+Christine Donohue,,,0,0,0,0,0,47,2,0,0,0,29
+Anne Covey,,,,0,0,0,0,0,0,0,0,0,29
+Judy Olson,,,,,0,0,0,0,0,0,0,0,29
+Mike George,,,,,,0,0,0,0,0,0,0,29
+Paul P Panepinto,,,,,,,0,0,0,0,0,0,29
+Jim Kenney,,,,,,,,3,0,0,0,0,29
+Melissa Murray Bailey,,,,,,,,,0,0,0,0,29
+Boris Kindij,,,,,,,,,,0,0,0,29
+James Foster,,,,,,,,,,,0,0,29
+Osborne Hart,,,,,,,,,,,,0,29
+Total,72,53,50,0,0,0,0,67,2,0,0,0,29
+,Justice Of The Supreme Court,,,,,,,Mayor,,,,,30
+,Kevin M Dougherty,Christine Donohue,David Wecht,Anne Covey,Judy Olson,Paul P Panepinto,Mike George,Jim Kenney,James Foster,Melissa Murray Bailey,Boris Kindij,Osborne Hart,30
+Kevin M Dougherty,5,103,100,2,1,2,0,109,2,2,0,0,30
+Christine Donohue,,0,100,1,1,1,0,100,2,2,0,0,30
+David Wecht,,,1,0,1,0,0,100,0,1,0,0,30
+Anne Covey,,,,0,3,0,2,1,0,3,0,0,30
+Judy Olson,,,,,0,0,2,2,0,2,0,0,30
+Paul P Panepinto,,,,,,0,0,1,2,0,0,0,30
+Mike George,,,,,,,0,0,0,2,0,0,30
+Jim Kenney,,,,,,,,1,0,0,0,0,30
+James Foster,,,,,,,,,0,0,0,0,30
+Melissa Murray Bailey,,,,,,,,,,0,0,0,30
+Boris Kindij,,,,,,,,,,,0,0,30
+Osborne Hart,,,,,,,,,,,,0,30
+Total,120,106,104,4,4,3,2,114,4,4,0,0,30
+,Mayor,,,,,Justice Of The Supreme Court,,,,,,,31
+,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Kevin M Dougherty,David Wecht,Christine Donohue,Anne Covey,Judy Olson,Paul P Panepinto,Mike George,31
+Jim Kenney,7,0,0,0,0,93,73,71,2,2,2,1,31
+Melissa Murray Bailey,,0,0,0,0,0,1,2,1,1,1,0,31
+James Foster,,,0,0,0,0,0,0,1,1,0,1,31
+Boris Kindij,,,,0,0,0,0,0,0,0,0,0,31
+Osborne Hart,,,,,0,0,0,0,0,0,0,0,31
+Kevin M Dougherty,,,,,,4,67,66,2,1,1,1,31
+David Wecht,,,,,,,1,71,1,1,1,0,31
+Christine Donohue,,,,,,,,1,1,2,2,0,31
+Anne Covey,,,,,,,,,0,2,1,1,31
+Judy Olson,,,,,,,,,,0,1,1,31
+Paul P Panepinto,,,,,,,,,,,0,0,31
+Mike George,,,,,,,,,,,,0,31
+Total,109,2,1,0,0,99,79,77,4,4,3,2,31
+,Justice Of The Supreme Court,,,,,,,Mayor,,,,,All
+,Kevin M Dougherty,David Wecht,Christine Donohue,Judy Olson,Anne Covey,Mike George,Paul P Panepinto,Jim Kenney,Melissa Murray Bailey,James Foster,Osborne Hart,Boris Kindij,All
+Kevin M Dougherty,151,"1,902","1,907",16,9,7,18,"2,216",40,10,3,1,All
+David Wecht,,35,"1,895",11,6,3,10,"1,921",29,9,3,1,All
+Christine Donohue,,,23,20,8,4,15,"1,915",36,9,4,1,All
+Judy Olson,,,,2,36,31,2,26,30,3,1,0,All
+Anne Covey,,,,,4,27,2,16,26,2,0,0,All
+Mike George,,,,,,2,1,12,26,1,0,0,All
+Paul P Panepinto,,,,,,,0,16,3,5,1,0,All
+Jim Kenney,,,,,,,,86,0,0,0,0,All
+Melissa Murray Bailey,,,,,,,,,9,0,0,0,All
+James Foster,,,,,,,,,,2,0,0,All
+Osborne Hart,,,,,,,,,,,0,0,All
+Boris Kindij,,,,,,,,,,,,0,All
+Total,"2,507","2,085","2,067",67,51,42,26,"2,503",91,18,5,1,All

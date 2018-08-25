@@ -1,0 +1,85 @@
+col_1,col_2,col_3,col_4,col_5,division
+,Judge Of The Commonwealth Court,,Register Of Wills,,1
+,Michael Wojcik,Paul Lalley,Ronald R Donatucci,Ross Feinberg,1
+Michael Wojcik,12,0,111,5,1
+Paul Lalley,,0,0,15,1
+Ronald R Donatucci,,,5,0,1
+Ross Feinberg,,,,2,1
+Total,128,15,116,22,1
+,Judge Of The Commonwealth Court,,Register Of Wills,,2
+,Michael Wojcik,Paul Lalley,Ronald R Donatucci,Ross Feinberg,2
+Michael Wojcik,6,0,139,0,2
+Paul Lalley,,0,0,1,2
+Ronald R Donatucci,,,5,0,2
+Ross Feinberg,,,,0,2
+Total,145,1,144,1,2
+,Judge Of The Commonwealth Court,,Register Of Wills,,3
+,Michael Wojcik,Paul Lalley,Ronald R Donatucci,Ross Feinberg,3
+Michael Wojcik,13,0,97,2,3
+Paul Lalley,,0,1,0,3
+Ronald R Donatucci,,,11,0,3
+Ross Feinberg,,,,1,3
+Total,112,1,109,3,3
+,Judge Of The Commonwealth Court,,Register Of Wills,,4
+,Michael Wojcik,Paul Lalley,Ronald R Donatucci,Ross Feinberg,4
+Michael Wojcik,30,0,142,1,4
+Paul Lalley,,0,0,2,4
+Ronald R Donatucci,,,12,0,4
+Ross Feinberg,,,,0,4
+Total,173,2,154,3,4
+,Register Of Wills,,Judge Of The Commonwealth Court,,5
+,Ronald R Donatucci,Ross Feinberg,Michael Wojcik,Paul Lalley,5
+Ronald R Donatucci,4,0,80,0,5
+Ross Feinberg,,0,0,1,5
+Michael Wojcik,,,3,0,5
+Paul Lalley,,,,0,5
+Total,84,1,83,1,5
+,Judge Of The Commonwealth Court,,Register Of Wills,,6
+,Michael Wojcik,Paul Lalley,Ronald R Donatucci,Ross Feinberg,6
+Michael Wojcik,7,0,87,0,6
+Paul Lalley,,0,0,1,6
+Ronald R Donatucci,,,4,0,6
+Ross Feinberg,,,,0,6
+Total,94,1,91,1,6
+,Judge Of The Commonwealth Court,,Register Of Wills,,7
+,Michael Wojcik,Paul Lalley,Ronald R Donatucci,Ross Feinberg,7
+Michael Wojcik,2,0,50,2,7
+Paul Lalley,,0,1,1,7
+Ronald R Donatucci,,,2,0,7
+Ross Feinberg,,,,0,7
+Total,54,2,53,3,7
+,Register Of Wills,,Judge Of The Commonwealth Court,,8
+,Ronald R Donatucci,Ross Feinberg,Michael Wojcik,Paul Lalley,8
+Ronald R Donatucci,2,0,19,0,8
+Ross Feinberg,,0,0,1,8
+Michael Wojcik,,,1,0,8
+Paul Lalley,,,,0,8
+Total,21,1,20,1,8
+,Judge Of The Commonwealth Court,,Register Of Wills,,9
+,Michael Wojcik,Paul Lalley,Ronald R Donatucci,Ross Feinberg,9
+Michael Wojcik,4,0,74,2,9
+Paul Lalley,,0,3,2,9
+Ronald R Donatucci,,,3,0,9
+Ross Feinberg,,,,0,9
+Total,80,5,80,4,9
+,Judge Of The Commonwealth Court,,Register Of Wills,,10
+,Michael Wojcik,Paul Lalley,Ronald R Donatucci,Ross Feinberg,10
+Michael Wojcik,12,0,105,10,10
+Paul Lalley,,0,0,6,10
+Ronald R Donatucci,,,4,0,10
+Ross Feinberg,,,,0,10
+Total,127,6,109,16,10
+,Judge Of The Commonwealth Court,,Register Of Wills,,11
+,Michael Wojcik,Paul Lalley,Ronald R Donatucci,Ross Feinberg,11
+Michael Wojcik,9,0,101,0,11
+Paul Lalley,,0,1,1,11
+Ronald R Donatucci,,,6,0,11
+Ross Feinberg,,,,2,11
+Total,110,2,108,3,11
+,Judge Of The Commonwealth Court,,Register Of Wills,,All
+,Michael Wojcik,Paul Lalley,Ronald R Donatucci,Ross Feinberg,All
+Michael Wojcik,99,0,"1,005",22,All
+Paul Lalley,,0,6,31,All
+Ronald R Donatucci,,,58,0,All
+Ross Feinberg,,,,5,All
+Total,"1,126",37,"1,069",58,All

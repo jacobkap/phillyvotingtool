@@ -1,0 +1,210 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,division
+,City Commissioners,,,Mayor,,,,,1
+,Anthony Clark,Lisa M Deeley,Al Schmidt,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,1
+Anthony Clark,5,40,0,50,1,0,0,0,1
+Lisa M Deeley,,0,0,41,1,0,0,0,1
+Al Schmidt,,,0,0,2,0,0,0,1
+Jim Kenney,,,,4,0,0,0,0,1
+Melissa Murray Bailey,,,,,0,0,0,0,1
+Boris Kindij,,,,,,0,0,0,1
+James Foster,,,,,,,0,0,1
+Osborne Hart,,,,,,,,0,1
+Total,56,42,2,56,3,0,0,0,1
+,Mayor,,,,,City Commissioners,,,2
+,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Anthony Clark,Lisa M Deeley,Al Schmidt,2
+Jim Kenney,6,0,0,0,0,82,78,0,2
+Melissa Murray Bailey,,0,0,0,0,0,2,1,2
+Boris Kindij,,,0,0,0,0,0,0,2
+James Foster,,,,0,0,0,0,0,2
+Osborne Hart,,,,,0,0,0,0,2
+Anthony Clark,,,,,,2,75,1,2
+Lisa M Deeley,,,,,,,2,1,2
+Al Schmidt,,,,,,,,0,2
+Total,93,2,0,0,0,87,84,2,2
+,Mayor,,,,,City Commissioners,,,3
+,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Anthony Clark,Lisa M Deeley,Al Schmidt,3
+Jim Kenney,13,0,0,0,0,89,78,1,3
+Melissa Murray Bailey,,0,0,0,0,1,2,3,3
+James Foster,,,0,0,0,1,1,0,3
+Boris Kindij,,,,0,0,0,0,0,3
+Osborne Hart,,,,,0,0,0,0,3
+Anthony Clark,,,,,,4,76,0,3
+Lisa M Deeley,,,,,,,3,2,3
+Al Schmidt,,,,,,,,1,3
+Total,106,4,1,0,0,95,84,5,3
+,Mayor,,,,,City Commissioners,,,4
+,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Anthony Clark,Lisa M Deeley,Al Schmidt,4
+Jim Kenney,11,0,0,0,0,97,90,0,4
+Melissa Murray Bailey,,0,0,0,0,0,1,2,4
+Boris Kindij,,,0,0,0,0,0,0,4
+James Foster,,,,0,0,0,0,0,4
+Osborne Hart,,,,,0,0,0,0,4
+Anthony Clark,,,,,,2,86,0,4
+Lisa M Deeley,,,,,,,3,1,4
+Al Schmidt,,,,,,,,0,4
+Total,112,2,0,0,0,99,94,2,4
+,Mayor,,,,,City Commissioners,,,5
+,Jim Kenney,Boris Kindij,Melissa Murray Bailey,James Foster,Osborne Hart,Anthony Clark,Lisa M Deeley,Al Schmidt,5
+Jim Kenney,7,0,0,0,0,109,99,1,5
+Boris Kindij,,0,0,0,0,0,1,1,5
+Melissa Murray Bailey,,,0,0,0,1,0,0,5
+James Foster,,,,0,0,0,0,0,5
+Osborne Hart,,,,,0,0,0,0,5
+Anthony Clark,,,,,,6,95,1,5
+Lisa M Deeley,,,,,,,0,2,5
+Al Schmidt,,,,,,,,0,5
+Total,121,1,1,0,0,118,101,3,5
+,Mayor,,,,,City Commissioners,,,6
+,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Anthony Clark,Lisa M Deeley,Al Schmidt,6
+Jim Kenney,8,0,0,0,0,78,69,2,6
+Melissa Murray Bailey,,0,0,0,0,1,0,1,6
+Boris Kindij,,,0,0,0,0,0,0,6
+James Foster,,,,0,0,0,0,0,6
+Osborne Hart,,,,,0,0,0,0,6
+Anthony Clark,,,,,,3,70,3,6
+Lisa M Deeley,,,,,,,1,0,6
+Al Schmidt,,,,,,,,0,6
+Total,86,1,0,0,0,83,71,3,6
+,Mayor,,,,,City Commissioners,,,7
+,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Lisa M Deeley,Anthony Clark,Al Schmidt,7
+Jim Kenney,4,0,0,0,0,40,38,2,7
+Melissa Murray Bailey,,0,0,0,0,2,1,0,7
+Boris Kindij,,,0,0,0,0,0,0,7
+James Foster,,,,0,0,0,0,0,7
+Osborne Hart,,,,,0,0,0,0,7
+Lisa M Deeley,,,,,,1,26,1,7
+Anthony Clark,,,,,,,2,0,7
+Al Schmidt,,,,,,,,0,7
+Total,58,2,0,0,0,43,41,2,7
+,Mayor,,,,,City Commissioners,,,8
+,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Anthony Clark,Lisa M Deeley,Al Schmidt,8
+Jim Kenney,19,0,0,0,0,149,123,0,8
+Melissa Murray Bailey,,0,0,0,0,3,3,4,8
+Boris Kindij,,,0,0,0,0,0,0,8
+James Foster,,,,0,0,0,0,0,8
+Osborne Hart,,,,,0,0,0,0,8
+Anthony Clark,,,,,,9,121,0,8
+Lisa M Deeley,,,,,,,2,2,8
+Al Schmidt,,,,,,,,0,8
+Total,173,7,0,0,0,163,130,4,8
+,Mayor,,,,,City Commissioners,,,9
+,Jim Kenney,Osborne Hart,Boris Kindij,James Foster,Melissa Murray Bailey,Anthony Clark,Lisa M Deeley,Al Schmidt,9
+Jim Kenney,19,0,0,0,0,115,95,2,9
+Osborne Hart,,0,0,0,0,1,1,0,9
+Boris Kindij,,,0,0,0,0,0,0,9
+James Foster,,,,0,0,0,0,0,9
+Melissa Murray Bailey,,,,,0,0,0,0,9
+Anthony Clark,,,,,,3,87,2,9
+Lisa M Deeley,,,,,,,1,1,9
+Al Schmidt,,,,,,,,0,9
+Total,143,1,0,0,0,120,97,3,9
+,Mayor,,,,,City Commissioners,,,10
+,Jim Kenney,Melissa Murray Bailey,Osborne Hart,Boris Kindij,James Foster,Anthony Clark,Lisa M Deeley,Al Schmidt,10
+Jim Kenney,3,0,0,0,0,90,85,0,10
+Melissa Murray Bailey,,1,0,0,0,0,0,2,10
+Osborne Hart,,,0,0,0,1,0,0,10
+Boris Kindij,,,,0,0,0,0,0,10
+James Foster,,,,,0,0,0,0,10
+Anthony Clark,,,,,,2,83,0,10
+Lisa M Deeley,,,,,,,2,0,10
+Al Schmidt,,,,,,,,0,10
+Total,95,3,1,0,0,93,87,2,10
+,Mayor,,,,,City Commissioners,,,11
+,Jim Kenney,Melissa Murray Bailey,Osborne Hart,Boris Kindij,James Foster,Anthony Clark,Lisa M Deeley,Al Schmidt,11
+Jim Kenney,7,0,0,0,0,45,39,0,11
+Melissa Murray Bailey,,0,0,0,0,1,2,2,11
+Osborne Hart,,,1,0,0,0,0,0,11
+Boris Kindij,,,,0,0,0,0,0,11
+James Foster,,,,,0,0,0,0,11
+Anthony Clark,,,,,,7,34,0,11
+Lisa M Deeley,,,,,,,1,1,11
+Al Schmidt,,,,,,,,0,11
+Total,58,3,1,0,0,53,42,2,11
+,Mayor,,,,,City Commissioners,,,12
+,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Lisa M Deeley,Anthony Clark,Al Schmidt,12
+Jim Kenney,13,0,0,0,0,61,48,0,12
+Melissa Murray Bailey,,0,0,0,0,1,2,0,12
+Boris Kindij,,,0,0,0,1,1,0,12
+James Foster,,,,0,0,0,0,0,12
+Osborne Hart,,,,,0,0,0,0,12
+Lisa M Deeley,,,,,,2,46,0,12
+Anthony Clark,,,,,,,1,0,12
+Al Schmidt,,,,,,,,0,12
+Total,79,2,1,0,0,66,53,0,12
+,Mayor,,,,,City Commissioners,,,13
+,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Anthony Clark,Lisa M Deeley,Al Schmidt,13
+Jim Kenney,8,0,0,0,0,101,101,0,13
+Melissa Murray Bailey,,0,0,0,0,2,1,1,13
+Boris Kindij,,,0,0,0,0,0,0,13
+James Foster,,,,0,0,0,0,0,13
+Osborne Hart,,,,,0,0,0,0,13
+Anthony Clark,,,,,,3,99,0,13
+Lisa M Deeley,,,,,,,2,0,13
+Al Schmidt,,,,,,,,0,13
+Total,113,3,0,0,0,107,105,1,13
+,Mayor,,,,,City Commissioners,,,14
+,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Anthony Clark,Lisa M Deeley,Al Schmidt,14
+Jim Kenney,9,0,0,0,0,69,66,0,14
+Melissa Murray Bailey,,1,0,0,0,0,1,1,14
+Boris Kindij,,,0,0,0,0,0,0,14
+James Foster,,,,0,0,0,0,0,14
+Osborne Hart,,,,,0,0,0,0,14
+Anthony Clark,,,,,,4,63,0,14
+Lisa M Deeley,,,,,,,0,0,14
+Al Schmidt,,,,,,,,0,14
+Total,81,3,0,0,0,73,67,1,14
+,Mayor,,,,,City Commissioners,,,15
+,Jim Kenney,Melissa Murray Bailey,James Foster,Osborne Hart,Boris Kindij,Anthony Clark,Lisa M Deeley,Al Schmidt,15
+Jim Kenney,5,0,0,0,0,68,63,0,15
+Melissa Murray Bailey,,0,0,0,0,2,1,0,15
+James Foster,,,0,0,0,1,0,0,15
+Osborne Hart,,,,0,0,1,1,0,15
+Boris Kindij,,,,,0,0,0,0,15
+Anthony Clark,,,,,,3,61,0,15
+Lisa M Deeley,,,,,,,0,0,15
+Al Schmidt,,,,,,,,0,15
+Total,78,2,1,1,0,76,66,0,15
+,City Commissioners,,,Mayor,,,,,16
+,Anthony Clark,Lisa M Deeley,Al Schmidt,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,16
+Anthony Clark,6,66,0,79,1,0,0,0,16
+Lisa M Deeley,,1,0,66,1,0,0,0,16
+Al Schmidt,,,2,0,2,0,0,0,16
+Jim Kenney,,,,5,0,0,0,0,16
+Melissa Murray Bailey,,,,,0,0,0,0,16
+Boris Kindij,,,,,,0,0,0,16
+James Foster,,,,,,,0,0,16
+Osborne Hart,,,,,,,,0,16
+Total,87,69,4,86,3,0,0,0,16
+,Mayor,,,,,City Commissioners,,,17
+,Jim Kenney,Melissa Murray Bailey,Osborne Hart,Boris Kindij,James Foster,Anthony Clark,Lisa M Deeley,Al Schmidt,17
+Jim Kenney,8,0,0,0,0,61,55,0,17
+Melissa Murray Bailey,,0,0,0,0,1,1,0,17
+Osborne Hart,,,0,0,0,1,1,0,17
+Boris Kindij,,,,0,0,0,0,0,17
+James Foster,,,,,0,0,0,0,17
+Anthony Clark,,,,,,5,56,0,17
+Lisa M Deeley,,,,,,,1,0,17
+Al Schmidt,,,,,,,,0,17
+Total,71,1,1,0,0,69,59,0,17
+,Mayor,,,,,City Commissioners,,,18
+,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Anthony Clark,Lisa M Deeley,Al Schmidt,18
+Jim Kenney,5,0,0,0,0,75,72,3,18
+Melissa Murray Bailey,,0,0,0,0,2,0,2,18
+Boris Kindij,,,0,0,0,0,0,0,18
+James Foster,,,,0,0,0,0,0,18
+Osborne Hart,,,,,0,0,0,0,18
+Anthony Clark,,,,,,3,65,2,18
+Lisa M Deeley,,,,,,,1,1,18
+Al Schmidt,,,,,,,,0,18
+Total,89,2,0,0,0,80,73,5,18
+,Mayor,,,,,City Commissioners,,,All
+,Jim Kenney,Melissa Murray Bailey,Osborne Hart,Boris Kindij,James Foster,Anthony Clark,Lisa M Deeley,Al Schmidt,All
+Jim Kenney,154,0,0,0,0,"1,443","1,321",11,All
+Melissa Murray Bailey,,2,0,0,0,19,19,23,All
+Osborne Hart,,,1,0,0,4,3,0,All
+Boris Kindij,,,,0,0,1,2,1,All
+James Foster,,,,,0,2,1,0,All
+Anthony Clark,,,,,,70,"1,249",9,All
+Lisa M Deeley,,,,,,,23,12,All
+Al Schmidt,,,,,,,,3,All
+Total,"1,698",44,5,2,2,"1,553","1,380",41,All

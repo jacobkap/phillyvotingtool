@@ -3,7 +3,7 @@ function allowSaveGraph() {
   document.getElementById("time_graph").src = url;
 }
 
-function makeGraph(data) {
+function makeGraph(data, time_data) {
   election = elections[$(time_election).val()];
   graph_title = "Percent of Votes by Hour";
   yaxis_label = "% of Votes";
@@ -21,6 +21,7 @@ function makeGraph(data) {
   graph_title = election + ", " + graph_title;
 
   Chart.defaults.global.defaultFontColor = "#000000";
+  if ($("#vote_time").is(':checked')) {
   myLineChart = new Chart(ctx_time, {
     type: 'line',
     data: {
@@ -28,17 +29,24 @@ function makeGraph(data) {
         "1-2PM", "2-3PM", "3-4PM", "4-5PM", "5-6PM", "6-7PM", "7-8PM"
       ],
       datasets: [{
-        borderColor: "#000000",
+        label: yaxis_label,
+        borderColor: "#1b9e77",
         fill: false,
         data: data,
         onAnimationComplete: allowSaveGraph,
+      }, {
+        label: 'Time to Vote (minutes)',
+        borderColor: "#7570b3",
+        fill: false,
+         yAxisID: 'B',
+        data: time_data
       }]
     },
     options: {
       responsive: true,
       maintainAspectRatio: false,
       legend: {
-        display: false,
+        display: true,
       },
       title: {
         display: true,
@@ -48,9 +56,19 @@ function makeGraph(data) {
       },
       scales: {
         yAxes: [{
+          id: 'A',
+        type: 'linear',
+        position: 'left',
+
           ticks: {
             beginAtZero: true,
-            fontSize: 15
+            fontSize: 15,
+            userCallback: function(value, index, values) {
+              value = value.toString();
+              value = value.split(/(?=(?:...)*$)/);
+              value = value.join(',');
+              return value;
+            }
           },
           scaleLabel: {
             fontSize: 22,
@@ -58,7 +76,21 @@ function makeGraph(data) {
             display: true,
             labelString: yaxis_label
           }
-        }],
+        }, {
+        id: 'B',
+        type: 'linear',
+        position: 'right',
+        ticks: {
+          beginAtZero: true,
+          fontSize: 15
+        },
+        scaleLabel: {
+          fontSize: 22,
+          fontColor: "#000000",
+          display: true,
+          labelString: "Time to Vote (in Minutes)"
+        }
+      }],
         xAxes: [{
           ticks: {
             fontSize: 15
@@ -68,6 +100,13 @@ function makeGraph(data) {
       tooltips: {
         mode: 'index',
         intersect: false,
+        callbacks: {
+          label: function(tooltipItems, data) {
+            value = tooltipItems.yLabel;
+            value = value.toLocaleString();
+            return value;
+          }
+        }
       },
       hover: {
         mode: 'nearest',
@@ -75,6 +114,74 @@ function makeGraph(data) {
       }
     }
   });
+} else  {
+    myLineChart = new Chart(ctx_time, {
+      type: 'line',
+      data: {
+        labels: ["7-8AM", "8-9AM", "9-10AM", "10-11AM", "11AM-12PM", "12-1PM",
+          "1-2PM", "2-3PM", "3-4PM", "4-5PM", "5-6PM", "6-7PM", "7-8PM"
+        ],
+        datasets: [{
+          label: yaxis_label,
+          borderColor: "#1b9e77",
+          fill: false,
+          data: data,
+          onAnimationComplete: allowSaveGraph,
+        }]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        legend: {
+          display: true,
+        },
+        title: {
+          display: true,
+          position: 'top',
+          text: graph_title,
+          fontSize: 22
+        },
+        scales: {
+          yAxes: [{
+            id: 'A',
+          type: 'linear',
+          position: 'left',
+            ticks: {
+              beginAtZero: true,
+              fontSize: 15
+            },
+            scaleLabel: {
+              fontSize: 22,
+              fontColor: "#000000",
+              display: true,
+              labelString: yaxis_label
+            }
+          }],
+          xAxes: [{
+            ticks: {
+              fontSize: 15
+            }
+          }]
+        },
+        tooltips: {
+          mode: 'index',
+          intersect: false,
+          callbacks: {
+            label: function(tooltipItems, data) {
+              value = tooltipItems.yLabel;
+              value = value.toLocaleString();
+              return value;
+            }
+          }
+        },
+        hover: {
+          mode: 'nearest',
+          intersect: true
+        }
+      }
+    });
+  }
+
 
   return (myLineChart);
 }
@@ -262,7 +369,8 @@ function updateGraph() {
   graph.destroy();
   graph_data = getGraphData();
   subsetted_graph_data = subsetGraphData(graph_data);
-  graph = makeGraph(subsetted_graph_data);
+  subsetted_graph_data_time = subsetGraphData(graph_data, type = "time");
+  graph = makeGraph(subsetted_graph_data, subsetted_graph_data_time);
   return (graph);
 }
 

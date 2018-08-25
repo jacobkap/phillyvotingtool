@@ -1,0 +1,471 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,division
+,Mayor,,,,,Sheriff,,1
+,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Christopher Sawyer,Jewell Williams,1
+Jim Kenney,27,0,0,0,0,18,38,1
+Melissa Murray Bailey,,1,0,0,0,36,2,1
+Boris Kindij,,,0,0,0,0,0,1
+James Foster,,,,0,0,0,0,1
+Osborne Hart,,,,,0,0,0,1
+Christopher Sawyer,,,,,,0,0,1
+Jewell Williams,,,,,,,2,1
+Total,83,39,0,0,0,54,42,1
+,Mayor,,,,,Sheriff,,2
+,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Christopher Sawyer,Jewell Williams,2
+Jim Kenney,18,0,0,0,0,24,27,2
+Melissa Murray Bailey,,6,0,0,0,32,3,2
+James Foster,,,1,0,0,0,0,2
+Boris Kindij,,,,0,0,0,0,2
+Osborne Hart,,,,,0,0,0,2
+Christopher Sawyer,,,,,,1,0,2
+Jewell Williams,,,,,,,0,2
+Total,69,41,1,0,0,57,30,2
+,Mayor,,,,,Sheriff,,3
+,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Christopher Sawyer,Jewell Williams,3
+Jim Kenney,32,0,0,0,0,26,32,3
+Melissa Murray Bailey,,10,0,0,0,26,3,3
+James Foster,,,0,0,0,1,0,3
+Boris Kindij,,,,0,0,0,0,3
+Osborne Hart,,,,,0,0,0,3
+Christopher Sawyer,,,,,,3,0,3
+Jewell Williams,,,,,,,0,3
+Total,90,39,1,0,0,56,35,3
+,Mayor,,,,,Sheriff,,4
+,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Christopher Sawyer,Jewell Williams,4
+Jim Kenney,23,0,0,0,0,20,30,4
+Melissa Murray Bailey,,8,0,0,0,41,5,4
+James Foster,,,0,0,0,0,1,4
+Boris Kindij,,,,0,0,0,0,4
+Osborne Hart,,,,,0,0,0,4
+Christopher Sawyer,,,,,,1,0,4
+Jewell Williams,,,,,,,1,4
+Total,73,54,1,0,0,62,37,4
+,Mayor,,,,,Sheriff,,5
+,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Jewell Williams,Christopher Sawyer,5
+Jim Kenney,26,0,0,0,0,50,22,5
+Melissa Murray Bailey,,2,0,0,0,2,20,5
+Boris Kindij,,,0,0,0,0,0,5
+James Foster,,,,0,0,0,0,5
+Osborne Hart,,,,,0,0,0,5
+Jewell Williams,,,,,,0,0,5
+Christopher Sawyer,,,,,,,3,5
+Total,98,24,0,0,0,52,45,5
+,Mayor,,,,,Sheriff,,6
+,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Christopher Sawyer,Jewell Williams,6
+Jim Kenney,48,0,0,0,0,23,61,6
+Melissa Murray Bailey,,9,0,0,0,47,0,6
+James Foster,,,0,0,0,1,0,6
+Boris Kindij,,,,0,0,0,0,6
+Osborne Hart,,,,,0,0,0,6
+Christopher Sawyer,,,,,,3,0,6
+Jewell Williams,,,,,,,4,6
+Total,132,56,1,0,0,74,65,6
+,Mayor,,,,,Sheriff,,7
+,Jim Kenney,Melissa Murray Bailey,Osborne Hart,Boris Kindij,James Foster,Christopher Sawyer,Jewell Williams,7
+Jim Kenney,38,0,0,0,0,25,32,7
+Melissa Murray Bailey,,14,0,0,0,37,1,7
+Osborne Hart,,,0,0,0,0,1,7
+Boris Kindij,,,,0,0,0,0,7
+James Foster,,,,,0,0,0,7
+Christopher Sawyer,,,,,,1,0,7
+Jewell Williams,,,,,,,0,7
+Total,95,52,1,0,0,63,34,7
+,Mayor,,,,,Sheriff,,8
+,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Jewell Williams,Christopher Sawyer,8
+Jim Kenney,45,0,0,0,0,79,27,8
+Melissa Murray Bailey,,14,0,0,0,2,48,8
+Boris Kindij,,,0,0,0,1,0,8
+James Foster,,,,0,0,0,1,8
+Osborne Hart,,,,,0,0,0,8
+Jewell Williams,,,,,,2,0,8
+Christopher Sawyer,,,,,,,0,8
+Total,151,64,1,1,0,84,76,8
+,Mayor,,,,,Sheriff,,9
+,Jim Kenney,Melissa Murray Bailey,James Foster,Osborne Hart,Boris Kindij,Christopher Sawyer,Jewell Williams,9
+Jim Kenney,35,0,0,0,0,34,52,9
+Melissa Murray Bailey,,24,0,0,0,46,2,9
+James Foster,,,0,0,0,1,0,9
+Osborne Hart,,,,0,0,0,1,9
+Boris Kindij,,,,,0,0,0,9
+Christopher Sawyer,,,,,,3,0,9
+Jewell Williams,,,,,,,0,9
+Total,121,72,1,1,0,84,55,9
+,Mayor,,,,,Sheriff,,10
+,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Christopher Sawyer,Jewell Williams,10
+Jim Kenney,38,0,0,0,0,25,49,10
+Melissa Murray Bailey,,10,0,0,0,51,4,10
+James Foster,,,0,0,0,1,0,10
+Boris Kindij,,,,0,0,0,0,10
+Osborne Hart,,,,,0,0,0,10
+Christopher Sawyer,,,,,,3,0,10
+Jewell Williams,,,,,,,2,10
+Total,112,65,1,0,0,80,55,10
+,Mayor,,,,,Sheriff,,11
+,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Christopher Sawyer,Jewell Williams,11
+Jim Kenney,36,0,0,0,0,31,46,11
+Melissa Murray Bailey,,15,0,0,0,44,7,11
+James Foster,,,0,0,0,0,1,11
+Boris Kindij,,,,0,0,0,0,11
+Osborne Hart,,,,,0,0,0,11
+Christopher Sawyer,,,,,,2,0,11
+Jewell Williams,,,,,,,1,11
+Total,113,66,1,0,0,77,55,11
+,Mayor,,,,,Sheriff,,12
+,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Jewell Williams,Christopher Sawyer,12
+Jim Kenney,21,0,0,0,0,64,18,12
+Melissa Murray Bailey,,8,0,0,0,3,25,12
+Boris Kindij,,,0,0,0,0,0,12
+James Foster,,,,0,0,0,0,12
+Osborne Hart,,,,,0,0,0,12
+Jewell Williams,,,,,,1,0,12
+Christopher Sawyer,,,,,,,2,12
+Total,103,36,0,0,0,68,45,12
+,Mayor,,,,,Sheriff,,13
+,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Christopher Sawyer,Jewell Williams,13
+Jim Kenney,22,0,0,0,0,16,36,13
+Melissa Murray Bailey,,7,0,0,0,30,2,13
+Boris Kindij,,,0,0,0,0,0,13
+James Foster,,,,0,0,0,0,13
+Osborne Hart,,,,,0,0,0,13
+Christopher Sawyer,,,,,,1,0,13
+Jewell Williams,,,,,,,1,13
+Total,74,39,0,0,0,47,39,13
+,Mayor,,,,,Sheriff,,14
+,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Christopher Sawyer,Jewell Williams,14
+Jim Kenney,43,0,0,0,0,19,53,14
+Melissa Murray Bailey,,8,0,0,0,44,3,14
+Boris Kindij,,,0,0,0,0,0,14
+James Foster,,,,0,0,0,0,14
+Osborne Hart,,,,,0,0,0,14
+Christopher Sawyer,,,,,,2,0,14
+Jewell Williams,,,,,,,4,14
+Total,115,55,0,0,0,65,60,14
+,Mayor,,,,,Sheriff,,15
+,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Christopher Sawyer,Jewell Williams,15
+Jim Kenney,29,0,0,0,0,24,55,15
+Melissa Murray Bailey,,11,0,0,0,42,2,15
+James Foster,,,0,0,0,1,1,15
+Boris Kindij,,,,0,0,1,0,15
+Osborne Hart,,,,,0,0,0,15
+Christopher Sawyer,,,,,,2,0,15
+Jewell Williams,,,,,,,1,15
+Total,108,55,2,1,0,70,59,15
+,Mayor,,,,,Sheriff,,16
+,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Christopher Sawyer,Jewell Williams,16
+Jim Kenney,32,0,0,0,0,16,26,16
+Melissa Murray Bailey,,8,0,0,0,34,1,16
+James Foster,,,2,0,0,1,0,16
+Boris Kindij,,,,0,0,0,0,16
+Osborne Hart,,,,,0,0,0,16
+Christopher Sawyer,,,,,,1,0,16
+Jewell Williams,,,,,,,0,16
+Total,74,43,3,0,0,52,27,16
+,Mayor,,,,,Sheriff,,17
+,Melissa Murray Bailey,Jim Kenney,Boris Kindij,James Foster,Osborne Hart,Christopher Sawyer,Jewell Williams,17
+Melissa Murray Bailey,37,0,0,0,0,58,2,17
+Jim Kenney,,30,0,0,0,16,23,17
+Boris Kindij,,,0,0,0,0,0,17
+James Foster,,,,0,0,0,0,17
+Osborne Hart,,,,,0,0,0,17
+Christopher Sawyer,,,,,,5,0,17
+Jewell Williams,,,,,,,1,17
+Total,97,69,0,0,0,79,26,17
+,Mayor,,,,,Sheriff,,18
+,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Christopher Sawyer,Jewell Williams,18
+Jim Kenney,33,0,0,0,0,19,48,18
+Melissa Murray Bailey,,17,0,0,0,45,7,18
+James Foster,,,0,0,0,0,2,18
+Boris Kindij,,,,0,0,1,0,18
+Osborne Hart,,,,,0,0,0,18
+Christopher Sawyer,,,,,,2,0,18
+Jewell Williams,,,,,,,2,18
+Total,100,69,2,1,0,67,59,18
+,Mayor,,,,,Sheriff,,19
+,Jim Kenney,Melissa Murray Bailey,Osborne Hart,Boris Kindij,James Foster,Jewell Williams,Christopher Sawyer,19
+Jim Kenney,29,0,0,0,0,54,19,19
+Melissa Murray Bailey,,10,0,0,0,3,28,19
+Osborne Hart,,,1,0,0,1,0,19
+Boris Kindij,,,,0,0,1,0,19
+James Foster,,,,,0,0,0,19
+Jewell Williams,,,,,,0,0,19
+Christopher Sawyer,,,,,,,0,19
+Total,102,41,2,1,0,59,47,19
+,Mayor,,,,,Sheriff,,20
+,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Christopher Sawyer,Jewell Williams,20
+Jim Kenney,41,0,0,0,0,27,63,20
+Melissa Murray Bailey,,5,0,0,0,38,3,20
+Boris Kindij,,,0,0,0,0,0,20
+James Foster,,,,0,0,0,0,20
+Osborne Hart,,,,,0,0,0,20
+Christopher Sawyer,,,,,,3,0,20
+Jewell Williams,,,,,,,0,20
+Total,131,46,0,0,0,68,66,20
+,Mayor,,,,,Sheriff,,21
+,Jim Kenney,Melissa Murray Bailey,James Foster,Osborne Hart,Boris Kindij,Christopher Sawyer,Jewell Williams,21
+Jim Kenney,53,0,0,0,0,36,82,21
+Melissa Murray Bailey,,20,0,0,0,53,5,21
+James Foster,,,2,0,0,1,0,21
+Osborne Hart,,,,0,0,0,1,21
+Boris Kindij,,,,,0,0,0,21
+Christopher Sawyer,,,,,,2,0,21
+Jewell Williams,,,,,,,0,21
+Total,171,78,3,1,0,92,88,21
+,Mayor,,,,,Sheriff,,22
+,Jim Kenney,Melissa Murray Bailey,Osborne Hart,Boris Kindij,James Foster,Jewell Williams,Christopher Sawyer,22
+Jim Kenney,38,0,0,0,0,85,35,22
+Melissa Murray Bailey,,18,0,0,0,3,40,22
+Osborne Hart,,,1,0,0,1,0,22
+Boris Kindij,,,,0,0,0,0,22
+James Foster,,,,,0,0,0,22
+Jewell Williams,,,,,,1,0,22
+Christopher Sawyer,,,,,,,4,22
+Total,158,61,2,0,0,90,79,22
+,Mayor,,,,,Sheriff,,23
+,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Christopher Sawyer,Jewell Williams,23
+Jim Kenney,35,0,0,0,0,22,44,23
+Melissa Murray Bailey,,11,0,0,0,45,2,23
+James Foster,,,1,0,0,0,1,23
+Boris Kindij,,,,0,0,0,0,23
+Osborne Hart,,,,,0,0,0,23
+Christopher Sawyer,,,,,,1,0,23
+Jewell Williams,,,,,,,4,23
+Total,101,58,2,0,0,68,51,23
+,Mayor,,,,,Sheriff,,24
+,Jim Kenney,Melissa Murray Bailey,Osborne Hart,Boris Kindij,James Foster,Christopher Sawyer,Jewell Williams,24
+Jim Kenney,51,0,0,0,0,26,48,24
+Melissa Murray Bailey,,7,0,0,0,29,3,24
+Osborne Hart,,,0,0,0,0,1,24
+Boris Kindij,,,,0,0,0,0,24
+James Foster,,,,,0,0,0,24
+Christopher Sawyer,,,,,,3,0,24
+Jewell Williams,,,,,,,2,24
+Total,125,39,1,0,0,58,54,24
+,Mayor,,,,,Sheriff,,25
+,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Christopher Sawyer,Jewell Williams,25
+Jim Kenney,40,0,0,0,0,27,37,25
+Melissa Murray Bailey,,17,0,0,0,62,1,25
+James Foster,,,0,0,0,2,0,25
+Boris Kindij,,,,0,0,0,0,25
+Osborne Hart,,,,,0,0,0,25
+Christopher Sawyer,,,,,,3,0,25
+Jewell Williams,,,,,,,1,25
+Total,104,80,2,0,0,94,39,25
+,Mayor,,,,,Sheriff,,26
+,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Christopher Sawyer,Jewell Williams,26
+Jim Kenney,42,0,0,0,0,28,50,26
+Melissa Murray Bailey,,5,0,0,0,41,3,26
+Boris Kindij,,,1,0,0,0,0,26
+James Foster,,,,1,0,0,0,26
+Osborne Hart,,,,,0,0,0,26
+Christopher Sawyer,,,,,,3,0,26
+Jewell Williams,,,,,,,0,26
+Total,120,49,1,1,0,72,53,26
+,Mayor,,,,,Sheriff,,27
+,Jim Kenney,Melissa Murray Bailey,James Foster,Osborne Hart,Boris Kindij,Christopher Sawyer,Jewell Williams,27
+Jim Kenney,21,0,0,0,0,11,28,27
+Melissa Murray Bailey,,4,0,0,0,24,2,27
+James Foster,,,0,0,0,1,0,27
+Osborne Hart,,,,0,0,0,1,27
+Boris Kindij,,,,,0,0,0,27
+Christopher Sawyer,,,,,,0,0,27
+Jewell Williams,,,,,,,1,27
+Total,60,30,1,1,0,36,32,27
+,Mayor,,,,,Sheriff,,28
+,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Christopher Sawyer,Jewell Williams,28
+Jim Kenney,41,0,0,0,0,26,55,28
+Melissa Murray Bailey,,16,0,0,0,36,4,28
+Boris Kindij,,,1,0,0,0,0,28
+James Foster,,,,0,0,1,0,28
+Osborne Hart,,,,,0,0,0,28
+Christopher Sawyer,,,,,,2,0,28
+Jewell Williams,,,,,,,0,28
+Total,122,56,1,1,0,65,59,28
+,Mayor,,,,,Sheriff,,29
+,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Christopher Sawyer,Jewell Williams,29
+Jim Kenney,68,0,0,0,0,39,46,29
+Melissa Murray Bailey,,28,0,0,0,74,0,29
+James Foster,,,1,0,0,0,0,29
+Boris Kindij,,,,0,0,0,0,29
+Osborne Hart,,,,,0,0,0,29
+Christopher Sawyer,,,,,,7,0,29
+Jewell Williams,,,,,,,2,29
+Total,153,102,1,0,0,120,48,29
+,Mayor,,,,,Sheriff,,30
+,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Christopher Sawyer,Jewell Williams,30
+Jim Kenney,44,0,0,0,0,28,40,30
+Melissa Murray Bailey,,17,0,0,0,41,2,30
+Boris Kindij,,,0,0,0,0,0,30
+James Foster,,,,0,0,0,0,30
+Osborne Hart,,,,,0,0,0,30
+Christopher Sawyer,,,,,,2,0,30
+Jewell Williams,,,,,,,0,30
+Total,112,60,0,0,0,71,42,30
+,Mayor,,,,,Sheriff,,31
+,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Christopher Sawyer,Jewell Williams,31
+Jim Kenney,26,0,0,0,0,28,52,31
+Melissa Murray Bailey,,15,0,0,0,33,1,31
+Boris Kindij,,,0,0,0,0,0,31
+James Foster,,,,0,0,0,0,31
+Osborne Hart,,,,,0,0,0,31
+Christopher Sawyer,,,,,,0,0,31
+Jewell Williams,,,,,,,2,31
+Total,106,49,0,0,0,61,55,31
+,Mayor,,,,,Sheriff,,32
+,Jim Kenney,Melissa Murray Bailey,Osborne Hart,Boris Kindij,James Foster,Jewell Williams,Christopher Sawyer,32
+Jim Kenney,39,0,0,0,0,44,17,32
+Melissa Murray Bailey,,8,0,0,0,1,19,32
+Osborne Hart,,,0,0,0,0,1,32
+Boris Kindij,,,,0,0,0,0,32
+James Foster,,,,,0,0,0,32
+Jewell Williams,,,,,,0,0,32
+Christopher Sawyer,,,,,,,0,32
+Total,100,28,1,0,0,45,37,32
+,Mayor,,,,,Sheriff,,33
+,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Christopher Sawyer,Jewell Williams,33
+Jim Kenney,42,0,0,0,0,38,58,33
+Melissa Murray Bailey,,16,0,0,0,61,3,33
+Boris Kindij,,,0,0,0,0,0,33
+James Foster,,,,0,0,0,0,33
+Osborne Hart,,,,,0,0,0,33
+Christopher Sawyer,,,,,,6,0,33
+Jewell Williams,,,,,,,2,33
+Total,138,80,0,0,0,105,63,33
+,Mayor,,,,,Sheriff,,34
+,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Christopher Sawyer,Jewell Williams,34
+Jim Kenney,32,0,0,0,0,28,53,34
+Melissa Murray Bailey,,10,0,0,0,41,3,34
+Boris Kindij,,,0,0,0,0,0,34
+James Foster,,,,0,0,0,0,34
+Osborne Hart,,,,,0,0,0,34
+Christopher Sawyer,,,,,,4,0,34
+Jewell Williams,,,,,,,1,34
+Total,113,54,0,0,0,73,57,34
+,Mayor,,,,,Sheriff,,35
+,Jim Kenney,Melissa Murray Bailey,Osborne Hart,Boris Kindij,James Foster,Christopher Sawyer,Jewell Williams,35
+Jim Kenney,41,0,0,0,0,25,49,35
+Melissa Murray Bailey,,16,0,0,0,28,3,35
+Osborne Hart,,,0,0,0,1,0,35
+Boris Kindij,,,,0,0,0,0,35
+James Foster,,,,,0,0,0,35
+Christopher Sawyer,,,,,,0,0,35
+Jewell Williams,,,,,,,2,35
+Total,115,47,1,0,0,54,54,35
+,Mayor,,,,,Sheriff,,36
+,Jim Kenney,Melissa Murray Bailey,Osborne Hart,Boris Kindij,James Foster,Christopher Sawyer,Jewell Williams,36
+Jim Kenney,46,0,0,0,0,38,68,36
+Melissa Murray Bailey,,11,0,0,0,72,6,36
+Osborne Hart,,,0,0,0,0,1,36
+Boris Kindij,,,,0,0,0,0,36
+James Foster,,,,,0,0,0,36
+Christopher Sawyer,,,,,,3,0,36
+Jewell Williams,,,,,,,2,36
+Total,152,89,1,0,0,113,77,36
+,Mayor,,,,,Sheriff,,37
+,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Jewell Williams,Christopher Sawyer,37
+Jim Kenney,18,0,0,0,0,37,9,37
+Melissa Murray Bailey,,2,0,0,0,1,15,37
+Boris Kindij,,,0,0,0,0,1,37
+James Foster,,,,0,0,0,1,37
+Osborne Hart,,,,,0,0,0,37
+Jewell Williams,,,,,,0,0,37
+Christopher Sawyer,,,,,,,1,37
+Total,64,18,1,1,0,38,27,37
+,Mayor,,,,,Sheriff,,38
+,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Christopher Sawyer,Jewell Williams,38
+Jim Kenney,29,0,0,0,0,23,42,38
+Melissa Murray Bailey,,12,0,0,0,45,1,38
+Boris Kindij,,,0,0,0,0,0,38
+James Foster,,,,0,0,0,0,38
+Osborne Hart,,,,,0,0,0,38
+Christopher Sawyer,,,,,,0,0,38
+Jewell Williams,,,,,,,2,38
+Total,94,58,0,0,0,68,45,38
+,Mayor,,,,,Sheriff,,39
+,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Christopher Sawyer,Jewell Williams,39
+Jim Kenney,25,0,0,0,0,26,68,39
+Melissa Murray Bailey,,8,0,0,0,45,2,39
+James Foster,,,0,0,0,2,0,39
+Boris Kindij,,,,0,0,0,1,39
+Osborne Hart,,,,,0,0,0,39
+Christopher Sawyer,,,,,,2,0,39
+Jewell Williams,,,,,,,4,39
+Total,119,55,2,1,0,75,75,39
+,Mayor,,,,,Sheriff,,40
+,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Christopher Sawyer,Jewell Williams,40
+Jim Kenney,34,0,0,0,0,23,24,40
+Melissa Murray Bailey,,8,0,0,0,33,2,40
+James Foster,,,0,0,0,1,0,40
+Boris Kindij,,,,0,0,0,0,40
+Osborne Hart,,,,,0,0,0,40
+Christopher Sawyer,,,,,,1,0,40
+Jewell Williams,,,,,,,1,40
+Total,81,43,1,0,0,58,27,40
+,Mayor,,,,,Sheriff,,41
+,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Jewell Williams,Christopher Sawyer,41
+Jim Kenney,32,0,0,0,0,73,12,41
+Melissa Murray Bailey,,14,0,0,0,1,24,41
+James Foster,,,0,0,0,0,1,41
+Boris Kindij,,,,0,0,0,0,41
+Osborne Hart,,,,,0,0,0,41
+Jewell Williams,,,,,,2,0,41
+Christopher Sawyer,,,,,,,1,41
+Total,117,39,1,0,0,76,38,41
+,Mayor,,,,,Sheriff,,42
+,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Christopher Sawyer,Jewell Williams,42
+Jim Kenney,45,0,0,0,0,24,33,42
+Melissa Murray Bailey,,9,0,0,0,48,3,42
+Boris Kindij,,,0,0,0,0,1,42
+James Foster,,,,0,0,0,0,42
+Osborne Hart,,,,,0,0,0,42
+Christopher Sawyer,,,,,,2,0,42
+Jewell Williams,,,,,,,1,42
+Total,102,60,1,0,0,74,38,42
+,Mayor,,,,,Sheriff,,43
+,Jim Kenney,Melissa Murray Bailey,Osborne Hart,Boris Kindij,James Foster,Christopher Sawyer,Jewell Williams,43
+Jim Kenney,81,0,0,0,0,37,42,43
+Melissa Murray Bailey,,19,0,0,0,82,8,43
+Osborne Hart,,,0,0,0,1,0,43
+Boris Kindij,,,,0,0,0,0,43
+James Foster,,,,,0,0,0,43
+Christopher Sawyer,,,,,,1,0,43
+Jewell Williams,,,,,,,1,43
+Total,160,109,1,0,0,121,51,43
+,Mayor,,,,,Sheriff,,44
+,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Christopher Sawyer,Jewell Williams,44
+Jim Kenney,54,0,0,0,0,28,46,44
+Melissa Murray Bailey,,14,0,0,0,64,2,44
+James Foster,,,1,0,0,0,0,44
+Boris Kindij,,,,0,0,0,0,44
+Osborne Hart,,,,,0,0,0,44
+Christopher Sawyer,,,,,,1,0,44
+Jewell Williams,,,,,,,2,44
+Total,128,80,1,0,0,93,50,44
+,Mayor,,,,,Sheriff,,45
+,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Christopher Sawyer,Jewell Williams,45
+Jim Kenney,33,0,0,0,0,16,38,45
+Melissa Murray Bailey,,6,0,0,0,32,4,45
+Boris Kindij,,,0,0,0,0,0,45
+James Foster,,,,0,0,0,0,45
+Osborne Hart,,,,,0,0,0,45
+Christopher Sawyer,,,,,,1,0,45
+Jewell Williams,,,,,,,2,45
+Total,87,42,0,0,0,49,44,45
+,Mayor,,,,,Sheriff,,46
+,Jim Kenney,Melissa Murray Bailey,Osborne Hart,Boris Kindij,James Foster,Christopher Sawyer,Jewell Williams,46
+Jim Kenney,44,0,0,0,0,33,42,46
+Melissa Murray Bailey,,10,0,0,0,73,3,46
+Osborne Hart,,,2,0,0,0,0,46
+Boris Kindij,,,,0,0,0,0,46
+James Foster,,,,,0,0,0,46
+Christopher Sawyer,,,,,,5,0,46
+Jewell Williams,,,,,,,2,46
+Total,119,86,2,0,0,111,47,46
+,Mayor,,,,,Sheriff,,All
+,Jim Kenney,Melissa Murray Bailey,James Foster,Osborne Hart,Boris Kindij,Christopher Sawyer,Jewell Williams,All
+Jim Kenney,"1,700",0,0,0,0,"1,132","2,202",All
+Melissa Murray Bailey,,545,0,0,0,"1,932",126,All
+James Foster,,,9,0,0,17,6,All
+Osborne Hart,,,,4,0,3,8,All
+Boris Kindij,,,,,2,3,4,All
+Christopher Sawyer,,,,,,93,0,All
+Jewell Williams,,,,,,,59,All
+Total,"5,034","2,603",32,15,9,"3,180","2,405",All

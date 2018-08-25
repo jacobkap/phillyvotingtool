@@ -298,7 +298,7 @@ function subsetData(data, type) {
   return final_data;
 }
 
-function subsetGraphData(data) {
+function subsetGraphData(data, type = "votes") {
   var final_data = [];
   division = $("#time_division").val();
   if (division === "0") {
@@ -307,6 +307,10 @@ function subsetGraphData(data) {
   data_column = 2;
   if ($("#vote_numbers").is(':checked')) {
     data_column = 1;
+  }
+
+  if (type == "time") {
+    data_column = 4;
   }
 
   for (var i = 0; i < data[0].length; i++) {

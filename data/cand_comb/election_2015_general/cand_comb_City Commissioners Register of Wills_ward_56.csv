@@ -1,0 +1,337 @@
+col_1,col_2,col_3,col_4,col_5,col_6,division
+,City Commissioners,,,Register Of Wills,,1
+,Lisa M Deeley,Anthony Clark,Al Schmidt,Ronald R Donatucci,Ross Feinberg,1
+Lisa M Deeley,20,65,12,70,10,1
+Anthony Clark,,4,1,69,3,1
+Al Schmidt,,,0,5,22,1
+Ronald R Donatucci,,,,4,0,1
+Ross Feinberg,,,,,1,1
+Total,106,81,28,85,27,1
+,Register Of Wills,,City Commissioners,,,2
+,Ronald R Donatucci,Ross Feinberg,Lisa M Deeley,Anthony Clark,Al Schmidt,2
+Ronald R Donatucci,5,0,35,40,5,2
+Ross Feinberg,,2,11,6,34,2
+Lisa M Deeley,,,2,27,12,2
+Anthony Clark,,,,2,5,2
+Al Schmidt,,,,,0,2
+Total,57,38,49,48,40,2
+,City Commissioners,,,Register Of Wills,,3
+,Lisa M Deeley,Anthony Clark,Al Schmidt,Ronald R Donatucci,Ross Feinberg,3
+Lisa M Deeley,2,32,8,33,9,3
+Anthony Clark,,0,2,32,4,3
+Al Schmidt,,,0,3,15,3
+Ronald R Donatucci,,,,3,0,3
+Ross Feinberg,,,,,0,3
+Total,46,37,19,41,18,3
+,City Commissioners,,,Register Of Wills,,4
+,Al Schmidt,Anthony Clark,Lisa M Deeley,Ronald R Donatucci,Ross Feinberg,4
+Al Schmidt,2,4,6,4,42,4
+Anthony Clark,,3,27,35,3,4
+Lisa M Deeley,,,1,33,5,4
+Ronald R Donatucci,,,,3,0,4
+Ross Feinberg,,,,,0,4
+Total,48,42,40,46,43,4
+,City Commissioners,,,Register Of Wills,,5
+,Lisa M Deeley,Anthony Clark,Al Schmidt,Ross Feinberg,Ronald R Donatucci,5
+Lisa M Deeley,0,36,8,10,35,5
+Anthony Clark,,1,2,5,37,5
+Al Schmidt,,,0,37,2,5
+Ross Feinberg,,,,4,0,5
+Ronald R Donatucci,,,,,3,5
+Total,49,46,40,46,45,5
+,Register Of Wills,,City Commissioners,,,6
+,Ronald R Donatucci,Ross Feinberg,Anthony Clark,Lisa M Deeley,Al Schmidt,6
+Ronald R Donatucci,9,0,84,86,16,6
+Ross Feinberg,,9,6,11,58,6
+Anthony Clark,,,8,80,6,6
+Lisa M Deeley,,,,3,10,6
+Al Schmidt,,,,,7,6
+Total,115,75,105,105,83,6
+,Register Of Wills,,City Commissioners,,,7
+,Ronald R Donatucci,Ross Feinberg,Anthony Clark,Lisa M Deeley,Al Schmidt,7
+Ronald R Donatucci,7,0,88,78,8,7
+Ross Feinberg,,2,10,11,54,7
+Anthony Clark,,,4,72,10,7
+Lisa M Deeley,,,,1,9,7
+Al Schmidt,,,,,2,7
+Total,107,61,103,91,64,7
+,Register Of Wills,,City Commissioners,,,8
+,Ronald R Donatucci,Ross Feinberg,Lisa M Deeley,Anthony Clark,Al Schmidt,8
+Ronald R Donatucci,7,0,110,120,17,8
+Ross Feinberg,,4,17,8,76,8
+Lisa M Deeley,,,9,105,16,8
+Anthony Clark,,,,4,12,8
+Al Schmidt,,,,,5,8
+Total,144,86,140,136,98,8
+,Register Of Wills,,City Commissioners,,,9
+,Ronald R Donatucci,Ross Feinberg,Lisa M Deeley,Al Schmidt,Anthony Clark,9
+Ronald R Donatucci,4,0,45,13,45,9
+Ross Feinberg,,2,11,40,3,9
+Lisa M Deeley,,,8,15,33,9
+Al Schmidt,,,,4,4,9
+Anthony Clark,,,,,2,9
+Total,67,45,65,58,50,9
+,City Commissioners,,,Register Of Wills,,10
+,Lisa M Deeley,Al Schmidt,Anthony Clark,Ronald R Donatucci,Ross Feinberg,10
+Lisa M Deeley,5,10,28,46,9,10
+Al Schmidt,,2,4,10,44,10
+Anthony Clark,,,1,37,6,10
+Ronald R Donatucci,,,,3,0,10
+Ross Feinberg,,,,,2,10
+Total,63,58,45,63,55,10
+,Register Of Wills,,City Commissioners,,,11
+,Ronald R Donatucci,Ross Feinberg,Lisa M Deeley,Anthony Clark,Al Schmidt,11
+Ronald R Donatucci,0,0,39,40,8,11
+Ross Feinberg,,2,4,4,16,11
+Lisa M Deeley,,,4,33,6,11
+Anthony Clark,,,,1,4,11
+Al Schmidt,,,,,2,11
+Total,53,21,51,47,28,11
+,Register Of Wills,,City Commissioners,,,12
+,Ronald R Donatucci,Ross Feinberg,Lisa M Deeley,Anthony Clark,Al Schmidt,12
+Ronald R Donatucci,7,0,59,58,10,12
+Ross Feinberg,,1,8,8,40,12
+Lisa M Deeley,,,10,53,7,12
+Anthony Clark,,,,0,6,12
+Al Schmidt,,,,,2,12
+Total,80,46,78,67,52,12
+,City Commissioners,,,Register Of Wills,,13
+,Lisa M Deeley,Anthony Clark,Al Schmidt,Ronald R Donatucci,Ross Feinberg,13
+Lisa M Deeley,5,48,10,59,6,13
+Anthony Clark,,4,0,52,0,13
+Al Schmidt,,,1,5,12,13
+Ronald R Donatucci,,,,5,0,13
+Ross Feinberg,,,,,2,13
+Total,70,56,18,69,14,13
+,City Commissioners,,,Register Of Wills,,14
+,Lisa M Deeley,Anthony Clark,Al Schmidt,Ronald R Donatucci,Ross Feinberg,14
+Lisa M Deeley,4,26,7,32,10,14
+Anthony Clark,,4,4,33,3,14
+Al Schmidt,,,2,5,19,14
+Ronald R Donatucci,,,,4,0,14
+Ross Feinberg,,,,,2,14
+Total,46,40,26,46,25,14
+,Register Of Wills,,City Commissioners,,,15
+,Ronald R Donatucci,Ross Feinberg,Lisa M Deeley,Anthony Clark,Al Schmidt,15
+Ronald R Donatucci,4,0,37,37,7,15
+Ross Feinberg,,3,7,4,32,15
+Lisa M Deeley,,,2,33,6,15
+Anthony Clark,,,,4,4,15
+Al Schmidt,,,,,1,15
+Total,51,38,47,46,40,15
+,City Commissioners,,,Register Of Wills,,16
+,Anthony Clark,Lisa M Deeley,Al Schmidt,Ronald R Donatucci,Ross Feinberg,16
+Anthony Clark,4,38,8,46,8,16
+Lisa M Deeley,,3,6,44,8,16
+Al Schmidt,,,1,4,27,16
+Ronald R Donatucci,,,,3,0,16
+Ross Feinberg,,,,,3,16
+Total,59,56,32,58,34,16
+,City Commissioners,,,Register Of Wills,,17
+,Lisa M Deeley,Anthony Clark,Al Schmidt,Ronald R Donatucci,Ross Feinberg,17
+Lisa M Deeley,4,31,8,36,10,17
+Anthony Clark,,1,6,32,8,17
+Al Schmidt,,,2,4,35,17
+Ronald R Donatucci,,,,8,0,17
+Ross Feinberg,,,,,0,17
+Total,52,43,41,51,39,17
+,City Commissioners,,,Register Of Wills,,18
+,Lisa M Deeley,Al Schmidt,Anthony Clark,Ronald R Donatucci,Ross Feinberg,18
+Lisa M Deeley,8,12,23,34,12,18
+Al Schmidt,,4,4,14,23,18
+Anthony Clark,,,1,25,5,18
+Ronald R Donatucci,,,,6,0,18
+Ross Feinberg,,,,,1,18
+Total,56,41,33,52,31,18
+,Register Of Wills,,City Commissioners,,,19
+,Ronald R Donatucci,Ross Feinberg,Lisa M Deeley,Anthony Clark,Al Schmidt,19
+Ronald R Donatucci,6,0,79,88,14,19
+Ross Feinberg,,1,19,8,59,19
+Lisa M Deeley,,,8,70,17,19
+Anthony Clark,,,,8,9,19
+Al Schmidt,,,,,3,19
+Total,112,70,110,108,76,19
+,City Commissioners,,,Register Of Wills,,20
+,Lisa M Deeley,Anthony Clark,Al Schmidt,Ronald R Donatucci,Ross Feinberg,20
+Lisa M Deeley,6,33,8,37,9,20
+Anthony Clark,,1,2,36,5,20
+Al Schmidt,,,0,4,22,20
+Ronald R Donatucci,,,,3,0,20
+Ross Feinberg,,,,,4,20
+Total,52,42,26,46,31,20
+,City Commissioners,,,Register Of Wills,,21
+,Anthony Clark,Lisa M Deeley,Al Schmidt,Ronald R Donatucci,Ross Feinberg,21
+Anthony Clark,4,24,5,28,7,21
+Lisa M Deeley,,1,7,29,8,21
+Al Schmidt,,,0,5,21,21
+Ronald R Donatucci,,,,1,0,21
+Ross Feinberg,,,,,0,21
+Total,39,38,26,37,26,21
+,Register Of Wills,,City Commissioners,,,22
+,Ronald R Donatucci,Ross Feinberg,Anthony Clark,Lisa M Deeley,Al Schmidt,22
+Ronald R Donatucci,7,0,49,43,1,22
+Ross Feinberg,,1,3,4,21,22
+Anthony Clark,,,4,42,2,22
+Lisa M Deeley,,,,1,3,22
+Al Schmidt,,,,,2,22
+Total,58,24,56,48,24,22
+,City Commissioners,,,Register Of Wills,,23
+,Lisa M Deeley,Anthony Clark,Al Schmidt,Ronald R Donatucci,Ross Feinberg,23
+Lisa M Deeley,4,42,15,46,18,23
+Anthony Clark,,3,6,45,8,23
+Al Schmidt,,,1,8,43,23
+Ronald R Donatucci,,,,7,0,23
+Ross Feinberg,,,,,0,23
+Total,69,57,52,63,50,23
+,City Commissioners,,,Register Of Wills,,24
+,Lisa M Deeley,Anthony Clark,Al Schmidt,Ronald R Donatucci,Ross Feinberg,24
+Lisa M Deeley,4,41,9,44,12,24
+Anthony Clark,,2,7,43,11,24
+Al Schmidt,,,2,5,27,24
+Ronald R Donatucci,,,,3,0,24
+Ross Feinberg,,,,,4,24
+Total,62,58,34,56,38,24
+,City Commissioners,,,Register Of Wills,,25
+,Anthony Clark,Lisa M Deeley,Al Schmidt,Ronald R Donatucci,Ross Feinberg,25
+Anthony Clark,8,56,3,63,8,25
+Lisa M Deeley,,9,9,56,14,25
+Al Schmidt,,,1,5,18,25
+Ronald R Donatucci,,,,6,0,25
+Ross Feinberg,,,,,4,25
+Total,81,81,24,76,32,25
+,City Commissioners,,,Register Of Wills,,26
+,Lisa M Deeley,Al Schmidt,Anthony Clark,Ronald R Donatucci,Ross Feinberg,26
+Lisa M Deeley,7,13,35,42,15,26
+Al Schmidt,,2,2,7,40,26
+Anthony Clark,,,2,43,3,26
+Ronald R Donatucci,,,,6,0,26
+Ross Feinberg,,,,,2,26
+Total,66,50,49,63,47,26
+,City Commissioners,,,Register Of Wills,,27
+,Lisa M Deeley,Anthony Clark,Al Schmidt,Ronald R Donatucci,Ross Feinberg,27
+Lisa M Deeley,6,37,8,39,10,27
+Anthony Clark,,6,2,40,6,27
+Al Schmidt,,,1,9,28,27
+Ronald R Donatucci,,,,2,0,27
+Ross Feinberg,,,,,0,27
+Total,56,52,39,53,35,27
+,Register Of Wills,,City Commissioners,,,28
+,Ronald R Donatucci,Ross Feinberg,Anthony Clark,Lisa M Deeley,Al Schmidt,28
+Ronald R Donatucci,4,0,55,57,5,28
+Ross Feinberg,,2,6,1,12,28
+Anthony Clark,,,4,50,5,28
+Lisa M Deeley,,,,2,4,28
+Al Schmidt,,,,,1,28
+Total,70,15,67,62,18,28
+,Register Of Wills,,City Commissioners,,,29
+,Ronald R Donatucci,Ross Feinberg,Lisa M Deeley,Anthony Clark,Al Schmidt,29
+Ronald R Donatucci,7,0,38,40,1,29
+Ross Feinberg,,9,7,2,25,29
+Lisa M Deeley,,,2,36,5,29
+Anthony Clark,,,,4,1,29
+Al Schmidt,,,,,0,29
+Total,52,38,50,48,27,29
+,Register Of Wills,,City Commissioners,,,30
+,Ronald R Donatucci,Ross Feinberg,Anthony Clark,Lisa M Deeley,Al Schmidt,30
+Ronald R Donatucci,3,0,72,70,7,30
+Ross Feinberg,,2,6,12,28,30
+Anthony Clark,,,6,65,5,30
+Lisa M Deeley,,,,2,8,30
+Al Schmidt,,,,,0,30
+Total,85,37,84,84,35,30
+,City Commissioners,,,Register Of Wills,,31
+,Lisa M Deeley,Anthony Clark,Al Schmidt,Ronald R Donatucci,Ross Feinberg,31
+Lisa M Deeley,3,45,10,47,10,31
+Anthony Clark,,5,4,46,5,31
+Al Schmidt,,,3,9,23,31
+Ronald R Donatucci,,,,6,0,31
+Ross Feinberg,,,,,2,31
+Total,66,62,37,66,30,31
+,Register Of Wills,,City Commissioners,,,32
+,Ronald R Donatucci,Ross Feinberg,Lisa M Deeley,Al Schmidt,Anthony Clark,32
+Ronald R Donatucci,5,0,36,10,28,32
+Ross Feinberg,,1,6,23,1,32
+Lisa M Deeley,,,0,9,25,32
+Al Schmidt,,,,3,1,32
+Anthony Clark,,,,,0,32
+Total,53,26,46,37,32,32
+,City Commissioners,,,Register Of Wills,,33
+,Lisa M Deeley,Anthony Clark,Al Schmidt,Ronald R Donatucci,Ross Feinberg,33
+Lisa M Deeley,6,55,9,63,13,33
+Anthony Clark,,0,3,61,5,33
+Al Schmidt,,,5,7,23,33
+Ronald R Donatucci,,,,5,0,33
+Ross Feinberg,,,,,8,33
+Total,83,67,35,80,39,33
+,Register Of Wills,,City Commissioners,,,34
+,Ronald R Donatucci,Ross Feinberg,Anthony Clark,Lisa M Deeley,Al Schmidt,34
+Ronald R Donatucci,2,0,46,41,6,34
+Ross Feinberg,,2,0,6,12,34
+Anthony Clark,,,1,34,1,34
+Lisa M Deeley,,,,0,7,34
+Al Schmidt,,,,,1,34
+Total,57,16,47,47,19,34
+,Register Of Wills,,City Commissioners,,,35
+,Ronald R Donatucci,Ross Feinberg,Anthony Clark,Lisa M Deeley,Al Schmidt,35
+Ronald R Donatucci,1,0,49,42,5,35
+Ross Feinberg,,0,2,4,20,35
+Anthony Clark,,,3,38,3,35
+Lisa M Deeley,,,,0,6,35
+Al Schmidt,,,,,2,35
+Total,57,20,55,47,27,35
+,Register Of Wills,,City Commissioners,,,36
+,Ronald R Donatucci,Ross Feinberg,Lisa M Deeley,Anthony Clark,Al Schmidt,36
+Ronald R Donatucci,2,0,43,39,7,36
+Ross Feinberg,,1,6,5,13,36
+Lisa M Deeley,,,3,37,5,36
+Anthony Clark,,,,2,3,36
+Al Schmidt,,,,,4,36
+Total,54,18,53,47,24,36
+,Register Of Wills,,City Commissioners,,,37
+,Ronald R Donatucci,Ross Feinberg,Lisa M Deeley,Anthony Clark,Al Schmidt,37
+Ronald R Donatucci,4,0,41,34,9,37
+Ross Feinberg,,4,6,2,25,37
+Lisa M Deeley,,,5,26,10,37
+Anthony Clark,,,,3,2,37
+Al Schmidt,,,,,1,37
+Total,58,31,54,41,35,37
+,Register Of Wills,,City Commissioners,,,38
+,Ronald R Donatucci,Ross Feinberg,Anthony Clark,Lisa M Deeley,Al Schmidt,38
+Ronald R Donatucci,9,0,49,41,6,38
+Ross Feinberg,,3,5,6,29,38
+Anthony Clark,,,3,35,5,38
+Lisa M Deeley,,,,3,7,38
+Al Schmidt,,,,,6,38
+Total,68,35,58,52,42,38
+,City Commissioners,,,Register Of Wills,,39
+,Lisa M Deeley,Anthony Clark,Al Schmidt,Ronald R Donatucci,Ross Feinberg,39
+Lisa M Deeley,5,45,7,45,10,39
+Anthony Clark,,1,1,48,5,39
+Al Schmidt,,,4,2,21,39
+Ronald R Donatucci,,,,4,0,39
+Ross Feinberg,,,,,5,39
+Total,61,55,27,57,31,39
+,Register Of Wills,,City Commissioners,,,40
+,Ronald R Donatucci,Ross Feinberg,Anthony Clark,Lisa M Deeley,Al Schmidt,40
+Ronald R Donatucci,2,0,40,38,3,40
+Ross Feinberg,,2,4,5,13,40
+Anthony Clark,,,0,35,2,40
+Lisa M Deeley,,,,0,2,40
+Al Schmidt,,,,,3,40
+Total,48,20,44,43,19,40
+,City Commissioners,,,Register Of Wills,,41
+,Lisa M Deeley,Anthony Clark,Al Schmidt,Ronald R Donatucci,Ross Feinberg,41
+Lisa M Deeley,2,78,11,76,12,41
+Anthony Clark,,7,1,77,3,41
+Al Schmidt,,,1,7,30,41
+Ronald R Donatucci,,,,9,0,41
+Ross Feinberg,,,,,5,41
+Total,99,95,41,98,41,41
+,Register Of Wills,,City Commissioners,,,All
+,Ronald R Donatucci,Ross Feinberg,Lisa M Deeley,Anthony Clark,Al Schmidt,All
+Ronald R Donatucci,189,0,"2,004","2,029",282,All
+Ross Feinberg,,102,382,204,"1,202",All
+Lisa M Deeley,,,170,"1,774",357,All
+Anthony Clark,,,,125,161,All
+Al Schmidt,,,,,83,All
+Total,"2,697","1,492","2,639","2,428","1,588",All

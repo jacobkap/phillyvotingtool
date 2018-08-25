@@ -53,6 +53,9 @@
 <input type="checkbox" id="vote_numbers" onchange="updateGraph()">
 <label for="vote_numbers">Number of Voters</label>
   <br><br>
+  <input type="checkbox" id="vote_time" onchange="updateGraph()">
+  <label for="vote_time">Average Time per Vote</label>
+    <br><br>
   <h3>Select a voting ward:</h3>
   <br>
   <select class="simple-select" id="time_ward" onchange="timeChange()">
@@ -96,7 +99,8 @@
    ctx_time = document.getElementById("time_graph").getContext('2d');
    graph_data = getGraphData();
    subsetted_graph_data = subsetGraphData(graph_data);
-   graph = makeGraph(subsetted_graph_data);
+   subsetted_graph_data_time = subsetGraphData(graph_data, type = "time");
+   graph = makeGraph(subsetted_graph_data, subsetted_graph_data_time);
       $("#time_graph").ready($("#loader").hide())
 
       geojson = L.geoJson(wards_polygon, {

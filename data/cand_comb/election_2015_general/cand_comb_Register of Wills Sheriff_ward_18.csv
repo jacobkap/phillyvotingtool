@@ -1,0 +1,127 @@
+col_1,col_2,col_3,col_4,col_5,division
+,Register Of Wills,,Sheriff,,1
+,Ronald R Donatucci,Ross Feinberg,Jewell Williams,Christopher Sawyer,1
+Ronald R Donatucci,7,0,142,22,1
+Ross Feinberg,,2,7,33,1
+Jewell Williams,,,5,0,1
+Christopher Sawyer,,,,2,1
+Total,171,42,154,57,1
+,Register Of Wills,,Sheriff,,2
+,Ronald R Donatucci,Ross Feinberg,Jewell Williams,Christopher Sawyer,2
+Ronald R Donatucci,9,0,96,37,2
+Ross Feinberg,,3,1,42,2
+Jewell Williams,,,10,0,2
+Christopher Sawyer,,,,9,2
+Total,142,46,107,88,2
+,Sheriff,,Register Of Wills,,3
+,Jewell Williams,Christopher Sawyer,Ronald R Donatucci,Ross Feinberg,3
+Jewell Williams,1,0,56,0,3
+Christopher Sawyer,,1,0,2,3
+Ronald R Donatucci,,,1,0,3
+Ross Feinberg,,,,0,3
+Total,57,3,57,2,3
+,Register Of Wills,,Sheriff,,4
+,Ronald R Donatucci,Ross Feinberg,Jewell Williams,Christopher Sawyer,4
+Ronald R Donatucci,10,0,93,17,4
+Ross Feinberg,,0,5,19,4
+Jewell Williams,,,1,0,4
+Christopher Sawyer,,,,10,4
+Total,120,24,99,46,4
+,Register Of Wills,,Sheriff,,5
+,Ronald R Donatucci,Ross Feinberg,Jewell Williams,Christopher Sawyer,5
+Ronald R Donatucci,6,0,83,19,5
+Ross Feinberg,,1,2,41,5
+Jewell Williams,,,2,0,5
+Christopher Sawyer,,,,4,5
+Total,108,44,87,64,5
+,Register Of Wills,,Sheriff,,6
+,Ronald R Donatucci,Ross Feinberg,Jewell Williams,Christopher Sawyer,6
+Ronald R Donatucci,11,0,74,16,6
+Ross Feinberg,,2,6,24,6
+Jewell Williams,,,3,0,6
+Christopher Sawyer,,,,5,6
+Total,101,32,83,45,6
+,Register Of Wills,,Sheriff,,7
+,Ronald R Donatucci,Ross Feinberg,Jewell Williams,Christopher Sawyer,7
+Ronald R Donatucci,8,0,85,23,7
+Ross Feinberg,,2,3,28,7
+Jewell Williams,,,1,0,7
+Christopher Sawyer,,,,4,7
+Total,116,33,89,55,7
+,Register Of Wills,,Sheriff,,8
+,Ronald R Donatucci,Ross Feinberg,Jewell Williams,Christopher Sawyer,8
+Ronald R Donatucci,2,0,33,0,8
+Ross Feinberg,,0,0,2,8
+Jewell Williams,,,1,0,8
+Christopher Sawyer,,,,0,8
+Total,35,2,34,2,8
+,Sheriff,,Register Of Wills,,9
+,Jewell Williams,Christopher Sawyer,Ronald R Donatucci,Ross Feinberg,9
+Jewell Williams,11,0,99,3,9
+Christopher Sawyer,,3,10,15,9
+Ronald R Donatucci,,,3,0,9
+Ross Feinberg,,,,4,9
+Total,113,28,112,22,9
+,Register Of Wills,,Sheriff,,10
+,Ronald R Donatucci,Ross Feinberg,Jewell Williams,Christopher Sawyer,10
+Ronald R Donatucci,9,0,113,14,10
+Ross Feinberg,,0,2,26,10
+Jewell Williams,,,3,0,10
+Christopher Sawyer,,,,8,10
+Total,136,28,118,48,10
+,Register Of Wills,,Sheriff,,11
+,Ronald R Donatucci,Ross Feinberg,Jewell Williams,Christopher Sawyer,11
+Ronald R Donatucci,1,0,79,32,11
+Ross Feinberg,,2,4,34,11
+Jewell Williams,,,4,0,11
+Christopher Sawyer,,,,6,11
+Total,112,40,87,72,11
+,Register Of Wills,,Sheriff,,12
+,Ronald R Donatucci,Ross Feinberg,Jewell Williams,Christopher Sawyer,12
+Ronald R Donatucci,9,0,93,33,12
+Ross Feinberg,,5,2,41,12
+Jewell Williams,,,5,0,12
+Christopher Sawyer,,,,7,12
+Total,135,48,100,81,12
+,Sheriff,,Register Of Wills,,13
+,Jewell Williams,Christopher Sawyer,Ronald R Donatucci,Ross Feinberg,13
+Jewell Williams,3,0,51,0,13
+Christopher Sawyer,,0,1,3,13
+Ronald R Donatucci,,,0,0,13
+Ross Feinberg,,,,1,13
+Total,54,4,52,4,13
+,Sheriff,,Register Of Wills,,14
+,Jewell Williams,Christopher Sawyer,Ronald R Donatucci,Ross Feinberg,14
+Jewell Williams,7,0,61,0,14
+Christopher Sawyer,,3,7,4,14
+Ronald R Donatucci,,,0,0,14
+Ross Feinberg,,,,0,14
+Total,68,14,68,4,14
+,Sheriff,,Register Of Wills,,15
+,Jewell Williams,Christopher Sawyer,Ronald R Donatucci,Ross Feinberg,15
+Jewell Williams,4,0,55,3,15
+Christopher Sawyer,,0,4,6,15
+Ronald R Donatucci,,,1,0,15
+Ross Feinberg,,,,0,15
+Total,62,10,60,9,15
+,Register Of Wills,,Sheriff,,16
+,Ronald R Donatucci,Ross Feinberg,Jewell Williams,Christopher Sawyer,16
+Ronald R Donatucci,1,0,62,8,16
+Ross Feinberg,,0,2,11,16
+Jewell Williams,,,1,0,16
+Christopher Sawyer,,,,1,16
+Total,71,13,65,20,16
+,Register Of Wills,,Sheriff,,17
+,Ronald R Donatucci,Ross Feinberg,Jewell Williams,Christopher Sawyer,17
+Ronald R Donatucci,8,0,86,5,17
+Ross Feinberg,,4,3,11,17
+Jewell Williams,,,7,0,17
+Christopher Sawyer,,,,1,17
+Total,99,18,96,17,17
+,Register Of Wills,,Sheriff,,All
+,Ronald R Donatucci,Ross Feinberg,Jewell Williams,Christopher Sawyer,All
+Ronald R Donatucci,86,0,"1,361",248,All
+Ross Feinberg,,26,43,342,All
+Jewell Williams,,,69,0,All
+Christopher Sawyer,,,,64,All
+Total,"1,695",411,"1,473",654,All

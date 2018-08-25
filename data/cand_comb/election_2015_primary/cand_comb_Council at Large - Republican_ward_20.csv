@@ -1,0 +1,51 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,division
+,Council At Large - Republican,,,,,,,1
+,Al Taubenberger,Terry Tracy,David Oh,Dennis M O Brien,James Williams,Matt Wolfe,Daniel Tinney,1
+Al Taubenberger,0,1,0,1,1,0,0,1
+Terry Tracy,,0,1,1,0,1,0,1
+David Oh,,,0,0,0,1,0,1
+Dennis M O Brien,,,,0,0,0,0,1
+James Williams,,,,,0,0,0,1
+Matt Wolfe,,,,,,0,0,1
+Daniel Tinney,,,,,,,0,1
+Total,2,2,1,1,1,1,0,1
+,Council At Large - Republican,,,,,,,4
+,David Oh,James Williams,Terry Tracy,Daniel Tinney,Dennis M O Brien,Al Taubenberger,Matt Wolfe,4
+David Oh,0,2,2,1,1,0,0,4
+James Williams,,0,2,1,1,0,0,4
+Terry Tracy,,,0,1,1,0,0,4
+Daniel Tinney,,,,0,1,0,0,4
+Dennis M O Brien,,,,,0,0,0,4
+Al Taubenberger,,,,,,0,0,4
+Matt Wolfe,,,,,,,0,4
+Total,2,2,2,1,1,0,0,4
+,Council At Large - Republican,,,,,,,7
+,David Oh,James Williams,Matt Wolfe,Al Taubenberger,Daniel Tinney,Dennis M O Brien,Terry Tracy,7
+David Oh,1,0,0,0,0,0,0,7
+James Williams,,0,1,0,0,0,0,7
+Matt Wolfe,,,0,0,0,0,0,7
+Al Taubenberger,,,,0,0,0,0,7
+Daniel Tinney,,,,,0,0,0,7
+Dennis M O Brien,,,,,,0,0,7
+Terry Tracy,,,,,,,0,7
+Total,1,1,1,0,0,0,0,7
+,Council At Large - Republican,,,,,,,10
+,Dennis M O Brien,Matt Wolfe,Terry Tracy,Al Taubenberger,David Oh,Daniel Tinney,James Williams,10
+Dennis M O Brien,0,3,3,2,2,0,0,10
+Matt Wolfe,,0,3,2,2,0,0,10
+Terry Tracy,,,0,2,2,0,0,10
+Al Taubenberger,,,,0,2,0,0,10
+David Oh,,,,,0,0,0,10
+Daniel Tinney,,,,,,0,0,10
+James Williams,,,,,,,0,10
+Total,3,3,3,2,2,0,0,10
+,Council At Large - Republican,,,,,,,All
+,Terry Tracy,David Oh,Dennis M O Brien,Matt Wolfe,Al Taubenberger,James Williams,Daniel Tinney,All
+Terry Tracy,0,5,5,4,3,2,1,All
+David Oh,,1,3,3,2,2,1,All
+Dennis M O Brien,,,0,3,3,1,1,All
+Matt Wolfe,,,,0,2,1,0,All
+Al Taubenberger,,,,,0,1,0,All
+James Williams,,,,,,0,1,All
+Daniel Tinney,,,,,,,0,All
+Total,7,6,5,5,4,4,1,All
