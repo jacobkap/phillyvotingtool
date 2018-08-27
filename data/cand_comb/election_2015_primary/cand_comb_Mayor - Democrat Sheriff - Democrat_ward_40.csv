@@ -1,0 +1,521 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,division
+,Sheriff - Democrat,Mayor - Democrat,,,,,,1
+,Jewell Williams,Anthony Hardy Williams,Jim Kenney,Lynne M Abraham,Doug Oliver,Nelson Diaz,T Milton Street Sr,1
+Jewell Williams,1,21,22,3,2,1,1,1
+Anthony Hardy Williams,,20,0,0,0,0,0,1
+Jim Kenney,,,12,0,0,0,0,1
+Lynne M Abraham,,,,4,0,0,0,1
+Doug Oliver,,,,,0,0,0,1
+Nelson Diaz,,,,,,1,0,1
+T Milton Street Sr,,,,,,,0,1
+Total,51,41,34,7,2,2,1,1
+,Mayor - Democrat,,,,,,Sheriff - Democrat,2
+,Anthony Hardy Williams,Jim Kenney,Lynne M Abraham,T Milton Street Sr,Doug Oliver,Nelson Diaz,Jewell Williams,2
+Anthony Hardy Williams,49,0,0,0,0,0,45,2
+Jim Kenney,,17,0,0,0,0,22,2
+Lynne M Abraham,,,2,0,0,0,6,2
+T Milton Street Sr,,,,3,0,0,0,2
+Doug Oliver,,,,,0,0,2,2
+Nelson Diaz,,,,,,0,0,2
+Jewell Williams,,,,,,,2,2
+Total,94,39,8,3,2,0,77,2
+,Sheriff - Democrat,Mayor - Democrat,,,,,,3
+,Jewell Williams,Anthony Hardy Williams,Jim Kenney,Doug Oliver,Lynne M Abraham,T Milton Street Sr,Nelson Diaz,3
+Jewell Williams,2,72,37,8,7,2,2,3
+Anthony Hardy Williams,,55,0,0,0,0,0,3
+Jim Kenney,,,55,0,0,0,0,3
+Doug Oliver,,,,2,0,0,0,3
+Lynne M Abraham,,,,,0,0,0,3
+T Milton Street Sr,,,,,,3,0,3
+Nelson Diaz,,,,,,,0,3
+Total,130,127,92,10,7,5,2,3
+,Sheriff - Democrat,Mayor - Democrat,,,,,,4
+,Jewell Williams,T Milton Street Sr,Anthony Hardy Williams,Jim Kenney,Lynne M Abraham,Doug Oliver,Nelson Diaz,4
+Jewell Williams,1,77,41,19,3,1,0,4
+T Milton Street Sr,,1,0,0,0,0,0,4
+Anthony Hardy Williams,,,13,0,0,0,0,4
+Jim Kenney,,,,11,0,0,0,4
+Lynne M Abraham,,,,,2,0,0,4
+Doug Oliver,,,,,,1,0,4
+Nelson Diaz,,,,,,,0,4
+Total,142,78,54,30,5,2,0,4
+,Sheriff - Democrat,Mayor - Democrat,,,,,,5
+,Jewell Williams,Anthony Hardy Williams,Jim Kenney,Lynne M Abraham,T Milton Street Sr,Doug Oliver,Nelson Diaz,5
+Jewell Williams,0,95,25,8,7,5,3,5
+Anthony Hardy Williams,,45,0,0,0,0,0,5
+Jim Kenney,,,38,0,0,0,0,5
+Lynne M Abraham,,,,2,0,0,0,5
+T Milton Street Sr,,,,,3,0,0,5
+Doug Oliver,,,,,,1,0,5
+Nelson Diaz,,,,,,,1,5
+Total,143,140,63,10,10,6,4,5
+,Sheriff - Democrat,Mayor - Democrat,,,,,,6
+,Jewell Williams,Anthony Hardy Williams,Jim Kenney,Lynne M Abraham,Nelson Diaz,T Milton Street Sr,Doug Oliver,6
+Jewell Williams,1,33,17,5,2,1,0,6
+Anthony Hardy Williams,,16,0,0,0,0,0,6
+Jim Kenney,,,17,0,0,0,0,6
+Lynne M Abraham,,,,3,0,0,0,6
+Nelson Diaz,,,,,2,0,0,6
+T Milton Street Sr,,,,,,2,0,6
+Doug Oliver,,,,,,,1,6
+Total,59,49,34,8,4,3,1,6
+,Mayor - Democrat,,,,,,Sheriff - Democrat,7
+,Anthony Hardy Williams,Jim Kenney,T Milton Street Sr,Lynne M Abraham,Doug Oliver,Nelson Diaz,Jewell Williams,7
+Anthony Hardy Williams,59,0,0,0,0,0,54,7
+Jim Kenney,,32,0,0,0,0,20,7
+T Milton Street Sr,,,2,0,0,0,4,7
+Lynne M Abraham,,,,3,0,0,1,7
+Doug Oliver,,,,,2,0,1,7
+Nelson Diaz,,,,,,0,2,7
+Jewell Williams,,,,,,,0,7
+Total,113,52,6,4,3,2,82,7
+,Mayor - Democrat,,,,,,Sheriff - Democrat,8
+,Anthony Hardy Williams,Jim Kenney,Lynne M Abraham,Doug Oliver,T Milton Street Sr,Nelson Diaz,Jewell Williams,8
+Anthony Hardy Williams,34,0,0,0,0,0,27,8
+Jim Kenney,,16,0,0,0,0,17,8
+Lynne M Abraham,,,4,0,0,0,5,8
+Doug Oliver,,,,2,0,0,2,8
+T Milton Street Sr,,,,,0,0,2,8
+Nelson Diaz,,,,,,1,0,8
+Jewell Williams,,,,,,,2,8
+Total,61,33,9,4,2,1,55,8
+,Mayor - Democrat,,,,,,Sheriff - Democrat,9
+,Anthony Hardy Williams,Jim Kenney,Doug Oliver,T Milton Street Sr,Nelson Diaz,Lynne M Abraham,Jewell Williams,9
+Anthony Hardy Williams,40,0,0,0,0,0,48,9
+Jim Kenney,,28,0,0,0,0,25,9
+Doug Oliver,,,1,0,0,0,4,9
+T Milton Street Sr,,,,2,0,0,2,9
+Nelson Diaz,,,,,1,0,2,9
+Lynne M Abraham,,,,,,0,1,9
+Jewell Williams,,,,,,,2,9
+Total,88,53,5,4,3,1,84,9
+,Sheriff - Democrat,Mayor - Democrat,,,,,,10
+,Jewell Williams,Anthony Hardy Williams,Jim Kenney,Lynne M Abraham,T Milton Street Sr,Doug Oliver,Nelson Diaz,10
+Jewell Williams,1,21,16,2,1,0,0,10
+Anthony Hardy Williams,,17,0,0,0,0,0,10
+Jim Kenney,,,12,0,0,0,0,10
+Lynne M Abraham,,,,1,0,0,0,10
+T Milton Street Sr,,,,,0,0,0,10
+Doug Oliver,,,,,,0,0,10
+Nelson Diaz,,,,,,,0,10
+Total,41,38,28,3,1,0,0,10
+,Mayor - Democrat,,,,,,Sheriff - Democrat,11
+,Anthony Hardy Williams,Jim Kenney,T Milton Street Sr,Doug Oliver,Lynne M Abraham,Nelson Diaz,Jewell Williams,11
+Anthony Hardy Williams,39,0,0,0,0,0,22,11
+Jim Kenney,,26,0,0,0,0,19,11
+T Milton Street Sr,,,4,0,0,0,2,11
+Doug Oliver,,,,0,0,0,1,11
+Lynne M Abraham,,,,,0,0,0,11
+Nelson Diaz,,,,,,0,0,11
+Jewell Williams,,,,,,,1,11
+Total,61,45,6,1,0,0,45,11
+,Sheriff - Democrat,Mayor - Democrat,,,,,,12
+,Jewell Williams,Anthony Hardy Williams,Jim Kenney,Doug Oliver,Lynne M Abraham,Nelson Diaz,T Milton Street Sr,12
+Jewell Williams,2,36,15,3,2,0,0,12
+Anthony Hardy Williams,,20,0,0,0,0,0,12
+Jim Kenney,,,13,0,0,0,0,12
+Doug Oliver,,,,0,0,0,0,12
+Lynne M Abraham,,,,,0,0,0,12
+Nelson Diaz,,,,,,0,0,12
+T Milton Street Sr,,,,,,,0,12
+Total,58,56,28,3,2,0,0,12
+,Mayor - Democrat,,,,,,Sheriff - Democrat,13
+,Anthony Hardy Williams,Jim Kenney,Doug Oliver,Lynne M Abraham,Nelson Diaz,T Milton Street Sr,Jewell Williams,13
+Anthony Hardy Williams,40,0,0,0,0,0,44,13
+Jim Kenney,,26,0,0,0,0,23,13
+Doug Oliver,,,1,0,0,0,3,13
+Lynne M Abraham,,,,0,0,0,4,13
+Nelson Diaz,,,,,0,0,1,13
+T Milton Street Sr,,,,,,0,0,13
+Jewell Williams,,,,,,,0,13
+Total,84,49,4,4,1,0,75,13
+,Sheriff - Democrat,Mayor - Democrat,,,,,,14
+,Jewell Williams,Anthony Hardy Williams,Jim Kenney,Lynne M Abraham,T Milton Street Sr,Doug Oliver,Nelson Diaz,14
+Jewell Williams,1,40,27,7,2,2,1,14
+Anthony Hardy Williams,,24,0,0,0,0,0,14
+Jim Kenney,,,21,0,0,0,0,14
+Lynne M Abraham,,,,4,0,0,0,14
+T Milton Street Sr,,,,,1,0,0,14
+Doug Oliver,,,,,,0,0,14
+Nelson Diaz,,,,,,,1,14
+Total,80,64,48,11,3,2,2,14
+,Mayor - Democrat,,,,,,Sheriff - Democrat,15
+,Anthony Hardy Williams,Jim Kenney,Lynne M Abraham,Doug Oliver,T Milton Street Sr,Nelson Diaz,Jewell Williams,15
+Anthony Hardy Williams,19,0,0,0,0,0,34,15
+Jim Kenney,,13,0,0,0,0,13,15
+Lynne M Abraham,,,1,0,0,0,3,15
+Doug Oliver,,,,1,0,0,2,15
+T Milton Street Sr,,,,,0,0,1,15
+Nelson Diaz,,,,,,0,0,15
+Jewell Williams,,,,,,,0,15
+Total,53,26,4,3,1,0,53,15
+,Sheriff - Democrat,Mayor - Democrat,,,,,,16
+,Jewell Williams,Anthony Hardy Williams,Jim Kenney,Doug Oliver,Lynne M Abraham,Nelson Diaz,T Milton Street Sr,16
+Jewell Williams,0,35,18,2,1,1,1,16
+Anthony Hardy Williams,,18,0,0,0,0,0,16
+Jim Kenney,,,9,0,0,0,0,16
+Doug Oliver,,,,1,0,0,0,16
+Lynne M Abraham,,,,,1,0,0,16
+Nelson Diaz,,,,,,1,0,16
+T Milton Street Sr,,,,,,,0,16
+Total,58,53,27,3,2,2,1,16
+,Sheriff - Democrat,Mayor - Democrat,,,,,,17
+,Jewell Williams,Anthony Hardy Williams,Jim Kenney,Lynne M Abraham,Doug Oliver,T Milton Street Sr,Nelson Diaz,17
+Jewell Williams,1,33,12,2,2,0,0,17
+Anthony Hardy Williams,,12,0,0,0,0,0,17
+Jim Kenney,,,20,0,0,0,0,17
+Lynne M Abraham,,,,2,0,0,0,17
+Doug Oliver,,,,,1,0,0,17
+T Milton Street Sr,,,,,,2,0,17
+Nelson Diaz,,,,,,,1,17
+Total,50,45,32,4,3,2,1,17
+,Sheriff - Democrat,Mayor - Democrat,,,,,,18
+,Jewell Williams,Anthony Hardy Williams,Jim Kenney,Doug Oliver,T Milton Street Sr,Lynne M Abraham,Nelson Diaz,18
+Jewell Williams,0,22,11,4,3,0,1,18
+Anthony Hardy Williams,,18,0,0,0,0,0,18
+Jim Kenney,,,13,0,0,0,0,18
+Doug Oliver,,,,3,0,0,0,18
+T Milton Street Sr,,,,,1,0,0,18
+Lynne M Abraham,,,,,,3,0,18
+Nelson Diaz,,,,,,,0,18
+Total,41,40,24,7,4,3,1,18
+,Sheriff - Democrat,Mayor - Democrat,,,,,,19
+,Jewell Williams,Anthony Hardy Williams,Jim Kenney,Lynne M Abraham,Doug Oliver,Nelson Diaz,T Milton Street Sr,19
+Jewell Williams,2,16,16,4,4,1,1,19
+Anthony Hardy Williams,,25,0,0,0,0,0,19
+Jim Kenney,,,16,0,0,0,0,19
+Lynne M Abraham,,,,2,0,0,0,19
+Doug Oliver,,,,,1,0,0,19
+Nelson Diaz,,,,,,0,0,19
+T Milton Street Sr,,,,,,,0,19
+Total,44,41,32,6,5,1,1,19
+,Mayor - Democrat,,,,,,Sheriff - Democrat,20
+,Anthony Hardy Williams,Jim Kenney,Lynne M Abraham,Doug Oliver,T Milton Street Sr,Nelson Diaz,Jewell Williams,20
+Anthony Hardy Williams,16,0,0,0,0,0,25,20
+Jim Kenney,,9,0,0,0,0,6,20
+Lynne M Abraham,,,4,0,0,0,3,20
+Doug Oliver,,,,1,0,0,1,20
+T Milton Street Sr,,,,,0,0,1,20
+Nelson Diaz,,,,,,0,0,20
+Jewell Williams,,,,,,,1,20
+Total,41,15,7,2,1,0,37,20
+,Mayor - Democrat,,,,,,Sheriff - Democrat,21
+,Jim Kenney,Anthony Hardy Williams,Doug Oliver,T Milton Street Sr,Lynne M Abraham,Nelson Diaz,Jewell Williams,21
+Jim Kenney,28,0,0,0,0,0,12,21
+Anthony Hardy Williams,,7,0,0,0,0,6,21
+Doug Oliver,,,0,0,0,0,2,21
+T Milton Street Sr,,,,0,0,0,1,21
+Lynne M Abraham,,,,,0,0,0,21
+Nelson Diaz,,,,,,0,0,21
+Jewell Williams,,,,,,,0,21
+Total,40,13,2,1,0,0,21,21
+,Sheriff - Democrat,Mayor - Democrat,,,,,,22
+,Jewell Williams,Anthony Hardy Williams,Jim Kenney,Lynne M Abraham,Doug Oliver,T Milton Street Sr,Nelson Diaz,22
+Jewell Williams,1,37,19,3,2,2,0,22
+Anthony Hardy Williams,,17,0,0,0,0,0,22
+Jim Kenney,,,21,0,0,0,0,22
+Lynne M Abraham,,,,3,0,0,0,22
+Doug Oliver,,,,,0,0,0,22
+T Milton Street Sr,,,,,,0,0,22
+Nelson Diaz,,,,,,,0,22
+Total,64,54,40,6,2,2,0,22
+,Mayor - Democrat,,,,,,Sheriff - Democrat,23
+,Anthony Hardy Williams,Jim Kenney,Doug Oliver,Lynne M Abraham,Nelson Diaz,T Milton Street Sr,Jewell Williams,23
+Anthony Hardy Williams,33,0,0,0,0,0,27,23
+Jim Kenney,,25,0,0,0,0,14,23
+Doug Oliver,,,1,0,0,0,4,23
+Lynne M Abraham,,,,2,0,0,3,23
+Nelson Diaz,,,,,0,0,1,23
+T Milton Street Sr,,,,,,0,1,23
+Jewell Williams,,,,,,,1,23
+Total,60,39,5,5,1,1,51,23
+,Sheriff - Democrat,Mayor - Democrat,,,,,,24
+,Jewell Williams,Anthony Hardy Williams,Jim Kenney,Doug Oliver,T Milton Street Sr,Nelson Diaz,Lynne M Abraham,24
+Jewell Williams,7,46,24,5,5,1,0,24
+Anthony Hardy Williams,,33,0,0,0,0,0,24
+Jim Kenney,,,40,0,0,0,0,24
+Doug Oliver,,,,5,0,0,0,24
+T Milton Street Sr,,,,,1,0,0,24
+Nelson Diaz,,,,,,1,0,24
+Lynne M Abraham,,,,,,,1,24
+Total,88,79,64,10,6,2,1,24
+,Sheriff - Democrat,Mayor - Democrat,,,,,,25
+,Jewell Williams,Anthony Hardy Williams,Jim Kenney,Lynne M Abraham,Doug Oliver,T Milton Street Sr,Nelson Diaz,25
+Jewell Williams,1,33,30,4,5,2,0,25
+Anthony Hardy Williams,,41,0,0,0,0,0,25
+Jim Kenney,,,23,0,0,0,0,25
+Lynne M Abraham,,,,4,0,0,0,25
+Doug Oliver,,,,,2,0,0,25
+T Milton Street Sr,,,,,,1,0,25
+Nelson Diaz,,,,,,,0,25
+Total,75,74,53,8,7,3,0,25
+,Mayor - Democrat,,,,,,Sheriff - Democrat,26
+,Anthony Hardy Williams,Jim Kenney,Lynne M Abraham,Nelson Diaz,T Milton Street Sr,Doug Oliver,Jewell Williams,26
+Anthony Hardy Williams,24,0,0,0,0,0,19,26
+Jim Kenney,,13,0,0,0,0,12,26
+Lynne M Abraham,,,1,0,0,0,3,26
+Nelson Diaz,,,,0,0,0,2,26
+T Milton Street Sr,,,,,0,0,2,26
+Doug Oliver,,,,,,1,0,26
+Jewell Williams,,,,,,,1,26
+Total,43,25,4,2,2,1,39,26
+,Sheriff - Democrat,Mayor - Democrat,,,,,,27
+,Jewell Williams,Anthony Hardy Williams,Jim Kenney,Lynne M Abraham,Doug Oliver,T Milton Street Sr,Nelson Diaz,27
+Jewell Williams,0,36,16,4,4,1,0,27
+Anthony Hardy Williams,,19,0,0,0,0,0,27
+Jim Kenney,,,12,0,0,0,0,27
+Lynne M Abraham,,,,4,0,0,0,27
+Doug Oliver,,,,,2,0,0,27
+T Milton Street Sr,,,,,,0,0,27
+Nelson Diaz,,,,,,,0,27
+Total,61,55,28,8,6,1,0,27
+,Sheriff - Democrat,Mayor - Democrat,,,,,,28
+,Jewell Williams,Anthony Hardy Williams,Jim Kenney,Lynne M Abraham,T Milton Street Sr,Doug Oliver,Nelson Diaz,28
+Jewell Williams,1,51,35,7,3,2,0,28
+Anthony Hardy Williams,,34,0,0,0,0,0,28
+Jim Kenney,,,22,0,0,0,0,28
+Lynne M Abraham,,,,3,0,0,0,28
+T Milton Street Sr,,,,,4,0,0,28
+Doug Oliver,,,,,,2,0,28
+Nelson Diaz,,,,,,,0,28
+Total,99,85,57,10,7,4,0,28
+,Sheriff - Democrat,Mayor - Democrat,,,,,,29
+,Jewell Williams,Anthony Hardy Williams,Jim Kenney,Lynne M Abraham,Doug Oliver,Nelson Diaz,T Milton Street Sr,29
+Jewell Williams,0,26,23,6,3,1,0,29
+Anthony Hardy Williams,,26,0,0,0,0,0,29
+Jim Kenney,,,29,0,0,0,0,29
+Lynne M Abraham,,,,4,0,0,0,29
+Doug Oliver,,,,,1,0,0,29
+Nelson Diaz,,,,,,1,0,29
+T Milton Street Sr,,,,,,,0,29
+Total,59,52,52,10,4,2,0,29
+,Sheriff - Democrat,Mayor - Democrat,,,,,,30
+,Jewell Williams,Anthony Hardy Williams,Jim Kenney,Doug Oliver,Lynne M Abraham,Nelson Diaz,T Milton Street Sr,30
+Jewell Williams,1,47,29,4,3,1,0,30
+Anthony Hardy Williams,,31,0,0,0,0,0,30
+Jim Kenney,,,14,0,0,0,0,30
+Doug Oliver,,,,2,0,0,0,30
+Lynne M Abraham,,,,,2,0,0,30
+Nelson Diaz,,,,,,1,0,30
+T Milton Street Sr,,,,,,,1,30
+Total,85,78,43,6,5,2,1,30
+,Sheriff - Democrat,Mayor - Democrat,,,,,,31
+,Jewell Williams,Jim Kenney,Anthony Hardy Williams,Lynne M Abraham,T Milton Street Sr,Doug Oliver,Nelson Diaz,31
+Jewell Williams,0,46,33,2,3,3,2,31
+Jim Kenney,,29,0,0,0,0,0,31
+Anthony Hardy Williams,,,18,0,0,0,0,31
+Lynne M Abraham,,,,3,0,0,0,31
+T Milton Street Sr,,,,,1,0,0,31
+Doug Oliver,,,,,,0,0,31
+Nelson Diaz,,,,,,,0,31
+Total,89,75,51,5,4,3,2,31
+,Sheriff - Democrat,Mayor - Democrat,,,,,,32
+,Jewell Williams,Anthony Hardy Williams,Jim Kenney,Doug Oliver,Lynne M Abraham,Nelson Diaz,T Milton Street Sr,32
+Jewell Williams,0,43,31,9,4,4,1,32
+Anthony Hardy Williams,,26,0,0,0,0,0,32
+Jim Kenney,,,38,0,0,0,0,32
+Doug Oliver,,,,0,0,0,0,32
+Lynne M Abraham,,,,,1,0,0,32
+Nelson Diaz,,,,,,1,0,32
+T Milton Street Sr,,,,,,,0,32
+Total,92,69,69,9,5,5,1,32
+,Mayor - Democrat,,,,,,Sheriff - Democrat,33
+,Jim Kenney,Anthony Hardy Williams,Doug Oliver,Lynne M Abraham,Nelson Diaz,T Milton Street Sr,Jewell Williams,33
+Jim Kenney,22,0,0,0,0,0,17,33
+Anthony Hardy Williams,,13,0,0,0,0,12,33
+Doug Oliver,,,2,0,0,0,0,33
+Lynne M Abraham,,,,0,0,0,1,33
+Nelson Diaz,,,,,0,0,0,33
+T Milton Street Sr,,,,,,0,0,33
+Jewell Williams,,,,,,,1,33
+Total,39,25,2,1,0,0,31,33
+,Mayor - Democrat,,,,,,Sheriff - Democrat,34
+,Jim Kenney,Anthony Hardy Williams,Lynne M Abraham,T Milton Street Sr,Doug Oliver,Nelson Diaz,Jewell Williams,34
+Jim Kenney,33,0,0,0,0,0,21,34
+Anthony Hardy Williams,,11,0,0,0,0,22,34
+Lynne M Abraham,,,2,0,0,0,3,34
+T Milton Street Sr,,,,1,0,0,2,34
+Doug Oliver,,,,,1,0,1,34
+Nelson Diaz,,,,,,1,1,34
+Jewell Williams,,,,,,,1,34
+Total,54,33,5,3,2,2,51,34
+,Sheriff - Democrat,Mayor - Democrat,,,,,,35
+,Jewell Williams,Anthony Hardy Williams,Jim Kenney,Nelson Diaz,Doug Oliver,Lynne M Abraham,T Milton Street Sr,35
+Jewell Williams,0,36,23,4,4,0,0,35
+Anthony Hardy Williams,,28,0,0,0,0,0,35
+Jim Kenney,,,38,0,0,0,0,35
+Nelson Diaz,,,,2,0,0,0,35
+Doug Oliver,,,,,1,0,0,35
+Lynne M Abraham,,,,,,2,0,35
+T Milton Street Sr,,,,,,,1,35
+Total,67,64,61,6,5,2,1,35
+,Mayor - Democrat,,,,,,Sheriff - Democrat,36
+,Jim Kenney,Anthony Hardy Williams,Doug Oliver,Lynne M Abraham,T Milton Street Sr,Nelson Diaz,Jewell Williams,36
+Jim Kenney,37,0,0,0,0,0,28,36
+Anthony Hardy Williams,,20,0,0,0,0,20,36
+Doug Oliver,,,2,0,0,0,4,36
+Lynne M Abraham,,,,1,0,0,3,36
+T Milton Street Sr,,,,,0,0,1,36
+Nelson Diaz,,,,,,0,0,36
+Jewell Williams,,,,,,,1,36
+Total,65,40,6,4,1,0,57,36
+,Sheriff - Democrat,Mayor - Democrat,,,,,,37
+,Jewell Williams,Jim Kenney,Anthony Hardy Williams,Lynne M Abraham,Nelson Diaz,Doug Oliver,T Milton Street Sr,37
+Jewell Williams,1,67,59,3,2,3,0,37
+Jim Kenney,,57,0,0,0,0,0,37
+Anthony Hardy Williams,,,26,0,0,0,0,37
+Lynne M Abraham,,,,3,0,0,0,37
+Nelson Diaz,,,,,2,0,0,37
+Doug Oliver,,,,,,0,0,37
+T Milton Street Sr,,,,,,,0,37
+Total,135,124,85,6,4,3,0,37
+,Sheriff - Democrat,Mayor - Democrat,,,,,,38
+,Jewell Williams,Jim Kenney,Anthony Hardy Williams,Lynne M Abraham,Doug Oliver,T Milton Street Sr,Nelson Diaz,38
+Jewell Williams,0,86,75,17,6,3,1,38
+Jim Kenney,,60,0,0,0,0,0,38
+Anthony Hardy Williams,,,28,0,0,0,0,38
+Lynne M Abraham,,,,6,0,0,0,38
+Doug Oliver,,,,,3,0,0,38
+T Milton Street Sr,,,,,,1,0,38
+Nelson Diaz,,,,,,,1,38
+Total,188,146,103,23,9,4,2,38
+,Mayor - Democrat,,,,,,Sheriff - Democrat,39
+,Anthony Hardy Williams,Jim Kenney,Doug Oliver,Lynne M Abraham,T Milton Street Sr,Nelson Diaz,Jewell Williams,39
+Anthony Hardy Williams,27,0,0,0,0,0,18,39
+Jim Kenney,,19,0,0,0,0,20,39
+Doug Oliver,,,2,0,0,0,2,39
+Lynne M Abraham,,,,0,0,0,2,39
+T Milton Street Sr,,,,,1,0,1,39
+Nelson Diaz,,,,,,0,0,39
+Jewell Williams,,,,,,,1,39
+Total,45,39,4,2,2,0,44,39
+,Sheriff - Democrat,Mayor - Democrat,,,,,,40
+,Jewell Williams,Jim Kenney,Anthony Hardy Williams,Doug Oliver,Lynne M Abraham,Nelson Diaz,T Milton Street Sr,40
+Jewell Williams,3,98,74,9,11,5,2,40
+Jim Kenney,,56,0,0,0,0,0,40
+Anthony Hardy Williams,,,25,0,0,0,0,40
+Doug Oliver,,,,4,0,0,0,40
+Lynne M Abraham,,,,,1,0,0,40
+Nelson Diaz,,,,,,1,0,40
+T Milton Street Sr,,,,,,,0,40
+Total,202,154,99,13,12,6,2,40
+,Mayor - Democrat,,,,,,Sheriff - Democrat,41
+,Jim Kenney,Anthony Hardy Williams,Lynne M Abraham,Doug Oliver,Nelson Diaz,T Milton Street Sr,Jewell Williams,41
+Jim Kenney,61,0,0,0,0,0,15,41
+Anthony Hardy Williams,,20,0,0,0,0,25,41
+Lynne M Abraham,,,1,0,0,0,5,41
+Doug Oliver,,,,2,0,0,1,41
+Nelson Diaz,,,,,0,0,3,41
+T Milton Street Sr,,,,,,0,1,41
+Jewell Williams,,,,,,,0,41
+Total,76,45,6,3,3,1,50,41
+,Sheriff - Democrat,Mayor - Democrat,,,,,,42
+,Jewell Williams,Jim Kenney,Anthony Hardy Williams,Lynne M Abraham,Doug Oliver,Nelson Diaz,T Milton Street Sr,42
+Jewell Williams,3,56,37,5,6,3,2,42
+Jim Kenney,,40,0,0,0,0,0,42
+Anthony Hardy Williams,,,17,0,0,0,0,42
+Lynne M Abraham,,,,2,0,0,0,42
+Doug Oliver,,,,,0,0,0,42
+Nelson Diaz,,,,,,1,0,42
+T Milton Street Sr,,,,,,,0,42
+Total,112,96,54,7,6,4,2,42
+,Mayor - Democrat,,,,,,Sheriff - Democrat,43
+,Jim Kenney,Anthony Hardy Williams,Lynne M Abraham,Doug Oliver,T Milton Street Sr,Nelson Diaz,Jewell Williams,43
+Jim Kenney,31,0,0,0,0,0,31,43
+Anthony Hardy Williams,,19,0,0,0,0,24,43
+Lynne M Abraham,,,6,0,0,0,0,43
+Doug Oliver,,,,0,0,0,1,43
+T Milton Street Sr,,,,,1,0,0,43
+Nelson Diaz,,,,,,0,0,43
+Jewell Williams,,,,,,,1,43
+Total,62,43,6,1,1,0,57,43
+,Sheriff - Democrat,Mayor - Democrat,,,,,,44
+,Jewell Williams,Jim Kenney,Anthony Hardy Williams,Lynne M Abraham,Doug Oliver,T Milton Street Sr,Nelson Diaz,44
+Jewell Williams,2,61,67,9,5,3,3,44
+Jim Kenney,,42,0,0,0,0,0,44
+Anthony Hardy Williams,,,33,0,0,0,0,44
+Lynne M Abraham,,,,1,0,0,0,44
+Doug Oliver,,,,,2,0,0,44
+T Milton Street Sr,,,,,,4,0,44
+Nelson Diaz,,,,,,,0,44
+Total,150,103,100,10,7,7,3,44
+,Sheriff - Democrat,Mayor - Democrat,,,,,,45
+,Jewell Williams,Jim Kenney,Anthony Hardy Williams,Doug Oliver,Lynne M Abraham,Nelson Diaz,T Milton Street Sr,45
+Jewell Williams,3,59,71,10,5,1,1,45
+Jim Kenney,,47,0,0,0,0,0,45
+Anthony Hardy Williams,,,28,0,0,0,0,45
+Doug Oliver,,,,1,0,0,0,45
+Lynne M Abraham,,,,,4,0,0,45
+Nelson Diaz,,,,,,5,0,45
+T Milton Street Sr,,,,,,,1,45
+Total,150,106,99,11,9,6,2,45
+,Sheriff - Democrat,Mayor - Democrat,,,,,,46
+,Jewell Williams,Jim Kenney,Anthony Hardy Williams,Lynne M Abraham,Doug Oliver,T Milton Street Sr,Nelson Diaz,46
+Jewell Williams,2,66,64,7,3,3,1,46
+Jim Kenney,,61,0,0,0,0,0,46
+Anthony Hardy Williams,,,30,0,0,0,0,46
+Lynne M Abraham,,,,2,0,0,0,46
+Doug Oliver,,,,,5,0,0,46
+T Milton Street Sr,,,,,,2,0,46
+Nelson Diaz,,,,,,,1,46
+Total,146,127,94,9,8,5,2,46
+,Sheriff - Democrat,Mayor - Democrat,,,,,,47
+,Jewell Williams,Anthony Hardy Williams,Jim Kenney,Lynne M Abraham,T Milton Street Sr,Doug Oliver,Nelson Diaz,47
+Jewell Williams,1,20,9,2,0,0,0,47
+Anthony Hardy Williams,,7,0,0,0,0,0,47
+Jim Kenney,,,16,0,0,0,0,47
+Lynne M Abraham,,,,1,0,0,0,47
+T Milton Street Sr,,,,,1,0,0,47
+Doug Oliver,,,,,,0,0,47
+Nelson Diaz,,,,,,,0,47
+Total,32,27,25,3,1,0,0,47
+,Sheriff - Democrat,Mayor - Democrat,,,,,,48
+,Jewell Williams,Jim Kenney,Anthony Hardy Williams,Lynne M Abraham,Doug Oliver,T Milton Street Sr,Nelson Diaz,48
+Jewell Williams,1,71,45,10,1,1,2,48
+Jim Kenney,,33,0,0,0,0,0,48
+Anthony Hardy Williams,,,22,0,0,0,0,48
+Lynne M Abraham,,,,7,0,0,0,48
+Doug Oliver,,,,,3,0,0,48
+T Milton Street Sr,,,,,,2,0,48
+Nelson Diaz,,,,,,,0,48
+Total,131,104,67,17,4,3,2,48
+,Mayor - Democrat,,,,,,Sheriff - Democrat,49
+,Jim Kenney,Anthony Hardy Williams,Lynne M Abraham,Doug Oliver,Nelson Diaz,T Milton Street Sr,Jewell Williams,49
+Jim Kenney,78,0,0,0,0,0,59,49
+Anthony Hardy Williams,,21,0,0,0,0,34,49
+Lynne M Abraham,,,7,0,0,0,3,49
+Doug Oliver,,,,2,0,0,5,49
+Nelson Diaz,,,,,1,0,5,49
+T Milton Street Sr,,,,,,2,1,49
+Jewell Williams,,,,,,,0,49
+Total,137,55,10,7,6,3,107,49
+,Mayor - Democrat,,,,,,Sheriff - Democrat,50
+,Jim Kenney,Anthony Hardy Williams,Lynne M Abraham,Doug Oliver,T Milton Street Sr,Nelson Diaz,Jewell Williams,50
+Jim Kenney,58,0,0,0,0,0,59,50
+Anthony Hardy Williams,,23,0,0,0,0,24,50
+Lynne M Abraham,,,3,0,0,0,6,50
+Doug Oliver,,,,1,0,0,6,50
+T Milton Street Sr,,,,,2,0,5,50
+Nelson Diaz,,,,,,2,1,50
+Jewell Williams,,,,,,,2,50
+Total,117,47,9,7,7,3,103,50
+,Sheriff - Democrat,Mayor - Democrat,,,,,,51
+,Jewell Williams,Jim Kenney,Anthony Hardy Williams,Doug Oliver,Lynne M Abraham,T Milton Street Sr,Nelson Diaz,51
+Jewell Williams,0,18,28,2,3,2,0,51
+Jim Kenney,,26,0,0,0,0,0,51
+Anthony Hardy Williams,,,12,0,0,0,0,51
+Doug Oliver,,,,1,0,0,0,51
+Lynne M Abraham,,,,,0,0,0,51
+T Milton Street Sr,,,,,,0,0,51
+Nelson Diaz,,,,,,,0,51
+Total,53,44,40,3,3,2,0,51
+,Sheriff - Democrat,Mayor - Democrat,,,,,,All
+,Jewell Williams,Anthony Hardy Williams,Jim Kenney,Lynne M Abraham,Doug Oliver,T Milton Street Sr,Nelson Diaz,All
+Jewell Williams,56,"1,923","1,535",201,161,157,61,All
+Anthony Hardy Williams,,"1,298",0,0,0,0,0,All
+Jim Kenney,,,"1,513",0,0,0,0,All
+Lynne M Abraham,,,,115,0,0,0,All
+Doug Oliver,,,,,67,0,0,All
+T Milton Street Sr,,,,,,51,0,All
+Nelson Diaz,,,,,,,30,All
+Total,"4,094","3,221","3,048",316,228,208,91,All

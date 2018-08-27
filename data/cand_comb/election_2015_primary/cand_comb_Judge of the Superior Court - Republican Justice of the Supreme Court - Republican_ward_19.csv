@@ -1,0 +1,131 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,division
+,Judge Of The Superior Court - Republican,Justice Of The Supreme Court - Republican,,,,,,1
+,Emil Giordano,Mike George,Anne Covey,Cheryl Allen,Correale Stevens,Judy Olson,Rebecca Warren,1
+Emil Giordano,1,0,0,0,0,0,0,1
+Mike George,,1,0,0,0,0,0,1
+Anne Covey,,,0,0,0,0,0,1
+Cheryl Allen,,,,0,0,0,0,1
+Correale Stevens,,,,,0,0,0,1
+Judy Olson,,,,,,0,0,1
+Rebecca Warren,,,,,,,0,1
+Total,1,1,0,0,0,0,0,1
+,Judge Of The Superior Court - Republican,Justice Of The Supreme Court - Republican,,,,,,2
+,Emil Giordano,Anne Covey,Correale Stevens,Rebecca Warren,Cheryl Allen,Judy Olson,Mike George,2
+Emil Giordano,0,1,1,1,0,0,0,2
+Anne Covey,,0,1,0,0,0,0,2
+Correale Stevens,,,0,0,0,0,0,2
+Rebecca Warren,,,,0,0,0,0,2
+Cheryl Allen,,,,,0,0,0,2
+Judy Olson,,,,,,0,0,2
+Mike George,,,,,,,0,2
+Total,2,1,1,1,0,0,0,2
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Superior Court - Republican,4
+,Anne Covey,Correale Stevens,Mike George,Cheryl Allen,Judy Olson,Rebecca Warren,Emil Giordano,4
+Anne Covey,0,1,1,0,0,0,0,4
+Correale Stevens,,0,1,0,0,0,0,4
+Mike George,,,0,0,0,0,0,4
+Cheryl Allen,,,,0,0,0,0,4
+Judy Olson,,,,,0,0,0,4
+Rebecca Warren,,,,,,0,0,4
+Emil Giordano,,,,,,,0,4
+Total,1,1,1,0,0,0,0,4
+,Judge Of The Superior Court - Republican,Justice Of The Supreme Court - Republican,,,,,,5
+,Emil Giordano,Anne Covey,Cheryl Allen,Correale Stevens,Judy Olson,Mike George,Rebecca Warren,5
+Emil Giordano,1,0,0,0,0,0,0,5
+Anne Covey,,0,0,0,0,0,0,5
+Cheryl Allen,,,0,0,0,0,0,5
+Correale Stevens,,,,0,0,0,0,5
+Judy Olson,,,,,0,0,0,5
+Mike George,,,,,,0,0,5
+Rebecca Warren,,,,,,,0,5
+Total,1,0,0,0,0,0,0,5
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Superior Court - Republican,7
+,Cheryl Allen,Correale Stevens,Judy Olson,Anne Covey,Mike George,Rebecca Warren,Emil Giordano,7
+Cheryl Allen,0,1,1,0,0,0,0,7
+Correale Stevens,,0,1,0,0,0,0,7
+Judy Olson,,,0,0,0,0,0,7
+Anne Covey,,,,0,0,0,0,7
+Mike George,,,,,0,0,0,7
+Rebecca Warren,,,,,,0,0,7
+Emil Giordano,,,,,,,1,7
+Total,1,1,1,0,0,0,1,7
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Superior Court - Republican,8
+,Anne Covey,Correale Stevens,Judy Olson,Cheryl Allen,Mike George,Rebecca Warren,Emil Giordano,8
+Anne Covey,0,1,2,0,1,0,1,8
+Correale Stevens,,1,0,1,0,0,1,8
+Judy Olson,,,0,0,1,0,0,8
+Cheryl Allen,,,,0,0,0,0,8
+Mike George,,,,,0,0,0,8
+Rebecca Warren,,,,,,0,0,8
+Emil Giordano,,,,,,,0,8
+Total,3,3,2,1,1,0,1,8
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Superior Court - Republican,9
+,Anne Covey,Correale Stevens,Cheryl Allen,Judy Olson,Mike George,Rebecca Warren,Emil Giordano,9
+Anne Covey,0,1,0,0,0,0,1,9
+Correale Stevens,,0,0,0,0,0,1,9
+Cheryl Allen,,,0,0,0,0,0,9
+Judy Olson,,,,0,0,0,0,9
+Mike George,,,,,0,0,0,9
+Rebecca Warren,,,,,,0,0,9
+Emil Giordano,,,,,,,0,9
+Total,1,1,0,0,0,0,1,9
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Superior Court - Republican,10
+,Correale Stevens,Anne Covey,Cheryl Allen,Judy Olson,Mike George,Rebecca Warren,Emil Giordano,10
+Correale Stevens,1,0,0,0,0,0,0,10
+Anne Covey,,0,0,0,0,0,0,10
+Cheryl Allen,,,0,0,0,0,0,10
+Judy Olson,,,,0,0,0,0,10
+Mike George,,,,,0,0,0,10
+Rebecca Warren,,,,,,0,0,10
+Emil Giordano,,,,,,,0,10
+Total,1,0,0,0,0,0,0,10
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Superior Court - Republican,11
+,Correale Stevens,Rebecca Warren,Anne Covey,Cheryl Allen,Judy Olson,Mike George,Emil Giordano,11
+Correale Stevens,1,0,0,0,0,0,0,11
+Rebecca Warren,,0,0,0,0,0,1,11
+Anne Covey,,,0,0,0,0,0,11
+Cheryl Allen,,,,0,0,0,0,11
+Judy Olson,,,,,0,0,0,11
+Mike George,,,,,,0,0,11
+Emil Giordano,,,,,,,0,11
+Total,1,1,0,0,0,0,1,11
+,Judge Of The Superior Court - Republican,Justice Of The Supreme Court - Republican,,,,,,12
+,Emil Giordano,Anne Covey,Correale Stevens,Judy Olson,Rebecca Warren,Cheryl Allen,Mike George,12
+Emil Giordano,0,3,1,1,1,0,0,12
+Anne Covey,,0,1,0,0,0,0,12
+Correale Stevens,,,0,0,0,0,0,12
+Judy Olson,,,,0,1,0,0,12
+Rebecca Warren,,,,,0,0,0,12
+Cheryl Allen,,,,,,0,0,12
+Mike George,,,,,,,0,12
+Total,4,3,1,1,1,0,0,12
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Superior Court - Republican,13
+,Anne Covey,Cheryl Allen,Correale Stevens,Judy Olson,Mike George,Rebecca Warren,Emil Giordano,13
+Anne Covey,1,0,0,0,0,0,1,13
+Cheryl Allen,,0,0,0,0,0,0,13
+Correale Stevens,,,0,0,0,0,0,13
+Judy Olson,,,,0,0,0,0,13
+Mike George,,,,,0,0,0,13
+Rebecca Warren,,,,,,0,0,13
+Emil Giordano,,,,,,,0,13
+Total,2,0,0,0,0,0,1,13
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Superior Court - Republican,14
+,Correale Stevens,Anne Covey,Cheryl Allen,Judy Olson,Mike George,Rebecca Warren,Emil Giordano,14
+Correale Stevens,1,0,0,0,0,0,0,14
+Anne Covey,,0,0,0,0,0,0,14
+Cheryl Allen,,,0,0,0,0,0,14
+Judy Olson,,,,0,0,0,0,14
+Mike George,,,,,0,0,0,14
+Rebecca Warren,,,,,,0,0,14
+Emil Giordano,,,,,,,0,14
+Total,1,0,0,0,0,0,0,14
+,Judge Of The Superior Court - Republican,Justice Of The Supreme Court - Republican,,,,,,All
+,Emil Giordano,Anne Covey,Correale Stevens,Judy Olson,Mike George,Rebecca Warren,Cheryl Allen,All
+Emil Giordano,3,7,4,1,0,3,0,All
+Anne Covey,,1,5,2,2,0,0,All
+Correale Stevens,,,4,1,1,0,2,All
+Judy Olson,,,,0,1,1,1,All
+Mike George,,,,,1,0,0,All
+Rebecca Warren,,,,,,0,0,All
+Cheryl Allen,,,,,,,0,All
+Total,13,11,11,4,3,3,2,All

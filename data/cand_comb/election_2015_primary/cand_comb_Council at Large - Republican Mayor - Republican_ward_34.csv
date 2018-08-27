@@ -1,0 +1,276 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,division
+,Council At Large - Republican,,,,,,,Mayor - Republican,6
+,James Williams,Terry Tracy,Al Taubenberger,Daniel Tinney,David Oh,Dennis M O Brien,Matt Wolfe,Melissa Murray Bailey,6
+James Williams,0,1,0,0,0,0,0,1,6
+Terry Tracy,,0,0,0,0,0,0,1,6
+Al Taubenberger,,,0,0,0,0,0,0,6
+Daniel Tinney,,,,0,0,0,0,0,6
+David Oh,,,,,0,0,0,0,6
+Dennis M O Brien,,,,,,0,0,0,6
+Matt Wolfe,,,,,,,0,0,6
+Melissa Murray Bailey,,,,,,,,0,6
+Total,1,1,0,0,0,0,0,1,6
+,Council At Large - Republican,,,,,,,Mayor - Republican,7
+,Al Taubenberger,David Oh,James Williams,Daniel Tinney,Dennis M O Brien,Matt Wolfe,Terry Tracy,Melissa Murray Bailey,7
+Al Taubenberger,0,1,1,0,0,0,0,0,7
+David Oh,,0,1,0,0,0,0,0,7
+James Williams,,,0,0,0,0,0,0,7
+Daniel Tinney,,,,0,0,0,0,0,7
+Dennis M O Brien,,,,,0,0,0,0,7
+Matt Wolfe,,,,,,0,0,0,7
+Terry Tracy,,,,,,,0,0,7
+Melissa Murray Bailey,,,,,,,,0,7
+Total,1,1,1,0,0,0,0,0,7
+,Council At Large - Republican,,,,,,,Mayor - Republican,12
+,Daniel Tinney,Al Taubenberger,David Oh,Dennis M O Brien,James Williams,Matt Wolfe,Terry Tracy,Melissa Murray Bailey,12
+Daniel Tinney,0,0,0,0,0,0,0,1,12
+Al Taubenberger,,0,0,0,0,0,0,0,12
+David Oh,,,0,0,0,0,0,0,12
+Dennis M O Brien,,,,0,0,0,0,0,12
+James Williams,,,,,0,0,0,0,12
+Matt Wolfe,,,,,,0,0,0,12
+Terry Tracy,,,,,,,0,0,12
+Melissa Murray Bailey,,,,,,,,0,12
+Total,1,0,0,0,0,0,0,1,12
+,Council At Large - Republican,,,,,,,Mayor - Republican,14
+,Al Taubenberger,Daniel Tinney,David Oh,Dennis M O Brien,Matt Wolfe,James Williams,Terry Tracy,Melissa Murray Bailey,14
+Al Taubenberger,0,1,1,1,1,0,0,1,14
+Daniel Tinney,,0,1,1,1,0,0,1,14
+David Oh,,,0,1,1,0,0,1,14
+Dennis M O Brien,,,,0,1,0,0,1,14
+Matt Wolfe,,,,,0,0,0,1,14
+James Williams,,,,,,0,0,0,14
+Terry Tracy,,,,,,,0,0,14
+Melissa Murray Bailey,,,,,,,,0,14
+Total,1,1,1,1,1,0,0,1,14
+,Council At Large - Republican,,,,,,,Mayor - Republican,17
+,James Williams,Daniel Tinney,David Oh,Dennis M O Brien,Terry Tracy,Al Taubenberger,Matt Wolfe,Melissa Murray Bailey,17
+James Williams,0,1,1,1,1,0,0,3,17
+Daniel Tinney,,0,1,1,1,0,0,1,17
+David Oh,,,0,1,1,0,0,1,17
+Dennis M O Brien,,,,0,1,0,0,1,17
+Terry Tracy,,,,,0,0,0,1,17
+Al Taubenberger,,,,,,0,0,0,17
+Matt Wolfe,,,,,,,0,0,17
+Melissa Murray Bailey,,,,,,,,0,17
+Total,3,1,1,1,1,0,0,3,17
+,Council At Large - Republican,,,,,,,Mayor - Republican,18
+,Daniel Tinney,David Oh,Matt Wolfe,Al Taubenberger,Dennis M O Brien,James Williams,Terry Tracy,Melissa Murray Bailey,18
+Daniel Tinney,0,2,1,0,0,0,0,1,18
+David Oh,,0,1,0,0,0,0,1,18
+Matt Wolfe,,,0,0,0,0,0,0,18
+Al Taubenberger,,,,0,0,0,0,0,18
+Dennis M O Brien,,,,,0,0,0,0,18
+James Williams,,,,,,0,0,0,18
+Terry Tracy,,,,,,,0,0,18
+Melissa Murray Bailey,,,,,,,,0,18
+Total,2,2,1,0,0,0,0,1,18
+,Council At Large - Republican,,,,,,,Mayor - Republican,20
+,Daniel Tinney,Al Taubenberger,James Williams,Matt Wolfe,Terry Tracy,David Oh,Dennis M O Brien,Melissa Murray Bailey,20
+Daniel Tinney,1,1,1,1,1,0,0,1,20
+Al Taubenberger,,0,1,1,1,0,0,1,20
+James Williams,,,0,1,1,0,0,1,20
+Matt Wolfe,,,,0,1,0,0,1,20
+Terry Tracy,,,,,0,0,0,1,20
+David Oh,,,,,,0,0,0,20
+Dennis M O Brien,,,,,,,0,0,20
+Melissa Murray Bailey,,,,,,,,0,20
+Total,2,1,1,1,1,0,0,1,20
+,Council At Large - Republican,,,,,,,Mayor - Republican,21
+,David Oh,Al Taubenberger,Daniel Tinney,James Williams,Matt Wolfe,Dennis M O Brien,Terry Tracy,Melissa Murray Bailey,21
+David Oh,1,2,2,3,2,1,1,5,21
+Al Taubenberger,,0,3,1,3,2,1,3,21
+Daniel Tinney,,,0,1,3,2,1,3,21
+James Williams,,,,0,1,0,1,3,21
+Matt Wolfe,,,,,0,2,1,3,21
+Dennis M O Brien,,,,,,0,1,2,21
+Terry Tracy,,,,,,,0,2,21
+Melissa Murray Bailey,,,,,,,,0,21
+Total,6,3,3,3,3,2,2,6,21
+,Council At Large - Republican,,,,,,,Mayor - Republican,22
+,David Oh,Al Taubenberger,Dennis M O Brien,Daniel Tinney,James Williams,Matt Wolfe,Terry Tracy,Melissa Murray Bailey,22
+David Oh,0,2,2,1,1,1,1,4,22
+Al Taubenberger,,0,0,0,0,0,0,2,22
+Dennis M O Brien,,,0,1,1,1,1,2,22
+Daniel Tinney,,,,0,0,1,1,1,22
+James Williams,,,,,0,0,0,1,22
+Matt Wolfe,,,,,,0,1,1,22
+Terry Tracy,,,,,,,0,1,22
+Melissa Murray Bailey,,,,,,,,0,22
+Total,4,2,2,1,1,1,1,4,22
+,Mayor - Republican,Council At Large - Republican,,,,,,,23
+,Melissa Murray Bailey,David Oh,Terry Tracy,Dennis M O Brien,Matt Wolfe,Al Taubenberger,Daniel Tinney,James Williams,23
+Melissa Murray Bailey,0,12,11,7,6,6,5,6,23
+David Oh,,0,11,7,6,5,4,4,23
+Terry Tracy,,,0,7,6,6,5,5,23
+Dennis M O Brien,,,,0,3,4,5,3,23
+Matt Wolfe,,,,,0,5,3,2,23
+Al Taubenberger,,,,,,0,3,2,23
+Daniel Tinney,,,,,,,0,4,23
+James Williams,,,,,,,,1,23
+Total,14,13,12,8,8,7,7,7,23
+,Council At Large - Republican,,,,,,,Mayor - Republican,24
+,David Oh,Dennis M O Brien,Terry Tracy,Daniel Tinney,James Williams,Matt Wolfe,Al Taubenberger,Melissa Murray Bailey,24
+David Oh,0,1,2,1,1,1,0,2,24
+Dennis M O Brien,,1,1,2,2,2,0,2,24
+Terry Tracy,,,0,1,1,1,0,2,24
+Daniel Tinney,,,,0,2,2,0,2,24
+James Williams,,,,,0,2,0,2,24
+Matt Wolfe,,,,,,0,0,2,24
+Al Taubenberger,,,,,,,0,0,24
+Melissa Murray Bailey,,,,,,,,0,24
+Total,3,3,3,2,2,2,0,3,24
+,Council At Large - Republican,,,,,,,Mayor - Republican,25
+,David Oh,Matt Wolfe,Al Taubenberger,Daniel Tinney,Dennis M O Brien,James Williams,Terry Tracy,Melissa Murray Bailey,25
+David Oh,0,4,5,5,5,3,2,4,25
+Matt Wolfe,,1,3,3,3,1,2,4,25
+Al Taubenberger,,,0,3,4,1,2,3,25
+Daniel Tinney,,,,0,3,2,0,2,25
+Dennis M O Brien,,,,,0,2,2,3,25
+James Williams,,,,,,0,1,2,25
+Terry Tracy,,,,,,,0,3,25
+Melissa Murray Bailey,,,,,,,,0,25
+Total,7,6,5,5,5,3,3,5,25
+,Council At Large - Republican,,,,,,,Mayor - Republican,28
+,James Williams,Terry Tracy,Al Taubenberger,Daniel Tinney,David Oh,Dennis M O Brien,Matt Wolfe,Melissa Murray Bailey,28
+James Williams,0,1,0,0,0,0,0,1,28
+Terry Tracy,,0,0,0,0,0,0,1,28
+Al Taubenberger,,,0,0,0,0,0,0,28
+Daniel Tinney,,,,0,0,0,0,0,28
+David Oh,,,,,0,0,0,0,28
+Dennis M O Brien,,,,,,0,0,0,28
+Matt Wolfe,,,,,,,0,0,28
+Melissa Murray Bailey,,,,,,,,0,28
+Total,1,1,0,0,0,0,0,1,28
+,Council At Large - Republican,,,,,,,Mayor - Republican,29
+,Daniel Tinney,David Oh,Dennis M O Brien,Matt Wolfe,Al Taubenberger,James Williams,Terry Tracy,Melissa Murray Bailey,29
+Daniel Tinney,0,4,4,4,2,0,0,4,29
+David Oh,,0,4,4,2,0,0,4,29
+Dennis M O Brien,,,0,4,2,0,0,4,29
+Matt Wolfe,,,,0,2,0,0,4,29
+Al Taubenberger,,,,,0,0,0,2,29
+James Williams,,,,,,0,0,0,29
+Terry Tracy,,,,,,,0,0,29
+Melissa Murray Bailey,,,,,,,,0,29
+Total,4,4,4,4,2,0,0,4,29
+,Council At Large - Republican,,,,,,,Mayor - Republican,30
+,Matt Wolfe,Daniel Tinney,David Oh,Dennis M O Brien,Terry Tracy,Al Taubenberger,James Williams,Melissa Murray Bailey,30
+Matt Wolfe,0,1,1,1,1,0,0,2,30
+Daniel Tinney,,0,0,0,1,0,0,1,30
+David Oh,,,0,1,0,0,0,1,30
+Dennis M O Brien,,,,0,0,0,0,1,30
+Terry Tracy,,,,,0,0,0,1,30
+Al Taubenberger,,,,,,0,0,0,30
+James Williams,,,,,,,0,0,30
+Melissa Murray Bailey,,,,,,,,0,30
+Total,2,1,1,1,1,0,0,2,30
+,Mayor - Republican,Council At Large - Republican,,,,,,,31
+,Melissa Murray Bailey,Terry Tracy,Al Taubenberger,James Williams,Matt Wolfe,Daniel Tinney,David Oh,Dennis M O Brien,31
+Melissa Murray Bailey,1,4,2,3,2,2,2,2,31
+Terry Tracy,,0,2,3,2,2,2,2,31
+Al Taubenberger,,,0,1,3,1,1,1,31
+James Williams,,,,0,1,1,2,1,31
+Matt Wolfe,,,,,0,1,1,1,31
+Daniel Tinney,,,,,,0,1,2,31
+David Oh,,,,,,,0,1,31
+Dennis M O Brien,,,,,,,,0,31
+Total,5,4,3,3,3,2,2,2,31
+,Council At Large - Republican,,,,,,,Mayor - Republican,33
+,Daniel Tinney,David Oh,Dennis M O Brien,Al Taubenberger,Matt Wolfe,Terry Tracy,James Williams,Melissa Murray Bailey,33
+Daniel Tinney,1,1,1,0,1,1,0,1,33
+David Oh,,0,2,1,1,1,0,2,33
+Dennis M O Brien,,,0,1,1,1,0,2,33
+Al Taubenberger,,,,0,0,0,0,1,33
+Matt Wolfe,,,,,0,1,0,1,33
+Terry Tracy,,,,,,0,0,1,33
+James Williams,,,,,,,0,0,33
+Melissa Murray Bailey,,,,,,,,0,33
+Total,2,2,2,1,1,1,0,2,33
+,Mayor - Republican,Council At Large - Republican,,,,,,,34
+,Melissa Murray Bailey,David Oh,Dennis M O Brien,Matt Wolfe,Terry Tracy,Daniel Tinney,Al Taubenberger,James Williams,34
+Melissa Murray Bailey,0,6,6,6,5,5,4,1,34
+David Oh,,1,6,4,4,3,3,2,34
+Dennis M O Brien,,,0,4,3,4,3,2,34
+Matt Wolfe,,,,0,4,2,4,0,34
+Terry Tracy,,,,,0,2,3,1,34
+Daniel Tinney,,,,,,0,2,1,34
+Al Taubenberger,,,,,,,0,0,34
+James Williams,,,,,,,,0,34
+Total,10,9,7,7,7,5,4,2,34
+,Council At Large - Republican,,,,,,,Mayor - Republican,35
+,David Oh,Al Taubenberger,Daniel Tinney,Dennis M O Brien,James Williams,Matt Wolfe,Terry Tracy,Melissa Murray Bailey,35
+David Oh,0,0,0,0,0,0,0,1,35
+Al Taubenberger,,0,0,0,0,0,0,0,35
+Daniel Tinney,,,0,0,0,0,0,0,35
+Dennis M O Brien,,,,0,0,0,0,0,35
+James Williams,,,,,0,0,0,0,35
+Matt Wolfe,,,,,,0,0,0,35
+Terry Tracy,,,,,,,0,0,35
+Melissa Murray Bailey,,,,,,,,0,35
+Total,1,0,0,0,0,0,0,1,35
+,Council At Large - Republican,,,,,,,Mayor - Republican,36
+,Daniel Tinney,David Oh,Dennis M O Brien,Matt Wolfe,Terry Tracy,Al Taubenberger,James Williams,Melissa Murray Bailey,36
+Daniel Tinney,0,1,1,1,1,0,0,1,36
+David Oh,,0,1,1,1,0,0,1,36
+Dennis M O Brien,,,0,1,1,0,0,1,36
+Matt Wolfe,,,,0,1,0,0,1,36
+Terry Tracy,,,,,0,0,0,1,36
+Al Taubenberger,,,,,,0,0,0,36
+James Williams,,,,,,,0,0,36
+Melissa Murray Bailey,,,,,,,,0,36
+Total,1,1,1,1,1,0,0,1,36
+,Council At Large - Republican,,,,,,,Mayor - Republican,37
+,Daniel Tinney,David Oh,Terry Tracy,Dennis M O Brien,James Williams,Al Taubenberger,Matt Wolfe,Melissa Murray Bailey,37
+Daniel Tinney,0,2,2,1,1,0,0,2,37
+David Oh,,0,2,1,1,0,0,2,37
+Terry Tracy,,,0,1,1,0,0,2,37
+Dennis M O Brien,,,,0,1,0,0,1,37
+James Williams,,,,,0,0,0,1,37
+Al Taubenberger,,,,,,0,0,0,37
+Matt Wolfe,,,,,,,0,0,37
+Melissa Murray Bailey,,,,,,,,0,37
+Total,2,2,2,1,1,0,0,2,37
+,Mayor - Republican,Council At Large - Republican,,,,,,,39
+,Melissa Murray Bailey,Al Taubenberger,David Oh,James Williams,Matt Wolfe,Daniel Tinney,Dennis M O Brien,Terry Tracy,39
+Melissa Murray Bailey,0,2,2,2,2,1,1,1,39
+Al Taubenberger,,0,1,2,2,1,1,1,39
+David Oh,,,0,1,1,0,0,1,39
+James Williams,,,,0,2,1,1,1,39
+Matt Wolfe,,,,,0,1,1,1,39
+Daniel Tinney,,,,,,0,1,0,39
+Dennis M O Brien,,,,,,,0,0,39
+Terry Tracy,,,,,,,,0,39
+Total,3,2,2,2,2,1,1,1,39
+,Council At Large - Republican,,,,,,,Mayor - Republican,41
+,David Oh,Al Taubenberger,Daniel Tinney,Matt Wolfe,Terry Tracy,Dennis M O Brien,James Williams,Melissa Murray Bailey,41
+David Oh,0,2,2,2,2,1,1,3,41
+Al Taubenberger,,0,2,2,1,1,0,2,41
+Daniel Tinney,,,0,2,1,1,0,2,41
+Matt Wolfe,,,,0,1,1,0,2,41
+Terry Tracy,,,,,0,0,1,2,41
+Dennis M O Brien,,,,,,0,0,1,41
+James Williams,,,,,,,0,1,41
+Melissa Murray Bailey,,,,,,,,0,41
+Total,3,2,2,2,2,1,1,3,41
+,Council At Large - Republican,,,,,,,Mayor - Republican,42
+,David Oh,James Williams,Terry Tracy,Al Taubenberger,Daniel Tinney,Dennis M O Brien,Matt Wolfe,Melissa Murray Bailey,42
+David Oh,0,1,1,0,0,0,0,1,42
+James Williams,,0,1,0,0,0,0,1,42
+Terry Tracy,,,0,0,0,0,0,1,42
+Al Taubenberger,,,,0,0,0,0,0,42
+Daniel Tinney,,,,,0,0,0,0,42
+Dennis M O Brien,,,,,,0,0,0,42
+Matt Wolfe,,,,,,,0,0,42
+Melissa Murray Bailey,,,,,,,,0,42
+Total,1,1,1,0,0,0,0,1,42
+,Mayor - Republican,Council At Large - Republican,,,,,,,All
+,Melissa Murray Bailey,David Oh,Daniel Tinney,Matt Wolfe,Terry Tracy,Dennis M O Brien,Al Taubenberger,James Williams,All
+Melissa Murray Bailey,1,55,37,38,41,37,29,29,All
+David Oh,,2,31,31,32,35,26,22,All
+Daniel Tinney,,,2,28,20,30,19,15,All
+Matt Wolfe,,,,1,23,26,26,10,All
+Terry Tracy,,,,,0,21,17,20,All
+Dennis M O Brien,,,,,,1,20,14,All
+Al Taubenberger,,,,,,,0,9,All
+James Williams,,,,,,,,1,All
+Total,75,66,45,45,45,42,34,33,All

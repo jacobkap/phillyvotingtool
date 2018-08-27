@@ -1,4 +1,13 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,division
+,Mayor,,,,,District Council 2nd District,All
+,Jim Kenney,Melissa Murray Bailey,James Foster,Osborne Hart,Boris Kindij,Kenyatta Johnson,All
+Jim Kenney,586,0,0,0,0,"1,953",All
+Melissa Murray Bailey,,355,0,0,0,179,All
+James Foster,,,25,0,0,18,All
+Osborne Hart,,,,11,0,17,All
+Boris Kindij,,,,,1,4,All
+Kenyatta Johnson,,,,,,55,All
+Total,"2,539",534,43,28,5,"2,226",All
 ,Mayor,,,,,District Council 2nd District,1
 ,Jim Kenney,Melissa Murray Bailey,Osborne Hart,James Foster,Boris Kindij,Kenyatta Johnson,1
 Jim Kenney,39,0,0,0,0,117,1
@@ -62,15 +71,6 @@ Osborne Hart,,,,1,0,0,7
 Boris Kindij,,,,,0,0,7
 Kenyatta Johnson,,,,,,9,7
 Total,257,46,5,1,0,226,7
-,Mayor,,,,,District Council 2nd District,8
-,Jim Kenney,Melissa Murray Bailey,James Foster,Osborne Hart,Boris Kindij,Kenyatta Johnson,8
-Jim Kenney,192,0,0,0,0,0,8
-Melissa Murray Bailey,,39,0,0,0,0,8
-James Foster,,,1,0,0,0,8
-Osborne Hart,,,,1,0,0,8
-Boris Kindij,,,,,0,0,8
-Kenyatta Johnson,,,,,,0,8
-Total,192,39,1,1,0,0,8
 ,Mayor,,,,,District Council 2nd District,9
 ,Jim Kenney,Melissa Murray Bailey,Osborne Hart,James Foster,Boris Kindij,Kenyatta Johnson,9
 Jim Kenney,53,0,0,0,0,110,9
@@ -80,24 +80,6 @@ James Foster,,,,4,0,0,9
 Boris Kindij,,,,,0,1,9
 Kenyatta Johnson,,,,,,3,9
 Total,163,48,5,4,1,129,9
-,Mayor,,,,,District Council 2nd District,10
-,Jim Kenney,Melissa Murray Bailey,James Foster,Osborne Hart,Boris Kindij,Kenyatta Johnson,10
-Jim Kenney,252,0,0,0,0,0,10
-Melissa Murray Bailey,,68,0,0,0,0,10
-James Foster,,,5,0,0,0,10
-Osborne Hart,,,,1,0,0,10
-Boris Kindij,,,,,0,0,10
-Kenyatta Johnson,,,,,,0,10
-Total,252,68,5,1,0,0,10
-,Mayor,,,,,District Council 2nd District,11
-,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Kenyatta Johnson,11
-Jim Kenney,118,0,0,0,0,0,11
-Melissa Murray Bailey,,22,0,0,0,0,11
-Boris Kindij,,,0,0,0,0,11
-James Foster,,,,0,0,0,11
-Osborne Hart,,,,,0,0,11
-Kenyatta Johnson,,,,,,0,11
-Total,118,22,0,0,0,0,11
 ,Mayor,,,,,District Council 2nd District,12
 ,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Kenyatta Johnson,12
 Jim Kenney,27,0,0,0,0,114,12
@@ -125,51 +107,6 @@ James Foster,,,,0,0,2,14
 Boris Kindij,,,,,1,0,14
 Kenyatta Johnson,,,,,,4,14
 Total,217,40,5,2,1,168,14
-,Mayor,,,,,District Council 2nd District,15
-,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Kenyatta Johnson,15
-Jim Kenney,158,0,0,0,0,0,15
-Melissa Murray Bailey,,40,0,0,0,0,15
-Boris Kindij,,,1,0,0,0,15
-James Foster,,,,1,0,0,15
-Osborne Hart,,,,,0,0,15
-Kenyatta Johnson,,,,,,0,15
-Total,158,40,1,1,0,0,15
-,Mayor,,,,,District Council 2nd District,16
-,Jim Kenney,Melissa Murray Bailey,Osborne Hart,Boris Kindij,James Foster,Kenyatta Johnson,16
-Jim Kenney,254,0,0,0,0,0,16
-Melissa Murray Bailey,,53,0,0,0,0,16
-Osborne Hart,,,2,0,0,0,16
-Boris Kindij,,,,0,0,0,16
-James Foster,,,,,0,0,16
-Kenyatta Johnson,,,,,,0,16
-Total,254,53,2,0,0,0,16
-,Mayor,,,,,District Council 2nd District,17
-,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Kenyatta Johnson,17
-Jim Kenney,105,0,0,0,0,0,17
-Melissa Murray Bailey,,32,0,0,0,0,17
-Boris Kindij,,,1,0,0,0,17
-James Foster,,,,1,0,0,17
-Osborne Hart,,,,,0,0,17
-Kenyatta Johnson,,,,,,0,17
-Total,105,32,1,1,0,0,17
-,Mayor,,,,,District Council 2nd District,18
-,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Kenyatta Johnson,18
-Jim Kenney,243,0,0,0,0,0,18
-Melissa Murray Bailey,,51,0,0,0,0,18
-James Foster,,,3,0,0,0,18
-Boris Kindij,,,,0,0,0,18
-Osborne Hart,,,,,0,0,18
-Kenyatta Johnson,,,,,,0,18
-Total,243,51,3,0,0,0,18
-,Mayor,,,,,District Council 2nd District,19
-,Jim Kenney,Melissa Murray Bailey,Osborne Hart,James Foster,Boris Kindij,Kenyatta Johnson,19
-Jim Kenney,209,0,0,0,0,0,19
-Melissa Murray Bailey,,52,0,0,0,0,19
-Osborne Hart,,,4,0,0,0,19
-James Foster,,,,2,0,0,19
-Boris Kindij,,,,,1,0,19
-Kenyatta Johnson,,,,,,0,19
-Total,209,52,4,2,1,0,19
 ,Mayor,,,,,District Council 2nd District,20
 ,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Kenyatta Johnson,20
 Jim Kenney,10,0,0,0,0,56,20
@@ -188,51 +125,6 @@ James Foster,,,,1,0,0,21
 Osborne Hart,,,,,1,0,21
 Kenyatta Johnson,,,,,,5,21
 Total,231,55,1,1,1,204,21
-,Mayor,,,,,District Council 2nd District,22
-,Jim Kenney,Melissa Murray Bailey,Osborne Hart,Boris Kindij,James Foster,Kenyatta Johnson,22
-Jim Kenney,53,0,0,0,0,0,22
-Melissa Murray Bailey,,16,0,0,0,0,22
-Osborne Hart,,,2,0,0,0,22
-Boris Kindij,,,,0,0,0,22
-James Foster,,,,,0,0,22
-Kenyatta Johnson,,,,,,0,22
-Total,53,16,2,0,0,0,22
-,Mayor,,,,,District Council 2nd District,23
-,Jim Kenney,Melissa Murray Bailey,Osborne Hart,James Foster,Boris Kindij,Kenyatta Johnson,23
-Jim Kenney,241,0,0,0,0,0,23
-Melissa Murray Bailey,,46,0,0,0,0,23
-Osborne Hart,,,2,0,0,0,23
-James Foster,,,,1,0,0,23
-Boris Kindij,,,,,0,0,23
-Kenyatta Johnson,,,,,,0,23
-Total,241,46,2,1,0,0,23
-,Mayor,,,,,District Council 2nd District,24
-,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Kenyatta Johnson,24
-Jim Kenney,255,0,0,0,0,0,24
-Melissa Murray Bailey,,66,0,0,0,0,24
-James Foster,,,2,0,0,0,24
-Boris Kindij,,,,0,0,0,24
-Osborne Hart,,,,,0,0,24
-Kenyatta Johnson,,,,,,0,24
-Total,255,66,2,0,0,0,24
-,Mayor,,,,,District Council 2nd District,25
-,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Kenyatta Johnson,25
-Jim Kenney,175,0,0,0,0,0,25
-Melissa Murray Bailey,,37,0,0,0,0,25
-Boris Kindij,,,2,0,0,0,25
-James Foster,,,,1,0,0,25
-Osborne Hart,,,,,1,0,25
-Kenyatta Johnson,,,,,,0,25
-Total,175,37,2,1,1,0,25
-,Mayor,,,,,District Council 2nd District,26
-,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Kenyatta Johnson,26
-Jim Kenney,227,0,0,0,0,0,26
-Melissa Murray Bailey,,29,0,0,0,0,26
-James Foster,,,7,0,0,0,26
-Boris Kindij,,,,1,0,0,26
-Osborne Hart,,,,,1,0,26
-Kenyatta Johnson,,,,,,0,26
-Total,227,29,7,1,1,0,26
 ,District Council 2nd District,Mayor,,,,,27
 ,Kenyatta Johnson,Jim Kenney,Melissa Murray Bailey,James Foster,Osborne Hart,Boris Kindij,27
 Kenyatta Johnson,3,74,7,1,0,0,27
@@ -251,30 +143,3 @@ Osborne Hart,,,,1,0,2,28
 Boris Kindij,,,,,0,0,28
 Kenyatta Johnson,,,,,,5,28
 Total,195,34,7,3,0,159,28
-,Mayor,,,,,District Council 2nd District,29
-,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Kenyatta Johnson,29
-Jim Kenney,332,0,0,0,0,0,29
-Melissa Murray Bailey,,87,0,0,0,0,29
-James Foster,,,3,0,0,0,29
-Boris Kindij,,,,2,0,0,29
-Osborne Hart,,,,,2,0,29
-Kenyatta Johnson,,,,,,0,29
-Total,332,87,3,2,2,0,29
-,Mayor,,,,,District Council 2nd District,30
-,Jim Kenney,Melissa Murray Bailey,James Foster,Osborne Hart,Boris Kindij,Kenyatta Johnson,30
-Jim Kenney,148,0,0,0,0,0,30
-Melissa Murray Bailey,,20,0,0,0,0,30
-James Foster,,,2,0,0,0,30
-Osborne Hart,,,,2,0,0,30
-Boris Kindij,,,,,1,0,30
-Kenyatta Johnson,,,,,,0,30
-Total,148,20,2,2,1,0,30
-,Mayor,,,,,District Council 2nd District,All
-,Jim Kenney,Melissa Murray Bailey,James Foster,Osborne Hart,Boris Kindij,Kenyatta Johnson,All
-Jim Kenney,"3,548",0,0,0,0,"1,953",All
-Melissa Murray Bailey,,"1,013",0,0,0,179,All
-James Foster,,,54,0,0,18,All
-Osborne Hart,,,,29,0,17,All
-Boris Kindij,,,,,10,4,All
-Kenyatta Johnson,,,,,,55,All
-Total,"5,501","1,192",72,46,14,"2,226",All

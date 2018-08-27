@@ -1,0 +1,71 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,division
+,Register Of Wills - Republican,Justice Of The Supreme Court - Republican,,,,,,1
+,Ross Feinberg,Mike George,Anne Covey,Correale Stevens,Judy Olson,Cheryl Allen,Rebecca Warren,1
+Ross Feinberg,0,3,2,2,2,1,0,1
+Mike George,,0,2,1,1,0,0,1
+Anne Covey,,,0,1,1,0,0,1
+Correale Stevens,,,,0,1,1,0,1
+Judy Olson,,,,,0,1,0,1
+Cheryl Allen,,,,,,0,0,1
+Rebecca Warren,,,,,,,0,1
+Total,4,3,2,2,2,1,0,1
+,Justice Of The Supreme Court - Republican,,,,,,Register Of Wills - Republican,2
+,Correale Stevens,Anne Covey,Cheryl Allen,Rebecca Warren,Judy Olson,Mike George,Ross Feinberg,2
+Correale Stevens,0,1,1,1,0,0,1,2
+Anne Covey,,0,0,1,0,0,1,2
+Cheryl Allen,,,0,0,0,0,0,2
+Rebecca Warren,,,,0,0,0,1,2
+Judy Olson,,,,,0,0,0,2
+Mike George,,,,,,0,0,2
+Ross Feinberg,,,,,,,0,2
+Total,2,1,1,1,0,0,1,2
+,Justice Of The Supreme Court - Republican,,,,,,Register Of Wills - Republican,4
+,Anne Covey,Correale Stevens,Rebecca Warren,Cheryl Allen,Judy Olson,Mike George,Ross Feinberg,4
+Anne Covey,0,3,1,0,0,0,2,4
+Correale Stevens,,0,1,0,0,0,2,4
+Rebecca Warren,,,0,0,0,0,0,4
+Cheryl Allen,,,,0,0,0,0,4
+Judy Olson,,,,,0,0,0,4
+Mike George,,,,,,0,0,4
+Ross Feinberg,,,,,,,0,4
+Total,3,3,1,0,0,0,2,4
+,Justice Of The Supreme Court - Republican,,,,,,Register Of Wills - Republican,9
+,Anne Covey,Correale Stevens,Judy Olson,Mike George,Cheryl Allen,Rebecca Warren,Ross Feinberg,9
+Anne Covey,0,0,1,1,0,0,0,9
+Correale Stevens,,0,0,0,0,0,1,9
+Judy Olson,,,0,1,0,0,0,9
+Mike George,,,,0,0,0,0,9
+Cheryl Allen,,,,,0,0,0,9
+Rebecca Warren,,,,,,0,0,9
+Ross Feinberg,,,,,,,0,9
+Total,1,1,1,1,0,0,1,9
+,Register Of Wills - Republican,Justice Of The Supreme Court - Republican,,,,,,10
+,Ross Feinberg,Anne Covey,Correale Stevens,Mike George,Cheryl Allen,Judy Olson,Rebecca Warren,10
+Ross Feinberg,0,2,2,2,1,1,1,10
+Anne Covey,,0,1,2,0,1,0,10
+Correale Stevens,,,0,1,1,0,1,10
+Mike George,,,,0,0,1,0,10
+Cheryl Allen,,,,,0,0,1,10
+Judy Olson,,,,,,0,0,10
+Rebecca Warren,,,,,,,0,10
+Total,3,2,2,2,1,1,1,10
+,Justice Of The Supreme Court - Republican,,,,,,Register Of Wills - Republican,11
+,Anne Covey,Correale Stevens,Rebecca Warren,Cheryl Allen,Judy Olson,Mike George,Ross Feinberg,11
+Anne Covey,0,1,1,0,0,0,1,11
+Correale Stevens,,0,1,0,0,0,1,11
+Rebecca Warren,,,0,0,0,0,1,11
+Cheryl Allen,,,,0,0,0,0,11
+Judy Olson,,,,,0,0,0,11
+Mike George,,,,,,0,0,11
+Ross Feinberg,,,,,,,0,11
+Total,1,1,1,0,0,0,1,11
+,Register Of Wills - Republican,Justice Of The Supreme Court - Republican,,,,,,All
+,Ross Feinberg,Correale Stevens,Anne Covey,Mike George,Judy Olson,Rebecca Warren,Cheryl Allen,All
+Ross Feinberg,0,9,8,5,3,3,2,All
+Correale Stevens,,0,7,2,1,4,3,All
+Anne Covey,,,0,5,3,3,0,All
+Mike George,,,,0,3,0,0,All
+Judy Olson,,,,,0,0,1,All
+Rebecca Warren,,,,,,0,1,All
+Cheryl Allen,,,,,,,0,All
+Total,12,11,10,6,4,4,3,All

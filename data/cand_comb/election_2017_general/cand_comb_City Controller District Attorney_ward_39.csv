@@ -1,0 +1,330 @@
+col_1,col_2,col_3,col_4,col_5,division
+,City Controller,,District Attorney,,All
+,Rebecca Rhynhart,Michael Tomlinson,Lawrence S Krasner,Beth Grossman,All
+Rebecca Rhynhart,69,0,"2,770",744,All
+Michael Tomlinson,,14,58,"1,281",All
+Lawrence S Krasner,,,93,0,All
+Beth Grossman,,,,512,All
+Total,"3,583","1,353","2,921","2,537",All
+,City Controller,,District Attorney,,1
+,Rebecca Rhynhart,Michael Tomlinson,Lawrence S Krasner,Beth Grossman,1
+Rebecca Rhynhart,0,0,37,9,1
+Michael Tomlinson,,0,2,24,1
+Lawrence S Krasner,,,1,0,1
+Beth Grossman,,,,3,1
+Total,46,26,40,36,1
+,City Controller,,District Attorney,,2
+,Rebecca Rhynhart,Michael Tomlinson,Lawrence S Krasner,Beth Grossman,2
+Rebecca Rhynhart,1,0,31,6,2
+Michael Tomlinson,,0,0,6,2
+Lawrence S Krasner,,,5,0,2
+Beth Grossman,,,,23,2
+Total,38,6,36,35,2
+,District Attorney,,City Controller,,3
+,Beth Grossman,Lawrence S Krasner,Rebecca Rhynhart,Michael Tomlinson,3
+Beth Grossman,23,0,41,43,3
+Lawrence S Krasner,,5,38,1,3
+Rebecca Rhynhart,,,2,0,3
+Michael Tomlinson,,,,1,3
+Total,107,44,81,45,3
+,City Controller,,District Attorney,,4
+,Rebecca Rhynhart,Michael Tomlinson,Beth Grossman,Lawrence S Krasner,4
+Rebecca Rhynhart,1,0,6,28,4
+Michael Tomlinson,,0,18,1,4
+Beth Grossman,,,9,0,4
+Lawrence S Krasner,,,,3,4
+Total,35,19,33,32,4
+,City Controller,,District Attorney,,5
+,Rebecca Rhynhart,Michael Tomlinson,Lawrence S Krasner,Beth Grossman,5
+Rebecca Rhynhart,2,0,66,5,5
+Michael Tomlinson,,0,1,11,5
+Lawrence S Krasner,,,1,0,5
+Beth Grossman,,,,2,5
+Total,73,12,68,18,5
+,District Attorney,,City Controller,,6
+,Beth Grossman,Lawrence S Krasner,Rebecca Rhynhart,Michael Tomlinson,6
+Beth Grossman,52,0,43,63,6
+Lawrence S Krasner,,1,24,1,6
+Rebecca Rhynhart,,,2,0,6
+Michael Tomlinson,,,,0,6
+Total,158,26,69,64,6
+,District Attorney,,City Controller,,7
+,Beth Grossman,Lawrence S Krasner,Rebecca Rhynhart,Michael Tomlinson,7
+Beth Grossman,76,0,59,69,7
+Lawrence S Krasner,,3,49,1,7
+Rebecca Rhynhart,,,9,0,7
+Michael Tomlinson,,,,2,7
+Total,204,53,117,72,7
+,District Attorney,,City Controller,,8
+,Beth Grossman,Lawrence S Krasner,Rebecca Rhynhart,Michael Tomlinson,8
+Beth Grossman,25,0,36,44,8
+Lawrence S Krasner,,1,45,2,8
+Rebecca Rhynhart,,,2,0,8
+Michael Tomlinson,,,,1,8
+Total,105,48,83,47,8
+,City Controller,,District Attorney,,9
+,Rebecca Rhynhart,Michael Tomlinson,Lawrence S Krasner,Beth Grossman,9
+Rebecca Rhynhart,0,0,55,7,9
+Michael Tomlinson,,0,0,5,9
+Lawrence S Krasner,,,4,0,9
+Beth Grossman,,,,0,9
+Total,62,5,59,12,9
+,City Controller,,District Attorney,,10
+,Rebecca Rhynhart,Michael Tomlinson,Lawrence S Krasner,Beth Grossman,10
+Rebecca Rhynhart,2,0,84,8,10
+Michael Tomlinson,,0,0,10,10
+Lawrence S Krasner,,,3,0,10
+Beth Grossman,,,,2,10
+Total,94,10,87,20,10
+,District Attorney,,City Controller,,11
+,Beth Grossman,Lawrence S Krasner,Rebecca Rhynhart,Michael Tomlinson,11
+Beth Grossman,17,0,6,3,11
+Lawrence S Krasner,,1,12,0,11
+Rebecca Rhynhart,,,0,0,11
+Michael Tomlinson,,,,0,11
+Total,26,13,18,3,11
+,District Attorney,,City Controller,,12
+,Beth Grossman,Lawrence S Krasner,Michael Tomlinson,Rebecca Rhynhart,12
+Beth Grossman,3,0,23,3,12
+Lawrence S Krasner,,0,0,20,12
+Michael Tomlinson,,,1,0,12
+Rebecca Rhynhart,,,,0,12
+Total,29,20,24,23,12
+,City Controller,,District Attorney,,13
+,Rebecca Rhynhart,Michael Tomlinson,Lawrence S Krasner,Beth Grossman,13
+Rebecca Rhynhart,1,0,53,8,13
+Michael Tomlinson,,0,1,8,13
+Lawrence S Krasner,,,2,0,13
+Beth Grossman,,,,2,13
+Total,62,9,56,18,13
+,District Attorney,,City Controller,,14
+,Beth Grossman,Lawrence S Krasner,Michael Tomlinson,Rebecca Rhynhart,14
+Beth Grossman,11,0,55,13,14
+Lawrence S Krasner,,0,0,20,14
+Michael Tomlinson,,,0,0,14
+Rebecca Rhynhart,,,,1,14
+Total,79,20,55,34,14
+,District Attorney,,City Controller,,15
+,Beth Grossman,Lawrence S Krasner,Rebecca Rhynhart,Michael Tomlinson,15
+Beth Grossman,44,0,54,49,15
+Lawrence S Krasner,,2,45,2,15
+Rebecca Rhynhart,,,5,0,15
+Michael Tomlinson,,,,0,15
+Total,147,49,104,51,15
+,City Controller,,District Attorney,,16
+,Rebecca Rhynhart,Michael Tomlinson,Lawrence S Krasner,Beth Grossman,16
+Rebecca Rhynhart,2,0,18,1,16
+Michael Tomlinson,,0,2,10,16
+Lawrence S Krasner,,,0,0,16
+Beth Grossman,,,,2,16
+Total,21,12,20,13,16
+,City Controller,,District Attorney,,17
+,Rebecca Rhynhart,Michael Tomlinson,Beth Grossman,Lawrence S Krasner,17
+Rebecca Rhynhart,2,0,3,23,17
+Michael Tomlinson,,1,18,0,17
+Beth Grossman,,,5,0,17
+Lawrence S Krasner,,,,3,17
+Total,28,19,26,26,17
+,City Controller,,District Attorney,,18
+,Rebecca Rhynhart,Michael Tomlinson,Lawrence S Krasner,Beth Grossman,18
+Rebecca Rhynhart,1,0,29,15,18
+Michael Tomlinson,,0,1,7,18
+Lawrence S Krasner,,,0,0,18
+Beth Grossman,,,,2,18
+Total,45,8,30,24,18
+,City Controller,,District Attorney,,19
+,Rebecca Rhynhart,Michael Tomlinson,Lawrence S Krasner,Beth Grossman,19
+Rebecca Rhynhart,1,0,40,3,19
+Michael Tomlinson,,1,1,6,19
+Lawrence S Krasner,,,2,0,19
+Beth Grossman,,,,1,19
+Total,44,8,43,10,19
+,District Attorney,,City Controller,,20
+,Beth Grossman,Lawrence S Krasner,Rebecca Rhynhart,Michael Tomlinson,20
+Beth Grossman,41,0,37,58,20
+Lawrence S Krasner,,2,60,0,20
+Rebecca Rhynhart,,,0,0,20
+Michael Tomlinson,,,,0,20
+Total,136,62,97,58,20
+,District Attorney,,City Controller,,21
+,Beth Grossman,Lawrence S Krasner,Rebecca Rhynhart,Michael Tomlinson,21
+Beth Grossman,33,0,57,50,21
+Lawrence S Krasner,,1,52,0,21
+Rebecca Rhynhart,,,1,0,21
+Michael Tomlinson,,,,0,21
+Total,140,53,110,50,21
+,City Controller,,District Attorney,,22
+,Rebecca Rhynhart,Michael Tomlinson,Lawrence S Krasner,Beth Grossman,22
+Rebecca Rhynhart,0,0,48,12,22
+Michael Tomlinson,,1,0,28,22
+Lawrence S Krasner,,,1,0,22
+Beth Grossman,,,,7,22
+Total,60,29,49,47,22
+,City Controller,,District Attorney,,23
+,Rebecca Rhynhart,Michael Tomlinson,Lawrence S Krasner,Beth Grossman,23
+Rebecca Rhynhart,1,0,37,5,23
+Michael Tomlinson,,0,0,6,23
+Lawrence S Krasner,,,1,0,23
+Beth Grossman,,,,0,23
+Total,43,6,38,11,23
+,City Controller,,District Attorney,,24
+,Rebecca Rhynhart,Michael Tomlinson,Beth Grossman,Lawrence S Krasner,24
+Rebecca Rhynhart,1,0,47,60,24
+Michael Tomlinson,,0,22,2,24
+Beth Grossman,,,11,0,24
+Lawrence S Krasner,,,,4,24
+Total,108,24,80,66,24
+,City Controller,,District Attorney,,25
+,Rebecca Rhynhart,Michael Tomlinson,Beth Grossman,Lawrence S Krasner,25
+Rebecca Rhynhart,3,0,12,65,25
+Michael Tomlinson,,0,42,1,25
+Beth Grossman,,,14,0,25
+Lawrence S Krasner,,,,1,25
+Total,80,43,68,67,25
+,City Controller,,District Attorney,,26
+,Rebecca Rhynhart,Michael Tomlinson,Lawrence S Krasner,Beth Grossman,26
+Rebecca Rhynhart,0,0,130,25,26
+Michael Tomlinson,,0,3,19,26
+Lawrence S Krasner,,,3,0,26
+Beth Grossman,,,,6,26
+Total,155,22,136,50,26
+,District Attorney,,City Controller,,27
+,Lawrence S Krasner,Beth Grossman,Rebecca Rhynhart,Michael Tomlinson,27
+Lawrence S Krasner,3,0,113,5,27
+Beth Grossman,,5,4,20,27
+Rebecca Rhynhart,,,2,0,27
+Michael Tomlinson,,,,0,27
+Total,121,29,119,25,27
+,City Controller,,District Attorney,,28
+,Rebecca Rhynhart,Michael Tomlinson,Lawrence S Krasner,Beth Grossman,28
+Rebecca Rhynhart,1,0,119,3,28
+Michael Tomlinson,,0,2,4,28
+Lawrence S Krasner,,,1,0,28
+Beth Grossman,,,,1,28
+Total,123,6,122,8,28
+,City Controller,,District Attorney,,29
+,Rebecca Rhynhart,Michael Tomlinson,Beth Grossman,Lawrence S Krasner,29
+Rebecca Rhynhart,2,0,10,33,29
+Michael Tomlinson,,0,27,0,29
+Beth Grossman,,,3,0,29
+Lawrence S Krasner,,,,0,29
+Total,45,27,40,33,29
+,City Controller,,District Attorney,,30
+,Rebecca Rhynhart,Michael Tomlinson,Lawrence S Krasner,Beth Grossman,30
+Rebecca Rhynhart,1,0,152,11,30
+Michael Tomlinson,,0,2,21,30
+Lawrence S Krasner,,,5,0,30
+Beth Grossman,,,,3,30
+Total,164,23,159,35,30
+,City Controller,,District Attorney,,31
+,Rebecca Rhynhart,Michael Tomlinson,Lawrence S Krasner,Beth Grossman,31
+Rebecca Rhynhart,1,0,48,6,31
+Michael Tomlinson,,0,2,36,31
+Lawrence S Krasner,,,2,0,31
+Beth Grossman,,,,4,31
+Total,55,38,52,46,31
+,City Controller,,District Attorney,,32
+,Rebecca Rhynhart,Michael Tomlinson,Lawrence S Krasner,Beth Grossman,32
+Rebecca Rhynhart,1,0,53,3,32
+Michael Tomlinson,,0,1,13,32
+Lawrence S Krasner,,,1,0,32
+Beth Grossman,,,,1,32
+Total,57,14,55,17,32
+,City Controller,,District Attorney,,33
+,Rebecca Rhynhart,Michael Tomlinson,Beth Grossman,Lawrence S Krasner,33
+Rebecca Rhynhart,4,0,14,34,33
+Michael Tomlinson,,0,29,1,33
+Beth Grossman,,,7,0,33
+Lawrence S Krasner,,,,1,33
+Total,52,30,50,36,33
+,City Controller,,District Attorney,,34
+,Rebecca Rhynhart,Michael Tomlinson,Lawrence S Krasner,Beth Grossman,34
+Rebecca Rhynhart,0,0,62,13,34
+Michael Tomlinson,,2,1,13,34
+Lawrence S Krasner,,,2,0,34
+Beth Grossman,,,,0,34
+Total,75,16,65,26,34
+,City Controller,,District Attorney,,35
+,Rebecca Rhynhart,Michael Tomlinson,Lawrence S Krasner,Beth Grossman,35
+Rebecca Rhynhart,1,0,114,17,35
+Michael Tomlinson,,0,1,25,35
+Lawrence S Krasner,,,2,0,35
+Beth Grossman,,,,4,35
+Total,132,26,117,46,35
+,District Attorney,,City Controller,,36
+,Beth Grossman,Lawrence S Krasner,Michael Tomlinson,Rebecca Rhynhart,36
+Beth Grossman,5,0,52,9,36
+Lawrence S Krasner,,1,0,27,36
+Michael Tomlinson,,,1,0,36
+Rebecca Rhynhart,,,,2,36
+Total,66,28,53,38,36
+,City Controller,,District Attorney,,37
+,Rebecca Rhynhart,Michael Tomlinson,Lawrence S Krasner,Beth Grossman,37
+Rebecca Rhynhart,1,0,106,15,37
+Michael Tomlinson,,0,1,34,37
+Lawrence S Krasner,,,3,0,37
+Beth Grossman,,,,8,37
+Total,122,35,110,57,37
+,City Controller,,District Attorney,,38
+,Rebecca Rhynhart,Michael Tomlinson,Lawrence S Krasner,Beth Grossman,38
+Rebecca Rhynhart,1,0,97,18,38
+Michael Tomlinson,,0,1,28,38
+Lawrence S Krasner,,,4,0,38
+Beth Grossman,,,,4,38
+Total,116,29,102,50,38
+,District Attorney,,City Controller,,39
+,Beth Grossman,Lawrence S Krasner,Rebecca Rhynhart,Michael Tomlinson,39
+Beth Grossman,8,0,12,43,39
+Lawrence S Krasner,,1,47,0,39
+Rebecca Rhynhart,,,2,0,39
+Michael Tomlinson,,,,1,39
+Total,63,48,61,44,39
+,District Attorney,,City Controller,,40
+,Lawrence S Krasner,Beth Grossman,Rebecca Rhynhart,Michael Tomlinson,40
+Lawrence S Krasner,4,0,47,0,40
+Beth Grossman,,0,1,3,40
+Rebecca Rhynhart,,,1,0,40
+Michael Tomlinson,,,,0,40
+Total,51,4,49,3,40
+,District Attorney,,City Controller,,41
+,Beth Grossman,Lawrence S Krasner,Michael Tomlinson,Rebecca Rhynhart,41
+Beth Grossman,10,0,62,25,41
+Lawrence S Krasner,,2,0,23,41
+Michael Tomlinson,,,0,0,41
+Rebecca Rhynhart,,,,1,41
+Total,97,25,62,49,41
+,District Attorney,,City Controller,,42
+,Lawrence S Krasner,Beth Grossman,Rebecca Rhynhart,Michael Tomlinson,42
+Lawrence S Krasner,1,0,67,7,42
+Beth Grossman,,1,8,35,42
+Rebecca Rhynhart,,,0,0,42
+Michael Tomlinson,,,,0,42
+Total,75,44,75,42,42
+,City Controller,,District Attorney,,43
+,Rebecca Rhynhart,Michael Tomlinson,Lawrence S Krasner,Beth Grossman,43
+Rebecca Rhynhart,0,0,46,8,43
+Michael Tomlinson,,0,1,29,43
+Lawrence S Krasner,,,2,0,43
+Beth Grossman,,,,4,43
+Total,54,30,49,41,43
+,City Controller,,District Attorney,,44
+,Rebecca Rhynhart,Michael Tomlinson,Lawrence S Krasner,Beth Grossman,44
+Rebecca Rhynhart,1,0,38,9,44
+Michael Tomlinson,,0,0,25,44
+Lawrence S Krasner,,,2,0,44
+Beth Grossman,,,,5,44
+Total,48,25,40,39,44
+,City Controller,,District Attorney,,45
+,Rebecca Rhynhart,Michael Tomlinson,Lawrence S Krasner,Beth Grossman,45
+Rebecca Rhynhart,3,0,178,19,45
+Michael Tomlinson,,1,3,34,45
+Lawrence S Krasner,,,3,0,45
+Beth Grossman,,,,21,45
+Total,200,38,184,74,45
+,City Controller,,District Attorney,,46
+,Rebecca Rhynhart,Michael Tomlinson,Lawrence S Krasner,Beth Grossman,46
+Rebecca Rhynhart,4,0,197,18,46
+Michael Tomlinson,,1,8,51,46
+Lawrence S Krasner,,,3,0,46
+Beth Grossman,,,,4,46
+Total,219,60,208,73,46

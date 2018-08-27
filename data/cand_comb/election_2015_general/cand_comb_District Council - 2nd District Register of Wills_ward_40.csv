@@ -1,4 +1,10 @@
 col_1,col_2,col_3,col_4,division
+,District Council 2nd District,Register Of Wills,,All
+,Kenyatta Johnson,Ronald R Donatucci,Ross Feinberg,All
+Kenyatta Johnson,453,"4,099",77,All
+Ronald R Donatucci,,305,0,All
+Ross Feinberg,,,130,All
+Total,"4,629","4,404",207,All
 ,District Council 2nd District,Register Of Wills,,1
 ,Kenyatta Johnson,Ronald R Donatucci,Ross Feinberg,1
 Kenyatta Johnson,7,52,1,1
@@ -17,12 +23,6 @@ Ronald R Donatucci,17,0,143,3
 Ross Feinberg,,0,1,3
 Kenyatta Johnson,,,11,3
 Total,160,1,155,3
-,Register Of Wills,,District Council 2nd District,4
-,Ronald R Donatucci,Ross Feinberg,Kenyatta Johnson,4
-Ronald R Donatucci,119,0,0,4
-Ross Feinberg,,1,0,4
-Kenyatta Johnson,,,0,4
-Total,119,1,0,4
 ,District Council 2nd District,Register Of Wills,,5
 ,Kenyatta Johnson,Ronald R Donatucci,Ross Feinberg,5
 Kenyatta Johnson,20,137,0,5
@@ -77,12 +77,6 @@ Kenyatta Johnson,11,72,3,13
 Ronald R Donatucci,,3,0,13
 Ross Feinberg,,,0,13
 Total,86,75,3,13
-,Register Of Wills,,District Council 2nd District,14
-,Ronald R Donatucci,Ross Feinberg,Kenyatta Johnson,14
-Ronald R Donatucci,85,0,0,14
-Ross Feinberg,,2,0,14
-Kenyatta Johnson,,,0,14
-Total,85,2,0,14
 ,District Council 2nd District,Register Of Wills,,15
 ,Kenyatta Johnson,Ronald R Donatucci,Ross Feinberg,15
 Kenyatta Johnson,12,36,2,15
@@ -161,12 +155,6 @@ Kenyatta Johnson,9,70,0,27
 Ronald R Donatucci,,1,0,27
 Ross Feinberg,,,1,27
 Total,79,71,1,27
-,Register Of Wills,,District Council 2nd District,28
-,Ronald R Donatucci,Ross Feinberg,Kenyatta Johnson,28
-Ronald R Donatucci,110,0,0,28
-Ross Feinberg,,10,0,28
-Kenyatta Johnson,,,0,28
-Total,110,10,0,28
 ,District Council 2nd District,Register Of Wills,,29
 ,Kenyatta Johnson,Ronald R Donatucci,Ross Feinberg,29
 Kenyatta Johnson,14,72,0,29
@@ -305,9 +293,3 @@ Kenyatta Johnson,12,40,2,51
 Ronald R Donatucci,,2,0,51
 Ross Feinberg,,,2,51
 Total,54,42,4,51
-,Register Of Wills,,District Council 2nd District,All
-,Ronald R Donatucci,Ross Feinberg,Kenyatta Johnson,All
-Ronald R Donatucci,619,0,"4,099",All
-Ross Feinberg,,143,77,All
-Kenyatta Johnson,,,453,All
-Total,"4,718",220,"4,629",All

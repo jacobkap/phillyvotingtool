@@ -1,0 +1,337 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10,col_11,col_12,division
+,Judge Of The Court Of Common Pleas,,,,,,,,,City Controller,,All
+,Vincent Furlong,Mark B Cohen,Stella Tsai,Deborah Canty,Vikki Kristiansson,Lucretia C Clemons,Zac Shaffer,Deborah Cianfrani,Shanese Johnson,Rebecca Rhynhart,Michael Tomlinson,All
+Vincent Furlong,2,"1,060","1,073","1,099","1,079","1,067","1,077","1,072","1,042","1,027",385,All
+Mark B Cohen,,24,"1,058","1,069","1,054","1,048","1,062","1,063","1,038","1,071",113,All
+Stella Tsai,,,2,"1,114","1,114","1,105","1,100","1,087","1,069","1,080",88,All
+Deborah Canty,,,,2,"1,116","1,112","1,110","1,096","1,085","1,070",91,All
+Vikki Kristiansson,,,,,0,"1,104","1,105","1,085","1,069","1,056",91,All
+Lucretia C Clemons,,,,,,2,"1,101","1,071","1,078","1,054",81,All
+Zac Shaffer,,,,,,,2,"1,079","1,065","1,045",89,All
+Deborah Cianfrani,,,,,,,,1,"1,063","1,038",96,All
+Shanese Johnson,,,,,,,,,2,"1,037",70,All
+Rebecca Rhynhart,,,,,,,,,,35,0,All
+Michael Tomlinson,,,,,,,,,,,38,All
+Total,"1,428","1,225","1,185","1,182","1,160","1,154","1,152","1,149","1,125","1,280",453,All
+,Judge Of The Court Of Common Pleas,,,,,,,,,City Controller,,1
+,Deborah Canty,Stella Tsai,Lucretia C Clemons,Mark B Cohen,Shanese Johnson,Zac Shaffer,Deborah Cianfrani,Vikki Kristiansson,Vincent Furlong,Rebecca Rhynhart,Michael Tomlinson,1
+Deborah Canty,0,47,47,44,48,47,46,45,40,43,5,1
+Stella Tsai,,0,46,43,48,47,46,45,39,43,4,1
+Lucretia C Clemons,,,0,42,47,46,44,44,39,41,4,1
+Mark B Cohen,,,,0,43,44,44,43,36,42,5,1
+Shanese Johnson,,,,,0,47,46,45,39,41,4,1
+Zac Shaffer,,,,,,0,47,46,40,41,5,1
+Deborah Cianfrani,,,,,,,0,46,39,41,5,1
+Vikki Kristiansson,,,,,,,,0,39,40,5,1
+Vincent Furlong,,,,,,,,,0,34,9,1
+Rebecca Rhynhart,,,,,,,,,,0,0,1
+Michael Tomlinson,,,,,,,,,,,0,1
+Total,51,50,49,49,49,49,48,47,45,51,9,1
+,City Controller,,Judge Of The Court Of Common Pleas,,,,,,,,,2
+,Rebecca Rhynhart,Michael Tomlinson,Mark B Cohen,Stella Tsai,Shanese Johnson,Zac Shaffer,Deborah Cianfrani,Vikki Kristiansson,Deborah Canty,Lucretia C Clemons,Vincent Furlong,2
+Rebecca Rhynhart,0,0,60,56,55,53,51,54,53,53,50,2
+Michael Tomlinson,,0,5,3,2,4,4,3,3,3,5,2
+Mark B Cohen,,,3,52,53,53,53,54,53,51,52,2
+Stella Tsai,,,,0,56,52,53,54,54,55,51,2
+Shanese Johnson,,,,,0,52,53,53,54,55,51,2
+Zac Shaffer,,,,,,1,53,52,53,51,51,2
+Deborah Cianfrani,,,,,,,1,52,53,51,53,2
+Vikki Kristiansson,,,,,,,,0,53,53,51,2
+Deborah Canty,,,,,,,,,0,54,53,2
+Lucretia C Clemons,,,,,,,,,,0,51,2
+Vincent Furlong,,,,,,,,,,,0,2
+Total,70,8,69,60,58,58,57,57,56,56,55,2
+,City Controller,,Judge Of The Court Of Common Pleas,,,,,,,,,3
+,Rebecca Rhynhart,Michael Tomlinson,Vincent Furlong,Lucretia C Clemons,Stella Tsai,Vikki Kristiansson,Deborah Cianfrani,Deborah Canty,Mark B Cohen,Shanese Johnson,Zac Shaffer,3
+Rebecca Rhynhart,2,0,44,45,47,45,44,44,43,42,42,3
+Michael Tomlinson,,0,6,1,0,1,1,0,1,1,1,3
+Vincent Furlong,,,1,44,44,45,45,43,44,42,43,3
+Lucretia C Clemons,,,,1,44,45,44,42,43,43,43,3
+Stella Tsai,,,,,0,45,44,43,43,42,42,3
+Vikki Kristiansson,,,,,,0,45,43,44,43,43,3
+Deborah Cianfrani,,,,,,,0,43,44,42,43,3
+Deborah Canty,,,,,,,,0,43,41,42,3
+Mark B Cohen,,,,,,,,,0,42,43,3
+Shanese Johnson,,,,,,,,,,0,42,3
+Zac Shaffer,,,,,,,,,,,0,3
+Total,51,6,51,47,47,46,45,44,44,43,43,3
+,Judge Of The Court Of Common Pleas,,,,,,,,,City Controller,,4
+,Vincent Furlong,Mark B Cohen,Deborah Canty,Lucretia C Clemons,Shanese Johnson,Zac Shaffer,Deborah Cianfrani,Vikki Kristiansson,Stella Tsai,Rebecca Rhynhart,Michael Tomlinson,4
+Vincent Furlong,0,77,79,77,76,76,76,76,76,75,9,4
+Mark B Cohen,,1,78,75,76,75,76,73,74,77,3,4
+Deborah Canty,,,0,77,77,76,76,75,76,76,3,4
+Lucretia C Clemons,,,,0,76,77,75,76,76,76,3,4
+Shanese Johnson,,,,,1,76,75,74,74,76,2,4
+Zac Shaffer,,,,,,0,75,75,75,77,2,4
+Deborah Cianfrani,,,,,,,0,74,75,75,2,4
+Vikki Kristiansson,,,,,,,,0,75,74,4,4
+Stella Tsai,,,,,,,,,0,74,3,4
+Rebecca Rhynhart,,,,,,,,,,0,0,4
+Michael Tomlinson,,,,,,,,,,,2,4
+Total,85,82,80,79,79,79,78,78,77,83,11,4
+,City Controller,,Judge Of The Court Of Common Pleas,,,,,,,,,5
+,Rebecca Rhynhart,Michael Tomlinson,Mark B Cohen,Stella Tsai,Vincent Furlong,Lucretia C Clemons,Vikki Kristiansson,Zac Shaffer,Deborah Cianfrani,Deborah Canty,Shanese Johnson,5
+Rebecca Rhynhart,3,0,47,47,44,46,46,46,45,44,47,5
+Michael Tomlinson,,0,6,4,9,4,4,4,5,4,3,5
+Mark B Cohen,,,0,50,51,50,50,51,50,49,47,5
+Stella Tsai,,,,1,48,51,52,51,49,50,47,5
+Vincent Furlong,,,,,0,48,48,49,49,48,45,5
+Lucretia C Clemons,,,,,,0,51,51,49,50,47,5
+Vikki Kristiansson,,,,,,,0,51,49,50,47,5
+Zac Shaffer,,,,,,,,0,49,50,47,5
+Deborah Cianfrani,,,,,,,,,0,48,46,5
+Deborah Canty,,,,,,,,,,0,46,5
+Shanese Johnson,,,,,,,,,,,0,5
+Total,57,9,54,54,54,52,52,52,51,50,50,5
+,Judge Of The Court Of Common Pleas,,,,,,,,,City Controller,,6
+,Vincent Furlong,Mark B Cohen,Deborah Cianfrani,Stella Tsai,Deborah Canty,Zac Shaffer,Shanese Johnson,Vikki Kristiansson,Lucretia C Clemons,Rebecca Rhynhart,Michael Tomlinson,6
+Vincent Furlong,0,37,39,38,39,38,37,38,37,39,10,6
+Mark B Cohen,,2,38,37,36,36,36,36,36,40,1,6
+Deborah Cianfrani,,,0,37,38,37,37,37,36,40,1,6
+Stella Tsai,,,,0,37,36,36,37,37,38,2,6
+Deborah Canty,,,,,0,38,37,38,37,38,1,6
+Zac Shaffer,,,,,,0,36,37,36,38,1,6
+Shanese Johnson,,,,,,,0,37,36,37,1,6
+Vikki Kristiansson,,,,,,,,0,37,37,1,6
+Lucretia C Clemons,,,,,,,,,0,36,1,6
+Rebecca Rhynhart,,,,,,,,,,1,0,6
+Michael Tomlinson,,,,,,,,,,,1,6
+Total,49,43,41,40,39,39,38,38,37,47,12,6
+,City Controller,,Judge Of The Court Of Common Pleas,,,,,,,,,7
+,Rebecca Rhynhart,Michael Tomlinson,Vincent Furlong,Deborah Canty,Deborah Cianfrani,Mark B Cohen,Shanese Johnson,Stella Tsai,Lucretia C Clemons,Zac Shaffer,Vikki Kristiansson,7
+Rebecca Rhynhart,0,0,35,38,39,39,38,38,38,36,36,7
+Michael Tomlinson,,1,8,0,0,0,0,1,0,0,0,7
+Vincent Furlong,,,0,35,35,31,34,34,33,32,34,7
+Deborah Canty,,,,1,36,32,38,36,36,35,36,7
+Deborah Cianfrani,,,,,0,33,35,35,34,34,35,7
+Mark B Cohen,,,,,,0,32,33,33,32,31,7
+Shanese Johnson,,,,,,,0,37,37,36,35,7
+Stella Tsai,,,,,,,,0,37,35,35,7
+Lucretia C Clemons,,,,,,,,,0,35,34,7
+Zac Shaffer,,,,,,,,,,0,34,7
+Vikki Kristiansson,,,,,,,,,,,0,7
+Total,48,10,43,40,39,39,39,39,38,37,36,7
+,City Controller,,Judge Of The Court Of Common Pleas,,,,,,,,,8
+,Rebecca Rhynhart,Michael Tomlinson,Mark B Cohen,Vincent Furlong,Deborah Canty,Lucretia C Clemons,Zac Shaffer,Deborah Cianfrani,Shanese Johnson,Stella Tsai,Vikki Kristiansson,8
+Rebecca Rhynhart,0,0,31,25,28,26,26,25,25,25,25,8
+Michael Tomlinson,,1,1,9,1,1,1,1,1,1,0,8
+Mark B Cohen,,,2,26,28,27,26,26,25,26,23,8
+Vincent Furlong,,,,0,26,25,25,25,24,24,23,8
+Deborah Canty,,,,,0,27,26,26,25,25,24,8
+Lucretia C Clemons,,,,,,0,25,25,25,25,23,8
+Zac Shaffer,,,,,,,0,26,25,25,23,8
+Deborah Cianfrani,,,,,,,,0,25,25,23,8
+Shanese Johnson,,,,,,,,,0,25,23,8
+Stella Tsai,,,,,,,,,,0,23,8
+Vikki Kristiansson,,,,,,,,,,,0,8
+Total,35,10,34,34,29,27,27,26,26,26,25,8
+,Judge Of The Court Of Common Pleas,,,,,,,,,City Controller,,9
+,Vincent Furlong,Deborah Cianfrani,Deborah Canty,Stella Tsai,Vikki Kristiansson,Shanese Johnson,Lucretia C Clemons,Mark B Cohen,Zac Shaffer,Rebecca Rhynhart,Michael Tomlinson,9
+Vincent Furlong,0,35,35,35,35,35,35,35,35,35,7,9
+Deborah Cianfrani,,0,38,38,38,36,36,36,35,38,1,9
+Deborah Canty,,,0,38,38,36,36,36,35,37,1,9
+Stella Tsai,,,,0,38,36,36,36,35,37,1,9
+Vikki Kristiansson,,,,,0,36,36,36,35,37,1,9
+Shanese Johnson,,,,,,0,35,36,35,37,0,9
+Lucretia C Clemons,,,,,,,0,35,35,35,1,9
+Mark B Cohen,,,,,,,,0,35,36,0,9
+Zac Shaffer,,,,,,,,,0,35,0,9
+Rebecca Rhynhart,,,,,,,,,,0,0,9
+Michael Tomlinson,,,,,,,,,,,0,9
+Total,42,39,38,38,38,37,36,36,35,39,8,9
+,City Controller,,Judge Of The Court Of Common Pleas,,,,,,,,,10
+,Rebecca Rhynhart,Michael Tomlinson,Vincent Furlong,Mark B Cohen,Deborah Canty,Shanese Johnson,Stella Tsai,Vikki Kristiansson,Zac Shaffer,Deborah Cianfrani,Lucretia C Clemons,10
+Rebecca Rhynhart,1,0,25,28,28,27,28,27,27,25,26,10
+Michael Tomlinson,,0,11,3,4,3,3,3,3,4,3,10
+Vincent Furlong,,,0,27,29,28,27,28,27,27,26,10
+Mark B Cohen,,,,2,29,27,28,28,29,27,27,10
+Deborah Canty,,,,,0,29,28,29,29,28,28,10
+Shanese Johnson,,,,,,1,27,29,27,27,27,10
+Stella Tsai,,,,,,,0,28,27,27,26,10
+Vikki Kristiansson,,,,,,,,0,27,27,27,10
+Zac Shaffer,,,,,,,,,0,27,27,10
+Deborah Cianfrani,,,,,,,,,,0,27,10
+Lucretia C Clemons,,,,,,,,,,,0,10
+Total,37,11,36,33,32,31,31,30,30,29,29,10
+,Judge Of The Court Of Common Pleas,,,,,,,,,City Controller,,11
+,Vincent Furlong,Mark B Cohen,Deborah Canty,Stella Tsai,Lucretia C Clemons,Shanese Johnson,Zac Shaffer,Vikki Kristiansson,Deborah Cianfrani,Rebecca Rhynhart,Michael Tomlinson,11
+Vincent Furlong,0,44,44,43,43,44,44,43,41,38,12,11
+Mark B Cohen,,1,47,45,45,45,45,44,43,43,5,11
+Deborah Canty,,,0,46,46,46,46,45,44,41,6,11
+Stella Tsai,,,,0,45,45,45,44,44,41,5,11
+Lucretia C Clemons,,,,,0,45,45,45,44,40,5,11
+Shanese Johnson,,,,,,0,46,45,43,39,6,11
+Zac Shaffer,,,,,,,0,45,43,39,6,11
+Vikki Kristiansson,,,,,,,,0,43,39,5,11
+Deborah Cianfrani,,,,,,,,,0,40,3,11
+Rebecca Rhynhart,,,,,,,,,,1,0,11
+Michael Tomlinson,,,,,,,,,,,3,11
+Total,51,50,48,47,46,46,46,45,44,45,16,11
+,Judge Of The Court Of Common Pleas,,,,,,,,,City Controller,,12
+,Vincent Furlong,Deborah Canty,Lucretia C Clemons,Vikki Kristiansson,Zac Shaffer,Stella Tsai,Deborah Cianfrani,Mark B Cohen,Shanese Johnson,Rebecca Rhynhart,Michael Tomlinson,12
+Vincent Furlong,0,69,65,66,65,63,62,57,56,64,28,12
+Deborah Canty,,1,68,69,68,67,62,61,61,67,5,12
+Lucretia C Clemons,,,0,68,69,66,62,60,61,68,4,12
+Vikki Kristiansson,,,,0,71,68,62,62,61,67,6,12
+Zac Shaffer,,,,,0,67,61,61,61,67,5,12
+Stella Tsai,,,,,,0,61,60,59,64,4,12
+Deborah Cianfrani,,,,,,,0,60,59,61,6,12
+Mark B Cohen,,,,,,,,0,59,61,4,12
+Shanese Johnson,,,,,,,,,0,61,2,12
+Rebecca Rhynhart,,,,,,,,,,2,0,12
+Michael Tomlinson,,,,,,,,,,,0,12
+Total,94,75,73,73,72,68,67,65,63,78,28,12
+,City Controller,,Judge Of The Court Of Common Pleas,,,,,,,,,13
+,Rebecca Rhynhart,Michael Tomlinson,Vincent Furlong,Deborah Canty,Mark B Cohen,Deborah Cianfrani,Lucretia C Clemons,Shanese Johnson,Vikki Kristiansson,Stella Tsai,Zac Shaffer,13
+Rebecca Rhynhart,1,0,61,60,57,59,59,58,59,58,58,13
+Michael Tomlinson,,0,4,0,1,0,0,1,0,0,0,13
+Vincent Furlong,,,0,61,54,60,60,59,60,59,59,13
+Deborah Canty,,,,0,53,60,60,58,60,59,59,13
+Mark B Cohen,,,,,2,53,52,50,53,52,52,13
+Deborah Cianfrani,,,,,,0,59,57,60,59,59,13
+Lucretia C Clemons,,,,,,,0,58,59,59,59,13
+Shanese Johnson,,,,,,,,0,57,57,57,13
+Vikki Kristiansson,,,,,,,,,0,59,59,13
+Stella Tsai,,,,,,,,,,0,59,13
+Zac Shaffer,,,,,,,,,,,0,13
+Total,68,4,66,61,61,60,60,60,60,59,59,13
+,Judge Of The Court Of Common Pleas,,,,,,,,,City Controller,,14
+,Vincent Furlong,Mark B Cohen,Deborah Cianfrani,Stella Tsai,Vikki Kristiansson,Deborah Canty,Zac Shaffer,Lucretia C Clemons,Shanese Johnson,Rebecca Rhynhart,Michael Tomlinson,14
+Vincent Furlong,0,45,45,45,44,45,46,43,44,41,21,14
+Mark B Cohen,,0,46,46,45,43,45,45,43,41,10,14
+Deborah Cianfrani,,,0,46,47,46,47,45,45,41,10,14
+Stella Tsai,,,,0,45,44,46,43,43,42,8,14
+Vikki Kristiansson,,,,,0,46,47,45,44,41,9,14
+Deborah Canty,,,,,,0,47,44,45,42,7,14
+Zac Shaffer,,,,,,,0,45,45,41,8,14
+Lucretia C Clemons,,,,,,,,0,45,40,7,14
+Shanese Johnson,,,,,,,,,0,41,5,14
+Rebecca Rhynhart,,,,,,,,,,2,0,14
+Michael Tomlinson,,,,,,,,,,,2,14
+Total,62,52,51,50,50,49,49,48,47,50,28,14
+,Judge Of The Court Of Common Pleas,,,,,,,,,City Controller,,15
+,Vincent Furlong,Stella Tsai,Deborah Cianfrani,Deborah Canty,Mark B Cohen,Vikki Kristiansson,Zac Shaffer,Shanese Johnson,Lucretia C Clemons,Rebecca Rhynhart,Michael Tomlinson,15
+Vincent Furlong,1,69,72,71,70,70,70,67,68,67,23,15
+Stella Tsai,,0,71,70,66,73,70,68,69,70,6,15
+Deborah Cianfrani,,,0,72,68,72,70,69,69,67,8,15
+Deborah Canty,,,,0,67,71,71,69,69,67,7,15
+Mark B Cohen,,,,,0,67,67,65,65,65,9,15
+Vikki Kristiansson,,,,,,0,71,69,70,68,6,15
+Zac Shaffer,,,,,,,0,68,69,65,7,15
+Shanese Johnson,,,,,,,,0,69,67,4,15
+Lucretia C Clemons,,,,,,,,,0,66,4,15
+Rebecca Rhynhart,,,,,,,,,,2,0,15
+Michael Tomlinson,,,,,,,,,,,4,15
+Total,91,76,75,74,74,74,72,71,70,79,27,15
+,Judge Of The Court Of Common Pleas,,,,,,,,,City Controller,,16
+,Vincent Furlong,Mark B Cohen,Vikki Kristiansson,Lucretia C Clemons,Zac Shaffer,Stella Tsai,Deborah Canty,Deborah Cianfrani,Shanese Johnson,Rebecca Rhynhart,Michael Tomlinson,16
+Vincent Furlong,0,45,47,47,46,44,45,43,42,39,23,16
+Mark B Cohen,,1,44,42,43,41,41,41,40,43,13,16
+Vikki Kristiansson,,,0,49,48,44,46,44,43,42,8,16
+Lucretia C Clemons,,,,0,47,44,46,44,43,40,8,16
+Zac Shaffer,,,,,0,44,45,44,43,40,8,16
+Stella Tsai,,,,,,0,45,43,41,41,7,16
+Deborah Canty,,,,,,,0,44,43,41,6,16
+Deborah Cianfrani,,,,,,,,0,42,39,7,16
+Shanese Johnson,,,,,,,,,0,39,6,16
+Rebecca Rhynhart,,,,,,,,,,3,0,16
+Michael Tomlinson,,,,,,,,,,,3,16
+Total,63,57,51,49,49,48,47,46,45,55,28,16
+,Judge Of The Court Of Common Pleas,,,,,,,,,City Controller,,17
+,Vincent Furlong,Mark B Cohen,Stella Tsai,Deborah Canty,Vikki Kristiansson,Lucretia C Clemons,Zac Shaffer,Deborah Cianfrani,Shanese Johnson,Rebecca Rhynhart,Michael Tomlinson,17
+Vincent Furlong,0,36,39,39,38,36,37,37,36,37,18,17
+Mark B Cohen,,3,36,37,36,35,37,36,34,41,4,17
+Stella Tsai,,,1,41,42,40,41,38,35,40,4,17
+Deborah Canty,,,,0,42,39,40,37,37,38,5,17
+Vikki Kristiansson,,,,,0,40,40,38,37,39,4,17
+Lucretia C Clemons,,,,,,0,39,36,35,36,5,17
+Zac Shaffer,,,,,,,0,38,35,37,4,17
+Deborah Cianfrani,,,,,,,,0,36,36,3,17
+Shanese Johnson,,,,,,,,,0,34,4,17
+Rebecca Rhynhart,,,,,,,,,,4,0,17
+Michael Tomlinson,,,,,,,,,,,1,17
+Total,55,48,46,44,44,42,42,39,38,52,21,17
+,Judge Of The Court Of Common Pleas,,,,,,,,,City Controller,,18
+,Vincent Furlong,Stella Tsai,Deborah Canty,Mark B Cohen,Lucretia C Clemons,Vikki Kristiansson,Deborah Cianfrani,Shanese Johnson,Zac Shaffer,Rebecca Rhynhart,Michael Tomlinson,18
+Vincent Furlong,0,44,45,41,43,44,42,42,43,40,17,18
+Stella Tsai,,0,46,43,45,44,43,44,44,44,5,18
+Deborah Canty,,,0,42,44,44,43,43,44,41,6,18
+Mark B Cohen,,,,0,41,41,41,41,40,42,5,18
+Lucretia C Clemons,,,,,0,44,42,44,43,41,4,18
+Vikki Kristiansson,,,,,,0,43,43,43,41,4,18
+Deborah Cianfrani,,,,,,,0,42,42,40,4,18
+Shanese Johnson,,,,,,,,0,42,40,4,18
+Zac Shaffer,,,,,,,,,0,39,5,18
+Rebecca Rhynhart,,,,,,,,,,0,0,18
+Michael Tomlinson,,,,,,,,,,,3,18
+Total,57,49,47,47,45,45,44,44,44,48,20,18
+,Judge Of The Court Of Common Pleas,,,,,,,,,City Controller,,19
+,Vincent Furlong,Mark B Cohen,Zac Shaffer,Deborah Canty,Lucretia C Clemons,Stella Tsai,Vikki Kristiansson,Deborah Cianfrani,Shanese Johnson,Rebecca Rhynhart,Michael Tomlinson,19
+Vincent Furlong,0,61,60,58,58,60,59,59,56,56,20,19
+Mark B Cohen,,3,63,60,61,61,62,60,59,61,10,19
+Zac Shaffer,,,0,63,65,64,65,62,59,63,5,19
+Deborah Canty,,,,0,65,63,65,61,61,62,5,19
+Lucretia C Clemons,,,,,0,64,66,62,61,62,5,19
+Stella Tsai,,,,,,0,64,60,59,60,7,19
+Vikki Kristiansson,,,,,,,0,62,61,62,5,19
+Deborah Cianfrani,,,,,,,,0,59,58,6,19
+Shanese Johnson,,,,,,,,,0,58,4,19
+Rebecca Rhynhart,,,,,,,,,,2,0,19
+Michael Tomlinson,,,,,,,,,,,2,19
+Total,76,74,68,67,67,67,67,64,62,72,25,19
+,Judge Of The Court Of Common Pleas,,,,,,,,,City Controller,,20
+,Vincent Furlong,Mark B Cohen,Stella Tsai,Zac Shaffer,Lucretia C Clemons,Deborah Canty,Vikki Kristiansson,Deborah Cianfrani,Shanese Johnson,Rebecca Rhynhart,Michael Tomlinson,20
+Vincent Furlong,0,53,54,54,53,53,52,50,49,53,50,20
+Mark B Cohen,,2,51,50,49,50,49,48,49,50,7,20
+Stella Tsai,,,0,54,55,53,55,51,50,54,5,20
+Zac Shaffer,,,,1,53,53,53,50,48,49,6,20
+Lucretia C Clemons,,,,,0,54,53,49,49,51,4,20
+Deborah Canty,,,,,,0,52,49,48,50,4,20
+Vikki Kristiansson,,,,,,,0,49,49,49,5,20
+Deborah Cianfrani,,,,,,,,0,48,45,8,20
+Shanese Johnson,,,,,,,,,0,46,4,20
+Rebecca Rhynhart,,,,,,,,,,2,0,20
+Michael Tomlinson,,,,,,,,,,,6,20
+Total,104,61,60,57,56,55,55,54,52,62,58,20
+,Judge Of The Court Of Common Pleas,,,,,,,,,City Controller,,21
+,Vincent Furlong,Stella Tsai,Vikki Kristiansson,Deborah Canty,Lucretia C Clemons,Mark B Cohen,Deborah Cianfrani,Shanese Johnson,Zac Shaffer,Michael Tomlinson,Rebecca Rhynhart,21
+Vincent Furlong,0,47,48,49,46,47,47,46,46,61,39,21
+Stella Tsai,,0,50,48,47,44,45,45,46,11,43,21
+Vikki Kristiansson,,,0,49,47,43,46,45,47,13,40,21
+Deborah Canty,,,,0,47,45,47,47,47,12,40,21
+Lucretia C Clemons,,,,,1,44,44,45,47,10,40,21
+Mark B Cohen,,,,,,0,46,45,44,13,38,21
+Deborah Cianfrani,,,,,,,0,46,44,12,38,21
+Shanese Johnson,,,,,,,,0,45,10,39,21
+Zac Shaffer,,,,,,,,,0,10,38,21
+Michael Tomlinson,,,,,,,,,,6,0,21
+Rebecca Rhynhart,,,,,,,,,,,3,21
+Total,100,54,53,52,51,51,50,49,48,74,50,21
+,City Controller,,Judge Of The Court Of Common Pleas,,,,,,,,,22
+,Rebecca Rhynhart,Michael Tomlinson,Deborah Canty,Vincent Furlong,Deborah Cianfrani,Mark B Cohen,Stella Tsai,Zac Shaffer,Lucretia C Clemons,Shanese Johnson,Vikki Kristiansson,22
+Rebecca Rhynhart,6,0,46,39,46,42,45,43,43,44,43,22
+Michael Tomlinson,,3,4,12,3,4,2,2,2,1,2,22
+Deborah Canty,,,0,44,50,47,50,48,47,46,48,22
+Vincent Furlong,,,,0,43,43,42,43,41,41,43,22
+Deborah Cianfrani,,,,,0,46,49,45,46,46,45,22
+Mark B Cohen,,,,,,1,44,44,43,43,43,22
+Stella Tsai,,,,,,,0,47,47,47,46,22
+Zac Shaffer,,,,,,,,0,46,45,45,22
+Lucretia C Clemons,,,,,,,,,0,46,44,22
+Shanese Johnson,,,,,,,,,,0,45,22
+Vikki Kristiansson,,,,,,,,,,,0,22
+Total,56,17,54,54,53,52,51,49,48,48,48,22
+,Judge Of The Court Of Common Pleas,,,,,,,,,City Controller,,23
+,Vincent Furlong,Deborah Canty,Mark B Cohen,Shanese Johnson,Deborah Cianfrani,Lucretia C Clemons,Stella Tsai,Vikki Kristiansson,Zac Shaffer,Rebecca Rhynhart,Michael Tomlinson,23
+Vincent Furlong,0,49,48,49,48,49,48,48,48,47,13,23
+Deborah Canty,,0,48,50,49,49,48,48,48,46,2,23
+Mark B Cohen,,,1,48,48,47,47,47,47,44,3,23
+Shanese Johnson,,,,0,49,49,48,48,48,46,2,23
+Deborah Cianfrani,,,,,0,48,48,48,48,45,2,23
+Lucretia C Clemons,,,,,,0,48,48,48,46,2,23
+Stella Tsai,,,,,,,0,48,48,45,2,23
+Vikki Kristiansson,,,,,,,,0,48,45,2,23
+Zac Shaffer,,,,,,,,,0,45,2,23
+Rebecca Rhynhart,,,,,,,,,,0,0,23
+Michael Tomlinson,,,,,,,,,,,0,23
+Total,61,50,50,50,49,49,48,48,48,47,13,23

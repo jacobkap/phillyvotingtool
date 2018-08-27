@@ -1,0 +1,67 @@
+col_1,col_2,col_3,col_4,division
+,Auditor General - Republican,Attorney General - Republican,,All
+,John Brown,John Rafferty,Joe Peters,All
+John Brown,3,32,14,All
+John Rafferty,,3,0,All
+Joe Peters,,,1,All
+Total,49,35,15,All
+,Auditor General - Republican,Attorney General - Republican,,1
+,John Brown,John Rafferty,Joe Peters,1
+John Brown,1,6,3,1
+John Rafferty,,1,0,1
+Joe Peters,,,0,1
+Total,10,7,3,1
+,Auditor General - Republican,Attorney General - Republican,,2
+,John Brown,John Rafferty,Joe Peters,2
+John Brown,0,9,1,2
+John Rafferty,,1,0,2
+Joe Peters,,,0,2
+Total,10,10,1,2
+,Auditor General - Republican,Attorney General - Republican,,3
+,John Brown,John Rafferty,Joe Peters,3
+John Brown,1,9,2,3
+John Rafferty,,0,0,3
+Joe Peters,,,0,3
+Total,12,9,2,3
+,Auditor General - Republican,Attorney General - Republican,,4
+,John Brown,John Rafferty,Joe Peters,4
+John Brown,0,1,0,4
+John Rafferty,,0,0,4
+Joe Peters,,,0,4
+Total,1,1,0,4
+,Auditor General - Republican,Attorney General - Republican,,5
+,John Brown,Joe Peters,John Rafferty,5
+John Brown,0,2,2,5
+Joe Peters,,0,0,5
+John Rafferty,,,0,5
+Total,4,2,2,5
+,Auditor General - Republican,Attorney General - Republican,,6
+,John Brown,Joe Peters,John Rafferty,6
+John Brown,0,2,1,6
+Joe Peters,,0,0,6
+John Rafferty,,,1,6
+Total,3,2,2,6
+,Auditor General - Republican,Attorney General - Republican,,11
+,John Brown,John Rafferty,Joe Peters,11
+John Brown,1,1,0,11
+John Rafferty,,0,0,11
+Joe Peters,,,0,11
+Total,2,1,0,11
+,Auditor General - Republican,Attorney General - Republican,,12
+,John Brown,Joe Peters,John Rafferty,12
+John Brown,0,3,2,12
+Joe Peters,,1,0,12
+John Rafferty,,,0,12
+Total,5,4,2,12
+,Attorney General - Republican,,Auditor General - Republican,13
+,Joe Peters,John Rafferty,John Brown,13
+Joe Peters,0,0,1,13
+John Rafferty,,0,0,13
+John Brown,,,0,13
+Total,1,0,1,13
+,Auditor General - Republican,Attorney General - Republican,,14
+,John Brown,John Rafferty,Joe Peters,14
+John Brown,0,1,0,14
+John Rafferty,,0,0,14
+Joe Peters,,,0,14
+Total,1,1,0,14

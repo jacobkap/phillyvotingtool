@@ -1,40 +1,10 @@
 col_1,col_2,col_3,col_4,division
-,Judge Of The Commonwealth Court,,District Council 6th District,1
-,Michael Wojcik,Paul Lalley,Bobby Henon,1
-Michael Wojcik,38,0,0,1
-Paul Lalley,,1,0,1
-Bobby Henon,,,0,1
-Total,38,1,0,1
-,Judge Of The Commonwealth Court,,District Council 6th District,2
-,Michael Wojcik,Paul Lalley,Bobby Henon,2
-Michael Wojcik,71,0,0,2
-Paul Lalley,,4,0,2
-Bobby Henon,,,0,2
-Total,71,4,0,2
-,Judge Of The Commonwealth Court,,District Council 6th District,3
-,Michael Wojcik,Paul Lalley,Bobby Henon,3
-Michael Wojcik,59,0,0,3
-Paul Lalley,,2,0,3
-Bobby Henon,,,0,3
-Total,59,2,0,3
-,Judge Of The Commonwealth Court,,District Council 6th District,4
-,Michael Wojcik,Paul Lalley,Bobby Henon,4
-Michael Wojcik,61,0,0,4
-Paul Lalley,,6,0,4
-Bobby Henon,,,0,4
-Total,61,6,0,4
-,Judge Of The Commonwealth Court,,District Council 6th District,5
-,Michael Wojcik,Paul Lalley,Bobby Henon,5
-Michael Wojcik,46,0,0,5
-Paul Lalley,,9,0,5
-Bobby Henon,,,0,5
-Total,46,9,0,5
-,Judge Of The Commonwealth Court,,District Council 6th District,6
-,Michael Wojcik,Paul Lalley,Bobby Henon,6
-Michael Wojcik,62,0,0,6
-Paul Lalley,,8,0,6
-Bobby Henon,,,0,6
-Total,62,8,0,6
+,District Council 6th District,Judge Of The Commonwealth Court,,All
+,Bobby Henon,Michael Wojcik,Paul Lalley,All
+Bobby Henon,101,694,45,All
+Michael Wojcik,,60,0,All
+Paul Lalley,,,90,All
+Total,840,754,135,All
 ,District Council 6th District,Judge Of The Commonwealth Court,,7
 ,Bobby Henon,Michael Wojcik,Paul Lalley,7
 Bobby Henon,6,38,2,7
@@ -131,9 +101,3 @@ Bobby Henon,9,46,2,22
 Michael Wojcik,,4,0,22
 Paul Lalley,,,2,22
 Total,57,50,4,22
-,Judge Of The Commonwealth Court,,District Council 6th District,All
-,Michael Wojcik,Paul Lalley,Bobby Henon,All
-Michael Wojcik,397,0,694,All
-Paul Lalley,,120,45,All
-Bobby Henon,,,101,All
-Total,"1,091",165,840,All

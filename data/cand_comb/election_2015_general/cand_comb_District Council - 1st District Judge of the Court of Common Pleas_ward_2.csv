@@ -1,4 +1,21 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10,col_11,col_12,col_13,col_14,col_15,division
+,District Council 1st District,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,All
+,Mark F Squilla,Mia Roberts Perez,Abbe Fletman,Kai Scott,Ken Powell,Tracy B Roman,Rainy Papademetriou,Stephanie M Sawyer,Chris Mallios,Lyris Younge,Daine Grey Jr,Michael Fanning,Scott Diclaudio,Vincent Furlong,All
+Mark F Squilla,457,"2,600","2,562","2,534","2,491","2,393","2,251","2,265","2,223","2,196","2,117","2,083","1,975",479,All
+Mia Roberts Perez,,14,"2,500","2,524","2,391","2,330","2,207","2,261","2,201","2,219","2,145","2,073","1,909",295,All
+Abbe Fletman,,,14,"2,554","2,398","2,266","2,221","2,203","2,262","2,192","2,114","2,078","1,893",283,All
+Kai Scott,,,,9,"2,394","2,254","2,207","2,200","2,238","2,206","2,128","2,080","1,897",289,All
+Ken Powell,,,,,28,"2,252","2,099","2,143","2,122","2,177","2,085","2,071","1,913",301,All
+Tracy B Roman,,,,,,9,"1,968","2,072","1,966","2,210","1,972","1,935","1,936",312,All
+Rainy Papademetriou,,,,,,,13,"2,149","2,188","1,914","2,068","2,038","1,861",263,All
+Stephanie M Sawyer,,,,,,,,7,"2,151","1,963","2,152","2,083","1,924",303,All
+Chris Mallios,,,,,,,,,5,"1,924","2,102","2,068","1,905",278,All
+Lyris Younge,,,,,,,,,,1,"1,926","1,902","1,863",261,All
+Daine Grey Jr,,,,,,,,,,,1,"2,049","1,878",281,All
+Michael Fanning,,,,,,,,,,,,1,"1,878",268,All
+Scott Diclaudio,,,,,,,,,,,,,6,268,All
+Vincent Furlong,,,,,,,,,,,,,,205,All
+Total,"3,789","2,822","2,810","2,756","2,690","2,526","2,434","2,433","2,420","2,302","2,248","2,200","2,055",730,All
 ,District Council 1st District,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,1
 ,Mark F Squilla,Kai Scott,Ken Powell,Mia Roberts Perez,Abbe Fletman,Tracy B Roman,Stephanie M Sawyer,Chris Mallios,Lyris Younge,Scott Diclaudio,Michael Fanning,Rainy Papademetriou,Daine Grey Jr,Vincent Furlong,1
 Mark F Squilla,44,144,148,141,143,128,123,122,126,116,116,113,110,38,1
@@ -135,23 +152,6 @@ Scott Diclaudio,,,,,,,,,,,,0,38,6,8
 Daine Grey Jr,,,,,,,,,,,,,0,5,8
 Vincent Furlong,,,,,,,,,,,,,,6,8
 Total,102,70,67,65,60,59,57,55,53,51,51,50,47,16,8
-,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,District Council 1st District,9
-,Ken Powell,Abbe Fletman,Mia Roberts Perez,Kai Scott,Tracy B Roman,Lyris Younge,Stephanie M Sawyer,Daine Grey Jr,Rainy Papademetriou,Chris Mallios,Michael Fanning,Scott Diclaudio,Vincent Furlong,Mark F Squilla,9
-Ken Powell,9,84,79,82,79,80,68,66,64,63,64,60,6,0,9
-Abbe Fletman,,4,83,85,77,80,71,70,69,67,67,61,6,0,9
-Mia Roberts Perez,,,2,87,77,78,73,72,70,66,66,62,7,0,9
-Kai Scott,,,,2,74,77,72,72,69,65,66,60,5,0,9
-Tracy B Roman,,,,,4,80,63,62,58,55,59,60,6,0,9
-Lyris Younge,,,,,,1,63,62,60,58,61,61,6,0,9
-Stephanie M Sawyer,,,,,,,0,74,69,67,66,61,6,0,9
-Daine Grey Jr,,,,,,,,0,68,65,67,62,6,0,9
-Rainy Papademetriou,,,,,,,,,0,65,65,57,6,0,9
-Chris Mallios,,,,,,,,,,0,62,57,4,0,9
-Michael Fanning,,,,,,,,,,,0,60,5,0,9
-Scott Diclaudio,,,,,,,,,,,,1,5,0,9
-Vincent Furlong,,,,,,,,,,,,,4,0,9
-Mark F Squilla,,,,,,,,,,,,,,0,9
-Total,101,99,99,96,91,87,81,78,75,70,68,65,13,0,9
 ,District Council 1st District,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,10
 ,Mark F Squilla,Abbe Fletman,Kai Scott,Mia Roberts Perez,Ken Powell,Chris Mallios,Tracy B Roman,Daine Grey Jr,Rainy Papademetriou,Stephanie M Sawyer,Lyris Younge,Michael Fanning,Scott Diclaudio,Vincent Furlong,10
 Mark F Squilla,19,104,103,104,97,91,94,90,87,89,85,83,78,14,10
@@ -305,74 +305,6 @@ Daine Grey Jr,,,,,,,,,,,,0,82,5,18
 Scott Diclaudio,,,,,,,,,,,,,0,6,18
 Vincent Furlong,,,,,,,,,,,,,,11,18
 Total,159,121,114,113,113,112,101,101,100,95,94,92,84,24,18
-,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,District Council 1st District,19
-,Abbe Fletman,Mia Roberts Perez,Kai Scott,Ken Powell,Stephanie M Sawyer,Tracy B Roman,Rainy Papademetriou,Lyris Younge,Chris Mallios,Michael Fanning,Daine Grey Jr,Scott Diclaudio,Vincent Furlong,Mark F Squilla,19
-Abbe Fletman,2,115,117,109,104,106,102,101,102,101,95,93,12,0,19
-Mia Roberts Perez,,2,112,108,104,105,101,99,99,98,95,89,13,0,19
-Kai Scott,,,2,110,102,103,99,102,101,100,96,91,12,0,19
-Ken Powell,,,,1,102,102,98,103,96,96,94,87,12,0,19
-Stephanie M Sawyer,,,,,1,96,102,93,99,98,96,90,14,0,19
-Tracy B Roman,,,,,,1,91,99,88,92,89,90,15,0,19
-Rainy Papademetriou,,,,,,,3,87,98,97,92,88,10,0,19
-Lyris Younge,,,,,,,,3,89,88,87,88,12,0,19
-Chris Mallios,,,,,,,,,0,95,93,88,11,0,19
-Michael Fanning,,,,,,,,,,0,96,90,11,0,19
-Daine Grey Jr,,,,,,,,,,,0,87,11,0,19
-Scott Diclaudio,,,,,,,,,,,,2,10,0,19
-Vincent Furlong,,,,,,,,,,,,,6,0,19
-Mark F Squilla,,,,,,,,,,,,,,0,19
-Total,127,124,123,119,112,112,111,109,105,102,98,95,22,0,19
-,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,District Council 1st District,20
-,Ken Powell,Abbe Fletman,Mia Roberts Perez,Tracy B Roman,Lyris Younge,Kai Scott,Rainy Papademetriou,Chris Mallios,Daine Grey Jr,Michael Fanning,Stephanie M Sawyer,Scott Diclaudio,Vincent Furlong,Mark F Squilla,20
-Ken Powell,3,66,68,66,64,63,63,62,60,61,59,56,5,0,20
-Abbe Fletman,,0,67,63,65,64,62,63,61,60,59,55,4,0,20
-Mia Roberts Perez,,,0,66,64,64,63,63,60,60,58,55,4,0,20
-Tracy B Roman,,,,2,63,61,59,59,56,57,55,54,4,0,20
-Lyris Younge,,,,,1,63,59,60,58,58,58,54,4,0,20
-Kai Scott,,,,,,0,59,58,57,56,57,52,3,0,20
-Rainy Papademetriou,,,,,,,1,63,61,60,60,55,4,0,20
-Chris Mallios,,,,,,,,0,60,60,60,55,4,0,20
-Daine Grey Jr,,,,,,,,,0,59,58,54,3,0,20
-Michael Fanning,,,,,,,,,,0,58,56,4,0,20
-Stephanie M Sawyer,,,,,,,,,,,0,54,3,0,20
-Scott Diclaudio,,,,,,,,,,,,0,1,0,20
-Vincent Furlong,,,,,,,,,,,,,6,0,20
-Mark F Squilla,,,,,,,,,,,,,,0,20
-Total,76,72,72,70,67,66,66,65,62,61,60,56,11,0,20
-,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,District Council 1st District,21
-,Ken Powell,Kai Scott,Mia Roberts Perez,Abbe Fletman,Tracy B Roman,Lyris Younge,Stephanie M Sawyer,Chris Mallios,Michael Fanning,Daine Grey Jr,Rainy Papademetriou,Scott Diclaudio,Vincent Furlong,Mark F Squilla,21
-Ken Powell,5,89,87,85,83,81,77,75,76,75,74,67,4,0,21
-Kai Scott,,2,89,86,85,84,79,76,77,75,75,68,5,0,21
-Mia Roberts Perez,,,3,86,85,83,80,76,76,76,75,69,6,0,21
-Abbe Fletman,,,,0,81,80,76,77,76,75,74,68,5,0,21
-Tracy B Roman,,,,,1,83,74,71,72,70,70,68,5,0,21
-Lyris Younge,,,,,,0,72,70,71,69,69,66,3,0,21
-Stephanie M Sawyer,,,,,,,1,76,76,76,75,69,6,0,21
-Chris Mallios,,,,,,,,0,76,75,74,68,5,0,21
-Michael Fanning,,,,,,,,,0,75,74,68,5,0,21
-Daine Grey Jr,,,,,,,,,,0,73,67,4,0,21
-Rainy Papademetriou,,,,,,,,,,,1,66,5,0,21
-Scott Diclaudio,,,,,,,,,,,,0,5,0,21
-Vincent Furlong,,,,,,,,,,,,,6,0,21
-Mark F Squilla,,,,,,,,,,,,,,0,21
-Total,96,95,94,88,87,84,82,77,77,76,76,69,12,0,21
-,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,District Council 1st District,22
-,Abbe Fletman,Mia Roberts Perez,Kai Scott,Ken Powell,Chris Mallios,Rainy Papademetriou,Stephanie M Sawyer,Tracy B Roman,Daine Grey Jr,Michael Fanning,Lyris Younge,Scott Diclaudio,Vincent Furlong,Mark F Squilla,22
-Abbe Fletman,2,143,139,131,126,123,115,118,116,112,110,95,8,0,22
-Mia Roberts Perez,,1,138,129,119,123,118,119,120,113,113,94,9,0,22
-Kai Scott,,,0,130,123,118,110,114,115,114,112,94,7,0,22
-Ken Powell,,,,4,110,110,111,114,113,112,108,94,5,0,22
-Chris Mallios,,,,,2,119,113,98,114,114,96,96,9,0,22
-Rainy Papademetriou,,,,,,4,115,97,117,113,96,94,8,0,22
-Stephanie M Sawyer,,,,,,,1,104,118,111,99,96,11,0,22
-Tracy B Roman,,,,,,,,4,101,97,112,94,8,0,22
-Daine Grey Jr,,,,,,,,,0,115,98,97,10,0,22
-Michael Fanning,,,,,,,,,,0,95,96,9,0,22
-Lyris Younge,,,,,,,,,,,0,92,5,0,22
-Scott Diclaudio,,,,,,,,,,,,0,8,0,22
-Vincent Furlong,,,,,,,,,,,,,7,0,22
-Mark F Squilla,,,,,,,,,,,,,,0,22
-Total,159,157,148,143,135,135,131,131,125,120,117,98,19,0,22
 ,District Council 1st District,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,23
 ,Mark F Squilla,Abbe Fletman,Mia Roberts Perez,Kai Scott,Rainy Papademetriou,Tracy B Roman,Chris Mallios,Stephanie M Sawyer,Ken Powell,Lyris Younge,Michael Fanning,Daine Grey Jr,Scott Diclaudio,Vincent Furlong,23
 Mark F Squilla,20,174,171,169,162,157,147,147,152,152,139,137,136,23,23
@@ -458,20 +390,3 @@ Daine Grey Jr,,,,,,,,,,,,0,94,28,27
 Scott Diclaudio,,,,,,,,,,,,,0,27,27
 Vincent Furlong,,,,,,,,,,,,,,13,27
 Total,232,165,164,158,154,147,141,135,131,128,127,117,110,62,27
-,District Council 1st District,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,All
-,Mark F Squilla,Mia Roberts Perez,Abbe Fletman,Kai Scott,Ken Powell,Tracy B Roman,Stephanie M Sawyer,Rainy Papademetriou,Chris Mallios,Lyris Younge,Daine Grey Jr,Michael Fanning,Scott Diclaudio,Vincent Furlong,All
-Mark F Squilla,457,"2,600","2,562","2,534","2,491","2,393","2,265","2,251","2,223","2,196","2,117","2,083","1,975",479,All
-Mia Roberts Perez,,22,"2,994","3,014","2,862","2,782","2,694","2,639","2,624","2,656","2,568","2,486","2,278",334,All
-Abbe Fletman,,,22,"3,045","2,873","2,711","2,628","2,651","2,697","2,628","2,531","2,494","2,265",318,All
-Kai Scott,,,,15,"2,868","2,691","2,620","2,627","2,661","2,644","2,543","2,493","2,262",321,All
-Ken Powell,,,,,50,"2,696","2,560","2,508","2,528","2,613","2,493","2,480","2,277",333,All
-Tracy B Roman,,,,,,21,"2,464","2,343","2,337","2,647","2,350","2,312","2,302",350,All
-Stephanie M Sawyer,,,,,,,10,"2,570","2,566","2,348","2,574","2,492","2,294",343,All
-Rainy Papademetriou,,,,,,,,22,"2,607","2,285","2,479","2,447","2,221",296,All
-Chris Mallios,,,,,,,,,7,"2,297","2,509","2,475","2,269",311,All
-Lyris Younge,,,,,,,,,,6,"2,300","2,275","2,224",291,All
-Daine Grey Jr,,,,,,,,,,,1,"2,461","2,245",315,All
-Michael Fanning,,,,,,,,,,,,1,"2,248",302,All
-Scott Diclaudio,,,,,,,,,,,,,9,297,All
-Vincent Furlong,,,,,,,,,,,,,,234,All
-Total,"3,789","3,368","3,355","3,284","3,225","3,017","2,899","2,897","2,872","2,766","2,687","2,628","2,438",807,All

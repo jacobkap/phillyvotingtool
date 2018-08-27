@@ -1,15 +1,15 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,division
-,Mayor,,,,,District Council 9th District,,,1
-,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Bobbie T Curry,Cherelle Parker,Kevin Strickland,1
-Jim Kenney,85,0,0,0,0,0,0,0,1
-Melissa Murray Bailey,,7,0,0,0,0,0,0,1
-James Foster,,,1,0,0,0,0,0,1
-Boris Kindij,,,,0,0,0,0,0,1
-Osborne Hart,,,,,0,0,0,0,1
-Bobbie T Curry,,,,,,0,0,0,1
-Cherelle Parker,,,,,,,0,0,1
-Kevin Strickland,,,,,,,,0,1
-Total,85,7,1,0,0,0,0,0,1
+,Mayor,,,,,District Council 9th District,,,All
+,Jim Kenney,Melissa Murray Bailey,James Foster,Osborne Hart,Boris Kindij,Cherelle Parker,Kevin Strickland,Bobbie T Curry,All
+Jim Kenney,225,0,0,0,0,"1,868",38,8,All
+Melissa Murray Bailey,,13,0,0,0,36,48,4,All
+James Foster,,,1,0,0,10,1,3,All
+Osborne Hart,,,,0,0,3,0,2,All
+Boris Kindij,,,,,0,1,0,0,All
+Cherelle Parker,,,,,,77,0,0,All
+Kevin Strickland,,,,,,,5,0,All
+Bobbie T Curry,,,,,,,,0,All
+Total,"2,139",101,15,5,1,"1,995",92,17,All
 ,Mayor,,,,,District Council 9th District,,,2
 ,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Cherelle Parker,Kevin Strickland,Bobbie T Curry,2
 Jim Kenney,29,0,0,0,0,197,1,0,2
@@ -32,28 +32,6 @@ Cherelle Parker,,,,,,7,0,0,3
 Kevin Strickland,,,,,,,0,0,3
 Bobbie T Curry,,,,,,,,0,3
 Total,229,6,1,0,0,211,11,2,3
-,Mayor,,,,,District Council 9th District,,,4
-,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Bobbie T Curry,Cherelle Parker,Kevin Strickland,4
-Jim Kenney,128,0,0,0,0,0,0,0,4
-Melissa Murray Bailey,,7,0,0,0,0,0,0,4
-James Foster,,,1,0,0,0,0,0,4
-Boris Kindij,,,,0,0,0,0,0,4
-Osborne Hart,,,,,0,0,0,0,4
-Bobbie T Curry,,,,,,0,0,0,4
-Cherelle Parker,,,,,,,0,0,4
-Kevin Strickland,,,,,,,,0,4
-Total,128,7,1,0,0,0,0,0,4
-,Mayor,,,,,District Council 9th District,,,5
-,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Bobbie T Curry,Cherelle Parker,Kevin Strickland,5
-Jim Kenney,172,0,0,0,0,0,0,0,5
-Melissa Murray Bailey,,5,0,0,0,0,0,0,5
-James Foster,,,1,0,0,0,0,0,5
-Boris Kindij,,,,0,0,0,0,0,5
-Osborne Hart,,,,,0,0,0,0,5
-Bobbie T Curry,,,,,,0,0,0,5
-Cherelle Parker,,,,,,,0,0,5
-Kevin Strickland,,,,,,,,0,5
-Total,172,5,1,0,0,0,0,0,5
 ,Mayor,,,,,District Council 9th District,,,6
 ,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Cherelle Parker,Kevin Strickland,Bobbie T Curry,6
 Jim Kenney,20,0,0,0,0,167,6,2,6
@@ -87,83 +65,6 @@ Cherelle Parker,,,,,,9,0,0,8
 Kevin Strickland,,,,,,,0,0,8
 Bobbie T Curry,,,,,,,,0,8
 Total,211,15,2,1,0,201,11,2,8
-,Mayor,,,,,District Council 9th District,,,9
-,Jim Kenney,Melissa Murray Bailey,Osborne Hart,Boris Kindij,James Foster,Bobbie T Curry,Cherelle Parker,Kevin Strickland,9
-Jim Kenney,193,0,0,0,0,0,0,0,9
-Melissa Murray Bailey,,9,0,0,0,0,0,0,9
-Osborne Hart,,,1,0,0,0,0,0,9
-Boris Kindij,,,,0,0,0,0,0,9
-James Foster,,,,,0,0,0,0,9
-Bobbie T Curry,,,,,,0,0,0,9
-Cherelle Parker,,,,,,,0,0,9
-Kevin Strickland,,,,,,,,0,9
-Total,193,9,1,0,0,0,0,0,9
-,Mayor,,,,,District Council 9th District,,,10
-,Jim Kenney,Melissa Murray Bailey,Osborne Hart,Boris Kindij,James Foster,Bobbie T Curry,Cherelle Parker,Kevin Strickland,10
-Jim Kenney,129,0,0,0,0,0,0,0,10
-Melissa Murray Bailey,,4,0,0,0,0,0,0,10
-Osborne Hart,,,1,0,0,0,0,0,10
-Boris Kindij,,,,0,0,0,0,0,10
-James Foster,,,,,0,0,0,0,10
-Bobbie T Curry,,,,,,0,0,0,10
-Cherelle Parker,,,,,,,0,0,10
-Kevin Strickland,,,,,,,,0,10
-Total,129,4,1,0,0,0,0,0,10
-,Mayor,,,,,District Council 9th District,,,11
-,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Bobbie T Curry,Cherelle Parker,Kevin Strickland,11
-Jim Kenney,117,0,0,0,0,0,0,0,11
-Melissa Murray Bailey,,4,0,0,0,0,0,0,11
-Boris Kindij,,,0,0,0,0,0,0,11
-James Foster,,,,0,0,0,0,0,11
-Osborne Hart,,,,,0,0,0,0,11
-Bobbie T Curry,,,,,,0,0,0,11
-Cherelle Parker,,,,,,,0,0,11
-Kevin Strickland,,,,,,,,0,11
-Total,117,4,0,0,0,0,0,0,11
-,Mayor,,,,,District Council 9th District,,,12
-,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Bobbie T Curry,Cherelle Parker,Kevin Strickland,12
-Jim Kenney,167,0,0,0,0,0,0,0,12
-Melissa Murray Bailey,,9,0,0,0,0,0,0,12
-Boris Kindij,,,0,0,0,0,0,0,12
-James Foster,,,,0,0,0,0,0,12
-Osborne Hart,,,,,0,0,0,0,12
-Bobbie T Curry,,,,,,0,0,0,12
-Cherelle Parker,,,,,,,0,0,12
-Kevin Strickland,,,,,,,,0,12
-Total,167,9,0,0,0,0,0,0,12
-,Mayor,,,,,District Council 9th District,,,13
-,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Bobbie T Curry,Cherelle Parker,Kevin Strickland,13
-Jim Kenney,71,0,0,0,0,0,0,0,13
-Melissa Murray Bailey,,3,0,0,0,0,0,0,13
-Boris Kindij,,,0,0,0,0,0,0,13
-James Foster,,,,0,0,0,0,0,13
-Osborne Hart,,,,,0,0,0,0,13
-Bobbie T Curry,,,,,,0,0,0,13
-Cherelle Parker,,,,,,,0,0,13
-Kevin Strickland,,,,,,,,0,13
-Total,71,3,0,0,0,0,0,0,13
-,Mayor,,,,,District Council 9th District,,,14
-,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Bobbie T Curry,Cherelle Parker,Kevin Strickland,14
-Jim Kenney,109,0,0,0,0,0,0,0,14
-Melissa Murray Bailey,,5,0,0,0,0,0,0,14
-Boris Kindij,,,0,0,0,0,0,0,14
-James Foster,,,,0,0,0,0,0,14
-Osborne Hart,,,,,0,0,0,0,14
-Bobbie T Curry,,,,,,0,0,0,14
-Cherelle Parker,,,,,,,0,0,14
-Kevin Strickland,,,,,,,,0,14
-Total,109,5,0,0,0,0,0,0,14
-,Mayor,,,,,District Council 9th District,,,15
-,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Bobbie T Curry,Cherelle Parker,Kevin Strickland,15
-Jim Kenney,117,0,0,0,0,0,0,0,15
-Melissa Murray Bailey,,3,0,0,0,0,0,0,15
-Boris Kindij,,,0,0,0,0,0,0,15
-James Foster,,,,0,0,0,0,0,15
-Osborne Hart,,,,,0,0,0,0,15
-Bobbie T Curry,,,,,,0,0,0,15
-Cherelle Parker,,,,,,,0,0,15
-Kevin Strickland,,,,,,,,0,15
-Total,117,3,0,0,0,0,0,0,15
 ,Mayor,,,,,District Council 9th District,,,16
 ,Jim Kenney,Melissa Murray Bailey,Osborne Hart,Boris Kindij,James Foster,Cherelle Parker,Kevin Strickland,Bobbie T Curry,16
 Jim Kenney,19,0,0,0,0,147,0,0,16
@@ -197,17 +98,6 @@ Cherelle Parker,,,,,,6,0,0,18
 Kevin Strickland,,,,,,,2,0,18
 Bobbie T Curry,,,,,,,,0,18
 Total,195,15,4,0,0,178,12,6,18
-,Mayor,,,,,District Council 9th District,,,19
-,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Bobbie T Curry,Cherelle Parker,Kevin Strickland,19
-Jim Kenney,131,0,0,0,0,0,0,0,19
-Melissa Murray Bailey,,5,0,0,0,0,0,0,19
-James Foster,,,1,0,0,0,0,0,19
-Boris Kindij,,,,0,0,0,0,0,19
-Osborne Hart,,,,,0,0,0,0,19
-Bobbie T Curry,,,,,,0,0,0,19
-Cherelle Parker,,,,,,,0,0,19
-Kevin Strickland,,,,,,,,0,19
-Total,131,5,1,0,0,0,0,0,19
 ,Mayor,,,,,District Council 9th District,,,20
 ,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Cherelle Parker,Kevin Strickland,Bobbie T Curry,20
 Jim Kenney,24,0,0,0,0,184,2,0,20
@@ -241,14 +131,3 @@ Cherelle Parker,,,,,,9,0,0,22
 Kevin Strickland,,,,,,,1,0,22
 Bobbie T Curry,,,,,,,,0,22
 Total,197,6,1,1,0,188,8,0,22
-,Mayor,,,,,District Council 9th District,,,All
-,Jim Kenney,Melissa Murray Bailey,James Foster,Osborne Hart,Boris Kindij,Cherelle Parker,Kevin Strickland,Bobbie T Curry,All
-Jim Kenney,"1,644",0,0,0,0,"1,868",38,8,All
-Melissa Murray Bailey,,74,0,0,0,36,48,4,All
-James Foster,,,5,0,0,10,1,3,All
-Osborne Hart,,,,2,0,3,0,2,All
-Boris Kindij,,,,,0,1,0,0,All
-Cherelle Parker,,,,,,77,0,0,All
-Kevin Strickland,,,,,,,5,0,All
-Bobbie T Curry,,,,,,,,0,All
-Total,"3,558",162,19,7,1,"1,995",92,17,All

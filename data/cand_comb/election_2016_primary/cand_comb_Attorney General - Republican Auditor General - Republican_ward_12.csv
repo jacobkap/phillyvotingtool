@@ -1,0 +1,121 @@
+col_1,col_2,col_3,col_4,division
+,Auditor General - Republican,Attorney General - Republican,,All
+,John Brown,John Rafferty,Joe Peters,All
+John Brown,3,45,10,All
+John Rafferty,,11,0,All
+Joe Peters,,,6,All
+Total,58,56,16,All
+,Attorney General - Republican,,Auditor General - Republican,1
+,John Rafferty,Joe Peters,John Brown,1
+John Rafferty,1,0,1,1
+Joe Peters,,0,0,1
+John Brown,,,0,1
+Total,2,0,1,1
+,Attorney General - Republican,,Auditor General - Republican,2
+,John Rafferty,Joe Peters,John Brown,2
+John Rafferty,1,0,1,2
+Joe Peters,,0,0,2
+John Brown,,,0,2
+Total,2,0,1,2
+,Auditor General - Republican,Attorney General - Republican,,5
+,John Brown,John Rafferty,Joe Peters,5
+John Brown,0,3,2,5
+John Rafferty,,1,0,5
+Joe Peters,,,1,5
+Total,5,4,3,5
+,Attorney General - Republican,,Auditor General - Republican,6
+,John Rafferty,Joe Peters,John Brown,6
+John Rafferty,2,0,4,6
+Joe Peters,,0,0,6
+John Brown,,,0,6
+Total,6,0,4,6
+,Auditor General - Republican,Attorney General - Republican,,7
+,John Brown,John Rafferty,Joe Peters,7
+John Brown,0,2,0,7
+John Rafferty,,0,0,7
+Joe Peters,,,0,7
+Total,2,2,0,7
+,Attorney General - Republican,,Auditor General - Republican,8
+,John Rafferty,Joe Peters,John Brown,8
+John Rafferty,3,0,1,8
+Joe Peters,,0,1,8
+John Brown,,,0,8
+Total,4,1,2,8
+,Auditor General - Republican,Attorney General - Republican,,9
+,John Brown,John Rafferty,Joe Peters,9
+John Brown,0,1,0,9
+John Rafferty,,0,0,9
+Joe Peters,,,0,9
+Total,1,1,0,9
+,Auditor General - Republican,Attorney General - Republican,,10
+,John Brown,John Rafferty,Joe Peters,10
+John Brown,0,1,0,10
+John Rafferty,,0,0,10
+Joe Peters,,,0,10
+Total,1,1,0,10
+,Auditor General - Republican,Attorney General - Republican,,11
+,John Brown,John Rafferty,Joe Peters,11
+John Brown,0,2,0,11
+John Rafferty,,0,0,11
+Joe Peters,,,0,11
+Total,2,2,0,11
+,Auditor General - Republican,Attorney General - Republican,,12
+,John Brown,John Rafferty,Joe Peters,12
+John Brown,0,2,0,12
+John Rafferty,,0,0,12
+Joe Peters,,,0,12
+Total,2,2,0,12
+,Auditor General - Republican,Attorney General - Republican,,13
+,John Brown,Joe Peters,John Rafferty,13
+John Brown,0,1,1,13
+Joe Peters,,0,0,13
+John Rafferty,,,0,13
+Total,2,1,1,13
+,Attorney General - Republican,,Auditor General - Republican,14
+,John Rafferty,Joe Peters,John Brown,14
+John Rafferty,1,0,2,14
+Joe Peters,,0,0,14
+John Brown,,,0,14
+Total,3,0,2,14
+,Auditor General - Republican,Attorney General - Republican,,15
+,John Brown,John Rafferty,Joe Peters,15
+John Brown,1,2,1,15
+John Rafferty,,2,0,15
+Joe Peters,,,1,15
+Total,4,4,2,15
+,Auditor General - Republican,Attorney General - Republican,,16
+,John Brown,John Rafferty,Joe Peters,16
+John Brown,1,7,1,16
+John Rafferty,,0,0,16
+Joe Peters,,,1,16
+Total,9,7,2,16
+,Auditor General - Republican,Attorney General - Republican,,17
+,John Brown,Joe Peters,John Rafferty,17
+John Brown,0,1,2,17
+Joe Peters,,1,0,17
+John Rafferty,,,0,17
+Total,3,2,2,17
+,Auditor General - Republican,Attorney General - Republican,,20
+,John Brown,John Rafferty,Joe Peters,20
+John Brown,0,2,0,20
+John Rafferty,,0,0,20
+Joe Peters,,,0,20
+Total,2,2,0,20
+,Auditor General - Republican,Attorney General - Republican,,22
+,John Brown,John Rafferty,Joe Peters,22
+John Brown,1,5,1,22
+John Rafferty,,0,0,22
+Joe Peters,,,1,22
+Total,7,5,2,22
+,Auditor General - Republican,Attorney General - Republican,,23
+,John Brown,John Rafferty,Joe Peters,23
+John Brown,0,4,2,23
+John Rafferty,,0,0,23
+Joe Peters,,,1,23
+Total,6,4,3,23
+,Auditor General - Republican,Attorney General - Republican,,24
+,John Brown,John Rafferty,Joe Peters,24
+John Brown,0,2,0,24
+John Rafferty,,0,0,24
+Joe Peters,,,0,24
+Total,2,2,0,24

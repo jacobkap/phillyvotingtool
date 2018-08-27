@@ -1,25 +1,11 @@
 col_1,col_2,col_3,col_4,col_5,division
-,Judge Of The Superior Court,,District Council 8th District,,1
-,Alice Beck Dubow,Emil Giordano,Cindy Bass,Michael Galganski,1
-Alice Beck Dubow,75,0,0,0,1
-Emil Giordano,,5,0,0,1
-Cindy Bass,,,0,0,1
-Michael Galganski,,,,0,1
-Total,75,5,0,0,1
-,Judge Of The Superior Court,,District Council 8th District,,2
-,Alice Beck Dubow,Emil Giordano,Cindy Bass,Michael Galganski,2
-Alice Beck Dubow,201,0,0,0,2
-Emil Giordano,,6,0,0,2
-Cindy Bass,,,0,0,2
-Michael Galganski,,,,0,2
-Total,201,6,0,0,2
-,Judge Of The Superior Court,,District Council 8th District,,3
-,Alice Beck Dubow,Emil Giordano,Cindy Bass,Michael Galganski,3
-Alice Beck Dubow,203,0,0,0,3
-Emil Giordano,,9,0,0,3
-Cindy Bass,,,0,0,3
-Michael Galganski,,,,0,3
-Total,203,9,0,0,3
+,District Council 8th District,,Judge Of The Superior Court,,All
+,Cindy Bass,Michael Galganski,Alice Beck Dubow,Emil Giordano,All
+Cindy Bass,121,0,"1,134",12,All
+Michael Galganski,,2,8,6,All
+Alice Beck Dubow,,,69,0,All
+Emil Giordano,,,,22,All
+Total,"1,267",16,"1,211",40,All
 ,District Council 8th District,,Judge Of The Superior Court,,4
 ,Cindy Bass,Michael Galganski,Alice Beck Dubow,Emil Giordano,4
 Cindy Bass,8,0,116,2,4
@@ -34,27 +20,6 @@ Michael Galganski,,0,0,0,5
 Alice Beck Dubow,,,5,0,5
 Emil Giordano,,,,1,5
 Total,166,0,153,1,5
-,Judge Of The Superior Court,,District Council 8th District,,6
-,Alice Beck Dubow,Emil Giordano,Cindy Bass,Michael Galganski,6
-Alice Beck Dubow,171,0,0,0,6
-Emil Giordano,,10,0,0,6
-Cindy Bass,,,0,0,6
-Michael Galganski,,,,0,6
-Total,171,10,0,0,6
-,Judge Of The Superior Court,,District Council 8th District,,7
-,Alice Beck Dubow,Emil Giordano,Cindy Bass,Michael Galganski,7
-Alice Beck Dubow,148,0,0,0,7
-Emil Giordano,,0,0,0,7
-Cindy Bass,,,0,0,7
-Michael Galganski,,,,0,7
-Total,148,0,0,0,7
-,Judge Of The Superior Court,,District Council 8th District,,8
-,Alice Beck Dubow,Emil Giordano,Cindy Bass,Michael Galganski,8
-Alice Beck Dubow,190,0,0,0,8
-Emil Giordano,,8,0,0,8
-Cindy Bass,,,0,0,8
-Michael Galganski,,,,0,8
-Total,190,8,0,0,8
 ,District Council 8th District,,Judge Of The Superior Court,,9
 ,Cindy Bass,Michael Galganski,Alice Beck Dubow,Emil Giordano,9
 Cindy Bass,11,0,174,1,9
@@ -104,27 +69,6 @@ Michael Galganski,,0,0,1,15
 Alice Beck Dubow,,,10,0,15
 Emil Giordano,,,,1,15
 Total,117,1,116,2,15
-,Judge Of The Superior Court,,District Council 8th District,,16
-,Alice Beck Dubow,Emil Giordano,Cindy Bass,Michael Galganski,16
-Alice Beck Dubow,146,0,0,0,16
-Emil Giordano,,2,0,0,16
-Cindy Bass,,,0,0,16
-Michael Galganski,,,,0,16
-Total,146,2,0,0,16
-,Judge Of The Superior Court,,District Council 8th District,,17
-,Alice Beck Dubow,Emil Giordano,Cindy Bass,Michael Galganski,17
-Alice Beck Dubow,148,0,0,0,17
-Emil Giordano,,0,0,0,17
-Cindy Bass,,,0,0,17
-Michael Galganski,,,,0,17
-Total,148,0,0,0,17
-,Judge Of The Superior Court,,District Council 8th District,,18
-,Alice Beck Dubow,Emil Giordano,Cindy Bass,Michael Galganski,18
-Alice Beck Dubow,186,0,0,0,18
-Emil Giordano,,10,0,0,18
-Cindy Bass,,,0,0,18
-Michael Galganski,,,,0,18
-Total,186,10,0,0,18
 ,District Council 8th District,,Judge Of The Superior Court,,19
 ,Cindy Bass,Michael Galganski,Alice Beck Dubow,Emil Giordano,19
 Cindy Bass,10,0,115,1,19
@@ -132,31 +76,3 @@ Michael Galganski,,0,0,2,19
 Alice Beck Dubow,,,9,0,19
 Emil Giordano,,,,2,19
 Total,126,2,124,5,19
-,Judge Of The Superior Court,,District Council 8th District,,20
-,Alice Beck Dubow,Emil Giordano,Cindy Bass,Michael Galganski,20
-Alice Beck Dubow,196,0,0,0,20
-Emil Giordano,,4,0,0,20
-Cindy Bass,,,0,0,20
-Michael Galganski,,,,0,20
-Total,196,4,0,0,20
-,Judge Of The Superior Court,,District Council 8th District,,21
-,Alice Beck Dubow,Emil Giordano,Cindy Bass,Michael Galganski,21
-Alice Beck Dubow,187,0,0,0,21
-Emil Giordano,,13,0,0,21
-Cindy Bass,,,0,0,21
-Michael Galganski,,,,0,21
-Total,187,13,0,0,21
-,Judge Of The Superior Court,,District Council 8th District,,22
-,Alice Beck Dubow,Emil Giordano,Cindy Bass,Michael Galganski,22
-Alice Beck Dubow,182,0,0,0,22
-Emil Giordano,,6,0,0,22
-Cindy Bass,,,0,0,22
-Michael Galganski,,,,0,22
-Total,182,6,0,0,22
-,Judge Of The Superior Court,,District Council 8th District,,All
-,Alice Beck Dubow,Emil Giordano,Cindy Bass,Michael Galganski,All
-Alice Beck Dubow,"2,102",0,"1,134",8,All
-Emil Giordano,,95,12,6,All
-Cindy Bass,,,121,0,All
-Michael Galganski,,,,2,All
-Total,"3,244",113,"1,267",16,All

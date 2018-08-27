@@ -1,34 +1,14 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,division
-,Mayor,,,,,District Council 8th District,,1
-,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Cindy Bass,Michael Galganski,1
-Jim Kenney,85,0,0,0,0,0,0,1
-Melissa Murray Bailey,,7,0,0,0,0,0,1
-James Foster,,,1,0,0,0,0,1
-Boris Kindij,,,,0,0,0,0,1
-Osborne Hart,,,,,0,0,0,1
-Cindy Bass,,,,,,0,0,1
-Michael Galganski,,,,,,,0,1
-Total,85,7,1,0,0,0,0,1
-,Mayor,,,,,District Council 8th District,,2
-,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Cindy Bass,Michael Galganski,2
-Jim Kenney,227,0,0,0,0,0,0,2
-Melissa Murray Bailey,,7,0,0,0,0,0,2
-James Foster,,,1,0,0,0,0,2
-Boris Kindij,,,,0,0,0,0,2
-Osborne Hart,,,,,0,0,0,2
-Cindy Bass,,,,,,0,0,2
-Michael Galganski,,,,,,,0,2
-Total,227,7,1,0,0,0,0,2
-,Mayor,,,,,District Council 8th District,,3
-,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Cindy Bass,Michael Galganski,3
-Jim Kenney,229,0,0,0,0,0,0,3
-Melissa Murray Bailey,,6,0,0,0,0,0,3
-Boris Kindij,,,1,0,0,0,0,3
-James Foster,,,,0,0,0,0,3
-Osborne Hart,,,,,0,0,0,3
-Cindy Bass,,,,,,0,0,3
-Michael Galganski,,,,,,,0,3
-Total,229,6,1,0,0,0,0,3
+,Mayor,,,,,District Council 8th District,,All
+,Jim Kenney,Melissa Murray Bailey,James Foster,Osborne Hart,Boris Kindij,Cindy Bass,Michael Galganski,All
+Jim Kenney,142,0,0,0,0,"1,183",9,All
+Melissa Murray Bailey,,27,0,0,0,22,5,All
+James Foster,,,0,0,0,2,1,All
+Osborne Hart,,,,1,0,1,0,All
+Boris Kindij,,,,,0,0,0,All
+Cindy Bass,,,,,,59,0,All
+Michael Galganski,,,,,,,1,All
+Total,"1,334",54,3,2,0,"1,267",16,All
 ,Mayor,,,,,District Council 8th District,,4
 ,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Cindy Bass,Michael Galganski,4
 Jim Kenney,9,0,0,0,0,118,1,4
@@ -49,36 +29,6 @@ Osborne Hart,,,,,0,0,0,5
 Cindy Bass,,,,,,9,0,5
 Michael Galganski,,,,,,,0,5
 Total,172,5,1,0,0,166,0,5
-,Mayor,,,,,District Council 8th District,,6
-,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Cindy Bass,Michael Galganski,6
-Jim Kenney,195,0,0,0,0,0,0,6
-Melissa Murray Bailey,,6,0,0,0,0,0,6
-James Foster,,,4,0,0,0,0,6
-Boris Kindij,,,,0,0,0,0,6
-Osborne Hart,,,,,0,0,0,6
-Cindy Bass,,,,,,0,0,6
-Michael Galganski,,,,,,,0,6
-Total,195,6,4,0,0,0,0,6
-,Mayor,,,,,District Council 8th District,,7
-,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Cindy Bass,Michael Galganski,7
-Jim Kenney,166,0,0,0,0,0,0,7
-Melissa Murray Bailey,,11,0,0,0,0,0,7
-Boris Kindij,,,0,0,0,0,0,7
-James Foster,,,,0,0,0,0,7
-Osborne Hart,,,,,0,0,0,7
-Cindy Bass,,,,,,0,0,7
-Michael Galganski,,,,,,,0,7
-Total,166,11,0,0,0,0,0,7
-,Mayor,,,,,District Council 8th District,,8
-,Jim Kenney,Melissa Murray Bailey,James Foster,Osborne Hart,Boris Kindij,Cindy Bass,Michael Galganski,8
-Jim Kenney,211,0,0,0,0,0,0,8
-Melissa Murray Bailey,,15,0,0,0,0,0,8
-James Foster,,,2,0,0,0,0,8
-Osborne Hart,,,,1,0,0,0,8
-Boris Kindij,,,,,0,0,0,8
-Cindy Bass,,,,,,0,0,8
-Michael Galganski,,,,,,,0,8
-Total,211,15,2,1,0,0,0,8
 ,Mayor,,,,,District Council 8th District,,9
 ,Jim Kenney,Melissa Murray Bailey,Osborne Hart,Boris Kindij,James Foster,Cindy Bass,Michael Galganski,9
 Jim Kenney,12,0,0,0,0,178,3,9
@@ -149,36 +99,6 @@ Boris Kindij,,,,,0,0,0,15
 James Foster,,,,,,0,0,15
 Osborne Hart,,,,,,,0,15
 Total,117,1,117,3,0,0,0,15
-,Mayor,,,,,District Council 8th District,,16
-,Jim Kenney,Melissa Murray Bailey,Osborne Hart,Boris Kindij,James Foster,Cindy Bass,Michael Galganski,16
-Jim Kenney,166,0,0,0,0,0,0,16
-Melissa Murray Bailey,,3,0,0,0,0,0,16
-Osborne Hart,,,1,0,0,0,0,16
-Boris Kindij,,,,0,0,0,0,16
-James Foster,,,,,0,0,0,16
-Cindy Bass,,,,,,0,0,16
-Michael Galganski,,,,,,,0,16
-Total,166,3,1,0,0,0,0,16
-,Mayor,,,,,District Council 8th District,,17
-,Jim Kenney,Melissa Murray Bailey,Osborne Hart,Boris Kindij,James Foster,Cindy Bass,Michael Galganski,17
-Jim Kenney,147,0,0,0,0,0,0,17
-Melissa Murray Bailey,,3,0,0,0,0,0,17
-Osborne Hart,,,1,0,0,0,0,17
-Boris Kindij,,,,0,0,0,0,17
-James Foster,,,,,0,0,0,17
-Cindy Bass,,,,,,0,0,17
-Michael Galganski,,,,,,,0,17
-Total,147,3,1,0,0,0,0,17
-,Mayor,,,,,District Council 8th District,,18
-,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Cindy Bass,Michael Galganski,18
-Jim Kenney,195,0,0,0,0,0,0,18
-Melissa Murray Bailey,,15,0,0,0,0,0,18
-James Foster,,,4,0,0,0,0,18
-Boris Kindij,,,,0,0,0,0,18
-Osborne Hart,,,,,0,0,0,18
-Cindy Bass,,,,,,0,0,18
-Michael Galganski,,,,,,,0,18
-Total,195,15,4,0,0,0,0,18
 ,Mayor,,,,,District Council 8th District,,19
 ,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Cindy Bass,Michael Galganski,19
 Jim Kenney,16,0,0,0,0,115,0,19
@@ -189,43 +109,3 @@ Osborne Hart,,,,,0,0,0,19
 Cindy Bass,,,,,,8,0,19
 Michael Galganski,,,,,,,1,19
 Total,131,5,1,0,0,126,2,19
-,Mayor,,,,,District Council 8th District,,20
-,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Cindy Bass,Michael Galganski,20
-Jim Kenney,210,0,0,0,0,0,0,20
-Melissa Murray Bailey,,8,0,0,0,0,0,20
-James Foster,,,1,0,0,0,0,20
-Boris Kindij,,,,0,0,0,0,20
-Osborne Hart,,,,,0,0,0,20
-Cindy Bass,,,,,,0,0,20
-Michael Galganski,,,,,,,0,20
-Total,210,8,1,0,0,0,0,20
-,Mayor,,,,,District Council 8th District,,21
-,Jim Kenney,Melissa Murray Bailey,James Foster,Osborne Hart,Boris Kindij,Cindy Bass,Michael Galganski,21
-Jim Kenney,196,0,0,0,0,0,0,21
-Melissa Murray Bailey,,21,0,0,0,0,0,21
-James Foster,,,2,0,0,0,0,21
-Osborne Hart,,,,1,0,0,0,21
-Boris Kindij,,,,,0,0,0,21
-Cindy Bass,,,,,,0,0,21
-Michael Galganski,,,,,,,0,21
-Total,196,21,2,1,0,0,0,21
-,Mayor,,,,,District Council 8th District,,22
-,Jim Kenney,Melissa Murray Bailey,James Foster,Osborne Hart,Boris Kindij,Cindy Bass,Michael Galganski,22
-Jim Kenney,197,0,0,0,0,0,0,22
-Melissa Murray Bailey,,6,0,0,0,0,0,22
-James Foster,,,1,0,0,0,0,22
-Osborne Hart,,,,1,0,0,0,22
-Boris Kindij,,,,,0,0,0,22
-Cindy Bass,,,,,,0,0,22
-Michael Galganski,,,,,,,0,22
-Total,197,6,1,1,0,0,0,22
-,Mayor,,,,,District Council 8th District,,All
-,Jim Kenney,Melissa Murray Bailey,James Foster,Osborne Hart,Boris Kindij,Cindy Bass,Michael Galganski,All
-Jim Kenney,"2,366",0,0,0,0,"1,183",9,All
-Melissa Murray Bailey,,135,0,0,0,22,5,All
-James Foster,,,16,0,0,2,1,All
-Osborne Hart,,,,6,0,1,0,All
-Boris Kindij,,,,,1,0,0,All
-Cindy Bass,,,,,,59,0,All
-Michael Galganski,,,,,,,1,All
-Total,"3,558",162,19,7,1,"1,267",16,All

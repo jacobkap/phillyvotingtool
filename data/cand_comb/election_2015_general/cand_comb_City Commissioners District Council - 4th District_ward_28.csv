@@ -1,60 +1,11 @@
 col_1,col_2,col_3,col_4,col_5,division
-,City Commissioners,,,District Council 4th District,1
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Curtis J Jones Jr,1
-Anthony Clark,16,40,0,0,1
-Lisa M Deeley,,2,0,0,1
-Al Schmidt,,,2,0,1
-Curtis J Jones Jr,,,,0,1
-Total,56,42,2,0,1
-,City Commissioners,,,District Council 4th District,2
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Curtis J Jones Jr,2
-Anthony Clark,11,75,1,0,2
-Lisa M Deeley,,8,1,0,2
-Al Schmidt,,,0,0,2
-Curtis J Jones Jr,,,,0,2
-Total,87,84,2,0,2
-,City Commissioners,,,District Council 4th District,3
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Curtis J Jones Jr,3
-Anthony Clark,19,76,0,0,3
-Lisa M Deeley,,6,2,0,3
-Al Schmidt,,,3,0,3
-Curtis J Jones Jr,,,,0,3
-Total,95,84,5,0,3
-,City Commissioners,,,District Council 4th District,4
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Curtis J Jones Jr,4
-Anthony Clark,13,86,0,0,4
-Lisa M Deeley,,7,1,0,4
-Al Schmidt,,,1,0,4
-Curtis J Jones Jr,,,,0,4
-Total,99,94,2,0,4
-,City Commissioners,,,District Council 4th District,5
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Curtis J Jones Jr,5
-Anthony Clark,22,95,1,0,5
-Lisa M Deeley,,4,2,0,5
-Al Schmidt,,,0,0,5
-Curtis J Jones Jr,,,,0,5
-Total,118,101,3,0,5
-,City Commissioners,,,District Council 4th District,6
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Curtis J Jones Jr,6
-Anthony Clark,10,70,3,0,6
-Lisa M Deeley,,1,0,0,6
-Al Schmidt,,,0,0,6
-Curtis J Jones Jr,,,,0,6
-Total,83,71,3,0,6
-,City Commissioners,,,District Council 4th District,7
-,Lisa M Deeley,Anthony Clark,Al Schmidt,Curtis J Jones Jr,7
-Lisa M Deeley,16,26,1,0,7
-Anthony Clark,,15,0,0,7
-Al Schmidt,,,1,0,7
-Curtis J Jones Jr,,,,0,7
-Total,43,41,2,0,7
-,City Commissioners,,,District Council 4th District,8
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Curtis J Jones Jr,8
-Anthony Clark,42,121,0,0,8
-Lisa M Deeley,,7,2,0,8
-Al Schmidt,,,2,0,8
-Curtis J Jones Jr,,,,0,8
-Total,163,130,4,0,8
+,District Council 4th District,City Commissioners,,,All
+,Curtis J Jones Jr,Anthony Clark,Lisa M Deeley,Al Schmidt,All
+Curtis J Jones Jr,17,342,291,6,All
+Anthony Clark,,11,274,4,All
+Lisa M Deeley,,,5,2,All
+Al Schmidt,,,,3,All
+Total,380,356,298,12,All
 ,District Council 4th District,City Commissioners,,,9
 ,Curtis J Jones Jr,Anthony Clark,Lisa M Deeley,Al Schmidt,9
 Curtis J Jones Jr,7,112,93,0,9
@@ -62,48 +13,6 @@ Anthony Clark,,5,87,2,9
 Lisa M Deeley,,,2,1,9
 Al Schmidt,,,,0,9
 Total,126,120,97,3,9
-,City Commissioners,,,District Council 4th District,10
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Curtis J Jones Jr,10
-Anthony Clark,10,83,0,0,10
-Lisa M Deeley,,4,0,0,10
-Al Schmidt,,,2,0,10
-Curtis J Jones Jr,,,,0,10
-Total,93,87,2,0,10
-,City Commissioners,,,District Council 4th District,11
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Curtis J Jones Jr,11
-Anthony Clark,19,34,0,0,11
-Lisa M Deeley,,7,1,0,11
-Al Schmidt,,,1,0,11
-Curtis J Jones Jr,,,,0,11
-Total,53,42,2,0,11
-,City Commissioners,,,District Council 4th District,12
-,Lisa M Deeley,Anthony Clark,Al Schmidt,Curtis J Jones Jr,12
-Lisa M Deeley,20,46,0,0,12
-Anthony Clark,,7,0,0,12
-Al Schmidt,,,0,0,12
-Curtis J Jones Jr,,,,0,12
-Total,66,53,0,0,12
-,City Commissioners,,,District Council 4th District,13
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Curtis J Jones Jr,13
-Anthony Clark,8,99,0,0,13
-Lisa M Deeley,,6,0,0,13
-Al Schmidt,,,1,0,13
-Curtis J Jones Jr,,,,0,13
-Total,107,105,1,0,13
-,City Commissioners,,,District Council 4th District,14
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Curtis J Jones Jr,14
-Anthony Clark,10,63,0,0,14
-Lisa M Deeley,,4,0,0,14
-Al Schmidt,,,1,0,14
-Curtis J Jones Jr,,,,0,14
-Total,73,67,1,0,14
-,City Commissioners,,,District Council 4th District,15
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Curtis J Jones Jr,15
-Anthony Clark,15,61,0,0,15
-Lisa M Deeley,,5,0,0,15
-Al Schmidt,,,0,0,15
-Curtis J Jones Jr,,,,0,15
-Total,76,66,0,0,15
 ,District Council 4th District,City Commissioners,,,16
 ,Curtis J Jones Jr,Anthony Clark,Lisa M Deeley,Al Schmidt,16
 Curtis J Jones Jr,2,85,69,1,16
@@ -125,10 +34,3 @@ Anthony Clark,,1,65,2,18
 Lisa M Deeley,,,2,1,18
 Al Schmidt,,,,0,18
 Total,90,80,73,5,18
-,City Commissioners,,,District Council 4th District,All
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Curtis J Jones Jr,All
-Anthony Clark,228,"1,249",9,342,All
-Lisa M Deeley,,102,12,291,All
-Al Schmidt,,,17,6,All
-Curtis J Jones Jr,,,,17,All
-Total,"1,553","1,380",41,380,All

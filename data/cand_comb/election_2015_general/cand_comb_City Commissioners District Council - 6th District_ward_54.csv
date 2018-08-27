@@ -1,46 +1,11 @@
 col_1,col_2,col_3,col_4,col_5,division
-,City Commissioners,,,District Council 6th District,1
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Bobby Henon,1
-Anthony Clark,7,30,0,0,1
-Lisa M Deeley,,5,1,0,1
-Al Schmidt,,,2,0,1
-Bobby Henon,,,,0,1
-Total,37,36,3,0,1
-,City Commissioners,,,District Council 6th District,2
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Bobby Henon,2
-Anthony Clark,12,51,2,0,2
-Lisa M Deeley,,6,3,0,2
-Al Schmidt,,,5,0,2
-Bobby Henon,,,,0,2
-Total,65,60,10,0,2
-,City Commissioners,,,District Council 6th District,3
-,Lisa M Deeley,Anthony Clark,Al Schmidt,Bobby Henon,3
-Lisa M Deeley,14,37,0,0,3
-Anthony Clark,,6,0,0,3
-Al Schmidt,,,2,0,3
-Bobby Henon,,,,0,3
-Total,51,43,2,0,3
-,City Commissioners,,,District Council 6th District,4
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Bobby Henon,4
-Anthony Clark,19,32,0,0,4
-Lisa M Deeley,,8,5,0,4
-Al Schmidt,,,4,0,4
-Bobby Henon,,,,0,4
-Total,51,45,9,0,4
-,City Commissioners,,,District Council 6th District,5
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Bobby Henon,5
-Anthony Clark,10,31,1,0,5
-Lisa M Deeley,,5,1,0,5
-Al Schmidt,,,7,0,5
-Bobby Henon,,,,0,5
-Total,42,37,9,0,5
-,City Commissioners,,,District Council 6th District,6
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Bobby Henon,6
-Anthony Clark,13,41,1,0,6
-Lisa M Deeley,,8,2,0,6
-Al Schmidt,,,7,0,6
-Bobby Henon,,,,0,6
-Total,55,51,10,0,6
+,District Council 6th District,City Commissioners,,,All
+,Bobby Henon,Lisa M Deeley,Anthony Clark,Al Schmidt,All
+Bobby Henon,69,614,612,79,All
+Lisa M Deeley,,22,489,54,All
+Anthony Clark,,,29,19,All
+Al Schmidt,,,,75,All
+Total,840,660,658,169,All
 ,District Council 6th District,City Commissioners,,,7
 ,Bobby Henon,Anthony Clark,Lisa M Deeley,Al Schmidt,7
 Bobby Henon,6,31,33,4,7
@@ -153,10 +118,3 @@ Anthony Clark,,0,37,1,22
 Lisa M Deeley,,,1,3,22
 Al Schmidt,,,,2,22
 Total,57,48,44,6,22
-,City Commissioners,,,District Council 6th District,All
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Bobby Henon,All
-Anthony Clark,96,711,23,612,All
-Lisa M Deeley,,68,66,614,All
-Al Schmidt,,,102,79,All
-Bobby Henon,,,,69,All
-Total,951,940,212,840,All

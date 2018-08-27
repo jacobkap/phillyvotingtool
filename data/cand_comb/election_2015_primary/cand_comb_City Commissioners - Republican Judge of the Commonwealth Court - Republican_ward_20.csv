@@ -1,0 +1,26 @@
+col_1,col_2,col_3,division
+,City Commissioners - Republican,Judge Of The Commonwealth Court - Republican,1
+,Al Schmidt,Paul Lalley,1
+Al Schmidt,0,3,1
+Paul Lalley,,0,1
+Total,3,3,1
+,City Commissioners - Republican,Judge Of The Commonwealth Court - Republican,4
+,Al Schmidt,Paul Lalley,4
+Al Schmidt,0,2,4
+Paul Lalley,,0,4
+Total,2,2,4
+,Judge Of The Commonwealth Court - Republican,City Commissioners - Republican,7
+,Paul Lalley,Al Schmidt,7
+Paul Lalley,1,1,7
+Al Schmidt,,0,7
+Total,2,1,7
+,City Commissioners - Republican,Judge Of The Commonwealth Court - Republican,10
+,Al Schmidt,Paul Lalley,10
+Al Schmidt,0,3,10
+Paul Lalley,,0,10
+Total,3,3,10
+,Judge Of The Commonwealth Court - Republican,City Commissioners - Republican,All
+,Paul Lalley,Al Schmidt,All
+Paul Lalley,1,9,All
+Al Schmidt,,0,All
+Total,10,9,All

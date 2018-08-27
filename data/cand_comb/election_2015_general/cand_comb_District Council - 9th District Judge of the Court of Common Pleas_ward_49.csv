@@ -1,23 +1,23 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10,col_11,col_12,col_13,col_14,col_15,col_16,col_17,division
-,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,District Council 9th District,,,1
-,Mia Roberts Perez,Ken Powell,Abbe Fletman,Tracy B Roman,Kai Scott,Lyris Younge,Daine Grey Jr,Chris Mallios,Stephanie M Sawyer,Michael Fanning,Scott Diclaudio,Rainy Papademetriou,Vincent Furlong,Bobbie T Curry,Cherelle Parker,Kevin Strickland,1
-Mia Roberts Perez,7,70,69,69,69,68,60,59,59,58,56,55,8,0,0,0,1
-Ken Powell,,4,68,67,68,67,58,57,58,56,55,54,6,0,0,0,1
-Abbe Fletman,,,2,67,67,68,58,58,58,57,56,54,7,0,0,0,1
-Tracy B Roman,,,,2,66,66,57,57,56,56,55,52,6,0,0,0,1
-Kai Scott,,,,,1,67,57,56,57,55,55,54,6,0,0,0,1
-Lyris Younge,,,,,,0,57,57,57,56,55,54,6,0,0,0,1
-Daine Grey Jr,,,,,,,0,59,59,58,56,55,8,0,0,0,1
-Chris Mallios,,,,,,,,0,58,58,56,54,8,0,0,0,1
-Stephanie M Sawyer,,,,,,,,,0,57,56,55,7,0,0,0,1
-Michael Fanning,,,,,,,,,,0,55,53,7,0,0,0,1
-Scott Diclaudio,,,,,,,,,,,1,52,6,0,0,0,1
-Rainy Papademetriou,,,,,,,,,,,,0,4,0,0,0,1
-Vincent Furlong,,,,,,,,,,,,,2,0,0,0,1
-Bobbie T Curry,,,,,,,,,,,,,,0,0,0,1
-Cherelle Parker,,,,,,,,,,,,,,,0,0,1
-Kevin Strickland,,,,,,,,,,,,,,,,0,1
-Total,79,74,71,71,70,68,60,59,59,58,57,55,10,0,0,0,1
+,District Council 9th District,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,All
+,Cherelle Parker,Kevin Strickland,Bobbie T Curry,Mia Roberts Perez,Ken Powell,Kai Scott,Tracy B Roman,Lyris Younge,Abbe Fletman,Stephanie M Sawyer,Daine Grey Jr,Michael Fanning,Rainy Papademetriou,Chris Mallios,Scott Diclaudio,Vincent Furlong,All
+Cherelle Parker,87,0,0,"1,629","1,630","1,604","1,616","1,523","1,502","1,366","1,345","1,294","1,279","1,271","1,250",74,All
+Kevin Strickland,,12,0,30,24,32,22,26,22,30,27,22,23,24,22,47,All
+Bobbie T Curry,,,3,14,10,11,13,10,10,12,11,11,13,12,11,5,All
+Mia Roberts Perez,,,,12,"1,574","1,601","1,603","1,551","1,545","1,379","1,355","1,317","1,313","1,307","1,278",88,All
+Ken Powell,,,,,14,"1,559","1,564","1,512","1,516","1,343","1,336","1,314","1,287","1,296","1,273",78,All
+Kai Scott,,,,,,9,"1,579","1,544","1,543","1,360","1,348","1,309","1,303","1,295","1,266",81,All
+Tracy B Roman,,,,,,,13,"1,532","1,537","1,355","1,340","1,311","1,300","1,297","1,274",83,All
+Lyris Younge,,,,,,,,8,"1,507","1,332","1,327","1,298","1,289","1,283","1,252",81,All
+Abbe Fletman,,,,,,,,,2,"1,302","1,301","1,294","1,285","1,285","1,259",75,All
+Stephanie M Sawyer,,,,,,,,,,2,"1,363","1,310","1,306","1,302","1,271",82,All
+Daine Grey Jr,,,,,,,,,,,3,"1,322","1,305","1,300","1,271",85,All
+Michael Fanning,,,,,,,,,,,,0,"1,296","1,298","1,269",78,All
+Rainy Papademetriou,,,,,,,,,,,,,1,"1,291","1,261",69,All
+Chris Mallios,,,,,,,,,,,,,,0,"1,268",78,All
+Scott Diclaudio,,,,,,,,,,,,,,,0,55,All
+Vincent Furlong,,,,,,,,,,,,,,,,2,All
+Total,"1,995",92,17,"1,744","1,738","1,721","1,721","1,621","1,585","1,446","1,421","1,348","1,337","1,326","1,303",131,All
 ,District Council 9th District,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,2
 ,Cherelle Parker,Kevin Strickland,Bobbie T Curry,Ken Powell,Kai Scott,Mia Roberts Perez,Tracy B Roman,Lyris Younge,Abbe Fletman,Michael Fanning,Stephanie M Sawyer,Daine Grey Jr,Rainy Papademetriou,Chris Mallios,Scott Diclaudio,Vincent Furlong,2
 Cherelle Parker,7,0,0,184,182,179,178,174,171,164,162,162,161,161,158,3,2
@@ -56,44 +56,6 @@ Scott Diclaudio,,,,,,,,,,,,,,0,125,5,3
 Chris Mallios,,,,,,,,,,,,,,,0,4,3
 Vincent Furlong,,,,,,,,,,,,,,,,0,3
 Total,211,11,2,179,176,172,171,160,153,144,140,134,131,131,128,9,3
-,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,District Council 9th District,,,4
-,Ken Powell,Mia Roberts Perez,Kai Scott,Lyris Younge,Abbe Fletman,Tracy B Roman,Daine Grey Jr,Chris Mallios,Michael Fanning,Rainy Papademetriou,Scott Diclaudio,Stephanie M Sawyer,Vincent Furlong,Bobbie T Curry,Cherelle Parker,Kevin Strickland,4
-Ken Powell,8,102,100,101,101,100,83,82,82,82,82,82,3,0,0,0,4
-Mia Roberts Perez,,6,100,101,101,100,83,82,81,82,82,82,2,0,0,0,4
-Kai Scott,,,3,100,100,99,82,81,81,81,82,82,2,0,0,0,4
-Lyris Younge,,,,2,100,99,83,82,81,82,82,82,2,0,0,0,4
-Abbe Fletman,,,,,1,100,82,81,81,81,82,82,2,0,0,0,4
-Tracy B Roman,,,,,,0,82,81,81,81,82,82,2,0,0,0,4
-Daine Grey Jr,,,,,,,0,82,80,82,82,81,2,0,0,0,4
-Chris Mallios,,,,,,,,0,79,81,81,80,2,0,0,0,4
-Michael Fanning,,,,,,,,,0,79,80,80,2,0,0,0,4
-Rainy Papademetriou,,,,,,,,,,0,81,80,1,0,0,0,4
-Scott Diclaudio,,,,,,,,,,,0,81,2,0,0,0,4
-Stephanie M Sawyer,,,,,,,,,,,,0,2,0,0,0,4
-Vincent Furlong,,,,,,,,,,,,,6,0,0,0,4
-Bobbie T Curry,,,,,,,,,,,,,,0,0,0,4
-Cherelle Parker,,,,,,,,,,,,,,,0,0,4
-Kevin Strickland,,,,,,,,,,,,,,,,0,4
-Total,111,108,103,103,102,100,83,82,82,82,82,82,9,0,0,0,4
-,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,District Council 9th District,,,5
-,Mia Roberts Perez,Ken Powell,Tracy B Roman,Kai Scott,Lyris Younge,Abbe Fletman,Stephanie M Sawyer,Daine Grey Jr,Michael Fanning,Chris Mallios,Scott Diclaudio,Rainy Papademetriou,Vincent Furlong,Bobbie T Curry,Cherelle Parker,Kevin Strickland,5
-Mia Roberts Perez,3,128,133,128,126,128,118,118,111,110,110,108,4,0,0,0,5
-Ken Powell,,7,126,125,123,123,116,115,111,109,110,107,4,0,0,0,5
-Tracy B Roman,,,4,126,125,124,113,113,107,107,110,105,4,0,0,0,5
-Kai Scott,,,,3,125,123,113,113,110,109,108,106,3,0,0,0,5
-Lyris Younge,,,,,3,122,110,112,108,107,107,105,4,0,0,0,5
-Abbe Fletman,,,,,,0,111,111,109,109,108,107,3,0,0,0,5
-Stephanie M Sawyer,,,,,,,0,118,113,111,110,108,4,0,0,0,5
-Daine Grey Jr,,,,,,,,0,113,111,111,108,4,0,0,0,5
-Michael Fanning,,,,,,,,,0,110,108,107,3,0,0,0,5
-Chris Mallios,,,,,,,,,,0,108,107,2,0,0,0,5
-Scott Diclaudio,,,,,,,,,,,0,106,4,0,0,0,5
-Rainy Papademetriou,,,,,,,,,,,,0,2,0,0,0,5
-Vincent Furlong,,,,,,,,,,,,,2,0,0,0,5
-Bobbie T Curry,,,,,,,,,,,,,,0,0,0,5
-Cherelle Parker,,,,,,,,,,,,,,,0,0,5
-Kevin Strickland,,,,,,,,,,,,,,,,0,5
-Total,144,140,139,134,132,129,122,121,113,111,111,108,6,0,0,0,5
 ,District Council 9th District,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,6
 ,Cherelle Parker,Kevin Strickland,Bobbie T Curry,Kai Scott,Mia Roberts Perez,Ken Powell,Tracy B Roman,Lyris Younge,Abbe Fletman,Stephanie M Sawyer,Daine Grey Jr,Michael Fanning,Rainy Papademetriou,Chris Mallios,Scott Diclaudio,Vincent Furlong,6
 Cherelle Parker,12,0,0,134,141,137,137,126,124,113,113,101,95,94,93,7,6
@@ -151,139 +113,6 @@ Chris Mallios,,,,,,,,,,,,,,0,113,10,8
 Scott Diclaudio,,,,,,,,,,,,,,,0,11,8
 Vincent Furlong,,,,,,,,,,,,,,,,0,8
 Total,201,11,2,162,160,158,154,150,142,138,129,119,118,117,117,16,8
-,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,District Council 9th District,,,9
-,Kai Scott,Ken Powell,Mia Roberts Perez,Tracy B Roman,Lyris Younge,Abbe Fletman,Stephanie M Sawyer,Daine Grey Jr,Chris Mallios,Michael Fanning,Scott Diclaudio,Rainy Papademetriou,Vincent Furlong,Bobbie T Curry,Cherelle Parker,Kevin Strickland,9
-Kai Scott,7,165,164,163,162,165,149,149,147,147,148,147,2,0,0,0,9
-Ken Powell,,4,166,163,162,162,149,148,148,146,146,146,3,0,0,0,9
-Mia Roberts Perez,,,3,162,162,162,148,148,148,146,146,146,1,0,0,0,9
-Tracy B Roman,,,,4,162,160,147,146,147,145,146,145,1,0,0,0,9
-Lyris Younge,,,,,4,161,147,147,147,146,147,146,1,0,0,0,9
-Abbe Fletman,,,,,,3,148,149,147,147,148,147,2,0,0,0,9
-Stephanie M Sawyer,,,,,,,1,150,148,148,147,148,2,0,0,0,9
-Daine Grey Jr,,,,,,,,0,148,149,148,148,2,0,0,0,9
-Chris Mallios,,,,,,,,,0,147,147,147,1,0,0,0,9
-Michael Fanning,,,,,,,,,,0,147,147,1,0,0,0,9
-Scott Diclaudio,,,,,,,,,,,0,147,2,0,0,0,9
-Rainy Papademetriou,,,,,,,,,,,,0,1,0,0,0,9
-Vincent Furlong,,,,,,,,,,,,,5,0,0,0,9
-Bobbie T Curry,,,,,,,,,,,,,,0,0,0,9
-Cherelle Parker,,,,,,,,,,,,,,,0,0,9
-Kevin Strickland,,,,,,,,,,,,,,,,0,9
-Total,177,175,171,170,169,168,153,151,149,149,149,148,9,0,0,0,9
-,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,District Council 9th District,,,10
-,Ken Powell,Tracy B Roman,Kai Scott,Mia Roberts Perez,Lyris Younge,Abbe Fletman,Daine Grey Jr,Michael Fanning,Stephanie M Sawyer,Chris Mallios,Scott Diclaudio,Rainy Papademetriou,Vincent Furlong,Bobbie T Curry,Cherelle Parker,Kevin Strickland,10
-Ken Powell,7,94,94,89,93,91,82,81,82,79,78,78,4,0,0,0,10
-Tracy B Roman,,5,95,90,94,91,81,79,81,78,77,77,5,0,0,0,10
-Kai Scott,,,2,93,94,92,82,82,82,81,80,78,5,0,0,0,10
-Mia Roberts Perez,,,,4,92,92,80,81,79,81,79,77,4,0,0,0,10
-Lyris Younge,,,,,0,92,83,82,81,80,79,79,5,0,0,0,10
-Abbe Fletman,,,,,,0,82,81,81,81,79,78,4,0,0,0,10
-Daine Grey Jr,,,,,,,1,82,83,81,80,80,5,0,0,0,10
-Michael Fanning,,,,,,,,1,81,81,82,79,4,0,0,0,10
-Stephanie M Sawyer,,,,,,,,,0,81,79,78,5,0,0,0,10
-Chris Mallios,,,,,,,,,,0,79,78,4,0,0,0,10
-Scott Diclaudio,,,,,,,,,,,0,77,3,0,0,0,10
-Rainy Papademetriou,,,,,,,,,,,,0,1,0,0,0,10
-Vincent Furlong,,,,,,,,,,,,,0,0,0,0,10
-Bobbie T Curry,,,,,,,,,,,,,,0,0,0,10
-Cherelle Parker,,,,,,,,,,,,,,,0,0,10
-Kevin Strickland,,,,,,,,,,,,,,,,0,10
-Total,104,102,101,99,97,95,86,86,86,83,82,80,5,0,0,0,10
-,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,District Council 9th District,,,11
-,Ken Powell,Mia Roberts Perez,Tracy B Roman,Kai Scott,Lyris Younge,Abbe Fletman,Daine Grey Jr,Stephanie M Sawyer,Michael Fanning,Chris Mallios,Scott Diclaudio,Rainy Papademetriou,Vincent Furlong,Bobbie T Curry,Cherelle Parker,Kevin Strickland,11
-Ken Powell,9,78,80,76,77,70,65,63,63,63,62,61,4,0,0,0,11
-Mia Roberts Perez,,7,81,78,78,70,64,65,64,62,63,61,3,0,0,0,11
-Tracy B Roman,,,5,78,78,70,65,65,64,62,63,61,3,0,0,0,11
-Kai Scott,,,,3,77,70,63,63,62,61,61,60,3,0,0,0,11
-Lyris Younge,,,,,1,70,63,63,63,62,62,61,3,0,0,0,11
-Abbe Fletman,,,,,,1,58,58,58,57,57,57,2,0,0,0,11
-Daine Grey Jr,,,,,,,0,64,64,63,62,61,3,0,0,0,11
-Stephanie M Sawyer,,,,,,,,1,64,62,63,61,3,0,0,0,11
-Michael Fanning,,,,,,,,,0,62,63,61,3,0,0,0,11
-Chris Mallios,,,,,,,,,,0,62,60,2,0,0,0,11
-Scott Diclaudio,,,,,,,,,,,0,60,2,0,0,0,11
-Rainy Papademetriou,,,,,,,,,,,,0,2,0,0,0,11
-Vincent Furlong,,,,,,,,,,,,,0,0,0,0,11
-Bobbie T Curry,,,,,,,,,,,,,,0,0,0,11
-Cherelle Parker,,,,,,,,,,,,,,,0,0,11
-Kevin Strickland,,,,,,,,,,,,,,,,0,11
-Total,91,88,88,81,79,71,67,66,65,63,63,61,4,0,0,0,11
-,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,District Council 9th District,,,12
-,Ken Powell,Kai Scott,Lyris Younge,Mia Roberts Perez,Tracy B Roman,Abbe Fletman,Stephanie M Sawyer,Daine Grey Jr,Michael Fanning,Rainy Papademetriou,Chris Mallios,Scott Diclaudio,Vincent Furlong,Bobbie T Curry,Cherelle Parker,Kevin Strickland,12
-Ken Powell,10,134,133,130,131,127,106,104,102,102,99,100,6,0,0,0,12
-Kai Scott,,4,135,131,132,126,105,104,103,102,101,101,6,0,0,0,12
-Lyris Younge,,,2,131,132,126,106,106,104,103,101,101,7,0,0,0,12
-Mia Roberts Perez,,,,4,130,124,104,103,101,101,99,100,7,0,0,0,12
-Tracy B Roman,,,,,2,126,104,104,100,100,98,101,6,0,0,0,12
-Abbe Fletman,,,,,,0,98,99,98,99,97,100,5,0,0,0,12
-Stephanie M Sawyer,,,,,,,1,104,101,100,98,99,4,0,0,0,12
-Daine Grey Jr,,,,,,,,0,102,101,99,100,6,0,0,0,12
-Michael Fanning,,,,,,,,,0,99,99,98,6,0,0,0,12
-Rainy Papademetriou,,,,,,,,,,0,99,100,6,0,0,0,12
-Chris Mallios,,,,,,,,,,,0,98,5,0,0,0,12
-Scott Diclaudio,,,,,,,,,,,,0,6,0,0,0,12
-Vincent Furlong,,,,,,,,,,,,,4,0,0,0,12
-Bobbie T Curry,,,,,,,,,,,,,,0,0,0,12
-Cherelle Parker,,,,,,,,,,,,,,,0,0,12
-Kevin Strickland,,,,,,,,,,,,,,,,0,12
-Total,151,142,141,140,138,128,111,107,104,103,101,101,12,0,0,0,12
-,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,District Council 9th District,,,13
-,Ken Powell,Kai Scott,Mia Roberts Perez,Tracy B Roman,Abbe Fletman,Lyris Younge,Daine Grey Jr,Michael Fanning,Stephanie M Sawyer,Chris Mallios,Rainy Papademetriou,Scott Diclaudio,Vincent Furlong,Bobbie T Curry,Cherelle Parker,Kevin Strickland,13
-Ken Powell,9,42,40,40,40,40,36,35,36,34,34,33,1,0,0,0,13
-Kai Scott,,0,41,41,41,41,34,36,35,35,34,34,1,0,0,0,13
-Mia Roberts Perez,,,3,39,40,41,34,35,34,35,34,34,1,0,0,0,13
-Tracy B Roman,,,,3,40,39,34,35,35,34,34,33,1,0,0,0,13
-Abbe Fletman,,,,,1,40,35,37,36,36,35,35,1,0,0,0,13
-Lyris Younge,,,,,,1,34,35,34,35,34,34,1,0,0,0,13
-Daine Grey Jr,,,,,,,0,36,37,36,36,35,1,0,0,0,13
-Michael Fanning,,,,,,,,0,37,37,36,36,1,0,0,0,13
-Stephanie M Sawyer,,,,,,,,,0,36,36,35,1,0,0,0,13
-Chris Mallios,,,,,,,,,,0,36,36,1,0,0,0,13
-Rainy Papademetriou,,,,,,,,,,,0,35,1,0,0,0,13
-Scott Diclaudio,,,,,,,,,,,,0,0,0,0,0,13
-Vincent Furlong,,,,,,,,,,,,,3,0,0,0,13
-Bobbie T Curry,,,,,,,,,,,,,,0,0,0,13
-Cherelle Parker,,,,,,,,,,,,,,,0,0,13
-Kevin Strickland,,,,,,,,,,,,,,,,0,13
-Total,53,44,44,44,43,42,38,38,38,37,36,36,4,0,0,0,13
-,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,District Council 9th District,,,14
-,Kai Scott,Ken Powell,Mia Roberts Perez,Abbe Fletman,Lyris Younge,Tracy B Roman,Stephanie M Sawyer,Chris Mallios,Rainy Papademetriou,Scott Diclaudio,Daine Grey Jr,Michael Fanning,Vincent Furlong,Bobbie T Curry,Cherelle Parker,Kevin Strickland,14
-Kai Scott,8,74,74,75,70,72,62,61,59,60,58,58,3,0,0,0,14
-Ken Powell,,6,72,73,70,72,62,61,59,61,59,59,3,0,0,0,14
-Mia Roberts Perez,,,1,74,71,70,60,60,60,60,57,58,2,0,0,0,14
-Abbe Fletman,,,,0,71,71,60,60,60,60,58,59,3,0,0,0,14
-Lyris Younge,,,,,4,68,59,59,58,60,57,58,2,0,0,0,14
-Tracy B Roman,,,,,,2,61,60,58,61,59,59,3,0,0,0,14
-Stephanie M Sawyer,,,,,,,0,61,59,60,58,58,3,0,0,0,14
-Chris Mallios,,,,,,,,0,59,60,57,58,3,0,0,0,14
-Rainy Papademetriou,,,,,,,,,0,58,57,58,3,0,0,0,14
-Scott Diclaudio,,,,,,,,,,0,58,59,3,0,0,0,14
-Daine Grey Jr,,,,,,,,,,,0,58,2,0,0,0,14
-Michael Fanning,,,,,,,,,,,,0,3,0,0,0,14
-Vincent Furlong,,,,,,,,,,,,,2,0,0,0,14
-Bobbie T Curry,,,,,,,,,,,,,,0,0,0,14
-Cherelle Parker,,,,,,,,,,,,,,,0,0,14
-Kevin Strickland,,,,,,,,,,,,,,,,0,14
-Total,86,82,78,77,77,75,62,61,61,61,59,59,5,0,0,0,14
-,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,District Council 9th District,,,15
-,Tracy B Roman,Ken Powell,Mia Roberts Perez,Lyris Younge,Kai Scott,Abbe Fletman,Stephanie M Sawyer,Michael Fanning,Daine Grey Jr,Rainy Papademetriou,Chris Mallios,Scott Diclaudio,Vincent Furlong,Bobbie T Curry,Cherelle Parker,Kevin Strickland,15
-Tracy B Roman,8,98,95,95,96,92,80,77,76,77,76,76,4,0,0,0,15
-Ken Powell,,2,95,97,97,95,82,79,77,79,78,78,4,0,0,0,15
-Mia Roberts Perez,,,4,95,96,93,81,79,78,76,75,75,4,0,0,0,15
-Lyris Younge,,,,1,96,95,84,79,78,77,78,76,4,0,0,0,15
-Kai Scott,,,,,1,93,82,77,76,77,76,75,4,0,0,0,15
-Abbe Fletman,,,,,,1,79,77,76,75,77,75,4,0,0,0,15
-Stephanie M Sawyer,,,,,,,1,81,79,79,78,77,4,0,0,0,15
-Michael Fanning,,,,,,,,1,79,79,78,77,4,0,0,0,15
-Daine Grey Jr,,,,,,,,,0,77,77,75,4,0,0,0,15
-Rainy Papademetriou,,,,,,,,,,0,77,76,3,0,0,0,15
-Chris Mallios,,,,,,,,,,,0,76,4,0,0,0,15
-Scott Diclaudio,,,,,,,,,,,,0,1,0,0,0,15
-Vincent Furlong,,,,,,,,,,,,,2,0,0,0,15
-Bobbie T Curry,,,,,,,,,,,,,,0,0,0,15
-Cherelle Parker,,,,,,,,,,,,,,,0,0,15
-Kevin Strickland,,,,,,,,,,,,,,,,0,15
-Total,107,104,103,102,100,97,87,83,80,80,79,79,6,0,0,0,15
 ,District Council 9th District,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,16
 ,Cherelle Parker,Kevin Strickland,Bobbie T Curry,Ken Powell,Kai Scott,Mia Roberts Perez,Tracy B Roman,Abbe Fletman,Lyris Younge,Stephanie M Sawyer,Rainy Papademetriou,Daine Grey Jr,Michael Fanning,Chris Mallios,Scott Diclaudio,Vincent Furlong,16
 Cherelle Parker,6,0,0,128,126,124,124,116,117,101,99,98,99,97,96,4,16
@@ -341,25 +170,6 @@ Chris Mallios,,,,,,,,,,,,,,0,129,19,18
 Michael Fanning,,,,,,,,,,,,,,,0,16,18
 Vincent Furlong,,,,,,,,,,,,,,,,0,18
 Total,178,12,6,168,164,161,159,155,149,148,147,141,137,136,134,25,18
-,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,District Council 9th District,,,19
-,Ken Powell,Mia Roberts Perez,Kai Scott,Tracy B Roman,Lyris Younge,Abbe Fletman,Daine Grey Jr,Rainy Papademetriou,Stephanie M Sawyer,Chris Mallios,Michael Fanning,Scott Diclaudio,Vincent Furlong,Bobbie T Curry,Cherelle Parker,Kevin Strickland,19
-Ken Powell,4,105,102,103,104,102,89,88,88,89,88,87,1,0,0,0,19
-Mia Roberts Perez,,3,104,103,104,102,88,88,87,88,88,87,1,0,0,0,19
-Kai Scott,,,4,102,103,101,86,86,85,86,85,86,0,0,0,0,19
-Tracy B Roman,,,,4,103,100,87,86,86,86,87,85,1,0,0,0,19
-Lyris Younge,,,,,1,102,89,86,87,88,87,86,0,0,0,0,19
-Abbe Fletman,,,,,,0,88,87,86,88,86,87,0,0,0,0,19
-Daine Grey Jr,,,,,,,0,87,87,89,88,87,0,0,0,0,19
-Rainy Papademetriou,,,,,,,,1,87,87,87,86,1,0,0,0,19
-Stephanie M Sawyer,,,,,,,,,1,87,87,85,1,0,0,0,19
-Chris Mallios,,,,,,,,,,0,87,87,0,0,0,0,19
-Michael Fanning,,,,,,,,,,,0,85,1,0,0,0,19
-Scott Diclaudio,,,,,,,,,,,,0,0,0,0,0,19
-Vincent Furlong,,,,,,,,,,,,,4,0,0,0,19
-Bobbie T Curry,,,,,,,,,,,,,,0,0,0,19
-Cherelle Parker,,,,,,,,,,,,,,,0,0,19
-Kevin Strickland,,,,,,,,,,,,,,,,0,19
-Total,112,112,110,110,109,103,90,90,90,89,89,88,5,0,0,0,19
 ,District Council 9th District,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,20
 ,Cherelle Parker,Kevin Strickland,Bobbie T Curry,Ken Powell,Mia Roberts Perez,Kai Scott,Tracy B Roman,Abbe Fletman,Lyris Younge,Stephanie M Sawyer,Daine Grey Jr,Chris Mallios,Michael Fanning,Scott Diclaudio,Rainy Papademetriou,Vincent Furlong,20
 Cherelle Parker,7,0,0,166,167,158,156,152,139,128,126,124,123,123,120,9,20
@@ -417,22 +227,3 @@ Chris Mallios,,,,,,,,,,,,,,0,111,5,22
 Scott Diclaudio,,,,,,,,,,,,,,,0,1,22
 Vincent Furlong,,,,,,,,,,,,,,,,0,22
 Total,188,8,0,162,161,160,159,151,146,128,125,118,117,116,111,11,22
-,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,District Council 9th District,,,All
-,Ken Powell,Mia Roberts Perez,Kai Scott,Tracy B Roman,Lyris Younge,Abbe Fletman,Stephanie M Sawyer,Daine Grey Jr,Michael Fanning,Rainy Papademetriou,Chris Mallios,Scott Diclaudio,Vincent Furlong,Cherelle Parker,Kevin Strickland,Bobbie T Curry,All
-Ken Powell,84,"2,649","2,636","2,638","2,579","2,568","2,267","2,252","2,216","2,177","2,195","2,165",117,"1,630",24,10,All
-Mia Roberts Perez,,57,"2,679","2,675","2,620","2,600","2,296","2,268","2,219","2,201","2,206","2,170",125,"1,629",30,14,All
-Kai Scott,,,45,"2,649","2,614","2,596","2,275","2,252","2,205","2,187","2,189","2,156",116,"1,604",32,11,All
-Tracy B Roman,,,,52,"2,593","2,578","2,265","2,244","2,201","2,176","2,183","2,163",119,"1,616",22,13,All
-Lyris Younge,,,,,27,"2,554","2,242","2,236","2,197","2,174","2,179","2,141",116,"1,523",26,10,All
-Abbe Fletman,,,,,,11,"2,199","2,197","2,184","2,165","2,176","2,146",108,"1,502",22,10,All
-Stephanie M Sawyer,,,,,,,7,"2,283","2,217","2,197","2,202","2,163",118,"1,366",30,12,All
-Daine Grey Jr,,,,,,,,4,"2,231","2,197","2,202","2,165",122,"1,345",27,11,All
-Michael Fanning,,,,,,,,,2,"2,181","2,194","2,159",113,"1,294",22,11,All
-Rainy Papademetriou,,,,,,,,,,2,"2,176","2,139",94,"1,279",23,13,All
-Chris Mallios,,,,,,,,,,,0,"2,158",110,"1,271",24,12,All
-Scott Diclaudio,,,,,,,,,,,,1,84,"1,250",22,11,All
-Vincent Furlong,,,,,,,,,,,,,32,74,47,5,All
-Cherelle Parker,,,,,,,,,,,,,,87,0,0,All
-Kevin Strickland,,,,,,,,,,,,,,,12,0,All
-Bobbie T Curry,,,,,,,,,,,,,,,,3,All
-Total,"2,935","2,910","2,869","2,865","2,740","2,669","2,402","2,363","2,274","2,241","2,240","2,212",206,"1,995",92,17,All

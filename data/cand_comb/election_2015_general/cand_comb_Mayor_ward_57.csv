@@ -1,4 +1,12 @@
 col_1,col_2,col_3,col_4,col_5,col_6,division
+,Mayor,,,,,All
+,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,All
+Jim Kenney,"3,000",0,0,0,0,All
+Melissa Murray Bailey,,"1,388",0,0,0,All
+James Foster,,,24,0,0,All
+Boris Kindij,,,,6,0,All
+Osborne Hart,,,,,4,All
+Total,"3,000","1,388",24,6,4,All
 ,Mayor,,,,,1
 ,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,1
 Jim Kenney,89,0,0,0,0,1
@@ -223,11 +231,3 @@ Osborne Hart,,,1,0,0,28
 Boris Kindij,,,,0,0,28
 James Foster,,,,,0,28
 Total,107,47,1,0,0,28
-,Mayor,,,,,All
-,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,All
-Jim Kenney,"3,000",0,0,0,0,All
-Melissa Murray Bailey,,"1,388",0,0,0,All
-James Foster,,,24,0,0,All
-Boris Kindij,,,,6,0,All
-Osborne Hart,,,,,4,All
-Total,"3,000","1,388",24,6,4,All

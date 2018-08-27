@@ -1,4 +1,15 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,division
+,District Council 5th District,Justice Of The Supreme Court,,,,,,,All
+,Darrell L Clarke,Kevin M Dougherty,David Wecht,Christine Donohue,Judy Olson,Anne Covey,Mike George,Paul P Panepinto,All
+Darrell L Clarke,33,"1,186","1,075","1,070",8,7,4,8,All
+Kevin M Dougherty,,46,"1,073","1,068",4,2,4,5,All
+David Wecht,,,22,"1,064",4,4,0,2,All
+Christine Donohue,,,,12,6,4,0,2,All
+Judy Olson,,,,,5,11,8,0,All
+Anne Covey,,,,,,0,8,2,All
+Mike George,,,,,,,0,0,All
+Paul P Panepinto,,,,,,,,0,All
+Total,"1,315","1,291","1,154","1,140",24,17,12,8,All
 ,District Council 5th District,Justice Of The Supreme Court,,,,,,,1
 ,Darrell L Clarke,Kevin M Dougherty,Christine Donohue,David Wecht,Anne Covey,Mike George,Judy Olson,Paul P Panepinto,1
 Darrell L Clarke,0,50,47,45,0,0,0,0,1
@@ -87,17 +98,6 @@ Anne Covey,,,,,,0,0,0,8
 Mike George,,,,,,,0,0,8
 Paul P Panepinto,,,,,,,,0,8
 Total,178,173,145,138,3,2,0,0,8
-,Justice Of The Supreme Court,,,,,,,District Council 5th District,9
-,Kevin M Dougherty,David Wecht,Christine Donohue,Mike George,Judy Olson,Paul P Panepinto,Anne Covey,Darrell L Clarke,9
-Kevin M Dougherty,27,107,100,1,0,0,0,0,9
-David Wecht,,7,102,1,1,1,0,0,9
-Christine Donohue,,,10,0,0,0,0,0,9
-Mike George,,,,0,0,0,0,0,9
-Judy Olson,,,,,0,1,0,0,9
-Paul P Panepinto,,,,,,0,0,0,9
-Anne Covey,,,,,,,0,0,9
-Darrell L Clarke,,,,,,,,0,9
-Total,135,118,112,2,1,1,0,0,9
 ,Justice Of The Supreme Court,,,,,,,District Council 5th District,10
 ,David Wecht,Kevin M Dougherty,Christine Donohue,Judy Olson,Anne Covey,Mike George,Paul P Panepinto,Darrell L Clarke,10
 David Wecht,2,95,93,1,0,0,0,92,10
@@ -164,47 +164,3 @@ Paul P Panepinto,,,,,,0,0,0,15
 Judy Olson,,,,,,,0,0,15
 Mike George,,,,,,,,0,15
 Total,80,77,74,67,1,1,0,0,15
-,Justice Of The Supreme Court,,,,,,,District Council 5th District,16
-,Kevin M Dougherty,Christine Donohue,David Wecht,Anne Covey,Judy Olson,Mike George,Paul P Panepinto,Darrell L Clarke,16
-Kevin M Dougherty,22,67,66,1,0,0,0,0,16
-Christine Donohue,,3,64,1,0,0,0,0,16
-David Wecht,,,2,0,1,1,0,0,16
-Anne Covey,,,,1,2,2,0,0,16
-Judy Olson,,,,,0,3,0,0,16
-Mike George,,,,,,0,0,0,16
-Paul P Panepinto,,,,,,,0,0,16
-Darrell L Clarke,,,,,,,,0,16
-Total,92,71,70,4,3,3,0,0,16
-,Justice Of The Supreme Court,,,,,,,District Council 5th District,17
-,Kevin M Dougherty,David Wecht,Christine Donohue,Judy Olson,Anne Covey,Mike George,Paul P Panepinto,Darrell L Clarke,17
-Kevin M Dougherty,15,57,56,1,0,0,0,0,17
-David Wecht,,5,59,0,0,0,0,0,17
-Christine Donohue,,,2,1,0,0,0,0,17
-Judy Olson,,,,0,0,0,0,0,17
-Anne Covey,,,,,0,0,0,0,17
-Mike George,,,,,,0,0,0,17
-Paul P Panepinto,,,,,,,0,0,17
-Darrell L Clarke,,,,,,,,0,17
-Total,73,66,62,1,0,0,0,0,17
-,Justice Of The Supreme Court,,,,,,,District Council 5th District,18
-,Kevin M Dougherty,Christine Donohue,David Wecht,Judy Olson,Mike George,Anne Covey,Paul P Panepinto,Darrell L Clarke,18
-Kevin M Dougherty,13,71,68,0,1,0,0,0,18
-Christine Donohue,,4,68,0,0,0,0,0,18
-David Wecht,,,2,0,1,0,0,0,18
-Judy Olson,,,,1,0,0,0,0,18
-Mike George,,,,,0,0,0,0,18
-Anne Covey,,,,,,0,0,0,18
-Paul P Panepinto,,,,,,,0,0,18
-Darrell L Clarke,,,,,,,,0,18
-Total,86,77,72,1,1,0,0,0,18
-,Justice Of The Supreme Court,,,,,,,District Council 5th District,All
-,Kevin M Dougherty,David Wecht,Christine Donohue,Judy Olson,Anne Covey,Mike George,Paul P Panepinto,Darrell L Clarke,All
-Kevin M Dougherty,123,"1,371","1,362",5,3,6,5,"1,186",All
-David Wecht,,38,"1,357",6,4,3,3,"1,075",All
-Christine Donohue,,,31,7,5,0,2,"1,070",All
-Judy Olson,,,,6,13,11,1,8,All
-Anne Covey,,,,,1,10,2,7,All
-Mike George,,,,,,0,0,4,All
-Paul P Panepinto,,,,,,,0,8,All
-Darrell L Clarke,,,,,,,,33,All
-Total,"1,677","1,480","1,462",30,21,18,9,"1,315",All

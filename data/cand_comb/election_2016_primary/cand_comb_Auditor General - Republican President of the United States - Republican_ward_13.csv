@@ -1,0 +1,161 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,division
+,Auditor General - Republican,President Of The United States - Republican,,,,,,All
+,John Brown,Donald J Trump,Ted Cruz,John R Kasich,Ben Carson,Jeb Bush,Marco Rubio,All
+John Brown,1,15,10,7,2,1,2,All
+Donald J Trump,,5,0,0,0,0,0,All
+Ted Cruz,,,6,0,0,0,0,All
+John R Kasich,,,,3,0,0,0,All
+Ben Carson,,,,,2,0,0,All
+Jeb Bush,,,,,,2,0,All
+Marco Rubio,,,,,,,0,All
+Total,38,20,16,10,4,3,2,All
+,President Of The United States - Republican,,,,,,Auditor General - Republican,1
+,Donald J Trump,John R Kasich,Marco Rubio,Ben Carson,Jeb Bush,Ted Cruz,John Brown,1
+Donald J Trump,1,0,0,0,0,0,0,1
+John R Kasich,,1,0,0,0,0,0,1
+Marco Rubio,,,0,0,0,0,1,1
+Ben Carson,,,,0,0,0,0,1
+Jeb Bush,,,,,0,0,0,1
+Ted Cruz,,,,,,0,0,1
+John Brown,,,,,,,0,1
+Total,1,1,1,0,0,0,1,1
+,President Of The United States - Republican,,,,,,Auditor General - Republican,3
+,Ted Cruz,Donald J Trump,Ben Carson,Jeb Bush,John R Kasich,Marco Rubio,John Brown,3
+Ted Cruz,2,0,0,0,0,0,2,3
+Donald J Trump,,0,0,0,0,0,1,3
+Ben Carson,,,0,0,0,0,0,3
+Jeb Bush,,,,0,0,0,0,3
+John R Kasich,,,,,0,0,0,3
+Marco Rubio,,,,,,0,0,3
+John Brown,,,,,,,0,3
+Total,4,1,0,0,0,0,3,3
+,Auditor General - Republican,President Of The United States - Republican,,,,,,4
+,John Brown,Donald J Trump,Ted Cruz,Ben Carson,Jeb Bush,John R Kasich,Marco Rubio,4
+John Brown,0,3,2,0,0,0,0,4
+Donald J Trump,,1,0,0,0,0,0,4
+Ted Cruz,,,0,0,0,0,0,4
+Ben Carson,,,,0,0,0,0,4
+Jeb Bush,,,,,0,0,0,4
+John R Kasich,,,,,,0,0,4
+Marco Rubio,,,,,,,0,4
+Total,5,4,2,0,0,0,0,4
+,Auditor General - Republican,President Of The United States - Republican,,,,,,5
+,John Brown,John R Kasich,Donald J Trump,Ted Cruz,Ben Carson,Jeb Bush,Marco Rubio,5
+John Brown,1,4,4,1,0,0,0,5
+John R Kasich,,1,0,0,0,0,0,5
+Donald J Trump,,,0,0,0,0,0,5
+Ted Cruz,,,,0,0,0,0,5
+Ben Carson,,,,,0,0,0,5
+Jeb Bush,,,,,,0,0,5
+Marco Rubio,,,,,,,0,5
+Total,10,5,4,1,0,0,0,5
+,President Of The United States - Republican,,,,,,Auditor General - Republican,9
+,Jeb Bush,John R Kasich,Ben Carson,Donald J Trump,Marco Rubio,Ted Cruz,John Brown,9
+Jeb Bush,1,0,0,0,0,0,0,9
+John R Kasich,,0,0,0,0,0,1,9
+Ben Carson,,,0,0,0,0,0,9
+Donald J Trump,,,,0,0,0,0,9
+Marco Rubio,,,,,0,0,0,9
+Ted Cruz,,,,,,0,0,9
+John Brown,,,,,,,0,9
+Total,1,1,0,0,0,0,1,9
+,Auditor General - Republican,President Of The United States - Republican,,,,,,12
+,John Brown,Ben Carson,Donald J Trump,Jeb Bush,John R Kasich,Marco Rubio,Ted Cruz,12
+John Brown,0,0,1,1,1,0,0,12
+Ben Carson,,2,0,0,0,0,0,12
+Donald J Trump,,,0,0,0,0,0,12
+Jeb Bush,,,,0,0,0,0,12
+John R Kasich,,,,,0,0,0,12
+Marco Rubio,,,,,,0,0,12
+Ted Cruz,,,,,,,0,12
+Total,3,2,1,1,1,0,0,12
+,Auditor General - Republican,President Of The United States - Republican,,,,,,13
+,John Brown,Ted Cruz,Ben Carson,Donald J Trump,Jeb Bush,John R Kasich,Marco Rubio,13
+John Brown,0,2,0,0,0,0,0,13
+Ted Cruz,,0,0,0,0,0,0,13
+Ben Carson,,,0,0,0,0,0,13
+Donald J Trump,,,,0,0,0,0,13
+Jeb Bush,,,,,0,0,0,13
+John R Kasich,,,,,,0,0,13
+Marco Rubio,,,,,,,0,13
+Total,2,2,0,0,0,0,0,13
+,President Of The United States - Republican,,,,,,Auditor General - Republican,14
+,Donald J Trump,Ted Cruz,Ben Carson,Jeb Bush,John R Kasich,Marco Rubio,John Brown,14
+Donald J Trump,0,0,0,0,0,0,1,14
+Ted Cruz,,1,0,0,0,0,0,14
+Ben Carson,,,0,0,0,0,0,14
+Jeb Bush,,,,0,0,0,0,14
+John R Kasich,,,,,0,0,0,14
+Marco Rubio,,,,,,0,0,14
+John Brown,,,,,,,0,14
+Total,1,1,0,0,0,0,1,14
+,Auditor General - Republican,President Of The United States - Republican,,,,,,15
+,John Brown,John R Kasich,Ben Carson,Donald J Trump,Jeb Bush,Marco Rubio,Ted Cruz,15
+John Brown,0,1,0,0,0,0,0,15
+John R Kasich,,0,0,0,0,0,0,15
+Ben Carson,,,0,0,0,0,0,15
+Donald J Trump,,,,0,0,0,0,15
+Jeb Bush,,,,,0,0,0,15
+Marco Rubio,,,,,,0,0,15
+Ted Cruz,,,,,,,0,15
+Total,1,1,0,0,0,0,0,15
+,Auditor General - Republican,President Of The United States - Republican,,,,,,16
+,John Brown,Marco Rubio,Ben Carson,Donald J Trump,Jeb Bush,John R Kasich,Ted Cruz,16
+John Brown,0,1,0,0,0,0,0,16
+Marco Rubio,,0,0,0,0,0,0,16
+Ben Carson,,,0,0,0,0,0,16
+Donald J Trump,,,,0,0,0,0,16
+Jeb Bush,,,,,0,0,0,16
+John R Kasich,,,,,,0,0,16
+Ted Cruz,,,,,,,0,16
+Total,1,1,0,0,0,0,0,16
+,Auditor General - Republican,President Of The United States - Republican,,,,,,17
+,John Brown,Ben Carson,Donald J Trump,Jeb Bush,John R Kasich,Marco Rubio,Ted Cruz,17
+John Brown,0,1,1,0,0,0,0,17
+Ben Carson,,0,0,0,0,0,0,17
+Donald J Trump,,,0,0,0,0,0,17
+Jeb Bush,,,,0,0,0,0,17
+John R Kasich,,,,,0,0,0,17
+Marco Rubio,,,,,,0,0,17
+Ted Cruz,,,,,,,0,17
+Total,2,1,1,0,0,0,0,17
+,President Of The United States - Republican,,,,,,Auditor General - Republican,19
+,Ted Cruz,Donald J Trump,Jeb Bush,Ben Carson,John R Kasich,Marco Rubio,John Brown,19
+Ted Cruz,2,0,0,0,0,0,2,19
+Donald J Trump,,1,0,0,0,0,1,19
+Jeb Bush,,,1,0,0,0,0,19
+Ben Carson,,,,0,0,0,0,19
+John R Kasich,,,,,0,0,0,19
+Marco Rubio,,,,,,0,0,19
+John Brown,,,,,,,0,19
+Total,4,2,1,0,0,0,3,19
+,President Of The United States - Republican,,,,,,Auditor General - Republican,20
+,Donald J Trump,Ben Carson,Jeb Bush,John R Kasich,Marco Rubio,Ted Cruz,John Brown,20
+Donald J Trump,0,0,0,0,0,0,1,20
+Ben Carson,,0,0,0,0,0,0,20
+Jeb Bush,,,0,0,0,0,0,20
+John R Kasich,,,,0,0,0,0,20
+Marco Rubio,,,,,0,0,0,20
+Ted Cruz,,,,,,0,0,20
+John Brown,,,,,,,0,20
+Total,1,0,0,0,0,0,1,20
+,President Of The United States - Republican,,,,,,Auditor General - Republican,21
+,Donald J Trump,Ted Cruz,Ben Carson,Jeb Bush,John R Kasich,Marco Rubio,John Brown,21
+Donald J Trump,1,0,0,0,0,0,2,21
+Ted Cruz,,0,0,0,0,0,1,21
+Ben Carson,,,0,0,0,0,0,21
+Jeb Bush,,,,0,0,0,0,21
+John R Kasich,,,,,0,0,0,21
+Marco Rubio,,,,,,0,0,21
+John Brown,,,,,,,0,21
+Total,3,1,0,0,0,0,3,21
+,President Of The United States - Republican,,,,,,Auditor General - Republican,24
+,Ben Carson,Donald J Trump,John R Kasich,Ted Cruz,Jeb Bush,Marco Rubio,John Brown,24
+Ben Carson,0,0,0,0,0,0,1,24
+Donald J Trump,,1,0,0,0,0,0,24
+John R Kasich,,,1,0,0,0,0,24
+Ted Cruz,,,,1,0,0,0,24
+Jeb Bush,,,,,0,0,0,24
+Marco Rubio,,,,,,0,0,24
+John Brown,,,,,,,0,24
+Total,1,1,1,1,0,0,1,24

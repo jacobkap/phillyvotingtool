@@ -1,40 +1,10 @@
 col_1,col_2,col_3,col_4,division
-,Judge Of The Superior Court,,District Council 6th District,1
-,Alice Beck Dubow,Emil Giordano,Bobby Henon,1
-Alice Beck Dubow,39,0,0,1
-Emil Giordano,,2,0,1
-Bobby Henon,,,0,1
-Total,39,2,0,1
-,Judge Of The Superior Court,,District Council 6th District,2
-,Alice Beck Dubow,Emil Giordano,Bobby Henon,2
-Alice Beck Dubow,71,0,0,2
-Emil Giordano,,5,0,2
-Bobby Henon,,,0,2
-Total,71,5,0,2
-,Judge Of The Superior Court,,District Council 6th District,3
-,Alice Beck Dubow,Emil Giordano,Bobby Henon,3
-Alice Beck Dubow,56,0,0,3
-Emil Giordano,,2,0,3
-Bobby Henon,,,0,3
-Total,56,2,0,3
-,Judge Of The Superior Court,,District Council 6th District,4
-,Alice Beck Dubow,Emil Giordano,Bobby Henon,4
-Alice Beck Dubow,59,0,0,4
-Emil Giordano,,5,0,4
-Bobby Henon,,,0,4
-Total,59,5,0,4
-,Judge Of The Superior Court,,District Council 6th District,5
-,Alice Beck Dubow,Emil Giordano,Bobby Henon,5
-Alice Beck Dubow,48,0,0,5
-Emil Giordano,,6,0,5
-Bobby Henon,,,0,5
-Total,48,6,0,5
-,Judge Of The Superior Court,,District Council 6th District,6
-,Alice Beck Dubow,Emil Giordano,Bobby Henon,6
-Alice Beck Dubow,61,0,0,6
-Emil Giordano,,7,0,6
-Bobby Henon,,,0,6
-Total,61,7,0,6
+,District Council 6th District,Judge Of The Superior Court,,All
+,Bobby Henon,Alice Beck Dubow,Emil Giordano,All
+Bobby Henon,93,702,45,All
+Alice Beck Dubow,,69,0,All
+Emil Giordano,,,81,All
+Total,840,771,126,All
 ,District Council 6th District,Judge Of The Superior Court,,7
 ,Bobby Henon,Alice Beck Dubow,Emil Giordano,7
 Bobby Henon,6,37,3,7
@@ -131,9 +101,3 @@ Bobby Henon,5,49,3,22
 Alice Beck Dubow,,5,0,22
 Emil Giordano,,,2,22
 Total,57,54,5,22
-,Judge Of The Superior Court,,District Council 6th District,All
-,Alice Beck Dubow,Emil Giordano,Bobby Henon,All
-Alice Beck Dubow,403,0,702,All
-Emil Giordano,,108,45,All
-Bobby Henon,,,93,All
-Total,"1,105",153,840,All

@@ -1,4 +1,22 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10,col_11,col_12,col_13,col_14,col_15,col_16,division
+,District Council 2nd District,Council At Large,,,,,,,,,,,,,,All
+,Kenyatta Johnson,Blondell Reynolds Brown,Derek S Green,Allan Domb,William K Greenlee,Helen Gym,Al Taubenberger,David Oh,Dennis M O Brien,Daniel Tinney,Terry Tracy,Sheila E Armstrong,Andrew C Stober,Kristin Combs,John Staggs,All
+Kenyatta Johnson,167,"3,832","3,662","3,496","3,527","3,193",404,246,114,100,95,44,33,23,12,All
+Blondell Reynolds Brown,,48,"3,471","3,398","3,492","3,144",345,159,55,40,53,32,17,14,7,All
+Derek S Green,,,34,"3,372","3,411","3,104",332,120,57,40,62,16,12,11,5,All
+Allan Domb,,,,34,"3,372","3,079",328,126,54,45,34,23,21,10,3,All
+William K Greenlee,,,,,16,"3,096",334,118,58,37,40,23,16,10,5,All
+Helen Gym,,,,,,25,89,112,42,29,51,27,25,15,9,All
+Al Taubenberger,,,,,,,38,147,129,131,124,5,7,4,1,All
+David Oh,,,,,,,,17,161,135,151,16,12,9,5,All
+Dennis M O Brien,,,,,,,,,9,135,131,8,5,6,3,All
+Daniel Tinney,,,,,,,,,,23,129,4,2,1,0,All
+Terry Tracy,,,,,,,,,,,9,4,4,4,0,All
+Sheila E Armstrong,,,,,,,,,,,,6,19,19,14,All
+Andrew C Stober,,,,,,,,,,,,,4,15,11,All
+Kristin Combs,,,,,,,,,,,,,,1,9,All
+John Staggs,,,,,,,,,,,,,,,0,All
+Total,"4,629","4,051","3,871","3,707","3,700","3,395",587,397,241,233,222,73,48,36,20,All
 ,District Council 2nd District,Council At Large,,,,,,,,,,,,,,1
 ,Kenyatta Johnson,Allan Domb,Blondell Reynolds Brown,Derek S Green,Helen Gym,William K Greenlee,David Oh,Al Taubenberger,Daniel Tinney,Dennis M O Brien,Terry Tracy,Andrew C Stober,John Staggs,Kristin Combs,Sheila E Armstrong,1
 Kenyatta Johnson,4,47,47,44,42,44,4,1,2,2,1,1,0,0,0,1
@@ -53,24 +71,6 @@ Daniel Tinney,,,,,,,,,,,,,0,0,0,3
 Dennis M O Brien,,,,,,,,,,,,,,0,0,3
 John Staggs,,,,,,,,,,,,,,,0,3
 Total,155,151,147,139,137,134,11,6,4,2,2,1,1,1,0,3
-,Council At Large,,,,,,,,,,,,,,District Council 2nd District,4
-,Derek S Green,Blondell Reynolds Brown,Allan Domb,William K Greenlee,Helen Gym,David Oh,Al Taubenberger,Daniel Tinney,Dennis M O Brien,Kristin Combs,Sheila E Armstrong,Terry Tracy,Andrew C Stober,John Staggs,Kenyatta Johnson,4
-Derek S Green,8,101,104,103,101,0,0,0,0,0,0,0,0,0,0,4
-Blondell Reynolds Brown,,5,101,102,98,0,0,0,0,0,0,0,0,0,0,4
-Allan Domb,,,1,103,101,0,0,0,0,0,0,0,0,0,0,4
-William K Greenlee,,,,1,100,0,0,0,0,0,0,0,0,0,0,4
-Helen Gym,,,,,3,0,0,0,0,0,0,0,0,0,0,4
-David Oh,,,,,,1,1,1,1,0,0,1,0,0,0,4
-Al Taubenberger,,,,,,,0,1,1,0,0,1,0,0,0,4
-Daniel Tinney,,,,,,,,0,1,0,0,1,0,0,0,4
-Dennis M O Brien,,,,,,,,,0,0,0,1,0,0,0,4
-Kristin Combs,,,,,,,,,,0,1,0,0,0,0,4
-Sheila E Armstrong,,,,,,,,,,,0,0,0,0,0,4
-Terry Tracy,,,,,,,,,,,,0,0,0,0,4
-Andrew C Stober,,,,,,,,,,,,,0,0,0,4
-John Staggs,,,,,,,,,,,,,,0,0,4
-Kenyatta Johnson,,,,,,,,,,,,,,,0,4
-Total,112,107,105,105,104,2,1,1,1,1,1,1,0,0,0,4
 ,District Council 2nd District,Council At Large,,,,,,,,,,,,,,5
 ,Kenyatta Johnson,Blondell Reynolds Brown,Derek S Green,Allan Domb,Helen Gym,William K Greenlee,David Oh,Al Taubenberger,Sheila E Armstrong,Terry Tracy,Daniel Tinney,Dennis M O Brien,Kristin Combs,Andrew C Stober,John Staggs,5
 Kenyatta Johnson,4,140,134,130,126,125,4,2,4,0,0,1,1,0,0,5
@@ -233,24 +233,6 @@ John Staggs,,,,,,,,,,,,,0,0,0,13
 Kristin Combs,,,,,,,,,,,,,,0,0,13
 Sheila E Armstrong,,,,,,,,,,,,,,,0,13
 Total,86,75,74,74,70,68,2,1,1,1,1,1,0,0,0,13
-,Council At Large,,,,,,,,,,,,,,District Council 2nd District,14
-,Blondell Reynolds Brown,Derek S Green,Helen Gym,Allan Domb,William K Greenlee,David Oh,Dennis M O Brien,Al Taubenberger,Daniel Tinney,Andrew C Stober,John Staggs,Kristin Combs,Sheila E Armstrong,Terry Tracy,Kenyatta Johnson,14
-Blondell Reynolds Brown,8,71,72,71,70,3,1,0,0,0,0,0,0,0,0,14
-Derek S Green,,6,71,71,69,3,2,0,0,0,0,0,0,0,0,14
-Helen Gym,,,2,73,70,3,1,1,0,0,0,0,0,0,0,14
-Allan Domb,,,,2,71,3,1,0,0,0,0,0,0,0,0,14
-William K Greenlee,,,,,1,2,1,0,0,0,0,0,0,0,0,14
-David Oh,,,,,,0,3,0,1,0,0,0,0,0,0,14
-Dennis M O Brien,,,,,,,1,0,1,0,0,0,0,0,0,14
-Al Taubenberger,,,,,,,,0,0,0,0,0,0,0,0,14
-Daniel Tinney,,,,,,,,,0,0,0,0,0,0,0,14
-Andrew C Stober,,,,,,,,,,0,0,0,0,0,0,14
-John Staggs,,,,,,,,,,,0,0,0,0,0,14
-Kristin Combs,,,,,,,,,,,,0,0,0,0,14
-Sheila E Armstrong,,,,,,,,,,,,,0,0,0,14
-Terry Tracy,,,,,,,,,,,,,,0,0,14
-Kenyatta Johnson,,,,,,,,,,,,,,,0,14
-Total,81,79,77,76,72,5,4,1,1,0,0,0,0,0,0,14
 ,District Council 2nd District,Council At Large,,,,,,,,,,,,,,15
 ,Kenyatta Johnson,Blondell Reynolds Brown,Allan Domb,Derek S Green,William K Greenlee,Helen Gym,Daniel Tinney,David Oh,Al Taubenberger,Dennis M O Brien,Terry Tracy,Andrew C Stober,John Staggs,Kristin Combs,Sheila E Armstrong,15
 Kenyatta Johnson,1,41,36,38,33,31,1,2,0,0,0,0,0,0,0,15
@@ -485,24 +467,6 @@ John Staggs,,,,,,,,,,,,,0,0,0,27
 Kristin Combs,,,,,,,,,,,,,,0,0,27
 Terry Tracy,,,,,,,,,,,,,,,0,27
 Total,79,67,64,63,62,62,3,2,1,1,0,0,0,0,0,27
-,Council At Large,,,,,,,,,,,,,,District Council 2nd District,28
-,Blondell Reynolds Brown,Derek S Green,William K Greenlee,Allan Domb,Helen Gym,Al Taubenberger,David Oh,Daniel Tinney,Dennis M O Brien,Terry Tracy,Andrew C Stober,John Staggs,Kristin Combs,Sheila E Armstrong,Kenyatta Johnson,28
-Blondell Reynolds Brown,7,100,100,99,75,5,2,0,0,0,0,0,0,0,0,28
-Derek S Green,,4,98,99,76,7,4,1,1,1,0,0,0,0,0,28
-William K Greenlee,,,4,98,74,6,3,1,1,0,1,0,0,0,0,28
-Allan Domb,,,,3,75,7,4,1,2,0,1,0,0,0,0,28
-Helen Gym,,,,,3,2,1,1,0,0,0,0,0,0,0,28
-Al Taubenberger,,,,,,1,10,11,10,10,0,0,0,0,0,28
-David Oh,,,,,,,0,9,11,9,1,0,0,0,0,28
-Daniel Tinney,,,,,,,,0,9,10,0,0,0,0,0,28
-Dennis M O Brien,,,,,,,,,0,9,1,0,0,0,0,28
-Terry Tracy,,,,,,,,,,0,0,0,0,0,0,28
-Andrew C Stober,,,,,,,,,,,0,0,0,0,0,28
-John Staggs,,,,,,,,,,,,0,0,0,0,28
-Kristin Combs,,,,,,,,,,,,,0,0,0,28
-Sheila E Armstrong,,,,,,,,,,,,,,0,0,28
-Kenyatta Johnson,,,,,,,,,,,,,,,0,28
-Total,110,108,107,105,82,19,15,11,11,10,1,0,0,0,0,28
 ,District Council 2nd District,Council At Large,,,,,,,,,,,,,,29
 ,Kenyatta Johnson,Derek S Green,Blondell Reynolds Brown,William K Greenlee,Allan Domb,Helen Gym,Daniel Tinney,Al Taubenberger,David Oh,Dennis M O Brien,Sheila E Armstrong,Terry Tracy,Kristin Combs,Andrew C Stober,John Staggs,29
 Kenyatta Johnson,7,65,59,57,53,52,4,2,2,1,2,1,1,0,0,29
@@ -917,21 +881,3 @@ John Staggs,,,,,,,,,,,,,0,0,0,51
 Kristin Combs,,,,,,,,,,,,,,0,0,51
 Sheila E Armstrong,,,,,,,,,,,,,,,0,51
 Total,54,39,35,35,34,32,10,6,5,4,3,0,0,0,0,51
-,District Council 2nd District,Council At Large,,,,,,,,,,,,,,All
-,Kenyatta Johnson,Blondell Reynolds Brown,Derek S Green,Allan Domb,William K Greenlee,Helen Gym,Al Taubenberger,David Oh,Dennis M O Brien,Daniel Tinney,Terry Tracy,Sheila E Armstrong,Andrew C Stober,Kristin Combs,John Staggs,All
-Kenyatta Johnson,167,"3,832","3,662","3,496","3,527","3,193",404,246,114,100,95,44,33,23,12,All
-Blondell Reynolds Brown,,68,"3,743","3,669","3,764","3,389",350,164,56,40,53,32,17,14,7,All
-Derek S Green,,,52,"3,646","3,681","3,352",339,127,60,41,63,16,12,11,5,All
-Allan Domb,,,,40,"3,644","3,328",335,133,57,46,34,23,22,10,3,All
-William K Greenlee,,,,,22,"3,340",340,123,60,38,40,23,17,10,5,All
-Helen Gym,,,,,,33,92,116,43,30,51,27,25,15,9,All
-Al Taubenberger,,,,,,,39,158,140,143,135,5,7,4,1,All
-David Oh,,,,,,,,18,176,146,161,16,13,9,5,All
-Dennis M O Brien,,,,,,,,,10,146,141,8,6,6,3,All
-Daniel Tinney,,,,,,,,,,23,140,4,2,1,0,All
-Terry Tracy,,,,,,,,,,,9,4,4,4,0,All
-Sheila E Armstrong,,,,,,,,,,,,6,19,20,14,All
-Andrew C Stober,,,,,,,,,,,,,4,15,11,All
-Kristin Combs,,,,,,,,,,,,,,1,9,All
-John Staggs,,,,,,,,,,,,,,,0,All
-Total,"4,629","4,349","4,170","3,993","3,984","3,658",608,419,257,246,233,74,49,37,20,All

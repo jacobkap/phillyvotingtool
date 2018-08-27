@@ -1,13 +1,13 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,division
-,Mayor,,,,,District Council 7th District,1
-,Jim Kenney,Melissa Murray Bailey,Osborne Hart,Boris Kindij,James Foster,Maria Quinones Sanchez,1
-Jim Kenney,65,0,0,0,0,0,1
-Melissa Murray Bailey,,1,0,0,0,0,1
-Osborne Hart,,,1,0,0,0,1
-Boris Kindij,,,,0,0,0,1
-James Foster,,,,,0,0,1
-Maria Quinones Sanchez,,,,,,0,1
-Total,65,1,1,0,0,0,1
+,Mayor,,,,,District Council 7th District,All
+,Jim Kenney,Melissa Murray Bailey,James Foster,Osborne Hart,Boris Kindij,Maria Quinones Sanchez,All
+Jim Kenney,126,0,0,0,0,709,All
+Melissa Murray Bailey,,37,0,0,0,22,All
+James Foster,,,2,0,0,2,All
+Osborne Hart,,,,1,0,0,All
+Boris Kindij,,,,,0,0,All
+Maria Quinones Sanchez,,,,,,64,All
+Total,835,59,4,1,0,797,All
 ,District Council 7th District,Mayor,,,,,2
 ,Maria Quinones Sanchez,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,2
 Maria Quinones Sanchez,10,117,4,2,0,0,2
@@ -71,24 +71,6 @@ James Foster,,,,0,0,0,8
 Osborne Hart,,,,,0,0,8
 Maria Quinones Sanchez,,,,,,2,8
 Total,51,6,0,0,0,47,8
-,Mayor,,,,,District Council 7th District,9
-,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Maria Quinones Sanchez,9
-Jim Kenney,69,0,0,0,0,0,9
-Melissa Murray Bailey,,3,0,0,0,0,9
-James Foster,,,1,0,0,0,9
-Boris Kindij,,,,0,0,0,9
-Osborne Hart,,,,,0,0,9
-Maria Quinones Sanchez,,,,,,0,9
-Total,69,3,1,0,0,0,9
-,Mayor,,,,,District Council 7th District,10
-,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Maria Quinones Sanchez,10
-Jim Kenney,56,0,0,0,0,0,10
-Melissa Murray Bailey,,4,0,0,0,0,10
-James Foster,,,1,0,0,0,10
-Boris Kindij,,,,0,0,0,10
-Osborne Hart,,,,,0,0,10
-Maria Quinones Sanchez,,,,,,0,10
-Total,56,4,1,0,0,0,10
 ,Mayor,,,,,District Council 7th District,11
 ,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Maria Quinones Sanchez,11
 Jim Kenney,6,0,0,0,0,36,11
@@ -107,42 +89,6 @@ Boris Kindij,,,,0,0,0,12
 James Foster,,,,,0,0,12
 Osborne Hart,,,,,,0,12
 Total,61,59,2,0,0,0,12
-,Mayor,,,,,District Council 7th District,13
-,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Maria Quinones Sanchez,13
-Jim Kenney,63,0,0,0,0,0,13
-Melissa Murray Bailey,,1,0,0,0,0,13
-Boris Kindij,,,0,0,0,0,13
-James Foster,,,,0,0,0,13
-Osborne Hart,,,,,0,0,13
-Maria Quinones Sanchez,,,,,,0,13
-Total,63,1,0,0,0,0,13
-,Mayor,,,,,District Council 7th District,14
-,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Maria Quinones Sanchez,14
-Jim Kenney,76,0,0,0,0,0,14
-Melissa Murray Bailey,,3,0,0,0,0,14
-James Foster,,,2,0,0,0,14
-Boris Kindij,,,,0,0,0,14
-Osborne Hart,,,,,0,0,14
-Maria Quinones Sanchez,,,,,,0,14
-Total,76,3,2,0,0,0,14
-,Mayor,,,,,District Council 7th District,15
-,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Maria Quinones Sanchez,15
-Jim Kenney,87,0,0,0,0,0,15
-Melissa Murray Bailey,,1,0,0,0,0,15
-Boris Kindij,,,0,0,0,0,15
-James Foster,,,,0,0,0,15
-Osborne Hart,,,,,0,0,15
-Maria Quinones Sanchez,,,,,,0,15
-Total,87,1,0,0,0,0,15
-,Mayor,,,,,District Council 7th District,16
-,Jim Kenney,Melissa Murray Bailey,Osborne Hart,Boris Kindij,James Foster,Maria Quinones Sanchez,16
-Jim Kenney,81,0,0,0,0,0,16
-Melissa Murray Bailey,,2,0,0,0,0,16
-Osborne Hart,,,1,0,0,0,16
-Boris Kindij,,,,0,0,0,16
-James Foster,,,,,0,0,16
-Maria Quinones Sanchez,,,,,,0,16
-Total,81,2,1,0,0,0,16
 ,Mayor,,,,,District Council 7th District,17
 ,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Maria Quinones Sanchez,17
 Jim Kenney,10,0,0,0,0,29,17
@@ -179,57 +125,3 @@ James Foster,,,,0,0,0,20
 Osborne Hart,,,,,0,0,20
 Maria Quinones Sanchez,,,,,,5,20
 Total,45,8,0,0,0,43,20
-,Mayor,,,,,District Council 7th District,21
-,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Maria Quinones Sanchez,21
-Jim Kenney,68,0,0,0,0,0,21
-Melissa Murray Bailey,,2,0,0,0,0,21
-Boris Kindij,,,0,0,0,0,21
-James Foster,,,,0,0,0,21
-Osborne Hart,,,,,0,0,21
-Maria Quinones Sanchez,,,,,,0,21
-Total,68,2,0,0,0,0,21
-,Mayor,,,,,District Council 7th District,22
-,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Maria Quinones Sanchez,22
-Jim Kenney,65,0,0,0,0,0,22
-Melissa Murray Bailey,,2,0,0,0,0,22
-Boris Kindij,,,0,0,0,0,22
-James Foster,,,,0,0,0,22
-Osborne Hart,,,,,0,0,22
-Maria Quinones Sanchez,,,,,,0,22
-Total,65,2,0,0,0,0,22
-,Mayor,,,,,District Council 7th District,23
-,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Maria Quinones Sanchez,23
-Jim Kenney,63,0,0,0,0,0,23
-Melissa Murray Bailey,,5,0,0,0,0,23
-James Foster,,,1,0,0,0,23
-Boris Kindij,,,,0,0,0,23
-Osborne Hart,,,,,0,0,23
-Maria Quinones Sanchez,,,,,,0,23
-Total,63,5,1,0,0,0,23
-,Mayor,,,,,District Council 7th District,24
-,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Maria Quinones Sanchez,24
-Jim Kenney,99,0,0,0,0,0,24
-Melissa Murray Bailey,,4,0,0,0,0,24
-James Foster,,,1,0,0,0,24
-Boris Kindij,,,,0,0,0,24
-Osborne Hart,,,,,0,0,24
-Maria Quinones Sanchez,,,,,,0,24
-Total,99,4,1,0,0,0,24
-,Mayor,,,,,District Council 7th District,25
-,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Maria Quinones Sanchez,25
-Jim Kenney,86,0,0,0,0,0,25
-Melissa Murray Bailey,,6,0,0,0,0,25
-Boris Kindij,,,0,0,0,0,25
-James Foster,,,,0,0,0,25
-Osborne Hart,,,,,0,0,25
-Maria Quinones Sanchez,,,,,,0,25
-Total,86,6,0,0,0,0,25
-,Mayor,,,,,District Council 7th District,All
-,Jim Kenney,Melissa Murray Bailey,James Foster,Osborne Hart,Boris Kindij,Maria Quinones Sanchez,All
-Jim Kenney,"1,004",0,0,0,0,709,All
-Melissa Murray Bailey,,71,0,0,0,22,All
-James Foster,,,8,0,0,2,All
-Osborne Hart,,,,3,0,0,All
-Boris Kindij,,,,,0,0,All
-Maria Quinones Sanchez,,,,,,64,All
-Total,"1,713",93,10,3,0,797,All

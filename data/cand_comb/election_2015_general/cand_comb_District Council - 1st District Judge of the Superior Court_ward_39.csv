@@ -1,4 +1,10 @@
 col_1,col_2,col_3,col_4,division
+,District Council 1st District,Judge Of The Superior Court,,All
+,Mark F Squilla,Alice Beck Dubow,Emil Giordano,All
+Mark F Squilla,"1,910","4,073",410,All
+Alice Beck Dubow,,290,0,All
+Emil Giordano,,,371,All
+Total,"6,393","4,363",781,All
 ,District Council 1st District,Judge Of The Superior Court,,1
 ,Mark F Squilla,Alice Beck Dubow,Emil Giordano,1
 Mark F Squilla,20,56,8,1
@@ -77,12 +83,6 @@ Mark F Squilla,12,101,7,13
 Alice Beck Dubow,,5,0,13
 Emil Giordano,,,1,13
 Total,120,106,8,13
-,Judge Of The Superior Court,,District Council 1st District,14
-,Emil Giordano,Alice Beck Dubow,Mark F Squilla,14
-Emil Giordano,49,0,0,14
-Alice Beck Dubow,,38,0,14
-Mark F Squilla,,,0,14
-Total,49,38,0,14
 ,District Council 1st District,Judge Of The Superior Court,,15
 ,Mark F Squilla,Alice Beck Dubow,Emil Giordano,15
 Mark F Squilla,160,152,9,15
@@ -209,12 +209,6 @@ Mark F Squilla,22,90,16,35
 Alice Beck Dubow,,11,0,35
 Emil Giordano,,,7,35
 Total,128,101,23,35
-,Judge Of The Superior Court,,District Council 1st District,36
-,Alice Beck Dubow,Emil Giordano,Mark F Squilla,36
-Alice Beck Dubow,59,0,0,36
-Emil Giordano,,33,0,36
-Mark F Squilla,,,0,36
-Total,59,33,0,36
 ,District Council 1st District,Judge Of The Superior Court,,37
 ,Mark F Squilla,Alice Beck Dubow,Emil Giordano,37
 Mark F Squilla,35,89,19,37
@@ -239,12 +233,6 @@ Alice Beck Dubow,7,0,37,40
 Emil Giordano,,2,1,40
 Mark F Squilla,,,6,40
 Total,44,3,44,40
-,Judge Of The Superior Court,,District Council 1st District,41
-,Alice Beck Dubow,Emil Giordano,Mark F Squilla,41
-Alice Beck Dubow,101,0,0,41
-Emil Giordano,,39,0,41
-Mark F Squilla,,,0,41
-Total,101,39,0,41
 ,District Council 1st District,Judge Of The Superior Court,,42
 ,Mark F Squilla,Alice Beck Dubow,Emil Giordano,42
 Mark F Squilla,31,78,14,42
@@ -275,9 +263,3 @@ Mark F Squilla,50,176,24,46
 Alice Beck Dubow,,21,0,46
 Emil Giordano,,,21,46
 Total,250,197,45,46
-,District Council 1st District,Judge Of The Superior Court,,All
-,Mark F Squilla,Alice Beck Dubow,Emil Giordano,All
-Mark F Squilla,"1,910","4,073",410,All
-Alice Beck Dubow,,488,0,All
-Emil Giordano,,,492,All
-Total,"6,393","4,561",902,All

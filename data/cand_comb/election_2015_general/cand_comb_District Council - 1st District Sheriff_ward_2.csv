@@ -1,4 +1,10 @@
 col_1,col_2,col_3,col_4,division
+,District Council 1st District,Sheriff,,All
+,Mark F Squilla,Jewell Williams,Christopher Sawyer,All
+Mark F Squilla,564,"2,413",812,All
+Jewell Williams,,163,0,All
+Christopher Sawyer,,,386,All
+Total,"3,789","2,576","1,198",All
 ,District Council 1st District,Sheriff,,1
 ,Mark F Squilla,Jewell Williams,Christopher Sawyer,1
 Mark F Squilla,42,138,57,1
@@ -47,12 +53,6 @@ Mark F Squilla,22,65,15,8
 Jewell Williams,,7,0,8
 Christopher Sawyer,,,10,8
 Total,102,72,25,8
-,Sheriff,,District Council 1st District,9
-,Jewell Williams,Christopher Sawyer,Mark F Squilla,9
-Jewell Williams,101,0,0,9
-Christopher Sawyer,,24,0,9
-Mark F Squilla,,,0,9
-Total,101,24,0,9
 ,District Council 1st District,Sheriff,,10
 ,Mark F Squilla,Jewell Williams,Christopher Sawyer,10
 Mark F Squilla,21,89,36,10
@@ -107,30 +107,6 @@ Mark F Squilla,30,97,32,18
 Jewell Williams,,5,0,18
 Christopher Sawyer,,,21,18
 Total,159,102,53,18
-,Sheriff,,District Council 1st District,19
-,Jewell Williams,Christopher Sawyer,Mark F Squilla,19
-Jewell Williams,91,0,0,19
-Christopher Sawyer,,51,0,19
-Mark F Squilla,,,0,19
-Total,91,51,0,19
-,Sheriff,,District Council 1st District,20
-,Jewell Williams,Christopher Sawyer,Mark F Squilla,20
-Jewell Williams,67,0,0,20
-Christopher Sawyer,,24,0,20
-Mark F Squilla,,,0,20
-Total,67,24,0,20
-,Sheriff,,District Council 1st District,21
-,Jewell Williams,Christopher Sawyer,Mark F Squilla,21
-Jewell Williams,101,0,0,21
-Christopher Sawyer,,17,0,21
-Mark F Squilla,,,0,21
-Total,101,17,0,21
-,Sheriff,,District Council 1st District,22
-,Jewell Williams,Christopher Sawyer,Mark F Squilla,22
-Jewell Williams,141,0,0,22
-Christopher Sawyer,,61,0,22
-Mark F Squilla,,,0,22
-Total,141,61,0,22
 ,District Council 1st District,Sheriff,,23
 ,Mark F Squilla,Jewell Williams,Christopher Sawyer,23
 Mark F Squilla,27,159,47,23
@@ -161,9 +137,3 @@ Mark F Squilla,39,123,70,27
 Jewell Williams,,7,0,27
 Christopher Sawyer,,,31,27
 Total,232,130,101,27
-,District Council 1st District,Sheriff,,All
-,Mark F Squilla,Jewell Williams,Christopher Sawyer,All
-Mark F Squilla,564,"2,413",812,All
-Jewell Williams,,664,0,All
-Christopher Sawyer,,,563,All
-Total,"3,789","3,077","1,375",All

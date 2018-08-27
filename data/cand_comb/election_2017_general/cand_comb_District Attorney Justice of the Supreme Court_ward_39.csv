@@ -1,0 +1,330 @@
+col_1,col_2,col_3,col_4,col_5,division
+,Justice Of The Supreme Court,,District Attorney,,All
+,Dwayne Woodruff,Sallie Mundy,Lawrence S Krasner,Beth Grossman,All
+Dwayne Woodruff,95,0,"2,709",590,All
+Sallie Mundy,,46,116,"1,449",All
+Lawrence S Krasner,,,96,0,All
+Beth Grossman,,,,498,All
+Total,"3,394","1,611","2,921","2,537",All
+,Justice Of The Supreme Court,,District Attorney,,1
+,Dwayne Woodruff,Sallie Mundy,Lawrence S Krasner,Beth Grossman,1
+Dwayne Woodruff,2,0,38,5,1
+Sallie Mundy,,0,1,27,1
+Lawrence S Krasner,,,1,0,1
+Beth Grossman,,,,4,1
+Total,45,28,40,36,1
+,District Attorney,,Justice Of The Supreme Court,,2
+,Lawrence S Krasner,Beth Grossman,Dwayne Woodruff,Sallie Mundy,2
+Lawrence S Krasner,8,0,27,1,2
+Beth Grossman,,22,4,9,2
+Dwayne Woodruff,,,1,0,2
+Sallie Mundy,,,,1,2
+Total,36,35,32,11,2
+,District Attorney,,Justice Of The Supreme Court,,3
+,Beth Grossman,Lawrence S Krasner,Dwayne Woodruff,Sallie Mundy,3
+Beth Grossman,23,0,36,48,3
+Lawrence S Krasner,,3,37,4,3
+Dwayne Woodruff,,,1,0,3
+Sallie Mundy,,,,1,3
+Total,107,44,74,53,3
+,District Attorney,,Justice Of The Supreme Court,,4
+,Beth Grossman,Lawrence S Krasner,Dwayne Woodruff,Sallie Mundy,4
+Beth Grossman,6,0,4,23,4
+Lawrence S Krasner,,1,27,4,4
+Dwayne Woodruff,,,0,0,4
+Sallie Mundy,,,,1,4
+Total,33,32,31,28,4
+,Justice Of The Supreme Court,,District Attorney,,5
+,Dwayne Woodruff,Sallie Mundy,Lawrence S Krasner,Beth Grossman,5
+Dwayne Woodruff,4,0,65,7,5
+Sallie Mundy,,0,2,9,5
+Lawrence S Krasner,,,1,0,5
+Beth Grossman,,,,2,5
+Total,76,11,68,18,5
+,District Attorney,,Justice Of The Supreme Court,,6
+,Beth Grossman,Lawrence S Krasner,Sallie Mundy,Dwayne Woodruff,6
+Beth Grossman,46,0,84,28,6
+Lawrence S Krasner,,1,2,23,6
+Sallie Mundy,,,0,0,6
+Dwayne Woodruff,,,,1,6
+Total,158,26,86,52,6
+,District Attorney,,Justice Of The Supreme Court,,7
+,Beth Grossman,Lawrence S Krasner,Dwayne Woodruff,Sallie Mundy,7
+Beth Grossman,70,0,50,84,7
+Lawrence S Krasner,,3,48,2,7
+Dwayne Woodruff,,,8,0,7
+Sallie Mundy,,,,3,7
+Total,204,53,106,89,7
+,District Attorney,,Justice Of The Supreme Court,,8
+,Beth Grossman,Lawrence S Krasner,Dwayne Woodruff,Sallie Mundy,8
+Beth Grossman,29,0,19,57,8
+Lawrence S Krasner,,2,42,4,8
+Dwayne Woodruff,,,2,0,8
+Sallie Mundy,,,,1,8
+Total,105,48,63,62,8
+,District Attorney,,Justice Of The Supreme Court,,9
+,Lawrence S Krasner,Beth Grossman,Dwayne Woodruff,Sallie Mundy,9
+Lawrence S Krasner,5,0,54,0,9
+Beth Grossman,,2,4,6,9
+Dwayne Woodruff,,,0,0,9
+Sallie Mundy,,,,0,9
+Total,59,12,58,6,9
+,Justice Of The Supreme Court,,District Attorney,,10
+,Dwayne Woodruff,Sallie Mundy,Lawrence S Krasner,Beth Grossman,10
+Dwayne Woodruff,2,0,80,6,10
+Sallie Mundy,,1,1,11,10
+Lawrence S Krasner,,,6,0,10
+Beth Grossman,,,,3,10
+Total,88,13,87,20,10
+,District Attorney,,Justice Of The Supreme Court,,11
+,Beth Grossman,Lawrence S Krasner,Dwayne Woodruff,Sallie Mundy,11
+Beth Grossman,18,0,3,5,11
+Lawrence S Krasner,,0,13,0,11
+Dwayne Woodruff,,,2,0,11
+Sallie Mundy,,,,0,11
+Total,26,13,18,5,11
+,District Attorney,,Justice Of The Supreme Court,,12
+,Beth Grossman,Lawrence S Krasner,Sallie Mundy,Dwayne Woodruff,12
+Beth Grossman,1,0,27,1,12
+Lawrence S Krasner,,1,0,19,12
+Sallie Mundy,,,0,0,12
+Dwayne Woodruff,,,,0,12
+Total,29,20,27,20,12
+,Justice Of The Supreme Court,,District Attorney,,13
+,Dwayne Woodruff,Sallie Mundy,Lawrence S Krasner,Beth Grossman,13
+Dwayne Woodruff,2,0,54,4,13
+Sallie Mundy,,0,0,12,13
+Lawrence S Krasner,,,2,0,13
+Beth Grossman,,,,2,13
+Total,60,12,56,18,13
+,District Attorney,,Justice Of The Supreme Court,,14
+,Beth Grossman,Lawrence S Krasner,Sallie Mundy,Dwayne Woodruff,14
+Beth Grossman,9,0,60,10,14
+Lawrence S Krasner,,0,1,19,14
+Sallie Mundy,,,1,0,14
+Dwayne Woodruff,,,,0,14
+Total,79,20,62,29,14
+,District Attorney,,Justice Of The Supreme Court,,15
+,Beth Grossman,Lawrence S Krasner,Dwayne Woodruff,Sallie Mundy,15
+Beth Grossman,50,0,38,59,15
+Lawrence S Krasner,,2,42,5,15
+Dwayne Woodruff,,,4,0,15
+Sallie Mundy,,,,1,15
+Total,147,49,84,65,15
+,Justice Of The Supreme Court,,District Attorney,,16
+,Dwayne Woodruff,Sallie Mundy,Lawrence S Krasner,Beth Grossman,16
+Dwayne Woodruff,4,0,19,1,16
+Sallie Mundy,,0,1,11,16
+Lawrence S Krasner,,,0,0,16
+Beth Grossman,,,,1,16
+Total,24,12,20,13,16
+,Justice Of The Supreme Court,,District Attorney,,17
+,Dwayne Woodruff,Sallie Mundy,Beth Grossman,Lawrence S Krasner,17
+Dwayne Woodruff,2,0,3,22,17
+Sallie Mundy,,2,18,3,17
+Beth Grossman,,,5,0,17
+Lawrence S Krasner,,,,1,17
+Total,27,23,26,26,17
+,Justice Of The Supreme Court,,District Attorney,,18
+,Dwayne Woodruff,Sallie Mundy,Lawrence S Krasner,Beth Grossman,18
+Dwayne Woodruff,2,0,30,17,18
+Sallie Mundy,,0,0,6,18
+Lawrence S Krasner,,,0,0,18
+Beth Grossman,,,,1,18
+Total,49,6,30,24,18
+,District Attorney,,Justice Of The Supreme Court,,19
+,Lawrence S Krasner,Beth Grossman,Dwayne Woodruff,Sallie Mundy,19
+Lawrence S Krasner,2,0,38,3,19
+Beth Grossman,,1,3,6,19
+Dwayne Woodruff,,,1,0,19
+Sallie Mundy,,,,2,19
+Total,43,10,42,11,19
+,District Attorney,,Justice Of The Supreme Court,,20
+,Beth Grossman,Lawrence S Krasner,Dwayne Woodruff,Sallie Mundy,20
+Beth Grossman,39,0,32,65,20
+Lawrence S Krasner,,3,56,3,20
+Dwayne Woodruff,,,2,0,20
+Sallie Mundy,,,,0,20
+Total,136,62,90,68,20
+,District Attorney,,Justice Of The Supreme Court,,21
+,Beth Grossman,Lawrence S Krasner,Dwayne Woodruff,Sallie Mundy,21
+Beth Grossman,40,0,50,50,21
+Lawrence S Krasner,,3,50,0,21
+Dwayne Woodruff,,,3,0,21
+Sallie Mundy,,,,1,21
+Total,140,53,103,51,21
+,Justice Of The Supreme Court,,District Attorney,,22
+,Dwayne Woodruff,Sallie Mundy,Lawrence S Krasner,Beth Grossman,22
+Dwayne Woodruff,0,0,46,15,22
+Sallie Mundy,,4,3,27,22
+Lawrence S Krasner,,,0,0,22
+Beth Grossman,,,,5,22
+Total,61,34,49,47,22
+,Justice Of The Supreme Court,,District Attorney,,23
+,Dwayne Woodruff,Sallie Mundy,Lawrence S Krasner,Beth Grossman,23
+Dwayne Woodruff,2,0,35,4,23
+Sallie Mundy,,0,0,7,23
+Lawrence S Krasner,,,3,0,23
+Beth Grossman,,,,0,23
+Total,41,7,38,11,23
+,Justice Of The Supreme Court,,District Attorney,,24
+,Dwayne Woodruff,Sallie Mundy,Beth Grossman,Lawrence S Krasner,24
+Dwayne Woodruff,5,0,48,64,24
+Sallie Mundy,,2,20,1,24
+Beth Grossman,,,12,0,24
+Lawrence S Krasner,,,,1,24
+Total,117,23,80,66,24
+,Justice Of The Supreme Court,,District Attorney,,25
+,Dwayne Woodruff,Sallie Mundy,Beth Grossman,Lawrence S Krasner,25
+Dwayne Woodruff,5,0,7,65,25
+Sallie Mundy,,1,47,1,25
+Beth Grossman,,,14,0,25
+Lawrence S Krasner,,,,1,25
+Total,77,49,68,67,25
+,Justice Of The Supreme Court,,District Attorney,,26
+,Dwayne Woodruff,Sallie Mundy,Lawrence S Krasner,Beth Grossman,26
+Dwayne Woodruff,0,0,124,23,26
+Sallie Mundy,,2,9,23,26
+Lawrence S Krasner,,,3,0,26
+Beth Grossman,,,,4,26
+Total,147,34,136,50,26
+,District Attorney,,Justice Of The Supreme Court,,27
+,Lawrence S Krasner,Beth Grossman,Dwayne Woodruff,Sallie Mundy,27
+Lawrence S Krasner,2,0,111,8,27
+Beth Grossman,,0,7,22,27
+Dwayne Woodruff,,,1,0,27
+Sallie Mundy,,,,2,27
+Total,121,29,119,32,27
+,Justice Of The Supreme Court,,District Attorney,,28
+,Dwayne Woodruff,Sallie Mundy,Lawrence S Krasner,Beth Grossman,28
+Dwayne Woodruff,1,0,120,5,28
+Sallie Mundy,,0,0,2,28
+Lawrence S Krasner,,,2,0,28
+Beth Grossman,,,,1,28
+Total,126,2,122,8,28
+,Justice Of The Supreme Court,,District Attorney,,29
+,Dwayne Woodruff,Sallie Mundy,Beth Grossman,Lawrence S Krasner,29
+Dwayne Woodruff,5,0,10,32,29
+Sallie Mundy,,3,27,1,29
+Beth Grossman,,,3,0,29
+Lawrence S Krasner,,,,0,29
+Total,47,31,40,33,29
+,Justice Of The Supreme Court,,District Attorney,,30
+,Dwayne Woodruff,Sallie Mundy,Lawrence S Krasner,Beth Grossman,30
+Dwayne Woodruff,2,0,152,11,30
+Sallie Mundy,,0,3,19,30
+Lawrence S Krasner,,,4,0,30
+Beth Grossman,,,,5,30
+Total,165,22,159,35,30
+,District Attorney,,Justice Of The Supreme Court,,31
+,Lawrence S Krasner,Beth Grossman,Sallie Mundy,Dwayne Woodruff,31
+Lawrence S Krasner,1,0,6,45,31
+Beth Grossman,,1,43,2,31
+Sallie Mundy,,,2,0,31
+Dwayne Woodruff,,,,0,31
+Total,52,46,51,47,31
+,District Attorney,,Justice Of The Supreme Court,,32
+,Lawrence S Krasner,Beth Grossman,Dwayne Woodruff,Sallie Mundy,32
+Lawrence S Krasner,4,0,49,2,32
+Beth Grossman,,1,2,14,32
+Dwayne Woodruff,,,1,0,32
+Sallie Mundy,,,,2,32
+Total,55,17,52,18,32
+,District Attorney,,Justice Of The Supreme Court,,33
+,Beth Grossman,Lawrence S Krasner,Dwayne Woodruff,Sallie Mundy,33
+Beth Grossman,8,0,9,33,33
+Lawrence S Krasner,,0,34,2,33
+Dwayne Woodruff,,,5,0,33
+Sallie Mundy,,,,0,33
+Total,50,36,48,35,33
+,Justice Of The Supreme Court,,District Attorney,,34
+,Dwayne Woodruff,Sallie Mundy,Lawrence S Krasner,Beth Grossman,34
+Dwayne Woodruff,0,0,63,11,34
+Sallie Mundy,,2,2,15,34
+Lawrence S Krasner,,,0,0,34
+Beth Grossman,,,,0,34
+Total,74,19,65,26,34
+,Justice Of The Supreme Court,,District Attorney,,35
+,Dwayne Woodruff,Sallie Mundy,Lawrence S Krasner,Beth Grossman,35
+Dwayne Woodruff,0,0,110,12,35
+Sallie Mundy,,0,3,29,35
+Lawrence S Krasner,,,4,0,35
+Beth Grossman,,,,5,35
+Total,122,32,117,46,35
+,District Attorney,,Justice Of The Supreme Court,,36
+,Beth Grossman,Lawrence S Krasner,Sallie Mundy,Dwayne Woodruff,36
+Beth Grossman,5,0,55,6,36
+Lawrence S Krasner,,2,1,25,36
+Sallie Mundy,,,1,0,36
+Dwayne Woodruff,,,,1,36
+Total,66,28,57,32,36
+,Justice Of The Supreme Court,,District Attorney,,37
+,Dwayne Woodruff,Sallie Mundy,Lawrence S Krasner,Beth Grossman,37
+Dwayne Woodruff,1,0,100,10,37
+Sallie Mundy,,0,7,37,37
+Lawrence S Krasner,,,3,0,37
+Beth Grossman,,,,10,37
+Total,111,44,110,57,37
+,Justice Of The Supreme Court,,District Attorney,,38
+,Dwayne Woodruff,Sallie Mundy,Lawrence S Krasner,Beth Grossman,38
+Dwayne Woodruff,1,0,95,12,38
+Sallie Mundy,,1,3,34,38
+Lawrence S Krasner,,,4,0,38
+Beth Grossman,,,,4,38
+Total,108,38,102,50,38
+,District Attorney,,Justice Of The Supreme Court,,39
+,Beth Grossman,Lawrence S Krasner,Dwayne Woodruff,Sallie Mundy,39
+Beth Grossman,6,0,10,47,39
+Lawrence S Krasner,,0,46,2,39
+Dwayne Woodruff,,,4,0,39
+Sallie Mundy,,,,3,39
+Total,63,48,60,52,39
+,District Attorney,,Justice Of The Supreme Court,,40
+,Lawrence S Krasner,Beth Grossman,Dwayne Woodruff,Sallie Mundy,40
+Lawrence S Krasner,4,0,47,0,40
+Beth Grossman,,0,0,4,40
+Dwayne Woodruff,,,0,0,40
+Sallie Mundy,,,,1,40
+Total,51,4,47,5,40
+,District Attorney,,Justice Of The Supreme Court,,41
+,Beth Grossman,Lawrence S Krasner,Sallie Mundy,Dwayne Woodruff,41
+Beth Grossman,9,0,68,20,41
+Lawrence S Krasner,,1,1,23,41
+Sallie Mundy,,,1,0,41
+Dwayne Woodruff,,,,1,41
+Total,97,25,70,44,41
+,District Attorney,,Justice Of The Supreme Court,,42
+,Lawrence S Krasner,Beth Grossman,Dwayne Woodruff,Sallie Mundy,42
+Lawrence S Krasner,2,0,68,5,42
+Beth Grossman,,0,3,41,42
+Dwayne Woodruff,,,2,0,42
+Sallie Mundy,,,,1,42
+Total,75,44,73,47,42
+,Justice Of The Supreme Court,,District Attorney,,43
+,Dwayne Woodruff,Sallie Mundy,Lawrence S Krasner,Beth Grossman,43
+Dwayne Woodruff,1,0,47,5,43
+Sallie Mundy,,0,1,32,43
+Lawrence S Krasner,,,1,0,43
+Beth Grossman,,,,4,43
+Total,53,33,49,41,43
+,Justice Of The Supreme Court,,District Attorney,,44
+,Dwayne Woodruff,Sallie Mundy,Lawrence S Krasner,Beth Grossman,44
+Dwayne Woodruff,3,0,38,4,44
+Sallie Mundy,,0,0,32,44
+Lawrence S Krasner,,,2,0,44
+Beth Grossman,,,,3,44
+Total,45,32,40,39,44
+,Justice Of The Supreme Court,,District Attorney,,45
+,Dwayne Woodruff,Sallie Mundy,Lawrence S Krasner,Beth Grossman,45
+Dwayne Woodruff,5,0,179,14,45
+Sallie Mundy,,1,4,41,45
+Lawrence S Krasner,,,1,0,45
+Beth Grossman,,,,19,45
+Total,198,46,184,74,45
+,Justice Of The Supreme Court,,District Attorney,,46
+,Dwayne Woodruff,Sallie Mundy,Lawrence S Krasner,Beth Grossman,46
+Dwayne Woodruff,6,0,188,15,46
+Sallie Mundy,,2,14,53,46
+Lawrence S Krasner,,,6,0,46
+Beth Grossman,,,,5,46
+Total,209,69,208,73,46

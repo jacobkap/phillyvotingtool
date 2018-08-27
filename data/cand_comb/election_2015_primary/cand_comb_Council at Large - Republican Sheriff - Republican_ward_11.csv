@@ -1,0 +1,166 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,division
+,Sheriff - Republican,Council At Large - Republican,,,,,,,1
+,Christopher Sawyer,Daniel Tinney,Dennis M O Brien,Al Taubenberger,David Oh,James Williams,Terry Tracy,Matt Wolfe,1
+Christopher Sawyer,0,3,2,1,1,1,1,0,1
+Daniel Tinney,,0,2,1,1,1,1,0,1
+Dennis M O Brien,,,0,1,1,1,1,0,1
+Al Taubenberger,,,,0,0,0,0,0,1
+David Oh,,,,,0,1,1,0,1
+James Williams,,,,,,0,1,0,1
+Terry Tracy,,,,,,,0,0,1
+Matt Wolfe,,,,,,,,0,1
+Total,3,3,2,1,1,1,1,0,1
+,Sheriff - Republican,Council At Large - Republican,,,,,,,3
+,Christopher Sawyer,Al Taubenberger,Daniel Tinney,David Oh,Dennis M O Brien,James Williams,Matt Wolfe,Terry Tracy,3
+Christopher Sawyer,1,0,0,0,0,0,0,0,3
+Al Taubenberger,,0,0,0,0,0,0,0,3
+Daniel Tinney,,,0,0,0,0,0,0,3
+David Oh,,,,0,0,0,0,0,3
+Dennis M O Brien,,,,,0,0,0,0,3
+James Williams,,,,,,0,0,0,3
+Matt Wolfe,,,,,,,0,0,3
+Terry Tracy,,,,,,,,0,3
+Total,1,0,0,0,0,0,0,0,3
+,Sheriff - Republican,Council At Large - Republican,,,,,,,4
+,Christopher Sawyer,David Oh,Dennis M O Brien,Matt Wolfe,Terry Tracy,Al Taubenberger,Daniel Tinney,James Williams,4
+Christopher Sawyer,0,1,1,1,1,0,0,0,4
+David Oh,,0,1,1,1,0,0,0,4
+Dennis M O Brien,,,0,1,1,0,0,0,4
+Matt Wolfe,,,,0,1,0,0,0,4
+Terry Tracy,,,,,0,0,0,0,4
+Al Taubenberger,,,,,,0,0,0,4
+Daniel Tinney,,,,,,,0,0,4
+James Williams,,,,,,,,0,4
+Total,1,1,1,1,1,0,0,0,4
+,Council At Large - Republican,,,,,,,Sheriff - Republican,5
+,David Oh,Terry Tracy,Dennis M O Brien,James Williams,Al Taubenberger,Daniel Tinney,Matt Wolfe,Christopher Sawyer,5
+David Oh,1,2,1,1,0,0,0,1,5
+Terry Tracy,,0,1,1,0,0,0,1,5
+Dennis M O Brien,,,0,0,0,0,0,0,5
+James Williams,,,,0,0,0,0,1,5
+Al Taubenberger,,,,,0,0,0,0,5
+Daniel Tinney,,,,,,0,0,0,5
+Matt Wolfe,,,,,,,0,0,5
+Christopher Sawyer,,,,,,,,0,5
+Total,3,2,1,1,0,0,0,1,5
+,Council At Large - Republican,,,,,,,Sheriff - Republican,6
+,David Oh,Al Taubenberger,Daniel Tinney,Dennis M O Brien,James Williams,Matt Wolfe,Terry Tracy,Christopher Sawyer,6
+David Oh,1,0,0,0,0,0,0,0,6
+Al Taubenberger,,0,0,0,0,0,0,0,6
+Daniel Tinney,,,0,0,0,0,0,0,6
+Dennis M O Brien,,,,0,0,0,0,0,6
+James Williams,,,,,0,0,0,0,6
+Matt Wolfe,,,,,,0,0,0,6
+Terry Tracy,,,,,,,0,0,6
+Christopher Sawyer,,,,,,,,0,6
+Total,1,0,0,0,0,0,0,0,6
+,Sheriff - Republican,Council At Large - Republican,,,,,,,7
+,Christopher Sawyer,Daniel Tinney,David Oh,Dennis M O Brien,James Williams,Terry Tracy,Al Taubenberger,Matt Wolfe,7
+Christopher Sawyer,0,1,1,1,1,1,0,0,7
+Daniel Tinney,,0,1,1,1,1,0,0,7
+David Oh,,,0,1,1,1,0,0,7
+Dennis M O Brien,,,,0,1,1,0,0,7
+James Williams,,,,,0,1,0,0,7
+Terry Tracy,,,,,,0,0,0,7
+Al Taubenberger,,,,,,,0,0,7
+Matt Wolfe,,,,,,,,0,7
+Total,1,1,1,1,1,1,0,0,7
+,Sheriff - Republican,Council At Large - Republican,,,,,,,8
+,Christopher Sawyer,David Oh,Terry Tracy,James Williams,Al Taubenberger,Daniel Tinney,Dennis M O Brien,Matt Wolfe,8
+Christopher Sawyer,0,2,2,1,0,0,0,0,8
+David Oh,,0,2,1,0,0,0,0,8
+Terry Tracy,,,0,1,0,0,0,0,8
+James Williams,,,,0,0,0,0,0,8
+Al Taubenberger,,,,,0,0,0,0,8
+Daniel Tinney,,,,,,0,0,0,8
+Dennis M O Brien,,,,,,,0,0,8
+Matt Wolfe,,,,,,,,0,8
+Total,2,2,2,1,0,0,0,0,8
+,Council At Large - Republican,,,,,,,Sheriff - Republican,9
+,Terry Tracy,David Oh,James Williams,Al Taubenberger,Daniel Tinney,Dennis M O Brien,Matt Wolfe,Christopher Sawyer,9
+Terry Tracy,0,1,1,0,0,0,0,1,9
+David Oh,,0,0,0,0,0,0,0,9
+James Williams,,,0,0,0,0,0,1,9
+Al Taubenberger,,,,0,0,0,0,0,9
+Daniel Tinney,,,,,0,0,0,0,9
+Dennis M O Brien,,,,,,0,0,0,9
+Matt Wolfe,,,,,,,0,0,9
+Christopher Sawyer,,,,,,,,0,9
+Total,2,1,1,0,0,0,0,1,9
+,Council At Large - Republican,,,,,,,Sheriff - Republican,11
+,James Williams,Terry Tracy,David Oh,Al Taubenberger,Daniel Tinney,Dennis M O Brien,Matt Wolfe,Christopher Sawyer,11
+James Williams,0,3,1,0,0,0,0,1,11
+Terry Tracy,,0,1,0,0,0,0,0,11
+David Oh,,,0,0,0,0,0,0,11
+Al Taubenberger,,,,0,0,0,0,0,11
+Daniel Tinney,,,,,0,0,0,0,11
+Dennis M O Brien,,,,,,0,0,0,11
+Matt Wolfe,,,,,,,0,0,11
+Christopher Sawyer,,,,,,,,0,11
+Total,4,3,1,0,0,0,0,1,11
+,Sheriff - Republican,Council At Large - Republican,,,,,,,13
+,Christopher Sawyer,James Williams,Al Taubenberger,Daniel Tinney,David Oh,Dennis M O Brien,Matt Wolfe,Terry Tracy,13
+Christopher Sawyer,0,1,0,0,0,0,0,0,13
+James Williams,,0,0,0,0,0,0,0,13
+Al Taubenberger,,,0,0,0,0,0,0,13
+Daniel Tinney,,,,0,0,0,0,0,13
+David Oh,,,,,0,0,0,0,13
+Dennis M O Brien,,,,,,0,0,0,13
+Matt Wolfe,,,,,,,0,0,13
+Terry Tracy,,,,,,,,0,13
+Total,1,1,0,0,0,0,0,0,13
+,Council At Large - Republican,,,,,,,Sheriff - Republican,15
+,James Williams,Daniel Tinney,Matt Wolfe,Terry Tracy,Al Taubenberger,David Oh,Dennis M O Brien,Christopher Sawyer,15
+James Williams,0,1,1,1,0,0,0,0,15
+Daniel Tinney,,0,1,0,0,0,0,0,15
+Matt Wolfe,,,0,0,0,0,0,0,15
+Terry Tracy,,,,0,0,0,0,0,15
+Al Taubenberger,,,,,0,0,0,0,15
+David Oh,,,,,,0,0,0,15
+Dennis M O Brien,,,,,,,0,0,15
+Christopher Sawyer,,,,,,,,0,15
+Total,2,1,1,1,0,0,0,0,15
+,Sheriff - Republican,Council At Large - Republican,,,,,,,16
+,Christopher Sawyer,Terry Tracy,Al Taubenberger,Daniel Tinney,David Oh,Dennis M O Brien,James Williams,Matt Wolfe,16
+Christopher Sawyer,0,1,0,0,0,0,0,0,16
+Terry Tracy,,0,0,0,0,0,0,0,16
+Al Taubenberger,,,0,0,0,0,0,0,16
+Daniel Tinney,,,,0,0,0,0,0,16
+David Oh,,,,,0,0,0,0,16
+Dennis M O Brien,,,,,,0,0,0,16
+James Williams,,,,,,,0,0,16
+Matt Wolfe,,,,,,,,0,16
+Total,1,1,0,0,0,0,0,0,16
+,Sheriff - Republican,Council At Large - Republican,,,,,,,17
+,Christopher Sawyer,David Oh,Matt Wolfe,Terry Tracy,Al Taubenberger,Daniel Tinney,Dennis M O Brien,James Williams,17
+Christopher Sawyer,1,1,1,1,0,0,0,0,17
+David Oh,,0,1,1,0,0,0,0,17
+Matt Wolfe,,,0,1,0,0,0,0,17
+Terry Tracy,,,,0,0,0,0,0,17
+Al Taubenberger,,,,,0,0,0,0,17
+Daniel Tinney,,,,,,0,0,0,17
+Dennis M O Brien,,,,,,,0,0,17
+James Williams,,,,,,,,0,17
+Total,2,1,1,1,0,0,0,0,17
+,Council At Large - Republican,,,,,,,Sheriff - Republican,18
+,Matt Wolfe,Daniel Tinney,Terry Tracy,Dennis M O Brien,James Williams,Al Taubenberger,David Oh,Christopher Sawyer,18
+Matt Wolfe,1,2,2,1,1,0,0,2,18
+Daniel Tinney,,0,2,1,1,0,0,2,18
+Terry Tracy,,,0,1,1,0,0,2,18
+Dennis M O Brien,,,,0,1,0,0,1,18
+James Williams,,,,,0,0,0,1,18
+Al Taubenberger,,,,,,0,0,0,18
+David Oh,,,,,,,0,0,18
+Christopher Sawyer,,,,,,,,0,18
+Total,3,2,2,1,1,0,0,2,18
+,Sheriff - Republican,Council At Large - Republican,,,,,,,All
+,Christopher Sawyer,Terry Tracy,James Williams,David Oh,Daniel Tinney,Dennis M O Brien,Matt Wolfe,Al Taubenberger,All
+Christopher Sawyer,2,11,8,7,6,5,4,1,All
+Terry Tracy,,0,10,10,4,5,4,0,All
+James Williams,,,0,5,4,3,2,0,All
+David Oh,,,,2,2,4,2,0,All
+Daniel Tinney,,,,,0,4,3,1,All
+Dennis M O Brien,,,,,,0,2,1,All
+Matt Wolfe,,,,,,,1,0,All
+Al Taubenberger,,,,,,,,0,All
+Total,17,17,13,12,7,6,6,1,All

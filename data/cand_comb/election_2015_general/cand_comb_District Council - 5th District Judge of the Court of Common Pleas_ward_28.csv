@@ -1,4 +1,21 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10,col_11,col_12,col_13,col_14,col_15,division
+,District Council 5th District,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,All
+,Darrell L Clarke,Ken Powell,Tracy B Roman,Mia Roberts Perez,Kai Scott,Abbe Fletman,Lyris Younge,Stephanie M Sawyer,Daine Grey Jr,Rainy Papademetriou,Chris Mallios,Michael Fanning,Scott Diclaudio,Vincent Furlong,All
+Darrell L Clarke,103,"1,082","1,035","1,029","1,020",999,995,919,897,892,885,881,874,34,All
+Ken Powell,,15,"1,020","1,005","1,006","1,003","1,002",898,891,886,887,881,874,28,All
+Tracy B Roman,,,2,"1,008","1,008","1,006",999,902,888,893,888,879,878,29,All
+Mia Roberts Perez,,,,5,999,990,989,896,889,888,883,877,869,31,All
+Kai Scott,,,,,6,"1,003",993,904,895,891,890,884,878,27,All
+Abbe Fletman,,,,,,3,994,889,882,884,884,877,876,26,All
+Lyris Younge,,,,,,,5,898,889,888,888,880,875,28,All
+Stephanie M Sawyer,,,,,,,,2,899,894,893,889,877,29,All
+Daine Grey Jr,,,,,,,,,1,885,883,878,867,26,All
+Rainy Papademetriou,,,,,,,,,,0,886,876,872,27,All
+Chris Mallios,,,,,,,,,,,0,878,877,25,All
+Michael Fanning,,,,,,,,,,,,0,869,24,All
+Scott Diclaudio,,,,,,,,,,,,,1,19,All
+Vincent Furlong,,,,,,,,,,,,,,12,All
+Total,"1,315","1,131","1,069","1,065","1,062","1,036","1,031",941,917,910,902,900,892,49,All
 ,District Council 5th District,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,1
 ,Darrell L Clarke,Ken Powell,Kai Scott,Abbe Fletman,Tracy B Roman,Lyris Younge,Mia Roberts Perez,Chris Mallios,Stephanie M Sawyer,Michael Fanning,Scott Diclaudio,Daine Grey Jr,Rainy Papademetriou,Vincent Furlong,1
 Darrell L Clarke,2,50,46,44,45,44,42,36,36,34,34,33,33,1,1
@@ -135,23 +152,6 @@ Scott Diclaudio,,,,,,,,,,,,0,96,2,8
 Michael Fanning,,,,,,,,,,,,,0,3,8
 Vincent Furlong,,,,,,,,,,,,,,1,8
 Total,178,142,138,134,133,126,125,115,110,108,107,105,101,7,8
-,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,District Council 5th District,9
-,Ken Powell,Tracy B Roman,Kai Scott,Mia Roberts Perez,Lyris Younge,Abbe Fletman,Daine Grey Jr,Stephanie M Sawyer,Michael Fanning,Chris Mallios,Scott Diclaudio,Rainy Papademetriou,Vincent Furlong,Darrell L Clarke,9
-Ken Powell,10,93,91,86,88,87,80,82,80,76,75,74,2,0,9
-Tracy B Roman,,7,88,86,87,84,77,79,77,76,73,74,1,0,9
-Kai Scott,,,4,86,86,86,80,80,77,76,72,73,1,0,9
-Mia Roberts Perez,,,,4,83,81,78,77,74,75,73,74,1,0,9
-Lyris Younge,,,,,0,84,77,78,75,76,73,73,2,0,9
-Abbe Fletman,,,,,,1,77,77,77,74,73,73,2,0,9
-Daine Grey Jr,,,,,,,0,79,76,75,73,74,1,0,9
-Stephanie M Sawyer,,,,,,,,0,77,76,72,73,1,0,9
-Michael Fanning,,,,,,,,,1,75,74,73,2,0,9
-Chris Mallios,,,,,,,,,,0,72,73,1,0,9
-Scott Diclaudio,,,,,,,,,,,0,73,1,0,9
-Rainy Papademetriou,,,,,,,,,,,,0,1,0,9
-Vincent Furlong,,,,,,,,,,,,,0,0,9
-Darrell L Clarke,,,,,,,,,,,,,,0,9
-Total,108,101,97,93,91,89,83,82,81,78,75,74,2,0,9
 ,District Council 5th District,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,10
 ,Darrell L Clarke,Ken Powell,Tracy B Roman,Kai Scott,Abbe Fletman,Lyris Younge,Mia Roberts Perez,Daine Grey Jr,Stephanie M Sawyer,Chris Mallios,Michael Fanning,Rainy Papademetriou,Scott Diclaudio,Vincent Furlong,10
 Darrell L Clarke,6,87,85,83,80,82,81,77,77,76,75,74,74,3,10
@@ -254,71 +254,3 @@ Scott Diclaudio,,,,,,,,,,,,0,57,1,15
 Rainy Papademetriou,,,,,,,,,,,,,0,0,15
 Vincent Furlong,,,,,,,,,,,,,,0,15
 Total,80,69,64,64,62,61,61,60,58,58,58,58,57,2,15
-,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,District Council 5th District,16
-,Ken Powell,Tracy B Roman,Mia Roberts Perez,Kai Scott,Lyris Younge,Stephanie M Sawyer,Abbe Fletman,Daine Grey Jr,Chris Mallios,Michael Fanning,Scott Diclaudio,Rainy Papademetriou,Vincent Furlong,Darrell L Clarke,16
-Ken Powell,4,71,70,71,68,65,66,65,64,62,61,61,3,0,16
-Tracy B Roman,,5,69,69,67,65,65,63,63,62,62,61,3,0,16
-Mia Roberts Perez,,,3,69,68,65,66,64,64,62,61,61,3,0,16
-Kai Scott,,,,1,68,65,66,65,64,62,61,61,3,0,16
-Lyris Younge,,,,,1,64,66,63,63,61,61,61,3,0,16
-Stephanie M Sawyer,,,,,,0,63,65,63,62,62,61,3,0,16
-Abbe Fletman,,,,,,,0,63,61,60,60,61,3,0,16
-Daine Grey Jr,,,,,,,,0,62,61,60,61,3,0,16
-Chris Mallios,,,,,,,,,0,60,59,59,2,0,16
-Michael Fanning,,,,,,,,,,0,60,60,2,0,16
-Scott Diclaudio,,,,,,,,,,,0,60,1,0,16
-Rainy Papademetriou,,,,,,,,,,,,0,2,0,16
-Vincent Furlong,,,,,,,,,,,,,3,0,16
-Darrell L Clarke,,,,,,,,,,,,,,0,16
-Total,77,77,73,72,69,67,66,66,64,62,62,61,6,0,16
-,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,District Council 5th District,17
-,Ken Powell,Kai Scott,Mia Roberts Perez,Tracy B Roman,Abbe Fletman,Lyris Younge,Daine Grey Jr,Michael Fanning,Stephanie M Sawyer,Rainy Papademetriou,Chris Mallios,Scott Diclaudio,Vincent Furlong,Darrell L Clarke,17
-Ken Powell,4,57,55,57,55,54,53,52,51,52,51,50,0,0,17
-Kai Scott,,3,55,56,55,55,51,50,49,50,49,49,0,0,17
-Mia Roberts Perez,,,1,56,56,55,52,52,51,51,50,50,0,0,17
-Tracy B Roman,,,,1,56,55,53,52,51,52,51,50,0,0,17
-Abbe Fletman,,,,,0,55,51,51,50,51,50,50,0,0,17
-Lyris Younge,,,,,,0,51,51,50,51,50,50,0,0,17
-Daine Grey Jr,,,,,,,0,53,53,53,52,51,0,0,17
-Michael Fanning,,,,,,,,0,52,53,52,51,0,0,17
-Stephanie M Sawyer,,,,,,,,,1,52,52,51,0,0,17
-Rainy Papademetriou,,,,,,,,,,0,52,51,0,0,17
-Chris Mallios,,,,,,,,,,,0,51,0,0,17
-Scott Diclaudio,,,,,,,,,,,,0,0,0,17
-Vincent Furlong,,,,,,,,,,,,,0,0,17
-Darrell L Clarke,,,,,,,,,,,,,,0,17
-Total,63,62,59,59,56,56,55,54,54,53,52,51,0,0,17
-,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,District Council 5th District,18
-,Ken Powell,Lyris Younge,Kai Scott,Abbe Fletman,Mia Roberts Perez,Tracy B Roman,Rainy Papademetriou,Stephanie M Sawyer,Chris Mallios,Daine Grey Jr,Scott Diclaudio,Michael Fanning,Vincent Furlong,Darrell L Clarke,18
-Ken Powell,9,70,69,69,68,68,55,56,55,55,54,54,1,0,18
-Lyris Younge,,1,70,70,68,68,55,55,55,55,54,54,1,0,18
-Kai Scott,,,0,69,68,68,54,55,54,54,54,53,1,0,18
-Abbe Fletman,,,,0,67,67,55,55,55,55,54,53,1,0,18
-Mia Roberts Perez,,,,,0,68,54,54,54,54,53,52,0,0,18
-Tracy B Roman,,,,,,1,55,55,55,55,54,53,1,0,18
-Rainy Papademetriou,,,,,,,2,55,55,55,54,53,1,0,18
-Stephanie M Sawyer,,,,,,,,1,55,55,54,53,1,0,18
-Chris Mallios,,,,,,,,,0,55,54,53,1,0,18
-Daine Grey Jr,,,,,,,,,,0,54,53,1,0,18
-Scott Diclaudio,,,,,,,,,,,1,53,1,0,18
-Michael Fanning,,,,,,,,,,,,0,1,0,18
-Vincent Furlong,,,,,,,,,,,,,1,0,18
-Darrell L Clarke,,,,,,,,,,,,,,0,18
-Total,82,74,72,71,71,71,57,57,55,55,55,54,2,0,18
-,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,District Council 5th District,All
-,Ken Powell,Tracy B Roman,Kai Scott,Mia Roberts Perez,Lyris Younge,Abbe Fletman,Stephanie M Sawyer,Daine Grey Jr,Rainy Papademetriou,Chris Mallios,Michael Fanning,Scott Diclaudio,Vincent Furlong,Darrell L Clarke,All
-Ken Powell,42,"1,309","1,294","1,284","1,282","1,280","1,152","1,144","1,128","1,133","1,129","1,114",34,"1,082",All
-Tracy B Roman,,16,"1,289","1,287","1,276","1,278","1,152","1,136","1,135","1,133","1,123","1,117",34,"1,035",All
-Kai Scott,,,14,"1,277","1,272","1,279","1,153","1,145","1,129","1,133","1,126","1,114",32,"1,020",All
-Mia Roberts Perez,,,,13,"1,263","1,260","1,143","1,137","1,128","1,126","1,117","1,106",35,"1,029",All
-Lyris Younge,,,,,7,"1,269","1,145","1,135","1,128","1,132","1,121","1,113",34,995,All
-Abbe Fletman,,,,,,4,"1,134","1,128","1,124","1,124","1,118","1,113",32,999,All
-Stephanie M Sawyer,,,,,,,4,"1,151","1,135","1,139","1,133","1,116",34,919,All
-Daine Grey Jr,,,,,,,,1,"1,128","1,127","1,121","1,105",31,897,All
-Rainy Papademetriou,,,,,,,,,2,"1,125","1,115","1,110",31,892,All
-Chris Mallios,,,,,,,,,,0,"1,118","1,113",29,885,All
-Michael Fanning,,,,,,,,,,,1,"1,107",29,881,All
-Scott Diclaudio,,,,,,,,,,,,2,22,874,All
-Vincent Furlong,,,,,,,,,,,,,16,34,All
-Darrell L Clarke,,,,,,,,,,,,,,103,All
-Total,"1,461","1,377","1,365","1,361","1,321","1,318","1,201","1,176","1,155","1,151","1,151","1,135",59,"1,315",All

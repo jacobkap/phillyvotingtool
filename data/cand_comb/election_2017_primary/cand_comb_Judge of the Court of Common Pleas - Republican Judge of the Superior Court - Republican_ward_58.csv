@@ -1,0 +1,406 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,division
+,Judge Of The Court Of Common Pleas - Republican,Judge Of The Superior Court - Republican,,,,,All
+,Vincent Furlong,Emil Giordano,Craig Stedman,Wade A Kagarise,Paula A Patrick,Mary Murray,All
+Vincent Furlong,66,549,493,401,355,210,All
+Emil Giordano,,18,468,387,272,165,All
+Craig Stedman,,,8,390,267,171,All
+Wade A Kagarise,,,,2,201,109,All
+Paula A Patrick,,,,,8,150,All
+Mary Murray,,,,,,1,All
+Total,765,617,550,449,392,229,All
+,Judge Of The Superior Court - Republican,,,,,Judge Of The Court Of Common Pleas - Republican,1
+,Emil Giordano,Craig Stedman,Mary Murray,Paula A Patrick,Wade A Kagarise,Vincent Furlong,1
+Emil Giordano,0,0,0,0,0,1,1
+Craig Stedman,,0,0,0,0,0,1
+Mary Murray,,,0,0,0,0,1
+Paula A Patrick,,,,0,0,0,1
+Wade A Kagarise,,,,,0,0,1
+Vincent Furlong,,,,,,0,1
+Total,1,0,0,0,0,1,1
+,Judge Of The Superior Court - Republican,,,,,Judge Of The Court Of Common Pleas - Republican,2
+,Craig Stedman,Emil Giordano,Wade A Kagarise,Mary Murray,Paula A Patrick,Vincent Furlong,2
+Craig Stedman,0,2,2,1,1,2,2
+Emil Giordano,,0,2,1,1,2,2
+Wade A Kagarise,,,0,1,1,2,2
+Mary Murray,,,,0,0,1,2
+Paula A Patrick,,,,,0,1,2
+Vincent Furlong,,,,,,0,2
+Total,2,2,2,1,1,2,2
+,Judge Of The Court Of Common Pleas - Republican,Judge Of The Superior Court - Republican,,,,,3
+,Vincent Furlong,Craig Stedman,Emil Giordano,Paula A Patrick,Mary Murray,Wade A Kagarise,3
+Vincent Furlong,0,5,5,5,4,4,3
+Craig Stedman,,0,4,2,2,3,3
+Emil Giordano,,,0,2,2,4,3
+Paula A Patrick,,,,0,3,1,3
+Mary Murray,,,,,0,2,3
+Wade A Kagarise,,,,,,0,3
+Total,8,5,5,5,4,4,3
+,Judge Of The Court Of Common Pleas - Republican,Judge Of The Superior Court - Republican,,,,,4
+,Vincent Furlong,Emil Giordano,Craig Stedman,Wade A Kagarise,Paula A Patrick,Mary Murray,4
+Vincent Furlong,14,30,26,26,22,14,4
+Emil Giordano,,0,20,19,10,8,4
+Craig Stedman,,,1,20,12,11,4
+Wade A Kagarise,,,,0,11,7,4
+Paula A Patrick,,,,,0,9,4
+Mary Murray,,,,,,0,4
+Total,61,30,27,27,23,14,4
+,Judge Of The Court Of Common Pleas - Republican,Judge Of The Superior Court - Republican,,,,,5
+,Vincent Furlong,Emil Giordano,Craig Stedman,Wade A Kagarise,Mary Murray,Paula A Patrick,5
+Vincent Furlong,1,13,11,10,9,9,5
+Emil Giordano,,0,10,9,6,8,5
+Craig Stedman,,,0,8,5,7,5
+Wade A Kagarise,,,,0,5,7,5
+Mary Murray,,,,,0,5,5
+Paula A Patrick,,,,,,0,5
+Total,17,13,11,10,9,9,5
+,Judge Of The Court Of Common Pleas - Republican,Judge Of The Superior Court - Republican,,,,,6
+,Vincent Furlong,Wade A Kagarise,Craig Stedman,Emil Giordano,Paula A Patrick,Mary Murray,6
+Vincent Furlong,1,9,9,8,6,4,6
+Wade A Kagarise,,0,9,9,6,4,6
+Craig Stedman,,,0,8,5,3,6
+Emil Giordano,,,,0,5,3,6
+Paula A Patrick,,,,,0,6,6
+Mary Murray,,,,,,0,6
+Total,11,11,10,10,8,6,6
+,Judge Of The Court Of Common Pleas - Republican,Judge Of The Superior Court - Republican,,,,,7
+,Vincent Furlong,Emil Giordano,Craig Stedman,Wade A Kagarise,Paula A Patrick,Mary Murray,7
+Vincent Furlong,1,16,13,12,7,5,7
+Emil Giordano,,0,14,14,5,5,7
+Craig Stedman,,,0,11,4,3,7
+Wade A Kagarise,,,,0,3,3,7
+Paula A Patrick,,,,,1,3,7
+Mary Murray,,,,,,0,7
+Total,21,19,16,14,8,5,7
+,Judge Of The Court Of Common Pleas - Republican,Judge Of The Superior Court - Republican,,,,,8
+,Vincent Furlong,Craig Stedman,Emil Giordano,Wade A Kagarise,Mary Murray,Paula A Patrick,8
+Vincent Furlong,0,7,6,4,3,3,8
+Craig Stedman,,0,7,5,2,1,8
+Emil Giordano,,,0,5,2,1,8
+Wade A Kagarise,,,,0,1,0,8
+Mary Murray,,,,,0,2,8
+Paula A Patrick,,,,,,0,8
+Total,9,8,7,5,3,3,8
+,Judge Of The Court Of Common Pleas - Republican,Judge Of The Superior Court - Republican,,,,,9
+,Vincent Furlong,Emil Giordano,Craig Stedman,Paula A Patrick,Wade A Kagarise,Mary Murray,9
+Vincent Furlong,1,17,13,9,8,7,9
+Emil Giordano,,0,11,7,7,5,9
+Craig Stedman,,,0,7,8,6,9
+Paula A Patrick,,,,0,4,5,9
+Wade A Kagarise,,,,,0,2,9
+Mary Murray,,,,,,0,9
+Total,21,17,13,9,8,7,9
+,Judge Of The Court Of Common Pleas - Republican,Judge Of The Superior Court - Republican,,,,,10
+,Vincent Furlong,Craig Stedman,Emil Giordano,Paula A Patrick,Mary Murray,Wade A Kagarise,10
+Vincent Furlong,1,14,13,10,7,8,10
+Craig Stedman,,0,10,8,5,5,10
+Emil Giordano,,,0,8,6,5,10
+Paula A Patrick,,,,1,4,4,10
+Mary Murray,,,,,1,3,10
+Wade A Kagarise,,,,,,0,10
+Total,20,15,13,12,8,8,10
+,Judge Of The Court Of Common Pleas - Republican,Judge Of The Superior Court - Republican,,,,,11
+,Vincent Furlong,Craig Stedman,Emil Giordano,Wade A Kagarise,Paula A Patrick,Mary Murray,11
+Vincent Furlong,2,12,12,11,9,3,11
+Craig Stedman,,0,11,10,7,2,11
+Emil Giordano,,,0,11,9,3,11
+Wade A Kagarise,,,,0,7,3,11
+Paula A Patrick,,,,,0,1,11
+Mary Murray,,,,,,0,11
+Total,17,13,13,12,10,3,11
+,Judge Of The Court Of Common Pleas - Republican,Judge Of The Superior Court - Republican,,,,,12
+,Vincent Furlong,Emil Giordano,Craig Stedman,Paula A Patrick,Wade A Kagarise,Mary Murray,12
+Vincent Furlong,1,16,12,9,8,6,12
+Emil Giordano,,0,12,9,8,6,12
+Craig Stedman,,,0,8,7,6,12
+Paula A Patrick,,,,0,4,5,12
+Wade A Kagarise,,,,,0,2,12
+Mary Murray,,,,,,0,12
+Total,17,16,12,9,9,7,12
+,Judge Of The Court Of Common Pleas - Republican,Judge Of The Superior Court - Republican,,,,,13
+,Vincent Furlong,Emil Giordano,Craig Stedman,Wade A Kagarise,Paula A Patrick,Mary Murray,13
+Vincent Furlong,2,19,17,12,12,7,13
+Emil Giordano,,2,18,14,10,7,13
+Craig Stedman,,,0,16,10,8,13
+Wade A Kagarise,,,,0,6,4,13
+Paula A Patrick,,,,,0,5,13
+Mary Murray,,,,,,0,13
+Total,25,24,21,16,12,9,13
+,Judge Of The Court Of Common Pleas - Republican,Judge Of The Superior Court - Republican,,,,,14
+,Vincent Furlong,Emil Giordano,Craig Stedman,Mary Murray,Paula A Patrick,Wade A Kagarise,14
+Vincent Furlong,0,8,4,4,4,3,14
+Emil Giordano,,0,4,4,3,3,14
+Craig Stedman,,,0,3,2,2,14
+Mary Murray,,,,0,2,1,14
+Paula A Patrick,,,,,0,1,14
+Wade A Kagarise,,,,,,0,14
+Total,9,8,4,4,4,3,14
+,Judge Of The Superior Court - Republican,,,,,Judge Of The Court Of Common Pleas - Republican,15
+,Craig Stedman,Emil Giordano,Mary Murray,Paula A Patrick,Wade A Kagarise,Vincent Furlong,15
+Craig Stedman,0,2,2,2,1,3,15
+Emil Giordano,,0,1,1,1,2,15
+Mary Murray,,,0,2,0,2,15
+Paula A Patrick,,,,0,0,2,15
+Wade A Kagarise,,,,,0,1,15
+Vincent Furlong,,,,,,0,15
+Total,3,2,2,2,1,3,15
+,Judge Of The Court Of Common Pleas - Republican,Judge Of The Superior Court - Republican,,,,,16
+,Vincent Furlong,Emil Giordano,Craig Stedman,Wade A Kagarise,Paula A Patrick,Mary Murray,16
+Vincent Furlong,2,21,18,17,17,7,16
+Emil Giordano,,0,17,15,13,5,16
+Craig Stedman,,,1,15,13,4,16
+Wade A Kagarise,,,,1,11,2,16
+Paula A Patrick,,,,,0,5,16
+Mary Murray,,,,,,0,16
+Total,31,22,20,19,18,7,16
+,Judge Of The Superior Court - Republican,,,,,Judge Of The Court Of Common Pleas - Republican,17
+,Emil Giordano,Craig Stedman,Wade A Kagarise,Paula A Patrick,Mary Murray,Vincent Furlong,17
+Emil Giordano,2,9,9,4,1,9,17
+Craig Stedman,,0,9,5,1,9,17
+Wade A Kagarise,,,0,5,2,10,17
+Paula A Patrick,,,,1,2,5,17
+Mary Murray,,,,,0,1,17
+Vincent Furlong,,,,,,0,17
+Total,12,11,11,7,2,11,17
+,Judge Of The Superior Court - Republican,,,,,Judge Of The Court Of Common Pleas - Republican,18
+,Craig Stedman,Emil Giordano,Wade A Kagarise,Mary Murray,Paula A Patrick,Vincent Furlong,18
+Craig Stedman,0,2,1,0,0,2,18
+Emil Giordano,,0,1,0,0,2,18
+Wade A Kagarise,,,0,0,0,1,18
+Mary Murray,,,,0,0,0,18
+Paula A Patrick,,,,,0,0,18
+Vincent Furlong,,,,,,0,18
+Total,2,2,1,0,0,2,18
+,Judge Of The Court Of Common Pleas - Republican,Judge Of The Superior Court - Republican,,,,,19
+,Vincent Furlong,Emil Giordano,Paula A Patrick,Craig Stedman,Wade A Kagarise,Mary Murray,19
+Vincent Furlong,3,16,13,12,7,5,19
+Emil Giordano,,1,13,14,9,5,19
+Paula A Patrick,,,0,10,5,3,19
+Craig Stedman,,,,0,9,3,19
+Wade A Kagarise,,,,,0,1,19
+Mary Murray,,,,,,0,19
+Total,21,20,15,14,9,5,19
+,Judge Of The Court Of Common Pleas - Republican,Judge Of The Superior Court - Republican,,,,,20
+,Vincent Furlong,Craig Stedman,Emil Giordano,Paula A Patrick,Wade A Kagarise,Mary Murray,20
+Vincent Furlong,0,10,10,8,8,5,20
+Craig Stedman,,2,9,7,8,4,20
+Emil Giordano,,,0,6,7,3,20
+Paula A Patrick,,,,0,5,3,20
+Wade A Kagarise,,,,,0,2,20
+Mary Murray,,,,,,0,20
+Total,13,12,10,8,8,5,20
+,Judge Of The Court Of Common Pleas - Republican,Judge Of The Superior Court - Republican,,,,,21
+,Vincent Furlong,Emil Giordano,Craig Stedman,Wade A Kagarise,Paula A Patrick,Mary Murray,21
+Vincent Furlong,3,31,32,31,20,15,21
+Emil Giordano,,1,27,26,14,12,21
+Craig Stedman,,,0,27,15,13,21
+Wade A Kagarise,,,,0,15,12,21
+Paula A Patrick,,,,,0,8,21
+Mary Murray,,,,,,0,21
+Total,42,33,32,31,21,15,21
+,Judge Of The Superior Court - Republican,,,,,Judge Of The Court Of Common Pleas - Republican,22
+,Emil Giordano,Craig Stedman,Paula A Patrick,Wade A Kagarise,Mary Murray,Vincent Furlong,22
+Emil Giordano,3,9,6,7,3,9,22
+Craig Stedman,,1,6,7,4,8,22
+Paula A Patrick,,,0,5,3,9,22
+Wade A Kagarise,,,,0,2,7,22
+Mary Murray,,,,,0,4,22
+Vincent Furlong,,,,,,1,22
+Total,14,11,9,9,4,13,22
+,Judge Of The Court Of Common Pleas - Republican,Judge Of The Superior Court - Republican,,,,,23
+,Vincent Furlong,Craig Stedman,Emil Giordano,Wade A Kagarise,Paula A Patrick,Mary Murray,23
+Vincent Furlong,1,21,21,19,13,10,23
+Craig Stedman,,1,18,17,8,9,23
+Emil Giordano,,,0,17,8,8,23
+Wade A Kagarise,,,,0,6,8,23
+Paula A Patrick,,,,,0,6,23
+Mary Murray,,,,,,0,23
+Total,29,22,22,20,14,11,23
+,Judge Of The Court Of Common Pleas - Republican,Judge Of The Superior Court - Republican,,,,,24
+,Vincent Furlong,Emil Giordano,Craig Stedman,Wade A Kagarise,Paula A Patrick,Mary Murray,24
+Vincent Furlong,2,28,27,22,16,12,24
+Emil Giordano,,3,24,19,12,8,24
+Craig Stedman,,,0,21,14,12,24
+Wade A Kagarise,,,,0,10,7,24
+Paula A Patrick,,,,,0,11,24
+Mary Murray,,,,,,0,24
+Total,38,34,30,23,18,14,24
+,Judge Of The Court Of Common Pleas - Republican,Judge Of The Superior Court - Republican,,,,,25
+,Vincent Furlong,Craig Stedman,Wade A Kagarise,Paula A Patrick,Emil Giordano,Mary Murray,25
+Vincent Furlong,1,6,5,4,4,1,25
+Craig Stedman,,0,7,4,4,2,25
+Wade A Kagarise,,,0,5,5,3,25
+Paula A Patrick,,,,1,2,3,25
+Emil Giordano,,,,,0,1,25
+Mary Murray,,,,,,0,25
+Total,9,8,8,7,6,3,25
+,Judge Of The Court Of Common Pleas - Republican,Judge Of The Superior Court - Republican,,,,,26
+,Vincent Furlong,Emil Giordano,Craig Stedman,Wade A Kagarise,Paula A Patrick,Mary Murray,26
+Vincent Furlong,1,13,12,6,5,4,26
+Emil Giordano,,0,12,7,5,3,26
+Craig Stedman,,,0,7,4,3,26
+Wade A Kagarise,,,,0,3,2,26
+Paula A Patrick,,,,,0,1,26
+Mary Murray,,,,,,0,26
+Total,16,14,13,7,5,4,26
+,Judge Of The Superior Court - Republican,,,,,Judge Of The Court Of Common Pleas - Republican,27
+,Emil Giordano,Craig Stedman,Paula A Patrick,Wade A Kagarise,Mary Murray,Vincent Furlong,27
+Emil Giordano,0,7,5,6,2,10,27
+Craig Stedman,,0,4,5,1,6,27
+Paula A Patrick,,,1,3,2,4,27
+Wade A Kagarise,,,,0,1,5,27
+Mary Murray,,,,,0,2,27
+Vincent Furlong,,,,,,0,27
+Total,11,7,6,6,2,10,27
+,Judge Of The Court Of Common Pleas - Republican,Judge Of The Superior Court - Republican,,,,,28
+,Vincent Furlong,Emil Giordano,Craig Stedman,Paula A Patrick,Wade A Kagarise,Mary Murray,28
+Vincent Furlong,2,15,14,10,10,7,28
+Emil Giordano,,0,14,9,10,5,28
+Craig Stedman,,,0,8,10,4,28
+Paula A Patrick,,,,0,4,5,28
+Wade A Kagarise,,,,,0,1,28
+Mary Murray,,,,,,0,28
+Total,19,15,14,10,10,7,28
+,Judge Of The Court Of Common Pleas - Republican,Judge Of The Superior Court - Republican,,,,,29
+,Vincent Furlong,Emil Giordano,Craig Stedman,Paula A Patrick,Wade A Kagarise,Mary Murray,29
+Vincent Furlong,2,26,25,21,19,11,29
+Emil Giordano,,2,24,13,17,6,29
+Craig Stedman,,,0,14,18,9,29
+Paula A Patrick,,,,0,9,11,29
+Wade A Kagarise,,,,,0,2,29
+Mary Murray,,,,,,0,29
+Total,38,30,28,22,21,12,29
+,Judge Of The Court Of Common Pleas - Republican,Judge Of The Superior Court - Republican,,,,,30
+,Vincent Furlong,Emil Giordano,Craig Stedman,Paula A Patrick,Wade A Kagarise,Mary Murray,30
+Vincent Furlong,0,13,11,7,6,5,30
+Emil Giordano,,0,10,6,6,4,30
+Craig Stedman,,,0,7,7,5,30
+Paula A Patrick,,,,0,3,5,30
+Wade A Kagarise,,,,,0,1,30
+Mary Murray,,,,,,0,30
+Total,16,13,12,8,7,6,30
+,Judge Of The Court Of Common Pleas - Republican,Judge Of The Superior Court - Republican,,,,,31
+,Vincent Furlong,Craig Stedman,Emil Giordano,Paula A Patrick,Wade A Kagarise,Mary Murray,31
+Vincent Furlong,0,6,5,6,5,3,31
+Craig Stedman,,0,5,4,4,2,31
+Emil Giordano,,,0,4,4,2,31
+Paula A Patrick,,,,0,4,3,31
+Wade A Kagarise,,,,,0,2,31
+Mary Murray,,,,,,0,31
+Total,8,7,6,6,5,3,31
+,Judge Of The Court Of Common Pleas - Republican,Judge Of The Superior Court - Republican,,,,,32
+,Vincent Furlong,Emil Giordano,Paula A Patrick,Craig Stedman,Mary Murray,Wade A Kagarise,32
+Vincent Furlong,0,4,5,3,2,2,32
+Emil Giordano,,0,3,4,2,3,32
+Paula A Patrick,,,0,2,1,1,32
+Craig Stedman,,,,0,2,3,32
+Mary Murray,,,,,0,2,32
+Wade A Kagarise,,,,,,0,32
+Total,6,5,5,4,3,3,32
+,Judge Of The Superior Court - Republican,,,,,Judge Of The Court Of Common Pleas - Republican,33
+,Craig Stedman,Wade A Kagarise,Emil Giordano,Paula A Patrick,Mary Murray,Vincent Furlong,33
+Craig Stedman,0,6,5,5,0,4,33
+Wade A Kagarise,,0,5,5,0,3,33
+Emil Giordano,,,0,4,0,2,33
+Paula A Patrick,,,,0,0,3,33
+Mary Murray,,,,,0,0,33
+Vincent Furlong,,,,,,0,33
+Total,7,6,5,5,0,4,33
+,Judge Of The Superior Court - Republican,,,,,Judge Of The Court Of Common Pleas - Republican,34
+,Emil Giordano,Craig Stedman,Wade A Kagarise,Paula A Patrick,Mary Murray,Vincent Furlong,34
+Emil Giordano,2,6,6,4,0,7,34
+Craig Stedman,,0,6,3,0,5,34
+Wade A Kagarise,,,0,3,0,5,34
+Paula A Patrick,,,,0,0,4,34
+Mary Murray,,,,,0,0,34
+Vincent Furlong,,,,,,0,34
+Total,10,6,6,4,0,7,34
+,Judge Of The Court Of Common Pleas - Republican,Judge Of The Superior Court - Republican,,,,,35
+,Vincent Furlong,Emil Giordano,Craig Stedman,Wade A Kagarise,Paula A Patrick,Mary Murray,35
+Vincent Furlong,2,21,12,8,7,3,35
+Emil Giordano,,0,13,10,5,5,35
+Craig Stedman,,,0,10,6,5,35
+Wade A Kagarise,,,,0,2,3,35
+Paula A Patrick,,,,,0,2,35
+Mary Murray,,,,,,0,35
+Total,27,24,15,10,9,5,35
+,Judge Of The Superior Court - Republican,,,,,Judge Of The Court Of Common Pleas - Republican,36
+,Paula A Patrick,Craig Stedman,Mary Murray,Emil Giordano,Wade A Kagarise,Vincent Furlong,36
+Paula A Patrick,0,2,1,0,0,3,36
+Craig Stedman,,0,1,0,0,2,36
+Mary Murray,,,0,0,0,1,36
+Emil Giordano,,,,0,0,0,36
+Wade A Kagarise,,,,,0,0,36
+Vincent Furlong,,,,,,0,36
+Total,3,2,1,0,0,3,36
+,Judge Of The Superior Court - Republican,,,,,Judge Of The Court Of Common Pleas - Republican,37
+,Emil Giordano,Craig Stedman,Paula A Patrick,Wade A Kagarise,Mary Murray,Vincent Furlong,37
+Emil Giordano,0,7,6,6,2,8,37
+Craig Stedman,,0,4,5,1,6,37
+Paula A Patrick,,,0,4,2,6,37
+Wade A Kagarise,,,,0,1,5,37
+Mary Murray,,,,,0,2,37
+Vincent Furlong,,,,,,1,37
+Total,9,7,7,7,2,9,37
+,Judge Of The Superior Court - Republican,,,,,Judge Of The Court Of Common Pleas - Republican,38
+,Emil Giordano,Craig Stedman,Mary Murray,Wade A Kagarise,Paula A Patrick,Vincent Furlong,38
+Emil Giordano,0,3,2,2,1,5,38
+Craig Stedman,,0,2,2,1,3,38
+Mary Murray,,,0,1,1,2,38
+Wade A Kagarise,,,,0,0,2,38
+Paula A Patrick,,,,,0,1,38
+Vincent Furlong,,,,,,0,38
+Total,5,3,2,2,1,5,38
+,Judge Of The Court Of Common Pleas - Republican,Judge Of The Superior Court - Republican,,,,,39
+,Vincent Furlong,Craig Stedman,Emil Giordano,Wade A Kagarise,Paula A Patrick,Mary Murray,39
+Vincent Furlong,5,34,32,31,23,9,39
+Craig Stedman,,0,31,31,16,7,39
+Emil Giordano,,,0,28,15,6,39
+Wade A Kagarise,,,,0,15,6,39
+Paula A Patrick,,,,,2,6,39
+Mary Murray,,,,,,0,39
+Total,49,37,35,35,26,9,39
+,Judge Of The Superior Court - Republican,,,,,Judge Of The Court Of Common Pleas - Republican,40
+,Emil Giordano,Craig Stedman,Paula A Patrick,Mary Murray,Wade A Kagarise,Vincent Furlong,40
+Emil Giordano,0,4,4,3,1,5,40
+Craig Stedman,,0,4,3,1,3,40
+Paula A Patrick,,,0,3,1,3,40
+Mary Murray,,,,0,0,2,40
+Wade A Kagarise,,,,,0,1,40
+Vincent Furlong,,,,,,0,40
+Total,6,4,4,3,1,5,40
+,Judge Of The Court Of Common Pleas - Republican,Judge Of The Superior Court - Republican,,,,,41
+,Vincent Furlong,Emil Giordano,Craig Stedman,Wade A Kagarise,Paula A Patrick,Mary Murray,41
+Vincent Furlong,14,40,34,29,22,15,41
+Emil Giordano,,1,33,29,18,11,41
+Craig Stedman,,,1,27,16,11,41
+Wade A Kagarise,,,,0,14,7,41
+Paula A Patrick,,,,,1,7,41
+Mary Murray,,,,,,0,41
+Total,64,44,37,31,25,15,41
+,Judge Of The Superior Court - Republican,,,,,Judge Of The Court Of Common Pleas - Republican,42
+,Emil Giordano,Craig Stedman,Wade A Kagarise,Paula A Patrick,Mary Murray,Vincent Furlong,42
+Emil Giordano,0,10,9,5,2,9,42
+Craig Stedman,,0,8,3,0,7,42
+Wade A Kagarise,,,1,4,1,7,42
+Paula A Patrick,,,,0,1,5,42
+Mary Murray,,,,,0,1,42
+Vincent Furlong,,,,,,1,42
+Total,13,10,10,6,2,11,42
+,Judge Of The Superior Court - Republican,,,,,Judge Of The Court Of Common Pleas - Republican,43
+,Emil Giordano,Craig Stedman,Wade A Kagarise,Paula A Patrick,Mary Murray,Vincent Furlong,43
+Emil Giordano,1,8,7,5,2,7,43
+Craig Stedman,,0,7,5,2,7,43
+Wade A Kagarise,,,0,4,1,6,43
+Paula A Patrick,,,,0,1,4,43
+Mary Murray,,,,,0,2,43
+Vincent Furlong,,,,,,1,43
+Total,9,8,7,5,2,8,43
+,Judge Of The Court Of Common Pleas - Republican,Judge Of The Superior Court - Republican,,,,,44
+,Vincent Furlong,Emil Giordano,Craig Stedman,Wade A Kagarise,Mary Murray,Paula A Patrick,44
+Vincent Furlong,0,8,6,6,3,3,44
+Emil Giordano,,0,6,5,3,3,44
+Craig Stedman,,,1,5,2,1,44
+Wade A Kagarise,,,,0,1,0,44
+Mary Murray,,,,,0,2,44
+Paula A Patrick,,,,,,0,44
+Total,9,8,7,6,3,3,44

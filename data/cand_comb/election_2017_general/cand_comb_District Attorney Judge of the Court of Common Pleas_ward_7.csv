@@ -1,0 +1,337 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10,col_11,col_12,division
+,District Attorney,,Judge Of The Court Of Common Pleas,,,,,,,,,All
+,Lawrence S Krasner,Beth Grossman,Vincent Furlong,Deborah Canty,Stella Tsai,Shanese Johnson,Deborah Cianfrani,Mark B Cohen,Vikki Kristiansson,Lucretia C Clemons,Zac Shaffer,All
+Lawrence S Krasner,22,0,402,423,415,417,407,410,417,409,405,All
+Beth Grossman,,7,45,12,11,10,12,14,9,10,12,All
+Vincent Furlong,,,3,415,407,410,409,405,411,409,412,All
+Deborah Canty,,,,4,419,424,419,415,426,421,419,All
+Stella Tsai,,,,,4,414,411,409,417,415,414,All
+Shanese Johnson,,,,,,1,414,413,419,417,415,All
+Deborah Cianfrani,,,,,,,7,409,415,411,412,All
+Mark B Cohen,,,,,,,,5,414,411,410,All
+Vikki Kristiansson,,,,,,,,,0,419,417,All
+Lucretia C Clemons,,,,,,,,,,1,414,All
+Zac Shaffer,,,,,,,,,,,2,All
+Total,481,59,458,446,437,436,434,434,434,427,426,All
+,Judge Of The Court Of Common Pleas,,,,,,,,,District Attorney,,1
+,Deborah Cianfrani,Mark B Cohen,Shanese Johnson,Deborah Canty,Lucretia C Clemons,Stella Tsai,Vikki Kristiansson,Vincent Furlong,Zac Shaffer,Lawrence S Krasner,Beth Grossman,1
+Deborah Cianfrani,3,15,15,15,15,14,15,14,14,15,0,1
+Mark B Cohen,,0,15,15,15,14,15,14,14,15,1,1
+Shanese Johnson,,,0,15,15,14,15,14,14,16,0,1
+Deborah Canty,,,,0,15,14,15,14,14,15,0,1
+Lucretia C Clemons,,,,,0,14,15,14,14,15,0,1
+Stella Tsai,,,,,,1,14,14,14,14,0,1
+Vikki Kristiansson,,,,,,,0,14,14,15,0,1
+Vincent Furlong,,,,,,,,0,14,14,1,1
+Zac Shaffer,,,,,,,,,0,14,0,1
+Lawrence S Krasner,,,,,,,,,,1,0,1
+Beth Grossman,,,,,,,,,,,0,1
+Total,18,16,16,15,15,15,15,15,14,17,2,1
+,Judge Of The Court Of Common Pleas,,,,,,,,,District Attorney,,2
+,Deborah Cianfrani,Mark B Cohen,Vincent Furlong,Deborah Canty,Lucretia C Clemons,Shanese Johnson,Stella Tsai,Vikki Kristiansson,Zac Shaffer,Lawrence S Krasner,Beth Grossman,2
+Deborah Cianfrani,0,10,10,10,10,10,10,10,10,9,0,2
+Mark B Cohen,,0,9,10,10,10,10,10,10,10,0,2
+Vincent Furlong,,,0,9,9,9,9,9,9,9,1,2
+Deborah Canty,,,,0,10,10,10,10,10,9,0,2
+Lucretia C Clemons,,,,,0,10,10,10,10,9,0,2
+Shanese Johnson,,,,,,0,10,10,10,9,0,2
+Stella Tsai,,,,,,,0,10,10,9,0,2
+Vikki Kristiansson,,,,,,,,0,10,9,0,2
+Zac Shaffer,,,,,,,,,0,9,0,2
+Lawrence S Krasner,,,,,,,,,,1,0,2
+Beth Grossman,,,,,,,,,,,0,2
+Total,11,11,11,10,10,10,10,10,10,11,1,2
+,Judge Of The Court Of Common Pleas,,,,,,,,,District Attorney,,3
+,Zac Shaffer,Deborah Canty,Deborah Cianfrani,Lucretia C Clemons,Mark B Cohen,Shanese Johnson,Stella Tsai,Vikki Kristiansson,Vincent Furlong,Lawrence S Krasner,Beth Grossman,3
+Zac Shaffer,1,5,5,5,5,5,5,5,5,5,0,3
+Deborah Canty,,0,5,5,5,5,5,5,5,5,0,3
+Deborah Cianfrani,,,0,5,5,5,5,5,5,5,0,3
+Lucretia C Clemons,,,,0,5,5,5,5,5,5,0,3
+Mark B Cohen,,,,,0,5,5,5,5,5,0,3
+Shanese Johnson,,,,,,0,5,5,5,5,0,3
+Stella Tsai,,,,,,,0,5,5,5,0,3
+Vikki Kristiansson,,,,,,,,0,5,5,0,3
+Vincent Furlong,,,,,,,,,0,5,0,3
+Lawrence S Krasner,,,,,,,,,,0,0,3
+Beth Grossman,,,,,,,,,,,0,3
+Total,6,5,5,5,5,5,5,5,5,5,0,3
+,Judge Of The Court Of Common Pleas,,,,,,,,,District Attorney,,4
+,Mark B Cohen,Vincent Furlong,Deborah Cianfrani,Vikki Kristiansson,Zac Shaffer,Deborah Canty,Shanese Johnson,Stella Tsai,Lucretia C Clemons,Lawrence S Krasner,Beth Grossman,4
+Mark B Cohen,1,39,39,39,39,38,38,38,37,39,1,4
+Vincent Furlong,,0,38,38,39,38,38,38,37,38,2,4
+Deborah Cianfrani,,,0,38,38,38,38,38,37,38,1,4
+Vikki Kristiansson,,,,0,38,37,37,37,37,39,0,4
+Zac Shaffer,,,,,0,38,38,38,37,38,1,4
+Deborah Canty,,,,,,0,38,38,37,37,1,4
+Shanese Johnson,,,,,,,0,38,37,37,1,4
+Stella Tsai,,,,,,,,0,37,37,1,4
+Lucretia C Clemons,,,,,,,,,0,37,0,4
+Lawrence S Krasner,,,,,,,,,,0,0,4
+Beth Grossman,,,,,,,,,,,0,4
+Total,41,40,39,39,39,38,38,38,37,39,2,4
+,District Attorney,,Judge Of The Court Of Common Pleas,,,,,,,,,5
+,Lawrence S Krasner,Beth Grossman,Vincent Furlong,Lucretia C Clemons,Stella Tsai,Vikki Kristiansson,Zac Shaffer,Deborah Canty,Deborah Cianfrani,Mark B Cohen,Shanese Johnson,5
+Lawrence S Krasner,2,0,42,42,42,42,43,42,41,41,41,5
+Beth Grossman,,0,2,0,0,0,0,0,0,0,0,5
+Vincent Furlong,,,1,43,42,42,42,42,40,41,41,5
+Lucretia C Clemons,,,,0,43,43,43,43,41,42,42,5
+Stella Tsai,,,,,0,44,43,43,41,42,42,5
+Vikki Kristiansson,,,,,,0,43,43,41,42,42,5
+Zac Shaffer,,,,,,,0,43,41,42,42,5
+Deborah Canty,,,,,,,,0,41,42,42,5
+Deborah Cianfrani,,,,,,,,,1,41,41,5
+Mark B Cohen,,,,,,,,,,0,42,5
+Shanese Johnson,,,,,,,,,,,0,5
+Total,46,2,46,44,44,44,44,43,43,42,42,5
+,Judge Of The Court Of Common Pleas,,,,,,,,,District Attorney,,6
+,Vincent Furlong,Mark B Cohen,Stella Tsai,Vikki Kristiansson,Deborah Canty,Deborah Cianfrani,Lucretia C Clemons,Shanese Johnson,Zac Shaffer,Lawrence S Krasner,Beth Grossman,6
+Vincent Furlong,0,20,19,20,19,20,19,19,19,19,3,6
+Mark B Cohen,,0,20,21,20,19,20,20,19,21,0,6
+Stella Tsai,,,1,20,20,19,20,20,19,19,0,6
+Vikki Kristiansson,,,,0,20,19,20,20,19,20,0,6
+Deborah Canty,,,,,0,19,20,20,19,19,0,6
+Deborah Cianfrani,,,,,,0,19,19,19,18,1,6
+Lucretia C Clemons,,,,,,,0,20,19,19,0,6
+Shanese Johnson,,,,,,,,0,19,19,0,6
+Zac Shaffer,,,,,,,,,0,18,0,6
+Lawrence S Krasner,,,,,,,,,,0,0,6
+Beth Grossman,,,,,,,,,,,1,6
+Total,23,22,21,21,20,20,20,20,19,21,4,6
+,Judge Of The Court Of Common Pleas,,,,,,,,,District Attorney,,7
+,Stella Tsai,Deborah Canty,Lucretia C Clemons,Shanese Johnson,Deborah Cianfrani,Zac Shaffer,Mark B Cohen,Vikki Kristiansson,Vincent Furlong,Lawrence S Krasner,Beth Grossman,7
+Stella Tsai,0,19,20,19,19,19,18,18,18,18,2,7
+Deborah Canty,,0,19,20,19,19,18,18,18,19,1,7
+Lucretia C Clemons,,,0,19,19,19,18,18,18,18,1,7
+Shanese Johnson,,,,0,19,19,18,18,18,19,1,7
+Deborah Cianfrani,,,,,0,19,18,18,18,18,1,7
+Zac Shaffer,,,,,,0,18,18,18,18,1,7
+Mark B Cohen,,,,,,,0,18,17,18,0,7
+Vikki Kristiansson,,,,,,,,0,17,18,0,7
+Vincent Furlong,,,,,,,,,0,17,1,7
+Lawrence S Krasner,,,,,,,,,,0,0,7
+Beth Grossman,,,,,,,,,,,0,7
+Total,21,20,20,20,19,19,18,18,18,19,2,7
+,District Attorney,,Judge Of The Court Of Common Pleas,,,,,,,,,8
+,Lawrence S Krasner,Beth Grossman,Shanese Johnson,Vikki Kristiansson,Deborah Canty,Mark B Cohen,Lucretia C Clemons,Vincent Furlong,Zac Shaffer,Deborah Cianfrani,Stella Tsai,8
+Lawrence S Krasner,3,0,35,34,33,33,32,29,31,31,30,8
+Beth Grossman,,0,2,2,2,2,2,5,2,2,2,8
+Shanese Johnson,,,0,35,35,35,35,32,34,34,32,8
+Vikki Kristiansson,,,,0,35,34,35,32,34,33,32,8
+Deborah Canty,,,,,0,34,35,32,34,33,32,8
+Mark B Cohen,,,,,,0,34,32,33,33,32,8
+Lucretia C Clemons,,,,,,,0,32,34,33,32,8
+Vincent Furlong,,,,,,,,0,32,31,31,8
+Zac Shaffer,,,,,,,,,1,33,32,8
+Deborah Cianfrani,,,,,,,,,,0,31,8
+Stella Tsai,,,,,,,,,,,0,8
+Total,43,5,38,37,36,36,35,35,35,34,33,8
+,Judge Of The Court Of Common Pleas,,,,,,,,,District Attorney,,9
+,Vincent Furlong,Deborah Canty,Deborah Cianfrani,Shanese Johnson,Zac Shaffer,Lucretia C Clemons,Stella Tsai,Vikki Kristiansson,Mark B Cohen,Lawrence S Krasner,Beth Grossman,9
+Vincent Furlong,0,21,22,21,22,21,21,21,21,21,3,9
+Deborah Canty,,1,22,22,22,22,22,22,21,23,0,9
+Deborah Cianfrani,,,0,22,23,22,22,22,21,22,0,9
+Shanese Johnson,,,,1,22,22,22,22,21,22,0,9
+Zac Shaffer,,,,,0,22,22,22,21,22,0,9
+Lucretia C Clemons,,,,,,0,22,22,21,22,0,9
+Stella Tsai,,,,,,,0,22,21,22,0,9
+Vikki Kristiansson,,,,,,,,0,21,22,0,9
+Mark B Cohen,,,,,,,,,0,21,0,9
+Lawrence S Krasner,,,,,,,,,,1,0,9
+Beth Grossman,,,,,,,,,,,1,9
+Total,25,24,23,23,23,22,22,22,21,24,4,9
+,District Attorney,,Judge Of The Court Of Common Pleas,,,,,,,,,10
+,Lawrence S Krasner,Beth Grossman,Shanese Johnson,Deborah Cianfrani,Mark B Cohen,Vikki Kristiansson,Vincent Furlong,Deborah Canty,Lucretia C Clemons,Stella Tsai,Zac Shaffer,10
+Lawrence S Krasner,2,0,15,13,13,14,13,13,13,13,13,10
+Beth Grossman,,1,3,3,4,3,3,3,3,3,3,10
+Shanese Johnson,,,0,16,16,16,16,16,16,16,16,10
+Deborah Cianfrani,,,,1,16,16,16,16,16,16,16,10
+Mark B Cohen,,,,,0,16,16,16,16,16,16,10
+Vikki Kristiansson,,,,,,0,16,16,16,16,16,10
+Vincent Furlong,,,,,,,1,16,16,16,16,10
+Deborah Canty,,,,,,,,0,16,16,16,10
+Lucretia C Clemons,,,,,,,,,0,16,16,10
+Stella Tsai,,,,,,,,,,0,16,10
+Zac Shaffer,,,,,,,,,,,0,10
+Total,18,5,18,17,17,17,17,16,16,16,16,10
+,Judge Of The Court Of Common Pleas,,,,,,,,,District Attorney,,11
+,Vincent Furlong,Deborah Canty,Deborah Cianfrani,Mark B Cohen,Stella Tsai,Lucretia C Clemons,Shanese Johnson,Vikki Kristiansson,Zac Shaffer,Lawrence S Krasner,Beth Grossman,11
+Vincent Furlong,0,10,10,9,9,9,9,9,9,10,2,11
+Deborah Canty,,0,10,9,9,9,9,9,9,10,0,11
+Deborah Cianfrani,,,0,9,9,9,9,9,9,10,0,11
+Mark B Cohen,,,,1,9,9,9,9,9,9,0,11
+Stella Tsai,,,,,0,9,9,9,9,10,0,11
+Lucretia C Clemons,,,,,,0,9,9,9,9,0,11
+Shanese Johnson,,,,,,,0,9,9,9,0,11
+Vikki Kristiansson,,,,,,,,0,9,9,0,11
+Zac Shaffer,,,,,,,,,0,9,0,11
+Lawrence S Krasner,,,,,,,,,,0,0,11
+Beth Grossman,,,,,,,,,,,0,11
+Total,12,10,10,10,10,9,9,9,9,11,2,11
+,District Attorney,,Judge Of The Court Of Common Pleas,,,,,,,,,12
+,Lawrence S Krasner,Beth Grossman,Vincent Furlong,Stella Tsai,Lucretia C Clemons,Deborah Canty,Shanese Johnson,Vikki Kristiansson,Zac Shaffer,Deborah Cianfrani,Mark B Cohen,12
+Lawrence S Krasner,1,0,26,28,27,26,26,26,26,25,25,12
+Beth Grossman,,0,3,0,0,0,0,0,0,0,0,12
+Vincent Furlong,,,0,26,26,26,25,26,26,25,24,12
+Stella Tsai,,,,0,26,26,25,26,26,25,24,12
+Lucretia C Clemons,,,,,0,26,26,26,26,25,25,12
+Deborah Canty,,,,,,0,25,26,26,25,24,12
+Shanese Johnson,,,,,,,0,25,25,25,25,12
+Vikki Kristiansson,,,,,,,,0,26,25,24,12
+Zac Shaffer,,,,,,,,,0,25,24,12
+Deborah Cianfrani,,,,,,,,,,0,24,12
+Mark B Cohen,,,,,,,,,,,0,12
+Total,30,3,29,28,27,26,26,26,26,25,25,12
+,District Attorney,,Judge Of The Court Of Common Pleas,,,,,,,,,13
+,Lawrence S Krasner,Beth Grossman,Shanese Johnson,Deborah Canty,Deborah Cianfrani,Stella Tsai,Vikki Kristiansson,Vincent Furlong,Zac Shaffer,Lucretia C Clemons,Mark B Cohen,13
+Lawrence S Krasner,0,0,8,7,7,7,7,7,7,5,5,13
+Beth Grossman,,0,0,0,0,0,0,0,0,0,0,13
+Shanese Johnson,,,0,7,7,7,7,7,7,5,5,13
+Deborah Canty,,,,0,7,7,7,7,7,5,5,13
+Deborah Cianfrani,,,,,0,7,7,7,7,5,5,13
+Stella Tsai,,,,,,0,7,7,7,5,5,13
+Vikki Kristiansson,,,,,,,0,7,7,5,5,13
+Vincent Furlong,,,,,,,,0,7,5,5,13
+Zac Shaffer,,,,,,,,,0,5,5,13
+Lucretia C Clemons,,,,,,,,,,0,5,13
+Mark B Cohen,,,,,,,,,,,0,13
+Total,8,0,8,7,7,7,7,7,7,5,5,13
+,District Attorney,,Judge Of The Court Of Common Pleas,,,,,,,,,14
+,Lawrence S Krasner,Beth Grossman,Deborah Canty,Deborah Cianfrani,Vincent Furlong,Shanese Johnson,Stella Tsai,Lucretia C Clemons,Mark B Cohen,Zac Shaffer,Vikki Kristiansson,14
+Lawrence S Krasner,2,0,20,18,18,19,18,17,17,17,16,14
+Beth Grossman,,0,1,2,3,1,1,1,1,1,1,14
+Deborah Canty,,,0,20,20,19,19,19,19,18,18,14
+Deborah Cianfrani,,,,1,19,18,19,19,19,18,18,14
+Vincent Furlong,,,,,0,19,18,19,18,18,18,14
+Shanese Johnson,,,,,,0,18,18,18,19,18,14
+Stella Tsai,,,,,,,1,18,19,18,18,14
+Lucretia C Clemons,,,,,,,,1,18,18,18,14
+Mark B Cohen,,,,,,,,,0,18,18,14
+Zac Shaffer,,,,,,,,,,0,18,14
+Vikki Kristiansson,,,,,,,,,,,0,14
+Total,25,4,22,22,22,21,21,20,19,19,18,14
+,District Attorney,,Judge Of The Court Of Common Pleas,,,,,,,,,15
+,Lawrence S Krasner,Beth Grossman,Deborah Canty,Deborah Cianfrani,Stella Tsai,Lucretia C Clemons,Mark B Cohen,Shanese Johnson,Vikki Kristiansson,Zac Shaffer,Vincent Furlong,15
+Lawrence S Krasner,1,0,9,8,9,8,8,8,8,8,7,15
+Beth Grossman,,0,0,0,0,0,0,0,0,0,0,15
+Deborah Canty,,,0,8,8,8,8,8,8,8,7,15
+Deborah Cianfrani,,,,1,8,8,8,8,8,8,7,15
+Stella Tsai,,,,,0,8,8,8,8,8,7,15
+Lucretia C Clemons,,,,,,0,8,8,8,8,7,15
+Mark B Cohen,,,,,,,0,8,8,8,7,15
+Shanese Johnson,,,,,,,,0,8,8,7,15
+Vikki Kristiansson,,,,,,,,,0,8,7,15
+Zac Shaffer,,,,,,,,,,0,7,15
+Vincent Furlong,,,,,,,,,,,0,15
+Total,11,0,9,9,9,8,8,8,8,8,7,15
+,District Attorney,,Judge Of The Court Of Common Pleas,,,,,,,,,16
+,Lawrence S Krasner,Beth Grossman,Deborah Canty,Shanese Johnson,Lucretia C Clemons,Mark B Cohen,Vikki Kristiansson,Vincent Furlong,Deborah Cianfrani,Stella Tsai,Zac Shaffer,16
+Lawrence S Krasner,0,0,8,7,8,8,7,6,7,7,7,16
+Beth Grossman,,2,0,0,0,0,0,1,0,0,0,16
+Deborah Canty,,,0,8,7,7,8,6,7,7,7,16
+Shanese Johnson,,,,0,7,7,8,7,7,7,7,16
+Lucretia C Clemons,,,,,0,7,7,6,7,7,7,16
+Mark B Cohen,,,,,,0,7,6,7,7,7,16
+Vikki Kristiansson,,,,,,,0,6,7,7,7,16
+Vincent Furlong,,,,,,,,0,6,6,6,16
+Deborah Cianfrani,,,,,,,,,0,7,7,16
+Stella Tsai,,,,,,,,,,0,7,16
+Zac Shaffer,,,,,,,,,,,0,16
+Total,10,3,9,9,8,8,8,8,7,7,7,16
+,Judge Of The Court Of Common Pleas,,,,,,,,,District Attorney,,17
+,Deborah Canty,Vincent Furlong,Deborah Cianfrani,Lucretia C Clemons,Mark B Cohen,Shanese Johnson,Stella Tsai,Vikki Kristiansson,Zac Shaffer,Lawrence S Krasner,Beth Grossman,17
+Deborah Canty,2,40,40,40,40,40,40,40,40,40,1,17
+Vincent Furlong,,0,40,40,40,40,40,40,40,39,3,17
+Deborah Cianfrani,,,0,40,40,40,40,40,40,39,1,17
+Lucretia C Clemons,,,,0,40,40,40,40,40,39,1,17
+Mark B Cohen,,,,,0,40,40,40,40,39,1,17
+Shanese Johnson,,,,,,0,40,40,40,39,1,17
+Stella Tsai,,,,,,,0,40,40,39,1,17
+Vikki Kristiansson,,,,,,,,0,40,39,1,17
+Zac Shaffer,,,,,,,,,0,39,1,17
+Lawrence S Krasner,,,,,,,,,,0,0,17
+Beth Grossman,,,,,,,,,,,0,17
+Total,43,42,40,40,40,40,40,40,40,40,3,17
+,Judge Of The Court Of Common Pleas,,,,,,,,,District Attorney,,18
+,Deborah Canty,Mark B Cohen,Deborah Cianfrani,Lucretia C Clemons,Vikki Kristiansson,Vincent Furlong,Zac Shaffer,Shanese Johnson,Stella Tsai,Lawrence S Krasner,Beth Grossman,18
+Deborah Canty,0,9,9,9,9,9,9,8,8,9,1,18
+Mark B Cohen,,1,9,9,9,9,9,8,8,8,1,18
+Deborah Cianfrani,,,0,9,9,9,9,8,8,8,1,18
+Lucretia C Clemons,,,,0,9,9,9,8,8,8,1,18
+Vikki Kristiansson,,,,,0,9,9,8,8,8,1,18
+Vincent Furlong,,,,,,0,9,8,8,8,1,18
+Zac Shaffer,,,,,,,0,8,8,8,1,18
+Shanese Johnson,,,,,,,,0,8,8,0,18
+Stella Tsai,,,,,,,,,0,8,0,18
+Lawrence S Krasner,,,,,,,,,,0,0,18
+Beth Grossman,,,,,,,,,,,0,18
+Total,10,10,9,9,9,9,9,8,8,9,1,18
+,District Attorney,,Judge Of The Court Of Common Pleas,,,,,,,,,19
+,Lawrence S Krasner,Beth Grossman,Mark B Cohen,Deborah Canty,Shanese Johnson,Stella Tsai,Vikki Kristiansson,Vincent Furlong,Deborah Cianfrani,Lucretia C Clemons,Zac Shaffer,19
+Lawrence S Krasner,1,0,10,10,10,9,10,10,9,9,9,19
+Beth Grossman,,0,0,0,0,1,0,0,0,0,0,19
+Mark B Cohen,,,1,10,10,9,9,10,9,9,9,19
+Deborah Canty,,,,0,10,9,9,10,9,9,9,19
+Shanese Johnson,,,,,0,9,9,10,9,9,9,19
+Stella Tsai,,,,,,0,9,9,9,9,9,19
+Vikki Kristiansson,,,,,,,0,9,9,9,9,19
+Vincent Furlong,,,,,,,,0,9,9,9,19
+Deborah Cianfrani,,,,,,,,,0,9,9,19
+Lucretia C Clemons,,,,,,,,,,0,9,19
+Zac Shaffer,,,,,,,,,,,0,19
+Total,12,1,11,10,10,10,10,10,9,9,9,19
+,Judge Of The Court Of Common Pleas,,,,,,,,,District Attorney,,20
+,Vincent Furlong,Stella Tsai,Mark B Cohen,Lucretia C Clemons,Deborah Canty,Deborah Cianfrani,Shanese Johnson,Vikki Kristiansson,Zac Shaffer,Lawrence S Krasner,Beth Grossman,20
+Vincent Furlong,0,15,15,15,15,15,15,15,14,15,5,20
+Stella Tsai,,1,16,15,15,15,15,15,14,17,0,20
+Mark B Cohen,,,0,15,15,15,15,15,14,16,1,20
+Lucretia C Clemons,,,,0,15,15,15,15,14,16,0,20
+Deborah Canty,,,,,0,15,15,15,14,15,0,20
+Deborah Cianfrani,,,,,,0,15,15,14,15,0,20
+Shanese Johnson,,,,,,,0,15,14,15,0,20
+Vikki Kristiansson,,,,,,,,0,14,15,0,20
+Zac Shaffer,,,,,,,,,0,14,0,20
+Lawrence S Krasner,,,,,,,,,,1,0,20
+Beth Grossman,,,,,,,,,,,1,20
+Total,20,18,17,16,15,15,15,15,14,19,7,20
+,District Attorney,,Judge Of The Court Of Common Pleas,,,,,,,,,21
+,Lawrence S Krasner,Beth Grossman,Vincent Furlong,Deborah Canty,Vikki Kristiansson,Lucretia C Clemons,Mark B Cohen,Shanese Johnson,Stella Tsai,Zac Shaffer,Deborah Cianfrani,21
+Lawrence S Krasner,4,0,24,25,25,24,24,24,25,24,23,21
+Beth Grossman,,0,2,1,1,1,1,1,0,1,0,21
+Vincent Furlong,,,1,25,25,25,25,25,24,25,23,21
+Deborah Canty,,,,0,26,25,25,25,24,25,23,21
+Vikki Kristiansson,,,,,0,25,25,25,24,25,23,21
+Lucretia C Clemons,,,,,,0,25,25,24,25,23,21
+Mark B Cohen,,,,,,,0,25,24,25,23,21
+Shanese Johnson,,,,,,,,0,24,25,23,21
+Stella Tsai,,,,,,,,,0,24,23,21
+Zac Shaffer,,,,,,,,,,0,23,21
+Deborah Cianfrani,,,,,,,,,,,0,21
+Total,30,2,27,26,26,25,25,25,25,25,23,21
+,Judge Of The Court Of Common Pleas,,,,,,,,,District Attorney,,22
+,Deborah Canty,Mark B Cohen,Vikki Kristiansson,Vincent Furlong,Zac Shaffer,Deborah Cianfrani,Shanese Johnson,Stella Tsai,Lucretia C Clemons,Lawrence S Krasner,Beth Grossman,22
+Deborah Canty,1,19,20,18,19,19,19,18,18,19,1,22
+Mark B Cohen,,0,18,17,19,18,17,18,17,19,1,22
+Vikki Kristiansson,,,0,18,18,19,19,18,18,19,0,22
+Vincent Furlong,,,,0,18,18,18,17,17,17,2,22
+Zac Shaffer,,,,,0,18,18,18,17,18,1,22
+Deborah Cianfrani,,,,,,0,18,17,17,18,0,22
+Shanese Johnson,,,,,,,0,18,18,18,0,22
+Stella Tsai,,,,,,,,0,18,19,0,22
+Lucretia C Clemons,,,,,,,,,0,18,0,22
+Lawrence S Krasner,,,,,,,,,,0,0,22
+Beth Grossman,,,,,,,,,,,0,22
+Total,22,20,20,20,20,19,19,19,18,20,3,22
+,District Attorney,,Judge Of The Court Of Common Pleas,,,,,,,,,23
+,Lawrence S Krasner,Beth Grossman,Deborah Canty,Deborah Cianfrani,Stella Tsai,Vikki Kristiansson,Vincent Furlong,Lucretia C Clemons,Shanese Johnson,Zac Shaffer,Mark B Cohen,23
+Lawrence S Krasner,2,0,10,10,10,10,8,9,8,8,6,23
+Beth Grossman,,1,0,0,0,0,2,0,0,0,0,23
+Deborah Canty,,,0,9,10,10,8,9,8,8,6,23
+Deborah Cianfrani,,,,0,9,9,7,8,8,7,6,23
+Stella Tsai,,,,,0,10,8,9,8,8,6,23
+Vikki Kristiansson,,,,,,0,8,9,8,8,6,23
+Vincent Furlong,,,,,,,0,8,7,8,6,23
+Lucretia C Clemons,,,,,,,,0,8,8,6,23
+Shanese Johnson,,,,,,,,,0,7,6,23
+Zac Shaffer,,,,,,,,,,0,6,23
+Mark B Cohen,,,,,,,,,,,1,23
+Total,13,3,10,10,10,10,10,9,8,8,7,23

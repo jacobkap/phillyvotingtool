@@ -1,0 +1,31 @@
+col_1,col_2,col_3,division
+,Sheriff - Republican,Judge Of The Commonwealth Court - Republican,1
+,Christopher Sawyer,Paul Lalley,1
+Christopher Sawyer,0,3,1
+Paul Lalley,,0,1
+Total,3,3,1
+,Sheriff - Republican,Judge Of The Commonwealth Court - Republican,4
+,Christopher Sawyer,Paul Lalley,4
+Christopher Sawyer,0,2,4
+Paul Lalley,,0,4
+Total,2,2,4
+,Sheriff - Republican,Judge Of The Commonwealth Court - Republican,6
+,Christopher Sawyer,Paul Lalley,6
+Christopher Sawyer,1,0,6
+Paul Lalley,,0,6
+Total,1,0,6
+,Judge Of The Commonwealth Court - Republican,Sheriff - Republican,7
+,Paul Lalley,Christopher Sawyer,7
+Paul Lalley,2,0,7
+Christopher Sawyer,,0,7
+Total,2,0,7
+,Sheriff - Republican,Judge Of The Commonwealth Court - Republican,10
+,Christopher Sawyer,Paul Lalley,10
+Christopher Sawyer,0,3,10
+Paul Lalley,,0,10
+Total,3,3,10
+,Judge Of The Commonwealth Court - Republican,Sheriff - Republican,All
+,Paul Lalley,Christopher Sawyer,All
+Paul Lalley,2,8,All
+Christopher Sawyer,,1,All
+Total,10,9,All

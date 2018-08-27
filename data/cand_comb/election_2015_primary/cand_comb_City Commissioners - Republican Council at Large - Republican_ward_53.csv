@@ -1,0 +1,265 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,division
+,City Commissioners - Republican,Council At Large - Republican,,,,,,,1
+,Al Schmidt,Matt Wolfe,Al Taubenberger,Daniel Tinney,David Oh,Dennis M O Brien,James Williams,Terry Tracy,1
+Al Schmidt,0,2,1,1,1,1,1,0,1
+Matt Wolfe,,0,1,0,0,1,1,0,1
+Al Taubenberger,,,0,0,0,1,1,0,1
+Daniel Tinney,,,,0,0,0,0,0,1
+David Oh,,,,,0,0,0,0,1
+Dennis M O Brien,,,,,,0,1,0,1
+James Williams,,,,,,,0,0,1
+Terry Tracy,,,,,,,,0,1
+Total,4,2,1,1,1,1,1,0,1
+,City Commissioners - Republican,Council At Large - Republican,,,,,,,2
+,Al Schmidt,David Oh,Dennis M O Brien,James Williams,Matt Wolfe,Terry Tracy,Al Taubenberger,Daniel Tinney,2
+Al Schmidt,0,2,1,1,1,1,0,0,2
+David Oh,,0,1,1,1,1,0,0,2
+Dennis M O Brien,,,0,0,1,0,0,0,2
+James Williams,,,,0,0,1,0,0,2
+Matt Wolfe,,,,,0,0,0,0,2
+Terry Tracy,,,,,,0,0,0,2
+Al Taubenberger,,,,,,,0,0,2
+Daniel Tinney,,,,,,,,0,2
+Total,2,2,1,1,1,1,0,0,2
+,City Commissioners - Republican,Council At Large - Republican,,,,,,,3
+,Al Schmidt,David Oh,Terry Tracy,Daniel Tinney,Dennis M O Brien,Matt Wolfe,Al Taubenberger,James Williams,3
+Al Schmidt,0,3,2,3,3,3,2,1,3
+David Oh,,0,2,1,1,1,2,0,3
+Terry Tracy,,,1,1,2,2,1,1,3
+Daniel Tinney,,,,0,2,2,1,1,3
+Dennis M O Brien,,,,,0,3,1,1,3
+Matt Wolfe,,,,,,0,1,1,3
+Al Taubenberger,,,,,,,0,0,3
+James Williams,,,,,,,,0,3
+Total,5,4,4,3,3,3,2,1,3
+,City Commissioners - Republican,Council At Large - Republican,,,,,,,4
+,Al Schmidt,Al Taubenberger,Daniel Tinney,David Oh,Dennis M O Brien,James Williams,Matt Wolfe,Terry Tracy,4
+Al Schmidt,0,7,5,4,3,3,3,3,4
+Al Taubenberger,,0,4,5,3,3,3,3,4
+Daniel Tinney,,,0,3,2,2,3,2,4
+David Oh,,,,0,3,2,2,1,4
+Dennis M O Brien,,,,,0,1,2,0,4
+James Williams,,,,,,0,1,2,4
+Matt Wolfe,,,,,,,0,1,4
+Terry Tracy,,,,,,,,0,4
+Total,8,8,5,5,3,3,3,3,4
+,City Commissioners - Republican,Council At Large - Republican,,,,,,,5
+,Al Schmidt,David Oh,Al Taubenberger,Terry Tracy,James Williams,Daniel Tinney,Dennis M O Brien,Matt Wolfe,5
+Al Schmidt,0,5,3,3,2,1,1,0,5
+David Oh,,0,1,3,2,1,1,0,5
+Al Taubenberger,,,0,0,0,0,0,0,5
+Terry Tracy,,,,0,2,1,1,0,5
+James Williams,,,,,0,1,1,0,5
+Daniel Tinney,,,,,,0,1,0,5
+Dennis M O Brien,,,,,,,0,0,5
+Matt Wolfe,,,,,,,,0,5
+Total,7,5,3,3,2,1,1,0,5
+,City Commissioners - Republican,Council At Large - Republican,,,,,,,6
+,Al Schmidt,Al Taubenberger,James Williams,Terry Tracy,Daniel Tinney,David Oh,Dennis M O Brien,Matt Wolfe,6
+Al Schmidt,1,4,3,3,2,1,1,1,6
+Al Taubenberger,,0,2,2,2,0,1,1,6
+James Williams,,,1,3,2,1,1,1,6
+Terry Tracy,,,,0,2,1,1,1,6
+Daniel Tinney,,,,,0,0,1,1,6
+David Oh,,,,,,1,0,0,6
+Dennis M O Brien,,,,,,,0,0,6
+Matt Wolfe,,,,,,,,0,6
+Total,6,4,4,3,2,2,1,1,6
+,City Commissioners - Republican,Council At Large - Republican,,,,,,,7
+,Al Schmidt,David Oh,James Williams,Al Taubenberger,Dennis M O Brien,Terry Tracy,Daniel Tinney,Matt Wolfe,7
+Al Schmidt,0,6,3,3,4,4,2,0,7
+David Oh,,0,3,2,3,3,2,0,7
+James Williams,,,1,1,1,3,2,0,7
+Al Taubenberger,,,,0,3,1,2,0,7
+Dennis M O Brien,,,,,0,2,2,0,7
+Terry Tracy,,,,,,0,1,0,7
+Daniel Tinney,,,,,,,0,0,7
+Matt Wolfe,,,,,,,,0,7
+Total,7,6,5,4,4,4,3,0,7
+,Council At Large - Republican,,,,,,,City Commissioners - Republican,8
+,Al Taubenberger,David Oh,Dennis M O Brien,Terry Tracy,Daniel Tinney,James Williams,Matt Wolfe,Al Schmidt,8
+Al Taubenberger,2,3,5,3,4,2,1,6,8
+David Oh,,1,4,3,2,2,1,4,8
+Dennis M O Brien,,,0,4,4,2,1,5,8
+Terry Tracy,,,,0,3,2,0,5,8
+Daniel Tinney,,,,,0,1,0,4,8
+James Williams,,,,,,0,1,2,8
+Matt Wolfe,,,,,,,0,0,8
+Al Schmidt,,,,,,,,0,8
+Total,9,6,6,5,4,3,1,8,8
+,City Commissioners - Republican,Council At Large - Republican,,,,,,,9
+,Al Schmidt,Al Taubenberger,James Williams,David Oh,Matt Wolfe,Terry Tracy,Daniel Tinney,Dennis M O Brien,9
+Al Schmidt,0,3,2,2,1,2,0,0,9
+Al Taubenberger,,1,1,1,1,1,0,0,9
+James Williams,,,0,2,1,2,1,0,9
+David Oh,,,,0,0,2,0,0,9
+Matt Wolfe,,,,,0,0,1,0,9
+Terry Tracy,,,,,,0,0,0,9
+Daniel Tinney,,,,,,,0,0,9
+Dennis M O Brien,,,,,,,,0,9
+Total,4,4,3,2,2,2,1,0,9
+,Council At Large - Republican,,,,,,,City Commissioners - Republican,10
+,Al Taubenberger,Terry Tracy,Daniel Tinney,Dennis M O Brien,Matt Wolfe,David Oh,James Williams,Al Schmidt,10
+Al Taubenberger,1,3,2,2,2,0,0,3,10
+Terry Tracy,,0,2,1,2,0,0,3,10
+Daniel Tinney,,,0,1,1,0,0,2,10
+Dennis M O Brien,,,,0,1,0,0,1,10
+Matt Wolfe,,,,,0,0,0,2,10
+David Oh,,,,,,0,0,1,10
+James Williams,,,,,,,0,0,10
+Al Schmidt,,,,,,,,0,10
+Total,5,3,2,2,2,1,0,4,10
+,City Commissioners - Republican,Council At Large - Republican,,,,,,,11
+,Al Schmidt,Al Taubenberger,David Oh,Terry Tracy,Daniel Tinney,Dennis M O Brien,James Williams,Matt Wolfe,11
+Al Schmidt,0,3,4,3,3,3,3,2,11
+Al Taubenberger,,1,2,1,3,3,1,2,11
+David Oh,,,0,4,1,2,3,0,11
+Terry Tracy,,,,0,1,2,4,1,11
+Daniel Tinney,,,,,0,3,1,3,11
+Dennis M O Brien,,,,,,0,2,2,11
+James Williams,,,,,,,0,1,11
+Matt Wolfe,,,,,,,,0,11
+Total,7,6,6,5,4,4,4,3,11
+,City Commissioners - Republican,Council At Large - Republican,,,,,,,12
+,Al Schmidt,David Oh,Al Taubenberger,Terry Tracy,Dennis M O Brien,Matt Wolfe,Daniel Tinney,James Williams,12
+Al Schmidt,0,8,10,7,5,4,3,3,12
+David Oh,,2,5,5,3,3,1,3,12
+Al Taubenberger,,,0,6,5,4,3,1,12
+Terry Tracy,,,,0,4,5,2,2,12
+Dennis M O Brien,,,,,0,2,2,0,12
+Matt Wolfe,,,,,,0,1,1,12
+Daniel Tinney,,,,,,,0,0,12
+James Williams,,,,,,,,0,12
+Total,13,11,10,8,5,5,3,3,12
+,City Commissioners - Republican,Council At Large - Republican,,,,,,,13
+,Al Schmidt,David Oh,Terry Tracy,Daniel Tinney,James Williams,Dennis M O Brien,Matt Wolfe,Al Taubenberger,13
+Al Schmidt,0,6,6,5,5,4,2,0,13
+David Oh,,0,5,4,5,4,2,0,13
+Terry Tracy,,,0,3,4,3,1,0,13
+Daniel Tinney,,,,0,3,4,1,0,13
+James Williams,,,,,0,3,2,0,13
+Dennis M O Brien,,,,,,0,1,0,13
+Matt Wolfe,,,,,,,0,0,13
+Al Taubenberger,,,,,,,,0,13
+Total,8,6,6,5,5,4,2,0,13
+,City Commissioners - Republican,Council At Large - Republican,,,,,,,14
+,Al Schmidt,David Oh,Terry Tracy,Al Taubenberger,Dennis M O Brien,James Williams,Matt Wolfe,Daniel Tinney,14
+Al Schmidt,0,9,9,6,6,5,5,2,14
+David Oh,,0,6,4,4,6,5,0,14
+Terry Tracy,,,0,6,4,5,3,2,14
+Al Taubenberger,,,,1,4,2,4,2,14
+Dennis M O Brien,,,,,0,1,4,1,14
+James Williams,,,,,,0,1,0,14
+Matt Wolfe,,,,,,,0,1,14
+Daniel Tinney,,,,,,,,0,14
+Total,12,11,9,8,6,6,6,2,14
+,City Commissioners - Republican,Council At Large - Republican,,,,,,,15
+,Al Schmidt,Al Taubenberger,Terry Tracy,Daniel Tinney,Dennis M O Brien,David Oh,Matt Wolfe,James Williams,15
+Al Schmidt,0,15,14,13,12,11,12,9,15
+Al Taubenberger,,1,10,8,8,6,10,4,15
+Terry Tracy,,,1,11,9,9,8,7,15
+Daniel Tinney,,,,0,9,9,9,8,15
+Dennis M O Brien,,,,,0,10,6,4,15
+David Oh,,,,,,0,6,5,15
+Matt Wolfe,,,,,,,0,6,15
+James Williams,,,,,,,,0,15
+Total,22,19,16,14,14,13,12,9,15
+,City Commissioners - Republican,Council At Large - Republican,,,,,,,16
+,Al Schmidt,Dennis M O Brien,David Oh,Al Taubenberger,Daniel Tinney,James Williams,Matt Wolfe,Terry Tracy,16
+Al Schmidt,0,16,15,11,9,10,8,7,16
+Dennis M O Brien,,0,14,12,9,9,8,6,16
+David Oh,,,0,9,8,9,7,4,16
+Al Taubenberger,,,,0,6,5,6,3,16
+Daniel Tinney,,,,,1,6,4,4,16
+James Williams,,,,,,0,3,4,16
+Matt Wolfe,,,,,,,0,2,16
+Terry Tracy,,,,,,,,0,16
+Total,18,17,15,13,11,10,8,7,16
+,City Commissioners - Republican,Council At Large - Republican,,,,,,,17
+,Al Schmidt,David Oh,Al Taubenberger,Dennis M O Brien,Matt Wolfe,Terry Tracy,Daniel Tinney,James Williams,17
+Al Schmidt,1,9,6,7,6,5,3,4,17
+David Oh,,1,5,4,5,4,1,4,17
+Al Taubenberger,,,0,4,5,5,3,3,17
+Dennis M O Brien,,,,0,4,3,2,1,17
+Matt Wolfe,,,,,0,4,2,2,17
+Terry Tracy,,,,,,0,2,2,17
+Daniel Tinney,,,,,,,0,1,17
+James Williams,,,,,,,,0,17
+Total,13,10,7,7,6,6,4,4,17
+,City Commissioners - Republican,Council At Large - Republican,,,,,,,18
+,Al Schmidt,David Oh,Matt Wolfe,Dennis M O Brien,Daniel Tinney,Terry Tracy,Al Taubenberger,James Williams,18
+Al Schmidt,0,8,8,6,6,5,4,6,18
+David Oh,,0,7,5,5,7,3,5,18
+Matt Wolfe,,,0,6,6,4,4,4,18
+Dennis M O Brien,,,,0,5,2,4,3,18
+Daniel Tinney,,,,,0,3,2,3,18
+Terry Tracy,,,,,,0,2,3,18
+Al Taubenberger,,,,,,,0,1,18
+James Williams,,,,,,,,0,18
+Total,11,10,9,8,7,7,6,6,18
+,City Commissioners - Republican,Council At Large - Republican,,,,,,,19
+,Al Schmidt,Matt Wolfe,Daniel Tinney,David Oh,James Williams,Terry Tracy,Al Taubenberger,Dennis M O Brien,19
+Al Schmidt,0,6,5,6,5,6,3,2,19
+Matt Wolfe,,0,5,3,3,2,3,3,19
+Daniel Tinney,,,0,2,2,2,4,2,19
+David Oh,,,,0,4,4,1,1,19
+James Williams,,,,,0,3,2,1,19
+Terry Tracy,,,,,,0,2,2,19
+Al Taubenberger,,,,,,,0,3,19
+Dennis M O Brien,,,,,,,,0,19
+Total,10,7,6,6,6,6,5,4,19
+,Council At Large - Republican,,,,,,,City Commissioners - Republican,20
+,Al Taubenberger,Dennis M O Brien,Daniel Tinney,James Williams,Terry Tracy,David Oh,Matt Wolfe,Al Schmidt,20
+Al Taubenberger,3,9,5,6,5,3,4,17,20
+Dennis M O Brien,,0,6,5,3,4,4,9,20
+Daniel Tinney,,,0,3,1,3,3,7,20
+James Williams,,,,0,4,3,2,5,20
+Terry Tracy,,,,,0,2,2,3,20
+David Oh,,,,,,0,1,4,20
+Matt Wolfe,,,,,,,0,4,20
+Al Schmidt,,,,,,,,1,20
+Total,23,10,7,7,6,5,4,20,20
+,Council At Large - Republican,,,,,,,City Commissioners - Republican,21
+,Al Taubenberger,Terry Tracy,Daniel Tinney,David Oh,Dennis M O Brien,Matt Wolfe,James Williams,Al Schmidt,21
+Al Taubenberger,10,8,11,8,9,8,4,32,21
+Terry Tracy,,0,4,4,3,4,3,11,21
+Daniel Tinney,,,0,5,7,6,3,12,21
+David Oh,,,,0,3,2,3,9,21
+Dennis M O Brien,,,,,0,6,1,9,21
+Matt Wolfe,,,,,,0,1,7,21
+James Williams,,,,,,,1,4,21
+Al Schmidt,,,,,,,,1,21
+Total,51,14,13,11,10,10,5,42,21
+,City Commissioners - Republican,Council At Large - Republican,,,,,,,22
+,Al Schmidt,Al Taubenberger,David Oh,Dennis M O Brien,James Williams,Terry Tracy,Daniel Tinney,Matt Wolfe,22
+Al Schmidt,0,5,4,4,3,5,1,1,22
+Al Taubenberger,,1,5,5,2,2,2,1,22
+David Oh,,,0,4,2,2,2,1,22
+Dennis M O Brien,,,,0,2,2,2,0,22
+James Williams,,,,,1,3,1,0,22
+Terry Tracy,,,,,,0,1,0,22
+Daniel Tinney,,,,,,,0,1,22
+Matt Wolfe,,,,,,,,0,22
+Total,8,7,5,5,5,5,3,2,22
+,City Commissioners - Republican,Council At Large - Republican,,,,,,,23
+,Al Schmidt,James Williams,Daniel Tinney,David Oh,Matt Wolfe,Terry Tracy,Al Taubenberger,Dennis M O Brien,23
+Al Schmidt,0,4,3,3,3,2,1,0,23
+James Williams,,0,2,3,2,2,1,0,23
+Daniel Tinney,,,0,2,3,1,1,0,23
+David Oh,,,,0,2,2,1,0,23
+Matt Wolfe,,,,,0,1,1,0,23
+Terry Tracy,,,,,,0,0,0,23
+Al Taubenberger,,,,,,,0,0,23
+Dennis M O Brien,,,,,,,,0,23
+Total,5,4,3,3,3,2,1,0,23
+,City Commissioners - Republican,Council At Large - Republican,,,,,,,All
+,Al Schmidt,Al Taubenberger,David Oh,Terry Tracy,Dennis M O Brien,Daniel Tinney,James Williams,Matt Wolfe,All
+Al Schmidt,4,145,125,109,103,92,84,81,All
+Al Taubenberger,,21,66,64,82,65,42,62,All
+David Oh,,,5,74,71,52,68,49,All
+Terry Tracy,,,,2,54,49,62,43,All
+Dennis M O Brien,,,,,0,65,40,55,All
+Daniel Tinney,,,,,,1,43,53,All
+James Williams,,,,,,,4,34,All
+Matt Wolfe,,,,,,,,0,All
+Total,244,196,146,125,116,104,97,92,All

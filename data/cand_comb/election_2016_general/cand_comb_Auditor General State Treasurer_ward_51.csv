@@ -1,0 +1,320 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,division
+,State Treasurer,,,,Auditor General,,,,All
+,Joe Torsella,Kristin Combs,Otto Voit,James Babb,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,All
+Joe Torsella,80,0,0,0,"9,258",67,32,4,All
+Kristin Combs,,7,0,0,30,3,120,4,All
+Otto Voit,,,5,0,21,129,3,2,All
+James Babb,,,,0,2,1,5,15,All
+Eugene A Depasquale,,,,,61,0,0,0,All
+John Brown,,,,,,7,0,0,All
+John J Sweeney,,,,,,,1,0,All
+Roy A Minet,,,,,,,,0,All
+Total,"9,441",164,160,23,"9,372",207,161,25,All
+,Auditor General,,,,State Treasurer,,,,1
+,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,Joe Torsella,Kristin Combs,Otto Voit,James Babb,1
+Eugene A Depasquale,1,0,0,0,317,2,1,0,1
+John Brown,,0,0,0,2,0,1,0,1
+John J Sweeney,,,0,0,0,3,0,0,1
+Roy A Minet,,,,0,0,0,0,0,1
+Joe Torsella,,,,,1,0,0,0,1
+Kristin Combs,,,,,,1,0,0,1
+Otto Voit,,,,,,,0,0,1
+James Babb,,,,,,,,0,1
+Total,321,3,3,0,320,6,2,0,1
+,State Treasurer,,,,Auditor General,,,,2
+,Joe Torsella,Kristin Combs,Otto Voit,James Babb,Eugene A Depasquale,John J Sweeney,John Brown,Roy A Minet,2
+Joe Torsella,3,0,0,0,297,0,2,0,2
+Kristin Combs,,0,0,0,2,8,0,0,2
+Otto Voit,,,0,0,0,0,4,0,2
+James Babb,,,,0,0,0,0,2,2
+Eugene A Depasquale,,,,,2,0,0,0,2
+John J Sweeney,,,,,,0,0,0,2
+John Brown,,,,,,,0,0,2
+Roy A Minet,,,,,,,,0,2
+Total,302,10,4,2,301,8,6,2,2
+,Auditor General,,,,State Treasurer,,,,3
+,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,Joe Torsella,Otto Voit,James Babb,Kristin Combs,3
+Eugene A Depasquale,0,0,0,0,300,1,0,0,3
+John Brown,,0,0,0,0,3,0,0,3
+John J Sweeney,,,0,0,0,0,0,1,3
+Roy A Minet,,,,0,0,0,1,0,3
+Joe Torsella,,,,,1,0,0,0,3
+Otto Voit,,,,,,0,0,0,3
+James Babb,,,,,,,0,0,3
+Kristin Combs,,,,,,,,0,3
+Total,301,3,1,1,301,4,1,1,3
+,State Treasurer,,,,Auditor General,,,,4
+,Joe Torsella,Otto Voit,Kristin Combs,James Babb,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,4
+Joe Torsella,1,0,0,0,325,2,0,0,4
+Otto Voit,,0,0,0,0,4,0,0,4
+Kristin Combs,,,0,0,1,0,1,0,4
+James Babb,,,,0,0,0,0,0,4
+Eugene A Depasquale,,,,,0,0,0,0,4
+John Brown,,,,,,0,0,0,4
+John J Sweeney,,,,,,,0,0,4
+Roy A Minet,,,,,,,,0,4
+Total,328,4,2,0,326,6,1,0,4
+,Auditor General,,,,State Treasurer,,,,5
+,Eugene A Depasquale,John J Sweeney,John Brown,Roy A Minet,Joe Torsella,Kristin Combs,Otto Voit,James Babb,5
+Eugene A Depasquale,2,0,0,0,366,4,2,0,5
+John J Sweeney,,0,0,0,0,11,2,1,5
+John Brown,,,0,0,3,0,4,0,5
+Roy A Minet,,,,0,0,0,1,0,5
+Joe Torsella,,,,,1,0,0,0,5
+Kristin Combs,,,,,,0,0,0,5
+Otto Voit,,,,,,,0,0,5
+James Babb,,,,,,,,0,5
+Total,374,14,7,1,370,15,9,1,5
+,Auditor General,,,,State Treasurer,,,,6
+,Eugene A Depasquale,John J Sweeney,John Brown,Roy A Minet,Joe Torsella,Kristin Combs,Otto Voit,James Babb,6
+Eugene A Depasquale,2,0,0,0,415,8,4,0,6
+John J Sweeney,,0,0,0,8,32,0,0,6
+John Brown,,,0,0,1,0,3,0,6
+Roy A Minet,,,,0,0,2,0,2,6
+Joe Torsella,,,,,2,0,0,0,6
+Kristin Combs,,,,,,3,0,0,6
+Otto Voit,,,,,,,0,0,6
+James Babb,,,,,,,,0,6
+Total,429,40,4,4,426,45,7,2,6
+,Auditor General,,,,State Treasurer,,,,7
+,Eugene A Depasquale,John J Sweeney,John Brown,Roy A Minet,Joe Torsella,Kristin Combs,Otto Voit,James Babb,7
+Eugene A Depasquale,3,0,0,0,273,1,0,0,7
+John J Sweeney,,0,0,0,0,7,0,0,7
+John Brown,,,0,0,1,0,4,0,7
+Roy A Minet,,,,0,0,0,1,0,7
+Joe Torsella,,,,,2,0,0,0,7
+Kristin Combs,,,,,,0,0,0,7
+Otto Voit,,,,,,,0,0,7
+James Babb,,,,,,,,0,7
+Total,277,7,5,1,276,8,5,0,7
+,State Treasurer,,,,Auditor General,,,,8
+,Joe Torsella,James Babb,Kristin Combs,Otto Voit,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,8
+Joe Torsella,4,0,0,0,300,2,1,0,8
+James Babb,,0,0,0,0,0,1,0,8
+Kristin Combs,,,0,0,0,0,0,0,8
+Otto Voit,,,,0,0,0,0,0,8
+Eugene A Depasquale,,,,,2,0,0,0,8
+John Brown,,,,,,0,0,0,8
+John J Sweeney,,,,,,,0,0,8
+Roy A Minet,,,,,,,,0,8
+Total,307,1,0,0,302,2,2,0,8
+,Auditor General,,,,State Treasurer,,,,9
+,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,Joe Torsella,Kristin Combs,Otto Voit,James Babb,9
+Eugene A Depasquale,3,0,0,0,291,0,0,0,9
+John Brown,,0,0,0,1,1,2,0,9
+John J Sweeney,,,0,0,0,2,0,1,9
+Roy A Minet,,,,0,1,0,0,0,9
+Joe Torsella,,,,,0,0,0,0,9
+Kristin Combs,,,,,,0,0,0,9
+Otto Voit,,,,,,,0,0,9
+James Babb,,,,,,,,0,9
+Total,294,4,3,1,293,3,2,1,9
+,State Treasurer,,,,Auditor General,,,,10
+,Joe Torsella,Otto Voit,Kristin Combs,James Babb,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,10
+Joe Torsella,0,0,0,0,257,2,0,1,10
+Otto Voit,,0,0,0,1,25,0,0,10
+Kristin Combs,,,0,0,0,0,1,0,10
+James Babb,,,,0,0,0,0,0,10
+Eugene A Depasquale,,,,,0,0,0,0,10
+John Brown,,,,,,0,0,0,10
+John J Sweeney,,,,,,,0,0,10
+Roy A Minet,,,,,,,,0,10
+Total,260,26,1,0,258,27,1,1,10
+,State Treasurer,,,,Auditor General,,,,11
+,Joe Torsella,Otto Voit,Kristin Combs,James Babb,Eugene A Depasquale,John Brown,Roy A Minet,John J Sweeney,11
+Joe Torsella,3,0,0,0,273,2,1,0,11
+Otto Voit,,0,0,0,0,5,0,0,11
+Kristin Combs,,,0,0,0,0,1,0,11
+James Babb,,,,0,0,0,0,0,11
+Eugene A Depasquale,,,,,0,0,0,0,11
+John Brown,,,,,,1,0,0,11
+Roy A Minet,,,,,,,0,0,11
+John J Sweeney,,,,,,,,0,11
+Total,279,5,1,0,273,8,2,0,11
+,State Treasurer,,,,Auditor General,,,,12
+,Joe Torsella,Kristin Combs,Otto Voit,James Babb,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,12
+Joe Torsella,3,0,0,0,370,1,1,0,12
+Kristin Combs,,2,0,0,0,1,2,0,12
+Otto Voit,,,0,0,0,2,0,0,12
+James Babb,,,,0,0,0,1,0,12
+Eugene A Depasquale,,,,,1,0,0,0,12
+John Brown,,,,,,0,0,0,12
+John J Sweeney,,,,,,,0,0,12
+Roy A Minet,,,,,,,,0,12
+Total,375,5,2,1,371,4,4,0,12
+,Auditor General,,,,State Treasurer,,,,13
+,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,Joe Torsella,Kristin Combs,Otto Voit,James Babb,13
+Eugene A Depasquale,3,0,0,0,370,1,0,0,13
+John Brown,,1,0,0,0,0,2,0,13
+John J Sweeney,,,0,0,0,1,0,0,13
+Roy A Minet,,,,0,0,0,0,0,13
+Joe Torsella,,,,,3,0,0,0,13
+Kristin Combs,,,,,,1,0,0,13
+Otto Voit,,,,,,,0,0,13
+James Babb,,,,,,,,0,13
+Total,374,3,1,0,373,3,2,0,13
+,State Treasurer,,,,Auditor General,,,,14
+,Joe Torsella,Kristin Combs,Otto Voit,James Babb,Eugene A Depasquale,John J Sweeney,John Brown,Roy A Minet,14
+Joe Torsella,7,0,0,0,396,4,3,0,14
+Kristin Combs,,0,0,0,5,25,0,0,14
+Otto Voit,,,0,0,1,0,8,0,14
+James Babb,,,,0,1,1,0,1,14
+Eugene A Depasquale,,,,,0,0,0,0,14
+John J Sweeney,,,,,,0,0,0,14
+John Brown,,,,,,,1,0,14
+Roy A Minet,,,,,,,,0,14
+Total,410,30,9,3,403,30,12,1,14
+,State Treasurer,,,,Auditor General,,,,15
+,Joe Torsella,Kristin Combs,Otto Voit,James Babb,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,15
+Joe Torsella,5,0,0,0,362,2,0,0,15
+Kristin Combs,,0,0,0,0,1,2,1,15
+Otto Voit,,,0,0,0,3,0,0,15
+James Babb,,,,0,0,0,0,0,15
+Eugene A Depasquale,,,,,1,0,0,0,15
+John Brown,,,,,,0,0,0,15
+John J Sweeney,,,,,,,0,0,15
+Roy A Minet,,,,,,,,0,15
+Total,369,4,3,0,363,6,2,1,15
+,State Treasurer,,,,Auditor General,,,,16
+,Joe Torsella,Otto Voit,Kristin Combs,James Babb,Eugene A Depasquale,John J Sweeney,John Brown,Roy A Minet,16
+Joe Torsella,2,0,0,0,322,3,1,0,16
+Otto Voit,,1,0,0,0,0,4,0,16
+Kristin Combs,,,0,0,0,4,0,0,16
+James Babb,,,,0,0,0,0,2,16
+Eugene A Depasquale,,,,,2,0,0,0,16
+John J Sweeney,,,,,,0,0,0,16
+John Brown,,,,,,,0,0,16
+Roy A Minet,,,,,,,,0,16
+Total,328,5,4,2,324,7,5,2,16
+,State Treasurer,,,,Auditor General,,,,17
+,Joe Torsella,Otto Voit,Kristin Combs,James Babb,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,17
+Joe Torsella,3,0,0,0,336,3,2,0,17
+Otto Voit,,0,0,0,1,10,0,0,17
+Kristin Combs,,,0,0,0,0,2,0,17
+James Babb,,,,0,0,0,0,0,17
+Eugene A Depasquale,,,,,3,0,0,0,17
+John Brown,,,,,,0,0,0,17
+John J Sweeney,,,,,,,0,0,17
+Roy A Minet,,,,,,,,0,17
+Total,344,11,2,0,340,13,4,0,17
+,State Treasurer,,,,Auditor General,,,,18
+,Joe Torsella,Kristin Combs,Otto Voit,James Babb,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,18
+Joe Torsella,4,0,0,0,359,3,0,0,18
+Kristin Combs,,0,0,0,1,0,2,0,18
+Otto Voit,,,0,0,1,2,0,0,18
+James Babb,,,,0,0,0,0,0,18
+Eugene A Depasquale,,,,,4,0,0,0,18
+John Brown,,,,,,1,0,0,18
+John J Sweeney,,,,,,,0,0,18
+Roy A Minet,,,,,,,,0,18
+Total,366,3,3,0,365,6,2,0,18
+,State Treasurer,,,,Auditor General,,,,19
+,Joe Torsella,Otto Voit,James Babb,Kristin Combs,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,19
+Joe Torsella,7,0,0,0,278,0,0,0,19
+Otto Voit,,1,0,0,1,1,0,0,19
+James Babb,,,0,0,0,0,0,0,19
+Kristin Combs,,,,0,0,0,0,0,19
+Eugene A Depasquale,,,,,3,0,0,0,19
+John Brown,,,,,,0,0,0,19
+John J Sweeney,,,,,,,0,0,19
+Roy A Minet,,,,,,,,0,19
+Total,285,3,0,0,282,1,0,0,19
+,State Treasurer,,,,Auditor General,,,,20
+,Joe Torsella,Otto Voit,Kristin Combs,James Babb,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,20
+Joe Torsella,8,0,0,0,536,2,4,0,20
+Otto Voit,,3,0,0,0,6,0,0,20
+Kristin Combs,,,0,0,1,0,0,0,20
+James Babb,,,,0,0,0,0,0,20
+Eugene A Depasquale,,,,,0,0,0,0,20
+John Brown,,,,,,0,0,0,20
+John J Sweeney,,,,,,,0,0,20
+Roy A Minet,,,,,,,,0,20
+Total,550,9,1,0,537,8,4,0,20
+,Auditor General,,,,State Treasurer,,,,21
+,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,Joe Torsella,Otto Voit,Kristin Combs,James Babb,21
+Eugene A Depasquale,2,0,0,0,245,2,1,0,21
+John Brown,,0,0,0,3,4,0,0,21
+John J Sweeney,,,0,0,1,0,2,0,21
+Roy A Minet,,,,0,0,0,0,0,21
+Joe Torsella,,,,,1,0,0,0,21
+Otto Voit,,,,,,0,0,0,21
+Kristin Combs,,,,,,,0,0,21
+James Babb,,,,,,,,0,21
+Total,250,7,3,0,250,6,3,0,21
+,Auditor General,,,,State Treasurer,,,,22
+,Eugene A Depasquale,John Brown,Roy A Minet,John J Sweeney,Joe Torsella,Otto Voit,James Babb,Kristin Combs,22
+Eugene A Depasquale,5,0,0,0,334,1,0,0,22
+John Brown,,0,0,0,4,4,0,0,22
+Roy A Minet,,,0,0,0,0,2,0,22
+John J Sweeney,,,,0,0,0,0,0,22
+Joe Torsella,,,,,2,0,0,0,22
+Otto Voit,,,,,,0,0,0,22
+James Babb,,,,,,,0,0,22
+Kristin Combs,,,,,,,,0,22
+Total,340,8,2,0,340,5,2,0,22
+,State Treasurer,,,,Auditor General,,,,23
+,Joe Torsella,Otto Voit,Kristin Combs,James Babb,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,23
+Joe Torsella,3,0,0,0,280,3,0,0,23
+Otto Voit,,0,0,0,2,5,0,0,23
+Kristin Combs,,,0,0,0,0,2,0,23
+James Babb,,,,0,0,0,0,1,23
+Eugene A Depasquale,,,,,1,0,0,0,23
+John Brown,,,,,,0,0,0,23
+John J Sweeney,,,,,,,0,0,23
+Roy A Minet,,,,,,,,0,23
+Total,286,7,2,1,283,8,2,1,23
+,State Treasurer,,,,Auditor General,,,,24
+,Joe Torsella,Otto Voit,Kristin Combs,James Babb,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,24
+Joe Torsella,2,0,0,0,358,5,2,1,24
+Otto Voit,,0,0,0,1,4,0,0,24
+Kristin Combs,,,0,0,0,0,2,0,24
+James Babb,,,,0,0,0,0,1,24
+Eugene A Depasquale,,,,,5,0,0,0,24
+John Brown,,,,,,0,0,0,24
+John J Sweeney,,,,,,,0,0,24
+Roy A Minet,,,,,,,,0,24
+Total,368,5,2,1,364,9,4,2,24
+,State Treasurer,,,,Auditor General,,,,25
+,Joe Torsella,Otto Voit,Kristin Combs,James Babb,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,25
+Joe Torsella,4,0,0,0,404,8,1,0,25
+Otto Voit,,0,0,0,2,7,0,0,25
+Kristin Combs,,,0,0,1,0,4,0,25
+James Babb,,,,0,1,1,0,0,25
+Eugene A Depasquale,,,,,6,0,0,0,25
+John Brown,,,,,,2,0,0,25
+John J Sweeney,,,,,,,0,0,25
+Roy A Minet,,,,,,,,0,25
+Total,417,9,5,2,414,18,5,0,25
+,Auditor General,,,,State Treasurer,,,,26
+,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,Joe Torsella,Otto Voit,Kristin Combs,James Babb,26
+Eugene A Depasquale,5,0,0,0,278,0,1,0,26
+John Brown,,0,0,0,4,5,0,0,26
+John J Sweeney,,,1,0,2,0,3,0,26
+Roy A Minet,,,,0,0,0,0,2,26
+Joe Torsella,,,,,0,0,0,0,26
+Otto Voit,,,,,,0,0,0,26
+Kristin Combs,,,,,,,0,0,26
+James Babb,,,,,,,,0,26
+Total,284,9,6,2,284,5,4,2,26
+,State Treasurer,,,,Auditor General,,,,27
+,Joe Torsella,Otto Voit,Kristin Combs,James Babb,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,27
+Joe Torsella,6,0,0,0,271,5,2,0,27
+Otto Voit,,0,0,0,0,4,0,0,27
+Kristin Combs,,,0,0,0,0,2,0,27
+James Babb,,,,0,0,0,0,0,27
+Eugene A Depasquale,,,,,1,0,0,0,27
+John Brown,,,,,,0,0,0,27
+John J Sweeney,,,,,,,0,0,27
+Roy A Minet,,,,,,,,0,27
+Total,284,4,2,0,272,9,4,0,27
+,Auditor General,,,,State Treasurer,,,,28
+,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,Joe Torsella,Otto Voit,Kristin Combs,James Babb,28
+Eugene A Depasquale,4,0,0,0,345,0,1,0,28
+John Brown,,1,0,0,2,3,0,0,28
+John J Sweeney,,,0,0,1,1,1,0,28
+Roy A Minet,,,,0,0,0,0,1,28
+Joe Torsella,,,,,2,0,0,0,28
+Otto Voit,,,,,,0,0,0,28
+Kristin Combs,,,,,,,0,0,28
+James Babb,,,,,,,,0,28
+Total,350,6,3,1,350,4,2,1,28

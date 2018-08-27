@@ -1,0 +1,241 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,division
+,Judge Of The Commonwealth Court - Republican,Justice Of The Supreme Court - Republican,,,,,,1
+,Paul Lalley,Anne Covey,Mike George,Correale Stevens,Judy Olson,Rebecca Warren,Cheryl Allen,1
+Paul Lalley,0,2,1,1,1,1,0,1
+Anne Covey,,0,1,0,1,0,0,1
+Mike George,,,1,0,1,0,0,1
+Correale Stevens,,,,0,0,1,0,1
+Judy Olson,,,,,0,0,0,1
+Rebecca Warren,,,,,,0,0,1
+Cheryl Allen,,,,,,,0,1
+Total,3,2,2,1,1,1,0,1
+,Judge Of The Commonwealth Court - Republican,Justice Of The Supreme Court - Republican,,,,,,2
+,Paul Lalley,Anne Covey,Correale Stevens,Judy Olson,Rebecca Warren,Cheryl Allen,Mike George,2
+Paul Lalley,0,2,2,1,1,0,0,2
+Anne Covey,,0,1,0,0,0,0,2
+Correale Stevens,,,0,1,1,0,0,2
+Judy Olson,,,,0,1,0,0,2
+Rebecca Warren,,,,,0,0,0,2
+Cheryl Allen,,,,,,0,0,2
+Mike George,,,,,,,0,2
+Total,3,2,2,1,1,0,0,2
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Commonwealth Court - Republican,3
+,Anne Covey,Cheryl Allen,Mike George,Judy Olson,Rebecca Warren,Correale Stevens,Paul Lalley,3
+Anne Covey,0,2,2,1,1,0,4,3
+Cheryl Allen,,0,1,0,1,0,2,3
+Mike George,,,0,1,0,0,2,3
+Judy Olson,,,,0,0,0,1,3
+Rebecca Warren,,,,,0,0,1,3
+Correale Stevens,,,,,,0,0,3
+Paul Lalley,,,,,,,0,3
+Total,4,2,2,1,1,0,4,3
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Commonwealth Court - Republican,4
+,Anne Covey,Rebecca Warren,Correale Stevens,Judy Olson,Mike George,Cheryl Allen,Paul Lalley,4
+Anne Covey,0,2,1,1,1,0,3,4
+Rebecca Warren,,0,0,1,1,0,2,4
+Correale Stevens,,,0,0,0,0,1,4
+Judy Olson,,,,0,0,0,1,4
+Mike George,,,,,0,0,1,4
+Cheryl Allen,,,,,,0,0,4
+Paul Lalley,,,,,,,0,4
+Total,3,2,1,1,1,0,3,4
+,Judge Of The Commonwealth Court - Republican,Justice Of The Supreme Court - Republican,,,,,,5
+,Paul Lalley,Correale Stevens,Anne Covey,Cheryl Allen,Judy Olson,Mike George,Rebecca Warren,5
+Paul Lalley,1,1,0,0,0,0,0,5
+Correale Stevens,,0,0,0,0,0,0,5
+Anne Covey,,,0,0,0,0,0,5
+Cheryl Allen,,,,0,0,0,0,5
+Judy Olson,,,,,0,0,0,5
+Mike George,,,,,,0,0,5
+Rebecca Warren,,,,,,,0,5
+Total,2,1,0,0,0,0,0,5
+,Judge Of The Commonwealth Court - Republican,Justice Of The Supreme Court - Republican,,,,,,6
+,Paul Lalley,Correale Stevens,Anne Covey,Rebecca Warren,Cheryl Allen,Mike George,Judy Olson,6
+Paul Lalley,0,6,4,3,2,2,1,6
+Correale Stevens,,0,3,3,2,1,0,6
+Anne Covey,,,0,2,0,1,1,6
+Rebecca Warren,,,,0,1,0,0,6
+Cheryl Allen,,,,,0,1,0,6
+Mike George,,,,,,0,1,6
+Judy Olson,,,,,,,0,6
+Total,7,6,4,3,2,2,1,6
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Commonwealth Court - Republican,7
+,Anne Covey,Mike George,Correale Stevens,Rebecca Warren,Cheryl Allen,Judy Olson,Paul Lalley,7
+Anne Covey,0,3,2,2,1,0,2,7
+Mike George,,0,1,1,1,1,2,7
+Correale Stevens,,,1,1,0,0,1,7
+Rebecca Warren,,,,0,0,0,1,7
+Cheryl Allen,,,,,0,0,1,7
+Judy Olson,,,,,,0,1,7
+Paul Lalley,,,,,,,0,7
+Total,4,4,3,2,1,1,3,7
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Commonwealth Court - Republican,8
+,Cheryl Allen,Anne Covey,Correale Stevens,Judy Olson,Mike George,Rebecca Warren,Paul Lalley,8
+Cheryl Allen,1,0,0,0,0,0,0,8
+Anne Covey,,0,0,0,0,0,0,8
+Correale Stevens,,,0,0,0,0,0,8
+Judy Olson,,,,0,0,0,0,8
+Mike George,,,,,0,0,0,8
+Rebecca Warren,,,,,,0,0,8
+Paul Lalley,,,,,,,0,8
+Total,1,0,0,0,0,0,0,8
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Commonwealth Court - Republican,9
+,Anne Covey,Correale Stevens,Mike George,Cheryl Allen,Judy Olson,Rebecca Warren,Paul Lalley,9
+Anne Covey,0,1,1,0,0,0,1,9
+Correale Stevens,,0,1,0,0,0,1,9
+Mike George,,,0,0,0,0,1,9
+Cheryl Allen,,,,0,0,0,0,9
+Judy Olson,,,,,0,0,0,9
+Rebecca Warren,,,,,,0,0,9
+Paul Lalley,,,,,,,0,9
+Total,1,1,1,0,0,0,1,9
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Commonwealth Court - Republican,10
+,Cheryl Allen,Correale Stevens,Mike George,Anne Covey,Judy Olson,Rebecca Warren,Paul Lalley,10
+Cheryl Allen,0,1,1,0,0,0,1,10
+Correale Stevens,,0,1,0,0,0,1,10
+Mike George,,,0,0,0,0,1,10
+Anne Covey,,,,0,0,0,0,10
+Judy Olson,,,,,0,0,0,10
+Rebecca Warren,,,,,,0,0,10
+Paul Lalley,,,,,,,0,10
+Total,1,1,1,0,0,0,1,10
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Commonwealth Court - Republican,11
+,Anne Covey,Cheryl Allen,Correale Stevens,Judy Olson,Mike George,Rebecca Warren,Paul Lalley,11
+Anne Covey,2,0,0,0,0,0,0,11
+Cheryl Allen,,0,0,0,0,0,0,11
+Correale Stevens,,,0,0,0,0,0,11
+Judy Olson,,,,0,0,0,0,11
+Mike George,,,,,0,0,0,11
+Rebecca Warren,,,,,,0,0,11
+Paul Lalley,,,,,,,0,11
+Total,2,0,0,0,0,0,0,11
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Commonwealth Court - Republican,13
+,Correale Stevens,Anne Covey,Cheryl Allen,Mike George,Judy Olson,Rebecca Warren,Paul Lalley,13
+Correale Stevens,0,1,1,1,0,0,2,13
+Anne Covey,,0,0,0,0,0,1,13
+Cheryl Allen,,,0,1,0,0,1,13
+Mike George,,,,0,0,0,1,13
+Judy Olson,,,,,0,0,0,13
+Rebecca Warren,,,,,,0,0,13
+Paul Lalley,,,,,,,0,13
+Total,2,1,1,1,0,0,2,13
+,Judge Of The Commonwealth Court - Republican,Justice Of The Supreme Court - Republican,,,,,,15
+,Paul Lalley,Anne Covey,Cheryl Allen,Correale Stevens,Judy Olson,Mike George,Rebecca Warren,15
+Paul Lalley,0,5,3,3,2,1,2,15
+Anne Covey,,0,2,3,2,0,1,15
+Cheryl Allen,,,0,1,1,1,1,15
+Correale Stevens,,,,0,0,0,0,15
+Judy Olson,,,,,0,0,1,15
+Mike George,,,,,,1,1,15
+Rebecca Warren,,,,,,,0,15
+Total,6,5,3,3,2,2,2,15
+,Judge Of The Commonwealth Court - Republican,Justice Of The Supreme Court - Republican,,,,,,16
+,Paul Lalley,Correale Stevens,Anne Covey,Cheryl Allen,Judy Olson,Mike George,Rebecca Warren,16
+Paul Lalley,1,1,0,0,0,0,0,16
+Correale Stevens,,0,0,0,0,0,0,16
+Anne Covey,,,0,0,0,0,0,16
+Cheryl Allen,,,,0,0,0,0,16
+Judy Olson,,,,,0,0,0,16
+Mike George,,,,,,0,0,16
+Rebecca Warren,,,,,,,0,16
+Total,2,1,0,0,0,0,0,16
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Commonwealth Court - Republican,17
+,Anne Covey,Mike George,Cheryl Allen,Judy Olson,Rebecca Warren,Correale Stevens,Paul Lalley,17
+Anne Covey,0,3,2,1,1,1,3,17
+Mike George,,0,1,0,1,1,2,17
+Cheryl Allen,,,0,1,0,0,2,17
+Judy Olson,,,,0,1,0,2,17
+Rebecca Warren,,,,,0,0,2,17
+Correale Stevens,,,,,,0,0,17
+Paul Lalley,,,,,,,0,17
+Total,4,3,2,2,2,1,4,17
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Commonwealth Court - Republican,18
+,Anne Covey,Correale Stevens,Cheryl Allen,Judy Olson,Mike George,Rebecca Warren,Paul Lalley,18
+Anne Covey,0,1,0,0,0,0,0,18
+Correale Stevens,,0,0,0,0,0,0,18
+Cheryl Allen,,,0,0,0,0,0,18
+Judy Olson,,,,0,0,0,0,18
+Mike George,,,,,0,0,0,18
+Rebecca Warren,,,,,,0,0,18
+Paul Lalley,,,,,,,0,18
+Total,1,1,0,0,0,0,0,18
+,Judge Of The Commonwealth Court - Republican,Justice Of The Supreme Court - Republican,,,,,,21
+,Paul Lalley,Correale Stevens,Mike George,Rebecca Warren,Anne Covey,Cheryl Allen,Judy Olson,21
+Paul Lalley,1,1,1,1,0,0,0,21
+Correale Stevens,,0,1,1,0,0,0,21
+Mike George,,,0,1,0,0,0,21
+Rebecca Warren,,,,0,0,0,0,21
+Anne Covey,,,,,0,0,0,21
+Cheryl Allen,,,,,,0,0,21
+Judy Olson,,,,,,,0,21
+Total,2,1,1,1,0,0,0,21
+,Judge Of The Commonwealth Court - Republican,Justice Of The Supreme Court - Republican,,,,,,22
+,Paul Lalley,Anne Covey,Rebecca Warren,Cheryl Allen,Correale Stevens,Judy Olson,Mike George,22
+Paul Lalley,0,2,1,1,1,0,0,22
+Anne Covey,,0,1,0,1,0,0,22
+Rebecca Warren,,,1,0,0,0,0,22
+Cheryl Allen,,,,0,0,0,0,22
+Correale Stevens,,,,,0,0,0,22
+Judy Olson,,,,,,0,0,22
+Mike George,,,,,,,0,22
+Total,3,2,2,1,1,0,0,22
+,Judge Of The Commonwealth Court - Republican,Justice Of The Supreme Court - Republican,,,,,,23
+,Paul Lalley,Anne Covey,Correale Stevens,Mike George,Cheryl Allen,Judy Olson,Rebecca Warren,23
+Paul Lalley,0,2,3,2,2,0,0,23
+Anne Covey,,1,1,1,1,0,0,23
+Correale Stevens,,,0,1,1,0,0,23
+Mike George,,,,1,2,0,0,23
+Cheryl Allen,,,,,0,0,0,23
+Judy Olson,,,,,,0,0,23
+Rebecca Warren,,,,,,,0,23
+Total,4,3,3,3,2,0,0,23
+,Judge Of The Commonwealth Court - Republican,Justice Of The Supreme Court - Republican,,,,,,24
+,Paul Lalley,Judy Olson,Anne Covey,Cheryl Allen,Correale Stevens,Mike George,Rebecca Warren,24
+Paul Lalley,0,4,3,2,2,2,1,24
+Judy Olson,,0,2,2,1,2,1,24
+Anne Covey,,,0,0,1,2,0,24
+Cheryl Allen,,,,0,1,0,1,24
+Correale Stevens,,,,,0,0,0,24
+Mike George,,,,,,0,0,24
+Rebecca Warren,,,,,,,0,24
+Total,5,4,3,2,2,2,1,24
+,Judge Of The Commonwealth Court - Republican,Justice Of The Supreme Court - Republican,,,,,,25
+,Paul Lalley,Anne Covey,Correale Stevens,Cheryl Allen,Judy Olson,Mike George,Rebecca Warren,25
+Paul Lalley,0,1,2,1,1,1,1,25
+Anne Covey,,1,0,0,0,0,0,25
+Correale Stevens,,,0,1,1,1,1,25
+Cheryl Allen,,,,0,0,0,1,25
+Judy Olson,,,,,0,1,0,25
+Mike George,,,,,,0,0,25
+Rebecca Warren,,,,,,,0,25
+Total,3,2,2,1,1,1,1,25
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Commonwealth Court - Republican,26
+,Anne Covey,Cheryl Allen,Judy Olson,Mike George,Rebecca Warren,Correale Stevens,Paul Lalley,26
+Anne Covey,0,1,1,1,1,0,2,26
+Cheryl Allen,,0,0,1,0,0,1,26
+Judy Olson,,,0,0,1,0,0,26
+Mike George,,,,0,0,0,1,26
+Rebecca Warren,,,,,0,0,0,26
+Correale Stevens,,,,,,0,0,26
+Paul Lalley,,,,,,,0,26
+Total,3,1,1,1,1,0,2,26
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Commonwealth Court - Republican,28
+,Cheryl Allen,Rebecca Warren,Anne Covey,Judy Olson,Correale Stevens,Mike George,Paul Lalley,28
+Cheryl Allen,0,2,1,1,0,0,2,28
+Rebecca Warren,,0,1,1,0,0,2,28
+Anne Covey,,,0,0,0,0,1,28
+Judy Olson,,,,0,0,0,1,28
+Correale Stevens,,,,,0,0,0,28
+Mike George,,,,,,0,0,28
+Paul Lalley,,,,,,,0,28
+Total,2,2,1,1,0,0,2,28
+,Judge Of The Commonwealth Court - Republican,Justice Of The Supreme Court - Republican,,,,,,All
+,Paul Lalley,Anne Covey,Correale Stevens,Mike George,Cheryl Allen,Rebecca Warren,Judy Olson,All
+Paul Lalley,3,38,29,21,21,19,16,All
+Anne Covey,,4,17,16,10,12,10,All
+Correale Stevens,,,1,9,8,8,3,All
+Mike George,,,,3,10,5,7,All
+Cheryl Allen,,,,,1,7,5,All
+Rebecca Warren,,,,,,1,7,All
+Judy Olson,,,,,,,0,All
+Total,62,47,33,27,22,22,17,All

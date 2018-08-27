@@ -1,0 +1,121 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,division
+,Representative In Congress 2nd District - Republican,President Of The United States - Republican,,,,,,All
+,James A Jones,Ted Cruz,Donald J Trump,John R Kasich,Jeb Bush,Ben Carson,Marco Rubio,All
+James A Jones,0,8,3,4,2,1,0,All
+Ted Cruz,,3,0,0,0,0,0,All
+Donald J Trump,,,4,0,0,0,0,All
+John R Kasich,,,,1,0,0,0,All
+Jeb Bush,,,,,0,0,0,All
+Ben Carson,,,,,,0,0,All
+Marco Rubio,,,,,,,1,All
+Total,18,11,7,5,2,1,1,All
+,Representative In Congress 2nd District - Republican,President Of The United States - Republican,,,,,,2
+,James A Jones,Donald J Trump,John R Kasich,Ted Cruz,Ben Carson,Jeb Bush,Marco Rubio,2
+James A Jones,0,1,1,0,0,0,0,2
+Donald J Trump,,0,0,0,0,0,0,2
+John R Kasich,,,0,0,0,0,0,2
+Ted Cruz,,,,1,0,0,0,2
+Ben Carson,,,,,0,0,0,2
+Jeb Bush,,,,,,0,0,2
+Marco Rubio,,,,,,,0,2
+Total,2,1,1,1,0,0,0,2
+,Representative In Congress 2nd District - Republican,President Of The United States - Republican,,,,,,4
+,James A Jones,John R Kasich,Ted Cruz,Ben Carson,Donald J Trump,Jeb Bush,Marco Rubio,4
+James A Jones,0,1,0,0,0,0,0,4
+John R Kasich,,0,0,0,0,0,0,4
+Ted Cruz,,,1,0,0,0,0,4
+Ben Carson,,,,0,0,0,0,4
+Donald J Trump,,,,,0,0,0,4
+Jeb Bush,,,,,,0,0,4
+Marco Rubio,,,,,,,0,4
+Total,1,1,1,0,0,0,0,4
+,President Of The United States - Republican,,,,,,Representative In Congress 2nd District - Republican,5
+,John R Kasich,Donald J Trump,Ben Carson,Jeb Bush,Marco Rubio,Ted Cruz,James A Jones,5
+John R Kasich,1,0,0,0,0,0,1,5
+Donald J Trump,,1,0,0,0,0,0,5
+Ben Carson,,,0,0,0,0,0,5
+Jeb Bush,,,,0,0,0,0,5
+Marco Rubio,,,,,0,0,0,5
+Ted Cruz,,,,,,0,0,5
+James A Jones,,,,,,,0,5
+Total,2,1,0,0,0,0,1,5
+,Representative In Congress 2nd District - Republican,President Of The United States - Republican,,,,,,6
+,James A Jones,Ben Carson,Donald J Trump,Jeb Bush,John R Kasich,Marco Rubio,Ted Cruz,6
+James A Jones,0,1,1,0,0,0,0,6
+Ben Carson,,0,0,0,0,0,0,6
+Donald J Trump,,,0,0,0,0,0,6
+Jeb Bush,,,,0,0,0,0,6
+John R Kasich,,,,,0,0,0,6
+Marco Rubio,,,,,,0,0,6
+Ted Cruz,,,,,,,0,6
+Total,2,1,1,0,0,0,0,6
+,Representative In Congress 2nd District - Republican,President Of The United States - Republican,,,,,,7
+,James A Jones,Donald J Trump,John R Kasich,Marco Rubio,Ted Cruz,Ben Carson,Jeb Bush,7
+James A Jones,0,1,1,0,1,0,0,7
+Donald J Trump,,0,0,0,0,0,0,7
+John R Kasich,,,0,0,0,0,0,7
+Marco Rubio,,,,1,0,0,0,7
+Ted Cruz,,,,,0,0,0,7
+Ben Carson,,,,,,0,0,7
+Jeb Bush,,,,,,,0,7
+Total,3,1,1,1,1,0,0,7
+,Representative In Congress 2nd District - Republican,President Of The United States - Republican,,,,,,8
+,James A Jones,Ted Cruz,Ben Carson,Donald J Trump,Jeb Bush,John R Kasich,Marco Rubio,8
+James A Jones,0,1,0,0,0,0,0,8
+Ted Cruz,,0,0,0,0,0,0,8
+Ben Carson,,,0,0,0,0,0,8
+Donald J Trump,,,,0,0,0,0,8
+Jeb Bush,,,,,0,0,0,8
+John R Kasich,,,,,,0,0,8
+Marco Rubio,,,,,,,0,8
+Total,1,1,0,0,0,0,0,8
+,President Of The United States - Republican,,,,,,Representative In Congress 2nd District - Republican,10
+,Ted Cruz,Ben Carson,Donald J Trump,Jeb Bush,John R Kasich,Marco Rubio,James A Jones,10
+Ted Cruz,1,0,0,0,0,0,1,10
+Ben Carson,,0,0,0,0,0,0,10
+Donald J Trump,,,0,0,0,0,0,10
+Jeb Bush,,,,0,0,0,0,10
+John R Kasich,,,,,0,0,0,10
+Marco Rubio,,,,,,0,0,10
+James A Jones,,,,,,,0,10
+Total,2,0,0,0,0,0,1,10
+,Representative In Congress 2nd District - Republican,President Of The United States - Republican,,,,,,11
+,James A Jones,Donald J Trump,Jeb Bush,Ted Cruz,Ben Carson,John R Kasich,Marco Rubio,11
+James A Jones,0,0,1,1,0,0,0,11
+Donald J Trump,,1,0,0,0,0,0,11
+Jeb Bush,,,0,0,0,0,0,11
+Ted Cruz,,,,0,0,0,0,11
+Ben Carson,,,,,0,0,0,11
+John R Kasich,,,,,,0,0,11
+Marco Rubio,,,,,,,0,11
+Total,2,1,1,1,0,0,0,11
+,Representative In Congress 2nd District - Republican,President Of The United States - Republican,,,,,,12
+,James A Jones,Jeb Bush,Ted Cruz,Ben Carson,Donald J Trump,John R Kasich,Marco Rubio,12
+James A Jones,0,1,1,0,0,0,0,12
+Jeb Bush,,0,0,0,0,0,0,12
+Ted Cruz,,,0,0,0,0,0,12
+Ben Carson,,,,0,0,0,0,12
+Donald J Trump,,,,,0,0,0,12
+John R Kasich,,,,,,0,0,12
+Marco Rubio,,,,,,,0,12
+Total,2,1,1,0,0,0,0,12
+,President Of The United States - Republican,,,,,,Representative In Congress 2nd District - Republican,13
+,Donald J Trump,Ted Cruz,Ben Carson,Jeb Bush,John R Kasich,Marco Rubio,James A Jones,13
+Donald J Trump,1,0,0,0,0,0,0,13
+Ted Cruz,,0,0,0,0,0,1,13
+Ben Carson,,,0,0,0,0,0,13
+Jeb Bush,,,,0,0,0,0,13
+John R Kasich,,,,,0,0,0,13
+Marco Rubio,,,,,,0,0,13
+James A Jones,,,,,,,0,13
+Total,1,1,0,0,0,0,1,13
+,Representative In Congress 2nd District - Republican,President Of The United States - Republican,,,,,,15
+,James A Jones,Ted Cruz,Donald J Trump,Ben Carson,Jeb Bush,John R Kasich,Marco Rubio,15
+James A Jones,0,2,0,0,0,0,0,15
+Ted Cruz,,0,0,0,0,0,0,15
+Donald J Trump,,,1,0,0,0,0,15
+Ben Carson,,,,0,0,0,0,15
+Jeb Bush,,,,,0,0,0,15
+John R Kasich,,,,,,0,0,15
+Marco Rubio,,,,,,,0,15
+Total,2,2,1,0,0,0,0,15

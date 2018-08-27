@@ -1,4 +1,9 @@
 col_1,col_2,col_3,division
+,Sheriff,,All
+,Jewell Williams,Christopher Sawyer,All
+Jewell Williams,"1,100",0,All
+Christopher Sawyer,,"1,068",All
+Total,"1,100","1,068",All
 ,Sheriff,,1
 ,Christopher Sawyer,Jewell Williams,1
 Christopher Sawyer,88,0,1
@@ -124,8 +129,3 @@ Total,81,74,24
 Jewell Williams,54,0,25
 Christopher Sawyer,,53,25
 Total,54,53,25
-,Sheriff,,All
-,Jewell Williams,Christopher Sawyer,All
-Jewell Williams,"1,100",0,All
-Christopher Sawyer,,"1,068",All
-Total,"1,100","1,068",All

@@ -1,4 +1,13 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,division
+,City Commissioners,,,Judge Of The Municipal Court,,,All
+,Anthony Clark,Lisa M Deeley,Al Schmidt,Christine Hope,Sharon Williams Losier,Joffie C Pittman,All
+Anthony Clark,42,546,14,610,595,563,All
+Lisa M Deeley,,3,22,577,570,560,All
+Al Schmidt,,,5,43,28,29,All
+Christine Hope,,,,10,576,571,All
+Sharon Williams Losier,,,,,11,572,All
+Joffie C Pittman,,,,,,6,All
+Total,726,629,56,695,659,613,All
 ,Judge Of The Municipal Court,,,City Commissioners,,,1
 ,Christine Hope,Sharon Williams Losier,Joffie C Pittman,Anthony Clark,Lisa M Deeley,Al Schmidt,1
 Christine Hope,2,42,41,43,41,8,1
@@ -125,12 +134,3 @@ Anthony Clark,,,,2,27,1,14
 Lisa M Deeley,,,,,0,2,14
 Al Schmidt,,,,,,0,14
 Total,36,31,29,35,31,5,14
-,City Commissioners,,,Judge Of The Municipal Court,,,All
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Christine Hope,Sharon Williams Losier,Joffie C Pittman,All
-Anthony Clark,42,546,14,610,595,563,All
-Lisa M Deeley,,3,22,577,570,560,All
-Al Schmidt,,,5,43,28,29,All
-Christine Hope,,,,10,576,571,All
-Sharon Williams Losier,,,,,11,572,All
-Joffie C Pittman,,,,,,6,All
-Total,726,629,56,695,659,613,All

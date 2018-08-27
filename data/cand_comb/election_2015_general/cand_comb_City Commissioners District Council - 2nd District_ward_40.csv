@@ -1,4 +1,11 @@
 col_1,col_2,col_3,col_4,col_5,division
+,District Council 2nd District,City Commissioners,,,All
+,Kenyatta Johnson,Anthony Clark,Lisa M Deeley,Al Schmidt,All
+Kenyatta Johnson,324,"4,003","3,581",115,All
+Anthony Clark,,111,"3,426",53,All
+Lisa M Deeley,,,69,70,All
+Al Schmidt,,,,114,All
+Total,"4,629","4,252","3,791",260,All
 ,District Council 2nd District,City Commissioners,,,1
 ,Kenyatta Johnson,Anthony Clark,Lisa M Deeley,Al Schmidt,1
 Kenyatta Johnson,2,53,48,1,1
@@ -20,13 +27,6 @@ Lisa M Deeley,,3,2,121,3
 Al Schmidt,,,0,4,3
 Kenyatta Johnson,,,,7,3
 Total,160,131,4,155,3
-,City Commissioners,,,District Council 2nd District,4
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Kenyatta Johnson,4
-Anthony Clark,14,103,0,0,4
-Lisa M Deeley,,6,1,0,4
-Al Schmidt,,,0,0,4
-Kenyatta Johnson,,,,0,4
-Total,117,110,1,0,4
 ,District Council 2nd District,City Commissioners,,,5
 ,Kenyatta Johnson,Anthony Clark,Lisa M Deeley,Al Schmidt,5
 Kenyatta Johnson,10,141,130,0,5
@@ -90,13 +90,6 @@ Anthony Clark,,1,65,1,13
 Lisa M Deeley,,,1,1,13
 Al Schmidt,,,,0,13
 Total,86,77,72,2,13
-,City Commissioners,,,District Council 2nd District,14
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Kenyatta Johnson,14
-Anthony Clark,15,70,1,0,14
-Lisa M Deeley,,5,1,0,14
-Al Schmidt,,,1,0,14
-Kenyatta Johnson,,,,0,14
-Total,86,76,3,0,14
 ,District Council 2nd District,City Commissioners,,,15
 ,Kenyatta Johnson,Anthony Clark,Lisa M Deeley,Al Schmidt,15
 Kenyatta Johnson,7,39,36,1,15
@@ -188,13 +181,6 @@ Anthony Clark,,0,57,1,27
 Lisa M Deeley,,,1,0,27
 Al Schmidt,,,,0,27
 Total,79,65,63,1,27
-,City Commissioners,,,District Council 2nd District,28
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Kenyatta Johnson,28
-Anthony Clark,18,96,2,0,28
-Lisa M Deeley,,7,1,0,28
-Al Schmidt,,,9,0,28
-Kenyatta Johnson,,,,0,28
-Total,116,104,12,0,28
 ,District Council 2nd District,City Commissioners,,,29
 ,Kenyatta Johnson,Anthony Clark,Lisa M Deeley,Al Schmidt,29
 Kenyatta Johnson,8,67,64,0,29
@@ -356,10 +342,3 @@ Anthony Clark,,1,24,2,51
 Lisa M Deeley,,,4,1,51
 Al Schmidt,,,,2,51
 Total,54,40,37,5,51
-,District Council 2nd District,City Commissioners,,,All
-,Kenyatta Johnson,Anthony Clark,Lisa M Deeley,Al Schmidt,All
-Kenyatta Johnson,324,"4,003","3,581",115,All
-Anthony Clark,,158,"3,695",56,All
-Lisa M Deeley,,,87,73,All
-Al Schmidt,,,,124,All
-Total,"4,629","4,571","4,081",276,All

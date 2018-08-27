@@ -1,0 +1,55 @@
+col_1,col_2,col_3,col_4,division
+,Representative In Congress 2nd District - Republican,Attorney General - Republican,,All
+,James A Jones,Joe Peters,John Rafferty,All
+James A Jones,1,7,3,All
+Joe Peters,,0,0,All
+John Rafferty,,,1,All
+Total,11,7,4,All
+,Representative In Congress 2nd District - Republican,Attorney General - Republican,,1
+,James A Jones,Joe Peters,John Rafferty,1
+James A Jones,0,1,0,1
+Joe Peters,,0,0,1
+John Rafferty,,,0,1
+Total,1,1,0,1
+,Attorney General - Republican,,Representative In Congress 2nd District - Republican,4
+,John Rafferty,Joe Peters,James A Jones,4
+John Rafferty,1,0,1,4
+Joe Peters,,0,0,4
+James A Jones,,,0,4
+Total,2,0,1,4
+,Representative In Congress 2nd District - Republican,Attorney General - Republican,,11
+,James A Jones,Joe Peters,John Rafferty,11
+James A Jones,1,1,0,11
+Joe Peters,,0,0,11
+John Rafferty,,,0,11
+Total,2,1,0,11
+,Representative In Congress 2nd District - Republican,Attorney General - Republican,,13
+,James A Jones,John Rafferty,Joe Peters,13
+James A Jones,0,1,0,13
+John Rafferty,,0,0,13
+Joe Peters,,,0,13
+Total,1,1,0,13
+,Representative In Congress 2nd District - Republican,Attorney General - Republican,,14
+,James A Jones,Joe Peters,John Rafferty,14
+James A Jones,0,1,0,14
+Joe Peters,,0,0,14
+John Rafferty,,,0,14
+Total,1,1,0,14
+,Representative In Congress 2nd District - Republican,Attorney General - Republican,,15
+,James A Jones,John Rafferty,Joe Peters,15
+James A Jones,0,1,0,15
+John Rafferty,,0,0,15
+Joe Peters,,,0,15
+Total,1,1,0,15
+,Representative In Congress 2nd District - Republican,Attorney General - Republican,,16
+,James A Jones,Joe Peters,John Rafferty,16
+James A Jones,0,3,0,16
+Joe Peters,,0,0,16
+John Rafferty,,,0,16
+Total,3,3,0,16
+,Representative In Congress 2nd District - Republican,Attorney General - Republican,,18
+,James A Jones,Joe Peters,John Rafferty,18
+James A Jones,0,1,0,18
+Joe Peters,,0,0,18
+John Rafferty,,,0,18
+Total,1,1,0,18

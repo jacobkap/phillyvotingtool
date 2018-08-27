@@ -1,4 +1,21 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10,col_11,col_12,col_13,col_14,col_15,division
+,District Council 7th District,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,All
+,Maria Quinones Sanchez,Ken Powell,Mia Roberts Perez,Tracy B Roman,Kai Scott,Lyris Younge,Abbe Fletman,Stephanie M Sawyer,Michael Fanning,Daine Grey Jr,Scott Diclaudio,Chris Mallios,Rainy Papademetriou,Vincent Furlong,All
+Maria Quinones Sanchez,70,"1,296","1,283","1,281","1,232","1,229","1,231","1,181","1,159","1,161","1,143","1,149","1,136",130,All
+Ken Powell,,16,"1,301","1,313","1,290","1,294","1,287","1,209","1,210","1,202","1,189","1,193","1,179",101,All
+Mia Roberts Perez,,,11,"1,311","1,284","1,296","1,287","1,215","1,202","1,198","1,186","1,192","1,184",97,All
+Tracy B Roman,,,,12,"1,288","1,300","1,291","1,219","1,203","1,201","1,191","1,193","1,185",104,All
+Kai Scott,,,,,5,"1,287","1,275","1,189","1,190","1,182","1,168","1,180","1,171",83,All
+Lyris Younge,,,,,,4,"1,280","1,203","1,195","1,192","1,180","1,183","1,181",89,All
+Abbe Fletman,,,,,,,0,"1,200","1,194","1,189","1,178","1,181","1,176",90,All
+Stephanie M Sawyer,,,,,,,,4,"1,213","1,207","1,201","1,205","1,189",109,All
+Michael Fanning,,,,,,,,,3,"1,202","1,198","1,201","1,183",107,All
+Daine Grey Jr,,,,,,,,,,2,"1,187","1,187","1,182",94,All
+Scott Diclaudio,,,,,,,,,,,1,"1,188","1,178",97,All
+Chris Mallios,,,,,,,,,,,,0,"1,183",94,All
+Rainy Papademetriou,,,,,,,,,,,,,0,88,All
+Vincent Furlong,,,,,,,,,,,,,,130,All
+Total,"1,557","1,430","1,404","1,403","1,345","1,340","1,335","1,281","1,256","1,247","1,235","1,230","1,215",291,All
 ,District Council 7th District,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,1
 ,Maria Quinones Sanchez,Tracy B Roman,Mia Roberts Perez,Ken Powell,Abbe Fletman,Lyris Younge,Kai Scott,Daine Grey Jr,Stephanie M Sawyer,Scott Diclaudio,Chris Mallios,Michael Fanning,Rainy Papademetriou,Vincent Furlong,1
 Maria Quinones Sanchez,4,71,71,70,69,69,66,66,66,64,63,64,63,4,1
@@ -271,23 +288,6 @@ Michael Fanning,,,,,,,,,,,,0,56,3,16
 Rainy Papademetriou,,,,,,,,,,,,,0,1,16
 Vincent Furlong,,,,,,,,,,,,,,4,16
 Total,89,70,68,68,67,66,66,61,61,60,59,59,58,10,16
-,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,District Council 7th District,17
-,Ken Powell,Kai Scott,Tracy B Roman,Mia Roberts Perez,Lyris Younge,Abbe Fletman,Stephanie M Sawyer,Michael Fanning,Chris Mallios,Daine Grey Jr,Rainy Papademetriou,Scott Diclaudio,Vincent Furlong,Maria Quinones Sanchez,17
-Ken Powell,10,66,65,64,65,62,53,51,52,51,50,48,11,0,17
-Kai Scott,,2,69,69,69,64,56,53,54,55,53,49,13,0,17
-Tracy B Roman,,,1,67,68,63,57,53,55,53,51,49,14,0,17
-Mia Roberts Perez,,,,3,66,61,54,50,52,52,52,47,13,0,17
-Lyris Younge,,,,,1,63,55,52,54,53,51,48,12,0,17
-Abbe Fletman,,,,,,1,55,54,53,53,51,50,12,0,17
-Stephanie M Sawyer,,,,,,,0,56,55,55,53,51,16,0,17
-Michael Fanning,,,,,,,,1,51,53,49,49,11,0,17
-Chris Mallios,,,,,,,,,0,52,52,49,13,0,17
-Daine Grey Jr,,,,,,,,,,0,51,47,12,0,17
-Rainy Papademetriou,,,,,,,,,,,0,47,12,0,17
-Scott Diclaudio,,,,,,,,,,,,0,10,0,17
-Vincent Furlong,,,,,,,,,,,,,10,0,17
-Maria Quinones Sanchez,,,,,,,,,,,,,,0,17
-Total,78,74,74,72,71,67,61,58,57,56,54,52,26,0,17
 ,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,District Council 7th District,18
 ,Ken Powell,Abbe Fletman,Kai Scott,Mia Roberts Perez,Tracy B Roman,Lyris Younge,Daine Grey Jr,Stephanie M Sawyer,Scott Diclaudio,Chris Mallios,Michael Fanning,Rainy Papademetriou,Vincent Furlong,Maria Quinones Sanchez,18
 Ken Powell,3,58,57,57,58,57,52,52,51,52,50,47,7,42,18
@@ -339,40 +339,6 @@ Rainy Papademetriou,,,,,,,,,,,,0,50,5,20
 Daine Grey Jr,,,,,,,,,,,,,0,6,20
 Vincent Furlong,,,,,,,,,,,,,,7,20
 Total,74,66,66,64,62,61,59,55,55,53,52,52,51,20,20
-,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,District Council 7th District,21
-,Mia Roberts Perez,Ken Powell,Tracy B Roman,Abbe Fletman,Lyris Younge,Kai Scott,Michael Fanning,Stephanie M Sawyer,Chris Mallios,Daine Grey Jr,Rainy Papademetriou,Scott Diclaudio,Vincent Furlong,Maria Quinones Sanchez,21
-Mia Roberts Perez,2,42,43,41,41,41,38,39,36,36,35,34,6,0,21
-Ken Powell,,3,40,41,41,40,38,37,36,36,34,34,4,0,21
-Tracy B Roman,,,1,39,39,39,36,37,35,35,34,33,3,0,21
-Abbe Fletman,,,,0,41,40,37,37,36,36,34,35,4,0,21
-Lyris Younge,,,,,1,40,37,36,36,36,34,34,4,0,21
-Kai Scott,,,,,,0,36,36,35,35,35,33,4,0,21
-Michael Fanning,,,,,,,2,37,36,36,34,34,4,0,21
-Stephanie M Sawyer,,,,,,,,0,36,36,35,35,4,0,21
-Chris Mallios,,,,,,,,,0,36,34,34,4,0,21
-Daine Grey Jr,,,,,,,,,,0,34,34,4,0,21
-Rainy Papademetriou,,,,,,,,,,,0,32,3,0,21
-Scott Diclaudio,,,,,,,,,,,,0,2,0,21
-Vincent Furlong,,,,,,,,,,,,,4,0,21
-Maria Quinones Sanchez,,,,,,,,,,,,,,0,21
-Total,50,45,44,42,42,41,40,40,36,36,35,35,10,0,21
-,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,District Council 7th District,22
-,Ken Powell,Tracy B Roman,Kai Scott,Mia Roberts Perez,Abbe Fletman,Lyris Younge,Michael Fanning,Rainy Papademetriou,Daine Grey Jr,Stephanie M Sawyer,Scott Diclaudio,Chris Mallios,Vincent Furlong,Maria Quinones Sanchez,22
-Ken Powell,4,51,51,49,48,48,46,45,45,42,43,44,9,0,22
-Tracy B Roman,,4,51,49,48,48,45,43,44,42,42,42,9,0,22
-Kai Scott,,,1,50,48,50,44,45,45,44,41,43,6,0,22
-Mia Roberts Perez,,,,2,49,50,44,44,43,44,41,42,6,0,22
-Abbe Fletman,,,,,1,48,43,45,44,44,42,43,6,0,22
-Lyris Younge,,,,,,0,43,44,44,43,40,43,5,0,22
-Michael Fanning,,,,,,,1,44,45,44,43,45,10,0,22
-Rainy Papademetriou,,,,,,,,0,46,44,42,44,7,0,22
-Daine Grey Jr,,,,,,,,,0,45,42,45,8,0,22
-Stephanie M Sawyer,,,,,,,,,,0,43,43,7,0,22
-Scott Diclaudio,,,,,,,,,,,1,41,8,0,22
-Chris Mallios,,,,,,,,,,,,0,7,0,22
-Vincent Furlong,,,,,,,,,,,,,9,0,22
-Maria Quinones Sanchez,,,,,,,,,,,,,,0,22
-Total,60,59,58,56,53,52,50,49,48,48,47,46,20,0,22
 ,District Council 7th District,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,23
 ,Maria Quinones Sanchez,Ken Powell,Mia Roberts Perez,Tracy B Roman,Abbe Fletman,Lyris Younge,Stephanie M Sawyer,Chris Mallios,Michael Fanning,Rainy Papademetriou,Daine Grey Jr,Scott Diclaudio,Kai Scott,Vincent Furlong,23
 Maria Quinones Sanchez,4,44,44,43,40,38,38,38,38,37,36,36,34,11,23
@@ -390,71 +356,3 @@ Scott Diclaudio,,,,,,,,,,,,0,29,9,23
 Kai Scott,,,,,,,,,,,,,0,5,23
 Vincent Furlong,,,,,,,,,,,,,,6,23
 Total,55,46,45,45,41,40,40,39,39,38,37,37,35,18,23
-,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,District Council 7th District,24
-,Ken Powell,Kai Scott,Mia Roberts Perez,Abbe Fletman,Tracy B Roman,Lyris Younge,Michael Fanning,Chris Mallios,Daine Grey Jr,Stephanie M Sawyer,Scott Diclaudio,Rainy Papademetriou,Vincent Furlong,Maria Quinones Sanchez,24
-Ken Powell,2,44,44,45,45,45,39,37,38,38,37,33,6,0,24
-Kai Scott,,2,45,45,43,44,39,39,38,38,37,34,6,0,24
-Mia Roberts Perez,,,2,45,45,44,40,38,39,39,38,34,7,0,24
-Abbe Fletman,,,,1,44,45,39,39,38,39,38,34,6,0,24
-Tracy B Roman,,,,,0,45,39,37,38,39,38,34,6,0,24
-Lyris Younge,,,,,,0,37,38,37,38,38,34,5,0,24
-Michael Fanning,,,,,,,1,39,40,40,38,35,9,0,24
-Chris Mallios,,,,,,,,1,38,39,38,35,6,0,24
-Daine Grey Jr,,,,,,,,,1,39,37,34,6,0,24
-Stephanie M Sawyer,,,,,,,,,,0,39,34,6,0,24
-Scott Diclaudio,,,,,,,,,,,0,34,6,0,24
-Rainy Papademetriou,,,,,,,,,,,,0,3,0,24
-Vincent Furlong,,,,,,,,,,,,,9,0,24
-Maria Quinones Sanchez,,,,,,,,,,,,,,0,24
-Total,50,49,49,48,47,46,44,41,41,41,39,35,18,0,24
-,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,District Council 7th District,25
-,Ken Powell,Tracy B Roman,Mia Roberts Perez,Kai Scott,Lyris Younge,Abbe Fletman,Michael Fanning,Rainy Papademetriou,Scott Diclaudio,Chris Mallios,Daine Grey Jr,Stephanie M Sawyer,Vincent Furlong,Maria Quinones Sanchez,25
-Ken Powell,2,46,42,42,43,41,36,36,37,37,37,35,6,0,25
-Tracy B Roman,,1,43,42,43,42,36,36,37,38,38,37,5,0,25
-Mia Roberts Perez,,,3,41,42,41,36,35,36,36,35,35,4,0,25
-Kai Scott,,,,3,42,41,37,36,36,36,35,34,5,0,25
-Lyris Younge,,,,,1,42,36,36,36,36,36,35,5,0,25
-Abbe Fletman,,,,,,0,36,36,35,35,35,35,4,0,25
-Michael Fanning,,,,,,,0,37,36,36,35,34,8,0,25
-Rainy Papademetriou,,,,,,,,1,36,36,35,34,6,0,25
-Scott Diclaudio,,,,,,,,,1,37,35,35,5,0,25
-Chris Mallios,,,,,,,,,,0,35,36,4,0,25
-Daine Grey Jr,,,,,,,,,,,0,34,4,0,25
-Stephanie M Sawyer,,,,,,,,,,,,0,3,0,25
-Vincent Furlong,,,,,,,,,,,,,10,0,25
-Maria Quinones Sanchez,,,,,,,,,,,,,,0,25
-Total,49,49,47,46,45,44,40,39,39,38,38,38,22,0,25
-,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,District Council 7th District,26
-,Ken Powell,Kai Scott,Tracy B Roman,Abbe Fletman,Mia Roberts Perez,Lyris Younge,Michael Fanning,Stephanie M Sawyer,Rainy Papademetriou,Scott Diclaudio,Daine Grey Jr,Chris Mallios,Vincent Furlong,Maria Quinones Sanchez,26
-Ken Powell,7,42,46,43,40,41,38,39,36,39,35,37,7,0,26
-Kai Scott,,2,44,46,42,45,36,37,37,36,36,35,8,0,26
-Tracy B Roman,,,2,44,42,42,38,40,37,39,35,37,8,0,26
-Abbe Fletman,,,,0,42,43,37,39,39,37,38,35,7,0,26
-Mia Roberts Perez,,,,,1,41,32,36,35,34,33,33,4,0,26
-Lyris Younge,,,,,,0,35,37,37,36,36,35,8,0,26
-Michael Fanning,,,,,,,4,37,35,37,35,36,7,0,26
-Stephanie M Sawyer,,,,,,,,0,37,38,36,37,8,0,26
-Rainy Papademetriou,,,,,,,,,0,36,35,35,5,0,26
-Scott Diclaudio,,,,,,,,,,0,34,37,6,0,26
-Daine Grey Jr,,,,,,,,,,,0,34,6,0,26
-Chris Mallios,,,,,,,,,,,,0,6,0,26
-Vincent Furlong,,,,,,,,,,,,,16,0,26
-Maria Quinones Sanchez,,,,,,,,,,,,,,0,26
-Total,55,52,52,50,48,47,44,43,39,39,38,37,28,0,26
-,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,District Council 7th District,All
-,Ken Powell,Tracy B Roman,Mia Roberts Perez,Kai Scott,Lyris Younge,Abbe Fletman,Stephanie M Sawyer,Michael Fanning,Daine Grey Jr,Scott Diclaudio,Chris Mallios,Rainy Papademetriou,Vincent Furlong,Maria Quinones Sanchez,All
-Ken Powell,44,"1,606","1,582","1,575","1,577","1,567","1,453","1,458","1,444","1,427","1,436","1,413",144,"1,296",All
-Tracy B Roman,,21,"1,600","1,576","1,585","1,571","1,471","1,450","1,444","1,429","1,437","1,420",149,"1,281",All
-Mia Roberts Perez,,,24,"1,572","1,580","1,566","1,462","1,442","1,436","1,416","1,429","1,419",137,"1,283",All
-Kai Scott,,,,15,"1,577","1,559","1,434","1,435","1,426","1,400","1,422","1,411",125,"1,232",All
-Lyris Younge,,,,,7,"1,562","1,447","1,435","1,434","1,412","1,425","1,417",128,"1,229",All
-Abbe Fletman,,,,,,3,"1,449","1,440","1,433","1,415","1,422","1,415",129,"1,231",All
-Stephanie M Sawyer,,,,,,,4,"1,461","1,452","1,442","1,451","1,426",153,"1,181",All
-Michael Fanning,,,,,,,,12,"1,446","1,435","1,444","1,417",156,"1,159",All
-Daine Grey Jr,,,,,,,,,3,"1,416","1,427","1,417",134,"1,161",All
-Scott Diclaudio,,,,,,,,,,3,"1,424","1,405",134,"1,143",All
-Chris Mallios,,,,,,,,,,,1,"1,419",134,"1,149",All
-Rainy Papademetriou,,,,,,,,,,,,1,124,"1,136",All
-Vincent Furlong,,,,,,,,,,,,,188,130,All
-Maria Quinones Sanchez,,,,,,,,,,,,,,70,All
-Total,"1,767","1,728","1,726","1,665","1,643","1,639","1,552","1,532","1,504","1,486","1,485","1,466",415,"1,557",All

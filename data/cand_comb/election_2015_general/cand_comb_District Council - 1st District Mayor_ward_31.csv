@@ -1,4 +1,13 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,division
+,District Council 1st District,Mayor,,,,,All
+,Mark F Squilla,Jim Kenney,Melissa Murray Bailey,Osborne Hart,James Foster,Boris Kindij,All
+Mark F Squilla,61,"1,622",170,39,21,5,All
+Jim Kenney,,286,0,0,0,0,All
+Melissa Murray Bailey,,,207,0,0,0,All
+Osborne Hart,,,,19,0,0,All
+James Foster,,,,,5,0,All
+Boris Kindij,,,,,,2,All
+Total,"1,918","1,908",377,58,26,7,All
 ,District Council 1st District,Mayor,,,,,1
 ,Mark F Squilla,Jim Kenney,Melissa Murray Bailey,Osborne Hart,James Foster,Boris Kindij,1
 Mark F Squilla,2,77,7,5,3,1,1
@@ -8,15 +17,6 @@ Osborne Hart,,,,2,0,0,1
 James Foster,,,,,0,0,1
 Boris Kindij,,,,,,0,1
 Total,95,79,11,7,3,1,1
-,Mayor,,,,,District Council 1st District,2
-,Jim Kenney,Melissa Murray Bailey,Osborne Hart,Boris Kindij,James Foster,Mark F Squilla,2
-Jim Kenney,27,0,0,0,0,0,2
-Melissa Murray Bailey,,7,0,0,0,0,2
-Osborne Hart,,,1,0,0,0,2
-Boris Kindij,,,,0,0,0,2
-James Foster,,,,,0,0,2
-Mark F Squilla,,,,,,0,2
-Total,27,7,1,0,0,0,2
 ,Mayor,,,,,District Council 1st District,3
 ,Jim Kenney,Melissa Murray Bailey,Osborne Hart,Boris Kindij,James Foster,Mark F Squilla,3
 Jim Kenney,21,0,0,0,0,62,3
@@ -71,15 +71,6 @@ Osborne Hart,,,,3,0,0,8
 James Foster,,,,,0,0,8
 Boris Kindij,,,,,,0,8
 Total,91,87,15,7,2,0,8
-,Mayor,,,,,District Council 1st District,9
-,Jim Kenney,Melissa Murray Bailey,Osborne Hart,Boris Kindij,James Foster,Mark F Squilla,9
-Jim Kenney,74,0,0,0,0,0,9
-Melissa Murray Bailey,,7,0,0,0,0,9
-Osborne Hart,,,1,0,0,0,9
-Boris Kindij,,,,0,0,0,9
-James Foster,,,,,0,0,9
-Mark F Squilla,,,,,,0,9
-Total,74,7,1,0,0,0,9
 ,Mayor,,,,,District Council 1st District,10
 ,Jim Kenney,Melissa Murray Bailey,Osborne Hart,Boris Kindij,James Foster,Mark F Squilla,10
 Jim Kenney,13,0,0,0,0,40,10
@@ -170,12 +161,3 @@ Osborne Hart,,,,1,0,0,19
 James Foster,,,,,0,0,19
 Boris Kindij,,,,,,0,19
 Total,120,112,14,3,1,0,19
-,Mayor,,,,,District Council 1st District,All
-,Jim Kenney,Melissa Murray Bailey,Osborne Hart,James Foster,Boris Kindij,Mark F Squilla,All
-Jim Kenney,387,0,0,0,0,"1,622",All
-Melissa Murray Bailey,,221,0,0,0,170,All
-Osborne Hart,,,21,0,0,39,All
-James Foster,,,,5,0,21,All
-Boris Kindij,,,,,2,5,All
-Mark F Squilla,,,,,,61,All
-Total,"2,009",391,60,26,7,"1,918",All

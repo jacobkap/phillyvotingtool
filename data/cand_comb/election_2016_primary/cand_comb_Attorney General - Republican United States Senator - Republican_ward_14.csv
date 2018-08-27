@@ -1,0 +1,49 @@
+col_1,col_2,col_3,col_4,division
+,United States Senator - Republican,Attorney General - Republican,,All
+,Pat Toomey,John Rafferty,Joe Peters,All
+Pat Toomey,2,15,12,All
+John Rafferty,,1,0,All
+Joe Peters,,,0,All
+Total,29,16,12,All
+,United States Senator - Republican,Attorney General - Republican,,1
+,Pat Toomey,John Rafferty,Joe Peters,1
+Pat Toomey,2,7,4,1
+John Rafferty,,0,0,1
+Joe Peters,,,0,1
+Total,13,7,4,1
+,Attorney General - Republican,,United States Senator - Republican,2
+,John Rafferty,Joe Peters,Pat Toomey,2
+John Rafferty,0,0,1,2
+Joe Peters,,0,0,2
+Pat Toomey,,,0,2
+Total,1,0,1,2
+,United States Senator - Republican,Attorney General - Republican,,5
+,Pat Toomey,Joe Peters,John Rafferty,5
+Pat Toomey,0,1,1,5
+Joe Peters,,0,0,5
+John Rafferty,,,0,5
+Total,2,1,1,5
+,Attorney General - Republican,,United States Senator - Republican,7
+,John Rafferty,Joe Peters,Pat Toomey,7
+John Rafferty,0,0,1,7
+Joe Peters,,0,0,7
+Pat Toomey,,,0,7
+Total,1,0,1,7
+,United States Senator - Republican,Attorney General - Republican,,9
+,Pat Toomey,John Rafferty,Joe Peters,9
+Pat Toomey,0,3,1,9
+John Rafferty,,0,0,9
+Joe Peters,,,0,9
+Total,4,3,1,9
+,United States Senator - Republican,Attorney General - Republican,,10
+,Pat Toomey,Joe Peters,John Rafferty,10
+Pat Toomey,0,5,2,10
+Joe Peters,,0,0,10
+John Rafferty,,,0,10
+Total,7,5,2,10
+,Attorney General - Republican,,United States Senator - Republican,11
+,Joe Peters,John Rafferty,Pat Toomey,11
+Joe Peters,0,0,1,11
+John Rafferty,,1,0,11
+Pat Toomey,,,0,11
+Total,1,1,1,11

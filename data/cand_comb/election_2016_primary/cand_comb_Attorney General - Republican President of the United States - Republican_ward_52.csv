@@ -1,0 +1,265 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,division
+,Attorney General - Republican,,President Of The United States - Republican,,,,,,All
+,John Rafferty,Joe Peters,Donald J Trump,John R Kasich,Ted Cruz,Marco Rubio,Jeb Bush,Ben Carson,All
+John Rafferty,2,0,51,35,24,6,2,3,All
+Joe Peters,,0,12,8,16,1,0,0,All
+Donald J Trump,,,24,0,0,0,0,0,All
+John R Kasich,,,,13,0,0,0,0,All
+Ted Cruz,,,,,12,0,0,0,All
+Marco Rubio,,,,,,0,0,0,All
+Jeb Bush,,,,,,,2,0,All
+Ben Carson,,,,,,,,0,All
+Total,123,37,87,56,52,7,4,3,All
+,Attorney General - Republican,,President Of The United States - Republican,,,,,,2
+,John Rafferty,Joe Peters,Donald J Trump,John R Kasich,Ben Carson,Ted Cruz,Jeb Bush,Marco Rubio,2
+John Rafferty,0,0,5,4,1,0,0,0,2
+Joe Peters,,0,0,2,0,0,0,0,2
+Donald J Trump,,,3,0,0,0,0,0,2
+John R Kasich,,,,1,0,0,0,0,2
+Ben Carson,,,,,0,0,0,0,2
+Ted Cruz,,,,,,1,0,0,2
+Jeb Bush,,,,,,,0,0,2
+Marco Rubio,,,,,,,,0,2
+Total,10,2,8,7,1,1,0,0,2
+,President Of The United States - Republican,,,,,,Attorney General - Republican,,3
+,John R Kasich,Donald J Trump,Ben Carson,Jeb Bush,Marco Rubio,Ted Cruz,John Rafferty,Joe Peters,3
+John R Kasich,0,0,0,0,0,0,2,0,3
+Donald J Trump,,1,0,0,0,0,0,0,3
+Ben Carson,,,0,0,0,0,0,0,3
+Jeb Bush,,,,0,0,0,0,0,3
+Marco Rubio,,,,,0,0,0,0,3
+Ted Cruz,,,,,,0,0,0,3
+John Rafferty,,,,,,,0,0,3
+Joe Peters,,,,,,,,0,3
+Total,2,1,0,0,0,0,2,0,3
+,Attorney General - Republican,,President Of The United States - Republican,,,,,,4
+,John Rafferty,Joe Peters,Ted Cruz,Ben Carson,Donald J Trump,Jeb Bush,John R Kasich,Marco Rubio,4
+John Rafferty,0,0,1,0,0,0,0,0,4
+Joe Peters,,0,0,0,0,0,0,0,4
+Ted Cruz,,,0,0,0,0,0,0,4
+Ben Carson,,,,0,0,0,0,0,4
+Donald J Trump,,,,,0,0,0,0,4
+Jeb Bush,,,,,,0,0,0,4
+John R Kasich,,,,,,,0,0,4
+Marco Rubio,,,,,,,,0,4
+Total,1,0,1,0,0,0,0,0,4
+,President Of The United States - Republican,,,,,,Attorney General - Republican,,5
+,Donald J Trump,John R Kasich,Ted Cruz,Ben Carson,Jeb Bush,Marco Rubio,John Rafferty,Joe Peters,5
+Donald J Trump,1,0,0,0,0,0,3,1,5
+John R Kasich,,0,0,0,0,0,1,0,5
+Ted Cruz,,,0,0,0,0,0,1,5
+Ben Carson,,,,0,0,0,0,0,5
+Jeb Bush,,,,,0,0,0,0,5
+Marco Rubio,,,,,,0,0,0,5
+John Rafferty,,,,,,,0,0,5
+Joe Peters,,,,,,,,0,5
+Total,5,1,1,0,0,0,4,2,5
+,Attorney General - Republican,,President Of The United States - Republican,,,,,,6
+,John Rafferty,Joe Peters,Donald J Trump,Ted Cruz,John R Kasich,Ben Carson,Jeb Bush,Marco Rubio,6
+John Rafferty,0,0,5,1,1,0,0,0,6
+Joe Peters,,0,0,1,0,0,0,0,6
+Donald J Trump,,,0,0,0,0,0,0,6
+Ted Cruz,,,,0,0,0,0,0,6
+John R Kasich,,,,,0,0,0,0,6
+Ben Carson,,,,,,0,0,0,6
+Jeb Bush,,,,,,,0,0,6
+Marco Rubio,,,,,,,,0,6
+Total,7,1,5,2,1,0,0,0,6
+,President Of The United States - Republican,,,,,,Attorney General - Republican,,7
+,Donald J Trump,Ted Cruz,John R Kasich,Jeb Bush,Ben Carson,Marco Rubio,John Rafferty,Joe Peters,7
+Donald J Trump,4,0,0,0,0,0,2,1,7
+Ted Cruz,,1,0,0,0,0,0,2,7
+John R Kasich,,,0,0,0,0,2,0,7
+Jeb Bush,,,,0,0,0,1,0,7
+Ben Carson,,,,,0,0,0,0,7
+Marco Rubio,,,,,,0,0,0,7
+John Rafferty,,,,,,,0,0,7
+Joe Peters,,,,,,,,0,7
+Total,7,3,2,1,0,0,5,3,7
+,Attorney General - Republican,,President Of The United States - Republican,,,,,,8
+,Joe Peters,John Rafferty,Ted Cruz,Donald J Trump,John R Kasich,Marco Rubio,Ben Carson,Jeb Bush,8
+Joe Peters,0,0,2,1,2,1,0,0,8
+John Rafferty,,0,2,1,0,1,0,0,8
+Ted Cruz,,,1,0,0,0,0,0,8
+Donald J Trump,,,,1,0,0,0,0,8
+John R Kasich,,,,,1,0,0,0,8
+Marco Rubio,,,,,,0,0,0,8
+Ben Carson,,,,,,,0,0,8
+Jeb Bush,,,,,,,,0,8
+Total,6,4,5,3,3,2,0,0,8
+,Attorney General - Republican,,President Of The United States - Republican,,,,,,9
+,John Rafferty,Joe Peters,Ted Cruz,Donald J Trump,John R Kasich,Jeb Bush,Marco Rubio,Ben Carson,9
+John Rafferty,0,0,7,5,3,0,1,0,9
+Joe Peters,,0,2,1,0,0,0,0,9
+Ted Cruz,,,1,0,0,0,0,0,9
+Donald J Trump,,,,1,0,0,0,0,9
+John R Kasich,,,,,1,0,0,0,9
+Jeb Bush,,,,,,1,0,0,9
+Marco Rubio,,,,,,,0,0,9
+Ben Carson,,,,,,,,0,9
+Total,16,3,10,7,4,1,1,0,9
+,President Of The United States - Republican,,,,,,Attorney General - Republican,,10
+,Donald J Trump,John R Kasich,Ted Cruz,Ben Carson,Jeb Bush,Marco Rubio,John Rafferty,Joe Peters,10
+Donald J Trump,1,0,0,0,0,0,3,1,10
+John R Kasich,,1,0,0,0,0,1,1,10
+Ted Cruz,,,0,0,0,0,0,1,10
+Ben Carson,,,,0,0,0,0,0,10
+Jeb Bush,,,,,0,0,0,0,10
+Marco Rubio,,,,,,0,0,0,10
+John Rafferty,,,,,,,0,0,10
+Joe Peters,,,,,,,,0,10
+Total,5,3,1,0,0,0,4,3,10
+,President Of The United States - Republican,,,,,,Attorney General - Republican,,11
+,Donald J Trump,John R Kasich,Ben Carson,Ted Cruz,Jeb Bush,Marco Rubio,John Rafferty,Joe Peters,11
+Donald J Trump,3,0,0,0,0,0,3,1,11
+John R Kasich,,1,0,0,0,0,1,2,11
+Ben Carson,,,0,0,0,0,1,0,11
+Ted Cruz,,,,0,0,0,1,0,11
+Jeb Bush,,,,,0,0,0,0,11
+Marco Rubio,,,,,,0,0,0,11
+John Rafferty,,,,,,,1,0,11
+Joe Peters,,,,,,,,0,11
+Total,7,4,1,1,0,0,7,3,11
+,Attorney General - Republican,,President Of The United States - Republican,,,,,,12
+,John Rafferty,Joe Peters,John R Kasich,Donald J Trump,Ted Cruz,Marco Rubio,Jeb Bush,Ben Carson,12
+John Rafferty,0,0,13,7,1,2,1,0,12
+Joe Peters,,0,1,1,2,0,0,0,12
+John R Kasich,,,4,0,0,0,0,0,12
+Donald J Trump,,,,0,0,0,0,0,12
+Ted Cruz,,,,,0,0,0,0,12
+Marco Rubio,,,,,,0,0,0,12
+Jeb Bush,,,,,,,0,0,12
+Ben Carson,,,,,,,,0,12
+Total,24,4,18,8,3,2,1,0,12
+,President Of The United States - Republican,,,,,,Attorney General - Republican,,13
+,John R Kasich,Donald J Trump,Jeb Bush,Ben Carson,Marco Rubio,Ted Cruz,John Rafferty,Joe Peters,13
+John R Kasich,1,0,0,0,0,0,1,0,13
+Donald J Trump,,0,0,0,0,0,1,0,13
+Jeb Bush,,,1,0,0,0,0,0,13
+Ben Carson,,,,0,0,0,0,0,13
+Marco Rubio,,,,,0,0,0,0,13
+Ted Cruz,,,,,,0,0,0,13
+John Rafferty,,,,,,,0,0,13
+Joe Peters,,,,,,,,0,13
+Total,2,1,1,0,0,0,2,0,13
+,Attorney General - Republican,,President Of The United States - Republican,,,,,,14
+,John Rafferty,Joe Peters,Donald J Trump,John R Kasich,Ted Cruz,Ben Carson,Jeb Bush,Marco Rubio,14
+John Rafferty,0,0,4,2,2,0,0,0,14
+Joe Peters,,0,1,0,0,0,0,0,14
+Donald J Trump,,,1,0,0,0,0,0,14
+John R Kasich,,,,1,0,0,0,0,14
+Ted Cruz,,,,,1,0,0,0,14
+Ben Carson,,,,,,0,0,0,14
+Jeb Bush,,,,,,,0,0,14
+Marco Rubio,,,,,,,,0,14
+Total,8,1,6,3,3,0,0,0,14
+,President Of The United States - Republican,,,,,,Attorney General - Republican,,15
+,John R Kasich,Donald J Trump,Ted Cruz,Ben Carson,Jeb Bush,Marco Rubio,John Rafferty,Joe Peters,15
+John R Kasich,1,0,0,0,0,0,2,0,15
+Donald J Trump,,1,0,0,0,0,0,1,15
+Ted Cruz,,,0,0,0,0,1,0,15
+Ben Carson,,,,0,0,0,0,0,15
+Jeb Bush,,,,,0,0,0,0,15
+Marco Rubio,,,,,,0,0,0,15
+John Rafferty,,,,,,,0,0,15
+Joe Peters,,,,,,,,0,15
+Total,3,2,1,0,0,0,3,1,15
+,President Of The United States - Republican,,,,,,Attorney General - Republican,,16
+,Donald J Trump,Ted Cruz,John R Kasich,Ben Carson,Jeb Bush,Marco Rubio,John Rafferty,Joe Peters,16
+Donald J Trump,2,0,0,0,0,0,0,0,16
+Ted Cruz,,1,0,0,0,0,1,0,16
+John R Kasich,,,1,0,0,0,0,0,16
+Ben Carson,,,,0,0,0,0,0,16
+Jeb Bush,,,,,0,0,0,0,16
+Marco Rubio,,,,,,0,0,0,16
+John Rafferty,,,,,,,0,0,16
+Joe Peters,,,,,,,,0,16
+Total,2,2,1,0,0,0,1,0,16
+,Attorney General - Republican,,President Of The United States - Republican,,,,,,17
+,John Rafferty,Joe Peters,Ted Cruz,Donald J Trump,Marco Rubio,Ben Carson,Jeb Bush,John R Kasich,17
+John Rafferty,0,0,4,1,1,0,0,0,17
+Joe Peters,,0,0,0,0,0,0,0,17
+Ted Cruz,,,1,0,0,0,0,0,17
+Donald J Trump,,,,0,0,0,0,0,17
+Marco Rubio,,,,,0,0,0,0,17
+Ben Carson,,,,,,0,0,0,17
+Jeb Bush,,,,,,,0,0,17
+John R Kasich,,,,,,,,0,17
+Total,6,0,5,1,1,0,0,0,17
+,President Of The United States - Republican,,,,,,Attorney General - Republican,,18
+,Donald J Trump,Ben Carson,Jeb Bush,John R Kasich,Marco Rubio,Ted Cruz,John Rafferty,Joe Peters,18
+Donald J Trump,2,0,0,0,0,0,2,0,18
+Ben Carson,,0,0,0,0,0,0,0,18
+Jeb Bush,,,0,0,0,0,0,0,18
+John R Kasich,,,,0,0,0,0,0,18
+Marco Rubio,,,,,0,0,0,0,18
+Ted Cruz,,,,,,0,0,0,18
+John Rafferty,,,,,,,0,0,18
+Joe Peters,,,,,,,,0,18
+Total,4,0,0,0,0,0,2,0,18
+,President Of The United States - Republican,,,,,,Attorney General - Republican,,19
+,Ted Cruz,Ben Carson,Donald J Trump,Jeb Bush,John R Kasich,Marco Rubio,John Rafferty,Joe Peters,19
+Ted Cruz,4,0,0,0,0,0,0,0,19
+Ben Carson,,0,0,0,0,0,1,0,19
+Donald J Trump,,,1,0,0,0,0,0,19
+Jeb Bush,,,,0,0,0,0,0,19
+John R Kasich,,,,,0,0,0,0,19
+Marco Rubio,,,,,,0,0,0,19
+John Rafferty,,,,,,,0,0,19
+Joe Peters,,,,,,,,0,19
+Total,4,1,1,0,0,0,1,0,19
+,Attorney General - Republican,,President Of The United States - Republican,,,,,,20
+,John Rafferty,Joe Peters,Donald J Trump,Ted Cruz,John R Kasich,Marco Rubio,Ben Carson,Jeb Bush,20
+John Rafferty,0,0,4,1,1,1,0,0,20
+Joe Peters,,0,1,2,0,0,0,0,20
+Donald J Trump,,,1,0,0,0,0,0,20
+Ted Cruz,,,,0,0,0,0,0,20
+John R Kasich,,,,,0,0,0,0,20
+Marco Rubio,,,,,,0,0,0,20
+Ben Carson,,,,,,,0,0,20
+Jeb Bush,,,,,,,,0,20
+Total,7,3,6,3,1,1,0,0,20
+,President Of The United States - Republican,,,,,,Attorney General - Republican,,22
+,Donald J Trump,Ted Cruz,Ben Carson,Jeb Bush,John R Kasich,Marco Rubio,John Rafferty,Joe Peters,22
+Donald J Trump,0,0,0,0,0,0,1,0,22
+Ted Cruz,,1,0,0,0,0,0,0,22
+Ben Carson,,,0,0,0,0,0,0,22
+Jeb Bush,,,,0,0,0,0,0,22
+John R Kasich,,,,,0,0,0,0,22
+Marco Rubio,,,,,,0,0,0,22
+John Rafferty,,,,,,,0,0,22
+Joe Peters,,,,,,,,0,22
+Total,1,1,0,0,0,0,1,0,22
+,President Of The United States - Republican,,,,,,Attorney General - Republican,,25
+,Donald J Trump,Ted Cruz,Ben Carson,Jeb Bush,John R Kasich,Marco Rubio,John Rafferty,Joe Peters,25
+Donald J Trump,1,0,0,0,0,0,0,0,25
+Ted Cruz,,0,0,0,0,0,1,0,25
+Ben Carson,,,0,0,0,0,0,0,25
+Jeb Bush,,,,0,0,0,0,0,25
+John R Kasich,,,,,0,0,0,0,25
+Marco Rubio,,,,,,0,0,0,25
+John Rafferty,,,,,,,0,0,25
+Joe Peters,,,,,,,,0,25
+Total,1,1,0,0,0,0,1,0,25
+,Attorney General - Republican,,President Of The United States - Republican,,,,,,26
+,John Rafferty,Joe Peters,Donald J Trump,Ted Cruz,Ben Carson,Jeb Bush,John R Kasich,Marco Rubio,26
+John Rafferty,0,0,1,1,0,0,0,0,26
+Joe Peters,,0,0,0,0,0,0,0,26
+Donald J Trump,,,0,0,0,0,0,0,26
+Ted Cruz,,,,0,0,0,0,0,26
+Ben Carson,,,,,0,0,0,0,26
+Jeb Bush,,,,,,0,0,0,26
+John R Kasich,,,,,,,0,0,26
+Marco Rubio,,,,,,,,0,26
+Total,2,0,1,1,0,0,0,0,26
+,President Of The United States - Republican,,,,,,Attorney General - Republican,,28
+,Donald J Trump,Ted Cruz,John R Kasich,Ben Carson,Jeb Bush,Marco Rubio,Joe Peters,John Rafferty,28
+Donald J Trump,0,0,0,0,0,0,2,3,28
+Ted Cruz,,0,0,0,0,0,3,0,28
+John R Kasich,,,0,0,0,0,0,1,28
+Ben Carson,,,,0,0,0,0,0,28
+Jeb Bush,,,,,0,0,0,0,28
+Marco Rubio,,,,,,0,0,0,28
+Joe Peters,,,,,,,0,0,28
+John Rafferty,,,,,,,,1,28
+Total,5,3,1,0,0,0,5,5,28

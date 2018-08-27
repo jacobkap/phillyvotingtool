@@ -1,0 +1,25 @@
+col_1,col_2,col_3,col_4,division
+,City Controller - Republican,Judge Of The Commonwealth Court - Republican,,All
+,Michael Tomlinson,Paul Lalley,Christine Fizzano Cannon,All
+Michael Tomlinson,1,5,4,All
+Paul Lalley,,0,4,All
+Christine Fizzano Cannon,,,0,All
+Total,6,5,4,All
+,City Controller - Republican,Judge Of The Commonwealth Court - Republican,,1
+,Michael Tomlinson,Paul Lalley,Christine Fizzano Cannon,1
+Michael Tomlinson,0,2,1,1
+Paul Lalley,,0,1,1
+Christine Fizzano Cannon,,,0,1
+Total,2,2,1,1
+,Judge Of The Commonwealth Court - Republican,,City Controller - Republican,4
+,Christine Fizzano Cannon,Paul Lalley,Michael Tomlinson,4
+Christine Fizzano Cannon,0,1,1,4
+Paul Lalley,,0,1,4
+Michael Tomlinson,,,0,4
+Total,1,1,1,4
+,City Controller - Republican,Judge Of The Commonwealth Court - Republican,,10
+,Michael Tomlinson,Christine Fizzano Cannon,Paul Lalley,10
+Michael Tomlinson,1,2,2,10
+Christine Fizzano Cannon,,0,2,10
+Paul Lalley,,,0,10
+Total,3,2,2,10

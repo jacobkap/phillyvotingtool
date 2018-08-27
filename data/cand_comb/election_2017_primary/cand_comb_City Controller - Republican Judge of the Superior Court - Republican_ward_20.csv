@@ -1,0 +1,37 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,division
+,City Controller - Republican,Judge Of The Superior Court - Republican,,,,,All
+,Michael Tomlinson,Paula A Patrick,Craig Stedman,Emil Giordano,Mary Murray,Wade A Kagarise,All
+Michael Tomlinson,0,3,3,2,2,0,All
+Paula A Patrick,,0,2,2,2,1,All
+Craig Stedman,,,0,2,2,0,All
+Emil Giordano,,,,0,2,0,All
+Mary Murray,,,,,0,0,All
+Wade A Kagarise,,,,,,0,All
+Total,4,4,3,2,2,1,All
+,Judge Of The Superior Court - Republican,,,,,City Controller - Republican,3
+,Craig Stedman,Paula A Patrick,Wade A Kagarise,Emil Giordano,Mary Murray,Michael Tomlinson,3
+Craig Stedman,0,0,0,0,0,1,3
+Paula A Patrick,,0,1,0,0,0,3
+Wade A Kagarise,,,0,0,0,0,3
+Emil Giordano,,,,0,0,0,3
+Mary Murray,,,,,0,0,3
+Michael Tomlinson,,,,,,0,3
+Total,1,1,1,0,0,1,3
+,City Controller - Republican,Judge Of The Superior Court - Republican,,,,,5
+,Michael Tomlinson,Paula A Patrick,Craig Stedman,Emil Giordano,Mary Murray,Wade A Kagarise,5
+Michael Tomlinson,0,2,1,1,1,0,5
+Paula A Patrick,,0,1,1,1,0,5
+Craig Stedman,,,0,1,1,0,5
+Emil Giordano,,,,0,1,0,5
+Mary Murray,,,,,0,0,5
+Wade A Kagarise,,,,,,0,5
+Total,2,2,1,1,1,0,5
+,Judge Of The Superior Court - Republican,,,,,City Controller - Republican,10
+,Craig Stedman,Emil Giordano,Mary Murray,Paula A Patrick,Wade A Kagarise,Michael Tomlinson,10
+Craig Stedman,0,1,1,1,0,1,10
+Emil Giordano,,0,1,1,0,1,10
+Mary Murray,,,0,1,0,1,10
+Paula A Patrick,,,,0,0,1,10
+Wade A Kagarise,,,,,0,0,10
+Michael Tomlinson,,,,,,0,10
+Total,1,1,1,1,0,1,10

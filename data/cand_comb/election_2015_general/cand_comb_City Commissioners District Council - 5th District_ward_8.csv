@@ -1,53 +1,11 @@
 col_1,col_2,col_3,col_4,col_5,division
-,City Commissioners,,,District Council 5th District,1
-,Lisa M Deeley,Anthony Clark,Al Schmidt,Darrell L Clarke,1
-Lisa M Deeley,58,79,15,0,1
-Anthony Clark,,6,3,0,1
-Al Schmidt,,,18,0,1
-Darrell L Clarke,,,,0,1
-Total,152,88,36,0,1
-,City Commissioners,,,District Council 5th District,2
-,Lisa M Deeley,Anthony Clark,Al Schmidt,Darrell L Clarke,2
-Lisa M Deeley,25,92,24,0,2
-Anthony Clark,,11,5,0,2
-Al Schmidt,,,28,0,2
-Darrell L Clarke,,,,0,2
-Total,141,108,57,0,2
-,City Commissioners,,,District Council 5th District,3
-,Lisa M Deeley,Anthony Clark,Al Schmidt,Darrell L Clarke,3
-Lisa M Deeley,20,137,21,0,3
-Anthony Clark,,10,4,0,3
-Al Schmidt,,,31,0,3
-Darrell L Clarke,,,,0,3
-Total,178,151,56,0,3
-,City Commissioners,,,District Council 5th District,4
-,Lisa M Deeley,Anthony Clark,Al Schmidt,Darrell L Clarke,4
-Lisa M Deeley,16,113,18,0,4
-Anthony Clark,,10,3,0,4
-Al Schmidt,,,32,0,4
-Darrell L Clarke,,,,0,4
-Total,147,126,53,0,4
-,City Commissioners,,,District Council 5th District,5
-,Lisa M Deeley,Anthony Clark,Al Schmidt,Darrell L Clarke,5
-Lisa M Deeley,20,94,14,0,5
-Anthony Clark,,9,7,0,5
-Al Schmidt,,,31,0,5
-Darrell L Clarke,,,,0,5
-Total,128,110,52,0,5
-,City Commissioners,,,District Council 5th District,6
-,Lisa M Deeley,Anthony Clark,Al Schmidt,Darrell L Clarke,6
-Lisa M Deeley,21,108,22,0,6
-Anthony Clark,,15,7,0,6
-Al Schmidt,,,21,0,6
-Darrell L Clarke,,,,0,6
-Total,151,130,50,0,6
-,City Commissioners,,,District Council 5th District,7
-,Lisa M Deeley,Anthony Clark,Al Schmidt,Darrell L Clarke,7
-Lisa M Deeley,22,167,23,0,7
-Anthony Clark,,15,8,0,7
-Al Schmidt,,,28,0,7
-Darrell L Clarke,,,,0,7
-Total,212,190,59,0,7
+,District Council 5th District,City Commissioners,,,All
+,Darrell L Clarke,Lisa M Deeley,Anthony Clark,Al Schmidt,All
+Darrell L Clarke,236,"1,995","1,771",317,All
+Lisa M Deeley,,178,"1,633",223,All
+Anthony Clark,,,41,82,All
+Al Schmidt,,,,329,All
+Total,"2,588","2,365","1,939",741,All
 ,City Commissioners,,,District Council 5th District,8
 ,Lisa M Deeley,Anthony Clark,Al Schmidt,Darrell L Clarke,8
 Lisa M Deeley,36,74,14,119,8
@@ -55,13 +13,6 @@ Anthony Clark,,2,3,79,8
 Al Schmidt,,,22,20,8
 Darrell L Clarke,,,,13,8
 Total,163,86,45,148,8
-,City Commissioners,,,District Council 5th District,9
-,Lisa M Deeley,Anthony Clark,Al Schmidt,Darrell L Clarke,9
-Lisa M Deeley,27,98,22,0,9
-Anthony Clark,,4,7,0,9
-Al Schmidt,,,29,0,9
-Darrell L Clarke,,,,0,9
-Total,147,109,58,0,9
 ,District Council 5th District,City Commissioners,,,10
 ,Darrell L Clarke,Lisa M Deeley,Anthony Clark,Al Schmidt,10
 Darrell L Clarke,25,164,121,29,10
@@ -76,27 +27,6 @@ Lisa M Deeley,,5,64,5,11
 Anthony Clark,,,1,5,11
 Al Schmidt,,,,13,11
 Total,109,90,81,26,11
-,City Commissioners,,,District Council 5th District,12
-,Lisa M Deeley,Anthony Clark,Al Schmidt,Darrell L Clarke,12
-Lisa M Deeley,17,74,24,0,12
-Anthony Clark,,9,8,0,12
-Al Schmidt,,,12,0,12
-Darrell L Clarke,,,,0,12
-Total,115,91,44,0,12
-,City Commissioners,,,District Council 5th District,13
-,Lisa M Deeley,Anthony Clark,Al Schmidt,Darrell L Clarke,13
-Lisa M Deeley,71,37,17,0,13
-Anthony Clark,,5,1,0,13
-Al Schmidt,,,15,0,13
-Darrell L Clarke,,,,0,13
-Total,125,43,33,0,13
-,City Commissioners,,,District Council 5th District,14
-,Lisa M Deeley,Anthony Clark,Al Schmidt,Darrell L Clarke,14
-Lisa M Deeley,48,102,28,0,14
-Anthony Clark,,13,3,0,14
-Al Schmidt,,,30,0,14
-Darrell L Clarke,,,,0,14
-Total,178,118,61,0,14
 ,District Council 5th District,City Commissioners,,,15
 ,Darrell L Clarke,Lisa M Deeley,Anthony Clark,Al Schmidt,15
 Darrell L Clarke,13,112,111,21,15
@@ -132,20 +62,6 @@ Lisa M Deeley,,17,81,18,19
 Anthony Clark,,,1,4,19
 Al Schmidt,,,,26,19
 Total,177,168,99,55,19
-,City Commissioners,,,District Council 5th District,20
-,Lisa M Deeley,Anthony Clark,Al Schmidt,Darrell L Clarke,20
-Lisa M Deeley,10,41,7,0,20
-Anthony Clark,,5,4,0,20
-Al Schmidt,,,13,0,20
-Darrell L Clarke,,,,0,20
-Total,58,50,24,0,20
-,City Commissioners,,,District Council 5th District,21
-,Lisa M Deeley,Anthony Clark,Al Schmidt,Darrell L Clarke,21
-Lisa M Deeley,21,138,17,0,21
-Anthony Clark,,9,8,0,21
-Al Schmidt,,,40,0,21
-Darrell L Clarke,,,,0,21
-Total,176,155,65,0,21
 ,District Council 5th District,City Commissioners,,,22
 ,Darrell L Clarke,Anthony Clark,Lisa M Deeley,Al Schmidt,22
 Darrell L Clarke,4,35,37,8,22
@@ -181,20 +97,6 @@ Lisa M Deeley,,8,149,21,26
 Anthony Clark,,,3,9,26
 Al Schmidt,,,,15,26
 Total,213,193,178,53,26
-,City Commissioners,,,District Council 5th District,27
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Darrell L Clarke,27
-Anthony Clark,7,59,7,0,27
-Lisa M Deeley,,2,7,0,27
-Al Schmidt,,,9,0,27
-Darrell L Clarke,,,,0,27
-Total,73,68,23,0,27
-,City Commissioners,,,District Council 5th District,28
-,Lisa M Deeley,Anthony Clark,Al Schmidt,Darrell L Clarke,28
-Lisa M Deeley,22,108,27,0,28
-Anthony Clark,,4,1,0,28
-Al Schmidt,,,22,0,28
-Darrell L Clarke,,,,0,28
-Total,157,113,50,0,28
 ,District Council 5th District,City Commissioners,,,29
 ,Darrell L Clarke,Lisa M Deeley,Anthony Clark,Al Schmidt,29
 Darrell L Clarke,30,209,194,39,29
@@ -209,10 +111,3 @@ Lisa M Deeley,,8,95,8,30
 Anthony Clark,,,3,2,30
 Al Schmidt,,,,10,30
 Total,130,120,112,24,30
-,City Commissioners,,,District Council 5th District,All
-,Lisa M Deeley,Anthony Clark,Al Schmidt,Darrell L Clarke,All
-Lisa M Deeley,578,"3,080",509,"1,995",All
-Anthony Clark,,173,158,"1,771",All
-Al Schmidt,,,688,317,All
-Darrell L Clarke,,,,236,All
-Total,"4,498","3,594","1,462","2,588",All

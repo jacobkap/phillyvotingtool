@@ -1,0 +1,91 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,division
+,Sheriff - Republican,Justice Of The Supreme Court - Republican,,,,,,4
+,Christopher Sawyer,Anne Covey,Cheryl Allen,Correale Stevens,Mike George,Rebecca Warren,Judy Olson,4
+Christopher Sawyer,0,1,1,1,1,1,0,4
+Anne Covey,,0,1,0,0,0,0,4
+Cheryl Allen,,,0,0,0,0,0,4
+Correale Stevens,,,,0,1,1,0,4
+Mike George,,,,,0,1,0,4
+Rebecca Warren,,,,,,0,0,4
+Judy Olson,,,,,,,0,4
+Total,2,1,1,1,1,1,0,4
+,Justice Of The Supreme Court - Republican,,,,,,Sheriff - Republican,7
+,Judy Olson,Anne Covey,Cheryl Allen,Correale Stevens,Mike George,Rebecca Warren,Christopher Sawyer,7
+Judy Olson,1,0,0,0,0,0,0,7
+Anne Covey,,0,0,0,0,0,0,7
+Cheryl Allen,,,0,0,0,0,0,7
+Correale Stevens,,,,0,0,0,0,7
+Mike George,,,,,0,0,0,7
+Rebecca Warren,,,,,,0,0,7
+Christopher Sawyer,,,,,,,0,7
+Total,1,0,0,0,0,0,0,7
+,Sheriff - Republican,Justice Of The Supreme Court - Republican,,,,,,8
+,Christopher Sawyer,Correale Stevens,Anne Covey,Cheryl Allen,Judy Olson,Mike George,Rebecca Warren,8
+Christopher Sawyer,0,1,0,0,0,0,0,8
+Correale Stevens,,0,0,0,0,0,0,8
+Anne Covey,,,0,0,0,0,0,8
+Cheryl Allen,,,,0,0,0,0,8
+Judy Olson,,,,,0,0,0,8
+Mike George,,,,,,0,0,8
+Rebecca Warren,,,,,,,0,8
+Total,1,1,0,0,0,0,0,8
+,Justice Of The Supreme Court - Republican,,,,,,Sheriff - Republican,9
+,Anne Covey,Correale Stevens,Cheryl Allen,Judy Olson,Mike George,Rebecca Warren,Christopher Sawyer,9
+Anne Covey,0,1,0,0,0,0,1,9
+Correale Stevens,,0,0,0,0,0,1,9
+Cheryl Allen,,,0,0,0,0,0,9
+Judy Olson,,,,0,0,0,0,9
+Mike George,,,,,0,0,0,9
+Rebecca Warren,,,,,,0,0,9
+Christopher Sawyer,,,,,,,0,9
+Total,1,1,0,0,0,0,1,9
+,Justice Of The Supreme Court - Republican,,,,,,Sheriff - Republican,10
+,Correale Stevens,Anne Covey,Cheryl Allen,Judy Olson,Mike George,Rebecca Warren,Christopher Sawyer,10
+Correale Stevens,1,0,0,0,0,0,0,10
+Anne Covey,,0,0,0,0,0,0,10
+Cheryl Allen,,,0,0,0,0,0,10
+Judy Olson,,,,0,0,0,0,10
+Mike George,,,,,0,0,0,10
+Rebecca Warren,,,,,,0,0,10
+Christopher Sawyer,,,,,,,0,10
+Total,1,0,0,0,0,0,0,10
+,Justice Of The Supreme Court - Republican,,,,,,Sheriff - Republican,11
+,Cheryl Allen,Correale Stevens,Rebecca Warren,Anne Covey,Judy Olson,Mike George,Christopher Sawyer,11
+Cheryl Allen,0,1,1,0,0,0,1,11
+Correale Stevens,,0,1,0,0,0,1,11
+Rebecca Warren,,,0,0,0,0,1,11
+Anne Covey,,,,0,0,0,0,11
+Judy Olson,,,,,0,0,0,11
+Mike George,,,,,,0,0,11
+Christopher Sawyer,,,,,,,0,11
+Total,1,1,1,0,0,0,1,11
+,Sheriff - Republican,Justice Of The Supreme Court - Republican,,,,,,13
+,Christopher Sawyer,Correale Stevens,Anne Covey,Cheryl Allen,Judy Olson,Mike George,Rebecca Warren,13
+Christopher Sawyer,0,1,0,0,0,0,0,13
+Correale Stevens,,0,0,0,0,0,0,13
+Anne Covey,,,0,0,0,0,0,13
+Cheryl Allen,,,,0,0,0,0,13
+Judy Olson,,,,,0,0,0,13
+Mike George,,,,,,0,0,13
+Rebecca Warren,,,,,,,0,13
+Total,1,1,0,0,0,0,0,13
+,Sheriff - Republican,Justice Of The Supreme Court - Republican,,,,,,16
+,Christopher Sawyer,Anne Covey,Correale Stevens,Cheryl Allen,Judy Olson,Mike George,Rebecca Warren,16
+Christopher Sawyer,1,1,1,0,0,0,0,16
+Anne Covey,,0,1,0,0,0,0,16
+Correale Stevens,,,0,0,0,0,0,16
+Cheryl Allen,,,,0,0,0,0,16
+Judy Olson,,,,,0,0,0,16
+Mike George,,,,,,0,0,16
+Rebecca Warren,,,,,,,0,16
+Total,2,1,1,0,0,0,0,16
+,Sheriff - Republican,Justice Of The Supreme Court - Republican,,,,,,All
+,Christopher Sawyer,Correale Stevens,Anne Covey,Cheryl Allen,Rebecca Warren,Judy Olson,Mike George,All
+Christopher Sawyer,1,6,3,2,2,0,1,All
+Correale Stevens,,1,2,1,2,0,1,All
+Anne Covey,,,0,1,0,0,0,All
+Cheryl Allen,,,,0,1,0,0,All
+Rebecca Warren,,,,,0,0,1,All
+Judy Olson,,,,,,1,0,All
+Mike George,,,,,,,0,All
+Total,8,7,3,2,2,1,1,All

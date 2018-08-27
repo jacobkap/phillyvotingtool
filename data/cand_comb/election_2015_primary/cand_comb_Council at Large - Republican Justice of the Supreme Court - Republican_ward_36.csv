@@ -1,0 +1,481 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10,col_11,col_12,col_13,col_14,division
+,Justice Of The Supreme Court - Republican,,,,,,Council At Large - Republican,,,,,,,3
+,Anne Covey,Judy Olson,Rebecca Warren,Cheryl Allen,Correale Stevens,Mike George,Daniel Tinney,David Oh,James Williams,Matt Wolfe,Terry Tracy,Al Taubenberger,Dennis M O Brien,3
+Anne Covey,0,1,1,0,0,0,1,1,1,1,1,0,0,3
+Judy Olson,,0,1,0,0,0,1,1,1,1,1,0,0,3
+Rebecca Warren,,,0,0,0,0,1,1,1,1,1,0,0,3
+Cheryl Allen,,,,0,0,0,0,0,0,0,0,0,0,3
+Correale Stevens,,,,,0,0,0,0,0,0,0,0,0,3
+Mike George,,,,,,0,0,0,0,0,0,0,0,3
+Daniel Tinney,,,,,,,0,1,1,1,1,0,0,3
+David Oh,,,,,,,,0,1,1,1,0,0,3
+James Williams,,,,,,,,,0,1,1,0,0,3
+Matt Wolfe,,,,,,,,,,0,1,0,0,3
+Terry Tracy,,,,,,,,,,,0,0,0,3
+Al Taubenberger,,,,,,,,,,,,0,0,3
+Dennis M O Brien,,,,,,,,,,,,,0,3
+Total,1,1,1,0,0,0,1,1,1,1,1,0,0,3
+,Justice Of The Supreme Court - Republican,,,,,,Council At Large - Republican,,,,,,,4
+,Anne Covey,Judy Olson,Cheryl Allen,Correale Stevens,Mike George,Rebecca Warren,David Oh,James Williams,Matt Wolfe,Terry Tracy,Al Taubenberger,Daniel Tinney,Dennis M O Brien,4
+Anne Covey,0,0,0,0,0,0,1,1,0,1,0,0,0,4
+Judy Olson,,0,0,0,0,0,0,0,1,0,0,0,0,4
+Cheryl Allen,,,0,0,0,0,0,0,0,0,0,0,0,4
+Correale Stevens,,,,0,0,0,0,0,0,0,0,0,0,4
+Mike George,,,,,0,0,0,0,0,0,0,0,0,4
+Rebecca Warren,,,,,,0,0,0,0,0,0,0,0,4
+David Oh,,,,,,,0,1,0,1,0,0,0,4
+James Williams,,,,,,,,0,0,1,0,0,0,4
+Matt Wolfe,,,,,,,,,0,0,0,0,0,4
+Terry Tracy,,,,,,,,,,0,0,0,0,4
+Al Taubenberger,,,,,,,,,,,0,0,0,4
+Daniel Tinney,,,,,,,,,,,,0,0,4
+Dennis M O Brien,,,,,,,,,,,,,0,4
+Total,1,1,0,0,0,0,1,1,1,1,0,0,0,4
+,Justice Of The Supreme Court - Republican,,,,,,Council At Large - Republican,,,,,,,7
+,Correale Stevens,Cheryl Allen,Mike George,Anne Covey,Judy Olson,Rebecca Warren,David Oh,Dennis M O Brien,James Williams,Terry Tracy,Daniel Tinney,Matt Wolfe,Al Taubenberger,7
+Correale Stevens,0,1,1,0,0,0,3,2,2,2,1,1,0,7
+Cheryl Allen,,0,1,0,0,0,1,1,1,1,0,1,0,7
+Mike George,,,0,0,0,0,1,1,1,1,0,1,0,7
+Anne Covey,,,,0,0,0,0,0,0,0,0,0,0,7
+Judy Olson,,,,,0,0,0,0,0,0,0,0,0,7
+Rebecca Warren,,,,,,0,0,0,0,0,0,0,0,7
+David Oh,,,,,,,0,2,2,2,1,1,0,7
+Dennis M O Brien,,,,,,,,0,2,2,1,1,0,7
+James Williams,,,,,,,,,0,2,1,1,0,7
+Terry Tracy,,,,,,,,,,0,1,1,0,7
+Daniel Tinney,,,,,,,,,,,0,0,0,7
+Matt Wolfe,,,,,,,,,,,,0,0,7
+Al Taubenberger,,,,,,,,,,,,,0,7
+Total,3,1,1,0,0,0,3,2,2,2,1,1,0,7
+,Justice Of The Supreme Court - Republican,,,,,,Council At Large - Republican,,,,,,,8
+,Anne Covey,Cheryl Allen,Correale Stevens,Judy Olson,Mike George,Rebecca Warren,James Williams,Al Taubenberger,Daniel Tinney,David Oh,Dennis M O Brien,Matt Wolfe,Terry Tracy,8
+Anne Covey,0,0,0,0,0,0,1,0,0,0,0,0,0,8
+Cheryl Allen,,0,0,0,0,0,0,0,0,0,0,0,0,8
+Correale Stevens,,,0,0,0,0,0,0,0,0,0,0,0,8
+Judy Olson,,,,0,0,0,0,0,0,0,0,0,0,8
+Mike George,,,,,0,0,0,0,0,0,0,0,0,8
+Rebecca Warren,,,,,,0,0,0,0,0,0,0,0,8
+James Williams,,,,,,,0,0,0,0,0,0,0,8
+Al Taubenberger,,,,,,,,0,0,0,0,0,0,8
+Daniel Tinney,,,,,,,,,0,0,0,0,0,8
+David Oh,,,,,,,,,,0,0,0,0,8
+Dennis M O Brien,,,,,,,,,,,0,0,0,8
+Matt Wolfe,,,,,,,,,,,,0,0,8
+Terry Tracy,,,,,,,,,,,,,0,8
+Total,1,0,0,0,0,0,1,0,0,0,0,0,0,8
+,Council At Large - Republican,,,,,,,Justice Of The Supreme Court - Republican,,,,,,10
+,David Oh,Daniel Tinney,Al Taubenberger,Dennis M O Brien,James Williams,Terry Tracy,Matt Wolfe,Correale Stevens,Rebecca Warren,Anne Covey,Judy Olson,Mike George,Cheryl Allen,10
+David Oh,0,2,1,1,1,1,0,3,2,1,1,1,0,10
+Daniel Tinney,,0,1,1,1,1,0,2,1,1,1,1,0,10
+Al Taubenberger,,,0,0,0,0,0,1,0,0,1,1,0,10
+Dennis M O Brien,,,,0,1,1,0,1,1,1,0,0,0,10
+James Williams,,,,,0,1,0,1,1,1,0,0,0,10
+Terry Tracy,,,,,,0,0,1,1,1,0,0,0,10
+Matt Wolfe,,,,,,,0,0,0,0,0,0,0,10
+Correale Stevens,,,,,,,,0,1,1,1,1,0,10
+Rebecca Warren,,,,,,,,,0,1,0,0,0,10
+Anne Covey,,,,,,,,,,0,0,0,0,10
+Judy Olson,,,,,,,,,,,0,1,0,10
+Mike George,,,,,,,,,,,,0,0,10
+Cheryl Allen,,,,,,,,,,,,,0,10
+Total,4,2,1,1,1,1,0,3,2,1,1,1,0,10
+,Council At Large - Republican,,,,,,,Justice Of The Supreme Court - Republican,,,,,,11
+,Al Taubenberger,David Oh,Daniel Tinney,Dennis M O Brien,Terry Tracy,James Williams,Matt Wolfe,Anne Covey,Correale Stevens,Mike George,Cheryl Allen,Judy Olson,Rebecca Warren,11
+Al Taubenberger,0,2,1,1,1,0,0,2,1,1,0,0,0,11
+David Oh,,0,1,1,1,0,0,2,1,1,0,0,0,11
+Daniel Tinney,,,0,1,1,0,0,1,1,1,0,0,0,11
+Dennis M O Brien,,,,0,1,0,0,1,1,1,0,0,0,11
+Terry Tracy,,,,,0,0,0,1,1,1,0,0,0,11
+James Williams,,,,,,0,0,0,0,0,0,0,0,11
+Matt Wolfe,,,,,,,0,0,0,0,0,0,0,11
+Anne Covey,,,,,,,,0,1,1,0,0,0,11
+Correale Stevens,,,,,,,,,0,1,0,0,0,11
+Mike George,,,,,,,,,,0,0,0,0,11
+Cheryl Allen,,,,,,,,,,,0,0,0,11
+Judy Olson,,,,,,,,,,,,0,0,11
+Rebecca Warren,,,,,,,,,,,,,0,11
+Total,2,2,1,1,1,0,0,2,1,1,0,0,0,11
+,Council At Large - Republican,,,,,,,Justice Of The Supreme Court - Republican,,,,,,14
+,Matt Wolfe,David Oh,Terry Tracy,Dennis M O Brien,Al Taubenberger,Daniel Tinney,James Williams,Anne Covey,Cheryl Allen,Mike George,Correale Stevens,Judy Olson,Rebecca Warren,14
+Matt Wolfe,2,3,3,3,1,1,1,1,2,0,0,0,0,14
+David Oh,,0,2,3,1,0,0,1,1,0,1,0,0,14
+Terry Tracy,,,0,2,1,1,2,1,2,1,0,0,1,14
+Dennis M O Brien,,,,0,1,0,0,1,1,0,0,0,0,14
+Al Taubenberger,,,,,0,1,0,1,0,1,0,1,0,14
+Daniel Tinney,,,,,,0,1,1,1,1,0,1,0,14
+James Williams,,,,,,,0,0,1,1,0,0,1,14
+Anne Covey,,,,,,,,0,1,1,0,1,0,14
+Cheryl Allen,,,,,,,,,0,0,0,0,0,14
+Mike George,,,,,,,,,,0,0,1,1,14
+Correale Stevens,,,,,,,,,,,0,0,0,14
+Judy Olson,,,,,,,,,,,,0,0,14
+Rebecca Warren,,,,,,,,,,,,,0,14
+Total,6,4,4,3,2,2,2,2,2,2,1,1,1,14
+,Justice Of The Supreme Court - Republican,,,,,,Council At Large - Republican,,,,,,,15
+,Anne Covey,Correale Stevens,Judy Olson,Rebecca Warren,Cheryl Allen,Mike George,David Oh,James Williams,Terry Tracy,Al Taubenberger,Daniel Tinney,Dennis M O Brien,Matt Wolfe,15
+Anne Covey,0,1,0,1,0,0,1,1,1,0,0,0,0,15
+Correale Stevens,,0,0,1,0,0,1,1,1,0,0,0,0,15
+Judy Olson,,,1,0,0,0,0,0,0,0,0,0,0,15
+Rebecca Warren,,,,0,0,0,1,1,1,0,0,0,0,15
+Cheryl Allen,,,,,0,0,0,0,0,0,0,0,0,15
+Mike George,,,,,,0,0,0,0,0,0,0,0,15
+David Oh,,,,,,,0,1,1,0,0,0,0,15
+James Williams,,,,,,,,0,1,0,0,0,0,15
+Terry Tracy,,,,,,,,,0,0,0,0,0,15
+Al Taubenberger,,,,,,,,,,0,0,0,0,15
+Daniel Tinney,,,,,,,,,,,0,0,0,15
+Dennis M O Brien,,,,,,,,,,,,0,0,15
+Matt Wolfe,,,,,,,,,,,,,0,15
+Total,1,1,1,1,0,0,1,1,1,0,0,0,0,15
+,Justice Of The Supreme Court - Republican,,,,,,Council At Large - Republican,,,,,,,16
+,Anne Covey,Correale Stevens,Cheryl Allen,Judy Olson,Mike George,Rebecca Warren,Al Taubenberger,Daniel Tinney,David Oh,Dennis M O Brien,James Williams,Matt Wolfe,Terry Tracy,16
+Anne Covey,0,1,0,0,0,0,0,0,0,0,0,0,0,16
+Correale Stevens,,0,0,0,0,0,0,0,0,0,0,0,0,16
+Cheryl Allen,,,0,0,0,0,0,0,0,0,0,0,0,16
+Judy Olson,,,,0,0,0,0,0,0,0,0,0,0,16
+Mike George,,,,,0,0,0,0,0,0,0,0,0,16
+Rebecca Warren,,,,,,0,0,0,0,0,0,0,0,16
+Al Taubenberger,,,,,,,0,0,0,0,0,0,0,16
+Daniel Tinney,,,,,,,,0,0,0,0,0,0,16
+David Oh,,,,,,,,,0,0,0,0,0,16
+Dennis M O Brien,,,,,,,,,,0,0,0,0,16
+James Williams,,,,,,,,,,,0,0,0,16
+Matt Wolfe,,,,,,,,,,,,0,0,16
+Terry Tracy,,,,,,,,,,,,,0,16
+Total,1,1,0,0,0,0,0,0,0,0,0,0,0,16
+,Council At Large - Republican,,,,,,,Justice Of The Supreme Court - Republican,,,,,,17
+,David Oh,Al Taubenberger,Daniel Tinney,Dennis M O Brien,James Williams,Matt Wolfe,Terry Tracy,Anne Covey,Cheryl Allen,Correale Stevens,Judy Olson,Mike George,Rebecca Warren,17
+David Oh,1,0,0,0,0,0,0,0,0,0,0,0,0,17
+Al Taubenberger,,0,0,0,0,0,0,0,0,0,0,0,0,17
+Daniel Tinney,,,0,0,0,0,0,0,0,0,0,0,0,17
+Dennis M O Brien,,,,0,0,0,0,0,0,0,0,0,0,17
+James Williams,,,,,0,0,0,0,0,0,0,0,0,17
+Matt Wolfe,,,,,,0,0,0,0,0,0,0,0,17
+Terry Tracy,,,,,,,0,0,0,0,0,0,0,17
+Anne Covey,,,,,,,,0,0,0,0,0,0,17
+Cheryl Allen,,,,,,,,,0,0,0,0,0,17
+Correale Stevens,,,,,,,,,,0,0,0,0,17
+Judy Olson,,,,,,,,,,,0,0,0,17
+Mike George,,,,,,,,,,,,0,0,17
+Rebecca Warren,,,,,,,,,,,,,0,17
+Total,1,0,0,0,0,0,0,0,0,0,0,0,0,17
+,Justice Of The Supreme Court - Republican,,,,,,Council At Large - Republican,,,,,,,18
+,Anne Covey,Correale Stevens,Rebecca Warren,Cheryl Allen,Judy Olson,Mike George,Daniel Tinney,David Oh,James Williams,Matt Wolfe,Terry Tracy,Al Taubenberger,Dennis M O Brien,18
+Anne Covey,0,1,1,0,0,0,1,1,1,1,1,0,0,18
+Correale Stevens,,0,1,0,0,0,1,1,1,1,1,0,0,18
+Rebecca Warren,,,0,0,0,0,1,1,1,1,1,0,0,18
+Cheryl Allen,,,,0,0,0,0,0,0,0,0,0,0,18
+Judy Olson,,,,,0,0,0,0,0,0,0,0,0,18
+Mike George,,,,,,0,0,0,0,0,0,0,0,18
+Daniel Tinney,,,,,,,0,1,1,1,1,0,0,18
+David Oh,,,,,,,,0,1,1,1,0,0,18
+James Williams,,,,,,,,,0,1,1,0,0,18
+Matt Wolfe,,,,,,,,,,0,1,0,0,18
+Terry Tracy,,,,,,,,,,,0,0,0,18
+Al Taubenberger,,,,,,,,,,,,0,0,18
+Dennis M O Brien,,,,,,,,,,,,,0,18
+Total,1,1,1,0,0,0,1,1,1,1,1,0,0,18
+,Council At Large - Republican,,,,,,,Justice Of The Supreme Court - Republican,,,,,,20
+,Dennis M O Brien,Al Taubenberger,Daniel Tinney,David Oh,James Williams,Matt Wolfe,Terry Tracy,Mike George,Anne Covey,Cheryl Allen,Correale Stevens,Judy Olson,Rebecca Warren,20
+Dennis M O Brien,0,0,0,0,0,0,0,1,0,0,0,0,0,20
+Al Taubenberger,,0,0,0,0,0,0,0,0,0,0,0,0,20
+Daniel Tinney,,,0,0,0,0,0,0,0,0,0,0,0,20
+David Oh,,,,0,0,0,0,0,0,0,0,0,0,20
+James Williams,,,,,0,0,0,0,0,0,0,0,0,20
+Matt Wolfe,,,,,,0,0,0,0,0,0,0,0,20
+Terry Tracy,,,,,,,0,0,0,0,0,0,0,20
+Mike George,,,,,,,,0,0,0,0,0,0,20
+Anne Covey,,,,,,,,,0,0,0,0,0,20
+Cheryl Allen,,,,,,,,,,0,0,0,0,20
+Correale Stevens,,,,,,,,,,,0,0,0,20
+Judy Olson,,,,,,,,,,,,0,0,20
+Rebecca Warren,,,,,,,,,,,,,0,20
+Total,1,0,0,0,0,0,0,1,0,0,0,0,0,20
+,Justice Of The Supreme Court - Republican,,,,,,Council At Large - Republican,,,,,,,22
+,Correale Stevens,Anne Covey,Cheryl Allen,Judy Olson,Mike George,Rebecca Warren,David Oh,James Williams,Terry Tracy,Al Taubenberger,Daniel Tinney,Dennis M O Brien,Matt Wolfe,22
+Correale Stevens,1,0,0,0,0,0,1,1,1,0,0,0,0,22
+Anne Covey,,0,0,0,0,0,0,0,0,0,0,0,0,22
+Cheryl Allen,,,0,0,0,0,0,0,0,0,0,0,0,22
+Judy Olson,,,,0,0,0,0,0,0,0,0,0,0,22
+Mike George,,,,,0,0,0,0,0,0,0,0,0,22
+Rebecca Warren,,,,,,0,0,0,0,0,0,0,0,22
+David Oh,,,,,,,0,1,1,0,0,0,0,22
+James Williams,,,,,,,,0,1,0,0,0,0,22
+Terry Tracy,,,,,,,,,0,0,0,0,0,22
+Al Taubenberger,,,,,,,,,,0,0,0,0,22
+Daniel Tinney,,,,,,,,,,,0,0,0,22
+Dennis M O Brien,,,,,,,,,,,,0,0,22
+Matt Wolfe,,,,,,,,,,,,,0,22
+Total,2,0,0,0,0,0,1,1,1,0,0,0,0,22
+,Justice Of The Supreme Court - Republican,,,,,,Council At Large - Republican,,,,,,,23
+,Correale Stevens,Mike George,Anne Covey,Cheryl Allen,Judy Olson,Rebecca Warren,James Williams,Terry Tracy,Daniel Tinney,David Oh,Dennis M O Brien,Al Taubenberger,Matt Wolfe,23
+Correale Stevens,0,2,1,1,0,0,2,1,1,1,1,0,0,23
+Mike George,,0,1,1,0,0,2,1,1,1,1,0,0,23
+Anne Covey,,,0,0,0,0,1,1,1,1,1,0,0,23
+Cheryl Allen,,,,0,0,0,1,0,0,0,0,0,0,23
+Judy Olson,,,,,0,0,0,0,0,0,0,0,0,23
+Rebecca Warren,,,,,,0,0,0,0,0,0,0,0,23
+James Williams,,,,,,,0,1,1,1,1,0,0,23
+Terry Tracy,,,,,,,,1,1,1,1,0,0,23
+Daniel Tinney,,,,,,,,,0,1,1,0,0,23
+David Oh,,,,,,,,,,0,1,0,0,23
+Dennis M O Brien,,,,,,,,,,,0,0,0,23
+Al Taubenberger,,,,,,,,,,,,0,0,23
+Matt Wolfe,,,,,,,,,,,,,0,23
+Total,2,2,1,1,0,0,2,2,1,1,1,0,0,23
+,Council At Large - Republican,,,,,,,Justice Of The Supreme Court - Republican,,,,,,24
+,David Oh,Dennis M O Brien,Matt Wolfe,Terry Tracy,Al Taubenberger,Daniel Tinney,James Williams,Anne Covey,Cheryl Allen,Correale Stevens,Judy Olson,Mike George,Rebecca Warren,24
+David Oh,0,1,1,0,0,0,0,0,0,0,0,0,0,24
+Dennis M O Brien,,0,1,0,0,0,0,0,0,0,0,0,0,24
+Matt Wolfe,,,0,0,0,0,0,0,0,0,0,0,0,24
+Terry Tracy,,,,1,0,0,0,0,0,0,0,0,0,24
+Al Taubenberger,,,,,0,0,0,0,0,0,0,0,0,24
+Daniel Tinney,,,,,,0,0,0,0,0,0,0,0,24
+James Williams,,,,,,,0,0,0,0,0,0,0,24
+Anne Covey,,,,,,,,0,0,0,0,0,0,24
+Cheryl Allen,,,,,,,,,0,0,0,0,0,24
+Correale Stevens,,,,,,,,,,0,0,0,0,24
+Judy Olson,,,,,,,,,,,0,0,0,24
+Mike George,,,,,,,,,,,,0,0,24
+Rebecca Warren,,,,,,,,,,,,,0,24
+Total,1,1,1,1,0,0,0,0,0,0,0,0,0,24
+,Justice Of The Supreme Court - Republican,,,,,,Council At Large - Republican,,,,,,,25
+,Correale Stevens,Anne Covey,Rebecca Warren,Cheryl Allen,Judy Olson,Mike George,David Oh,Terry Tracy,Daniel Tinney,James Williams,Matt Wolfe,Al Taubenberger,Dennis M O Brien,25
+Correale Stevens,1,1,0,0,0,0,1,1,1,1,1,1,1,25
+Anne Covey,,0,0,0,0,0,1,2,0,1,0,0,0,25
+Rebecca Warren,,,0,1,1,0,2,1,1,1,1,0,0,25
+Cheryl Allen,,,,0,1,0,1,1,1,1,1,0,0,25
+Judy Olson,,,,,0,0,1,1,1,1,1,0,0,25
+Mike George,,,,,,0,0,0,0,0,0,0,0,25
+David Oh,,,,,,,0,2,1,2,1,0,0,25
+Terry Tracy,,,,,,,,0,1,2,1,0,0,25
+Daniel Tinney,,,,,,,,,0,1,2,1,1,25
+James Williams,,,,,,,,,,0,1,0,0,25
+Matt Wolfe,,,,,,,,,,,0,1,1,25
+Al Taubenberger,,,,,,,,,,,,0,1,25
+Dennis M O Brien,,,,,,,,,,,,,0,25
+Total,3,2,2,1,1,0,3,3,2,2,2,1,1,25
+,Justice Of The Supreme Court - Republican,,,,,,Council At Large - Republican,,,,,,,26
+,Correale Stevens,Judy Olson,Rebecca Warren,Anne Covey,Cheryl Allen,Mike George,David Oh,James Williams,Matt Wolfe,Terry Tracy,Al Taubenberger,Daniel Tinney,Dennis M O Brien,26
+Correale Stevens,0,1,1,0,0,0,1,0,1,1,0,0,0,26
+Judy Olson,,0,1,0,0,0,1,0,1,1,0,0,0,26
+Rebecca Warren,,,0,0,0,0,1,0,1,1,0,0,0,26
+Anne Covey,,,,0,0,0,0,0,0,0,0,0,0,26
+Cheryl Allen,,,,,0,0,0,0,0,0,0,0,0,26
+Mike George,,,,,,0,0,0,0,0,0,0,0,26
+David Oh,,,,,,,0,0,1,1,0,0,0,26
+James Williams,,,,,,,,1,0,0,0,0,0,26
+Matt Wolfe,,,,,,,,,0,1,0,0,0,26
+Terry Tracy,,,,,,,,,,0,0,0,0,26
+Al Taubenberger,,,,,,,,,,,0,0,0,26
+Daniel Tinney,,,,,,,,,,,,0,0,26
+Dennis M O Brien,,,,,,,,,,,,,0,26
+Total,1,1,1,0,0,0,1,1,1,1,0,0,0,26
+,Council At Large - Republican,,,,,,,Justice Of The Supreme Court - Republican,,,,,,27
+,David Oh,Dennis M O Brien,Terry Tracy,Daniel Tinney,James Williams,Matt Wolfe,Al Taubenberger,Anne Covey,Cheryl Allen,Correale Stevens,Rebecca Warren,Mike George,Judy Olson,27
+David Oh,1,3,2,3,3,2,1,3,2,2,2,1,0,27
+Dennis M O Brien,,0,1,3,2,3,1,1,2,1,2,1,0,27
+Terry Tracy,,,2,1,1,1,0,2,1,1,0,1,0,27
+Daniel Tinney,,,,0,2,2,1,1,2,1,2,1,0,27
+James Williams,,,,,0,1,1,1,1,2,2,0,0,27
+Matt Wolfe,,,,,,0,0,1,1,0,1,1,0,27
+Al Taubenberger,,,,,,,0,0,1,1,1,0,0,27
+Anne Covey,,,,,,,,0,1,1,0,1,0,27
+Cheryl Allen,,,,,,,,,0,1,1,1,0,27
+Correale Stevens,,,,,,,,,,0,1,0,0,27
+Rebecca Warren,,,,,,,,,,,0,0,0,27
+Mike George,,,,,,,,,,,,0,0,27
+Judy Olson,,,,,,,,,,,,,0,27
+Total,6,4,4,3,3,3,1,3,2,2,2,1,0,27
+,Council At Large - Republican,,,,,,,Justice Of The Supreme Court - Republican,,,,,,28
+,David Oh,Dennis M O Brien,Al Taubenberger,Daniel Tinney,Matt Wolfe,James Williams,Terry Tracy,Anne Covey,Cheryl Allen,Correale Stevens,Judy Olson,Mike George,Rebecca Warren,28
+David Oh,0,2,1,1,1,0,0,1,1,1,1,0,0,28
+Dennis M O Brien,,0,1,1,1,0,0,1,1,1,1,0,0,28
+Al Taubenberger,,,0,1,1,0,0,1,1,0,1,0,0,28
+Daniel Tinney,,,,0,1,0,0,1,1,0,1,0,0,28
+Matt Wolfe,,,,,0,0,0,1,1,0,1,0,0,28
+James Williams,,,,,,0,0,0,0,0,0,0,0,28
+Terry Tracy,,,,,,,0,0,0,0,0,0,0,28
+Anne Covey,,,,,,,,0,1,0,1,0,0,28
+Cheryl Allen,,,,,,,,,0,0,1,0,0,28
+Correale Stevens,,,,,,,,,,0,0,0,0,28
+Judy Olson,,,,,,,,,,,0,0,0,28
+Mike George,,,,,,,,,,,,0,0,28
+Rebecca Warren,,,,,,,,,,,,,0,28
+Total,2,2,1,1,1,0,0,1,1,1,1,0,0,28
+,Justice Of The Supreme Court - Republican,,,,,,Council At Large - Republican,,,,,,,29
+,Anne Covey,Judy Olson,Rebecca Warren,Cheryl Allen,Correale Stevens,Mike George,Al Taubenberger,David Oh,Dennis M O Brien,Matt Wolfe,Terry Tracy,Daniel Tinney,James Williams,29
+Anne Covey,0,2,2,0,0,0,1,1,1,1,1,0,0,29
+Judy Olson,,0,2,0,0,0,1,1,1,1,1,0,0,29
+Rebecca Warren,,,0,0,0,0,1,1,1,1,1,0,0,29
+Cheryl Allen,,,,0,0,0,0,0,0,0,0,0,0,29
+Correale Stevens,,,,,0,0,0,0,0,0,0,0,0,29
+Mike George,,,,,,0,0,0,0,0,0,0,0,29
+Al Taubenberger,,,,,,,0,1,1,1,1,0,0,29
+David Oh,,,,,,,,0,1,1,1,0,0,29
+Dennis M O Brien,,,,,,,,,0,1,1,0,0,29
+Matt Wolfe,,,,,,,,,,0,1,0,0,29
+Terry Tracy,,,,,,,,,,,0,0,0,29
+Daniel Tinney,,,,,,,,,,,,0,0,29
+James Williams,,,,,,,,,,,,,0,29
+Total,2,2,2,0,0,0,1,1,1,1,1,0,0,29
+,Council At Large - Republican,,,,,,,Justice Of The Supreme Court - Republican,,,,,,30
+,Al Taubenberger,David Oh,Dennis M O Brien,Matt Wolfe,Terry Tracy,Daniel Tinney,James Williams,Anne Covey,Mike George,Rebecca Warren,Cheryl Allen,Correale Stevens,Judy Olson,30
+Al Taubenberger,0,1,1,1,1,0,0,1,1,1,0,0,0,30
+David Oh,,0,1,1,1,0,0,1,1,1,0,0,0,30
+Dennis M O Brien,,,0,1,1,0,0,1,1,1,0,0,0,30
+Matt Wolfe,,,,0,1,0,0,1,1,1,0,0,0,30
+Terry Tracy,,,,,0,0,0,1,1,1,0,0,0,30
+Daniel Tinney,,,,,,0,0,0,0,0,0,0,0,30
+James Williams,,,,,,,0,0,0,0,0,0,0,30
+Anne Covey,,,,,,,,0,1,1,0,0,0,30
+Mike George,,,,,,,,,0,1,0,0,0,30
+Rebecca Warren,,,,,,,,,,0,0,0,0,30
+Cheryl Allen,,,,,,,,,,,0,0,0,30
+Correale Stevens,,,,,,,,,,,,0,0,30
+Judy Olson,,,,,,,,,,,,,0,30
+Total,1,1,1,1,1,0,0,1,1,1,0,0,0,30
+,Council At Large - Republican,,,,,,,Justice Of The Supreme Court - Republican,,,,,,31
+,David Oh,Daniel Tinney,James Williams,Matt Wolfe,Al Taubenberger,Dennis M O Brien,Terry Tracy,Rebecca Warren,Anne Covey,Cheryl Allen,Correale Stevens,Judy Olson,Mike George,31
+David Oh,0,0,0,0,0,0,0,1,0,0,1,0,0,31
+Daniel Tinney,,0,1,1,0,0,0,1,1,1,0,0,0,31
+James Williams,,,0,1,0,0,0,1,1,1,0,0,0,31
+Matt Wolfe,,,,0,0,0,0,1,1,1,0,0,0,31
+Al Taubenberger,,,,,0,0,0,0,0,0,0,0,0,31
+Dennis M O Brien,,,,,,0,0,0,0,0,0,0,0,31
+Terry Tracy,,,,,,,0,0,0,0,0,0,0,31
+Rebecca Warren,,,,,,,,0,1,1,0,0,0,31
+Anne Covey,,,,,,,,,0,1,0,0,0,31
+Cheryl Allen,,,,,,,,,,0,0,0,0,31
+Correale Stevens,,,,,,,,,,,0,0,0,31
+Judy Olson,,,,,,,,,,,,0,0,31
+Mike George,,,,,,,,,,,,,0,31
+Total,2,1,1,1,0,0,0,2,1,1,1,0,0,31
+,Justice Of The Supreme Court - Republican,,,,,,Council At Large - Republican,,,,,,,32
+,Anne Covey,Correale Stevens,Cheryl Allen,Judy Olson,Mike George,Rebecca Warren,David Oh,James Williams,Terry Tracy,Al Taubenberger,Daniel Tinney,Dennis M O Brien,Matt Wolfe,32
+Anne Covey,0,0,0,0,0,0,1,1,1,0,0,0,0,32
+Correale Stevens,,1,0,0,0,0,0,0,0,0,0,0,0,32
+Cheryl Allen,,,0,0,0,0,0,0,0,0,0,0,0,32
+Judy Olson,,,,0,0,0,0,0,0,0,0,0,0,32
+Mike George,,,,,0,0,0,0,0,0,0,0,0,32
+Rebecca Warren,,,,,,0,0,0,0,0,0,0,0,32
+David Oh,,,,,,,0,1,1,0,0,0,0,32
+James Williams,,,,,,,,0,1,0,0,0,0,32
+Terry Tracy,,,,,,,,,0,0,0,0,0,32
+Al Taubenberger,,,,,,,,,,0,0,0,0,32
+Daniel Tinney,,,,,,,,,,,0,0,0,32
+Dennis M O Brien,,,,,,,,,,,,0,0,32
+Matt Wolfe,,,,,,,,,,,,,0,32
+Total,1,1,0,0,0,0,1,1,1,0,0,0,0,32
+,Justice Of The Supreme Court - Republican,,,,,,Council At Large - Republican,,,,,,,33
+,Correale Stevens,Anne Covey,Rebecca Warren,Cheryl Allen,Judy Olson,Mike George,Matt Wolfe,Daniel Tinney,David Oh,Terry Tracy,Dennis M O Brien,James Williams,Al Taubenberger,33
+Correale Stevens,0,2,1,1,1,0,2,2,2,2,0,2,1,33
+Anne Covey,,0,2,0,0,1,2,1,1,1,1,1,0,33
+Rebecca Warren,,,0,0,0,1,1,0,1,1,1,1,0,33
+Cheryl Allen,,,,0,1,0,0,0,1,0,0,0,0,33
+Judy Olson,,,,,0,0,0,0,1,0,0,0,0,33
+Mike George,,,,,,0,1,0,0,0,1,0,0,33
+Matt Wolfe,,,,,,,0,3,1,2,2,1,1,33
+Daniel Tinney,,,,,,,,0,1,2,1,1,1,33
+David Oh,,,,,,,,,0,2,1,1,0,33
+Terry Tracy,,,,,,,,,,0,1,2,1,33
+Dennis M O Brien,,,,,,,,,,,0,0,0,33
+James Williams,,,,,,,,,,,,0,1,33
+Al Taubenberger,,,,,,,,,,,,,0,33
+Total,4,3,2,1,1,1,4,3,3,3,2,2,1,33
+,Council At Large - Republican,,,,,,,Justice Of The Supreme Court - Republican,,,,,,35
+,Al Taubenberger,David Oh,Matt Wolfe,Daniel Tinney,James Williams,Terry Tracy,Dennis M O Brien,Anne Covey,Cheryl Allen,Correale Stevens,Judy Olson,Mike George,Rebecca Warren,35
+Al Taubenberger,0,1,1,1,1,1,0,1,1,2,1,1,0,35
+David Oh,,0,0,1,1,1,0,1,1,1,1,1,0,35
+Matt Wolfe,,,1,0,0,0,0,1,1,1,0,0,0,35
+Daniel Tinney,,,,0,1,1,0,0,0,1,1,1,0,35
+James Williams,,,,,0,1,0,0,0,1,1,1,0,35
+Terry Tracy,,,,,,0,0,0,0,1,1,1,0,35
+Dennis M O Brien,,,,,,,0,0,0,0,0,0,0,35
+Anne Covey,,,,,,,,0,2,1,0,0,0,35
+Cheryl Allen,,,,,,,,,0,1,0,0,0,35
+Correale Stevens,,,,,,,,,,0,1,1,0,35
+Judy Olson,,,,,,,,,,,0,1,0,35
+Mike George,,,,,,,,,,,,0,0,35
+Rebecca Warren,,,,,,,,,,,,,0,35
+Total,2,2,2,1,1,1,0,2,2,2,1,1,0,35
+,Justice Of The Supreme Court - Republican,,,,,,Council At Large - Republican,,,,,,,36
+,Anne Covey,Correale Stevens,Judy Olson,Cheryl Allen,Mike George,Rebecca Warren,Al Taubenberger,Daniel Tinney,David Oh,Dennis M O Brien,James Williams,Matt Wolfe,Terry Tracy,36
+Anne Covey,0,1,1,0,0,0,0,0,0,0,0,0,0,36
+Correale Stevens,,0,1,0,0,0,0,0,0,0,0,0,0,36
+Judy Olson,,,0,0,0,0,0,0,0,0,0,0,0,36
+Cheryl Allen,,,,0,0,0,0,0,0,0,0,0,0,36
+Mike George,,,,,0,0,0,0,0,0,0,0,0,36
+Rebecca Warren,,,,,,0,0,0,0,0,0,0,0,36
+Al Taubenberger,,,,,,,0,0,0,0,0,0,0,36
+Daniel Tinney,,,,,,,,0,0,0,0,0,0,36
+David Oh,,,,,,,,,0,0,0,0,0,36
+Dennis M O Brien,,,,,,,,,,0,0,0,0,36
+James Williams,,,,,,,,,,,0,0,0,36
+Matt Wolfe,,,,,,,,,,,,0,0,36
+Terry Tracy,,,,,,,,,,,,,0,36
+Total,1,1,1,0,0,0,0,0,0,0,0,0,0,36
+,Council At Large - Republican,,,,,,,Justice Of The Supreme Court - Republican,,,,,,37
+,David Oh,Dennis M O Brien,Daniel Tinney,James Williams,Terry Tracy,Al Taubenberger,Matt Wolfe,Anne Covey,Correale Stevens,Judy Olson,Mike George,Rebecca Warren,Cheryl Allen,37
+David Oh,0,5,3,4,4,2,2,5,3,3,3,2,1,37
+Dennis M O Brien,,0,3,2,3,2,2,5,3,3,2,2,0,37
+Daniel Tinney,,,1,1,2,0,1,3,1,1,2,2,0,37
+James Williams,,,,0,2,1,1,2,1,1,2,1,0,37
+Terry Tracy,,,,,0,1,1,3,1,2,3,1,0,37
+Al Taubenberger,,,,,,0,1,2,2,2,0,0,0,37
+Matt Wolfe,,,,,,,0,2,1,2,1,0,0,37
+Anne Covey,,,,,,,,0,3,3,2,2,0,37
+Correale Stevens,,,,,,,,,0,2,0,1,0,37
+Judy Olson,,,,,,,,,,0,1,0,0,37
+Mike George,,,,,,,,,,,0,1,0,37
+Rebecca Warren,,,,,,,,,,,,0,0,37
+Cheryl Allen,,,,,,,,,,,,,0,37
+Total,8,5,4,4,4,2,2,5,3,3,3,2,1,37
+,Justice Of The Supreme Court - Republican,,,,,,Council At Large - Republican,,,,,,,39
+,Cheryl Allen,Anne Covey,Correale Stevens,Judy Olson,Mike George,Rebecca Warren,David Oh,Terry Tracy,Al Taubenberger,Daniel Tinney,Dennis M O Brien,James Williams,Matt Wolfe,39
+Cheryl Allen,0,0,0,0,0,0,1,1,0,0,0,0,0,39
+Anne Covey,,0,0,0,0,0,0,0,0,0,0,0,0,39
+Correale Stevens,,,0,0,0,0,0,0,0,0,0,0,0,39
+Judy Olson,,,,0,0,0,0,0,0,0,0,0,0,39
+Mike George,,,,,0,0,0,0,0,0,0,0,0,39
+Rebecca Warren,,,,,,0,0,0,0,0,0,0,0,39
+David Oh,,,,,,,0,1,0,0,0,0,0,39
+Terry Tracy,,,,,,,,0,0,0,0,0,0,39
+Al Taubenberger,,,,,,,,,0,0,0,0,0,39
+Daniel Tinney,,,,,,,,,,0,0,0,0,39
+Dennis M O Brien,,,,,,,,,,,0,0,0,39
+James Williams,,,,,,,,,,,,0,0,39
+Matt Wolfe,,,,,,,,,,,,,0,39
+Total,1,0,0,0,0,0,1,1,0,0,0,0,0,39
+,Justice Of The Supreme Court - Republican,,,,,,Council At Large - Republican,,,,,,,41
+,Correale Stevens,Judy Olson,Mike George,Anne Covey,Cheryl Allen,Rebecca Warren,Daniel Tinney,David Oh,Dennis M O Brien,Matt Wolfe,Terry Tracy,Al Taubenberger,James Williams,41
+Correale Stevens,2,1,1,0,0,0,1,1,1,1,1,0,0,41
+Judy Olson,,0,1,0,0,0,1,1,1,1,1,0,0,41
+Mike George,,,0,0,0,0,1,1,1,1,1,0,0,41
+Anne Covey,,,,0,0,0,0,0,0,0,0,0,0,41
+Cheryl Allen,,,,,0,0,0,0,0,0,0,0,0,41
+Rebecca Warren,,,,,,0,0,0,0,0,0,0,0,41
+Daniel Tinney,,,,,,,0,1,1,1,1,0,0,41
+David Oh,,,,,,,,0,1,1,1,0,0,41
+Dennis M O Brien,,,,,,,,,0,1,1,0,0,41
+Matt Wolfe,,,,,,,,,,0,1,0,0,41
+Terry Tracy,,,,,,,,,,,0,0,0,41
+Al Taubenberger,,,,,,,,,,,,0,0,41
+James Williams,,,,,,,,,,,,,0,41
+Total,3,1,1,0,0,0,1,1,1,1,1,0,0,41
+,Council At Large - Republican,,,,,,,Justice Of The Supreme Court - Republican,,,,,,All
+,David Oh,Terry Tracy,Matt Wolfe,James Williams,Dennis M O Brien,Daniel Tinney,Al Taubenberger,Correale Stevens,Anne Covey,Rebecca Warren,Judy Olson,Mike George,Cheryl Allen,All
+David Oh,2,29,18,21,23,18,11,25,24,16,12,11,10,All
+Terry Tracy,,4,15,20,15,15,7,16,19,11,8,11,6,All
+Matt Wolfe,,,3,9,17,14,8,9,13,9,9,6,8,All
+James Williams,,,,1,8,13,4,15,14,11,4,7,6,All
+Dennis M O Brien,,,,,0,14,9,12,14,8,6,10,5,All
+Daniel Tinney,,,,,,1,8,13,13,9,8,9,6,All
+Al Taubenberger,,,,,,,0,9,9,3,7,5,3,All
+Correale Stevens,,,,,,,,5,15,7,8,7,5,All
+Anne Covey,,,,,,,,,0,12,9,8,6,All
+Rebecca Warren,,,,,,,,,,0,5,4,3,All
+Judy Olson,,,,,,,,,,,1,5,3,All
+Mike George,,,,,,,,,,,,0,3,All
+Cheryl Allen,,,,,,,,,,,,,0,All
+Total,53,37,30,28,27,25,15,37,34,20,17,16,14,All

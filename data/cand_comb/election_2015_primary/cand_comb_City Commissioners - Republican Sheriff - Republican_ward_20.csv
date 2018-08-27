@@ -1,0 +1,31 @@
+col_1,col_2,col_3,division
+,City Commissioners - Republican,Sheriff - Republican,1
+,Al Schmidt,Christopher Sawyer,1
+Al Schmidt,0,3,1
+Christopher Sawyer,,0,1
+Total,3,3,1
+,City Commissioners - Republican,Sheriff - Republican,4
+,Al Schmidt,Christopher Sawyer,4
+Al Schmidt,0,2,4
+Christopher Sawyer,,0,4
+Total,2,2,4
+,Sheriff - Republican,City Commissioners - Republican,6
+,Christopher Sawyer,Al Schmidt,6
+Christopher Sawyer,1,0,6
+Al Schmidt,,0,6
+Total,1,0,6
+,City Commissioners - Republican,Sheriff - Republican,7
+,Al Schmidt,Christopher Sawyer,7
+Al Schmidt,1,0,7
+Christopher Sawyer,,0,7
+Total,1,0,7
+,City Commissioners - Republican,Sheriff - Republican,10
+,Al Schmidt,Christopher Sawyer,10
+Al Schmidt,0,3,10
+Christopher Sawyer,,0,10
+Total,3,3,10
+,City Commissioners - Republican,Sheriff - Republican,All
+,Al Schmidt,Christopher Sawyer,All
+Al Schmidt,1,8,All
+Christopher Sawyer,,1,All
+Total,9,9,All

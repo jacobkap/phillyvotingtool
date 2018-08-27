@@ -1,4 +1,22 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10,col_11,col_12,col_13,col_14,col_15,col_16,division
+,District Council 1st District,Council At Large,,,,,,,,,,,,,,All
+,Mark F Squilla,Helen Gym,Allan Domb,Derek S Green,William K Greenlee,Blondell Reynolds Brown,Andrew C Stober,Terry Tracy,David Oh,Kristin Combs,Dennis M O Brien,Al Taubenberger,Daniel Tinney,Sheila E Armstrong,John Staggs,All
+Mark F Squilla,142,"2,739","2,328","2,208","2,047","2,036",891,509,532,493,361,345,269,213,112,All
+Helen Gym,,43,"2,132","2,137","1,914","1,897",883,337,288,458,142,146,97,157,85,All
+Allan Domb,,,22,"1,888","1,719","1,635",506,280,263,164,155,180,95,71,22,All
+Derek S Green,,,,14,"1,791","1,760",521,232,158,251,100,77,71,69,26,All
+William K Greenlee,,,,,9,"1,738",293,91,175,175,114,100,69,51,20,All
+Blondell Reynolds Brown,,,,,,12,330,94,151,198,49,54,34,61,23,All
+Andrew C Stober,,,,,,,25,297,110,402,64,88,44,155,99,All
+Terry Tracy,,,,,,,,19,352,67,331,350,330,46,9,All
+David Oh,,,,,,,,,26,66,360,342,317,48,10,All
+Kristin Combs,,,,,,,,,,4,35,39,27,179,111,All
+Dennis M O Brien,,,,,,,,,,,12,342,331,25,6,All
+Al Taubenberger,,,,,,,,,,,,2,317,22,7,All
+Daniel Tinney,,,,,,,,,,,,,6,17,8,All
+Sheila E Armstrong,,,,,,,,,,,,,,5,74,All
+John Staggs,,,,,,,,,,,,,,,1,All
+Total,"3,789","3,123","2,609","2,447","2,209","2,179","1,161",836,794,614,582,579,487,265,140,All
 ,District Council 1st District,Council At Large,,,,,,,,,,,,,,1
 ,Mark F Squilla,Helen Gym,Allan Domb,William K Greenlee,Derek S Green,Blondell Reynolds Brown,Dennis M O Brien,David Oh,Andrew C Stober,Terry Tracy,Al Taubenberger,Daniel Tinney,Kristin Combs,Sheila E Armstrong,John Staggs,1
 Mark F Squilla,18,156,151,128,122,116,37,35,39,30,25,22,16,6,3,1
@@ -143,24 +161,6 @@ Daniel Tinney,,,,,,,,,,,,,0,0,0,8
 Sheila E Armstrong,,,,,,,,,,,,,,0,1,8
 John Staggs,,,,,,,,,,,,,,,0,8
 Total,102,64,61,57,50,50,24,23,18,15,14,11,6,3,2,8
-,Council At Large,,,,,,,,,,,,,,District Council 1st District,9
-,Helen Gym,William K Greenlee,Blondell Reynolds Brown,Allan Domb,Derek S Green,Andrew C Stober,David Oh,Kristin Combs,Terry Tracy,Al Taubenberger,Dennis M O Brien,Sheila E Armstrong,Daniel Tinney,John Staggs,Mark F Squilla,9
-Helen Gym,2,87,83,84,81,17,10,14,5,6,0,5,0,1,0,9
-William K Greenlee,,4,82,75,74,7,5,8,2,4,1,1,0,0,0,9
-Blondell Reynolds Brown,,,5,70,75,6,6,9,2,3,1,3,0,0,0,9
-Allan Domb,,,,6,70,8,6,5,5,6,0,2,0,0,0,9
-Derek S Green,,,,,4,6,6,6,2,2,1,4,0,0,0,9
-Andrew C Stober,,,,,,2,3,12,6,2,1,5,0,2,0,9
-David Oh,,,,,,,1,4,4,7,5,1,4,0,0,9
-Kristin Combs,,,,,,,,0,4,1,1,6,0,2,0,9
-Terry Tracy,,,,,,,,,0,6,6,2,4,1,0,9
-Al Taubenberger,,,,,,,,,,0,3,0,3,0,0,9
-Dennis M O Brien,,,,,,,,,,,1,1,4,0,0,9
-Sheila E Armstrong,,,,,,,,,,,,0,0,2,0,9
-Daniel Tinney,,,,,,,,,,,,,2,0,0,9
-John Staggs,,,,,,,,,,,,,,0,0,9
-Mark F Squilla,,,,,,,,,,,,,,,0,9
-Total,109,97,96,95,92,22,19,19,14,13,8,8,6,2,0,9
 ,District Council 1st District,Council At Large,,,,,,,,,,,,,,10
 ,Mark F Squilla,Helen Gym,Allan Domb,Derek S Green,William K Greenlee,Blondell Reynolds Brown,Andrew C Stober,David Oh,Terry Tracy,Kristin Combs,Dennis M O Brien,Al Taubenberger,Daniel Tinney,Sheila E Armstrong,John Staggs,10
 Mark F Squilla,5,114,87,78,76,78,51,21,18,21,13,11,8,10,7,10
@@ -323,78 +323,6 @@ Dennis M O Brien,,,,,,,,,,,,,2,0,0,18
 Sheila E Armstrong,,,,,,,,,,,,,,0,3,18
 John Staggs,,,,,,,,,,,,,,,0,18
 Total,159,133,101,100,92,83,66,50,28,28,23,20,17,12,7,18
-,Council At Large,,,,,,,,,,,,,,District Council 1st District,19
-,Helen Gym,Allan Domb,Derek S Green,William K Greenlee,Blondell Reynolds Brown,Andrew C Stober,Terry Tracy,Kristin Combs,David Oh,Al Taubenberger,Daniel Tinney,Dennis M O Brien,Sheila E Armstrong,John Staggs,Mark F Squilla,19
-Helen Gym,6,89,91,83,76,38,19,18,9,4,5,4,6,3,0,19
-Allan Domb,,4,78,70,66,23,11,5,8,4,3,4,4,1,0,19
-Derek S Green,,,3,74,69,19,9,6,3,2,4,4,1,2,0,19
-William K Greenlee,,,,1,68,17,8,8,5,2,2,1,2,1,0,19
-Blondell Reynolds Brown,,,,,8,16,8,6,3,0,1,1,2,0,0,19
-Andrew C Stober,,,,,,1,20,17,5,1,1,1,6,2,0,19
-Terry Tracy,,,,,,,1,3,8,10,8,7,1,0,0,19
-Kristin Combs,,,,,,,,0,2,0,1,0,7,2,0,19
-David Oh,,,,,,,,,1,7,6,7,2,0,0,19
-Al Taubenberger,,,,,,,,,,0,8,7,0,0,0,19
-Daniel Tinney,,,,,,,,,,,0,7,2,0,0,19
-Dennis M O Brien,,,,,,,,,,,,0,0,0,0,19
-Sheila E Armstrong,,,,,,,,,,,,,0,1,0,19
-John Staggs,,,,,,,,,,,,,,1,0,19
-Mark F Squilla,,,,,,,,,,,,,,,0,19
-Total,133,107,99,91,90,49,31,22,20,13,13,13,9,4,0,19
-,Council At Large,,,,,,,,,,,,,,District Council 1st District,20
-,Blondell Reynolds Brown,Derek S Green,Helen Gym,William K Greenlee,Allan Domb,Andrew C Stober,David Oh,Kristin Combs,Terry Tracy,Al Taubenberger,Dennis M O Brien,Daniel Tinney,John Staggs,Sheila E Armstrong,Mark F Squilla,20
-Blondell Reynolds Brown,0,57,56,52,51,14,6,9,3,2,0,1,2,1,0,20
-Derek S Green,,4,53,51,49,13,3,8,3,1,1,0,1,1,0,20
-Helen Gym,,,0,51,49,15,8,10,4,3,2,0,2,3,0,20
-William K Greenlee,,,,1,50,7,7,4,3,1,1,1,0,0,0,20
-Allan Domb,,,,,0,8,6,2,3,2,1,1,0,1,0,20
-Andrew C Stober,,,,,,0,2,9,3,1,0,0,3,2,0,20
-David Oh,,,,,,,5,1,6,6,5,5,1,1,0,20
-Kristin Combs,,,,,,,,0,0,1,1,0,5,3,0,20
-Terry Tracy,,,,,,,,,0,7,4,4,0,0,0,20
-Al Taubenberger,,,,,,,,,,0,4,4,0,0,0,20
-Dennis M O Brien,,,,,,,,,,,0,4,0,0,0,20
-Daniel Tinney,,,,,,,,,,,,0,0,0,0,20
-John Staggs,,,,,,,,,,,,,0,3,0,20
-Sheila E Armstrong,,,,,,,,,,,,,,0,0,20
-Mark F Squilla,,,,,,,,,,,,,,,0,20
-Total,67,67,66,62,59,21,21,14,11,8,6,5,5,4,0,20
-,Council At Large,,,,,,,,,,,,,,District Council 1st District,21
-,Helen Gym,Allan Domb,Blondell Reynolds Brown,Derek S Green,William K Greenlee,Andrew C Stober,David Oh,Terry Tracy,Dennis M O Brien,Kristin Combs,Al Taubenberger,Sheila E Armstrong,Daniel Tinney,John Staggs,Mark F Squilla,21
-Helen Gym,3,71,73,70,70,16,3,6,3,7,2,5,2,3,0,21
-Allan Domb,,3,73,67,67,7,4,5,3,3,2,0,0,1,0,21
-Blondell Reynolds Brown,,,3,69,71,7,2,5,4,2,1,1,1,0,0,21
-Derek S Green,,,,5,67,4,1,3,2,3,1,1,1,0,0,21
-William K Greenlee,,,,,0,4,1,2,0,3,1,2,1,1,0,21
-Andrew C Stober,,,,,,1,2,5,3,4,2,4,2,1,0,21
-David Oh,,,,,,,1,5,7,2,5,1,4,0,0,21
-Terry Tracy,,,,,,,,0,4,0,4,1,4,0,0,21
-Dennis M O Brien,,,,,,,,,0,1,5,1,3,0,0,21
-Kristin Combs,,,,,,,,,,0,2,4,1,3,0,21
-Al Taubenberger,,,,,,,,,,,0,2,3,1,0,21
-Sheila E Armstrong,,,,,,,,,,,,0,1,2,0,21
-Daniel Tinney,,,,,,,,,,,,,0,0,0,21
-John Staggs,,,,,,,,,,,,,,0,0,21
-Mark F Squilla,,,,,,,,,,,,,,,0,21
-Total,91,86,86,80,77,19,11,11,10,9,8,7,6,3,0,21
-,Council At Large,,,,,,,,,,,,,,District Council 1st District,22
-,Helen Gym,Allan Domb,Derek S Green,Blondell Reynolds Brown,William K Greenlee,Andrew C Stober,David Oh,Terry Tracy,Kristin Combs,Al Taubenberger,Dennis M O Brien,Daniel Tinney,Sheila E Armstrong,John Staggs,Mark F Squilla,22
-Helen Gym,7,120,123,113,118,55,23,20,26,6,8,3,10,5,0,22
-Allan Domb,,4,105,95,99,27,16,12,13,8,6,4,7,2,0,22
-Derek S Green,,,0,103,110,30,16,7,9,2,4,2,2,2,0,22
-Blondell Reynolds Brown,,,,3,106,27,16,6,7,1,6,2,4,2,0,22
-William K Greenlee,,,,,1,25,13,3,9,6,5,3,2,3,0,22
-Andrew C Stober,,,,,,3,8,19,21,6,4,1,9,3,0,22
-David Oh,,,,,,,3,14,6,17,19,13,4,1,0,22
-Terry Tracy,,,,,,,,0,4,14,13,14,4,0,0,22
-Kristin Combs,,,,,,,,,0,3,1,0,9,5,0,22
-Al Taubenberger,,,,,,,,,,0,15,13,3,1,0,22
-Dennis M O Brien,,,,,,,,,,,0,12,0,0,0,22
-Daniel Tinney,,,,,,,,,,,,0,0,0,0,22
-Sheila E Armstrong,,,,,,,,,,,,,1,3,0,22
-John Staggs,,,,,,,,,,,,,,0,0,22
-Mark F Squilla,,,,,,,,,,,,,,,0,22
-Total,185,145,138,134,134,73,49,39,32,27,26,17,16,8,0,22
 ,District Council 1st District,Council At Large,,,,,,,,,,,,,,23
 ,Mark F Squilla,Helen Gym,Allan Domb,Derek S Green,Blondell Reynolds Brown,William K Greenlee,Andrew C Stober,Terry Tracy,David Oh,Kristin Combs,Dennis M O Brien,Al Taubenberger,Daniel Tinney,Sheila E Armstrong,John Staggs,23
 Mark F Squilla,7,188,164,150,141,139,57,32,27,29,18,16,15,8,8,23
@@ -485,21 +413,3 @@ Kristin Combs,,,,,,,,,,,,,0,10,5,27
 Sheila E Armstrong,,,,,,,,,,,,,,0,4,27
 John Staggs,,,,,,,,,,,,,,,0,27
 Total,232,181,166,131,123,112,73,72,64,49,46,44,29,21,6,27
-,District Council 1st District,Council At Large,,,,,,,,,,,,,,All
-,Mark F Squilla,Helen Gym,Allan Domb,Derek S Green,William K Greenlee,Blondell Reynolds Brown,Andrew C Stober,Terry Tracy,David Oh,Kristin Combs,Al Taubenberger,Dennis M O Brien,Daniel Tinney,Sheila E Armstrong,John Staggs,All
-Mark F Squilla,142,"2,739","2,328","2,208","2,047","2,036",891,509,532,493,345,361,269,213,112,All
-Helen Gym,,61,"2,545","2,555","2,323","2,298","1,024",391,341,533,167,159,107,186,99,All
-Allan Domb,,,39,"2,257","2,080","1,990",579,316,303,192,202,169,103,85,26,All
-Derek S Green,,,,30,"2,167","2,133",593,256,187,283,85,112,78,78,31,All
-William K Greenlee,,,,,16,"2,117",353,109,206,207,114,122,76,58,25,All
-Blondell Reynolds Brown,,,,,,31,400,118,184,231,61,61,39,72,27,All
-Andrew C Stober,,,,,,,32,350,130,465,100,73,48,181,110,All
-Terry Tracy,,,,,,,,20,389,78,391,365,364,54,10,All
-David Oh,,,,,,,,,37,81,384,403,349,57,12,All
-Kristin Combs,,,,,,,,,,4,46,39,29,208,128,All
-Al Taubenberger,,,,,,,,,,,2,376,348,27,9,All
-Dennis M O Brien,,,,,,,,,,,,13,361,27,6,All
-Daniel Tinney,,,,,,,,,,,,,8,20,8,All
-Sheila E Armstrong,,,,,,,,,,,,,,6,85,All
-John Staggs,,,,,,,,,,,,,,,2,All
-Total,"3,789","3,707","3,101","2,923","2,670","2,652","1,345",942,914,710,648,645,534,309,162,All

@@ -1,4 +1,13 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,division
+,District Council 5th District,Mayor,,,,,All
+,Darrell L Clarke,Jim Kenney,Melissa Murray Bailey,Osborne Hart,Boris Kindij,James Foster,All
+Darrell L Clarke,85,"1,201",24,1,2,2,All
+Jim Kenney,,108,0,0,0,0,All
+Melissa Murray Bailey,,,14,0,0,0,All
+Osborne Hart,,,,2,0,0,All
+Boris Kindij,,,,,0,0,All
+James Foster,,,,,,0,All
+Total,"1,315","1,309",38,3,2,2,All
 ,District Council 5th District,Mayor,,,,,1
 ,Darrell L Clarke,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,1
 Darrell L Clarke,4,53,1,0,0,0,1
@@ -71,15 +80,6 @@ Boris Kindij,,,,0,0,0,8
 James Foster,,,,,0,0,8
 Osborne Hart,,,,,,0,8
 Total,178,173,7,0,0,0,8
-,Mayor,,,,,District Council 5th District,9
-,Jim Kenney,Osborne Hart,Boris Kindij,James Foster,Melissa Murray Bailey,Darrell L Clarke,9
-Jim Kenney,143,0,0,0,0,0,9
-Osborne Hart,,1,0,0,0,0,9
-Boris Kindij,,,0,0,0,0,9
-James Foster,,,,0,0,0,9
-Melissa Murray Bailey,,,,,0,0,9
-Darrell L Clarke,,,,,,0,9
-Total,143,1,0,0,0,0,9
 ,District Council 5th District,Mayor,,,,,10
 ,Darrell L Clarke,Jim Kenney,Melissa Murray Bailey,Osborne Hart,Boris Kindij,James Foster,10
 Darrell L Clarke,4,93,1,0,0,0,10
@@ -134,39 +134,3 @@ James Foster,,,,0,0,0,15
 Osborne Hart,,,,,0,0,15
 Boris Kindij,,,,,,0,15
 Total,80,78,2,1,1,0,15
-,Mayor,,,,,District Council 5th District,16
-,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Darrell L Clarke,16
-Jim Kenney,86,0,0,0,0,0,16
-Melissa Murray Bailey,,3,0,0,0,0,16
-Boris Kindij,,,0,0,0,0,16
-James Foster,,,,0,0,0,16
-Osborne Hart,,,,,0,0,16
-Darrell L Clarke,,,,,,0,16
-Total,86,3,0,0,0,0,16
-,Mayor,,,,,District Council 5th District,17
-,Jim Kenney,Melissa Murray Bailey,Osborne Hart,Boris Kindij,James Foster,Darrell L Clarke,17
-Jim Kenney,71,0,0,0,0,0,17
-Melissa Murray Bailey,,1,0,0,0,0,17
-Osborne Hart,,,1,0,0,0,17
-Boris Kindij,,,,0,0,0,17
-James Foster,,,,,0,0,17
-Darrell L Clarke,,,,,,0,17
-Total,71,1,1,0,0,0,17
-,Mayor,,,,,District Council 5th District,18
-,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Darrell L Clarke,18
-Jim Kenney,89,0,0,0,0,0,18
-Melissa Murray Bailey,,2,0,0,0,0,18
-Boris Kindij,,,0,0,0,0,18
-James Foster,,,,0,0,0,18
-Osborne Hart,,,,,0,0,18
-Darrell L Clarke,,,,,,0,18
-Total,89,2,0,0,0,0,18
-,Mayor,,,,,District Council 5th District,All
-,Jim Kenney,Melissa Murray Bailey,Osborne Hart,Boris Kindij,James Foster,Darrell L Clarke,All
-Jim Kenney,497,0,0,0,0,"1,201",All
-Melissa Murray Bailey,,20,0,0,0,24,All
-Osborne Hart,,,4,0,0,1,All
-Boris Kindij,,,,0,0,2,All
-James Foster,,,,,0,2,All
-Darrell L Clarke,,,,,,85,All
-Total,"1,698",44,5,2,2,"1,315",All

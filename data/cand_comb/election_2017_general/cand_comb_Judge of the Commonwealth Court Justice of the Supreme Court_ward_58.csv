@@ -1,0 +1,406 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,division
+,Justice Of The Supreme Court,,Judge Of The Commonwealth Court,,,,All
+,Sallie Mundy,Dwayne Woodruff,Christine Fizzano Cannon,Ellen Ceisler,Paul Lalley,Irene M Clark,All
+Sallie Mundy,199,0,"2,835",549,"2,347",195,All
+Dwayne Woodruff,,112,149,"1,822",50,"1,619",All
+Christine Fizzano Cannon,,,44,374,"2,236",56,All
+Ellen Ceisler,,,,46,48,"1,641",All
+Paul Lalley,,,,,20,38,All
+Irene M Clark,,,,,,12,All
+Total,"3,442","2,103","3,061","2,452","2,442","1,855",All
+,Justice Of The Supreme Court,,Judge Of The Commonwealth Court,,,,1
+,Dwayne Woodruff,Sallie Mundy,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,1
+Dwayne Woodruff,4,0,37,37,0,0,1
+Sallie Mundy,,1,2,0,13,13,1
+Ellen Ceisler,,,0,35,2,0,1
+Irene M Clark,,,,1,0,0,1
+Christine Fizzano Cannon,,,,,0,11,1
+Paul Lalley,,,,,,0,1
+Total,43,16,39,38,13,13,1
+,Judge Of The Commonwealth Court,,,,Justice Of The Supreme Court,,2
+,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,Dwayne Woodruff,Sallie Mundy,2
+Ellen Ceisler,0,16,4,0,16,5,2
+Irene M Clark,,0,0,0,15,1,2
+Christine Fizzano Cannon,,,0,8,0,14,2
+Paul Lalley,,,,0,0,8,2
+Dwayne Woodruff,,,,,0,0,2
+Sallie Mundy,,,,,,1,2
+Total,21,16,14,8,16,16,2
+,Judge Of The Commonwealth Court,,,,Justice Of The Supreme Court,,3
+,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,Dwayne Woodruff,Sallie Mundy,3
+Ellen Ceisler,2,61,7,0,61,11,3
+Irene M Clark,,0,5,0,58,6,3
+Christine Fizzano Cannon,,,0,43,5,53,3
+Paul Lalley,,,,0,1,44,3
+Dwayne Woodruff,,,,,2,0,3
+Sallie Mundy,,,,,,3,3
+Total,77,67,60,45,67,65,3
+,Justice Of The Supreme Court,,Judge Of The Commonwealth Court,,,,4
+,Sallie Mundy,Dwayne Woodruff,Christine Fizzano Cannon,Paul Lalley,Ellen Ceisler,Irene M Clark,4
+Sallie Mundy,7,0,159,123,24,2,4
+Dwayne Woodruff,,5,8,5,32,24,4
+Christine Fizzano Cannon,,,2,128,22,2,4
+Paul Lalley,,,,0,1,0,4
+Ellen Ceisler,,,,,1,22,4
+Irene M Clark,,,,,,1,4
+Total,173,43,171,130,57,27,4
+,Justice Of The Supreme Court,,Judge Of The Commonwealth Court,,,,5
+,Sallie Mundy,Dwayne Woodruff,Christine Fizzano Cannon,Ellen Ceisler,Irene M Clark,Paul Lalley,5
+Sallie Mundy,4,0,78,17,9,64,5
+Dwayne Woodruff,,2,5,67,58,1,5
+Christine Fizzano Cannon,,,1,12,1,59,5
+Ellen Ceisler,,,,0,60,0,5
+Irene M Clark,,,,,0,3,5
+Paul Lalley,,,,,,0,5
+Total,98,72,84,84,67,65,5
+,Justice Of The Supreme Court,,Judge Of The Commonwealth Court,,,,6
+,Sallie Mundy,Dwayne Woodruff,Christine Fizzano Cannon,Ellen Ceisler,Paul Lalley,Irene M Clark,6
+Sallie Mundy,4,0,57,11,49,3,6
+Dwayne Woodruff,,1,0,37,1,33,6
+Christine Fizzano Cannon,,,1,6,46,0,6
+Ellen Ceisler,,,,1,2,33,6
+Paul Lalley,,,,,0,0,6
+Irene M Clark,,,,,,0,6
+Total,69,41,58,50,50,37,6
+,Justice Of The Supreme Court,,Judge Of The Commonwealth Court,,,,7
+,Sallie Mundy,Dwayne Woodruff,Christine Fizzano Cannon,Paul Lalley,Ellen Ceisler,Irene M Clark,7
+Sallie Mundy,5,0,79,65,15,6,7
+Dwayne Woodruff,,3,3,2,31,29,7
+Christine Fizzano Cannon,,,1,65,9,1,7
+Paul Lalley,,,,0,0,1,7
+Ellen Ceisler,,,,,1,31,7
+Irene M Clark,,,,,,0,7
+Total,94,39,84,68,48,36,7
+,Justice Of The Supreme Court,,Judge Of The Commonwealth Court,,,,8
+,Dwayne Woodruff,Sallie Mundy,Ellen Ceisler,Christine Fizzano Cannon,Paul Lalley,Irene M Clark,8
+Dwayne Woodruff,5,0,40,7,2,36,8
+Sallie Mundy,,5,9,40,36,1,8
+Ellen Ceisler,,,0,8,2,33,8
+Christine Fizzano Cannon,,,,0,35,2,8
+Paul Lalley,,,,,0,1,8
+Irene M Clark,,,,,,0,8
+Total,50,50,49,47,38,37,8
+,Judge Of The Commonwealth Court,,,,Justice Of The Supreme Court,,9
+,Christine Fizzano Cannon,Paul Lalley,Ellen Ceisler,Irene M Clark,Sallie Mundy,Dwayne Woodruff,9
+Christine Fizzano Cannon,2,62,17,5,87,14,9
+Paul Lalley,,0,4,2,64,5,9
+Ellen Ceisler,,,0,20,14,33,9
+Irene M Clark,,,,1,4,24,9
+Sallie Mundy,,,,,6,0,9
+Dwayne Woodruff,,,,,,5,9
+Total,104,70,48,30,101,47,9
+,Justice Of The Supreme Court,,Judge Of The Commonwealth Court,,,,10
+,Sallie Mundy,Dwayne Woodruff,Christine Fizzano Cannon,Ellen Ceisler,Paul Lalley,Irene M Clark,10
+Sallie Mundy,0,0,59,12,49,7,10
+Dwayne Woodruff,,2,3,40,1,39,10
+Christine Fizzano Cannon,,,0,7,47,1,10
+Ellen Ceisler,,,,0,0,41,10
+Paul Lalley,,,,,0,1,10
+Irene M Clark,,,,,,0,10
+Total,70,46,63,52,51,46,10
+,Justice Of The Supreme Court,,Judge Of The Commonwealth Court,,,,11
+,Sallie Mundy,Dwayne Woodruff,Christine Fizzano Cannon,Paul Lalley,Ellen Ceisler,Irene M Clark,11
+Sallie Mundy,2,0,53,49,11,3,11
+Dwayne Woodruff,,1,1,3,36,30,11
+Christine Fizzano Cannon,,,2,47,5,1,11
+Paul Lalley,,,,1,3,1,11
+Ellen Ceisler,,,,,3,30,11
+Irene M Clark,,,,,,0,11
+Total,63,40,57,53,50,34,11
+,Justice Of The Supreme Court,,Judge Of The Commonwealth Court,,,,12
+,Sallie Mundy,Dwayne Woodruff,Christine Fizzano Cannon,Ellen Ceisler,Paul Lalley,Irene M Clark,12
+Sallie Mundy,3,0,56,8,50,3,12
+Dwayne Woodruff,,2,1,43,0,41,12
+Christine Fizzano Cannon,,,0,8,47,0,12
+Ellen Ceisler,,,,0,0,41,12
+Paul Lalley,,,,,0,1,12
+Irene M Clark,,,,,,1,12
+Total,65,46,58,51,51,45,12
+,Justice Of The Supreme Court,,Judge Of The Commonwealth Court,,,,13
+,Sallie Mundy,Dwayne Woodruff,Christine Fizzano Cannon,Paul Lalley,Ellen Ceisler,Irene M Clark,13
+Sallie Mundy,3,0,68,58,16,5,13
+Dwayne Woodruff,,5,5,2,35,29,13
+Christine Fizzano Cannon,,,3,58,8,0,13
+Paul Lalley,,,,1,0,1,13
+Ellen Ceisler,,,,,4,32,13
+Irene M Clark,,,,,,0,13
+Total,84,44,76,61,56,35,13
+,Judge Of The Commonwealth Court,,,,Justice Of The Supreme Court,,14
+,Christine Fizzano Cannon,Paul Lalley,Ellen Ceisler,Irene M Clark,Sallie Mundy,Dwayne Woodruff,14
+Christine Fizzano Cannon,0,47,10,0,55,5,14
+Paul Lalley,,0,0,0,46,0,14
+Ellen Ceisler,,,0,25,7,36,14
+Irene M Clark,,,,0,0,26,14
+Sallie Mundy,,,,,2,0,14
+Dwayne Woodruff,,,,,,3,14
+Total,61,47,43,26,59,40,14
+,Justice Of The Supreme Court,,Judge Of The Commonwealth Court,,,,15
+,Dwayne Woodruff,Sallie Mundy,Irene M Clark,Ellen Ceisler,Paul Lalley,Christine Fizzano Cannon,15
+Dwayne Woodruff,2,0,17,13,0,2,15
+Sallie Mundy,,1,1,4,15,13,15
+Irene M Clark,,,0,12,0,0,15
+Ellen Ceisler,,,,0,1,1,15
+Paul Lalley,,,,,1,12,15
+Christine Fizzano Cannon,,,,,,0,15
+Total,23,19,18,17,16,15,15
+,Justice Of The Supreme Court,,Judge Of The Commonwealth Court,,,,16
+,Sallie Mundy,Dwayne Woodruff,Christine Fizzano Cannon,Paul Lalley,Ellen Ceisler,Irene M Clark,16
+Sallie Mundy,10,0,90,74,14,7,16
+Dwayne Woodruff,,3,4,2,32,28,16
+Christine Fizzano Cannon,,,1,74,8,0,16
+Paul Lalley,,,,1,3,2,16
+Ellen Ceisler,,,,,0,30,16
+Irene M Clark,,,,,,0,16
+Total,113,39,99,81,47,36,16
+,Justice Of The Supreme Court,,Judge Of The Commonwealth Court,,,,17
+,Sallie Mundy,Dwayne Woodruff,Christine Fizzano Cannon,Ellen Ceisler,Paul Lalley,Irene M Clark,17
+Sallie Mundy,6,0,80,12,69,3,17
+Dwayne Woodruff,,2,4,61,1,50,17
+Christine Fizzano Cannon,,,0,8,64,3,17
+Ellen Ceisler,,,,5,1,47,17
+Paul Lalley,,,,,0,0,17
+Irene M Clark,,,,,,0,17
+Total,97,68,84,78,70,53,17
+,Judge Of The Commonwealth Court,,,,Justice Of The Supreme Court,,18
+,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,Dwayne Woodruff,Sallie Mundy,18
+Ellen Ceisler,0,24,1,3,27,7,18
+Irene M Clark,,0,1,1,24,2,18
+Christine Fizzano Cannon,,,1,17,1,23,18
+Paul Lalley,,,,0,1,21,18
+Dwayne Woodruff,,,,,1,0,18
+Sallie Mundy,,,,,,0,18
+Total,34,26,25,22,30,30,18
+,Justice Of The Supreme Court,,Judge Of The Commonwealth Court,,,,19
+,Sallie Mundy,Dwayne Woodruff,Christine Fizzano Cannon,Ellen Ceisler,Paul Lalley,Irene M Clark,19
+Sallie Mundy,9,0,87,19,70,8,19
+Dwayne Woodruff,,4,4,51,0,41,19
+Christine Fizzano Cannon,,,1,11,66,3,19
+Ellen Ceisler,,,,3,0,45,19
+Paul Lalley,,,,,2,0,19
+Irene M Clark,,,,,,1,19
+Total,112,58,92,75,72,52,19
+,Judge Of The Commonwealth Court,,,,Justice Of The Supreme Court,,20
+,Ellen Ceisler,Christine Fizzano Cannon,Irene M Clark,Paul Lalley,Dwayne Woodruff,Sallie Mundy,20
+Ellen Ceisler,4,10,49,1,53,12,20
+Christine Fizzano Cannon,,0,1,35,7,45,20
+Irene M Clark,,,0,1,48,3,20
+Paul Lalley,,,,0,2,34,20
+Dwayne Woodruff,,,,,3,0,20
+Sallie Mundy,,,,,,3,20
+Total,70,52,51,37,59,55,20
+,Justice Of The Supreme Court,,Judge Of The Commonwealth Court,,,,21
+,Sallie Mundy,Dwayne Woodruff,Christine Fizzano Cannon,Paul Lalley,Ellen Ceisler,Irene M Clark,21
+Sallie Mundy,9,0,124,109,15,6,21
+Dwayne Woodruff,,4,4,0,48,41,21
+Christine Fizzano Cannon,,,2,105,12,2,21
+Paul Lalley,,,,0,0,0,21
+Ellen Ceisler,,,,,1,44,21
+Irene M Clark,,,,,,0,21
+Total,145,53,131,110,64,47,21
+,Justice Of The Supreme Court,,Judge Of The Commonwealth Court,,,,22
+,Sallie Mundy,Dwayne Woodruff,Christine Fizzano Cannon,Paul Lalley,Ellen Ceisler,Irene M Clark,22
+Sallie Mundy,7,0,75,59,16,10,22
+Dwayne Woodruff,,0,3,0,31,21,22
+Christine Fizzano Cannon,,,1,56,9,0,22
+Paul Lalley,,,,3,1,1,22
+Ellen Ceisler,,,,,1,29,22
+Irene M Clark,,,,,,1,22
+Total,95,32,79,62,49,33,22
+,Justice Of The Supreme Court,,Judge Of The Commonwealth Court,,,,23
+,Sallie Mundy,Dwayne Woodruff,Christine Fizzano Cannon,Paul Lalley,Ellen Ceisler,Irene M Clark,23
+Sallie Mundy,2,0,81,78,8,3,23
+Dwayne Woodruff,,1,1,0,57,56,23
+Christine Fizzano Cannon,,,1,72,3,0,23
+Paul Lalley,,,,1,2,1,23
+Ellen Ceisler,,,,,2,56,23
+Irene M Clark,,,,,,0,23
+Total,94,59,83,79,67,59,23
+,Justice Of The Supreme Court,,Judge Of The Commonwealth Court,,,,24
+,Sallie Mundy,Dwayne Woodruff,Christine Fizzano Cannon,Ellen Ceisler,Paul Lalley,Irene M Clark,24
+Sallie Mundy,12,0,131,42,100,8,24
+Dwayne Woodruff,,3,6,70,2,73,24
+Christine Fizzano Cannon,,,6,27,89,4,24
+Ellen Ceisler,,,,2,4,67,24
+Paul Lalley,,,,,2,1,24
+Irene M Clark,,,,,,1,24
+Total,171,89,145,119,104,85,24
+,Judge Of The Commonwealth Court,,,,Justice Of The Supreme Court,,25
+,Ellen Ceisler,Christine Fizzano Cannon,Paul Lalley,Irene M Clark,Sallie Mundy,Dwayne Woodruff,25
+Ellen Ceisler,2,12,1,44,15,51,25
+Christine Fizzano Cannon,,1,45,0,53,5,25
+Paul Lalley,,,0,2,49,0,25
+Irene M Clark,,,,0,5,43,25
+Sallie Mundy,,,,,1,0,25
+Dwayne Woodruff,,,,,,2,25
+Total,68,60,50,48,65,56,25
+,Justice Of The Supreme Court,,Judge Of The Commonwealth Court,,,,26
+,Sallie Mundy,Dwayne Woodruff,Christine Fizzano Cannon,Paul Lalley,Ellen Ceisler,Irene M Clark,26
+Sallie Mundy,6,0,80,77,21,11,26
+Dwayne Woodruff,,3,2,2,46,38,26
+Christine Fizzano Cannon,,,0,67,12,1,26
+Paul Lalley,,,,2,5,4,26
+Ellen Ceisler,,,,,0,43,26
+Irene M Clark,,,,,,0,26
+Total,107,51,86,83,69,49,26
+,Justice Of The Supreme Court,,Judge Of The Commonwealth Court,,,,27
+,Dwayne Woodruff,Sallie Mundy,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,27
+Dwayne Woodruff,4,0,43,38,1,0,27
+Sallie Mundy,,1,3,3,39,37,27
+Ellen Ceisler,,,0,39,2,0,27
+Irene M Clark,,,,1,1,1,27
+Christine Fizzano Cannon,,,,,0,36,27
+Paul Lalley,,,,,,0,27
+Total,47,44,46,42,41,38,27
+,Justice Of The Supreme Court,,Judge Of The Commonwealth Court,,,,28
+,Sallie Mundy,Dwayne Woodruff,Christine Fizzano Cannon,Ellen Ceisler,Paul Lalley,Irene M Clark,28
+Sallie Mundy,8,0,48,11,37,6,28
+Dwayne Woodruff,,2,7,35,2,29,28
+Christine Fizzano Cannon,,,1,10,34,1,28
+Ellen Ceisler,,,,0,0,33,28
+Paul Lalley,,,,,2,0,28
+Irene M Clark,,,,,,0,28
+Total,67,42,56,48,41,37,28
+,Justice Of The Supreme Court,,Judge Of The Commonwealth Court,,,,29
+,Sallie Mundy,Dwayne Woodruff,Christine Fizzano Cannon,Paul Lalley,Ellen Ceisler,Irene M Clark,29
+Sallie Mundy,6,0,128,94,23,10,29
+Dwayne Woodruff,,4,6,2,58,48,29
+Christine Fizzano Cannon,,,2,90,18,4,29
+Paul Lalley,,,,0,1,1,29
+Ellen Ceisler,,,,,0,50,29
+Irene M Clark,,,,,,0,29
+Total,149,69,137,97,83,60,29
+,Justice Of The Supreme Court,,Judge Of The Commonwealth Court,,,,30
+,Sallie Mundy,Dwayne Woodruff,Christine Fizzano Cannon,Ellen Ceisler,Paul Lalley,Irene M Clark,30
+Sallie Mundy,5,0,47,9,40,3,30
+Dwayne Woodruff,,0,0,39,0,34,30
+Christine Fizzano Cannon,,,0,5,39,0,30
+Ellen Ceisler,,,,0,1,35,30
+Paul Lalley,,,,,0,0,30
+Irene M Clark,,,,,,1,30
+Total,57,41,48,48,41,38,30
+,Justice Of The Supreme Court,,Judge Of The Commonwealth Court,,,,31
+,Sallie Mundy,Dwayne Woodruff,Christine Fizzano Cannon,Ellen Ceisler,Paul Lalley,Irene M Clark,31
+Sallie Mundy,6,0,45,7,39,6,31
+Dwayne Woodruff,,3,4,33,0,31,31
+Christine Fizzano Cannon,,,0,2,37,2,31
+Ellen Ceisler,,,,1,0,30,31
+Paul Lalley,,,,,0,2,31
+Irene M Clark,,,,,,1,31
+Total,58,43,49,41,39,38,31
+,Judge Of The Commonwealth Court,,,,Justice Of The Supreme Court,,32
+,Ellen Ceisler,Christine Fizzano Cannon,Irene M Clark,Paul Lalley,Sallie Mundy,Dwayne Woodruff,32
+Ellen Ceisler,2,3,23,1,5,27,32
+Christine Fizzano Cannon,,0,1,19,23,3,32
+Irene M Clark,,,0,0,3,21,32
+Paul Lalley,,,,0,23,0,32
+Sallie Mundy,,,,,2,0,32
+Dwayne Woodruff,,,,,,0,32
+Total,34,26,24,23,31,29,32
+,Judge Of The Commonwealth Court,,,,Justice Of The Supreme Court,,33
+,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,Dwayne Woodruff,Sallie Mundy,33
+Ellen Ceisler,0,23,1,0,23,1,33
+Irene M Clark,,0,0,0,23,0,33
+Christine Fizzano Cannon,,,0,17,0,22,33
+Paul Lalley,,,,0,0,19,33
+Dwayne Woodruff,,,,,0,0,33
+Sallie Mundy,,,,,,0,33
+Total,25,24,22,19,24,24,33
+,Judge Of The Commonwealth Court,,,,Justice Of The Supreme Court,,34
+,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,Sallie Mundy,Dwayne Woodruff,34
+Ellen Ceisler,1,49,8,2,13,57,34
+Irene M Clark,,0,0,0,3,52,34
+Christine Fizzano Cannon,,,2,37,51,0,34
+Paul Lalley,,,,0,41,0,34
+Sallie Mundy,,,,,5,0,34
+Dwayne Woodruff,,,,,,0,34
+Total,71,55,53,41,64,62,34
+,Justice Of The Supreme Court,,Judge Of The Commonwealth Court,,,,35
+,Sallie Mundy,Dwayne Woodruff,Christine Fizzano Cannon,Paul Lalley,Ellen Ceisler,Irene M Clark,35
+Sallie Mundy,12,0,106,88,9,6,35
+Dwayne Woodruff,,4,3,1,60,52,35
+Christine Fizzano Cannon,,,0,85,4,3,35
+Paul Lalley,,,,1,1,1,35
+Ellen Ceisler,,,,,3,52,35
+Irene M Clark,,,,,,0,35
+Total,128,70,111,92,73,59,35
+,Justice Of The Supreme Court,,Judge Of The Commonwealth Court,,,,36
+,Dwayne Woodruff,Sallie Mundy,Ellen Ceisler,Christine Fizzano Cannon,Irene M Clark,Paul Lalley,36
+Dwayne Woodruff,0,0,13,0,10,0,36
+Sallie Mundy,,1,1,10,0,8,36
+Ellen Ceisler,,,1,1,7,0,36
+Christine Fizzano Cannon,,,,0,0,8,36
+Irene M Clark,,,,,0,0,36
+Paul Lalley,,,,,,0,36
+Total,16,11,15,10,10,8,36
+,Justice Of The Supreme Court,,Judge Of The Commonwealth Court,,,,37
+,Sallie Mundy,Dwayne Woodruff,Ellen Ceisler,Christine Fizzano Cannon,Irene M Clark,Paul Lalley,37
+Sallie Mundy,3,0,14,55,6,45,37
+Dwayne Woodruff,,1,49,4,49,5,37
+Ellen Ceisler,,,0,8,50,2,37
+Christine Fizzano Cannon,,,,0,2,44,37
+Irene M Clark,,,,,0,4,37
+Paul Lalley,,,,,,1,37
+Total,66,57,64,59,57,52,37
+,Justice Of The Supreme Court,,Judge Of The Commonwealth Court,,,,38
+,Dwayne Woodruff,Sallie Mundy,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,38
+Dwayne Woodruff,3,0,22,20,1,0,38
+Sallie Mundy,,2,2,1,17,13,38
+Ellen Ceisler,,,0,20,2,0,38
+Irene M Clark,,,,0,0,0,38
+Christine Fizzano Cannon,,,,,0,12,38
+Paul Lalley,,,,,,0,38
+Total,26,21,24,21,18,13,38
+,Justice Of The Supreme Court,,Judge Of The Commonwealth Court,,,,39
+,Sallie Mundy,Dwayne Woodruff,Christine Fizzano Cannon,Paul Lalley,Ellen Ceisler,Irene M Clark,39
+Sallie Mundy,6,0,159,135,22,6,39
+Dwayne Woodruff,,3,5,4,41,37,39
+Christine Fizzano Cannon,,,4,134,14,2,39
+Paul Lalley,,,,1,2,1,39
+Ellen Ceisler,,,,,2,40,39
+Irene M Clark,,,,,,0,39
+Total,180,48,170,140,68,44,39
+,Justice Of The Supreme Court,,Judge Of The Commonwealth Court,,,,40
+,Sallie Mundy,Dwayne Woodruff,Ellen Ceisler,Christine Fizzano Cannon,Irene M Clark,Paul Lalley,40
+Sallie Mundy,4,0,9,30,5,19,40
+Dwayne Woodruff,,2,24,2,20,1,40
+Ellen Ceisler,,,0,5,19,0,40
+Christine Fizzano Cannon,,,,0,3,19,40
+Irene M Clark,,,,,1,0,40
+Paul Lalley,,,,,,0,40
+Total,41,29,33,32,26,20,40
+,Justice Of The Supreme Court,,Judge Of The Commonwealth Court,,,,41
+,Sallie Mundy,Dwayne Woodruff,Christine Fizzano Cannon,Paul Lalley,Ellen Ceisler,Irene M Clark,41
+Sallie Mundy,17,0,179,135,44,10,41
+Dwayne Woodruff,,8,7,2,62,55,41
+Christine Fizzano Cannon,,,8,129,30,2,41
+Paul Lalley,,,,1,1,2,41
+Ellen Ceisler,,,,,0,59,41
+Irene M Clark,,,,,,1,41
+Total,222,77,196,139,108,67,41
+,Justice Of The Supreme Court,,Judge Of The Commonwealth Court,,,,42
+,Sallie Mundy,Dwayne Woodruff,Christine Fizzano Cannon,Ellen Ceisler,Paul Lalley,Irene M Clark,42
+Sallie Mundy,0,0,44,13,33,2,42
+Dwayne Woodruff,,2,4,35,0,30,42
+Christine Fizzano Cannon,,,0,13,31,1,42
+Ellen Ceisler,,,,0,0,30,42
+Paul Lalley,,,,,0,0,42
+Irene M Clark,,,,,,0,42
+Total,49,39,48,48,33,32,42
+,Justice Of The Supreme Court,,Judge Of The Commonwealth Court,,,,43
+,Sallie Mundy,Dwayne Woodruff,Christine Fizzano Cannon,Ellen Ceisler,Irene M Clark,Paul Lalley,43
+Sallie Mundy,3,0,50,7,6,41,43
+Dwayne Woodruff,,0,0,35,35,0,43
+Christine Fizzano Cannon,,,1,5,1,37,43
+Ellen Ceisler,,,,0,36,0,43
+Irene M Clark,,,,,0,2,43
+Paul Lalley,,,,,,0,43
+Total,61,37,52,43,42,42,43
+,Judge Of The Commonwealth Court,,,,Justice Of The Supreme Court,,44
+,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,Dwayne Woodruff,Sallie Mundy,44
+Ellen Ceisler,4,76,4,3,82,9,44
+Irene M Clark,,0,0,0,76,2,44
+Christine Fizzano Cannon,,,0,23,2,29,44
+Paul Lalley,,,,0,0,27,44
+Dwayne Woodruff,,,,,8,0,44
+Sallie Mundy,,,,,,6,44
+Total,98,81,32,28,96,43,44

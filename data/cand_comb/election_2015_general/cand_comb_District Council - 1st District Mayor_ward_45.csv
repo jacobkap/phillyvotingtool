@@ -1,58 +1,13 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,division
-,Mayor,,,,,District Council 1st District,1
-,Jim Kenney,Melissa Murray Bailey,James Foster,Osborne Hart,Boris Kindij,Mark F Squilla,1
-Jim Kenney,88,0,0,0,0,0,1
-Melissa Murray Bailey,,73,0,0,0,0,1
-James Foster,,,3,0,0,0,1
-Osborne Hart,,,,1,0,0,1
-Boris Kindij,,,,,0,0,1
-Mark F Squilla,,,,,,0,1
-Total,88,73,3,1,0,0,1
-,Mayor,,,,,District Council 1st District,2
-,Jim Kenney,Melissa Murray Bailey,Osborne Hart,Boris Kindij,James Foster,Mark F Squilla,2
-Jim Kenney,53,0,0,0,0,0,2
-Melissa Murray Bailey,,32,0,0,0,0,2
-Osborne Hart,,,1,0,0,0,2
-Boris Kindij,,,,0,0,0,2
-James Foster,,,,,0,0,2
-Mark F Squilla,,,,,,0,2
-Total,53,32,1,0,0,0,2
-,Mayor,,,,,District Council 1st District,3
-,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Mark F Squilla,3
-Jim Kenney,145,0,0,0,0,0,3
-Melissa Murray Bailey,,119,0,0,0,0,3
-Boris Kindij,,,1,0,0,0,3
-James Foster,,,,0,0,0,3
-Osborne Hart,,,,,0,0,3
-Mark F Squilla,,,,,,0,3
-Total,145,119,1,0,0,0,3
-,Mayor,,,,,District Council 1st District,4
-,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Mark F Squilla,4
-Jim Kenney,149,0,0,0,0,0,4
-Melissa Murray Bailey,,79,0,0,0,0,4
-James Foster,,,1,0,0,0,4
-Boris Kindij,,,,0,0,0,4
-Osborne Hart,,,,,0,0,4
-Mark F Squilla,,,,,,0,4
-Total,149,79,1,0,0,0,4
-,Mayor,,,,,District Council 1st District,5
-,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Mark F Squilla,5
-Jim Kenney,114,0,0,0,0,0,5
-Melissa Murray Bailey,,60,0,0,0,0,5
-Boris Kindij,,,0,0,0,0,5
-James Foster,,,,0,0,0,5
-Osborne Hart,,,,,0,0,5
-Mark F Squilla,,,,,,0,5
-Total,114,60,0,0,0,0,5
-,Mayor,,,,,District Council 1st District,6
-,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Mark F Squilla,6
-Jim Kenney,72,0,0,0,0,0,6
-Melissa Murray Bailey,,28,0,0,0,0,6
-James Foster,,,1,0,0,0,6
-Boris Kindij,,,,0,0,0,6
-Osborne Hart,,,,,0,0,6
-Mark F Squilla,,,,,,0,6
-Total,72,28,1,0,0,0,6
+,Mayor,,,,,District Council 1st District,All
+,Jim Kenney,Melissa Murray Bailey,James Foster,Osborne Hart,Boris Kindij,Mark F Squilla,All
+Jim Kenney,154,0,0,0,0,564,All
+Melissa Murray Bailey,,175,0,0,0,89,All
+James Foster,,,5,0,0,2,All
+Osborne Hart,,,,2,0,2,All
+Boris Kindij,,,,,0,1,All
+Mark F Squilla,,,,,,28,All
+Total,718,264,7,4,1,686,All
 ,District Council 1st District,Mayor,,,,,7
 ,Mark F Squilla,Jim Kenney,Melissa Murray Bailey,Osborne Hart,Boris Kindij,James Foster,7
 Mark F Squilla,1,49,19,1,0,0,7
@@ -98,15 +53,6 @@ Osborne Hart,,,,1,0,0,11
 Boris Kindij,,,,,0,0,11
 Mark F Squilla,,,,,,2,11
 Total,44,4,1,1,0,41,11
-,Mayor,,,,,District Council 1st District,12
-,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Mark F Squilla,12
-Jim Kenney,31,0,0,0,0,0,12
-Melissa Murray Bailey,,15,0,0,0,0,12
-Boris Kindij,,,0,0,0,0,12
-James Foster,,,,0,0,0,12
-Osborne Hart,,,,,0,0,12
-Mark F Squilla,,,,,,0,12
-Total,31,15,0,0,0,0,12
 ,Mayor,,,,,District Council 1st District,13
 ,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Mark F Squilla,13
 Jim Kenney,12,0,0,0,0,36,13
@@ -125,15 +71,6 @@ James Foster,,,,0,0,0,14
 Osborne Hart,,,,,0,0,14
 Mark F Squilla,,,,,,0,14
 Total,17,4,0,0,0,12,14
-,Mayor,,,,,District Council 1st District,15
-,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Mark F Squilla,15
-Jim Kenney,82,0,0,0,0,0,15
-Melissa Murray Bailey,,34,0,0,0,0,15
-Boris Kindij,,,0,0,0,0,15
-James Foster,,,,0,0,0,15
-Osborne Hart,,,,,0,0,15
-Mark F Squilla,,,,,,0,15
-Total,82,34,0,0,0,0,15
 ,Mayor,,,,,District Council 1st District,16
 ,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Mark F Squilla,16
 Jim Kenney,7,0,0,0,0,35,16
@@ -170,15 +107,6 @@ James Foster,,,,0,0,0,19
 Osborne Hart,,,,,0,0,19
 Mark F Squilla,,,,,,1,19
 Total,34,15,0,0,0,31,19
-,Mayor,,,,,District Council 1st District,20
-,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,Mark F Squilla,20
-Jim Kenney,134,0,0,0,0,0,20
-Melissa Murray Bailey,,72,0,0,0,0,20
-Boris Kindij,,,1,0,0,0,20
-James Foster,,,,0,0,0,20
-Osborne Hart,,,,,0,0,20
-Mark F Squilla,,,,,,0,20
-Total,134,72,1,0,0,0,20
 ,District Council 1st District,Mayor,,,,,21
 ,Mark F Squilla,Jim Kenney,Melissa Murray Bailey,Boris Kindij,James Foster,Osborne Hart,21
 Mark F Squilla,3,20,5,0,0,0,21
@@ -197,15 +125,6 @@ Boris Kindij,,,,0,0,0,22
 Osborne Hart,,,,,0,0,22
 Mark F Squilla,,,,,,8,22
 Total,104,44,2,0,0,103,22
-,Mayor,,,,,District Council 1st District,23
-,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Mark F Squilla,23
-Jim Kenney,117,0,0,0,0,0,23
-Melissa Murray Bailey,,49,0,0,0,0,23
-James Foster,,,1,0,0,0,23
-Boris Kindij,,,,0,0,0,23
-Osborne Hart,,,,,0,0,23
-Mark F Squilla,,,,,,0,23
-Total,117,49,1,0,0,0,23
 ,Mayor,,,,,District Council 1st District,24
 ,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Mark F Squilla,24
 Jim Kenney,27,0,0,0,0,109,24
@@ -215,21 +134,3 @@ Boris Kindij,,,,0,0,0,24
 Osborne Hart,,,,,0,0,24
 Mark F Squilla,,,,,,4,24
 Total,136,68,1,0,0,126,24
-,Mayor,,,,,District Council 1st District,25
-,Jim Kenney,Melissa Murray Bailey,James Foster,Boris Kindij,Osborne Hart,Mark F Squilla,25
-Jim Kenney,87,0,0,0,0,0,25
-Melissa Murray Bailey,,42,0,0,0,0,25
-James Foster,,,1,0,0,0,25
-Boris Kindij,,,,0,0,0,25
-Osborne Hart,,,,,0,0,25
-Mark F Squilla,,,,,,0,25
-Total,87,42,1,0,0,0,25
-,Mayor,,,,,District Council 1st District,All
-,Jim Kenney,Melissa Murray Bailey,James Foster,Osborne Hart,Boris Kindij,Mark F Squilla,All
-Jim Kenney,"1,226",0,0,0,0,564,All
-Melissa Murray Bailey,,778,0,0,0,89,All
-James Foster,,,12,0,0,2,All
-Osborne Hart,,,,4,0,2,All
-Boris Kindij,,,,,2,1,All
-Mark F Squilla,,,,,,28,All
-Total,"1,790",867,14,6,3,686,All

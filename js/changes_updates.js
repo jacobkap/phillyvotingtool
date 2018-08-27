@@ -150,4 +150,16 @@ cand_comb_divisions = setDivisionDropdown("cand_comb", "#cand_comb_election", "#
   }).addTo(cand_comb_map);
   highlightWard(cand_comb_wards, "#cand_comb_ward", cand_comb_map);
   updateTable();
+
+  choices_max = getOffices("num_selected", "#cand_comb_election", true);
+  positions = $('#cand_comb_ballot_position').val();
+  number_of_choices_1 = cand_comb_offices[positions[0]] + ", max number of selections: " + choices_max[positions[0]];
+  number_of_choices_2 = cand_comb_offices[positions[positions.length-1]] + ", max number of selections: " + choices_max[positions[positions.length-1]];
+
+  if (number_of_choices_1 == number_of_choices_2) {
+    number_of_choices_2 = "";
+  }
+
+  $("#table_title").text(number_of_choices_1);
+  $("#table_title2").text(number_of_choices_2);
 }

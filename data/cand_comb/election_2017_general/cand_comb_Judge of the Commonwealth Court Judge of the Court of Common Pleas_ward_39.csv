@@ -1,0 +1,753 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10,col_11,col_12,col_13,col_14,division
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Commonwealth Court,,,,All
+,Vincent Furlong,Stella Tsai,Vikki Kristiansson,Lucretia C Clemons,Zac Shaffer,Deborah Cianfrani,Deborah Canty,Mark B Cohen,Shanese Johnson,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,All
+Vincent Furlong,43,"2,783","2,772","2,769","2,755","2,657","2,699","2,597","2,541","2,651","2,337","1,283","1,001",All
+Stella Tsai,,16,"3,033","3,053","2,952","2,752","2,916","2,667","2,714","2,934","2,573",403,152,All
+Vikki Kristiansson,,,14,"3,032","2,950","2,737","2,892","2,651","2,685","2,874","2,526",397,146,All
+Lucretia C Clemons,,,,2,"2,964","2,728","2,909","2,648","2,711","2,881","2,552",381,141,All
+Zac Shaffer,,,,,5,"2,670","2,839","2,648","2,647","2,815","2,472",372,140,All
+Deborah Cianfrani,,,,,,34,"2,690","2,711","2,683","2,644","2,471",385,182,All
+Deborah Canty,,,,,,,4,"2,622","2,638","2,753","2,447",378,141,All
+Mark B Cohen,,,,,,,,13,"2,627","2,531","2,386",300,153,All
+Shanese Johnson,,,,,,,,,1,"2,533","2,412",267,129,All
+Ellen Ceisler,,,,,,,,,,164,"2,621",309,18,All
+Irene M Clark,,,,,,,,,,,21,30,21,All
+Christine Fizzano Cannon,,,,,,,,,,,,87,984,All
+Paul Lalley,,,,,,,,,,,,,6,All
+Total,"3,924","3,262","3,174","3,171","3,096","3,069","3,038","2,852","2,797","3,467","2,846","1,555","1,075",All
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Commonwealth Court,,,,1
+,Vincent Furlong,Deborah Cianfrani,Stella Tsai,Vikki Kristiansson,Deborah Canty,Mark B Cohen,Lucretia C Clemons,Zac Shaffer,Shanese Johnson,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,1
+Vincent Furlong,0,42,40,40,39,39,37,38,38,36,33,26,18,1
+Deborah Cianfrani,,2,40,41,39,40,39,38,38,39,34,11,5,1
+Stella Tsai,,,1,41,40,40,38,39,38,37,34,9,3,1
+Vikki Kristiansson,,,,0,40,39,40,39,39,39,35,7,2,1
+Deborah Canty,,,,,0,39,39,40,38,36,34,8,3,1
+Mark B Cohen,,,,,,0,38,39,38,36,32,8,3,1
+Lucretia C Clemons,,,,,,,0,39,38,37,33,7,2,1
+Zac Shaffer,,,,,,,,0,38,35,32,8,3,1
+Shanese Johnson,,,,,,,,,0,35,31,7,2,1
+Ellen Ceisler,,,,,,,,,,3,35,3,0,1
+Irene M Clark,,,,,,,,,,,0,1,0,1
+Christine Fizzano Cannon,,,,,,,,,,,,0,18,1
+Paul Lalley,,,,,,,,,,,,,0,1
+Total,60,49,45,43,42,42,41,40,39,46,38,27,18,1
+,Judge Of The Commonwealth Court,,,,Judge Of The Court Of Common Pleas,,,,,,,,,2
+,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,Vincent Furlong,Stella Tsai,Vikki Kristiansson,Deborah Canty,Deborah Cianfrani,Lucretia C Clemons,Shanese Johnson,Zac Shaffer,Mark B Cohen,2
+Ellen Ceisler,28,24,3,0,25,30,28,26,26,27,27,26,25,2
+Irene M Clark,,0,0,0,21,24,25,24,25,23,24,22,23,2
+Christine Fizzano Cannon,,,1,5,9,3,3,3,1,3,1,3,1,2
+Paul Lalley,,,,0,5,0,0,0,0,0,0,0,0,2
+Vincent Furlong,,,,,1,25,25,23,23,24,23,24,23,2
+Stella Tsai,,,,,,1,28,26,26,27,26,26,25,2
+Vikki Kristiansson,,,,,,,0,27,27,27,26,26,25,2
+Deborah Canty,,,,,,,,0,25,25,24,25,23,2
+Deborah Cianfrani,,,,,,,,,0,25,26,24,25,2
+Lucretia C Clemons,,,,,,,,,,0,25,25,24,2
+Shanese Johnson,,,,,,,,,,,0,24,25,2
+Zac Shaffer,,,,,,,,,,,,0,24,2
+Mark B Cohen,,,,,,,,,,,,,0,2
+Total,59,25,10,5,32,31,29,27,27,27,27,26,25,2
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Commonwealth Court,,,,3
+,Vincent Furlong,Stella Tsai,Zac Shaffer,Lucretia C Clemons,Vikki Kristiansson,Deborah Canty,Deborah Cianfrani,Mark B Cohen,Shanese Johnson,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,3
+Vincent Furlong,2,67,69,68,67,67,64,65,63,58,55,36,34,3
+Stella Tsai,,0,73,72,73,68,66,65,64,68,60,10,7,3
+Zac Shaffer,,,0,73,73,70,67,66,66,64,61,9,6,3
+Lucretia C Clemons,,,,0,73,73,69,65,66,64,59,10,7,3
+Vikki Kristiansson,,,,,0,70,67,65,64,63,59,10,7,3
+Deborah Canty,,,,,,0,69,66,66,60,58,11,8,3
+Deborah Cianfrani,,,,,,,0,67,65,60,57,9,7,3
+Mark B Cohen,,,,,,,,0,64,57,56,9,7,3
+Shanese Johnson,,,,,,,,,0,56,55,7,5,3
+Ellen Ceisler,,,,,,,,,,4,59,3,0,3
+Irene M Clark,,,,,,,,,,,0,1,0,3
+Christine Fizzano Cannon,,,,,,,,,,,,6,36,3
+Paul Lalley,,,,,,,,,,,,,0,3
+Total,102,80,79,78,76,75,72,70,66,77,64,48,37,3
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Commonwealth Court,,,,4
+,Vincent Furlong,Stella Tsai,Vikki Kristiansson,Mark B Cohen,Lucretia C Clemons,Deborah Canty,Zac Shaffer,Deborah Cianfrani,Shanese Johnson,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,4
+Vincent Furlong,0,29,29,28,30,28,28,26,26,30,25,21,17,4
+Stella Tsai,,0,29,28,30,28,29,25,26,28,26,5,2,4
+Vikki Kristiansson,,,1,28,29,29,29,27,25,29,26,5,1,4
+Mark B Cohen,,,,0,26,28,27,27,26,28,25,5,1,4
+Lucretia C Clemons,,,,,0,28,29,25,26,28,25,4,1,4
+Deborah Canty,,,,,,0,28,27,26,27,25,5,1,4
+Zac Shaffer,,,,,,,0,25,26,28,25,3,1,4
+Deborah Cianfrani,,,,,,,,0,25,24,22,6,1,4
+Shanese Johnson,,,,,,,,,0,24,22,3,1,4
+Ellen Ceisler,,,,,,,,,,0,28,3,0,4
+Irene M Clark,,,,,,,,,,,0,1,0,4
+Christine Fizzano Cannon,,,,,,,,,,,,0,18,4
+Paul Lalley,,,,,,,,,,,,,0,4
+Total,49,33,33,32,31,30,30,28,26,34,29,24,18,4
+,Judge Of The Commonwealth Court,,,,Judge Of The Court Of Common Pleas,,,,,,,,,5
+,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,Stella Tsai,Vincent Furlong,Zac Shaffer,Deborah Cianfrani,Lucretia C Clemons,Shanese Johnson,Deborah Canty,Vikki Kristiansson,Mark B Cohen,5
+Ellen Ceisler,2,57,2,0,59,54,60,57,60,55,56,55,51,5
+Irene M Clark,,0,1,0,56,54,57,56,57,56,54,52,55,5
+Christine Fizzano Cannon,,,2,6,6,10,4,7,5,5,5,5,3,5
+Paul Lalley,,,,0,3,6,2,3,2,2,2,3,2,5
+Stella Tsai,,,,,1,58,61,60,63,58,57,60,55,5
+Vincent Furlong,,,,,,0,58,57,57,53,52,55,55,5
+Zac Shaffer,,,,,,,0,57,60,56,57,58,56,5
+Deborah Cianfrani,,,,,,,,0,60,58,55,56,53,5
+Lucretia C Clemons,,,,,,,,,0,58,57,58,54,5
+Shanese Johnson,,,,,,,,,,0,56,54,54,5
+Deborah Canty,,,,,,,,,,,0,53,52,5
+Vikki Kristiansson,,,,,,,,,,,,0,52,5
+Mark B Cohen,,,,,,,,,,,,,1,5
+Total,66,64,14,6,66,66,65,64,64,61,60,60,59,5
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Commonwealth Court,,,,6
+,Vincent Furlong,Deborah Cianfrani,Zac Shaffer,Stella Tsai,Lucretia C Clemons,Vikki Kristiansson,Deborah Canty,Mark B Cohen,Shanese Johnson,Ellen Ceisler,Christine Fizzano Cannon,Paul Lalley,Irene M Clark,6
+Vincent Furlong,2,42,44,41,43,42,41,40,35,38,49,46,30,6
+Deborah Cianfrani,,3,41,39,39,39,41,42,38,34,13,8,33,6
+Zac Shaffer,,,0,43,47,45,44,44,39,42,11,5,34,6
+Stella Tsai,,,,0,44,42,44,40,39,39,9,6,34,6
+Lucretia C Clemons,,,,,0,45,43,42,39,39,11,6,33,6
+Vikki Kristiansson,,,,,,1,43,42,38,39,9,5,32,6
+Deborah Canty,,,,,,,0,42,39,36,9,6,34,6
+Mark B Cohen,,,,,,,,0,39,37,8,5,34,6
+Shanese Johnson,,,,,,,,,0,32,6,4,32,6
+Ellen Ceisler,,,,,,,,,,15,6,0,35,6
+Christine Fizzano Cannon,,,,,,,,,,,6,41,0,6
+Paul Lalley,,,,,,,,,,,,0,1,6
+Irene M Clark,,,,,,,,,,,,,0,6
+Total,94,54,51,49,48,48,47,46,39,70,62,48,39,6
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Commonwealth Court,,,,7
+,Vincent Furlong,Deborah Cianfrani,Mark B Cohen,Zac Shaffer,Lucretia C Clemons,Vikki Kristiansson,Stella Tsai,Shanese Johnson,Deborah Canty,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,7
+Vincent Furlong,7,83,86,90,89,87,82,80,71,88,70,56,51,7
+Deborah Cianfrani,,1,89,84,85,84,81,81,74,84,74,14,10,7
+Mark B Cohen,,,4,82,83,81,81,81,73,77,69,13,10,7
+Zac Shaffer,,,,0,93,92,82,81,72,85,70,11,8,7
+Lucretia C Clemons,,,,,0,91,84,82,73,84,70,11,8,7
+Vikki Kristiansson,,,,,,1,81,80,72,83,69,11,7,7
+Stella Tsai,,,,,,,0,79,71,80,69,10,7,7
+Shanese Johnson,,,,,,,,0,70,73,66,10,8,7
+Deborah Canty,,,,,,,,,0,69,62,11,7,7
+Ellen Ceisler,,,,,,,,,,22,82,10,2,7
+Irene M Clark,,,,,,,,,,,2,0,0,7
+Christine Fizzano Cannon,,,,,,,,,,,,7,48,7
+Paul Lalley,,,,,,,,,,,,,0,7
+Total,155,102,99,97,95,95,91,83,78,138,87,70,53,7
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Commonwealth Court,,,,8
+,Vincent Furlong,Stella Tsai,Deborah Cianfrani,Deborah Canty,Lucretia C Clemons,Vikki Kristiansson,Zac Shaffer,Mark B Cohen,Shanese Johnson,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,8
+Vincent Furlong,5,61,56,57,59,56,59,53,56,59,43,47,33,8
+Stella Tsai,,2,52,60,61,59,57,52,57,57,44,15,3,8
+Deborah Cianfrani,,,1,53,52,53,51,58,52,53,42,11,4,8
+Deborah Canty,,,,0,59,60,56,55,54,56,44,13,3,8
+Lucretia C Clemons,,,,,0,60,57,53,56,58,44,13,3,8
+Vikki Kristiansson,,,,,,0,56,53,55,58,41,13,3,8
+Zac Shaffer,,,,,,,1,50,54,54,42,11,3,8
+Mark B Cohen,,,,,,,,1,52,51,41,10,3,8
+Shanese Johnson,,,,,,,,,0,52,42,12,3,8
+Ellen Ceisler,,,,,,,,,,3,46,13,1,8
+Irene M Clark,,,,,,,,,,,0,0,0,8
+Christine Fizzano Cannon,,,,,,,,,,,,1,33,8
+Paul Lalley,,,,,,,,,,,,,0,8
+Total,108,71,66,65,65,64,63,61,61,76,54,52,34,8
+,Judge Of The Commonwealth Court,,,,Judge Of The Court Of Common Pleas,,,,,,,,,9
+,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,Zac Shaffer,Stella Tsai,Vikki Kristiansson,Vincent Furlong,Mark B Cohen,Shanese Johnson,Deborah Cianfrani,Lucretia C Clemons,Deborah Canty,9
+Ellen Ceisler,3,51,1,0,57,55,52,51,52,52,52,52,50,9
+Irene M Clark,,1,1,0,51,50,50,50,51,51,50,49,47,9
+Christine Fizzano Cannon,,,0,4,3,3,4,6,4,2,2,2,2,9
+Paul Lalley,,,,0,2,2,2,4,2,2,2,2,2,9
+Zac Shaffer,,,,,1,57,54,53,54,54,53,54,52,9
+Stella Tsai,,,,,,0,54,52,53,53,53,54,52,9
+Vikki Kristiansson,,,,,,,1,52,52,50,51,51,51,9
+Vincent Furlong,,,,,,,,0,52,50,50,50,49,9
+Mark B Cohen,,,,,,,,,0,53,52,52,48,9
+Shanese Johnson,,,,,,,,,,0,52,53,49,9
+Deborah Cianfrani,,,,,,,,,,,0,52,49,9
+Lucretia C Clemons,,,,,,,,,,,,0,50,9
+Deborah Canty,,,,,,,,,,,,,0,9
+Total,61,54,6,4,60,57,56,56,55,55,54,54,52,9
+,Judge Of The Commonwealth Court,,,,Judge Of The Court Of Common Pleas,,,,,,,,,10
+,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,Stella Tsai,Deborah Canty,Lucretia C Clemons,Vincent Furlong,Vikki Kristiansson,Deborah Cianfrani,Shanese Johnson,Zac Shaffer,Mark B Cohen,10
+Ellen Ceisler,0,69,3,1,74,75,73,64,74,72,68,70,65,10
+Irene M Clark,,0,0,1,73,69,72,64,69,67,71,66,65,10
+Christine Fizzano Cannon,,,0,7,3,3,3,10,3,3,1,3,1,10
+Paul Lalley,,,,0,1,1,2,9,1,1,2,1,1,10
+Stella Tsai,,,,,0,75,78,69,75,70,70,72,67,10
+Deborah Canty,,,,,,2,75,67,74,70,68,71,66,10
+Lucretia C Clemons,,,,,,,0,69,76,71,71,71,66,10
+Vincent Furlong,,,,,,,,1,66,64,64,67,64,10
+Vikki Kristiansson,,,,,,,,,0,73,69,71,64,10
+Deborah Cianfrani,,,,,,,,,,0,70,67,65,10
+Shanese Johnson,,,,,,,,,,,0,65,66,10
+Zac Shaffer,,,,,,,,,,,,0,66,10
+Mark B Cohen,,,,,,,,,,,,,0,10
+Total,81,80,11,10,81,80,80,80,78,76,76,74,70,10
+,Judge Of The Commonwealth Court,,,,Judge Of The Court Of Common Pleas,,,,,,,,,11
+,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,Vincent Furlong,Lucretia C Clemons,Stella Tsai,Vikki Kristiansson,Mark B Cohen,Shanese Johnson,Deborah Canty,Deborah Cianfrani,Zac Shaffer,11
+Ellen Ceisler,16,11,5,1,16,17,18,17,16,17,15,15,15,11
+Irene M Clark,,0,0,1,11,12,11,11,12,11,11,11,11,11
+Christine Fizzano Cannon,,,0,1,6,4,4,4,3,4,2,3,2,11
+Paul Lalley,,,,0,4,2,1,0,2,0,1,0,1,11
+Vincent Furlong,,,,,0,17,16,15,15,15,14,13,14,11
+Lucretia C Clemons,,,,,,0,17,16,16,16,15,14,15,11
+Stella Tsai,,,,,,,0,17,15,17,15,14,15,11
+Vikki Kristiansson,,,,,,,,1,14,17,14,14,14,11
+Mark B Cohen,,,,,,,,,0,14,15,15,15,11
+Shanese Johnson,,,,,,,,,,0,14,14,14,11
+Deborah Canty,,,,,,,,,,,0,14,15,11
+Deborah Cianfrani,,,,,,,,,,,,0,14,11
+Zac Shaffer,,,,,,,,,,,,,0,11
+Total,35,12,7,4,20,18,18,18,17,17,15,15,15,11
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Commonwealth Court,,,,12
+,Vincent Furlong,Deborah Cianfrani,Stella Tsai,Mark B Cohen,Vikki Kristiansson,Zac Shaffer,Deborah Canty,Lucretia C Clemons,Shanese Johnson,Ellen Ceisler,Christine Fizzano Cannon,Irene M Clark,Paul Lalley,12
+Vincent Furlong,0,19,18,17,19,19,17,18,18,18,20,15,17,12
+Deborah Cianfrani,,0,23,24,23,24,22,22,22,23,4,19,3,12
+Stella Tsai,,,0,22,22,22,22,22,21,22,4,20,1,12
+Mark B Cohen,,,,0,21,22,22,21,21,21,3,19,2,12
+Vikki Kristiansson,,,,,0,23,22,22,22,22,3,18,2,12
+Zac Shaffer,,,,,,0,21,22,22,22,3,18,2,12
+Deborah Canty,,,,,,,0,21,21,21,2,19,1,12
+Lucretia C Clemons,,,,,,,,0,21,20,3,18,1,12
+Shanese Johnson,,,,,,,,,0,20,2,18,2,12
+Ellen Ceisler,,,,,,,,,,0,3,19,1,12
+Christine Fizzano Cannon,,,,,,,,,,,2,0,17,12
+Irene M Clark,,,,,,,,,,,,0,0,12
+Paul Lalley,,,,,,,,,,,,,0,12
+Total,36,26,25,24,24,24,23,22,22,25,24,20,18,12
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Commonwealth Court,,,,13
+,Deborah Cianfrani,Lucretia C Clemons,Deborah Canty,Vikki Kristiansson,Vincent Furlong,Stella Tsai,Mark B Cohen,Zac Shaffer,Shanese Johnson,Irene M Clark,Ellen Ceisler,Christine Fizzano Cannon,Paul Lalley,13
+Deborah Cianfrani,1,57,58,56,51,57,54,53,52,57,50,2,2,13
+Lucretia C Clemons,,0,56,57,53,56,54,55,52,55,49,2,2,13
+Deborah Canty,,,0,55,51,56,54,53,52,55,48,2,2,13
+Vikki Kristiansson,,,,0,53,55,53,54,52,54,47,2,2,13
+Vincent Furlong,,,,,0,50,52,53,51,49,44,7,5,13
+Stella Tsai,,,,,,0,53,52,51,54,49,2,2,13
+Mark B Cohen,,,,,,,0,53,52,51,46,3,3,13
+Zac Shaffer,,,,,,,,0,52,51,46,2,2,13
+Shanese Johnson,,,,,,,,,1,49,46,2,2,13
+Irene M Clark,,,,,,,,,,1,48,0,0,13
+Ellen Ceisler,,,,,,,,,,,1,0,0,13
+Christine Fizzano Cannon,,,,,,,,,,,,0,5,13
+Paul Lalley,,,,,,,,,,,,,0,13
+Total,62,59,58,58,58,57,55,55,54,59,52,7,5,13
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Commonwealth Court,,,,14
+,Vincent Furlong,Deborah Cianfrani,Stella Tsai,Vikki Kristiansson,Zac Shaffer,Mark B Cohen,Shanese Johnson,Lucretia C Clemons,Deborah Canty,Christine Fizzano Cannon,Paul Lalley,Ellen Ceisler,Irene M Clark,14
+Vincent Furlong,1,25,24,23,24,22,23,21,23,46,44,22,17,14
+Deborah Cianfrani,,0,26,27,26,28,27,24,23,10,4,25,21,14
+Stella Tsai,,,2,27,27,22,24,26,23,8,4,24,21,14
+Vikki Kristiansson,,,,0,28,24,26,26,23,7,4,24,19,14
+Zac Shaffer,,,,,0,23,26,26,24,7,4,24,19,14
+Mark B Cohen,,,,,,0,24,21,22,9,4,20,18,14
+Shanese Johnson,,,,,,,0,23,22,7,3,23,19,14
+Lucretia C Clemons,,,,,,,,0,21,7,4,21,18,14
+Deborah Canty,,,,,,,,,0,6,3,22,18,14
+Christine Fizzano Cannon,,,,,,,,,,3,47,3,2,14
+Paul Lalley,,,,,,,,,,,2,1,0,14
+Ellen Ceisler,,,,,,,,,,,,1,21,14
+Irene M Clark,,,,,,,,,,,,,0,14
+Total,68,35,32,29,29,28,28,27,25,57,51,30,24,14
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Commonwealth Court,,,,15
+,Vincent Furlong,Deborah Cianfrani,Mark B Cohen,Zac Shaffer,Vikki Kristiansson,Deborah Canty,Lucretia C Clemons,Stella Tsai,Shanese Johnson,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,15
+Vincent Furlong,1,66,67,68,66,63,63,60,58,70,55,41,25,15
+Deborah Cianfrani,,1,70,70,66,64,62,60,60,67,55,19,4,15
+Mark B Cohen,,,0,67,66,65,62,62,60,64,55,15,4,15
+Zac Shaffer,,,,0,67,65,65,62,62,65,55,15,4,15
+Vikki Kristiansson,,,,,2,66,66,64,61,64,53,13,4,15
+Deborah Canty,,,,,,0,65,64,61,62,55,11,4,15
+Lucretia C Clemons,,,,,,,0,64,62,62,55,9,4,15
+Stella Tsai,,,,,,,,2,61,60,53,10,4,15
+Shanese Johnson,,,,,,,,,0,55,52,8,4,15
+Ellen Ceisler,,,,,,,,,,9,58,17,1,15
+Irene M Clark,,,,,,,,,,,2,1,2,15
+Christine Fizzano Cannon,,,,,,,,,,,,7,24,15
+Paul Lalley,,,,,,,,,,,,,0,15
+Total,109,79,76,75,74,70,70,70,62,98,69,57,27,15
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Commonwealth Court,,,,16
+,Vincent Furlong,Mark B Cohen,Stella Tsai,Deborah Cianfrani,Deborah Canty,Lucretia C Clemons,Zac Shaffer,Shanese Johnson,Vikki Kristiansson,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,16
+Vincent Furlong,0,16,15,15,14,14,13,13,13,13,12,10,7,16
+Mark B Cohen,,0,13,13,14,14,13,13,13,13,13,1,0,16
+Stella Tsai,,,0,11,13,13,12,13,13,14,11,2,1,16
+Deborah Cianfrani,,,,1,12,11,10,11,11,11,11,3,1,16
+Deborah Canty,,,,,0,13,12,13,13,12,12,1,0,16
+Lucretia C Clemons,,,,,,0,13,13,13,13,11,1,0,16
+Zac Shaffer,,,,,,,0,12,12,13,10,1,0,16
+Shanese Johnson,,,,,,,,0,13,12,11,1,0,16
+Vikki Kristiansson,,,,,,,,,0,12,11,1,0,16
+Ellen Ceisler,,,,,,,,,,1,13,1,0,16
+Irene M Clark,,,,,,,,,,,0,0,0,16
+Christine Fizzano Cannon,,,,,,,,,,,,1,7,16
+Paul Lalley,,,,,,,,,,,,,0,16
+Total,26,17,17,16,14,14,14,13,13,19,15,11,7,16
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Commonwealth Court,,,,17
+,Vincent Furlong,Deborah Cianfrani,Stella Tsai,Mark B Cohen,Lucretia C Clemons,Zac Shaffer,Deborah Canty,Shanese Johnson,Vikki Kristiansson,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,17
+Vincent Furlong,0,25,26,26,25,25,25,23,23,21,21,17,16,17
+Deborah Cianfrani,,1,25,27,24,24,25,24,23,21,20,8,5,17
+Stella Tsai,,,0,26,27,27,26,24,25,24,22,6,4,17
+Mark B Cohen,,,,0,25,25,25,24,23,22,21,7,5,17
+Lucretia C Clemons,,,,,0,27,25,24,25,23,22,5,3,17
+Zac Shaffer,,,,,,0,25,24,25,23,22,5,3,17
+Deborah Canty,,,,,,,0,24,24,21,20,6,4,17
+Shanese Johnson,,,,,,,,0,23,20,20,6,3,17
+Vikki Kristiansson,,,,,,,,,0,22,21,4,2,17
+Ellen Ceisler,,,,,,,,,,5,21,1,0,17
+Irene M Clark,,,,,,,,,,,1,1,0,17
+Christine Fizzano Cannon,,,,,,,,,,,,2,15,17
+Paul Lalley,,,,,,,,,,,,,0,17
+Total,39,29,29,28,27,27,26,25,25,30,24,21,16,17
+,Judge Of The Commonwealth Court,,,,Judge Of The Court Of Common Pleas,,,,,,,,,18
+,Ellen Ceisler,Irene M Clark,Paul Lalley,Christine Fizzano Cannon,Stella Tsai,Zac Shaffer,Deborah Cianfrani,Lucretia C Clemons,Vikki Kristiansson,Mark B Cohen,Shanese Johnson,Deborah Canty,Vincent Furlong,18
+Ellen Ceisler,1,43,0,0,43,42,40,41,43,40,40,40,32,18
+Irene M Clark,,0,1,0,43,42,40,43,42,40,40,40,33,18
+Paul Lalley,,,0,5,0,2,0,1,0,1,1,0,7,18
+Christine Fizzano Cannon,,,,0,0,0,1,0,0,0,0,0,5,18
+Stella Tsai,,,,,0,42,41,41,42,41,40,41,32,18
+Zac Shaffer,,,,,,0,38,40,41,41,41,38,32,18
+Deborah Cianfrani,,,,,,,1,38,39,39,38,40,32,18
+Lucretia C Clemons,,,,,,,,0,41,38,38,38,32,18
+Vikki Kristiansson,,,,,,,,,0,39,39,39,32,18
+Mark B Cohen,,,,,,,,,,0,39,39,32,18
+Shanese Johnson,,,,,,,,,,,0,38,31,18
+Deborah Canty,,,,,,,,,,,,0,32,18
+Vincent Furlong,,,,,,,,,,,,,0,18
+Total,45,45,7,6,45,45,43,43,43,42,42,41,39,18
+,Judge Of The Commonwealth Court,,,,Judge Of The Court Of Common Pleas,,,,,,,,,19
+,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,Stella Tsai,Vincent Furlong,Vikki Kristiansson,Deborah Canty,Zac Shaffer,Lucretia C Clemons,Deborah Cianfrani,Shanese Johnson,Mark B Cohen,19
+Ellen Ceisler,0,31,8,0,40,34,38,38,37,36,31,31,30,19
+Irene M Clark,,0,0,0,32,27,30,30,29,30,30,29,30,19
+Christine Fizzano Cannon,,,0,6,7,13,7,7,7,6,2,2,2,19
+Paul Lalley,,,,0,0,6,0,0,0,0,0,0,0,19
+Stella Tsai,,,,,0,35,39,39,38,37,33,32,31,19
+Vincent Furlong,,,,,,0,34,34,34,32,28,28,28,19
+Vikki Kristiansson,,,,,,,1,38,38,37,31,31,30,19
+Deborah Canty,,,,,,,,0,38,36,32,31,30,19
+Zac Shaffer,,,,,,,,,0,36,31,31,30,19
+Lucretia C Clemons,,,,,,,,,,0,31,31,30,19
+Deborah Cianfrani,,,,,,,,,,,0,32,31,19
+Shanese Johnson,,,,,,,,,,,,0,31,19
+Mark B Cohen,,,,,,,,,,,,,0,19
+Total,42,33,14,6,42,41,40,39,38,37,33,33,32,19
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Commonwealth Court,,,,20
+,Vincent Furlong,Stella Tsai,Deborah Cianfrani,Lucretia C Clemons,Shanese Johnson,Zac Shaffer,Deborah Canty,Vikki Kristiansson,Mark B Cohen,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,20
+Vincent Furlong,2,68,65,65,65,66,63,62,62,57,54,49,41,20
+Stella Tsai,,2,72,74,71,73,68,69,65,65,63,13,6,20
+Deborah Cianfrani,,,0,71,71,72,69,68,68,65,60,16,6,20
+Lucretia C Clemons,,,,0,71,72,69,70,65,62,61,13,6,20
+Shanese Johnson,,,,,0,70,66,67,64,60,58,12,7,20
+Zac Shaffer,,,,,,0,69,67,65,62,59,11,5,20
+Deborah Canty,,,,,,,0,66,63,59,55,11,5,20
+Vikki Kristiansson,,,,,,,,0,62,58,55,14,6,20
+Mark B Cohen,,,,,,,,,2,55,56,10,6,20
+Ellen Ceisler,,,,,,,,,,2,63,11,0,20
+Irene M Clark,,,,,,,,,,,3,3,1,20
+Christine Fizzano Cannon,,,,,,,,,,,,5,45,20
+Paul Lalley,,,,,,,,,,,,,1,20
+Total,110,83,82,77,75,74,72,72,70,84,72,70,48,20
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Commonwealth Court,,,,21
+,Vincent Furlong,Stella Tsai,Deborah Cianfrani,Lucretia C Clemons,Zac Shaffer,Vikki Kristiansson,Deborah Canty,Mark B Cohen,Shanese Johnson,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,21
+Vincent Furlong,4,97,98,98,99,97,94,94,94,94,90,31,30,21
+Stella Tsai,,0,100,98,97,96,98,96,96,97,93,5,3,21
+Deborah Cianfrani,,,1,97,97,95,97,96,96,94,92,6,3,21
+Lucretia C Clemons,,,,0,99,98,98,94,95,95,91,4,3,21
+Zac Shaffer,,,,,1,97,96,96,95,94,90,3,2,21
+Vikki Kristiansson,,,,,,0,94,92,93,93,90,4,3,21
+Deborah Canty,,,,,,,0,95,96,93,93,3,2,21
+Mark B Cohen,,,,,,,,1,94,91,90,3,2,21
+Shanese Johnson,,,,,,,,,0,90,90,3,2,21
+Ellen Ceisler,,,,,,,,,,7,96,2,0,21
+Irene M Clark,,,,,,,,,,,0,0,2,21
+Christine Fizzano Cannon,,,,,,,,,,,,3,28,21
+Paul Lalley,,,,,,,,,,,,,1,21
+Total,135,104,103,103,102,101,100,98,96,112,102,36,33,21
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Commonwealth Court,,,,22
+,Vincent Furlong,Vikki Kristiansson,Lucretia C Clemons,Zac Shaffer,Deborah Cianfrani,Mark B Cohen,Deborah Canty,Shanese Johnson,Stella Tsai,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,22
+Vincent Furlong,0,53,53,52,46,46,49,46,43,50,41,21,16,22
+Vikki Kristiansson,,1,60,57,49,49,50,49,48,55,44,7,4,22
+Lucretia C Clemons,,,0,58,49,50,50,48,48,55,45,7,2,22
+Zac Shaffer,,,,1,47,48,50,47,48,53,42,7,3,22
+Deborah Cianfrani,,,,,0,49,47,47,43,47,43,9,3,22
+Mark B Cohen,,,,,,0,46,47,44,48,43,5,2,22
+Deborah Canty,,,,,,,0,47,45,46,41,6,3,22
+Shanese Johnson,,,,,,,,0,44,43,42,3,2,22
+Stella Tsai,,,,,,,,,0,45,38,3,2,22
+Ellen Ceisler,,,,,,,,,,0,44,9,0,22
+Irene M Clark,,,,,,,,,,,0,0,0,22
+Christine Fizzano Cannon,,,,,,,,,,,,0,17,22
+Paul Lalley,,,,,,,,,,,,,0,22
+Total,69,65,62,60,55,54,51,49,49,64,47,27,19,22
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Commonwealth Court,,,,23
+,Vincent Furlong,Lucretia C Clemons,Stella Tsai,Deborah Cianfrani,Shanese Johnson,Vikki Kristiansson,Zac Shaffer,Deborah Canty,Mark B Cohen,Irene M Clark,Ellen Ceisler,Paul Lalley,Christine Fizzano Cannon,23
+Vincent Furlong,0,34,34,35,34,34,34,34,34,31,29,11,8,23
+Lucretia C Clemons,,0,39,36,37,38,38,37,36,35,34,5,2,23
+Stella Tsai,,,0,36,37,38,38,37,36,35,34,5,2,23
+Deborah Cianfrani,,,,1,36,36,36,35,36,33,31,6,3,23
+Shanese Johnson,,,,,0,37,37,35,36,35,32,5,2,23
+Vikki Kristiansson,,,,,,0,38,36,36,35,33,5,2,23
+Zac Shaffer,,,,,,,0,36,36,35,33,5,2,23
+Deborah Canty,,,,,,,,0,35,33,32,5,2,23
+Mark B Cohen,,,,,,,,,0,33,31,5,2,23
+Irene M Clark,,,,,,,,,,0,32,4,0,23
+Ellen Ceisler,,,,,,,,,,,1,0,1,23
+Paul Lalley,,,,,,,,,,,,0,7,23
+Christine Fizzano Cannon,,,,,,,,,,,,,0,23
+Total,40,39,39,38,38,38,38,37,36,37,36,11,8,23
+,Judge Of The Commonwealth Court,,,,Judge Of The Court Of Common Pleas,,,,,,,,,24
+,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,Vincent Furlong,Deborah Canty,Stella Tsai,Deborah Cianfrani,Lucretia C Clemons,Vikki Kristiansson,Mark B Cohen,Zac Shaffer,Shanese Johnson,24
+Ellen Ceisler,8,91,2,0,91,93,95,90,92,91,87,92,88,24
+Irene M Clark,,0,1,0,88,94,91,87,92,88,85,87,88,24
+Christine Fizzano Cannon,,,1,13,17,2,2,5,1,2,4,2,1,24
+Paul Lalley,,,,0,14,0,0,2,0,0,1,0,0,24
+Vincent Furlong,,,,,3,91,90,91,86,88,90,90,86,24
+Deborah Canty,,,,,,1,94,91,93,93,90,91,89,24
+Stella Tsai,,,,,,,0,92,94,94,88,91,89,24
+Deborah Cianfrani,,,,,,,,2,90,91,90,90,87,24
+Lucretia C Clemons,,,,,,,,,0,91,86,89,89,24
+Vikki Kristiansson,,,,,,,,,,0,88,89,88,24
+Mark B Cohen,,,,,,,,,,,0,89,86,24
+Zac Shaffer,,,,,,,,,,,,0,88,24
+Shanese Johnson,,,,,,,,,,,,,0,24
+Total,113,99,19,14,113,101,99,98,98,95,94,94,93,24
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Commonwealth Court,,,,25
+,Vincent Furlong,Deborah Cianfrani,Deborah Canty,Vikki Kristiansson,Lucretia C Clemons,Stella Tsai,Zac Shaffer,Mark B Cohen,Shanese Johnson,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,25
+Vincent Furlong,0,72,68,68,68,70,68,68,62,63,56,45,37,25
+Deborah Cianfrani,,1,71,68,68,67,68,71,66,64,63,14,8,25
+Deborah Canty,,,0,71,70,68,67,68,66,62,59,11,6,25
+Vikki Kristiansson,,,,1,72,70,69,67,66,64,58,11,4,25
+Lucretia C Clemons,,,,,1,70,69,66,65,64,58,9,4,25
+Stella Tsai,,,,,,0,68,66,65,64,57,10,5,25
+Zac Shaffer,,,,,,,0,66,62,66,57,10,4,25
+Mark B Cohen,,,,,,,,0,65,61,58,10,7,25
+Shanese Johnson,,,,,,,,,0,58,56,8,4,25
+Ellen Ceisler,,,,,,,,,,1,61,4,0,25
+Irene M Clark,,,,,,,,,,,1,0,0,25
+Christine Fizzano Cannon,,,,,,,,,,,,3,36,25
+Paul Lalley,,,,,,,,,,,,,0,25
+Total,110,83,75,75,74,74,74,73,67,73,66,52,39,25
+,Judge Of The Commonwealth Court,,,,Judge Of The Court Of Common Pleas,,,,,,,,,26
+,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,Vikki Kristiansson,Stella Tsai,Vincent Furlong,Lucretia C Clemons,Zac Shaffer,Deborah Canty,Deborah Cianfrani,Shanese Johnson,Mark B Cohen,26
+Ellen Ceisler,4,116,17,0,134,129,113,129,121,118,113,109,101,26
+Irene M Clark,,0,3,1,118,115,100,115,110,99,109,108,99,26
+Christine Fizzano Cannon,,,3,20,17,18,33,15,15,18,11,10,12,26
+Paul Lalley,,,,0,3,5,20,3,4,2,4,3,4,26
+Vikki Kristiansson,,,,,0,136,120,135,127,117,118,115,108,26
+Stella Tsai,,,,,,0,119,131,126,117,117,113,107,26
+Vincent Furlong,,,,,,,0,116,113,102,103,102,100,26
+Lucretia C Clemons,,,,,,,,0,125,114,115,113,106,26
+Zac Shaffer,,,,,,,,,0,111,110,108,107,26
+Deborah Canty,,,,,,,,,,0,101,97,94,26
+Deborah Cianfrani,,,,,,,,,,,0,114,107,26
+Shanese Johnson,,,,,,,,,,,,0,106,26
+Mark B Cohen,,,,,,,,,,,,,0,26
+Total,148,123,43,21,141,138,137,135,130,123,121,117,109,26
+,Judge Of The Commonwealth Court,,,,Judge Of The Court Of Common Pleas,,,,,,,,,27
+,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,Stella Tsai,Vincent Furlong,Lucretia C Clemons,Vikki Kristiansson,Deborah Canty,Zac Shaffer,Deborah Cianfrani,Mark B Cohen,Shanese Johnson,27
+Ellen Ceisler,1,91,15,0,104,88,103,103,101,102,87,85,82,27
+Irene M Clark,,0,0,1,86,77,85,86,81,84,78,79,75,27
+Christine Fizzano Cannon,,,1,19,16,28,16,15,17,16,8,7,8,27
+Paul Lalley,,,,0,3,20,2,2,3,2,3,2,2,27
+Stella Tsai,,,,,1,90,106,106,102,104,87,86,84,27
+Vincent Furlong,,,,,,0,90,91,90,91,81,81,77,27
+Lucretia C Clemons,,,,,,,0,106,104,104,87,87,85,27
+Vikki Kristiansson,,,,,,,,0,102,105,87,87,85,27
+Deborah Canty,,,,,,,,,0,100,88,85,84,27
+Zac Shaffer,,,,,,,,,,0,85,85,84,27
+Deborah Cianfrani,,,,,,,,,,,2,87,83,27
+Mark B Cohen,,,,,,,,,,,,0,83,27
+Shanese Johnson,,,,,,,,,,,,,0,27
+Total,117,96,36,21,111,110,109,109,107,107,95,89,85,27
+,Judge Of The Commonwealth Court,,,,Judge Of The Court Of Common Pleas,,,,,,,,,28
+,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,Stella Tsai,Lucretia C Clemons,Zac Shaffer,Deborah Canty,Shanese Johnson,Vikki Kristiansson,Deborah Cianfrani,Vincent Furlong,Mark B Cohen,28
+Ellen Ceisler,1,108,4,0,114,112,111,109,108,108,108,104,104,28
+Irene M Clark,,0,0,2,107,107,104,106,107,104,104,101,102,28
+Christine Fizzano Cannon,,,0,2,4,3,3,3,2,3,2,6,2,28
+Paul Lalley,,,,0,1,1,1,1,1,1,0,3,1,28
+Stella Tsai,,,,,0,113,111,110,109,109,108,105,105,28
+Lucretia C Clemons,,,,,,0,111,110,109,109,108,105,105,28
+Zac Shaffer,,,,,,,0,108,107,107,106,105,105,28
+Deborah Canty,,,,,,,,0,108,107,107,104,105,28
+Shanese Johnson,,,,,,,,,0,107,107,104,105,28
+Vikki Kristiansson,,,,,,,,,,1,106,104,104,28
+Deborah Cianfrani,,,,,,,,,,,0,102,104,28
+Vincent Furlong,,,,,,,,,,,,0,103,28
+Mark B Cohen,,,,,,,,,,,,,0,28
+Total,119,114,7,4,116,114,112,111,110,110,108,108,105,28
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Commonwealth Court,,,,29
+,Vincent Furlong,Deborah Cianfrani,Stella Tsai,Mark B Cohen,Vikki Kristiansson,Lucretia C Clemons,Shanese Johnson,Zac Shaffer,Deborah Canty,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,29
+Vincent Furlong,0,37,34,34,33,31,31,31,29,34,29,22,21,29
+Deborah Cianfrani,,4,37,34,34,34,33,32,31,37,32,8,5,29
+Stella Tsai,,,0,32,34,34,34,31,31,33,28,6,4,29
+Mark B Cohen,,,,0,33,31,32,32,29,31,27,5,4,29
+Vikki Kristiansson,,,,,0,32,33,31,31,33,28,3,3,29
+Lucretia C Clemons,,,,,,0,33,31,29,31,28,4,2,29
+Shanese Johnson,,,,,,,0,31,30,31,27,4,2,29
+Zac Shaffer,,,,,,,,0,28,30,27,3,2,29
+Deborah Canty,,,,,,,,,0,30,25,2,2,29
+Ellen Ceisler,,,,,,,,,,1,34,2,2,29
+Irene M Clark,,,,,,,,,,,1,0,0,29
+Christine Fizzano Cannon,,,,,,,,,,,,0,20,29
+Paul Lalley,,,,,,,,,,,,,0,29
+Total,56,49,39,36,36,34,34,33,32,45,36,26,23,29
+,Judge Of The Commonwealth Court,,,,Judge Of The Court Of Common Pleas,,,,,,,,,30
+,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,Stella Tsai,Lucretia C Clemons,Deborah Canty,Zac Shaffer,Vikki Kristiansson,Vincent Furlong,Deborah Cianfrani,Shanese Johnson,Mark B Cohen,30
+Ellen Ceisler,2,126,14,0,148,146,140,142,141,121,119,119,111,30
+Irene M Clark,,1,1,0,130,127,123,122,121,103,115,116,105,30
+Christine Fizzano Cannon,,,2,16,18,19,18,19,19,31,10,9,12,30
+Paul Lalley,,,,0,3,4,4,4,4,17,5,4,5,30
+Stella Tsai,,,,,0,156,150,150,150,127,125,125,116,30
+Lucretia C Clemons,,,,,,0,150,150,151,128,125,125,117,30
+Deborah Canty,,,,,,,0,145,145,127,124,123,116,30
+Zac Shaffer,,,,,,,,0,146,127,120,121,117,30
+Vikki Kristiansson,,,,,,,,,0,127,121,120,115,30
+Vincent Furlong,,,,,,,,,,0,108,108,111,30
+Deborah Cianfrani,,,,,,,,,,,0,122,113,30
+Shanese Johnson,,,,,,,,,,,,0,115,30
+Mark B Cohen,,,,,,,,,,,,,0,30
+Total,159,136,34,17,159,157,152,152,151,143,131,129,120,30
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Commonwealth Court,,,,31
+,Vincent Furlong,Stella Tsai,Vikki Kristiansson,Lucretia C Clemons,Deborah Cianfrani,Zac Shaffer,Deborah Canty,Shanese Johnson,Mark B Cohen,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,31
+Vincent Furlong,0,48,48,46,49,47,47,44,42,40,38,35,29,31
+Stella Tsai,,1,56,55,49,52,51,47,43,47,44,10,6,31
+Vikki Kristiansson,,,0,53,49,52,49,47,43,45,44,10,6,31
+Lucretia C Clemons,,,,0,47,51,50,45,43,44,42,9,6,31
+Deborah Cianfrani,,,,,0,48,48,47,44,40,41,11,8,31
+Zac Shaffer,,,,,,0,49,46,43,41,41,9,6,31
+Deborah Canty,,,,,,,0,46,43,41,39,9,6,31
+Shanese Johnson,,,,,,,,0,42,39,40,6,4,31
+Mark B Cohen,,,,,,,,,0,37,37,6,6,31
+Ellen Ceisler,,,,,,,,,,0,43,5,1,31
+Irene M Clark,,,,,,,,,,,0,0,0,31
+Christine Fizzano Cannon,,,,,,,,,,,,1,35,31
+Paul Lalley,,,,,,,,,,,,,0,31
+Total,74,59,56,55,53,52,51,47,46,51,46,42,37,31
+,Judge Of The Commonwealth Court,,,,Judge Of The Court Of Common Pleas,,,,,,,,,32
+,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,Vincent Furlong,Stella Tsai,Vikki Kristiansson,Lucretia C Clemons,Deborah Canty,Zac Shaffer,Deborah Cianfrani,Mark B Cohen,Shanese Johnson,32
+Ellen Ceisler,0,43,6,0,38,48,47,46,44,45,37,36,36,32
+Irene M Clark,,0,0,0,35,39,39,40,38,39,37,36,36,32
+Christine Fizzano Cannon,,,0,13,18,8,7,5,6,5,2,3,2,32
+Paul Lalley,,,,0,13,1,1,1,1,1,1,2,1,32
+Vincent Furlong,,,,,0,40,40,39,40,39,37,38,37,32
+Stella Tsai,,,,,,0,50,47,46,47,39,38,38,32
+Vikki Kristiansson,,,,,,,0,47,46,47,39,38,38,32
+Lucretia C Clemons,,,,,,,,0,44,47,39,38,38,32
+Deborah Canty,,,,,,,,,0,44,38,38,38,32
+Zac Shaffer,,,,,,,,,,0,39,38,38,32
+Deborah Cianfrani,,,,,,,,,,,0,38,38,32
+Mark B Cohen,,,,,,,,,,,,0,38,32
+Shanese Johnson,,,,,,,,,,,,,0,32
+Total,53,46,21,13,53,51,50,48,47,47,40,39,38,32
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Commonwealth Court,,,,33
+,Vincent Furlong,Deborah Cianfrani,Stella Tsai,Vikki Kristiansson,Lucretia C Clemons,Mark B Cohen,Zac Shaffer,Deborah Canty,Shanese Johnson,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,33
+Vincent Furlong,2,39,35,35,36,34,35,33,34,35,27,20,20,33
+Deborah Cianfrani,,0,38,36,37,38,37,33,36,38,33,5,3,33
+Stella Tsai,,,0,37,38,36,38,36,36,37,31,4,3,33
+Vikki Kristiansson,,,,1,39,37,39,33,35,36,30,4,4,33
+Lucretia C Clemons,,,,,0,37,39,34,36,37,31,4,3,33
+Mark B Cohen,,,,,,1,38,32,36,35,30,3,2,33
+Zac Shaffer,,,,,,,0,34,36,36,30,4,3,33
+Deborah Canty,,,,,,,,1,32,33,26,3,2,33
+Shanese Johnson,,,,,,,,,0,35,29,3,2,33
+Ellen Ceisler,,,,,,,,,,3,32,1,0,33
+Irene M Clark,,,,,,,,,,,0,0,0,33
+Christine Fizzano Cannon,,,,,,,,,,,,2,20,33
+Paul Lalley,,,,,,,,,,,,,1,33
+Total,61,46,42,42,41,40,40,38,37,44,34,25,25,33
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Commonwealth Court,,,,34
+,Vincent Furlong,Lucretia C Clemons,Stella Tsai,Deborah Canty,Vikki Kristiansson,Zac Shaffer,Deborah Cianfrani,Shanese Johnson,Mark B Cohen,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,34
+Vincent Furlong,0,63,63,63,62,62,59,59,59,63,55,18,14,34
+Lucretia C Clemons,,0,71,70,70,69,65,65,63,71,63,6,1,34
+Stella Tsai,,,0,69,69,69,64,65,63,70,63,5,1,34
+Deborah Canty,,,,0,69,68,65,64,64,70,62,6,1,34
+Vikki Kristiansson,,,,,0,68,63,63,62,69,61,6,1,34
+Zac Shaffer,,,,,,0,62,63,62,68,61,5,1,34
+Deborah Cianfrani,,,,,,,1,64,63,64,61,6,1,34
+Shanese Johnson,,,,,,,,0,63,63,61,4,1,34
+Mark B Cohen,,,,,,,,,0,63,60,4,1,34
+Ellen Ceisler,,,,,,,,,,2,63,5,0,34
+Irene M Clark,,,,,,,,,,,1,0,0,34
+Christine Fizzano Cannon,,,,,,,,,,,,0,14,34
+Paul Lalley,,,,,,,,,,,,,0,34
+Total,77,73,72,71,70,69,68,65,64,76,65,20,14,34
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Commonwealth Court,,,,35
+,Vincent Furlong,Stella Tsai,Vikki Kristiansson,Lucretia C Clemons,Zac Shaffer,Deborah Canty,Deborah Cianfrani,Mark B Cohen,Shanese Johnson,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,35
+Vincent Furlong,2,103,104,100,102,102,96,98,93,97,90,28,17,35
+Stella Tsai,,1,112,110,108,105,99,93,96,106,98,10,3,35
+Vikki Kristiansson,,,0,109,107,104,98,93,94,105,97,12,4,35
+Lucretia C Clemons,,,,0,107,106,95,91,95,104,97,10,2,35
+Zac Shaffer,,,,,0,106,94,92,93,102,94,11,2,35
+Deborah Canty,,,,,,0,95,93,94,100,93,11,2,35
+Deborah Cianfrani,,,,,,,2,95,95,96,95,6,3,35
+Mark B Cohen,,,,,,,,0,93,90,88,9,5,35
+Shanese Johnson,,,,,,,,,0,89,91,6,3,35
+Ellen Ceisler,,,,,,,,,,3,99,7,1,35
+Irene M Clark,,,,,,,,,,,0,2,0,35
+Christine Fizzano Cannon,,,,,,,,,,,,0,16,35
+Paul Lalley,,,,,,,,,,,,,1,35
+Total,127,117,116,112,111,109,108,100,99,118,109,33,19,35
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Commonwealth Court,,,,36
+,Vincent Furlong,Deborah Cianfrani,Lucretia C Clemons,Stella Tsai,Deborah Canty,Zac Shaffer,Mark B Cohen,Vikki Kristiansson,Shanese Johnson,Christine Fizzano Cannon,Paul Lalley,Ellen Ceisler,Irene M Clark,36
+Vincent Furlong,0,33,32,31,32,32,29,27,29,48,43,27,20,36
+Deborah Cianfrani,,0,32,30,31,31,29,27,30,12,8,26,20,36
+Lucretia C Clemons,,,0,34,33,33,30,30,30,9,5,29,23,36
+Stella Tsai,,,,0,31,33,29,29,29,8,5,30,22,36
+Deborah Canty,,,,,0,32,30,29,30,11,5,28,20,36
+Zac Shaffer,,,,,,0,29,29,30,8,6,28,21,36
+Mark B Cohen,,,,,,,1,25,29,9,4,25,18,36
+Vikki Kristiansson,,,,,,,,0,26,8,5,25,20,36
+Shanese Johnson,,,,,,,,,0,8,5,24,19,36
+Christine Fizzano Cannon,,,,,,,,,,1,42,6,0,36
+Paul Lalley,,,,,,,,,,,0,1,1,36
+Ellen Ceisler,,,,,,,,,,,,2,25,36
+Irene M Clark,,,,,,,,,,,,,0,36
+Total,74,37,37,36,35,34,32,31,30,55,47,38,26,36
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Commonwealth Court,,,,37
+,Vincent Furlong,Deborah Canty,Vikki Kristiansson,Lucretia C Clemons,Stella Tsai,Zac Shaffer,Deborah Cianfrani,Shanese Johnson,Mark B Cohen,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,37
+Vincent Furlong,1,89,89,86,88,87,86,79,78,84,72,38,26,37
+Deborah Canty,,0,105,103,104,102,87,87,83,102,81,15,3,37
+Vikki Kristiansson,,,0,102,103,101,87,88,83,100,80,16,3,37
+Lucretia C Clemons,,,,0,103,99,85,86,82,101,78,14,2,37
+Stella Tsai,,,,,0,100,86,86,82,100,79,15,3,37
+Zac Shaffer,,,,,,0,84,85,83,99,79,14,2,37
+Deborah Cianfrani,,,,,,,2,85,83,86,77,12,4,37
+Shanese Johnson,,,,,,,,0,82,85,78,8,1,37
+Mark B Cohen,,,,,,,,,0,81,74,6,1,37
+Ellen Ceisler,,,,,,,,,,1,82,14,1,37
+Irene M Clark,,,,,,,,,,,1,0,0,37
+Christine Fizzano Cannon,,,,,,,,,,,,3,26,37
+Paul Lalley,,,,,,,,,,,,,0,37
+Total,120,107,106,105,105,102,99,90,85,111,86,50,28,37
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Commonwealth Court,,,,38
+,Vincent Furlong,Stella Tsai,Vikki Kristiansson,Lucretia C Clemons,Deborah Canty,Deborah Cianfrani,Mark B Cohen,Shanese Johnson,Zac Shaffer,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,38
+Vincent Furlong,1,96,96,94,92,88,88,84,73,93,77,29,20,38
+Stella Tsai,,0,106,103,98,95,92,89,78,106,87,13,2,38
+Vikki Kristiansson,,,1,105,99,93,90,89,79,104,85,14,3,38
+Lucretia C Clemons,,,,0,98,91,87,87,78,102,84,13,2,38
+Deborah Canty,,,,,0,86,87,84,79,98,79,11,1,38
+Deborah Cianfrani,,,,,,1,91,88,67,93,79,10,3,38
+Mark B Cohen,,,,,,,0,87,68,91,78,8,2,38
+Shanese Johnson,,,,,,,,0,67,88,77,8,2,38
+Zac Shaffer,,,,,,,,,0,77,63,10,1,38
+Ellen Ceisler,,,,,,,,,,3,86,13,0,38
+Irene M Clark,,,,,,,,,,,0,0,1,38
+Christine Fizzano Cannon,,,,,,,,,,,,0,22,38
+Paul Lalley,,,,,,,,,,,,,0,38
+Total,117,112,109,105,100,100,96,90,79,115,89,36,24,38
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Commonwealth Court,,,,39
+,Vincent Furlong,Deborah Cianfrani,Vikki Kristiansson,Stella Tsai,Lucretia C Clemons,Zac Shaffer,Deborah Canty,Shanese Johnson,Mark B Cohen,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,39
+Vincent Furlong,1,56,57,55,54,55,53,51,51,48,45,44,32,39
+Deborah Cianfrani,,1,54,55,53,51,53,52,52,50,50,13,6,39
+Vikki Kristiansson,,,0,60,58,58,58,54,53,53,49,15,4,39
+Stella Tsai,,,,0,57,56,58,53,52,52,48,14,4,39
+Lucretia C Clemons,,,,,1,56,55,52,51,50,49,13,4,39
+Zac Shaffer,,,,,,1,54,53,53,51,47,13,4,39
+Deborah Canty,,,,,,,0,52,51,51,46,13,3,39
+Shanese Johnson,,,,,,,,0,52,47,47,9,3,39
+Mark B Cohen,,,,,,,,,0,47,46,8,4,39
+Ellen Ceisler,,,,,,,,,,1,45,8,0,39
+Irene M Clark,,,,,,,,,,,0,2,0,39
+Christine Fizzano Cannon,,,,,,,,,,,,7,31,39
+Paul Lalley,,,,,,,,,,,,,0,39
+Total,90,66,63,62,61,61,58,55,54,59,53,52,32,39
+,Judge Of The Commonwealth Court,,,,Judge Of The Court Of Common Pleas,,,,,,,,,40
+,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,Lucretia C Clemons,Vikki Kristiansson,Stella Tsai,Zac Shaffer,Mark B Cohen,Vincent Furlong,Shanese Johnson,Deborah Canty,Deborah Cianfrani,40
+Ellen Ceisler,1,34,3,0,41,41,41,41,39,37,37,38,36,40
+Irene M Clark,,1,0,0,33,32,32,32,32,31,34,32,32,40
+Christine Fizzano Cannon,,,0,3,3,3,3,3,2,5,2,3,3,40
+Paul Lalley,,,,0,0,0,0,0,0,2,0,0,0,40
+Lucretia C Clemons,,,,,0,41,41,41,37,36,38,38,35,40
+Vikki Kristiansson,,,,,,0,41,41,37,37,37,38,36,40
+Stella Tsai,,,,,,,0,41,37,36,37,38,35,40
+Zac Shaffer,,,,,,,,0,37,36,37,38,35,40
+Mark B Cohen,,,,,,,,,0,33,37,35,35,40
+Vincent Furlong,,,,,,,,,,0,34,34,35,40
+Shanese Johnson,,,,,,,,,,,0,35,35,40
+Deborah Canty,,,,,,,,,,,,0,34,40
+Deborah Cianfrani,,,,,,,,,,,,,0,40
+Total,47,37,7,3,42,42,41,41,40,40,39,38,38,40
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Commonwealth Court,,,,41
+,Vincent Furlong,Stella Tsai,Deborah Cianfrani,Lucretia C Clemons,Zac Shaffer,Deborah Canty,Shanese Johnson,Vikki Kristiansson,Mark B Cohen,Christine Fizzano Cannon,Paul Lalley,Ellen Ceisler,Irene M Clark,41
+Vincent Furlong,4,51,51,48,48,46,45,47,45,61,51,41,32,41
+Stella Tsai,,0,49,50,51,48,48,49,46,19,9,43,30,41
+Deborah Cianfrani,,,0,47,48,48,48,47,46,18,11,40,31,41
+Lucretia C Clemons,,,,0,50,48,48,47,46,15,8,40,30,41
+Zac Shaffer,,,,,0,48,48,48,46,15,8,40,31,41
+Deborah Canty,,,,,,0,47,47,46,13,9,38,29,41
+Shanese Johnson,,,,,,,0,47,45,13,7,38,30,41
+Vikki Kristiansson,,,,,,,,0,45,14,8,38,30,41
+Mark B Cohen,,,,,,,,,0,14,8,37,28,41
+Christine Fizzano Cannon,,,,,,,,,,3,48,13,2,41
+Paul Lalley,,,,,,,,,,,0,1,0,41
+Ellen Ceisler,,,,,,,,,,,,0,29,41
+Irene M Clark,,,,,,,,,,,,,0,41
+Total,102,55,54,52,52,49,49,49,47,68,52,46,33,41
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Commonwealth Court,,,,42
+,Vincent Furlong,Lucretia C Clemons,Stella Tsai,Deborah Canty,Zac Shaffer,Vikki Kristiansson,Deborah Cianfrani,Mark B Cohen,Shanese Johnson,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,42
+Vincent Furlong,0,69,67,66,69,67,67,66,65,60,49,44,35,42
+Lucretia C Clemons,,0,74,74,73,73,70,69,70,66,56,16,9,42
+Stella Tsai,,,0,71,73,72,68,67,69,66,55,15,9,42
+Deborah Canty,,,,0,70,71,68,67,67,63,54,14,9,42
+Zac Shaffer,,,,,0,71,66,68,68,64,54,15,9,42
+Vikki Kristiansson,,,,,,0,67,67,67,64,55,15,9,42
+Deborah Cianfrani,,,,,,,0,68,67,59,54,15,10,42
+Mark B Cohen,,,,,,,,1,67,59,53,13,9,42
+Shanese Johnson,,,,,,,,,0,59,54,14,10,42
+Ellen Ceisler,,,,,,,,,,0,56,9,1,42
+Irene M Clark,,,,,,,,,,,1,0,1,42
+Christine Fizzano Cannon,,,,,,,,,,,,1,34,42
+Paul Lalley,,,,,,,,,,,,,0,42
+Total,98,78,77,75,75,74,73,71,71,72,60,46,36,42
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Commonwealth Court,,,,43
+,Vincent Furlong,Lucretia C Clemons,Stella Tsai,Vikki Kristiansson,Deborah Cianfrani,Zac Shaffer,Deborah Canty,Mark B Cohen,Shanese Johnson,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,43
+Vincent Furlong,0,45,45,46,46,45,45,43,41,41,34,32,25,43
+Lucretia C Clemons,,0,51,50,43,49,47,43,44,45,39,7,4,43
+Stella Tsai,,,0,51,44,49,47,45,44,46,40,8,4,43
+Vikki Kristiansson,,,,0,45,50,47,45,44,44,40,8,5,43
+Deborah Cianfrani,,,,,0,44,44,46,43,39,37,11,6,43
+Zac Shaffer,,,,,,0,47,44,44,42,38,8,5,43
+Deborah Canty,,,,,,,0,44,44,41,37,7,5,43
+Mark B Cohen,,,,,,,,0,43,39,38,7,5,43
+Shanese Johnson,,,,,,,,,0,38,37,5,4,43
+Ellen Ceisler,,,,,,,,,,0,38,5,0,43
+Irene M Clark,,,,,,,,,,,0,1,0,43
+Christine Fizzano Cannon,,,,,,,,,,,,1,25,43
+Paul Lalley,,,,,,,,,,,,,0,43
+Total,73,53,53,53,51,51,48,47,44,49,40,37,25,43
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Commonwealth Court,,,,44
+,Vincent Furlong,Deborah Cianfrani,Stella Tsai,Mark B Cohen,Vikki Kristiansson,Deborah Canty,Lucretia C Clemons,Shanese Johnson,Zac Shaffer,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,44
+Vincent Furlong,1,39,42,40,40,41,41,40,38,39,35,23,18,44
+Deborah Cianfrani,,0,41,41,42,40,39,39,37,39,38,8,3,44
+Stella Tsai,,,1,43,43,43,43,42,39,42,38,5,2,44
+Mark B Cohen,,,,0,42,41,41,41,38,40,39,5,2,44
+Vikki Kristiansson,,,,,1,41,41,40,39,41,39,4,2,44
+Deborah Canty,,,,,,0,42,40,38,40,36,5,2,44
+Lucretia C Clemons,,,,,,,0,41,38,40,36,5,2,44
+Shanese Johnson,,,,,,,,0,37,39,36,5,2,44
+Zac Shaffer,,,,,,,,,0,37,35,3,2,44
+Ellen Ceisler,,,,,,,,,,0,37,5,1,44
+Irene M Clark,,,,,,,,,,,0,1,0,44
+Christine Fizzano Cannon,,,,,,,,,,,,0,20,44
+Paul Lalley,,,,,,,,,,,,,0,44
+Total,61,47,46,45,45,44,43,42,39,44,40,32,21,44
+,Judge Of The Commonwealth Court,,,,Judge Of The Court Of Common Pleas,,,,,,,,,45
+,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,Stella Tsai,Vikki Kristiansson,Vincent Furlong,Lucretia C Clemons,Zac Shaffer,Deborah Canty,Deborah Cianfrani,Shanese Johnson,Mark B Cohen,45
+Ellen Ceisler,4,141,24,1,168,162,134,160,158,145,118,118,112,45
+Irene M Clark,,1,2,1,139,135,111,135,131,119,113,114,109,45
+Christine Fizzano Cannon,,,11,27,26,27,50,26,26,25,14,10,11,45
+Paul Lalley,,,,0,5,5,30,5,4,5,4,2,2,45
+Stella Tsai,,,,,1,172,138,170,164,155,123,126,117,45
+Vikki Kristiansson,,,,,,0,135,166,163,153,123,124,117,45
+Vincent Furlong,,,,,,,2,137,133,133,113,111,111,45
+Lucretia C Clemons,,,,,,,,0,159,155,122,125,115,45
+Zac Shaffer,,,,,,,,,0,149,119,121,119,45
+Deborah Canty,,,,,,,,,,0,119,124,116,45
+Deborah Cianfrani,,,,,,,,,,,3,121,119,45
+Shanese Johnson,,,,,,,,,,,,0,118,45
+Mark B Cohen,,,,,,,,,,,,,0,45
+Total,188,151,73,30,183,176,175,173,172,158,136,129,124,45
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Commonwealth Court,,,,46
+,Vincent Furlong,Stella Tsai,Vikki Kristiansson,Lucretia C Clemons,Zac Shaffer,Deborah Canty,Deborah Cianfrani,Mark B Cohen,Shanese Johnson,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,46
+Vincent Furlong,0,168,168,168,166,165,144,139,138,157,131,64,42,46
+Stella Tsai,,0,187,189,181,176,151,152,149,183,148,27,7,46
+Vikki Kristiansson,,,0,186,180,178,150,149,148,178,146,26,6,46
+Lucretia C Clemons,,,,0,182,176,148,148,147,178,143,27,5,46
+Zac Shaffer,,,,,0,174,148,147,144,172,142,24,5,46
+Deborah Canty,,,,,,0,148,148,147,168,136,26,6,46
+Deborah Cianfrani,,,,,,,1,149,148,144,133,18,6,46
+Mark B Cohen,,,,,,,,1,145,144,133,15,6,46
+Shanese Johnson,,,,,,,,,0,140,128,16,6,46
+Ellen Ceisler,,,,,,,,,,2,155,19,0,46
+Irene M Clark,,,,,,,,,,,3,3,0,46
+Christine Fizzano Cannon,,,,,,,,,,,,1,42,46
+Paul Lalley,,,,,,,,,,,,,0,46
+Total,213,201,193,191,188,182,160,160,150,202,168,72,45,46

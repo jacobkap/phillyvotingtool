@@ -1,28 +1,12 @@
 col_1,col_2,col_3,col_4,col_5,col_6,division
-,City Commissioners,,,District Council 8th District,,1
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Cindy Bass,Michael Galganski,1
-Anthony Clark,10,65,1,0,0,1
-Lisa M Deeley,,2,5,0,0,1
-Al Schmidt,,,3,0,0,1
-Cindy Bass,,,,0,0,1
-Michael Galganski,,,,,0,1
-Total,76,72,9,0,0,1
-,City Commissioners,,,District Council 8th District,,2
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Cindy Bass,Michael Galganski,2
-Anthony Clark,30,175,1,0,0,2
-Lisa M Deeley,,9,1,0,0,2
-Al Schmidt,,,6,0,0,2
-Cindy Bass,,,,0,0,2
-Michael Galganski,,,,,0,2
-Total,206,185,8,0,0,2
-,City Commissioners,,,District Council 8th District,,3
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Cindy Bass,Michael Galganski,3
-Anthony Clark,45,157,3,0,0,3
-Lisa M Deeley,,14,0,0,0,3
-Al Schmidt,,,4,0,0,3
-Cindy Bass,,,,0,0,3
-Michael Galganski,,,,,0,3
-Total,205,171,7,0,0,3
+,District Council 8th District,,City Commissioners,,,All
+,Cindy Bass,Michael Galganski,Anthony Clark,Lisa M Deeley,Al Schmidt,All
+Cindy Bass,63,0,"1,123","1,017",23,All
+Michael Galganski,,2,4,6,12,All
+Anthony Clark,,,39,958,10,All
+Lisa M Deeley,,,,16,16,All
+Al Schmidt,,,,,23,All
+Total,"1,267",16,"1,181","1,056",60,All
 ,District Council 8th District,,City Commissioners,,,4
 ,Cindy Bass,Michael Galganski,Anthony Clark,Lisa M Deeley,Al Schmidt,4
 Cindy Bass,8,0,110,99,3,4
@@ -39,30 +23,6 @@ Anthony Clark,,,6,125,1,5
 Lisa M Deeley,,,,2,2,5
 Al Schmidt,,,,,1,5
 Total,166,0,152,139,4,5
-,City Commissioners,,,District Council 8th District,,6
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Cindy Bass,Michael Galganski,6
-Anthony Clark,42,129,1,0,0,6
-Lisa M Deeley,,9,5,0,0,6
-Al Schmidt,,,6,0,0,6
-Cindy Bass,,,,0,0,6
-Michael Galganski,,,,,0,6
-Total,172,143,12,0,0,6
-,City Commissioners,,,District Council 8th District,,7
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Cindy Bass,Michael Galganski,7
-Anthony Clark,25,123,1,0,0,7
-Lisa M Deeley,,2,1,0,0,7
-Al Schmidt,,,0,0,0,7
-Cindy Bass,,,,0,0,7
-Michael Galganski,,,,,0,7
-Total,149,126,2,0,0,7
-,City Commissioners,,,District Council 8th District,,8
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Cindy Bass,Michael Galganski,8
-Anthony Clark,35,140,5,0,0,8
-Lisa M Deeley,,15,4,0,0,8
-Al Schmidt,,,6,0,0,8
-Cindy Bass,,,,0,0,8
-Michael Galganski,,,,,0,8
-Total,180,159,15,0,0,8
 ,District Council 8th District,,City Commissioners,,,9
 ,Cindy Bass,Michael Galganski,Anthony Clark,Lisa M Deeley,Al Schmidt,9
 Cindy Bass,2,0,177,164,2,9
@@ -119,30 +79,6 @@ Anthony Clark,,,4,88,2,15
 Lisa M Deeley,,,,1,1,15
 Al Schmidt,,,,,1,15
 Total,117,1,112,96,5,15
-,City Commissioners,,,District Council 8th District,,16
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Cindy Bass,Michael Galganski,16
-Anthony Clark,26,121,0,0,0,16
-Lisa M Deeley,,6,1,0,0,16
-Al Schmidt,,,0,0,0,16
-Cindy Bass,,,,0,0,16
-Michael Galganski,,,,,0,16
-Total,147,128,1,0,0,16
-,City Commissioners,,,District Council 8th District,,17
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Cindy Bass,Michael Galganski,17
-Anthony Clark,27,115,1,0,0,17
-Lisa M Deeley,,9,0,0,0,17
-Al Schmidt,,,1,0,0,17
-Cindy Bass,,,,0,0,17
-Michael Galganski,,,,,0,17
-Total,143,124,2,0,0,17
-,City Commissioners,,,District Council 8th District,,18
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Cindy Bass,Michael Galganski,18
-Anthony Clark,25,145,4,0,0,18
-Lisa M Deeley,,18,4,0,0,18
-Al Schmidt,,,7,0,0,18
-Cindy Bass,,,,0,0,18
-Michael Galganski,,,,,0,18
-Total,174,167,15,0,0,18
 ,District Council 8th District,,City Commissioners,,,19
 ,Cindy Bass,Michael Galganski,Lisa M Deeley,Anthony Clark,Al Schmidt,19
 Cindy Bass,6,0,110,110,0,19
@@ -151,35 +87,3 @@ Lisa M Deeley,,,4,102,0,19
 Anthony Clark,,,,1,0,19
 Al Schmidt,,,,,2,19
 Total,126,2,116,113,4,19
-,City Commissioners,,,District Council 8th District,,20
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Cindy Bass,Michael Galganski,20
-Anthony Clark,37,152,2,0,0,20
-Lisa M Deeley,,12,0,0,0,20
-Al Schmidt,,,2,0,0,20
-Cindy Bass,,,,0,0,20
-Michael Galganski,,,,,0,20
-Total,191,164,4,0,0,20
-,City Commissioners,,,District Council 8th District,,21
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Cindy Bass,Michael Galganski,21
-Anthony Clark,30,147,3,0,0,21
-Lisa M Deeley,,14,5,0,0,21
-Al Schmidt,,,13,0,0,21
-Cindy Bass,,,,0,0,21
-Michael Galganski,,,,,0,21
-Total,180,166,21,0,0,21
-,City Commissioners,,,District Council 8th District,,22
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Cindy Bass,Michael Galganski,22
-Anthony Clark,41,147,1,0,0,22
-Lisa M Deeley,,7,0,0,0,22
-Al Schmidt,,,4,0,0,22
-Cindy Bass,,,,0,0,22
-Michael Galganski,,,,,0,22
-Total,189,154,5,0,0,22
-,City Commissioners,,,District Council 8th District,,All
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Cindy Bass,Michael Galganski,All
-Anthony Clark,412,"2,574",33,"1,123",4,All
-Lisa M Deeley,,133,42,"1,017",6,All
-Al Schmidt,,,75,23,12,All
-Cindy Bass,,,,63,0,All
-Michael Galganski,,,,,2,All
-Total,"3,193","2,815",161,"1,267",16,All

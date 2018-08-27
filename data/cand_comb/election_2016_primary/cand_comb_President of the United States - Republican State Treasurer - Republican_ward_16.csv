@@ -1,0 +1,101 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,division
+,State Treasurer - Republican,President Of The United States - Republican,,,,,,All
+,Otto Voit,Ted Cruz,Donald J Trump,John R Kasich,Ben Carson,Marco Rubio,Jeb Bush,All
+Otto Voit,0,7,3,4,2,1,0,All
+Ted Cruz,,4,0,0,0,0,0,All
+Donald J Trump,,,3,0,0,0,0,All
+John R Kasich,,,,0,0,0,0,All
+Ben Carson,,,,,0,0,0,All
+Marco Rubio,,,,,,1,0,All
+Jeb Bush,,,,,,,1,All
+Total,17,11,6,4,2,2,1,All
+,State Treasurer - Republican,President Of The United States - Republican,,,,,,1
+,Otto Voit,Ted Cruz,Ben Carson,Donald J Trump,Jeb Bush,John R Kasich,Marco Rubio,1
+Otto Voit,0,1,0,0,0,0,0,1
+Ted Cruz,,0,0,0,0,0,0,1
+Ben Carson,,,0,0,0,0,0,1
+Donald J Trump,,,,0,0,0,0,1
+Jeb Bush,,,,,0,0,0,1
+John R Kasich,,,,,,0,0,1
+Marco Rubio,,,,,,,0,1
+Total,1,1,0,0,0,0,0,1
+,State Treasurer - Republican,President Of The United States - Republican,,,,,,2
+,Otto Voit,Donald J Trump,Ted Cruz,John R Kasich,Ben Carson,Jeb Bush,Marco Rubio,2
+Otto Voit,0,2,1,2,0,0,0,2
+Donald J Trump,,1,0,0,0,0,0,2
+Ted Cruz,,,2,0,0,0,0,2
+John R Kasich,,,,0,0,0,0,2
+Ben Carson,,,,,0,0,0,2
+Jeb Bush,,,,,,0,0,2
+Marco Rubio,,,,,,,0,2
+Total,5,3,3,2,0,0,0,2
+,President Of The United States - Republican,,,,,,State Treasurer - Republican,4
+,Marco Rubio,Ted Cruz,Ben Carson,Donald J Trump,Jeb Bush,John R Kasich,Otto Voit,4
+Marco Rubio,0,0,0,0,0,0,1,4
+Ted Cruz,,1,0,0,0,0,0,4
+Ben Carson,,,0,0,0,0,0,4
+Donald J Trump,,,,0,0,0,0,4
+Jeb Bush,,,,,0,0,0,4
+John R Kasich,,,,,,0,0,4
+Otto Voit,,,,,,,0,4
+Total,1,1,0,0,0,0,1,4
+,State Treasurer - Republican,President Of The United States - Republican,,,,,,5
+,Otto Voit,Ted Cruz,Donald J Trump,Ben Carson,Jeb Bush,John R Kasich,Marco Rubio,5
+Otto Voit,0,1,1,0,0,0,0,5
+Ted Cruz,,1,0,0,0,0,0,5
+Donald J Trump,,,0,0,0,0,0,5
+Ben Carson,,,,0,0,0,0,5
+Jeb Bush,,,,,0,0,0,5
+John R Kasich,,,,,,0,0,5
+Marco Rubio,,,,,,,0,5
+Total,2,2,1,0,0,0,0,5
+,President Of The United States - Republican,,,,,,State Treasurer - Republican,6
+,Donald J Trump,Jeb Bush,Ted Cruz,Ben Carson,John R Kasich,Marco Rubio,Otto Voit,6
+Donald J Trump,2,0,0,0,0,0,0,6
+Jeb Bush,,1,0,0,0,0,0,6
+Ted Cruz,,,0,0,0,0,1,6
+Ben Carson,,,,0,0,0,0,6
+John R Kasich,,,,,0,0,0,6
+Marco Rubio,,,,,,0,0,6
+Otto Voit,,,,,,,0,6
+Total,2,1,1,0,0,0,1,6
+,State Treasurer - Republican,President Of The United States - Republican,,,,,,8
+,Otto Voit,Ted Cruz,Ben Carson,Donald J Trump,Jeb Bush,John R Kasich,Marco Rubio,8
+Otto Voit,0,1,0,0,0,0,0,8
+Ted Cruz,,0,0,0,0,0,0,8
+Ben Carson,,,0,0,0,0,0,8
+Donald J Trump,,,,0,0,0,0,8
+Jeb Bush,,,,,0,0,0,8
+John R Kasich,,,,,,0,0,8
+Marco Rubio,,,,,,,0,8
+Total,1,1,0,0,0,0,0,8
+,State Treasurer - Republican,President Of The United States - Republican,,,,,,11
+,Otto Voit,Ben Carson,Ted Cruz,Donald J Trump,Jeb Bush,John R Kasich,Marco Rubio,11
+Otto Voit,0,1,1,0,0,0,0,11
+Ben Carson,,0,0,0,0,0,0,11
+Ted Cruz,,,0,0,0,0,0,11
+Donald J Trump,,,,0,0,0,0,11
+Jeb Bush,,,,,0,0,0,11
+John R Kasich,,,,,,0,0,11
+Marco Rubio,,,,,,,0,11
+Total,2,1,1,0,0,0,0,11
+,State Treasurer - Republican,President Of The United States - Republican,,,,,,12
+,Otto Voit,Ben Carson,John R Kasich,Donald J Trump,Jeb Bush,Marco Rubio,Ted Cruz,12
+Otto Voit,0,1,1,0,0,0,0,12
+Ben Carson,,0,0,0,0,0,0,12
+John R Kasich,,,0,0,0,0,0,12
+Donald J Trump,,,,0,0,0,0,12
+Jeb Bush,,,,,0,0,0,12
+Marco Rubio,,,,,,0,0,12
+Ted Cruz,,,,,,,0,12
+Total,2,1,1,0,0,0,0,12
+,State Treasurer - Republican,President Of The United States - Republican,,,,,,18
+,Otto Voit,John R Kasich,Marco Rubio,Ted Cruz,Ben Carson,Donald J Trump,Jeb Bush,18
+Otto Voit,0,1,0,1,0,0,0,18
+John R Kasich,,0,0,0,0,0,0,18
+Marco Rubio,,,1,0,0,0,0,18
+Ted Cruz,,,,0,0,0,0,18
+Ben Carson,,,,,0,0,0,18
+Donald J Trump,,,,,,0,0,18
+Jeb Bush,,,,,,,0,18
+Total,2,1,1,1,0,0,0,18

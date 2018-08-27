@@ -1,4 +1,15 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,division
+,District Council 1st District,Justice Of The Supreme Court,,,,,,,All
+,Mark F Squilla,Kevin M Dougherty,Christine Donohue,David Wecht,Judy Olson,Mike George,Anne Covey,Paul P Panepinto,All
+Mark F Squilla,27,988,704,669,144,94,96,35,All
+Kevin M Dougherty,,107,683,665,63,33,38,18,All
+Christine Donohue,,,19,668,54,20,17,19,All
+David Wecht,,,,15,40,22,12,18,All
+Judy Olson,,,,,18,234,255,6,All
+Mike George,,,,,,16,223,9,All
+Anne Covey,,,,,,,12,6,All
+Paul P Panepinto,,,,,,,,3,All
+Total,"1,215","1,193",824,786,367,301,299,47,All
 ,Justice Of The Supreme Court,,,,,,,District Council 1st District,1
 ,Kevin M Dougherty,Christine Donohue,David Wecht,Judy Olson,Mike George,Anne Covey,Paul P Panepinto,Mark F Squilla,1
 Kevin M Dougherty,11,40,33,8,2,4,3,70,1
@@ -142,28 +153,6 @@ Mike George,,,,,,0,0,1,13
 Paul P Panepinto,,,,,,,0,1,13
 Mark F Squilla,,,,,,,,0,13
 Total,44,39,28,3,3,1,1,39,13
-,Justice Of The Supreme Court,,,,,,,District Council 1st District,14
-,Kevin M Dougherty,David Wecht,Christine Donohue,Judy Olson,Anne Covey,Mike George,Paul P Panepinto,Mark F Squilla,14
-Kevin M Dougherty,7,19,19,3,1,0,0,0,14
-David Wecht,,1,18,2,0,0,0,0,14
-Christine Donohue,,,0,1,1,0,0,0,14
-Judy Olson,,,,0,5,3,0,0,14
-Anne Covey,,,,,1,3,0,0,14
-Mike George,,,,,,0,0,0,14
-Paul P Panepinto,,,,,,,0,0,14
-Mark F Squilla,,,,,,,,0,14
-Total,30,22,21,8,6,3,0,0,14
-,Justice Of The Supreme Court,,,,,,,District Council 1st District,15
-,Kevin M Dougherty,Christine Donohue,David Wecht,Judy Olson,Mike George,Anne Covey,Paul P Panepinto,Mark F Squilla,15
-Kevin M Dougherty,9,16,17,0,0,0,0,0,15
-Christine Donohue,,1,16,1,1,0,0,0,15
-David Wecht,,,0,0,0,0,0,0,15
-Judy Olson,,,,0,5,5,0,0,15
-Mike George,,,,,1,4,0,0,15
-Anne Covey,,,,,,0,0,0,15
-Paul P Panepinto,,,,,,,0,0,15
-Mark F Squilla,,,,,,,,0,15
-Total,26,18,17,6,6,5,0,0,15
 ,Justice Of The Supreme Court,,,,,,,District Council 1st District,16
 ,Kevin M Dougherty,David Wecht,Christine Donohue,Anne Covey,Judy Olson,Mike George,Paul P Panepinto,Mark F Squilla,16
 Kevin M Dougherty,2,26,24,1,1,1,1,25,16
@@ -197,28 +186,6 @@ Judy Olson,,,,,,1,5,0,18
 Anne Covey,,,,,,,1,0,18
 Paul P Panepinto,,,,,,,,0,18
 Total,38,34,33,30,10,9,7,1,18
-,Justice Of The Supreme Court,,,,,,,District Council 1st District,19
-,Kevin M Dougherty,Christine Donohue,David Wecht,Judy Olson,Anne Covey,Mike George,Paul P Panepinto,Mark F Squilla,19
-Kevin M Dougherty,7,23,23,1,0,0,0,0,19
-Christine Donohue,,5,20,1,1,0,1,0,19
-David Wecht,,,2,1,0,0,0,0,19
-Judy Olson,,,,0,8,9,0,0,19
-Anne Covey,,,,,1,8,1,0,19
-Mike George,,,,,,0,0,0,19
-Paul P Panepinto,,,,,,,0,0,19
-Mark F Squilla,,,,,,,,0,19
-Total,33,29,26,11,10,9,1,0,19
-,Justice Of The Supreme Court,,,,,,,District Council 1st District,20
-,Kevin M Dougherty,David Wecht,Christine Donohue,Judy Olson,Mike George,Anne Covey,Paul P Panepinto,Mark F Squilla,20
-Kevin M Dougherty,5,24,22,1,1,0,0,0,20
-David Wecht,,2,22,2,0,0,0,0,20
-Christine Donohue,,,1,0,0,0,0,0,20
-Judy Olson,,,,0,2,2,0,0,20
-Mike George,,,,,0,2,0,0,20
-Anne Covey,,,,,,0,0,0,20
-Paul P Panepinto,,,,,,,0,0,20
-Mark F Squilla,,,,,,,,0,20
-Total,30,27,23,4,3,2,0,0,20
 ,District Council 1st District,Justice Of The Supreme Court,,,,,,,21
 ,Mark F Squilla,Kevin M Dougherty,Christine Donohue,David Wecht,Anne Covey,Mike George,Judy Olson,Paul P Panepinto,21
 Mark F Squilla,1,26,25,24,3,3,2,1,21
@@ -263,14 +230,3 @@ Judy Olson,,,,,,0,15,1,24
 Anne Covey,,,,,,,0,0,24
 Paul P Panepinto,,,,,,,,0,24
 Total,38,31,22,21,19,18,15,2,24
-,Justice Of The Supreme Court,,,,,,,District Council 1st District,All
-,Kevin M Dougherty,Christine Donohue,David Wecht,Judy Olson,Anne Covey,Mike George,Paul P Panepinto,Mark F Squilla,All
-Kevin M Dougherty,135,763,748,68,39,34,18,988,All
-Christine Donohue,,26,744,57,19,21,20,704,All
-David Wecht,,,20,45,12,22,18,669,All
-Judy Olson,,,,18,275,253,6,144,All
-Anne Covey,,,,,14,240,7,96,All
-Mike George,,,,,,17,9,94,All
-Paul P Panepinto,,,,,,,3,35,All
-Mark F Squilla,,,,,,,,27,All
-Total,"1,312",915,878,396,322,322,48,"1,215",All

@@ -1,4 +1,11 @@
 col_1,col_2,col_3,col_4,col_5,division
+,District Council 1st District,Judge Of The Municipal Court,,,All
+,Mark F Squilla,Christine Hope,Joffie C Pittman,Sharon Williams Losier,All
+Mark F Squilla,247,"1,476","1,352","1,359",All
+Christine Hope,,206,"1,253","1,277",All
+Joffie C Pittman,,,34,"1,297",All
+Sharon Williams Losier,,,,12,All
+Total,"1,918","1,720","1,429","1,414",All
 ,District Council 1st District,Judge Of The Municipal Court,,,1
 ,Mark F Squilla,Christine Hope,Joffie C Pittman,Sharon Williams Losier,1
 Mark F Squilla,5,77,80,75,1
@@ -6,13 +13,6 @@ Christine Hope,,5,69,70,1
 Joffie C Pittman,,,0,72,1
 Sharon Williams Losier,,,,0,1
 Total,95,82,80,75,1
-,Judge Of The Municipal Court,,,District Council 1st District,2
-,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Mark F Squilla,2
-Christine Hope,6,23,23,0,2
-Joffie C Pittman,,1,23,0,2
-Sharon Williams Losier,,,1,0,2
-Mark F Squilla,,,,0,2
-Total,29,24,24,0,2
 ,District Council 1st District,Judge Of The Municipal Court,,,3
 ,Mark F Squilla,Christine Hope,Joffie C Pittman,Sharon Williams Losier,3
 Mark F Squilla,11,57,51,49,3
@@ -55,13 +55,6 @@ Christine Hope,,8,56,54,8
 Joffie C Pittman,,,2,60,8
 Sharon Williams Losier,,,,1,8
 Total,91,74,67,67,8
-,Judge Of The Municipal Court,,,District Council 1st District,9
-,Christine Hope,Sharon Williams Losier,Joffie C Pittman,Mark F Squilla,9
-Christine Hope,7,52,51,0,9
-Sharon Williams Losier,,5,52,0,9
-Joffie C Pittman,,,5,0,9
-Mark F Squilla,,,,0,9
-Total,60,59,58,0,9
 ,Judge Of The Municipal Court,,,District Council 1st District,10
 ,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Mark F Squilla,10
 Christine Hope,8,31,35,40,10
@@ -132,10 +125,3 @@ Christine Hope,,4,72,70,19
 Joffie C Pittman,,,1,73,19
 Sharon Williams Losier,,,,0,19
 Total,120,89,82,79,19
-,District Council 1st District,Judge Of The Municipal Court,,,All
-,Mark F Squilla,Christine Hope,Joffie C Pittman,Sharon Williams Losier,All
-Mark F Squilla,247,"1,476","1,352","1,359",All
-Christine Hope,,219,"1,327","1,352",All
-Joffie C Pittman,,,40,"1,372",All
-Sharon Williams Losier,,,,18,All
-Total,"1,918","1,809","1,511","1,497",All

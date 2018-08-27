@@ -1,0 +1,177 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,division
+,Council At Large - Republican,,,,,,,Judge Of The Commonwealth Court - Republican,2
+,David Oh,Al Taubenberger,Daniel Tinney,Dennis M O Brien,James Williams,Matt Wolfe,Terry Tracy,Paul Lalley,2
+David Oh,1,0,0,0,0,0,0,0,2
+Al Taubenberger,,0,0,0,0,0,0,0,2
+Daniel Tinney,,,0,0,0,0,0,0,2
+Dennis M O Brien,,,,0,0,0,0,0,2
+James Williams,,,,,0,0,0,0,2
+Matt Wolfe,,,,,,0,0,0,2
+Terry Tracy,,,,,,,0,0,2
+Paul Lalley,,,,,,,,0,2
+Total,1,0,0,0,0,0,0,0,2
+,Council At Large - Republican,,,,,,,Judge Of The Commonwealth Court - Republican,6
+,Al Taubenberger,David Oh,James Williams,Matt Wolfe,Terry Tracy,Daniel Tinney,Dennis M O Brien,Paul Lalley,6
+Al Taubenberger,0,1,1,1,1,0,0,1,6
+David Oh,,0,1,1,1,0,0,1,6
+James Williams,,,0,1,1,0,0,1,6
+Matt Wolfe,,,,0,1,0,0,1,6
+Terry Tracy,,,,,0,0,0,1,6
+Daniel Tinney,,,,,,0,0,0,6
+Dennis M O Brien,,,,,,,0,0,6
+Paul Lalley,,,,,,,,0,6
+Total,1,1,1,1,1,0,0,1,6
+,Council At Large - Republican,,,,,,,Judge Of The Commonwealth Court - Republican,7
+,David Oh,James Williams,Matt Wolfe,Al Taubenberger,Daniel Tinney,Dennis M O Brien,Terry Tracy,Paul Lalley,7
+David Oh,0,1,1,0,0,0,0,0,7
+James Williams,,0,1,0,0,0,0,0,7
+Matt Wolfe,,,0,0,0,0,0,0,7
+Al Taubenberger,,,,0,0,0,0,0,7
+Daniel Tinney,,,,,0,0,0,0,7
+Dennis M O Brien,,,,,,0,0,0,7
+Terry Tracy,,,,,,,0,0,7
+Paul Lalley,,,,,,,,0,7
+Total,1,1,1,0,0,0,0,0,7
+,Council At Large - Republican,,,,,,,Judge Of The Commonwealth Court - Republican,9
+,Terry Tracy,David Oh,James Williams,Daniel Tinney,Dennis M O Brien,Matt Wolfe,Al Taubenberger,Paul Lalley,9
+Terry Tracy,1,2,2,1,1,0,0,2,9
+David Oh,,0,2,1,1,0,0,2,9
+James Williams,,,0,1,1,0,0,2,9
+Daniel Tinney,,,,0,1,0,0,1,9
+Dennis M O Brien,,,,,0,0,0,1,9
+Matt Wolfe,,,,,,1,0,0,9
+Al Taubenberger,,,,,,,0,0,9
+Paul Lalley,,,,,,,,0,9
+Total,3,2,2,1,1,1,0,2,9
+,Council At Large - Republican,,,,,,,Judge Of The Commonwealth Court - Republican,10
+,Al Taubenberger,Daniel Tinney,David Oh,Dennis M O Brien,Matt Wolfe,James Williams,Terry Tracy,Paul Lalley,10
+Al Taubenberger,0,1,1,1,1,0,0,1,10
+Daniel Tinney,,0,1,1,1,0,0,1,10
+David Oh,,,0,1,1,0,0,1,10
+Dennis M O Brien,,,,0,1,0,0,1,10
+Matt Wolfe,,,,,0,0,0,1,10
+James Williams,,,,,,0,0,0,10
+Terry Tracy,,,,,,,0,0,10
+Paul Lalley,,,,,,,,0,10
+Total,1,1,1,1,1,0,0,1,10
+,Council At Large - Republican,,,,,,,Judge Of The Commonwealth Court - Republican,11
+,Matt Wolfe,Al Taubenberger,David Oh,Terry Tracy,Daniel Tinney,James Williams,Dennis M O Brien,Paul Lalley,11
+Matt Wolfe,0,6,4,6,3,3,1,7,11
+Al Taubenberger,,0,4,3,3,4,1,6,11
+David Oh,,,0,4,5,5,4,6,11
+Terry Tracy,,,,0,3,3,2,6,11
+Daniel Tinney,,,,,0,3,4,5,11
+James Williams,,,,,,0,2,5,11
+Dennis M O Brien,,,,,,,0,3,11
+Paul Lalley,,,,,,,,0,11
+Total,9,7,7,7,6,5,4,9,11
+,Council At Large - Republican,,,,,,,Judge Of The Commonwealth Court - Republican,12
+,David Oh,Daniel Tinney,Dennis M O Brien,Matt Wolfe,James Williams,Terry Tracy,Al Taubenberger,Paul Lalley,12
+David Oh,1,4,4,1,3,2,2,4,12
+Daniel Tinney,,0,4,3,3,2,2,5,12
+Dennis M O Brien,,,0,1,3,1,2,3,12
+Matt Wolfe,,,,1,1,1,0,3,12
+James Williams,,,,,0,0,2,2,12
+Terry Tracy,,,,,,0,0,2,12
+Al Taubenberger,,,,,,,0,1,12
+Paul Lalley,,,,,,,,1,12
+Total,7,6,4,4,3,3,2,7,12
+,Judge Of The Commonwealth Court - Republican,Council At Large - Republican,,,,,,,13
+,Paul Lalley,David Oh,Terry Tracy,Daniel Tinney,Dennis M O Brien,Al Taubenberger,James Williams,Matt Wolfe,13
+Paul Lalley,0,9,7,6,4,4,4,2,13
+David Oh,,0,6,4,4,4,4,2,13
+Terry Tracy,,,0,5,4,2,4,2,13
+Daniel Tinney,,,,0,3,4,1,3,13
+Dennis M O Brien,,,,,0,3,1,2,13
+Al Taubenberger,,,,,,0,0,3,13
+James Williams,,,,,,,0,0,13
+Matt Wolfe,,,,,,,,0,13
+Total,12,11,10,7,6,5,4,3,13
+,Judge Of The Commonwealth Court - Republican,Council At Large - Republican,,,,,,,14
+,Paul Lalley,Daniel Tinney,David Oh,Matt Wolfe,Al Taubenberger,Terry Tracy,James Williams,Dennis M O Brien,14
+Paul Lalley,0,5,4,5,2,3,2,2,14
+Daniel Tinney,,0,3,4,2,4,3,1,14
+David Oh,,,0,3,4,2,2,2,14
+Matt Wolfe,,,,0,2,3,1,1,14
+Al Taubenberger,,,,,0,1,1,2,14
+Terry Tracy,,,,,,0,2,0,14
+James Williams,,,,,,,0,0,14
+Dennis M O Brien,,,,,,,,0,14
+Total,8,6,6,6,4,4,3,2,14
+,Council At Large - Republican,,,,,,,Judge Of The Commonwealth Court - Republican,15
+,James Williams,Al Taubenberger,David Oh,Dennis M O Brien,Daniel Tinney,Matt Wolfe,Terry Tracy,Paul Lalley,15
+James Williams,0,2,2,2,1,1,1,4,15
+Al Taubenberger,,0,1,2,1,1,0,2,15
+David Oh,,,0,1,0,0,1,2,15
+Dennis M O Brien,,,,0,1,1,0,2,15
+Daniel Tinney,,,,,0,1,0,1,15
+Matt Wolfe,,,,,,0,0,1,15
+Terry Tracy,,,,,,,0,1,15
+Paul Lalley,,,,,,,,0,15
+Total,4,2,2,2,1,1,1,4,15
+,Council At Large - Republican,,,,,,,Judge Of The Commonwealth Court - Republican,16
+,David Oh,Matt Wolfe,James Williams,Al Taubenberger,Dennis M O Brien,Terry Tracy,Daniel Tinney,Paul Lalley,16
+David Oh,0,1,2,1,1,1,0,3,16
+Matt Wolfe,,2,0,1,1,0,0,1,16
+James Williams,,,0,0,0,1,0,2,16
+Al Taubenberger,,,,0,1,0,0,1,16
+Dennis M O Brien,,,,,0,0,0,1,16
+Terry Tracy,,,,,,0,0,1,16
+Daniel Tinney,,,,,,,0,0,16
+Paul Lalley,,,,,,,,0,16
+Total,3,3,2,1,1,1,0,3,16
+,Judge Of The Commonwealth Court - Republican,Council At Large - Republican,,,,,,,18
+,Paul Lalley,Dennis M O Brien,Al Taubenberger,Daniel Tinney,David Oh,Matt Wolfe,James Williams,Terry Tracy,18
+Paul Lalley,0,7,5,4,5,4,3,2,18
+Dennis M O Brien,,0,4,3,4,3,3,2,18
+Al Taubenberger,,,0,2,3,2,2,1,18
+Daniel Tinney,,,,1,3,3,0,0,18
+David Oh,,,,,0,4,2,2,18
+Matt Wolfe,,,,,,0,1,1,18
+James Williams,,,,,,,0,2,18
+Terry Tracy,,,,,,,,0,18
+Total,9,7,5,5,5,4,3,2,18
+,Judge Of The Commonwealth Court - Republican,Council At Large - Republican,,,,,,,19
+,Paul Lalley,David Oh,James Williams,Matt Wolfe,Terry Tracy,Al Taubenberger,Daniel Tinney,Dennis M O Brien,19
+Paul Lalley,0,1,1,1,1,0,0,0,19
+David Oh,,0,1,0,1,0,0,0,19
+James Williams,,,0,0,1,0,0,0,19
+Matt Wolfe,,,,0,0,0,0,0,19
+Terry Tracy,,,,,0,0,0,0,19
+Al Taubenberger,,,,,,0,0,0,19
+Daniel Tinney,,,,,,,0,0,19
+Dennis M O Brien,,,,,,,,0,19
+Total,2,1,1,1,1,0,0,0,19
+,Judge Of The Commonwealth Court - Republican,Council At Large - Republican,,,,,,,20
+,Paul Lalley,David Oh,Terry Tracy,Daniel Tinney,Dennis M O Brien,James Williams,Matt Wolfe,Al Taubenberger,20
+Paul Lalley,2,7,8,6,6,6,5,1,20
+David Oh,,1,6,4,5,5,3,1,20
+Terry Tracy,,,0,4,5,6,4,0,20
+Daniel Tinney,,,,0,5,3,3,1,20
+Dennis M O Brien,,,,,0,4,4,1,20
+James Williams,,,,,,0,2,0,20
+Matt Wolfe,,,,,,,0,1,20
+Al Taubenberger,,,,,,,,0,20
+Total,12,8,8,6,6,6,5,1,20
+,Council At Large - Republican,,,,,,,Judge Of The Commonwealth Court - Republican,21
+,Daniel Tinney,David Oh,Dennis M O Brien,James Williams,Al Taubenberger,Matt Wolfe,Terry Tracy,Paul Lalley,21
+Daniel Tinney,0,1,1,1,0,0,0,0,21
+David Oh,,0,1,1,0,0,0,0,21
+Dennis M O Brien,,,0,1,0,0,0,0,21
+James Williams,,,,0,0,0,0,0,21
+Al Taubenberger,,,,,0,0,0,0,21
+Matt Wolfe,,,,,,0,0,0,21
+Terry Tracy,,,,,,,0,0,21
+Paul Lalley,,,,,,,,0,21
+Total,1,1,1,1,0,0,0,0,21
+,Judge Of The Commonwealth Court - Republican,Council At Large - Republican,,,,,,,All
+,Paul Lalley,David Oh,Terry Tracy,Daniel Tinney,Matt Wolfe,James Williams,Dennis M O Brien,Al Taubenberger,All
+Paul Lalley,3,45,34,34,31,32,30,24,All
+David Oh,,3,28,26,21,31,28,22,All
+Terry Tracy,,,1,19,18,23,15,8,All
+Daniel Tinney,,,,1,21,16,24,16,All
+Matt Wolfe,,,,,4,11,15,18,All
+James Williams,,,,,,0,17,12,All
+Dennis M O Brien,,,,,,,0,17,All
+Al Taubenberger,,,,,,,,0,All
+Total,70,57,41,40,40,36,35,29,All

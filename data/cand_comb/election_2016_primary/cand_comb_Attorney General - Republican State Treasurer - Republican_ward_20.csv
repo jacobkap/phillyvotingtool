@@ -1,0 +1,61 @@
+col_1,col_2,col_3,col_4,division
+,State Treasurer - Republican,Attorney General - Republican,,All
+,Otto Voit,John Rafferty,Joe Peters,All
+Otto Voit,2,29,21,All
+John Rafferty,,3,0,All
+Joe Peters,,,1,All
+Total,52,32,22,All
+,State Treasurer - Republican,Attorney General - Republican,,1
+,Otto Voit,John Rafferty,Joe Peters,1
+Otto Voit,0,4,2,1
+John Rafferty,,0,0,1
+Joe Peters,,,0,1
+Total,6,4,2,1
+,Attorney General - Republican,,State Treasurer - Republican,2
+,Joe Peters,John Rafferty,Otto Voit,2
+Joe Peters,0,0,1,2
+John Rafferty,,0,0,2
+Otto Voit,,,0,2
+Total,1,0,1,2
+,Attorney General - Republican,,State Treasurer - Republican,3
+,John Rafferty,Joe Peters,Otto Voit,3
+John Rafferty,1,0,1,3
+Joe Peters,,0,1,3
+Otto Voit,,,0,3
+Total,2,1,2,3
+,State Treasurer - Republican,Attorney General - Republican,,5
+,Otto Voit,John Rafferty,Joe Peters,5
+Otto Voit,0,2,1,5
+John Rafferty,,0,0,5
+Joe Peters,,,0,5
+Total,3,2,1,5
+,Attorney General - Republican,,State Treasurer - Republican,6
+,John Rafferty,Joe Peters,Otto Voit,6
+John Rafferty,0,0,1,6
+Joe Peters,,0,0,6
+Otto Voit,,,0,6
+Total,1,0,1,6
+,State Treasurer - Republican,Attorney General - Republican,,7
+,Otto Voit,John Rafferty,Joe Peters,7
+Otto Voit,0,6,4,7
+John Rafferty,,0,0,7
+Joe Peters,,,1,7
+Total,10,6,5,7
+,State Treasurer - Republican,Attorney General - Republican,,9
+,Otto Voit,John Rafferty,Joe Peters,9
+Otto Voit,2,4,0,9
+John Rafferty,,0,0,9
+Joe Peters,,,0,9
+Total,6,4,0,9
+,Attorney General - Republican,,State Treasurer - Republican,10
+,Joe Peters,John Rafferty,Otto Voit,10
+Joe Peters,0,0,2,10
+John Rafferty,,1,0,10
+Otto Voit,,,0,10
+Total,2,1,2,10
+,State Treasurer - Republican,Attorney General - Republican,,11
+,Otto Voit,John Rafferty,Joe Peters,11
+Otto Voit,0,11,10,11
+John Rafferty,,1,0,11
+Joe Peters,,,0,11
+Total,21,12,10,11

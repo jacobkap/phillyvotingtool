@@ -1,0 +1,177 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,division
+,Council At Large - Republican,,,,,,,Register Of Wills - Republican,1
+,David Oh,Matt Wolfe,Al Taubenberger,Daniel Tinney,Dennis M O Brien,James Williams,Terry Tracy,Ross Feinberg,1
+David Oh,0,1,0,0,0,0,0,1,1
+Matt Wolfe,,0,0,0,0,0,0,0,1
+Al Taubenberger,,,0,0,0,0,0,0,1
+Daniel Tinney,,,,0,0,0,0,0,1
+Dennis M O Brien,,,,,0,0,0,0,1
+James Williams,,,,,,0,0,0,1
+Terry Tracy,,,,,,,0,0,1
+Ross Feinberg,,,,,,,,0,1
+Total,2,1,0,0,0,0,0,1,1
+,Register Of Wills - Republican,Council At Large - Republican,,,,,,,3
+,Ross Feinberg,Al Taubenberger,Matt Wolfe,Terry Tracy,Daniel Tinney,David Oh,Dennis M O Brien,James Williams,3
+Ross Feinberg,0,1,1,1,0,0,0,0,3
+Al Taubenberger,,0,1,0,0,0,0,0,3
+Matt Wolfe,,,0,0,0,0,0,0,3
+Terry Tracy,,,,0,0,0,0,0,3
+Daniel Tinney,,,,,0,0,0,0,3
+David Oh,,,,,,0,0,0,3
+Dennis M O Brien,,,,,,,0,0,3
+James Williams,,,,,,,,0,3
+Total,2,1,1,1,0,0,0,0,3
+,Council At Large - Republican,,,,,,,Register Of Wills - Republican,4
+,Al Taubenberger,James Williams,Matt Wolfe,Terry Tracy,Daniel Tinney,David Oh,Dennis M O Brien,Ross Feinberg,4
+Al Taubenberger,0,3,3,3,2,0,0,3,4
+James Williams,,0,3,3,2,0,0,3,4
+Matt Wolfe,,,0,3,2,0,0,3,4
+Terry Tracy,,,,0,2,0,0,3,4
+Daniel Tinney,,,,,0,0,0,2,4
+David Oh,,,,,,0,0,0,4
+Dennis M O Brien,,,,,,,0,0,4
+Ross Feinberg,,,,,,,,0,4
+Total,3,3,3,3,2,0,0,3,4
+,Register Of Wills - Republican,Council At Large - Republican,,,,,,,5
+,Ross Feinberg,Dennis M O Brien,Daniel Tinney,James Williams,Terry Tracy,Matt Wolfe,Al Taubenberger,David Oh,5
+Ross Feinberg,0,6,5,5,5,4,3,3,5
+Dennis M O Brien,,0,5,4,4,4,3,2,5
+Daniel Tinney,,,0,4,3,3,2,2,5
+James Williams,,,,0,4,2,1,3,5
+Terry Tracy,,,,,0,2,2,2,5
+Matt Wolfe,,,,,,0,2,1,5
+Al Taubenberger,,,,,,,0,0,5
+David Oh,,,,,,,,0,5
+Total,7,6,5,5,5,4,3,3,5
+,Council At Large - Republican,,,,,,,Register Of Wills - Republican,7
+,David Oh,James Williams,Terry Tracy,Al Taubenberger,Daniel Tinney,Dennis M O Brien,Matt Wolfe,Ross Feinberg,7
+David Oh,0,1,1,0,0,0,0,1,7
+James Williams,,0,1,0,0,0,0,1,7
+Terry Tracy,,,0,0,0,0,0,1,7
+Al Taubenberger,,,,0,0,0,0,0,7
+Daniel Tinney,,,,,0,0,0,0,7
+Dennis M O Brien,,,,,,0,0,0,7
+Matt Wolfe,,,,,,,0,0,7
+Ross Feinberg,,,,,,,,0,7
+Total,1,1,1,0,0,0,0,1,7
+,Council At Large - Republican,,,,,,,Register Of Wills - Republican,10
+,David Oh,Al Taubenberger,Daniel Tinney,Dennis M O Brien,James Williams,Matt Wolfe,Terry Tracy,Ross Feinberg,10
+David Oh,1,0,0,0,0,0,0,0,10
+Al Taubenberger,,0,0,0,0,0,0,0,10
+Daniel Tinney,,,0,0,0,0,0,0,10
+Dennis M O Brien,,,,0,0,0,0,0,10
+James Williams,,,,,0,0,0,0,10
+Matt Wolfe,,,,,,0,0,0,10
+Terry Tracy,,,,,,,0,0,10
+Ross Feinberg,,,,,,,,1,10
+Total,1,0,0,0,0,0,0,1,10
+,Council At Large - Republican,,,,,,,Register Of Wills - Republican,11
+,James Williams,Al Taubenberger,Daniel Tinney,David Oh,Dennis M O Brien,Matt Wolfe,Terry Tracy,Ross Feinberg,11
+James Williams,0,1,1,1,1,1,1,2,11
+Al Taubenberger,,0,1,0,1,1,0,1,11
+Daniel Tinney,,,0,0,1,1,0,1,11
+David Oh,,,,0,0,0,1,1,11
+Dennis M O Brien,,,,,0,1,0,1,11
+Matt Wolfe,,,,,,0,0,1,11
+Terry Tracy,,,,,,,0,1,11
+Ross Feinberg,,,,,,,,0,11
+Total,2,1,1,1,1,1,1,2,11
+,Council At Large - Republican,,,,,,,Register Of Wills - Republican,12
+,Al Taubenberger,Daniel Tinney,Matt Wolfe,David Oh,James Williams,Terry Tracy,Dennis M O Brien,Ross Feinberg,12
+Al Taubenberger,0,2,2,0,0,0,0,0,12
+Daniel Tinney,,0,2,0,0,0,0,0,12
+Matt Wolfe,,,0,0,0,0,0,0,12
+David Oh,,,,0,1,1,0,1,12
+James Williams,,,,,0,1,0,1,12
+Terry Tracy,,,,,,0,0,1,12
+Dennis M O Brien,,,,,,,0,0,12
+Ross Feinberg,,,,,,,,0,12
+Total,2,2,2,1,1,1,0,1,12
+,Council At Large - Republican,,,,,,,Register Of Wills - Republican,13
+,David Oh,James Williams,Terry Tracy,Dennis M O Brien,Al Taubenberger,Daniel Tinney,Matt Wolfe,Ross Feinberg,13
+David Oh,0,2,2,1,0,0,0,2,13
+James Williams,,0,2,1,0,0,0,2,13
+Terry Tracy,,,0,1,0,0,0,2,13
+Dennis M O Brien,,,,0,0,0,0,1,13
+Al Taubenberger,,,,,0,0,0,0,13
+Daniel Tinney,,,,,,0,0,0,13
+Matt Wolfe,,,,,,,0,0,13
+Ross Feinberg,,,,,,,,0,13
+Total,2,2,2,1,0,0,0,2,13
+,Council At Large - Republican,,,,,,,Register Of Wills - Republican,17
+,Matt Wolfe,Al Taubenberger,Daniel Tinney,David Oh,Dennis M O Brien,James Williams,Terry Tracy,Ross Feinberg,17
+Matt Wolfe,0,0,0,0,0,0,0,1,17
+Al Taubenberger,,0,0,0,0,0,0,0,17
+Daniel Tinney,,,0,0,0,0,0,0,17
+David Oh,,,,0,0,0,0,0,17
+Dennis M O Brien,,,,,0,0,0,0,17
+James Williams,,,,,,0,0,0,17
+Terry Tracy,,,,,,,0,0,17
+Ross Feinberg,,,,,,,,0,17
+Total,1,0,0,0,0,0,0,1,17
+,Council At Large - Republican,,,,,,,Register Of Wills - Republican,18
+,Al Taubenberger,Daniel Tinney,David Oh,Matt Wolfe,Terry Tracy,Dennis M O Brien,James Williams,Ross Feinberg,18
+Al Taubenberger,0,1,1,1,1,0,0,1,18
+Daniel Tinney,,0,1,1,1,0,0,1,18
+David Oh,,,0,1,1,0,0,1,18
+Matt Wolfe,,,,0,1,0,0,1,18
+Terry Tracy,,,,,0,0,0,1,18
+Dennis M O Brien,,,,,,0,0,0,18
+James Williams,,,,,,,0,0,18
+Ross Feinberg,,,,,,,,0,18
+Total,1,1,1,1,1,0,0,1,18
+,Council At Large - Republican,,,,,,,Register Of Wills - Republican,19
+,Daniel Tinney,David Oh,Dennis M O Brien,Al Taubenberger,James Williams,Matt Wolfe,Terry Tracy,Ross Feinberg,19
+Daniel Tinney,2,0,0,0,0,0,0,0,19
+David Oh,,1,1,0,0,0,0,0,19
+Dennis M O Brien,,,0,0,0,0,0,0,19
+Al Taubenberger,,,,0,0,0,0,0,19
+James Williams,,,,,0,0,0,0,19
+Matt Wolfe,,,,,,0,0,0,19
+Terry Tracy,,,,,,,0,0,19
+Ross Feinberg,,,,,,,,0,19
+Total,2,2,1,0,0,0,0,0,19
+,Council At Large - Republican,,,,,,,Register Of Wills - Republican,20
+,Al Taubenberger,Daniel Tinney,Dennis M O Brien,James Williams,Terry Tracy,David Oh,Matt Wolfe,Ross Feinberg,20
+Al Taubenberger,0,1,1,1,1,0,0,1,20
+Daniel Tinney,,0,1,1,1,0,0,1,20
+Dennis M O Brien,,,0,1,1,0,0,1,20
+James Williams,,,,0,1,0,0,1,20
+Terry Tracy,,,,,0,0,0,1,20
+David Oh,,,,,,0,0,0,20
+Matt Wolfe,,,,,,,0,0,20
+Ross Feinberg,,,,,,,,0,20
+Total,1,1,1,1,1,0,0,1,20
+,Council At Large - Republican,,,,,,,Register Of Wills - Republican,21
+,Terry Tracy,Al Taubenberger,Daniel Tinney,Matt Wolfe,David Oh,Dennis M O Brien,James Williams,Ross Feinberg,21
+Terry Tracy,1,2,2,2,1,1,1,5,21
+Al Taubenberger,,0,2,2,0,1,1,2,21
+Daniel Tinney,,,0,2,0,1,1,2,21
+Matt Wolfe,,,,0,0,1,1,2,21
+David Oh,,,,,0,0,0,1,21
+Dennis M O Brien,,,,,,0,0,1,21
+James Williams,,,,,,,0,1,21
+Ross Feinberg,,,,,,,,0,21
+Total,6,2,2,2,1,1,1,5,21
+,Council At Large - Republican,,,,,,,Register Of Wills - Republican,25
+,James Williams,Terry Tracy,Al Taubenberger,Daniel Tinney,David Oh,Dennis M O Brien,Matt Wolfe,Ross Feinberg,25
+James Williams,0,1,0,0,0,0,0,1,25
+Terry Tracy,,0,0,0,0,0,0,1,25
+Al Taubenberger,,,0,0,0,0,0,0,25
+Daniel Tinney,,,,0,0,0,0,0,25
+David Oh,,,,,0,0,0,0,25
+Dennis M O Brien,,,,,,0,0,0,25
+Matt Wolfe,,,,,,,0,0,25
+Ross Feinberg,,,,,,,,0,25
+Total,1,1,0,0,0,0,0,1,25
+,Register Of Wills - Republican,Council At Large - Republican,,,,,,,All
+,Ross Feinberg,Terry Tracy,James Williams,Daniel Tinney,Matt Wolfe,David Oh,Al Taubenberger,Dennis M O Brien,All
+Ross Feinberg,1,22,17,12,13,11,12,10,All
+Terry Tracy,,1,15,9,8,9,9,7,All
+James Williams,,,0,9,7,8,7,7,All
+Daniel Tinney,,,,2,11,3,11,8,All
+Matt Wolfe,,,,,0,3,12,6,All
+David Oh,,,,,,2,1,4,All
+Al Taubenberger,,,,,,,0,6,All
+Dennis M O Brien,,,,,,,,0,All
+Total,29,23,17,16,16,15,14,11,All

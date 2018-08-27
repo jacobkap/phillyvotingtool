@@ -1,0 +1,379 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10,col_11,col_12,division
+,Judge Of The Court Of Common Pleas,,,,,,,,,Justice Of The Supreme Court,,All
+,Vincent Furlong,Stella Tsai,Deborah Canty,Lucretia C Clemons,Shanese Johnson,Mark B Cohen,Vikki Kristiansson,Deborah Cianfrani,Zac Shaffer,Dwayne Woodruff,Sallie Mundy,All
+Vincent Furlong,3,"1,055","1,061","1,058","1,054","1,044","1,062","1,057","1,052",985,317,All
+Stella Tsai,,1,"1,100","1,103","1,090","1,066","1,099","1,085","1,079","1,052",102,All
+Deborah Canty,,,0,"1,100","1,092","1,067","1,094","1,092","1,074","1,042",103,All
+Lucretia C Clemons,,,,0,"1,105","1,071","1,098","1,079","1,088","1,042",95,All
+Shanese Johnson,,,,,4,"1,069","1,087","1,079","1,073","1,045",86,All
+Mark B Cohen,,,,,,4,"1,069","1,066","1,059","1,027",102,All
+Vikki Kristiansson,,,,,,,1,"1,085","1,081","1,023",108,All
+Deborah Cianfrani,,,,,,,,3,"1,062","1,018",106,All
+Zac Shaffer,,,,,,,,,0,"1,009",96,All
+Dwayne Woodruff,,,,,,,,,,29,0,All
+Sallie Mundy,,,,,,,,,,,47,All
+Total,"1,316","1,167","1,155","1,154","1,145","1,144","1,143","1,140","1,119","1,204",392,All
+,Judge Of The Court Of Common Pleas,,,,,,,,,Justice Of The Supreme Court,,1
+,Vincent Furlong,Mark B Cohen,Deborah Canty,Stella Tsai,Vikki Kristiansson,Deborah Cianfrani,Lucretia C Clemons,Shanese Johnson,Zac Shaffer,Dwayne Woodruff,Sallie Mundy,1
+Vincent Furlong,0,26,27,26,27,27,26,26,26,24,8,1
+Mark B Cohen,,0,27,27,28,27,28,28,28,28,2,1
+Deborah Canty,,,0,27,27,27,27,27,27,25,4,1
+Stella Tsai,,,,0,27,27,27,27,27,27,2,1
+Vikki Kristiansson,,,,,0,28,28,28,28,26,3,1
+Deborah Cianfrani,,,,,,0,27,27,27,25,3,1
+Lucretia C Clemons,,,,,,,0,28,28,26,2,1
+Shanese Johnson,,,,,,,,0,28,26,2,1
+Zac Shaffer,,,,,,,,,0,26,2,1
+Dwayne Woodruff,,,,,,,,,,0,0,1
+Sallie Mundy,,,,,,,,,,,0,1
+Total,32,30,29,29,29,28,28,28,28,30,9,1
+,Judge Of The Court Of Common Pleas,,,,,,,,,Justice Of The Supreme Court,,2
+,Mark B Cohen,Stella Tsai,Vikki Kristiansson,Deborah Cianfrani,Deborah Canty,Shanese Johnson,Vincent Furlong,Lucretia C Clemons,Zac Shaffer,Dwayne Woodruff,Sallie Mundy,2
+Mark B Cohen,0,30,33,29,29,30,28,30,30,31,4,2
+Stella Tsai,,0,31,31,32,32,27,31,29,33,2,2
+Vikki Kristiansson,,,0,30,29,31,28,29,30,29,4,2
+Deborah Cianfrani,,,,0,30,28,27,28,28,29,4,2
+Deborah Canty,,,,,0,29,26,29,28,31,2,2
+Shanese Johnson,,,,,,0,27,31,30,30,1,2
+Vincent Furlong,,,,,,,0,26,28,25,5,2
+Lucretia C Clemons,,,,,,,,0,30,29,1,2
+Zac Shaffer,,,,,,,,,0,27,1,2
+Dwayne Woodruff,,,,,,,,,,0,0,2
+Sallie Mundy,,,,,,,,,,,2,2
+Total,37,36,35,34,33,33,33,32,32,36,9,2
+,Justice Of The Supreme Court,,Judge Of The Court Of Common Pleas,,,,,,,,,3
+,Dwayne Woodruff,Sallie Mundy,Vincent Furlong,Deborah Canty,Stella Tsai,Lucretia C Clemons,Vikki Kristiansson,Deborah Cianfrani,Mark B Cohen,Shanese Johnson,Zac Shaffer,3
+Dwayne Woodruff,1,0,18,21,21,21,19,18,19,19,19,3
+Sallie Mundy,,5,8,2,2,1,2,2,1,1,1,3
+Vincent Furlong,,,0,19,18,19,19,18,18,18,19,3
+Deborah Canty,,,,0,20,21,21,20,19,19,20,3
+Stella Tsai,,,,,0,20,20,19,18,19,19,3
+Lucretia C Clemons,,,,,,0,20,19,19,20,20,3
+Vikki Kristiansson,,,,,,,0,20,19,19,20,3
+Deborah Cianfrani,,,,,,,,0,19,19,19,3
+Mark B Cohen,,,,,,,,,0,19,19,3
+Shanese Johnson,,,,,,,,,,0,19,3
+Zac Shaffer,,,,,,,,,,,0,3
+Total,26,14,26,23,23,22,21,20,20,20,20,3
+,Justice Of The Supreme Court,,Judge Of The Court Of Common Pleas,,,,,,,,,4
+,Dwayne Woodruff,Sallie Mundy,Vincent Furlong,Mark B Cohen,Shanese Johnson,Vikki Kristiansson,Zac Shaffer,Deborah Cianfrani,Lucretia C Clemons,Stella Tsai,Deborah Canty,4
+Dwayne Woodruff,4,0,45,49,48,48,48,46,47,47,45,4
+Sallie Mundy,,1,10,4,3,3,3,4,3,3,3,4
+Vincent Furlong,,,1,47,47,47,44,47,46,46,46,4
+Mark B Cohen,,,,0,50,50,47,48,49,48,47,4
+Shanese Johnson,,,,,0,51,48,48,50,49,48,4
+Vikki Kristiansson,,,,,,0,48,48,50,49,48,4
+Zac Shaffer,,,,,,,0,47,47,47,46,4
+Deborah Cianfrani,,,,,,,,0,47,46,47,4
+Lucretia C Clemons,,,,,,,,,0,48,47,4
+Stella Tsai,,,,,,,,,,0,47,4
+Deborah Canty,,,,,,,,,,,0,4
+Total,59,11,56,53,51,51,51,50,50,50,48,4
+,Judge Of The Court Of Common Pleas,,,,,,,,,Justice Of The Supreme Court,,5
+,Vincent Furlong,Deborah Canty,Lucretia C Clemons,Mark B Cohen,Shanese Johnson,Stella Tsai,Vikki Kristiansson,Deborah Cianfrani,Zac Shaffer,Dwayne Woodruff,Sallie Mundy,5
+Vincent Furlong,0,30,29,30,29,29,28,27,26,26,12,5
+Deborah Canty,,0,33,33,32,32,31,30,29,30,2,5
+Lucretia C Clemons,,,0,33,32,32,32,30,29,31,1,5
+Mark B Cohen,,,,0,32,32,32,30,29,30,2,5
+Shanese Johnson,,,,,0,32,31,30,29,30,1,5
+Stella Tsai,,,,,,0,31,30,29,30,1,5
+Vikki Kristiansson,,,,,,,0,30,28,30,0,5
+Deborah Cianfrani,,,,,,,,0,27,28,0,5
+Zac Shaffer,,,,,,,,,0,27,1,5
+Dwayne Woodruff,,,,,,,,,,2,0,5
+Sallie Mundy,,,,,,,,,,,0,5
+Total,40,34,34,34,33,33,32,30,30,36,12,5
+,Judge Of The Court Of Common Pleas,,,,,,,,,Justice Of The Supreme Court,,6
+,Lucretia C Clemons,Vincent Furlong,Deborah Canty,Shanese Johnson,Zac Shaffer,Deborah Cianfrani,Stella Tsai,Mark B Cohen,Vikki Kristiansson,Dwayne Woodruff,Sallie Mundy,6
+Lucretia C Clemons,0,47,47,46,50,46,47,47,44,44,6,6
+Vincent Furlong,,0,45,46,47,45,43,44,44,43,10,6
+Deborah Canty,,,0,46,47,47,44,46,43,45,4,6
+Shanese Johnson,,,,0,46,46,43,47,44,45,5,6
+Zac Shaffer,,,,,0,47,45,47,44,44,5,6
+Deborah Cianfrani,,,,,,0,44,46,45,44,4,6
+Stella Tsai,,,,,,,0,43,43,41,6,6
+Mark B Cohen,,,,,,,,0,43,43,4,6
+Vikki Kristiansson,,,,,,,,,0,41,5,6
+Dwayne Woodruff,,,,,,,,,,0,0,6
+Sallie Mundy,,,,,,,,,,,2,6
+Total,54,53,51,51,51,50,50,49,47,53,14,6
+,Judge Of The Court Of Common Pleas,,,,,,,,,Justice Of The Supreme Court,,7
+,Vincent Furlong,Deborah Canty,Deborah Cianfrani,Lucretia C Clemons,Shanese Johnson,Stella Tsai,Vikki Kristiansson,Mark B Cohen,Zac Shaffer,Dwayne Woodruff,Sallie Mundy,7
+Vincent Furlong,0,65,65,65,65,65,65,65,65,62,9,7
+Deborah Canty,,0,67,67,67,67,67,66,66,64,3,7
+Deborah Cianfrani,,,0,67,67,67,67,66,66,64,3,7
+Lucretia C Clemons,,,,0,67,67,67,66,66,64,3,7
+Shanese Johnson,,,,,0,67,67,66,66,64,3,7
+Stella Tsai,,,,,,0,67,66,66,64,3,7
+Vikki Kristiansson,,,,,,,0,66,66,64,3,7
+Mark B Cohen,,,,,,,,0,66,63,3,7
+Zac Shaffer,,,,,,,,,0,63,3,7
+Dwayne Woodruff,,,,,,,,,,2,0,7
+Sallie Mundy,,,,,,,,,,,0,7
+Total,71,67,67,67,67,67,67,66,66,66,9,7
+,Justice Of The Supreme Court,,Judge Of The Court Of Common Pleas,,,,,,,,,8
+,Dwayne Woodruff,Sallie Mundy,Deborah Canty,Deborah Cianfrani,Shanese Johnson,Stella Tsai,Vincent Furlong,Lucretia C Clemons,Mark B Cohen,Vikki Kristiansson,Zac Shaffer,8
+Dwayne Woodruff,0,0,64,63,65,63,58,63,63,62,60,8
+Sallie Mundy,,1,2,2,0,2,7,1,1,2,0,8
+Deborah Canty,,,0,64,64,63,59,64,63,64,60,8
+Deborah Cianfrani,,,,1,63,62,59,62,63,63,59,8
+Shanese Johnson,,,,,1,61,58,63,63,62,60,8
+Stella Tsai,,,,,,0,58,62,62,63,59,8
+Vincent Furlong,,,,,,,0,58,59,59,58,8
+Lucretia C Clemons,,,,,,,,0,62,63,60,8
+Mark B Cohen,,,,,,,,,0,63,60,8
+Vikki Kristiansson,,,,,,,,,,0,60,8
+Zac Shaffer,,,,,,,,,,,0,8
+Total,67,9,66,66,66,65,65,64,64,64,60,8
+,Justice Of The Supreme Court,,Judge Of The Court Of Common Pleas,,,,,,,,,9
+,Dwayne Woodruff,Sallie Mundy,Stella Tsai,Vikki Kristiansson,Vincent Furlong,Deborah Canty,Lucretia C Clemons,Shanese Johnson,Zac Shaffer,Deborah Cianfrani,Mark B Cohen,9
+Dwayne Woodruff,0,0,33,33,31,33,33,33,32,32,32,9
+Sallie Mundy,,3,1,2,4,1,1,0,1,0,0,9
+Stella Tsai,,,1,34,31,33,34,32,32,31,31,9
+Vikki Kristiansson,,,,0,32,33,34,32,32,31,31,9
+Vincent Furlong,,,,,0,32,31,30,32,29,30,9
+Deborah Canty,,,,,,0,33,32,33,31,31,9
+Lucretia C Clemons,,,,,,,0,32,32,31,31,9
+Shanese Johnson,,,,,,,,1,31,31,31,9
+Zac Shaffer,,,,,,,,,0,30,31,9
+Deborah Cianfrani,,,,,,,,,,0,30,9
+Mark B Cohen,,,,,,,,,,,0,9
+Total,37,7,35,35,35,34,34,34,33,32,32,9
+,Judge Of The Court Of Common Pleas,,,,,,,,,Justice Of The Supreme Court,,10
+,Vincent Furlong,Deborah Canty,Lucretia C Clemons,Mark B Cohen,Shanese Johnson,Deborah Cianfrani,Vikki Kristiansson,Zac Shaffer,Stella Tsai,Dwayne Woodruff,Sallie Mundy,10
+Vincent Furlong,0,50,50,51,50,50,50,50,49,50,8,10
+Deborah Canty,,0,53,53,53,52,52,52,51,54,0,10
+Lucretia C Clemons,,,0,53,53,52,52,52,51,54,0,10
+Mark B Cohen,,,,0,53,52,52,52,51,53,1,10
+Shanese Johnson,,,,,0,52,52,52,51,54,0,10
+Deborah Cianfrani,,,,,,0,52,52,51,52,0,10
+Vikki Kristiansson,,,,,,,0,52,51,52,0,10
+Zac Shaffer,,,,,,,,0,51,52,0,10
+Stella Tsai,,,,,,,,,0,51,0,10
+Dwayne Woodruff,,,,,,,,,,1,0,10
+Sallie Mundy,,,,,,,,,,,1,10
+Total,58,54,54,54,54,52,52,52,51,57,9,10
+,Justice Of The Supreme Court,,Judge Of The Court Of Common Pleas,,,,,,,,,11
+,Dwayne Woodruff,Sallie Mundy,Vincent Furlong,Lucretia C Clemons,Mark B Cohen,Deborah Canty,Deborah Cianfrani,Stella Tsai,Vikki Kristiansson,Zac Shaffer,Shanese Johnson,11
+Dwayne Woodruff,3,0,75,76,76,76,76,75,75,74,74,11
+Sallie Mundy,,2,6,3,3,2,2,2,2,3,2,11
+Vincent Furlong,,,0,76,77,77,77,76,78,77,76,11
+Lucretia C Clemons,,,,0,76,75,76,76,76,77,75,11
+Mark B Cohen,,,,,0,77,77,76,77,77,76,11
+Deborah Canty,,,,,,0,77,76,77,76,76,11
+Deborah Cianfrani,,,,,,,0,76,77,76,76,11
+Stella Tsai,,,,,,,,0,76,76,76,11
+Vikki Kristiansson,,,,,,,,,0,77,76,11
+Zac Shaffer,,,,,,,,,,0,76,11
+Shanese Johnson,,,,,,,,,,,0,11
+Total,84,9,82,81,79,78,78,78,78,78,76,11
+,Justice Of The Supreme Court,,Judge Of The Court Of Common Pleas,,,,,,,,,12
+,Dwayne Woodruff,Sallie Mundy,Stella Tsai,Vincent Furlong,Vikki Kristiansson,Zac Shaffer,Lucretia C Clemons,Mark B Cohen,Deborah Canty,Deborah Cianfrani,Shanese Johnson,12
+Dwayne Woodruff,2,0,36,34,35,36,36,36,34,34,34,12
+Sallie Mundy,,1,6,8,6,5,4,3,5,5,4,12
+Stella Tsai,,,0,39,41,40,38,38,39,39,38,12
+Vincent Furlong,,,,0,39,39,38,37,38,38,38,12
+Vikki Kristiansson,,,,,0,40,38,38,39,39,38,12
+Zac Shaffer,,,,,,0,38,38,38,38,38,12
+Lucretia C Clemons,,,,,,,0,36,38,38,38,12
+Mark B Cohen,,,,,,,,1,36,36,36,12
+Deborah Canty,,,,,,,,,0,39,38,12
+Deborah Cianfrani,,,,,,,,,,0,38,12
+Shanese Johnson,,,,,,,,,,,1,12
+Total,42,10,42,42,41,41,40,40,39,39,39,12
+,Judge Of The Court Of Common Pleas,,,,,,,,,Justice Of The Supreme Court,,13
+,Vincent Furlong,Shanese Johnson,Stella Tsai,Zac Shaffer,Lucretia C Clemons,Vikki Kristiansson,Mark B Cohen,Deborah Canty,Deborah Cianfrani,Dwayne Woodruff,Sallie Mundy,13
+Vincent Furlong,0,61,60,61,60,59,60,59,61,56,14,13
+Shanese Johnson,,0,61,62,62,60,60,60,60,59,4,13
+Stella Tsai,,,0,61,60,59,59,58,59,59,4,13
+Zac Shaffer,,,,0,61,60,61,60,61,58,5,13
+Lucretia C Clemons,,,,,0,60,61,60,60,57,5,13
+Vikki Kristiansson,,,,,,1,59,57,59,56,5,13
+Mark B Cohen,,,,,,,0,60,60,55,6,13
+Deborah Canty,,,,,,,,0,59,55,5,13
+Deborah Cianfrani,,,,,,,,,0,55,5,13
+Dwayne Woodruff,,,,,,,,,,3,0,13
+Sallie Mundy,,,,,,,,,,,1,13
+Total,71,64,64,64,63,63,62,61,61,65,16,13
+,Judge Of The Court Of Common Pleas,,,,,,,,,Justice Of The Supreme Court,,14
+,Vincent Furlong,Stella Tsai,Lucretia C Clemons,Shanese Johnson,Deborah Canty,Deborah Cianfrani,Zac Shaffer,Mark B Cohen,Vikki Kristiansson,Dwayne Woodruff,Sallie Mundy,14
+Vincent Furlong,0,76,76,76,75,75,75,74,74,73,12,14
+Stella Tsai,,0,78,78,76,76,76,75,74,78,3,14
+Lucretia C Clemons,,,0,78,76,76,75,75,74,76,3,14
+Shanese Johnson,,,,0,76,76,75,75,74,76,3,14
+Deborah Canty,,,,,0,75,75,74,74,74,3,14
+Deborah Cianfrani,,,,,,0,75,75,74,75,2,14
+Zac Shaffer,,,,,,,0,74,74,74,2,14
+Mark B Cohen,,,,,,,,0,73,73,2,14
+Vikki Kristiansson,,,,,,,,,0,72,2,14
+Dwayne Woodruff,,,,,,,,,,3,0,14
+Sallie Mundy,,,,,,,,,,,1,14
+Total,85,81,79,79,77,77,76,75,74,84,14,14
+,Judge Of The Court Of Common Pleas,,,,,,,,,Justice Of The Supreme Court,,15
+,Vincent Furlong,Stella Tsai,Deborah Canty,Deborah Cianfrani,Mark B Cohen,Shanese Johnson,Lucretia C Clemons,Vikki Kristiansson,Zac Shaffer,Dwayne Woodruff,Sallie Mundy,15
+Vincent Furlong,0,39,39,39,40,39,39,38,37,36,12,15
+Stella Tsai,,0,40,41,40,40,40,39,38,38,5,15
+Deborah Canty,,,0,41,40,39,39,40,38,38,5,15
+Deborah Cianfrani,,,,0,41,39,39,40,38,38,5,15
+Mark B Cohen,,,,,0,39,39,39,37,37,5,15
+Shanese Johnson,,,,,,1,40,38,37,36,4,15
+Lucretia C Clemons,,,,,,,0,38,37,36,4,15
+Vikki Kristiansson,,,,,,,,0,38,35,5,15
+Zac Shaffer,,,,,,,,,0,33,5,15
+Dwayne Woodruff,,,,,,,,,,1,0,15
+Sallie Mundy,,,,,,,,,,,2,15
+Total,48,44,43,43,42,42,41,40,38,46,15,15
+,Justice Of The Supreme Court,,Judge Of The Court Of Common Pleas,,,,,,,,,16
+,Dwayne Woodruff,Sallie Mundy,Mark B Cohen,Deborah Canty,Vincent Furlong,Lucretia C Clemons,Stella Tsai,Zac Shaffer,Vikki Kristiansson,Deborah Cianfrani,Shanese Johnson,16
+Dwayne Woodruff,0,0,46,47,40,46,45,47,44,43,46,16
+Sallie Mundy,,5,4,3,9,2,3,1,3,3,0,16
+Mark B Cohen,,,1,46,42,45,46,44,46,46,44,16
+Deborah Canty,,,,0,43,47,48,45,47,44,46,16
+Vincent Furlong,,,,,0,42,42,40,42,42,40,16
+Lucretia C Clemons,,,,,,0,46,45,46,43,45,16
+Stella Tsai,,,,,,,0,45,47,44,44,16
+Zac Shaffer,,,,,,,,0,45,42,44,16
+Vikki Kristiansson,,,,,,,,,0,44,44,16
+Deborah Cianfrani,,,,,,,,,,0,42,16
+Shanese Johnson,,,,,,,,,,,0,16
+Total,53,15,51,50,49,48,48,48,47,46,46,16
+,Judge Of The Court Of Common Pleas,,,,,,,,,Justice Of The Supreme Court,,17
+,Vincent Furlong,Stella Tsai,Deborah Canty,Deborah Cianfrani,Lucretia C Clemons,Shanese Johnson,Vikki Kristiansson,Zac Shaffer,Mark B Cohen,Dwayne Woodruff,Sallie Mundy,17
+Vincent Furlong,0,45,45,44,43,43,43,44,41,40,18,17
+Stella Tsai,,0,47,46,45,46,45,44,41,42,9,17
+Deborah Canty,,,0,47,45,46,44,44,41,41,9,17
+Deborah Cianfrani,,,,0,44,45,43,43,41,38,10,17
+Lucretia C Clemons,,,,,0,45,44,44,40,40,7,17
+Shanese Johnson,,,,,,0,44,44,41,40,7,17
+Vikki Kristiansson,,,,,,,0,43,40,39,7,17
+Zac Shaffer,,,,,,,,0,40,38,7,17
+Mark B Cohen,,,,,,,,,0,36,8,17
+Dwayne Woodruff,,,,,,,,,,0,0,17
+Sallie Mundy,,,,,,,,,,,1,17
+Total,58,51,50,48,47,47,46,45,44,48,22,17
+,Judge Of The Court Of Common Pleas,,,,,,,,,Justice Of The Supreme Court,,18
+,Mark B Cohen,Deborah Cianfrani,Vincent Furlong,Stella Tsai,Vikki Kristiansson,Deborah Canty,Lucretia C Clemons,Shanese Johnson,Zac Shaffer,Dwayne Woodruff,Sallie Mundy,18
+Mark B Cohen,1,54,47,54,53,52,53,52,52,44,14,18
+Deborah Cianfrani,,1,47,54,52,52,52,52,52,42,14,18
+Vincent Furlong,,,0,46,46,45,45,46,44,37,20,18
+Stella Tsai,,,,0,52,52,52,52,52,41,14,18
+Vikki Kristiansson,,,,,0,52,52,52,51,43,12,18
+Deborah Canty,,,,,,0,51,51,51,42,12,18
+Lucretia C Clemons,,,,,,,0,52,51,42,11,18
+Shanese Johnson,,,,,,,,0,50,41,12,18
+Zac Shaffer,,,,,,,,,0,40,12,18
+Dwayne Woodruff,,,,,,,,,,1,0,18
+Sallie Mundy,,,,,,,,,,,1,18
+Total,59,57,57,55,55,54,53,53,52,48,25,18
+,Judge Of The Court Of Common Pleas,,,,,,,,,Justice Of The Supreme Court,,19
+,Vincent Furlong,Vikki Kristiansson,Deborah Canty,Lucretia C Clemons,Shanese Johnson,Stella Tsai,Zac Shaffer,Deborah Cianfrani,Mark B Cohen,Dwayne Woodruff,Sallie Mundy,19
+Vincent Furlong,0,39,39,39,39,38,38,37,35,36,23,19
+Vikki Kristiansson,,0,42,42,40,40,40,39,37,36,7,19
+Deborah Canty,,,0,42,40,40,40,39,37,36,6,19
+Lucretia C Clemons,,,,0,40,40,40,39,37,36,6,19
+Shanese Johnson,,,,,0,39,39,38,36,37,4,19
+Stella Tsai,,,,,,0,39,37,37,37,4,19
+Zac Shaffer,,,,,,,0,37,37,35,5,19
+Deborah Cianfrani,,,,,,,,0,34,35,5,19
+Mark B Cohen,,,,,,,,,0,33,5,19
+Dwayne Woodruff,,,,,,,,,,0,0,19
+Sallie Mundy,,,,,,,,,,,3,19
+Total,59,43,42,42,41,41,41,40,39,40,29,19
+,Judge Of The Court Of Common Pleas,,,,,,,,,Justice Of The Supreme Court,,20
+,Vincent Furlong,Shanese Johnson,Stella Tsai,Vikki Kristiansson,Lucretia C Clemons,Deborah Canty,Deborah Cianfrani,Mark B Cohen,Zac Shaffer,Dwayne Woodruff,Sallie Mundy,20
+Vincent Furlong,1,44,46,46,43,42,44,43,45,43,13,20
+Shanese Johnson,,0,47,45,46,45,43,43,42,49,1,20
+Stella Tsai,,,0,48,45,46,44,43,44,47,3,20
+Vikki Kristiansson,,,,0,44,45,45,42,44,45,4,20
+Lucretia C Clemons,,,,,0,43,43,42,42,47,0,20
+Deborah Canty,,,,,,0,42,41,40,45,1,20
+Deborah Cianfrani,,,,,,,0,42,42,42,3,20
+Mark B Cohen,,,,,,,,0,42,43,2,20
+Zac Shaffer,,,,,,,,,0,42,3,20
+Dwayne Woodruff,,,,,,,,,,2,0,20
+Sallie Mundy,,,,,,,,,,,1,20
+Total,57,50,50,49,48,46,46,46,45,54,14,20
+,Judge Of The Court Of Common Pleas,,,,,,,,,Justice Of The Supreme Court,,21
+,Vincent Furlong,Deborah Cianfrani,Mark B Cohen,Shanese Johnson,Deborah Canty,Vikki Kristiansson,Lucretia C Clemons,Stella Tsai,Zac Shaffer,Dwayne Woodruff,Sallie Mundy,21
+Vincent Furlong,0,21,21,21,21,20,20,20,20,20,10,21
+Deborah Cianfrani,,0,20,20,20,20,20,20,20,20,1,21
+Mark B Cohen,,,1,20,20,20,20,20,20,19,2,21
+Shanese Johnson,,,,0,21,20,20,20,20,21,1,21
+Deborah Canty,,,,,0,20,20,20,20,20,1,21
+Vikki Kristiansson,,,,,,0,20,20,20,20,1,21
+Lucretia C Clemons,,,,,,,0,20,20,19,1,21
+Stella Tsai,,,,,,,,0,20,19,1,21
+Zac Shaffer,,,,,,,,,0,19,1,21
+Dwayne Woodruff,,,,,,,,,,1,0,21
+Sallie Mundy,,,,,,,,,,,5,21
+Total,31,22,22,22,21,21,20,20,20,24,15,21
+,Judge Of The Court Of Common Pleas,,,,,,,,,Justice Of The Supreme Court,,22
+,Vincent Furlong,Lucretia C Clemons,Vikki Kristiansson,Deborah Canty,Deborah Cianfrani,Shanese Johnson,Zac Shaffer,Mark B Cohen,Stella Tsai,Dwayne Woodruff,Sallie Mundy,22
+Vincent Furlong,0,25,25,24,26,25,24,21,23,22,15,22
+Lucretia C Clemons,,0,27,25,26,25,26,24,25,23,4,22
+Vikki Kristiansson,,,0,25,26,25,25,23,24,23,4,22
+Deborah Canty,,,,0,24,23,23,23,24,24,3,22
+Deborah Cianfrani,,,,,0,25,24,22,24,21,5,22
+Shanese Johnson,,,,,,0,25,21,22,21,5,22
+Zac Shaffer,,,,,,,0,23,23,21,5,22
+Mark B Cohen,,,,,,,,0,23,24,2,22
+Stella Tsai,,,,,,,,,0,22,3,22
+Dwayne Woodruff,,,,,,,,,,1,0,22
+Sallie Mundy,,,,,,,,,,,1,22
+Total,38,28,28,27,27,27,27,26,25,30,17,22
+,Judge Of The Court Of Common Pleas,,,,,,,,,Justice Of The Supreme Court,,23
+,Vincent Furlong,Lucretia C Clemons,Deborah Canty,Stella Tsai,Vikki Kristiansson,Deborah Cianfrani,Shanese Johnson,Zac Shaffer,Mark B Cohen,Dwayne Woodruff,Sallie Mundy,23
+Vincent Furlong,0,34,33,32,34,32,32,33,29,24,17,23
+Lucretia C Clemons,,0,35,35,35,35,35,35,29,27,9,23
+Deborah Canty,,,0,35,35,35,33,34,29,26,8,23
+Stella Tsai,,,,0,35,35,34,35,29,27,8,23
+Vikki Kristiansson,,,,,0,34,34,35,30,25,10,23
+Deborah Cianfrani,,,,,,0,34,34,29,26,7,23
+Shanese Johnson,,,,,,,0,34,30,27,8,23
+Zac Shaffer,,,,,,,,0,30,26,9,23
+Mark B Cohen,,,,,,,,,0,25,7,23
+Dwayne Woodruff,,,,,,,,,,1,0,23
+Sallie Mundy,,,,,,,,,,,3,23
+Total,42,38,37,37,37,36,36,36,32,32,20,23
+,Judge Of The Court Of Common Pleas,,,,,,,,,Justice Of The Supreme Court,,24
+,Vincent Furlong,Shanese Johnson,Stella Tsai,Deborah Canty,Deborah Cianfrani,Lucretia C Clemons,Vikki Kristiansson,Mark B Cohen,Zac Shaffer,Dwayne Woodruff,Sallie Mundy,24
+Vincent Furlong,0,28,27,28,27,28,26,28,26,22,12,24
+Shanese Johnson,,0,28,29,29,29,28,28,26,24,7,24
+Stella Tsai,,,0,29,28,29,28,26,27,26,5,24
+Deborah Canty,,,,0,29,29,28,27,27,24,6,24
+Deborah Cianfrani,,,,,0,28,27,27,26,24,6,24
+Lucretia C Clemons,,,,,,0,28,27,27,24,6,24
+Vikki Kristiansson,,,,,,,0,25,27,24,5,24
+Mark B Cohen,,,,,,,,0,25,21,7,24
+Zac Shaffer,,,,,,,,,0,22,5,24
+Dwayne Woodruff,,,,,,,,,,0,0,24
+Sallie Mundy,,,,,,,,,,,0,24
+Total,34,31,31,30,30,30,29,28,27,28,12,24
+,Judge Of The Court Of Common Pleas,,,,,,,,,Justice Of The Supreme Court,,25
+,Vincent Furlong,Deborah Canty,Mark B Cohen,Deborah Cianfrani,Lucretia C Clemons,Stella Tsai,Vikki Kristiansson,Zac Shaffer,Shanese Johnson,Sallie Mundy,Dwayne Woodruff,25
+Vincent Furlong,0,25,22,22,24,24,24,24,21,29,19,25
+Deborah Canty,,0,24,24,25,24,25,26,23,6,21,25
+Mark B Cohen,,,0,24,23,23,23,23,22,5,21,25
+Deborah Cianfrani,,,,0,22,22,22,23,22,5,20,25
+Lucretia C Clemons,,,,,0,24,26,25,23,6,19,25
+Stella Tsai,,,,,,0,24,24,21,5,20,25
+Vikki Kristiansson,,,,,,,0,25,23,6,19,25
+Zac Shaffer,,,,,,,,0,22,5,20,25
+Shanese Johnson,,,,,,,,,0,3,20,25
+Sallie Mundy,,,,,,,,,,2,0,25
+Dwayne Woodruff,,,,,,,,,,,0,25
+Total,49,29,28,26,26,26,26,26,24,35,24,25
+,Judge Of The Court Of Common Pleas,,,,,,,,,Justice Of The Supreme Court,,26
+,Vincent Furlong,Deborah Cianfrani,Stella Tsai,Vikki Kristiansson,Deborah Canty,Mark B Cohen,Zac Shaffer,Lucretia C Clemons,Shanese Johnson,Dwayne Woodruff,Sallie Mundy,26
+Vincent Furlong,1,31,30,30,29,29,30,29,29,26,18,26
+Deborah Cianfrani,,1,32,30,30,28,29,29,29,28,6,26
+Stella Tsai,,,0,31,30,28,31,31,31,30,5,26
+Vikki Kristiansson,,,,0,29,27,29,29,29,28,5,26
+Deborah Canty,,,,,0,26,29,29,29,27,5,26
+Mark B Cohen,,,,,,0,27,26,27,27,5,26
+Zac Shaffer,,,,,,,0,31,30,26,6,26
+Lucretia C Clemons,,,,,,,,0,30,26,5,26
+Shanese Johnson,,,,,,,,,0,26,5,26
+Dwayne Woodruff,,,,,,,,,,1,0,26
+Sallie Mundy,,,,,,,,,,,3,26
+Total,45,35,35,33,32,32,32,31,31,35,21,26

@@ -1,40 +1,10 @@
 col_1,col_2,col_3,col_4,division
-,Judge Of The Commonwealth Court,,District Council 1st District,1
-,Michael Wojcik,Paul Lalley,Mark F Squilla,1
-Michael Wojcik,91,0,0,1
-Paul Lalley,,49,0,1
-Mark F Squilla,,,0,1
-Total,91,49,0,1
-,Judge Of The Commonwealth Court,,District Council 1st District,2
-,Michael Wojcik,Paul Lalley,Mark F Squilla,2
-Michael Wojcik,53,0,0,2
-Paul Lalley,,21,0,2
-Mark F Squilla,,,0,2
-Total,53,21,0,2
-,Judge Of The Commonwealth Court,,District Council 1st District,3
-,Michael Wojcik,Paul Lalley,Mark F Squilla,3
-Michael Wojcik,138,0,0,3
-Paul Lalley,,83,0,3
-Mark F Squilla,,,0,3
-Total,138,83,0,3
-,Judge Of The Commonwealth Court,,District Council 1st District,4
-,Michael Wojcik,Paul Lalley,Mark F Squilla,4
-Michael Wojcik,129,0,0,4
-Paul Lalley,,65,0,4
-Mark F Squilla,,,0,4
-Total,129,65,0,4
-,Judge Of The Commonwealth Court,,District Council 1st District,5
-,Michael Wojcik,Paul Lalley,Mark F Squilla,5
-Michael Wojcik,85,0,0,5
-Paul Lalley,,55,0,5
-Mark F Squilla,,,0,5
-Total,85,55,0,5
-,Judge Of The Commonwealth Court,,District Council 1st District,6
-,Michael Wojcik,Paul Lalley,Mark F Squilla,6
-Michael Wojcik,60,0,0,6
-Paul Lalley,,22,0,6
-Mark F Squilla,,,0,6
-Total,60,22,0,6
+,District Council 1st District,Judge Of The Commonwealth Court,,All
+,Mark F Squilla,Michael Wojcik,Paul Lalley,All
+Mark F Squilla,83,535,68,All
+Michael Wojcik,,78,0,All
+Paul Lalley,,,139,All
+Total,686,613,207,All
 ,District Council 1st District,Judge Of The Commonwealth Court,,7
 ,Mark F Squilla,Michael Wojcik,Paul Lalley,7
 Mark F Squilla,9,52,9,7
@@ -65,12 +35,6 @@ Mark F Squilla,3,33,5,11
 Michael Wojcik,,5,0,11
 Paul Lalley,,,2,11
 Total,41,38,7,11
-,Judge Of The Commonwealth Court,,District Council 1st District,12
-,Michael Wojcik,Paul Lalley,Mark F Squilla,12
-Michael Wojcik,26,0,0,12
-Paul Lalley,,11,0,12
-Mark F Squilla,,,0,12
-Total,26,11,0,12
 ,District Council 1st District,Judge Of The Commonwealth Court,,13
 ,Mark F Squilla,Michael Wojcik,Paul Lalley,13
 Mark F Squilla,7,31,4,13
@@ -83,12 +47,6 @@ Michael Wojcik,5,0,8,14
 Paul Lalley,,2,1,14
 Mark F Squilla,,,3,14
 Total,13,3,12,14
-,Judge Of The Commonwealth Court,,District Council 1st District,15
-,Michael Wojcik,Paul Lalley,Mark F Squilla,15
-Michael Wojcik,76,0,0,15
-Paul Lalley,,29,0,15
-Mark F Squilla,,,0,15
-Total,76,29,0,15
 ,District Council 1st District,Judge Of The Commonwealth Court,,16
 ,Mark F Squilla,Michael Wojcik,Paul Lalley,16
 Mark F Squilla,4,29,4,16
@@ -113,12 +71,6 @@ Mark F Squilla,4,23,4,19
 Michael Wojcik,,3,0,19
 Paul Lalley,,,6,19
 Total,31,26,10,19
-,Judge Of The Commonwealth Court,,District Council 1st District,20
-,Michael Wojcik,Paul Lalley,Mark F Squilla,20
-Michael Wojcik,112,0,0,20
-Paul Lalley,,63,0,20
-Mark F Squilla,,,0,20
-Total,112,63,0,20
 ,District Council 1st District,Judge Of The Commonwealth Court,,21
 ,Mark F Squilla,Michael Wojcik,Paul Lalley,21
 Mark F Squilla,6,21,1,21
@@ -131,27 +83,9 @@ Mark F Squilla,20,70,13,22
 Michael Wojcik,,15,0,22
 Paul Lalley,,,20,22
 Total,103,85,33,22
-,Judge Of The Commonwealth Court,,District Council 1st District,23
-,Michael Wojcik,Paul Lalley,Mark F Squilla,23
-Michael Wojcik,98,0,0,23
-Paul Lalley,,41,0,23
-Mark F Squilla,,,0,23
-Total,98,41,0,23
 ,District Council 1st District,Judge Of The Commonwealth Court,,24
 ,Mark F Squilla,Michael Wojcik,Paul Lalley,24
 Mark F Squilla,19,97,10,24
 Michael Wojcik,,8,0,24
 Paul Lalley,,,47,24
 Total,126,105,57,24
-,Judge Of The Commonwealth Court,,District Council 1st District,25
-,Michael Wojcik,Paul Lalley,Mark F Squilla,25
-Michael Wojcik,79,0,0,25
-Paul Lalley,,33,0,25
-Mark F Squilla,,,0,25
-Total,79,33,0,25
-,Judge Of The Commonwealth Court,,District Council 1st District,All
-,Michael Wojcik,Paul Lalley,Mark F Squilla,All
-Michael Wojcik,"1,025",0,535,All
-Paul Lalley,,611,68,All
-Mark F Squilla,,,83,All
-Total,"1,560",679,686,All

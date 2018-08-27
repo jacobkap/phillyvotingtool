@@ -1,0 +1,631 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10,col_11,col_12,col_13,col_14,col_15,col_16,col_17,col_18,col_19,division
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,,,,,,,,All
+,Vincent Furlong,Mark B Cohen,Deborah Cianfrani,Deborah Canty,Vikki Kristiansson,Zac Shaffer,Stella Tsai,Lucretia C Clemons,Shanese Johnson,Maria Mclaughlin,Carolyn H Nichols,Debbie Kunselman,Mary Murray,Emil Giordano,Geoff Moulton,Craig Stedman,Wade A Kagarise,Jules Mermelstein,All
+Vincent Furlong,24,"1,007","1,009","1,016","1,015","1,006",978,973,935,953,862,848,875,860,801,807,790,55,All
+Mark B Cohen,,4,"1,001",990,978,982,968,950,949,903,865,830,216,182,785,158,157,44,All
+Deborah Cianfrani,,,3,"1,017","1,004",974,978,966,960,917,869,848,216,186,781,150,144,48,All
+Deborah Canty,,,,2,"1,025","1,004","1,003",995,976,924,882,866,207,184,803,158,139,47,All
+Vikki Kristiansson,,,,,2,"1,011","1,011",998,965,919,875,850,205,186,800,161,149,45,All
+Zac Shaffer,,,,,,0,988,987,953,902,853,831,195,177,798,152,134,40,All
+Stella Tsai,,,,,,,4,995,960,899,861,842,187,164,799,144,133,46,All
+Lucretia C Clemons,,,,,,,,0,966,894,855,833,169,154,794,134,122,44,All
+Shanese Johnson,,,,,,,,,1,860,841,809,166,141,776,120,119,43,All
+Maria Mclaughlin,,,,,,,,,,27,924,904,138,100,821,42,64,32,All
+Carolyn H Nichols,,,,,,,,,,,0,876,92,36,806,34,34,36,All
+Debbie Kunselman,,,,,,,,,,,,3,87,75,812,46,14,36,All
+Mary Murray,,,,,,,,,,,,,11,817,20,783,787,23,All
+Emil Giordano,,,,,,,,,,,,,,8,59,800,792,20,All
+Geoff Moulton,,,,,,,,,,,,,,,1,48,22,15,All
+Craig Stedman,,,,,,,,,,,,,,,,5,761,12,All
+Wade A Kagarise,,,,,,,,,,,,,,,,,2,12,All
+Jules Mermelstein,,,,,,,,,,,,,,,,,,4,All
+Total,"1,873","1,122","1,121","1,119","1,107","1,085","1,080","1,057","1,015","1,191","1,026",990,978,955,895,877,853,75,All
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,,,,,,,,1
+,Vincent Furlong,Lucretia C Clemons,Mark B Cohen,Zac Shaffer,Stella Tsai,Deborah Canty,Deborah Cianfrani,Shanese Johnson,Vikki Kristiansson,Maria Mclaughlin,Carolyn H Nichols,Debbie Kunselman,Emil Giordano,Geoff Moulton,Craig Stedman,Mary Murray,Wade A Kagarise,Jules Mermelstein,1
+Vincent Furlong,0,31,29,29,30,29,28,29,29,31,28,28,26,25,25,26,23,3,1
+Lucretia C Clemons,,0,30,32,31,31,29,31,31,31,29,29,4,27,4,2,2,2,1
+Mark B Cohen,,,0,29,30,29,28,30,29,30,27,26,3,26,4,3,3,1,1
+Zac Shaffer,,,,0,30,29,28,30,30,31,27,28,4,27,4,2,2,1,1
+Stella Tsai,,,,,0,29,29,30,30,30,27,28,3,27,4,3,3,2,1
+Deborah Canty,,,,,,0,28,29,29,28,26,27,3,25,3,2,2,2,1
+Deborah Cianfrani,,,,,,,0,27,28,27,25,27,4,24,4,3,3,2,1
+Shanese Johnson,,,,,,,,0,29,29,27,27,2,27,3,2,2,1,1
+Vikki Kristiansson,,,,,,,,,0,29,27,27,3,26,4,2,2,2,1
+Maria Mclaughlin,,,,,,,,,,0,29,29,3,28,3,1,0,2,1
+Carolyn H Nichols,,,,,,,,,,,0,26,2,26,1,1,0,2,1
+Debbie Kunselman,,,,,,,,,,,,0,2,26,1,1,0,2,1
+Emil Giordano,,,,,,,,,,,,,0,1,25,25,22,1,1
+Geoff Moulton,,,,,,,,,,,,,,0,1,0,0,0,1
+Craig Stedman,,,,,,,,,,,,,,,0,23,22,1,1
+Mary Murray,,,,,,,,,,,,,,,,0,22,1,1
+Wade A Kagarise,,,,,,,,,,,,,,,,,0,0,1
+Jules Mermelstein,,,,,,,,,,,,,,,,,,0,1
+Total,58,34,34,34,33,32,31,31,31,40,31,30,28,28,26,26,23,3,1
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,,,,,,,,2
+,Vincent Furlong,Deborah Cianfrani,Mark B Cohen,Lucretia C Clemons,Zac Shaffer,Deborah Canty,Vikki Kristiansson,Shanese Johnson,Stella Tsai,Maria Mclaughlin,Carolyn H Nichols,Debbie Kunselman,Geoff Moulton,Mary Murray,Emil Giordano,Craig Stedman,Wade A Kagarise,Jules Mermelstein,2
+Vincent Furlong,0,53,53,49,52,50,51,48,49,48,45,44,41,20,16,15,13,3,2
+Deborah Cianfrani,,0,56,52,52,53,52,52,52,51,48,47,42,11,8,6,4,2,2
+Mark B Cohen,,,0,51,53,52,51,51,52,50,48,47,43,12,9,8,6,2,2
+Lucretia C Clemons,,,,0,54,55,54,56,52,54,51,47,45,6,3,3,2,1,2
+Zac Shaffer,,,,,0,54,55,53,52,54,50,48,45,8,4,5,3,1,2
+Deborah Canty,,,,,,0,55,54,53,54,51,48,45,7,3,4,2,1,2
+Vikki Kristiansson,,,,,,,0,53,53,54,51,48,46,7,3,4,2,1,2
+Shanese Johnson,,,,,,,,0,52,52,50,46,44,6,3,3,2,1,2
+Stella Tsai,,,,,,,,,0,51,49,47,44,7,3,4,2,1,2
+Maria Mclaughlin,,,,,,,,,,1,54,51,49,5,1,2,0,1,2
+Carolyn H Nichols,,,,,,,,,,,0,50,48,4,1,1,0,1,2
+Debbie Kunselman,,,,,,,,,,,,1,46,3,0,1,0,1,2
+Geoff Moulton,,,,,,,,,,,,,0,0,0,0,0,0,2
+Mary Murray,,,,,,,,,,,,,,0,17,15,14,1,2
+Emil Giordano,,,,,,,,,,,,,,,0,14,15,1,2
+Craig Stedman,,,,,,,,,,,,,,,,0,13,1,2
+Wade A Kagarise,,,,,,,,,,,,,,,,,0,1,2
+Jules Mermelstein,,,,,,,,,,,,,,,,,,1,2
+Total,65,59,59,58,58,57,57,56,54,62,54,52,49,21,19,17,15,4,2
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,,,,,,,,3
+,Vincent Furlong,Deborah Canty,Lucretia C Clemons,Shanese Johnson,Stella Tsai,Vikki Kristiansson,Mark B Cohen,Zac Shaffer,Deborah Cianfrani,Maria Mclaughlin,Carolyn H Nichols,Debbie Kunselman,Geoff Moulton,Emil Giordano,Mary Murray,Craig Stedman,Wade A Kagarise,Jules Mermelstein,3
+Vincent Furlong,1,30,28,29,29,30,28,28,27,29,25,26,26,26,26,26,25,2,3
+Deborah Canty,,0,29,30,29,30,28,29,28,27,27,25,28,3,4,4,4,0,3
+Lucretia C Clemons,,,0,29,30,29,27,28,26,27,27,25,26,3,4,4,4,0,3
+Shanese Johnson,,,,0,30,30,28,29,28,26,27,25,26,3,4,4,4,0,3
+Stella Tsai,,,,,0,30,28,29,27,26,26,24,25,4,5,5,5,0,3
+Vikki Kristiansson,,,,,,0,29,29,28,25,26,24,26,4,5,5,5,0,3
+Mark B Cohen,,,,,,,0,27,27,24,24,23,25,4,5,5,5,0,3
+Zac Shaffer,,,,,,,,0,27,25,25,23,25,3,4,4,4,0,3
+Deborah Cianfrani,,,,,,,,,0,23,24,22,24,3,4,4,4,0,3
+Maria Mclaughlin,,,,,,,,,,1,29,27,26,1,2,0,0,1,3
+Carolyn H Nichols,,,,,,,,,,,0,27,26,0,1,0,0,0,3
+Debbie Kunselman,,,,,,,,,,,,0,25,1,2,0,0,0,3
+Geoff Moulton,,,,,,,,,,,,,0,0,1,1,1,0,3
+Emil Giordano,,,,,,,,,,,,,,1,25,25,24,1,3
+Mary Murray,,,,,,,,,,,,,,,0,25,24,0,3
+Craig Stedman,,,,,,,,,,,,,,,,0,25,1,3
+Wade A Kagarise,,,,,,,,,,,,,,,,,0,1,3
+Jules Mermelstein,,,,,,,,,,,,,,,,,,0,3
+Total,58,32,31,31,31,31,30,29,28,36,30,29,28,27,27,26,25,2,3
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,,,,,,,,4
+,Vincent Furlong,Stella Tsai,Mark B Cohen,Deborah Canty,Deborah Cianfrani,Vikki Kristiansson,Lucretia C Clemons,Zac Shaffer,Shanese Johnson,Carolyn H Nichols,Maria Mclaughlin,Debbie Kunselman,Geoff Moulton,Wade A Kagarise,Emil Giordano,Mary Murray,Craig Stedman,Jules Mermelstein,4
+Vincent Furlong,0,28,27,27,27,26,25,25,23,24,25,23,23,22,21,21,20,4,4
+Stella Tsai,,1,29,31,30,30,29,29,27,27,28,24,27,4,4,3,5,3,4
+Mark B Cohen,,,0,28,28,27,26,26,25,27,24,23,24,3,3,3,4,3,4
+Deborah Canty,,,,0,28,29,27,29,25,25,26,23,25,3,3,3,4,3,4
+Deborah Cianfrani,,,,,0,29,28,27,26,24,24,22,25,4,4,3,5,3,4
+Vikki Kristiansson,,,,,,0,28,28,26,24,24,22,25,4,4,3,5,3,4
+Lucretia C Clemons,,,,,,,0,27,25,25,25,23,26,3,3,2,4,3,4
+Zac Shaffer,,,,,,,,0,25,24,25,22,24,3,3,3,4,3,4
+Shanese Johnson,,,,,,,,,0,24,21,20,23,4,3,2,4,3,4
+Carolyn H Nichols,,,,,,,,,,0,26,25,25,1,0,0,1,2,4
+Maria Mclaughlin,,,,,,,,,,,2,26,24,2,1,2,1,1,4
+Debbie Kunselman,,,,,,,,,,,,0,23,1,1,1,0,1,4
+Geoff Moulton,,,,,,,,,,,,,0,2,1,0,3,1,4
+Wade A Kagarise,,,,,,,,,,,,,,1,24,22,19,3,4
+Emil Giordano,,,,,,,,,,,,,,,0,22,20,3,4
+Mary Murray,,,,,,,,,,,,,,,,1,19,3,4
+Craig Stedman,,,,,,,,,,,,,,,,,0,1,4
+Jules Mermelstein,,,,,,,,,,,,,,,,,,0,4
+Total,48,36,33,31,30,30,29,29,28,32,32,28,27,27,26,24,23,5,4
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,,,,,,,,5
+,Vincent Furlong,Deborah Cianfrani,Mark B Cohen,Vikki Kristiansson,Shanese Johnson,Deborah Canty,Stella Tsai,Zac Shaffer,Lucretia C Clemons,Maria Mclaughlin,Debbie Kunselman,Geoff Moulton,Carolyn H Nichols,Emil Giordano,Mary Murray,Wade A Kagarise,Craig Stedman,Jules Mermelstein,5
+Vincent Furlong,0,38,35,36,34,35,33,34,33,36,29,31,28,23,21,20,18,2,5
+Deborah Cianfrani,,0,37,38,36,36,35,36,34,41,32,33,30,10,10,6,4,2,5
+Mark B Cohen,,,0,35,34,36,35,35,35,37,29,31,30,8,8,6,5,2,5
+Vikki Kristiansson,,,,0,37,36,35,36,34,38,31,31,29,10,9,5,3,2,5
+Shanese Johnson,,,,,0,36,34,35,34,35,31,31,28,8,9,4,2,2,5
+Deborah Canty,,,,,,0,35,35,35,35,30,31,29,7,8,5,3,2,5
+Stella Tsai,,,,,,,0,34,34,34,28,29,29,5,7,5,3,2,5
+Zac Shaffer,,,,,,,,0,34,35,28,31,27,8,8,5,2,2,5
+Lucretia C Clemons,,,,,,,,,0,32,27,30,27,6,6,5,3,2,5
+Maria Mclaughlin,,,,,,,,,,0,33,32,30,9,9,4,3,2,5
+Debbie Kunselman,,,,,,,,,,,0,28,28,3,4,0,1,2,5
+Geoff Moulton,,,,,,,,,,,,0,28,4,2,3,1,1,5
+Carolyn H Nichols,,,,,,,,,,,,,0,2,2,1,0,0,5
+Emil Giordano,,,,,,,,,,,,,,1,22,21,17,0,5
+Mary Murray,,,,,,,,,,,,,,,0,17,16,1,5
+Wade A Kagarise,,,,,,,,,,,,,,,,0,17,0,5
+Craig Stedman,,,,,,,,,,,,,,,,,1,0,5
+Jules Mermelstein,,,,,,,,,,,,,,,,,,0,5
+Total,53,44,43,40,39,38,37,37,35,46,34,34,33,28,26,22,21,2,5
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,,,,,,,,6
+,Vincent Furlong,Deborah Cianfrani,Mark B Cohen,Lucretia C Clemons,Vikki Kristiansson,Zac Shaffer,Stella Tsai,Deborah Canty,Shanese Johnson,Mary Murray,Craig Stedman,Emil Giordano,Maria Mclaughlin,Wade A Kagarise,Carolyn H Nichols,Debbie Kunselman,Geoff Moulton,Jules Mermelstein,6
+Vincent Furlong,0,28,27,29,29,29,27,27,27,35,37,34,28,35,27,26,26,1,6
+Deborah Cianfrani,,1,31,30,30,30,31,30,30,2,1,1,30,1,30,30,29,1,6
+Mark B Cohen,,,0,30,30,30,31,30,30,3,1,1,30,1,31,32,30,2,6
+Lucretia C Clemons,,,,0,32,32,30,30,30,1,1,0,30,1,29,29,29,1,6
+Vikki Kristiansson,,,,,0,32,30,30,30,1,1,0,30,1,29,29,29,1,6
+Zac Shaffer,,,,,,0,30,30,30,1,1,0,30,1,29,29,29,1,6
+Stella Tsai,,,,,,,0,30,30,2,1,1,29,1,29,30,29,1,6
+Deborah Canty,,,,,,,,0,30,1,1,0,28,1,29,29,29,1,6
+Shanese Johnson,,,,,,,,,0,1,1,0,28,1,29,29,29,1,6
+Mary Murray,,,,,,,,,,0,35,36,2,35,1,3,0,2,6
+Craig Stedman,,,,,,,,,,,0,34,0,35,0,0,0,1,6
+Emil Giordano,,,,,,,,,,,,0,2,34,0,2,0,0,6
+Maria Mclaughlin,,,,,,,,,,,,,0,0,31,31,29,0,6
+Wade A Kagarise,,,,,,,,,,,,,,0,0,0,0,1,6
+Carolyn H Nichols,,,,,,,,,,,,,,,0,31,30,1,6
+Debbie Kunselman,,,,,,,,,,,,,,,,0,30,1,6
+Geoff Moulton,,,,,,,,,,,,,,,,,0,0,6
+Jules Mermelstein,,,,,,,,,,,,,,,,,,0,6
+Total,66,33,33,32,32,32,31,30,30,38,37,36,35,35,33,33,30,2,6
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,,,,,,,,7
+,Vincent Furlong,Vikki Kristiansson,Mark B Cohen,Zac Shaffer,Deborah Canty,Lucretia C Clemons,Stella Tsai,Deborah Cianfrani,Shanese Johnson,Carolyn H Nichols,Maria Mclaughlin,Debbie Kunselman,Geoff Moulton,Emil Giordano,Mary Murray,Craig Stedman,Wade A Kagarise,Jules Mermelstein,7
+Vincent Furlong,3,49,44,47,46,44,43,41,40,42,43,41,37,25,21,21,18,2,7
+Vikki Kristiansson,,1,47,54,53,53,53,46,48,50,50,45,39,9,7,5,3,3,7
+Mark B Cohen,,,1,47,49,44,45,48,45,51,47,42,37,7,8,3,3,4,7
+Zac Shaffer,,,,0,53,54,51,45,48,48,50,44,40,9,7,5,3,2,7
+Deborah Canty,,,,,0,50,50,46,48,50,47,44,40,9,8,5,4,2,7
+Lucretia C Clemons,,,,,,0,51,44,46,46,48,43,39,7,5,3,2,2,7
+Stella Tsai,,,,,,,0,44,47,48,48,45,39,6,5,3,2,3,7
+Deborah Cianfrani,,,,,,,,0,44,46,44,40,35,5,7,1,1,3,7
+Shanese Johnson,,,,,,,,,0,46,45,41,37,5,6,1,1,2,7
+Carolyn H Nichols,,,,,,,,,,0,53,47,42,3,5,0,0,3,7
+Maria Mclaughlin,,,,,,,,,,,1,46,42,5,4,1,1,3,7
+Debbie Kunselman,,,,,,,,,,,,1,41,5,3,3,1,3,7
+Geoff Moulton,,,,,,,,,,,,,0,3,0,2,0,0,7
+Emil Giordano,,,,,,,,,,,,,,0,20,20,18,1,7
+Mary Murray,,,,,,,,,,,,,,,2,16,17,1,7
+Craig Stedman,,,,,,,,,,,,,,,,0,17,0,7
+Wade A Kagarise,,,,,,,,,,,,,,,,,0,0,7
+Jules Mermelstein,,,,,,,,,,,,,,,,,,0,7
+Total,70,60,58,58,57,54,54,51,49,62,61,52,44,26,25,22,18,4,7
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,,,,,,,,8
+,Vincent Furlong,Mark B Cohen,Vikki Kristiansson,Deborah Cianfrani,Stella Tsai,Deborah Canty,Zac Shaffer,Lucretia C Clemons,Shanese Johnson,Mary Murray,Emil Giordano,Wade A Kagarise,Craig Stedman,Maria Mclaughlin,Carolyn H Nichols,Debbie Kunselman,Geoff Moulton,Jules Mermelstein,8
+Vincent Furlong,1,36,35,34,34,32,35,33,30,44,39,40,39,29,27,28,23,1,8
+Mark B Cohen,,0,32,33,31,28,32,31,30,13,8,9,8,26,23,23,21,1,8
+Vikki Kristiansson,,,0,33,33,31,33,32,32,16,9,12,10,25,25,24,20,1,8
+Deborah Cianfrani,,,,0,32,31,32,31,32,13,8,9,8,26,25,25,21,1,8
+Stella Tsai,,,,,0,30,32,33,31,15,10,11,10,24,24,24,21,1,8
+Deborah Canty,,,,,,0,30,29,29,12,11,10,9,22,22,23,20,1,8
+Zac Shaffer,,,,,,,0,31,30,16,10,11,10,23,22,22,20,1,8
+Lucretia C Clemons,,,,,,,,0,30,13,8,9,8,23,23,23,20,1,8
+Shanese Johnson,,,,,,,,,0,11,7,8,7,23,24,23,20,1,8
+Mary Murray,,,,,,,,,,0,42,44,42,6,3,3,1,0,8
+Emil Giordano,,,,,,,,,,,1,42,42,2,1,2,1,0,8
+Wade A Kagarise,,,,,,,,,,,,0,42,3,1,2,0,0,8
+Craig Stedman,,,,,,,,,,,,,0,0,3,2,2,0,8
+Maria Mclaughlin,,,,,,,,,,,,,,1,27,28,22,0,8
+Carolyn H Nichols,,,,,,,,,,,,,,,0,28,24,1,8
+Debbie Kunselman,,,,,,,,,,,,,,,,0,24,1,8
+Geoff Moulton,,,,,,,,,,,,,,,,,0,1,8
+Jules Mermelstein,,,,,,,,,,,,,,,,,,1,8
+Total,74,38,38,37,36,35,35,34,32,50,46,46,45,35,32,31,25,2,8
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,,,,,,,,9
+,Vincent Furlong,Deborah Cianfrani,Deborah Canty,Mark B Cohen,Zac Shaffer,Lucretia C Clemons,Vikki Kristiansson,Stella Tsai,Shanese Johnson,Maria Mclaughlin,Mary Murray,Debbie Kunselman,Carolyn H Nichols,Emil Giordano,Wade A Kagarise,Craig Stedman,Geoff Moulton,Jules Mermelstein,9
+Vincent Furlong,0,25,23,22,23,20,21,20,20,25,23,19,22,20,21,19,18,3,9
+Deborah Cianfrani,,1,26,23,21,23,21,21,21,23,7,20,19,6,4,5,19,3,9
+Deborah Canty,,,1,22,20,23,21,21,21,23,7,22,18,6,4,5,19,2,9
+Mark B Cohen,,,,0,22,20,21,20,19,21,5,20,18,2,3,2,18,1,9
+Zac Shaffer,,,,,0,19,20,19,19,20,5,18,20,2,4,2,17,2,9
+Lucretia C Clemons,,,,,,0,21,21,21,19,5,19,17,5,3,4,18,2,9
+Vikki Kristiansson,,,,,,,1,20,20,19,5,17,17,3,3,2,16,2,9
+Stella Tsai,,,,,,,,0,20,18,5,18,17,3,3,3,17,1,9
+Shanese Johnson,,,,,,,,,0,18,4,17,17,4,3,3,16,2,9
+Maria Mclaughlin,,,,,,,,,,0,7,24,23,2,3,0,20,2,9
+Mary Murray,,,,,,,,,,,0,3,3,20,23,20,1,1,9
+Debbie Kunselman,,,,,,,,,,,,0,21,2,0,2,22,0,9
+Carolyn H Nichols,,,,,,,,,,,,,0,1,1,0,19,2,9
+Emil Giordano,,,,,,,,,,,,,,0,20,21,2,1,9
+Wade A Kagarise,,,,,,,,,,,,,,,0,20,0,1,9
+Craig Stedman,,,,,,,,,,,,,,,,0,2,0,9
+Geoff Moulton,,,,,,,,,,,,,,,,,0,0,9
+Jules Mermelstein,,,,,,,,,,,,,,,,,,1,9
+Total,47,32,29,26,24,23,23,22,21,32,27,26,25,23,23,22,22,4,9
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,,,,,,,,10
+,Vincent Furlong,Deborah Canty,Mark B Cohen,Stella Tsai,Zac Shaffer,Lucretia C Clemons,Vikki Kristiansson,Deborah Cianfrani,Shanese Johnson,Maria Mclaughlin,Carolyn H Nichols,Debbie Kunselman,Geoff Moulton,Emil Giordano,Mary Murray,Craig Stedman,Wade A Kagarise,Jules Mermelstein,10
+Vincent Furlong,0,41,41,40,40,39,36,39,38,36,35,35,33,18,17,15,12,1,10
+Deborah Canty,,0,44,42,43,41,40,39,40,39,37,35,34,6,7,5,3,1,10
+Mark B Cohen,,,0,42,43,41,40,39,40,38,37,35,35,5,7,5,3,1,10
+Stella Tsai,,,,0,42,40,38,40,40,39,36,34,34,6,7,5,3,1,10
+Zac Shaffer,,,,,0,41,39,39,40,37,38,36,34,5,7,5,3,1,10
+Lucretia C Clemons,,,,,,0,39,38,40,39,39,36,35,4,5,3,2,1,10
+Vikki Kristiansson,,,,,,,0,36,38,37,36,32,33,3,4,3,2,0,10
+Deborah Cianfrani,,,,,,,,0,38,35,34,33,32,5,6,4,3,1,10
+Shanese Johnson,,,,,,,,,0,37,36,33,34,3,5,3,2,1,10
+Maria Mclaughlin,,,,,,,,,,0,38,35,35,2,3,1,0,1,10
+Carolyn H Nichols,,,,,,,,,,,0,35,35,2,2,1,0,0,10
+Debbie Kunselman,,,,,,,,,,,,0,32,2,2,2,0,1,10
+Geoff Moulton,,,,,,,,,,,,,0,0,1,0,0,0,10
+Emil Giordano,,,,,,,,,,,,,,0,17,14,13,0,10
+Mary Murray,,,,,,,,,,,,,,,0,14,13,1,10
+Craig Stedman,,,,,,,,,,,,,,,,0,13,0,10
+Wade A Kagarise,,,,,,,,,,,,,,,,,0,0,10
+Jules Mermelstein,,,,,,,,,,,,,,,,,,0,10
+Total,55,46,45,45,45,43,41,40,40,44,40,38,36,21,19,16,13,1,10
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,,,,,,,,11
+,Vincent Furlong,Deborah Cianfrani,Stella Tsai,Vikki Kristiansson,Zac Shaffer,Deborah Canty,Lucretia C Clemons,Mark B Cohen,Shanese Johnson,Maria Mclaughlin,Debbie Kunselman,Carolyn H Nichols,Geoff Moulton,Craig Stedman,Emil Giordano,Mary Murray,Wade A Kagarise,Jules Mermelstein,11
+Vincent Furlong,1,41,41,42,45,42,41,39,37,44,34,36,36,34,34,35,30,0,11
+Deborah Cianfrani,,0,42,41,40,43,38,40,38,42,36,38,36,6,6,8,4,1,11
+Stella Tsai,,,0,41,41,42,39,39,38,40,34,35,36,7,7,8,5,1,11
+Vikki Kristiansson,,,,0,43,41,39,38,36,40,34,35,35,9,7,8,6,1,11
+Zac Shaffer,,,,,0,41,41,38,38,40,33,36,35,8,7,9,6,0,11
+Deborah Canty,,,,,,0,40,40,39,40,36,37,36,8,8,7,4,1,11
+Lucretia C Clemons,,,,,,,0,36,38,39,32,34,34,6,4,5,4,1,11
+Mark B Cohen,,,,,,,,0,36,38,31,33,32,7,5,9,6,0,11
+Shanese Johnson,,,,,,,,,0,36,31,35,32,4,3,5,3,1,11
+Maria Mclaughlin,,,,,,,,,,0,36,38,34,4,3,7,5,1,11
+Debbie Kunselman,,,,,,,,,,,0,33,35,4,7,1,1,2,11
+Carolyn H Nichols,,,,,,,,,,,,0,34,1,1,4,1,1,11
+Geoff Moulton,,,,,,,,,,,,,0,5,4,1,0,0,11
+Craig Stedman,,,,,,,,,,,,,,1,32,31,30,0,11
+Emil Giordano,,,,,,,,,,,,,,,0,29,29,0,11
+Mary Murray,,,,,,,,,,,,,,,,0,32,0,11
+Wade A Kagarise,,,,,,,,,,,,,,,,,0,0,11
+Jules Mermelstein,,,,,,,,,,,,,,,,,,0,11
+Total,79,48,47,47,47,46,43,43,39,52,41,39,39,37,37,37,33,2,11
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,,,,,,,,12
+,Vincent Furlong,Vikki Kristiansson,Deborah Cianfrani,Zac Shaffer,Lucretia C Clemons,Stella Tsai,Mark B Cohen,Deborah Canty,Shanese Johnson,Emil Giordano,Mary Murray,Craig Stedman,Wade A Kagarise,Maria Mclaughlin,Carolyn H Nichols,Debbie Kunselman,Geoff Moulton,Jules Mermelstein,12
+Vincent Furlong,2,27,26,27,26,25,24,24,23,49,47,45,46,21,21,20,18,1,12
+Vikki Kristiansson,,0,26,29,27,26,26,25,25,9,8,8,6,23,22,21,20,1,12
+Deborah Cianfrani,,,0,26,25,25,27,25,25,8,7,6,7,21,21,22,20,1,12
+Zac Shaffer,,,,0,28,27,26,25,25,9,8,8,7,22,22,21,21,1,12
+Lucretia C Clemons,,,,,0,27,25,25,25,8,7,7,7,20,21,20,20,1,12
+Stella Tsai,,,,,,0,25,25,25,7,6,6,6,21,22,21,21,1,12
+Mark B Cohen,,,,,,,0,24,25,7,6,5,6,20,21,21,20,1,12
+Deborah Canty,,,,,,,,0,24,7,5,4,4,21,19,20,19,1,12
+Shanese Johnson,,,,,,,,,0,6,6,5,5,19,19,19,19,1,12
+Emil Giordano,,,,,,,,,,0,47,45,44,4,2,5,2,0,12
+Mary Murray,,,,,,,,,,,2,45,44,2,1,1,0,1,12
+Craig Stedman,,,,,,,,,,,,0,44,1,2,1,2,0,12
+Wade A Kagarise,,,,,,,,,,,,,0,0,3,1,1,0,12
+Maria Mclaughlin,,,,,,,,,,,,,,4,21,21,20,1,12
+Carolyn H Nichols,,,,,,,,,,,,,,,0,21,21,1,12
+Debbie Kunselman,,,,,,,,,,,,,,,,0,21,0,12
+Geoff Moulton,,,,,,,,,,,,,,,,,0,1,12
+Jules Mermelstein,,,,,,,,,,,,,,,,,,0,12
+Total,72,31,30,30,28,28,27,26,25,53,52,49,46,29,25,25,23,2,12
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,,,,,,,,13
+,Vincent Furlong,Vikki Kristiansson,Deborah Canty,Mark B Cohen,Deborah Cianfrani,Stella Tsai,Zac Shaffer,Lucretia C Clemons,Shanese Johnson,Mary Murray,Emil Giordano,Wade A Kagarise,Carolyn H Nichols,Craig Stedman,Maria Mclaughlin,Debbie Kunselman,Geoff Moulton,Jules Mermelstein,13
+Vincent Furlong,1,38,34,33,33,32,30,30,28,35,35,34,32,33,27,24,22,3,13
+Vikki Kristiansson,,0,34,32,32,32,30,29,29,11,11,10,29,9,24,24,22,2,13
+Deborah Canty,,,0,32,30,30,30,28,29,9,11,8,28,9,24,24,21,2,13
+Mark B Cohen,,,,0,30,30,29,26,28,10,10,10,29,8,20,23,21,3,13
+Deborah Cianfrani,,,,,0,29,28,28,28,9,9,10,27,6,22,21,19,2,13
+Stella Tsai,,,,,,0,29,29,28,8,8,9,27,7,22,22,20,3,13
+Zac Shaffer,,,,,,,0,27,28,8,8,7,24,8,21,21,19,2,13
+Lucretia C Clemons,,,,,,,,0,27,8,7,7,24,6,22,20,18,2,13
+Shanese Johnson,,,,,,,,,0,7,7,7,23,6,19,19,19,2,13
+Mary Murray,,,,,,,,,,1,30,32,8,30,5,4,1,0,13
+Emil Giordano,,,,,,,,,,,0,33,6,35,2,3,1,1,13
+Wade A Kagarise,,,,,,,,,,,,1,7,30,3,1,2,2,13
+Carolyn H Nichols,,,,,,,,,,,,,0,4,26,24,22,3,13
+Craig Stedman,,,,,,,,,,,,,,0,2,3,1,0,13
+Maria Mclaughlin,,,,,,,,,,,,,,,1,22,19,1,13
+Debbie Kunselman,,,,,,,,,,,,,,,,0,19,1,13
+Geoff Moulton,,,,,,,,,,,,,,,,,0,1,13
+Jules Mermelstein,,,,,,,,,,,,,,,,,,0,13
+Total,67,39,36,35,34,34,32,31,29,39,38,38,36,36,31,26,25,3,13
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,,,,,,,,14
+,Vincent Furlong,Deborah Cianfrani,Mark B Cohen,Zac Shaffer,Deborah Canty,Lucretia C Clemons,Vikki Kristiansson,Stella Tsai,Shanese Johnson,Maria Mclaughlin,Carolyn H Nichols,Debbie Kunselman,Geoff Moulton,Craig Stedman,Emil Giordano,Mary Murray,Wade A Kagarise,Jules Mermelstein,14
+Vincent Furlong,1,34,33,36,34,34,35,33,31,34,32,32,29,25,22,24,19,1,14
+Deborah Cianfrani,,0,32,34,35,34,33,34,33,32,30,30,28,5,4,6,2,0,14
+Mark B Cohen,,,0,33,31,32,31,30,32,34,31,30,26,3,2,4,2,1,14
+Zac Shaffer,,,,0,34,35,34,33,32,33,31,31,29,5,3,4,2,0,14
+Deborah Canty,,,,,0,34,32,33,32,32,30,30,28,5,3,5,2,0,14
+Lucretia C Clemons,,,,,,0,34,33,33,33,31,32,29,4,2,3,2,0,14
+Vikki Kristiansson,,,,,,,0,33,31,31,30,31,28,5,4,4,3,1,14
+Stella Tsai,,,,,,,,0,31,30,30,30,28,4,4,5,2,0,14
+Shanese Johnson,,,,,,,,,0,31,29,29,26,3,2,3,2,0,14
+Maria Mclaughlin,,,,,,,,,,1,34,33,31,1,1,2,0,0,14
+Carolyn H Nichols,,,,,,,,,,,0,33,29,1,1,3,0,0,14
+Debbie Kunselman,,,,,,,,,,,,0,31,2,1,3,0,0,14
+Geoff Moulton,,,,,,,,,,,,,0,3,2,1,0,0,14
+Craig Stedman,,,,,,,,,,,,,,0,22,23,20,1,14
+Emil Giordano,,,,,,,,,,,,,,,1,22,20,1,14
+Mary Murray,,,,,,,,,,,,,,,,0,18,0,14
+Wade A Kagarise,,,,,,,,,,,,,,,,,0,1,14
+Jules Mermelstein,,,,,,,,,,,,,,,,,,0,14
+Total,60,38,38,38,37,36,36,35,34,45,35,35,34,27,27,27,20,1,14
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,,,,,,,,15
+,Vincent Furlong,Deborah Canty,Zac Shaffer,Lucretia C Clemons,Deborah Cianfrani,Mark B Cohen,Shanese Johnson,Stella Tsai,Vikki Kristiansson,Maria Mclaughlin,Mary Murray,Debbie Kunselman,Geoff Moulton,Carolyn H Nichols,Craig Stedman,Emil Giordano,Wade A Kagarise,Jules Mermelstein,15
+Vincent Furlong,0,35,34,33,32,32,32,32,31,28,27,27,27,26,25,25,24,1,15
+Deborah Canty,,0,35,32,33,32,33,33,32,29,9,28,27,26,7,7,6,1,15
+Zac Shaffer,,,0,32,33,32,33,33,32,29,8,28,27,26,6,6,5,1,15
+Lucretia C Clemons,,,,0,31,30,31,31,30,29,6,27,27,26,4,4,3,1,15
+Deborah Cianfrani,,,,,0,31,33,32,31,29,7,27,26,26,4,4,4,1,15
+Mark B Cohen,,,,,,0,31,31,30,27,9,25,24,24,5,5,5,1,15
+Shanese Johnson,,,,,,,0,32,31,29,7,27,26,26,4,4,4,1,15
+Stella Tsai,,,,,,,,0,32,28,7,27,26,25,5,5,4,1,15
+Vikki Kristiansson,,,,,,,,,0,27,7,27,25,24,5,5,4,1,15
+Maria Mclaughlin,,,,,,,,,,0,3,27,26,26,0,0,0,1,15
+Mary Murray,,,,,,,,,,,1,3,1,1,25,25,25,0,15
+Debbie Kunselman,,,,,,,,,,,,0,25,25,1,1,0,1,15
+Geoff Moulton,,,,,,,,,,,,,0,24,1,1,0,0,15
+Carolyn H Nichols,,,,,,,,,,,,,,0,0,0,0,1,15
+Craig Stedman,,,,,,,,,,,,,,,0,26,25,0,15
+Emil Giordano,,,,,,,,,,,,,,,,0,25,0,15
+Wade A Kagarise,,,,,,,,,,,,,,,,,0,0,15
+Jules Mermelstein,,,,,,,,,,,,,,,,,,0,15
+Total,54,36,35,34,33,33,33,33,32,30,30,28,27,26,26,26,25,1,15
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,,,,,,,,16
+,Vincent Furlong,Mark B Cohen,Zac Shaffer,Deborah Cianfrani,Vikki Kristiansson,Deborah Canty,Lucretia C Clemons,Shanese Johnson,Stella Tsai,Maria Mclaughlin,Emil Giordano,Mary Murray,Debbie Kunselman,Wade A Kagarise,Craig Stedman,Carolyn H Nichols,Geoff Moulton,Jules Mermelstein,16
+Vincent Furlong,1,38,38,36,36,35,33,31,30,39,35,34,31,30,30,29,28,1,16
+Mark B Cohen,,0,35,36,33,35,31,32,31,31,9,10,30,10,9,30,29,0,16
+Zac Shaffer,,,0,33,36,34,35,31,32,33,8,7,29,7,5,30,27,0,16
+Deborah Cianfrani,,,,0,33,34,30,32,30,32,6,7,32,6,5,31,28,0,16
+Vikki Kristiansson,,,,,0,34,35,32,32,33,8,5,29,6,4,30,28,0,16
+Deborah Canty,,,,,,0,32,32,32,31,7,6,30,7,6,30,28,0,16
+Lucretia C Clemons,,,,,,,0,31,32,31,6,4,27,5,3,29,26,0,16
+Shanese Johnson,,,,,,,,0,31,27,5,6,26,7,5,28,25,0,16
+Stella Tsai,,,,,,,,,0,28,3,4,27,5,3,29,26,0,16
+Maria Mclaughlin,,,,,,,,,,0,10,5,34,3,3,32,31,1,16
+Emil Giordano,,,,,,,,,,,2,32,3,31,32,0,4,1,16
+Mary Murray,,,,,,,,,,,,0,2,32,29,2,2,0,16
+Debbie Kunselman,,,,,,,,,,,,,0,1,1,31,29,1,16
+Wade A Kagarise,,,,,,,,,,,,,,0,31,2,1,0,16
+Craig Stedman,,,,,,,,,,,,,,,0,0,1,0,16
+Carolyn H Nichols,,,,,,,,,,,,,,,,0,28,0,16
+Geoff Moulton,,,,,,,,,,,,,,,,,0,0,16
+Jules Mermelstein,,,,,,,,,,,,,,,,,,0,16
+Total,73,43,41,40,38,37,35,33,32,45,42,38,35,35,34,33,33,1,16
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,,,,,,,,17
+,Vincent Furlong,Deborah Cianfrani,Mark B Cohen,Vikki Kristiansson,Stella Tsai,Deborah Canty,Shanese Johnson,Zac Shaffer,Lucretia C Clemons,Mary Murray,Emil Giordano,Craig Stedman,Wade A Kagarise,Maria Mclaughlin,Carolyn H Nichols,Debbie Kunselman,Geoff Moulton,Jules Mermelstein,17
+Vincent Furlong,3,32,32,32,31,30,30,30,29,40,40,38,36,26,25,20,19,1,17
+Deborah Cianfrani,,0,29,32,30,31,29,30,29,10,9,8,6,27,26,21,19,1,17
+Mark B Cohen,,,0,31,32,30,30,30,29,12,10,10,8,24,25,21,19,1,17
+Vikki Kristiansson,,,,0,31,32,30,29,30,12,9,9,7,26,26,22,19,1,17
+Stella Tsai,,,,,0,30,30,30,30,10,8,8,6,25,25,21,19,1,17
+Deborah Canty,,,,,,0,30,29,29,11,8,8,6,25,26,22,19,1,17
+Shanese Johnson,,,,,,,0,29,29,10,8,8,6,23,26,20,19,1,17
+Zac Shaffer,,,,,,,,0,28,9,9,8,6,23,24,20,19,1,17
+Lucretia C Clemons,,,,,,,,,0,10,8,8,6,23,24,19,18,1,17
+Mary Murray,,,,,,,,,,0,38,39,38,6,7,6,1,0,17
+Emil Giordano,,,,,,,,,,,0,38,37,5,3,1,2,0,17
+Craig Stedman,,,,,,,,,,,,0,38,1,3,0,1,0,17
+Wade A Kagarise,,,,,,,,,,,,,0,0,1,0,0,0,17
+Maria Mclaughlin,,,,,,,,,,,,,,0,27,25,19,1,17
+Carolyn H Nichols,,,,,,,,,,,,,,,0,23,20,1,17
+Debbie Kunselman,,,,,,,,,,,,,,,,0,17,1,17
+Geoff Moulton,,,,,,,,,,,,,,,,,0,0,17
+Jules Mermelstein,,,,,,,,,,,,,,,,,,0,17
+Total,69,34,34,34,33,32,31,31,30,46,43,40,38,32,30,26,20,1,17
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,,,,,,,,18
+,Vincent Furlong,Mark B Cohen,Zac Shaffer,Deborah Canty,Lucretia C Clemons,Deborah Cianfrani,Vikki Kristiansson,Stella Tsai,Shanese Johnson,Mary Murray,Emil Giordano,Maria Mclaughlin,Carolyn H Nichols,Craig Stedman,Wade A Kagarise,Debbie Kunselman,Geoff Moulton,Jules Mermelstein,18
+Vincent Furlong,0,29,28,28,26,27,27,25,25,36,31,27,24,25,25,22,20,3,18
+Mark B Cohen,,1,27,27,27,27,26,24,25,10,6,25,23,5,4,22,20,2,18
+Zac Shaffer,,,0,28,27,26,28,26,26,9,5,26,26,4,2,22,20,2,18
+Deborah Canty,,,,0,27,27,28,26,26,10,5,26,25,3,3,23,20,3,18
+Lucretia C Clemons,,,,,0,26,26,27,25,7,2,26,26,2,1,22,20,3,18
+Deborah Cianfrani,,,,,,0,26,25,25,9,4,24,24,3,2,22,20,3,18
+Vikki Kristiansson,,,,,,,0,25,25,10,5,24,24,4,2,22,19,3,18
+Stella Tsai,,,,,,,,0,24,8,3,24,25,2,1,21,19,3,18
+Shanese Johnson,,,,,,,,,0,7,3,24,24,2,1,22,20,2,18
+Mary Murray,,,,,,,,,,0,33,7,5,27,27,4,1,4,18
+Emil Giordano,,,,,,,,,,,0,6,2,25,27,2,0,1,18
+Maria Mclaughlin,,,,,,,,,,,,2,24,2,2,22,19,0,18
+Carolyn H Nichols,,,,,,,,,,,,,0,1,0,22,20,3,18
+Craig Stedman,,,,,,,,,,,,,,1,24,1,0,0,18
+Wade A Kagarise,,,,,,,,,,,,,,,0,0,0,1,18
+Debbie Kunselman,,,,,,,,,,,,,,,,0,19,2,18
+Geoff Moulton,,,,,,,,,,,,,,,,,1,1,18
+Jules Mermelstein,,,,,,,,,,,,,,,,,,0,18
+Total,59,33,31,30,30,29,29,28,27,40,34,32,29,28,27,25,22,4,18
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,,,,,,,,19
+,Vincent Furlong,Deborah Canty,Vikki Kristiansson,Deborah Cianfrani,Shanese Johnson,Mark B Cohen,Lucretia C Clemons,Zac Shaffer,Stella Tsai,Mary Murray,Craig Stedman,Emil Giordano,Wade A Kagarise,Maria Mclaughlin,Debbie Kunselman,Carolyn H Nichols,Geoff Moulton,Jules Mermelstein,19
+Vincent Furlong,1,35,31,31,30,29,27,29,26,36,33,35,35,24,19,19,18,2,19
+Deborah Canty,,0,34,34,31,30,30,30,27,14,9,11,11,27,23,22,17,4,19
+Vikki Kristiansson,,,0,32,29,27,30,28,29,12,9,9,9,25,22,23,18,3,19
+Deborah Cianfrani,,,,0,28,27,29,28,26,12,7,9,9,25,20,22,16,3,19
+Shanese Johnson,,,,,0,28,27,26,26,10,6,10,9,24,18,19,16,4,19
+Mark B Cohen,,,,,,0,26,27,24,10,5,8,9,23,20,19,16,2,19
+Lucretia C Clemons,,,,,,,0,28,27,9,6,7,6,23,20,21,17,3,19
+Zac Shaffer,,,,,,,,0,26,10,7,8,8,22,19,19,17,2,19
+Stella Tsai,,,,,,,,,0,8,6,7,6,22,20,21,18,3,19
+Mary Murray,,,,,,,,,,0,36,35,38,6,3,5,0,1,19
+Craig Stedman,,,,,,,,,,,1,33,34,0,2,3,1,1,19
+Emil Giordano,,,,,,,,,,,,0,34,4,2,0,2,2,19
+Wade A Kagarise,,,,,,,,,,,,,0,5,1,3,1,0,19
+Maria Mclaughlin,,,,,,,,,,,,,,2,23,22,19,2,19
+Debbie Kunselman,,,,,,,,,,,,,,,0,22,19,3,19
+Carolyn H Nichols,,,,,,,,,,,,,,,,0,18,2,19
+Geoff Moulton,,,,,,,,,,,,,,,,,0,0,19
+Jules Mermelstein,,,,,,,,,,,,,,,,,,0,19
+Total,62,39,36,35,32,31,30,30,29,42,39,39,39,32,27,25,20,4,19
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,,,,,,,,20
+,Vincent Furlong,Deborah Canty,Stella Tsai,Lucretia C Clemons,Mark B Cohen,Vikki Kristiansson,Zac Shaffer,Deborah Cianfrani,Shanese Johnson,Maria Mclaughlin,Carolyn H Nichols,Debbie Kunselman,Geoff Moulton,Mary Murray,Emil Giordano,Wade A Kagarise,Craig Stedman,Jules Mermelstein,20
+Vincent Furlong,1,50,48,47,46,47,45,46,46,39,40,39,36,32,29,29,27,2,20
+Deborah Canty,,0,51,49,46,48,46,46,47,39,41,40,37,12,9,8,9,2,20
+Stella Tsai,,,0,48,44,48,46,45,46,38,40,39,37,11,9,7,8,2,20
+Lucretia C Clemons,,,,0,43,46,44,45,45,37,37,36,35,11,9,8,9,2,20
+Mark B Cohen,,,,,0,44,44,44,44,37,36,34,32,13,9,9,9,1,20
+Vikki Kristiansson,,,,,,0,45,46,45,38,38,38,36,12,10,8,9,2,20
+Zac Shaffer,,,,,,,0,42,43,37,38,36,35,10,8,6,7,1,20
+Deborah Cianfrani,,,,,,,,0,45,36,36,35,34,12,9,9,9,2,20
+Shanese Johnson,,,,,,,,,0,37,37,36,34,10,8,7,7,2,20
+Maria Mclaughlin,,,,,,,,,,0,39,40,36,7,3,3,2,1,20
+Carolyn H Nichols,,,,,,,,,,,0,40,36,3,0,1,0,1,20
+Debbie Kunselman,,,,,,,,,,,,0,38,2,4,0,3,1,20
+Geoff Moulton,,,,,,,,,,,,,0,1,3,0,2,0,20
+Mary Murray,,,,,,,,,,,,,,0,25,27,23,1,20
+Emil Giordano,,,,,,,,,,,,,,,0,24,26,0,20
+Wade A Kagarise,,,,,,,,,,,,,,,,0,22,0,20
+Craig Stedman,,,,,,,,,,,,,,,,,0,1,20
+Jules Mermelstein,,,,,,,,,,,,,,,,,,0,20
+Total,78,53,51,50,49,49,48,47,47,47,46,45,39,33,31,29,28,2,20
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,,,,,,,,21
+,Vincent Furlong,Deborah Cianfrani,Deborah Canty,Mark B Cohen,Stella Tsai,Lucretia C Clemons,Vikki Kristiansson,Zac Shaffer,Shanese Johnson,Maria Mclaughlin,Mary Murray,Emil Giordano,Craig Stedman,Wade A Kagarise,Carolyn H Nichols,Debbie Kunselman,Geoff Moulton,Jules Mermelstein,21
+Vincent Furlong,3,31,32,34,34,31,32,30,28,35,33,32,33,32,26,25,23,2,21
+Deborah Cianfrani,,1,32,31,30,30,31,30,28,31,5,8,5,7,27,25,22,2,21
+Deborah Canty,,,1,29,31,31,32,31,28,30,6,7,5,7,26,26,23,2,21
+Mark B Cohen,,,,0,31,29,29,29,28,29,5,8,5,7,25,23,21,2,21
+Stella Tsai,,,,,0,32,33,30,28,29,6,8,7,8,23,24,21,2,21
+Lucretia C Clemons,,,,,,0,32,30,29,26,7,9,6,8,23,25,21,2,21
+Vikki Kristiansson,,,,,,,0,31,28,28,6,8,7,8,24,25,22,2,21
+Zac Shaffer,,,,,,,,0,28,27,5,7,5,7,24,24,22,2,21
+Shanese Johnson,,,,,,,,,0,23,5,8,5,7,21,23,19,2,21
+Maria Mclaughlin,,,,,,,,,,2,4,3,4,3,29,27,24,2,21
+Mary Murray,,,,,,,,,,,2,29,31,30,2,1,0,0,21
+Emil Giordano,,,,,,,,,,,,0,30,33,1,2,2,0,21
+Craig Stedman,,,,,,,,,,,,,0,31,1,0,0,0,21
+Wade A Kagarise,,,,,,,,,,,,,,0,0,1,2,0,21
+Carolyn H Nichols,,,,,,,,,,,,,,,0,26,22,2,21
+Debbie Kunselman,,,,,,,,,,,,,,,,0,23,2,21
+Geoff Moulton,,,,,,,,,,,,,,,,,0,0,21
+Jules Mermelstein,,,,,,,,,,,,,,,,,,0,21
+Total,69,38,37,35,35,34,34,33,29,44,37,35,34,34,33,29,25,2,21
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,,,,,,,,22
+,Vincent Furlong,Deborah Cianfrani,Vikki Kristiansson,Deborah Canty,Shanese Johnson,Zac Shaffer,Mark B Cohen,Lucretia C Clemons,Stella Tsai,Maria Mclaughlin,Emil Giordano,Carolyn H Nichols,Mary Murray,Wade A Kagarise,Craig Stedman,Debbie Kunselman,Geoff Moulton,Jules Mermelstein,22
+Vincent Furlong,0,23,23,22,21,22,21,20,20,22,22,18,19,19,19,17,16,1,22
+Deborah Cianfrani,,0,25,24,22,22,21,20,20,24,6,19,5,5,5,19,14,1,22
+Vikki Kristiansson,,,0,23,22,22,21,20,21,24,7,18,5,6,5,19,15,1,22
+Deborah Canty,,,,0,21,21,21,20,20,22,5,18,4,4,4,19,13,0,22
+Shanese Johnson,,,,,0,20,20,20,19,22,5,18,5,5,4,18,14,0,22
+Zac Shaffer,,,,,,0,21,19,19,21,5,17,4,3,4,18,15,1,22
+Mark B Cohen,,,,,,,0,19,18,21,5,16,4,4,3,18,14,0,22
+Lucretia C Clemons,,,,,,,,0,19,19,5,16,4,4,3,17,13,0,22
+Stella Tsai,,,,,,,,,0,19,5,16,4,4,4,16,12,0,22
+Maria Mclaughlin,,,,,,,,,,0,6,20,5,6,4,21,17,0,22
+Emil Giordano,,,,,,,,,,,0,2,19,21,19,2,3,1,22
+Carolyn H Nichols,,,,,,,,,,,,0,2,1,1,19,15,1,22
+Mary Murray,,,,,,,,,,,,,0,19,18,3,0,0,22
+Wade A Kagarise,,,,,,,,,,,,,,0,20,0,1,0,22
+Craig Stedman,,,,,,,,,,,,,,,0,0,1,0,22
+Debbie Kunselman,,,,,,,,,,,,,,,,0,16,0,22
+Geoff Moulton,,,,,,,,,,,,,,,,,0,1,22
+Jules Mermelstein,,,,,,,,,,,,,,,,,,0,22
+Total,41,27,27,24,24,23,22,21,21,30,25,24,23,23,22,22,19,1,22
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,,,,,,,,23
+,Vincent Furlong,Lucretia C Clemons,Deborah Canty,Shanese Johnson,Stella Tsai,Deborah Cianfrani,Zac Shaffer,Mark B Cohen,Vikki Kristiansson,Maria Mclaughlin,Emil Giordano,Mary Murray,Wade A Kagarise,Debbie Kunselman,Geoff Moulton,Craig Stedman,Carolyn H Nichols,Jules Mermelstein,23
+Vincent Furlong,0,19,18,18,18,17,17,15,15,21,21,21,21,18,18,18,12,2,23
+Lucretia C Clemons,,0,17,19,18,16,16,16,15,18,2,1,1,18,19,2,12,2,23
+Deborah Canty,,,0,16,16,17,17,15,14,17,1,1,0,17,16,2,12,2,23
+Shanese Johnson,,,,0,17,16,16,16,14,17,2,1,1,17,18,2,11,2,23
+Stella Tsai,,,,,1,15,15,14,14,16,2,1,1,16,17,2,10,2,23
+Deborah Cianfrani,,,,,,0,17,15,13,15,1,1,0,16,15,2,11,2,23
+Zac Shaffer,,,,,,,0,15,13,15,1,1,0,16,15,2,11,2,23
+Mark B Cohen,,,,,,,,0,13,14,1,1,0,15,16,2,11,2,23
+Vikki Kristiansson,,,,,,,,,0,15,1,0,1,14,15,0,11,2,23
+Maria Mclaughlin,,,,,,,,,,0,3,3,3,17,17,1,12,1,23
+Emil Giordano,,,,,,,,,,,0,19,20,1,2,17,0,0,23
+Mary Murray,,,,,,,,,,,,0,19,0,1,17,0,0,23
+Wade A Kagarise,,,,,,,,,,,,,0,0,1,16,0,0,23
+Debbie Kunselman,,,,,,,,,,,,,,0,17,1,13,2,23
+Geoff Moulton,,,,,,,,,,,,,,,0,2,12,2,23
+Craig Stedman,,,,,,,,,,,,,,,,0,0,0,23
+Carolyn H Nichols,,,,,,,,,,,,,,,,,0,1,23
+Jules Mermelstein,,,,,,,,,,,,,,,,,,0,23
+Total,42,20,19,19,19,17,17,16,16,24,21,21,21,19,19,18,13,2,23
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,,,,,,,,24
+,Vincent Furlong,Vikki Kristiansson,Deborah Cianfrani,Deborah Canty,Stella Tsai,Mark B Cohen,Lucretia C Clemons,Zac Shaffer,Shanese Johnson,Maria Mclaughlin,Mary Murray,Emil Giordano,Craig Stedman,Carolyn H Nichols,Wade A Kagarise,Debbie Kunselman,Geoff Moulton,Jules Mermelstein,24
+Vincent Furlong,2,42,43,42,40,41,41,41,38,40,49,51,49,33,43,34,32,3,24
+Vikki Kristiansson,,0,47,48,48,45,46,43,43,41,12,11,10,39,10,39,35,3,24
+Deborah Cianfrani,,,0,47,44,45,44,41,41,40,14,10,10,39,9,38,31,3,24
+Deborah Canty,,,,0,46,44,45,42,42,39,12,9,9,39,7,39,33,3,24
+Stella Tsai,,,,,0,44,45,43,42,40,10,11,8,36,9,37,35,3,24
+Mark B Cohen,,,,,,0,42,42,40,41,10,10,8,38,9,35,33,2,24
+Lucretia C Clemons,,,,,,,0,41,43,37,11,11,9,35,7,36,34,3,24
+Zac Shaffer,,,,,,,,0,39,35,9,10,8,34,7,34,33,3,24
+Shanese Johnson,,,,,,,,,0,36,9,8,7,36,6,34,33,2,24
+Maria Mclaughlin,,,,,,,,,,3,9,5,1,43,5,39,35,1,24
+Mary Murray,,,,,,,,,,,0,45,46,9,40,8,0,1,24
+Emil Giordano,,,,,,,,,,,,0,48,0,45,3,5,2,24
+Craig Stedman,,,,,,,,,,,,,0,3,43,4,2,1,24
+Carolyn H Nichols,,,,,,,,,,,,,,0,2,40,32,0,24
+Wade A Kagarise,,,,,,,,,,,,,,,0,2,2,0,24
+Debbie Kunselman,,,,,,,,,,,,,,,,0,32,1,24
+Geoff Moulton,,,,,,,,,,,,,,,,,0,1,24
+Jules Mermelstein,,,,,,,,,,,,,,,,,,0,24
+Total,92,51,50,49,49,48,47,45,44,57,55,53,51,47,47,44,37,4,24
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,,,,,,,,25
+,Vincent Furlong,Deborah Canty,Mark B Cohen,Stella Tsai,Vikki Kristiansson,Deborah Cianfrani,Lucretia C Clemons,Zac Shaffer,Shanese Johnson,Maria Mclaughlin,Carolyn H Nichols,Debbie Kunselman,Geoff Moulton,Mary Murray,Emil Giordano,Craig Stedman,Wade A Kagarise,Jules Mermelstein,25
+Vincent Furlong,0,33,30,31,32,30,31,31,27,32,32,31,27,18,17,15,14,0,25
+Deborah Canty,,0,30,34,34,30,32,33,30,33,31,30,29,4,5,2,1,1,25
+Mark B Cohen,,,1,29,30,29,29,29,28,31,30,28,27,2,2,1,1,0,25
+Stella Tsai,,,,1,33,28,31,32,29,30,30,28,28,3,4,2,1,1,25
+Vikki Kristiansson,,,,,0,29,32,33,29,31,30,29,28,3,4,2,1,0,25
+Deborah Cianfrani,,,,,,0,29,28,28,31,27,29,26,3,4,1,1,0,25
+Lucretia C Clemons,,,,,,,0,32,29,31,30,29,28,1,3,1,0,0,25
+Zac Shaffer,,,,,,,,0,29,31,30,29,28,2,3,1,0,0,25
+Shanese Johnson,,,,,,,,,0,29,29,27,28,1,2,0,0,1,25
+Maria Mclaughlin,,,,,,,,,,0,31,30,26,4,2,0,0,0,25
+Carolyn H Nichols,,,,,,,,,,,0,28,27,2,1,0,0,1,25
+Debbie Kunselman,,,,,,,,,,,,0,27,4,4,1,0,0,25
+Geoff Moulton,,,,,,,,,,,,,0,0,2,1,0,1,25
+Mary Murray,,,,,,,,,,,,,,0,17,15,15,0,25
+Emil Giordano,,,,,,,,,,,,,,,0,16,15,0,25
+Craig Stedman,,,,,,,,,,,,,,,,0,15,0,25
+Wade A Kagarise,,,,,,,,,,,,,,,,,0,0,25
+Jules Mermelstein,,,,,,,,,,,,,,,,,,0,25
+Total,50,37,35,35,34,33,33,33,32,40,36,32,29,20,19,16,15,1,25
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,,,,,,,,26
+,Vincent Furlong,Stella Tsai,Deborah Cianfrani,Mark B Cohen,Zac Shaffer,Vikki Kristiansson,Deborah Canty,Lucretia C Clemons,Shanese Johnson,Maria Mclaughlin,Debbie Kunselman,Geoff Moulton,Carolyn H Nichols,Mary Murray,Craig Stedman,Emil Giordano,Wade A Kagarise,Jules Mermelstein,26
+Vincent Furlong,0,49,50,50,48,49,47,45,46,42,45,43,41,33,32,32,25,5,26
+Stella Tsai,,1,49,50,50,49,46,47,47,45,46,43,42,7,5,7,2,3,26
+Deborah Cianfrani,,,0,49,47,49,47,46,47,43,45,42,42,8,6,7,3,3,26
+Mark B Cohen,,,,0,48,49,45,46,47,42,45,43,42,8,7,7,3,4,26
+Zac Shaffer,,,,,0,48,45,46,46,42,46,44,42,7,5,6,1,3,26
+Vikki Kristiansson,,,,,,0,46,46,47,41,45,42,42,8,6,7,3,3,26
+Deborah Canty,,,,,,,0,44,45,41,43,41,41,6,5,7,3,3,26
+Lucretia C Clemons,,,,,,,,0,46,40,43,41,41,5,4,4,1,3,26
+Shanese Johnson,,,,,,,,,0,40,45,42,42,5,4,4,1,3,26
+Maria Mclaughlin,,,,,,,,,,1,44,40,43,4,0,2,0,0,26
+Debbie Kunselman,,,,,,,,,,,0,44,44,5,2,3,0,2,26
+Geoff Moulton,,,,,,,,,,,,0,41,1,4,3,0,3,26
+Carolyn H Nichols,,,,,,,,,,,,,0,3,0,0,0,2,26
+Mary Murray,,,,,,,,,,,,,,1,29,28,24,2,26
+Craig Stedman,,,,,,,,,,,,,,,1,29,24,3,26
+Emil Giordano,,,,,,,,,,,,,,,,1,24,2,26
+Wade A Kagarise,,,,,,,,,,,,,,,,,0,0,26
+Jules Mermelstein,,,,,,,,,,,,,,,,,,1,26
+Total,78,55,53,52,51,50,49,48,48,52,49,47,45,34,33,33,25,7,26
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,,,,,,,,27
+,Vincent Furlong,Deborah Cianfrani,Mark B Cohen,Vikki Kristiansson,Zac Shaffer,Deborah Canty,Stella Tsai,Lucretia C Clemons,Shanese Johnson,Maria Mclaughlin,Debbie Kunselman,Carolyn H Nichols,Geoff Moulton,Mary Murray,Emil Giordano,Wade A Kagarise,Craig Stedman,Jules Mermelstein,27
+Vincent Furlong,0,48,48,47,46,46,45,44,43,47,42,42,40,20,17,18,14,2,27
+Deborah Cianfrani,,0,49,48,46,45,45,45,44,42,42,43,39,5,3,2,2,2,27
+Mark B Cohen,,,0,47,46,44,44,44,43,43,41,42,39,3,3,2,1,2,27
+Vikki Kristiansson,,,,0,46,45,43,43,43,41,40,42,38,4,3,3,2,1,27
+Zac Shaffer,,,,,0,44,44,42,42,42,40,40,38,3,2,3,1,2,27
+Deborah Canty,,,,,,0,43,43,44,41,40,41,38,4,1,2,2,2,27
+Stella Tsai,,,,,,,0,44,43,40,42,41,39,3,0,2,2,2,27
+Lucretia C Clemons,,,,,,,,0,43,39,41,41,38,3,0,2,2,2,27
+Shanese Johnson,,,,,,,,,1,38,40,40,38,3,0,1,2,2,27
+Maria Mclaughlin,,,,,,,,,,1,42,39,38,5,3,3,0,3,27
+Debbie Kunselman,,,,,,,,,,,1,41,39,4,1,1,1,3,27
+Carolyn H Nichols,,,,,,,,,,,,0,40,3,1,2,2,0,27
+Geoff Moulton,,,,,,,,,,,,,0,0,1,1,0,0,27
+Mary Murray,,,,,,,,,,,,,,0,17,16,15,2,27
+Emil Giordano,,,,,,,,,,,,,,,1,15,13,0,27
+Wade A Kagarise,,,,,,,,,,,,,,,,0,14,0,27
+Craig Stedman,,,,,,,,,,,,,,,,,0,0,27
+Jules Mermelstein,,,,,,,,,,,,,,,,,,0,27
+Total,70,51,50,49,48,47,46,45,45,50,47,45,42,25,21,20,15,3,27
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,,,,,,,,28
+,Vincent Furlong,Deborah Cianfrani,Vikki Kristiansson,Mark B Cohen,Stella Tsai,Deborah Canty,Lucretia C Clemons,Shanese Johnson,Zac Shaffer,Carolyn H Nichols,Debbie Kunselman,Emil Giordano,Maria Mclaughlin,Geoff Moulton,Mary Murray,Wade A Kagarise,Craig Stedman,Jules Mermelstein,28
+Vincent Furlong,3,43,44,43,43,42,42,42,43,38,37,40,38,35,33,36,34,2,28
+Deborah Cianfrani,,0,44,44,44,45,44,43,43,40,36,10,38,33,8,7,6,2,28
+Vikki Kristiansson,,,0,43,46,44,44,43,43,41,39,9,41,35,7,6,5,2,28
+Mark B Cohen,,,,1,43,43,43,42,41,39,36,9,37,33,6,6,5,2,28
+Stella Tsai,,,,,0,44,44,43,42,40,38,9,40,34,7,6,5,2,28
+Deborah Canty,,,,,,0,44,43,42,39,36,9,38,32,7,6,5,2,28
+Lucretia C Clemons,,,,,,,0,44,42,39,36,9,38,32,7,6,5,2,28
+Shanese Johnson,,,,,,,,0,42,38,35,9,37,32,6,6,5,2,28
+Zac Shaffer,,,,,,,,,0,37,35,10,37,32,6,7,5,2,28
+Carolyn H Nichols,,,,,,,,,,0,40,3,40,34,7,3,3,2,28
+Debbie Kunselman,,,,,,,,,,,0,5,37,35,6,0,5,1,28
+Emil Giordano,,,,,,,,,,,,0,4,6,33,37,37,1,28
+Maria Mclaughlin,,,,,,,,,,,,,0,35,5,5,1,1,28
+Geoff Moulton,,,,,,,,,,,,,,0,1,3,6,0,28
+Mary Murray,,,,,,,,,,,,,,,0,33,33,0,28
+Wade A Kagarise,,,,,,,,,,,,,,,,0,32,1,28
+Craig Stedman,,,,,,,,,,,,,,,,,0,0,28
+Jules Mermelstein,,,,,,,,,,,,,,,,,,0,28
+Total,79,47,47,46,46,45,45,44,44,46,44,44,44,40,40,40,39,2,28
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Superior Court,,,,,,,,,29
+,Vincent Furlong,Deborah Canty,Mark B Cohen,Deborah Cianfrani,Zac Shaffer,Stella Tsai,Vikki Kristiansson,Lucretia C Clemons,Shanese Johnson,Mary Murray,Emil Giordano,Maria Mclaughlin,Wade A Kagarise,Craig Stedman,Carolyn H Nichols,Debbie Kunselman,Geoff Moulton,Jules Mermelstein,29
+Vincent Furlong,0,47,48,46,44,42,43,43,41,49,45,37,45,43,33,32,31,1,29
+Deborah Canty,,0,46,47,45,44,45,43,42,16,13,40,12,13,37,34,30,2,29
+Mark B Cohen,,,0,45,46,42,42,42,42,17,16,39,14,15,35,32,30,1,29
+Deborah Cianfrani,,,,0,43,44,45,42,41,14,15,39,12,12,35,34,29,1,29
+Zac Shaffer,,,,,0,42,42,42,41,15,14,36,11,13,32,31,30,1,29
+Stella Tsai,,,,,,0,43,41,40,12,12,35,10,10,32,31,28,1,29
+Vikki Kristiansson,,,,,,,0,41,40,12,11,35,11,11,33,31,29,1,29
+Lucretia C Clemons,,,,,,,,0,40,11,11,35,11,10,32,32,29,1,29
+Shanese Johnson,,,,,,,,,0,10,9,35,10,10,32,31,29,1,29
+Mary Murray,,,,,,,,,,1,48,8,47,46,3,2,2,0,29
+Emil Giordano,,,,,,,,,,,0,6,45,45,1,5,2,0,29
+Maria Mclaughlin,,,,,,,,,,,,4,5,4,38,34,28,2,29
+Wade A Kagarise,,,,,,,,,,,,,0,45,4,1,1,0,29
+Craig Stedman,,,,,,,,,,,,,,0,2,2,3,0,29
+Carolyn H Nichols,,,,,,,,,,,,,,,0,33,28,2,29
+Debbie Kunselman,,,,,,,,,,,,,,,,0,29,1,29
+Geoff Moulton,,,,,,,,,,,,,,,,,0,1,29
+Jules Mermelstein,,,,,,,,,,,,,,,,,,0,29
+Total,85,53,53,52,47,45,45,44,43,56,54,52,51,50,41,38,32,3,29

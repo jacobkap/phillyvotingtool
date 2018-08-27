@@ -1,4 +1,11 @@
 col_1,col_2,col_3,col_4,col_5,division
+,District Council 2nd District,Judge Of The Municipal Court,,,All
+,Kenyatta Johnson,Christine Hope,Joffie C Pittman,Sharon Williams Losier,All
+Kenyatta Johnson,255,"1,615","1,703","1,514",All
+Christine Hope,,296,"1,585","1,584",All
+Joffie C Pittman,,,133,"1,606",All
+Sharon Williams Losier,,,,26,All
+Total,"2,226","2,099","2,033","1,736",All
 ,Judge Of The Municipal Court,,,District Council 2nd District,1
 ,Joffie C Pittman,Christine Hope,Sharon Williams Losier,Kenyatta Johnson,1
 Joffie C Pittman,25,85,87,112,1
@@ -48,13 +55,6 @@ Joffie C Pittman,,2,179,176,7
 Sharon Williams Losier,,,0,171,7
 Kenyatta Johnson,,,,16,7
 Total,241,197,190,226,7
-,Judge Of The Municipal Court,,,District Council 2nd District,8
-,Joffie C Pittman,Christine Hope,Sharon Williams Losier,Kenyatta Johnson,8
-Joffie C Pittman,61,86,102,0,8
-Christine Hope,,28,87,0,8
-Sharon Williams Losier,,,5,0,8
-Kenyatta Johnson,,,,0,8
-Total,164,116,109,0,8
 ,Judge Of The Municipal Court,,,District Council 2nd District,9
 ,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Kenyatta Johnson,9
 Christine Hope,30,99,101,91,9
@@ -62,20 +62,6 @@ Joffie C Pittman,,12,107,92,9
 Sharon Williams Losier,,,5,88,9
 Kenyatta Johnson,,,,18,9
 Total,143,130,119,129,9
-,Judge Of The Municipal Court,,,District Council 2nd District,10
-,Joffie C Pittman,Christine Hope,Sharon Williams Losier,Kenyatta Johnson,10
-Joffie C Pittman,52,122,126,0,10
-Christine Hope,,45,126,0,10
-Sharon Williams Losier,,,13,0,10
-Kenyatta Johnson,,,,0,10
-Total,183,176,148,0,10
-,Judge Of The Municipal Court,,,District Council 2nd District,11
-,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Kenyatta Johnson,11
-Christine Hope,21,70,70,0,11
-Joffie C Pittman,,14,71,0,11
-Sharon Williams Losier,,,4,0,11
-Kenyatta Johnson,,,,0,11
-Total,92,86,76,0,11
 ,District Council 2nd District,Judge Of The Municipal Court,,,12
 ,Kenyatta Johnson,Christine Hope,Joffie C Pittman,Sharon Williams Losier,12
 Kenyatta Johnson,13,98,101,88,12
@@ -97,41 +83,6 @@ Joffie C Pittman,,10,138,132,14
 Sharon Williams Losier,,,2,119,14
 Kenyatta Johnson,,,,20,14
 Total,175,170,150,168,14
-,Judge Of The Municipal Court,,,District Council 2nd District,15
-,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Kenyatta Johnson,15
-Christine Hope,41,103,105,0,15
-Joffie C Pittman,,11,108,0,15
-Sharon Williams Losier,,,4,0,15
-Kenyatta Johnson,,,,0,15
-Total,146,119,114,0,15
-,Judge Of The Municipal Court,,,District Council 2nd District,16
-,Joffie C Pittman,Christine Hope,Sharon Williams Losier,Kenyatta Johnson,16
-Joffie C Pittman,51,126,136,0,16
-Christine Hope,,50,130,0,16
-Sharon Williams Losier,,,11,0,16
-Kenyatta Johnson,,,,0,16
-Total,190,183,154,0,16
-,Judge Of The Municipal Court,,,District Council 2nd District,17
-,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Kenyatta Johnson,17
-Christine Hope,26,70,72,0,17
-Joffie C Pittman,,8,70,0,17
-Sharon Williams Losier,,,2,0,17
-Kenyatta Johnson,,,,0,17
-Total,100,80,76,0,17
-,Judge Of The Municipal Court,,,District Council 2nd District,18
-,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Kenyatta Johnson,18
-Christine Hope,43,153,156,0,18
-Joffie C Pittman,,13,154,0,18
-Sharon Williams Losier,,,10,0,18
-Kenyatta Johnson,,,,0,18
-Total,204,172,172,0,18
-,Judge Of The Municipal Court,,,District Council 2nd District,19
-,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Kenyatta Johnson,19
-Christine Hope,44,122,120,0,19
-Joffie C Pittman,,34,119,0,19
-Sharon Williams Losier,,,7,0,19
-Kenyatta Johnson,,,,0,19
-Total,169,158,129,0,19
 ,Judge Of The Municipal Court,,,District Council 2nd District,20
 ,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Kenyatta Johnson,20
 Christine Hope,12,47,42,51,20
@@ -146,41 +97,6 @@ Christine Hope,,32,135,134,21
 Joffie C Pittman,,,7,136,21
 Sharon Williams Losier,,,,5,21
 Total,204,190,165,149,21
-,Judge Of The Municipal Court,,,District Council 2nd District,22
-,Christine Hope,Sharon Williams Losier,Joffie C Pittman,Kenyatta Johnson,22
-Christine Hope,13,29,28,0,22
-Sharon Williams Losier,,7,27,0,22
-Joffie C Pittman,,,5,0,22
-Kenyatta Johnson,,,,0,22
-Total,44,37,34,0,22
-,Judge Of The Municipal Court,,,District Council 2nd District,23
-,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Kenyatta Johnson,23
-Christine Hope,48,168,163,0,23
-Joffie C Pittman,,19,163,0,23
-Sharon Williams Losier,,,9,0,23
-Kenyatta Johnson,,,,0,23
-Total,220,191,176,0,23
-,Judge Of The Municipal Court,,,District Council 2nd District,24
-,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Kenyatta Johnson,24
-Christine Hope,57,170,170,0,24
-Joffie C Pittman,,30,169,0,24
-Sharon Williams Losier,,,3,0,24
-Kenyatta Johnson,,,,0,24
-Total,231,203,176,0,24
-,Judge Of The Municipal Court,,,District Council 2nd District,25
-,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Kenyatta Johnson,25
-Christine Hope,24,131,129,0,25
-Joffie C Pittman,,10,127,0,25
-Sharon Williams Losier,,,6,0,25
-Kenyatta Johnson,,,,0,25
-Total,157,141,135,0,25
-,Judge Of The Municipal Court,,,District Council 2nd District,26
-,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Kenyatta Johnson,26
-Christine Hope,27,157,155,0,26
-Joffie C Pittman,,12,164,0,26
-Sharon Williams Losier,,,12,0,26
-Kenyatta Johnson,,,,0,26
-Total,185,179,177,0,26
 ,District Council 2nd District,Judge Of The Municipal Court,,,27
 ,Kenyatta Johnson,Christine Hope,Joffie C Pittman,Sharon Williams Losier,27
 Kenyatta Johnson,8,66,70,69,27
@@ -195,24 +111,3 @@ Joffie C Pittman,,14,105,107,28
 Christine Hope,,,18,107,28
 Sharon Williams Losier,,,,2,28
 Total,159,138,136,116,28
-,Judge Of The Municipal Court,,,District Council 2nd District,29
-,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Kenyatta Johnson,29
-Christine Hope,68,194,194,0,29
-Joffie C Pittman,,27,194,0,29
-Sharon Williams Losier,,,18,0,29
-Kenyatta Johnson,,,,0,29
-Total,270,229,220,0,29
-,Judge Of The Municipal Court,,,District Council 2nd District,30
-,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Kenyatta Johnson,30
-Christine Hope,24,102,101,0,30
-Joffie C Pittman,,5,99,0,30
-Sharon Williams Losier,,,5,0,30
-Kenyatta Johnson,,,,0,30
-Total,130,109,108,0,30
-,Judge Of The Municipal Court,,,District Council 2nd District,All
-,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Kenyatta Johnson,All
-Christine Hope,855,"3,387","3,391","1,615",All
-Joffie C Pittman,,485,"3,435","1,703",All
-Sharon Williams Losier,,,142,"1,514",All
-Kenyatta Johnson,,,,255,All
-Total,"4,522","4,271","3,743","2,226",All

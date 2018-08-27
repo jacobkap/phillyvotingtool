@@ -1,0 +1,161 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,division
+,City Commissioners - Republican,Justice Of The Supreme Court - Republican,,,,,,2
+,Al Schmidt,Anne Covey,Rebecca Warren,Cheryl Allen,Correale Stevens,Judy Olson,Mike George,2
+Al Schmidt,0,1,1,0,0,0,0,2
+Anne Covey,,0,1,0,0,0,0,2
+Rebecca Warren,,,0,0,0,0,0,2
+Cheryl Allen,,,,0,0,0,0,2
+Correale Stevens,,,,,0,0,0,2
+Judy Olson,,,,,,0,0,2
+Mike George,,,,,,,0,2
+Total,1,1,1,0,0,0,0,2
+,City Commissioners - Republican,Justice Of The Supreme Court - Republican,,,,,,6
+,Al Schmidt,Anne Covey,Correale Stevens,Rebecca Warren,Cheryl Allen,Judy Olson,Mike George,6
+Al Schmidt,0,1,1,1,0,0,0,6
+Anne Covey,,0,1,1,0,0,0,6
+Correale Stevens,,,0,1,0,0,0,6
+Rebecca Warren,,,,0,0,0,0,6
+Cheryl Allen,,,,,0,0,0,6
+Judy Olson,,,,,,0,0,6
+Mike George,,,,,,,0,6
+Total,1,1,1,1,0,0,0,6
+,City Commissioners - Republican,Justice Of The Supreme Court - Republican,,,,,,7
+,Al Schmidt,Cheryl Allen,Judy Olson,Rebecca Warren,Anne Covey,Correale Stevens,Mike George,7
+Al Schmidt,0,1,1,1,0,0,0,7
+Cheryl Allen,,0,1,1,0,0,0,7
+Judy Olson,,,0,1,0,0,0,7
+Rebecca Warren,,,,0,0,0,0,7
+Anne Covey,,,,,0,0,0,7
+Correale Stevens,,,,,,0,0,7
+Mike George,,,,,,,0,7
+Total,1,1,1,1,0,0,0,7
+,Justice Of The Supreme Court - Republican,,,,,,City Commissioners - Republican,9
+,Correale Stevens,Anne Covey,Rebecca Warren,Cheryl Allen,Judy Olson,Mike George,Al Schmidt,9
+Correale Stevens,1,1,2,1,0,0,2,9
+Anne Covey,,1,1,0,0,0,1,9
+Rebecca Warren,,,0,1,0,0,2,9
+Cheryl Allen,,,,0,0,0,1,9
+Judy Olson,,,,,1,0,0,9
+Mike George,,,,,,0,0,9
+Al Schmidt,,,,,,,0,9
+Total,3,2,2,1,1,0,2,9
+,City Commissioners - Republican,Justice Of The Supreme Court - Republican,,,,,,10
+,Al Schmidt,Anne Covey,Correale Stevens,Mike George,Cheryl Allen,Judy Olson,Rebecca Warren,10
+Al Schmidt,0,1,1,1,0,0,0,10
+Anne Covey,,0,1,1,0,0,0,10
+Correale Stevens,,,0,1,0,0,0,10
+Mike George,,,,0,0,0,0,10
+Cheryl Allen,,,,,0,0,0,10
+Judy Olson,,,,,,0,0,10
+Rebecca Warren,,,,,,,0,10
+Total,1,1,1,1,0,0,0,10
+,City Commissioners - Republican,Justice Of The Supreme Court - Republican,,,,,,11
+,Al Schmidt,Anne Covey,Rebecca Warren,Correale Stevens,Judy Olson,Cheryl Allen,Mike George,11
+Al Schmidt,2,9,5,4,3,2,1,11
+Anne Covey,,1,5,4,3,2,1,11
+Rebecca Warren,,,0,2,2,1,0,11
+Correale Stevens,,,,0,1,0,0,11
+Judy Olson,,,,,0,0,0,11
+Cheryl Allen,,,,,,0,0,11
+Mike George,,,,,,,0,11
+Total,11,10,5,4,3,2,1,11
+,City Commissioners - Republican,Justice Of The Supreme Court - Republican,,,,,,12
+,Al Schmidt,Anne Covey,Cheryl Allen,Correale Stevens,Mike George,Rebecca Warren,Judy Olson,12
+Al Schmidt,0,5,5,3,2,3,1,12
+Anne Covey,,0,2,2,0,1,0,12
+Cheryl Allen,,,0,2,1,2,1,12
+Correale Stevens,,,,0,0,1,0,12
+Mike George,,,,,1,1,1,12
+Rebecca Warren,,,,,,0,0,12
+Judy Olson,,,,,,,0,12
+Total,9,5,5,3,3,3,1,12
+,City Commissioners - Republican,Justice Of The Supreme Court - Republican,,,,,,13
+,Al Schmidt,Anne Covey,Correale Stevens,Cheryl Allen,Judy Olson,Mike George,Rebecca Warren,13
+Al Schmidt,0,8,9,4,3,4,4,13
+Anne Covey,,1,5,2,3,1,3,13
+Correale Stevens,,,0,4,1,3,3,13
+Cheryl Allen,,,,0,2,1,1,13
+Judy Olson,,,,,0,0,1,13
+Mike George,,,,,,0,0,13
+Rebecca Warren,,,,,,,0,13
+Total,13,10,9,5,4,4,4,13
+,City Commissioners - Republican,Justice Of The Supreme Court - Republican,,,,,,14
+,Al Schmidt,Anne Covey,Correale Stevens,Mike George,Cheryl Allen,Judy Olson,Rebecca Warren,14
+Al Schmidt,1,4,3,3,1,2,1,14
+Anne Covey,,1,2,3,0,2,1,14
+Correale Stevens,,,0,3,2,0,1,14
+Mike George,,,,0,1,2,0,14
+Cheryl Allen,,,,,0,0,0,14
+Judy Olson,,,,,,0,0,14
+Rebecca Warren,,,,,,,0,14
+Total,7,6,5,5,2,2,1,14
+,City Commissioners - Republican,Justice Of The Supreme Court - Republican,,,,,,15
+,Al Schmidt,Anne Covey,Correale Stevens,Mike George,Cheryl Allen,Rebecca Warren,Judy Olson,15
+Al Schmidt,0,2,1,2,1,1,0,15
+Anne Covey,,0,2,1,1,1,0,15
+Correale Stevens,,,0,1,0,0,0,15
+Mike George,,,,0,0,0,0,15
+Cheryl Allen,,,,,0,1,0,15
+Rebecca Warren,,,,,,0,0,15
+Judy Olson,,,,,,,0,15
+Total,3,3,2,2,1,1,0,15
+,Justice Of The Supreme Court - Republican,,,,,,City Commissioners - Republican,16
+,Anne Covey,Correale Stevens,Judy Olson,Rebecca Warren,Cheryl Allen,Mike George,Al Schmidt,16
+Anne Covey,0,2,2,1,0,0,3,16
+Correale Stevens,,1,0,0,0,0,2,16
+Judy Olson,,,0,1,0,0,0,16
+Rebecca Warren,,,,0,0,0,0,16
+Cheryl Allen,,,,,0,0,0,16
+Mike George,,,,,,0,0,16
+Al Schmidt,,,,,,,0,16
+Total,5,3,2,1,0,0,3,16
+,City Commissioners - Republican,Justice Of The Supreme Court - Republican,,,,,,18
+,Al Schmidt,Anne Covey,Mike George,Rebecca Warren,Correale Stevens,Cheryl Allen,Judy Olson,18
+Al Schmidt,1,6,4,4,3,1,1,18
+Anne Covey,,0,2,3,0,0,1,18
+Mike George,,,0,3,2,0,0,18
+Rebecca Warren,,,,0,1,1,1,18
+Correale Stevens,,,,,0,1,0,18
+Cheryl Allen,,,,,,0,0,18
+Judy Olson,,,,,,,0,18
+Total,10,6,5,5,3,1,1,18
+,City Commissioners - Republican,Justice Of The Supreme Court - Republican,,,,,,19
+,Al Schmidt,Anne Covey,Correale Stevens,Cheryl Allen,Judy Olson,Mike George,Rebecca Warren,19
+Al Schmidt,0,2,1,0,0,0,0,19
+Anne Covey,,0,1,0,0,0,0,19
+Correale Stevens,,,0,0,0,0,0,19
+Cheryl Allen,,,,0,0,0,0,19
+Judy Olson,,,,,0,0,0,19
+Mike George,,,,,,0,0,19
+Rebecca Warren,,,,,,,0,19
+Total,2,2,1,0,0,0,0,19
+,City Commissioners - Republican,Justice Of The Supreme Court - Republican,,,,,,20
+,Al Schmidt,Anne Covey,Cheryl Allen,Correale Stevens,Rebecca Warren,Judy Olson,Mike George,20
+Al Schmidt,2,8,6,6,3,2,1,20
+Anne Covey,,0,4,4,1,2,1,20
+Cheryl Allen,,,0,4,2,1,1,20
+Correale Stevens,,,,0,3,0,0,20
+Rebecca Warren,,,,,0,0,0,20
+Judy Olson,,,,,,0,0,20
+Mike George,,,,,,,0,20
+Total,12,8,6,6,3,2,1,20
+,City Commissioners - Republican,Justice Of The Supreme Court - Republican,,,,,,21
+,Al Schmidt,Anne Covey,Cheryl Allen,Correale Stevens,Judy Olson,Mike George,Rebecca Warren,21
+Al Schmidt,0,1,0,0,0,0,0,21
+Anne Covey,,0,0,0,0,0,0,21
+Cheryl Allen,,,0,0,0,0,0,21
+Correale Stevens,,,,0,0,0,0,21
+Judy Olson,,,,,0,0,0,21
+Mike George,,,,,,0,0,21
+Rebecca Warren,,,,,,,0,21
+Total,1,1,0,0,0,0,0,21
+,City Commissioners - Republican,Justice Of The Supreme Court - Republican,,,,,,All
+,Al Schmidt,Anne Covey,Correale Stevens,Rebecca Warren,Cheryl Allen,Mike George,Judy Olson,All
+Al Schmidt,6,52,36,26,22,18,13,All
+Anne Covey,,4,25,19,11,10,13,All
+Correale Stevens,,,2,14,14,10,2,All
+Rebecca Warren,,,,0,10,4,6,All
+Cheryl Allen,,,,,0,4,5,All
+Mike George,,,,,,1,3,All
+Judy Olson,,,,,,,1,All
+Total,77,61,41,28,24,22,17,All

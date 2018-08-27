@@ -1,0 +1,424 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,division
+,Attorney General,,Auditor General,,,,All
+,Josh Shapiro,John Rafferty,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,All
+Josh Shapiro,467,0,"8,567","1,179",192,64,All
+John Rafferty,,276,573,"7,699",130,83,All
+Eugene A Depasquale,,,81,0,0,0,All
+John Brown,,,,70,0,0,All
+John J Sweeney,,,,,37,0,All
+Roy A Minet,,,,,,27,All
+Total,"10,469","8,761","9,221","8,948",359,174,All
+,Attorney General,,Auditor General,,,,1
+,Josh Shapiro,John Rafferty,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,1
+Josh Shapiro,10,0,330,45,7,2,1
+John Rafferty,,13,12,187,3,6,1
+Eugene A Depasquale,,,8,0,0,0,1
+John Brown,,,,3,0,0,1
+John J Sweeney,,,,,1,0,1
+Roy A Minet,,,,,,0,1
+Total,394,221,350,235,11,8,1
+,Attorney General,,Auditor General,,,,2
+,John Rafferty,Josh Shapiro,John Brown,Eugene A Depasquale,John J Sweeney,Roy A Minet,2
+John Rafferty,8,0,128,11,1,2,2
+Josh Shapiro,,5,14,110,3,0,2
+John Brown,,,0,0,0,0,2
+Eugene A Depasquale,,,,0,0,0,2
+John J Sweeney,,,,,1,0,2
+Roy A Minet,,,,,,1,2
+Total,150,132,142,121,5,3,2
+,Auditor General,,,,Attorney General,,3
+,John Brown,Eugene A Depasquale,John J Sweeney,Roy A Minet,John Rafferty,Josh Shapiro,3
+John Brown,3,0,0,0,141,13,3
+Eugene A Depasquale,,0,0,0,9,123,3
+John J Sweeney,,,0,0,3,5,3
+Roy A Minet,,,,1,0,1,3
+John Rafferty,,,,,3,0,3
+Josh Shapiro,,,,,,9,3
+Total,157,132,8,2,156,151,3
+,Attorney General,,Auditor General,,,,4
+,Josh Shapiro,John Rafferty,John Brown,Eugene A Depasquale,John J Sweeney,Roy A Minet,4
+Josh Shapiro,11,0,16,133,1,0,4
+John Rafferty,,2,135,6,4,1,4
+John Brown,,,0,0,0,0,4
+Eugene A Depasquale,,,,0,0,0,4
+John J Sweeney,,,,,0,0,4
+Roy A Minet,,,,,,1,4
+Total,161,148,151,139,5,2,4
+,Attorney General,,Auditor General,,,,5
+,Josh Shapiro,John Rafferty,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,5
+Josh Shapiro,8,0,173,25,2,1,5
+John Rafferty,,4,9,123,2,1,5
+Eugene A Depasquale,,,2,0,0,0,5
+John Brown,,,,0,0,0,5
+John J Sweeney,,,,,0,0,5
+Roy A Minet,,,,,,0,5
+Total,209,139,184,148,4,2,5
+,Attorney General,,Auditor General,,,,6
+,Josh Shapiro,John Rafferty,John Brown,Eugene A Depasquale,John J Sweeney,Roy A Minet,6
+Josh Shapiro,13,0,51,144,1,0,6
+John Rafferty,,7,143,7,1,0,6
+John Brown,,,0,0,0,0,6
+Eugene A Depasquale,,,,2,0,0,6
+John J Sweeney,,,,,0,0,6
+Roy A Minet,,,,,,1,6
+Total,209,158,194,153,2,1,6
+,Auditor General,,,,Attorney General,,7
+,John Brown,Eugene A Depasquale,John J Sweeney,Roy A Minet,John Rafferty,Josh Shapiro,7
+John Brown,5,0,0,0,142,19,7
+Eugene A Depasquale,,1,0,0,7,119,7
+John J Sweeney,,,1,0,1,2,7
+Roy A Minet,,,,0,1,0,7
+John Rafferty,,,,,5,0,7
+Josh Shapiro,,,,,,7,7
+Total,166,127,4,1,156,147,7
+,Attorney General,,Auditor General,,,,8
+,Josh Shapiro,John Rafferty,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,8
+Josh Shapiro,24,0,537,46,11,0,8
+John Rafferty,,9,10,283,2,2,8
+Eugene A Depasquale,,,4,0,0,0,8
+John Brown,,,,3,0,0,8
+John J Sweeney,,,,,2,0,8
+Roy A Minet,,,,,,0,8
+Total,618,306,551,332,15,2,8
+,Attorney General,,Auditor General,,,,9
+,John Rafferty,Josh Shapiro,John Brown,Eugene A Depasquale,John J Sweeney,Roy A Minet,9
+John Rafferty,8,0,179,14,5,3,9
+Josh Shapiro,,11,27,127,0,1,9
+John Brown,,,0,0,0,0,9
+Eugene A Depasquale,,,,1,0,0,9
+John J Sweeney,,,,,0,0,9
+Roy A Minet,,,,,,0,9
+Total,209,166,206,142,5,4,9
+,Attorney General,,Auditor General,,,,10
+,Josh Shapiro,John Rafferty,John Brown,Eugene A Depasquale,John J Sweeney,Roy A Minet,10
+Josh Shapiro,12,0,28,169,4,2,10
+John Rafferty,,4,159,6,1,0,10
+John Brown,,,1,0,0,0,10
+Eugene A Depasquale,,,,2,0,0,10
+John J Sweeney,,,,,1,0,10
+Roy A Minet,,,,,,1,10
+Total,215,170,188,177,6,3,10
+,Attorney General,,Auditor General,,,,11
+,John Rafferty,Josh Shapiro,John Brown,Eugene A Depasquale,John J Sweeney,Roy A Minet,11
+John Rafferty,7,0,189,14,8,2,11
+Josh Shapiro,,15,23,142,5,2,11
+John Brown,,,1,0,0,0,11
+Eugene A Depasquale,,,,3,0,0,11
+John J Sweeney,,,,,0,0,11
+Roy A Minet,,,,,,0,11
+Total,220,187,213,159,13,4,11
+,Attorney General,,Auditor General,,,,12
+,Josh Shapiro,John Rafferty,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,12
+Josh Shapiro,8,0,210,18,5,1,12
+John Rafferty,,3,11,125,5,2,12
+Eugene A Depasquale,,,0,0,0,0,12
+John Brown,,,,1,0,0,12
+John J Sweeney,,,,,0,0,12
+Roy A Minet,,,,,,1,12
+Total,242,146,221,144,10,4,12
+,Attorney General,,Auditor General,,,,13
+,Josh Shapiro,John Rafferty,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,13
+Josh Shapiro,8,0,139,17,3,2,13
+John Rafferty,,2,13,99,2,0,13
+Eugene A Depasquale,,,0,0,0,0,13
+John Brown,,,,1,0,0,13
+John J Sweeney,,,,,1,0,13
+Roy A Minet,,,,,,1,13
+Total,169,116,152,117,6,3,13
+,Auditor General,,,,Attorney General,,14
+,John Brown,Eugene A Depasquale,John J Sweeney,Roy A Minet,John Rafferty,Josh Shapiro,14
+John Brown,1,0,0,0,176,37,14
+Eugene A Depasquale,,0,0,0,20,151,14
+John J Sweeney,,,1,0,4,4,14
+Roy A Minet,,,,0,3,3,14
+John Rafferty,,,,,4,0,14
+Josh Shapiro,,,,,,10,14
+Total,214,171,9,6,207,205,14
+,Attorney General,,Auditor General,,,,15
+,Josh Shapiro,John Rafferty,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,15
+Josh Shapiro,6,0,250,19,5,2,15
+John Rafferty,,5,18,178,4,1,15
+Eugene A Depasquale,,,1,0,0,0,15
+John Brown,,,,0,0,0,15
+John J Sweeney,,,,,1,0,15
+Roy A Minet,,,,,,0,15
+Total,282,206,269,197,10,3,15
+,Attorney General,,Auditor General,,,,16
+,Josh Shapiro,John Rafferty,John Brown,Eugene A Depasquale,John J Sweeney,Roy A Minet,16
+Josh Shapiro,8,0,19,110,4,0,16
+John Rafferty,,2,115,9,0,2,16
+John Brown,,,1,0,0,0,16
+Eugene A Depasquale,,,,1,0,0,16
+John J Sweeney,,,,,2,0,16
+Roy A Minet,,,,,,0,16
+Total,141,128,135,120,6,2,16
+,Auditor General,,,,Attorney General,,17
+,John Brown,Eugene A Depasquale,John J Sweeney,Roy A Minet,John Rafferty,Josh Shapiro,17
+John Brown,0,0,0,0,177,15,17
+Eugene A Depasquale,,0,0,0,6,126,17
+John J Sweeney,,,1,0,1,3,17
+Roy A Minet,,,,1,2,0,17
+John Rafferty,,,,,6,0,17
+Josh Shapiro,,,,,,7,17
+Total,192,132,5,3,192,151,17
+,Attorney General,,Auditor General,,,,18
+,Josh Shapiro,John Rafferty,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,18
+Josh Shapiro,11,0,186,22,5,1,18
+John Rafferty,,12,16,158,1,0,18
+Eugene A Depasquale,,,4,0,0,0,18
+John Brown,,,,3,0,0,18
+John J Sweeney,,,,,1,0,18
+Roy A Minet,,,,,,3,18
+Total,225,187,206,183,7,4,18
+,Attorney General,,Auditor General,,,,19
+,Josh Shapiro,John Rafferty,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,19
+Josh Shapiro,4,0,206,12,5,2,19
+John Rafferty,,5,10,137,4,4,19
+Eugene A Depasquale,,,0,0,0,0,19
+John Brown,,,,3,0,0,19
+John J Sweeney,,,,,3,0,19
+Roy A Minet,,,,,,1,19
+Total,229,160,216,152,12,7,19
+,Attorney General,,Auditor General,,,,20
+,Josh Shapiro,John Rafferty,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,20
+Josh Shapiro,11,0,189,26,4,2,20
+John Rafferty,,7,12,142,3,1,20
+Eugene A Depasquale,,,3,0,0,0,20
+John Brown,,,,0,0,0,20
+John J Sweeney,,,,,0,0,20
+Roy A Minet,,,,,,3,20
+Total,232,165,204,168,7,6,20
+,Attorney General,,Auditor General,,,,21
+,Josh Shapiro,John Rafferty,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,21
+Josh Shapiro,10,0,319,35,10,1,21
+John Rafferty,,6,9,242,3,2,21
+Eugene A Depasquale,,,3,0,0,0,21
+John Brown,,,,5,0,0,21
+John J Sweeney,,,,,1,0,21
+Roy A Minet,,,,,,2,21
+Total,375,262,331,282,14,5,21
+,Attorney General,,Auditor General,,,,22
+,Josh Shapiro,John Rafferty,Eugene A Depasquale,John Brown,Roy A Minet,John J Sweeney,22
+Josh Shapiro,16,0,306,49,4,6,22
+John Rafferty,,8,16,230,6,2,22
+Eugene A Depasquale,,,2,0,0,0,22
+John Brown,,,,3,0,0,22
+Roy A Minet,,,,,1,0,22
+John J Sweeney,,,,,,1,22
+Total,381,262,324,282,11,9,22
+,Attorney General,,Auditor General,,,,23
+,Josh Shapiro,John Rafferty,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,23
+Josh Shapiro,14,0,217,35,7,3,23
+John Rafferty,,3,16,160,3,1,23
+Eugene A Depasquale,,,1,0,0,0,23
+John Brown,,,,0,0,0,23
+John J Sweeney,,,,,4,0,23
+Roy A Minet,,,,,,0,23
+Total,276,183,234,195,14,4,23
+,Attorney General,,Auditor General,,,,24
+,Josh Shapiro,John Rafferty,John Brown,Eugene A Depasquale,John J Sweeney,Roy A Minet,24
+Josh Shapiro,10,0,22,164,3,0,24
+John Rafferty,,8,162,14,2,1,24
+John Brown,,,0,0,0,0,24
+Eugene A Depasquale,,,,2,0,0,24
+John J Sweeney,,,,,0,0,24
+Roy A Minet,,,,,,0,24
+Total,199,187,184,180,5,1,24
+,Attorney General,,Auditor General,,,,25
+,John Rafferty,Josh Shapiro,John Brown,Eugene A Depasquale,John J Sweeney,Roy A Minet,25
+John Rafferty,7,0,158,16,1,3,25
+Josh Shapiro,,7,14,98,2,0,25
+John Brown,,,2,0,0,0,25
+Eugene A Depasquale,,,,2,0,0,25
+John J Sweeney,,,,,1,0,25
+Roy A Minet,,,,,,0,25
+Total,185,121,174,116,4,3,25
+,Attorney General,,Auditor General,,,,26
+,Josh Shapiro,John Rafferty,John Brown,Eugene A Depasquale,John J Sweeney,Roy A Minet,26
+Josh Shapiro,15,0,25,198,6,1,26
+John Rafferty,,1,192,15,4,0,26
+John Brown,,,1,0,0,0,26
+Eugene A Depasquale,,,,3,0,0,26
+John J Sweeney,,,,,3,0,26
+Roy A Minet,,,,,,1,26
+Total,245,212,218,216,13,2,26
+,Attorney General,,Auditor General,,,,27
+,Josh Shapiro,John Rafferty,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,27
+Josh Shapiro,9,0,172,14,5,1,27
+John Rafferty,,2,8,108,2,3,27
+Eugene A Depasquale,,,0,0,0,0,27
+John Brown,,,,0,0,0,27
+John J Sweeney,,,,,0,0,27
+Roy A Minet,,,,,,0,27
+Total,201,123,180,122,7,4,27
+,Attorney General,,Auditor General,,,,28
+,Josh Shapiro,John Rafferty,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,28
+Josh Shapiro,7,0,183,26,5,1,28
+John Rafferty,,3,6,155,7,1,28
+Eugene A Depasquale,,,0,0,0,0,28
+John Brown,,,,3,0,0,28
+John J Sweeney,,,,,3,0,28
+Roy A Minet,,,,,,3,28
+Total,222,172,189,184,15,5,28
+,Auditor General,,,,Attorney General,,29
+,John Brown,Eugene A Depasquale,Roy A Minet,John J Sweeney,John Rafferty,Josh Shapiro,29
+John Brown,4,0,0,0,250,38,29
+Eugene A Depasquale,,7,0,0,10,178,29
+Roy A Minet,,,0,0,3,4,29
+John J Sweeney,,,,1,1,2,29
+John Rafferty,,,,,4,0,29
+Josh Shapiro,,,,,,7,29
+Total,292,195,7,4,268,229,29
+,Auditor General,,,,Attorney General,,30
+,John Brown,Eugene A Depasquale,John J Sweeney,Roy A Minet,John Rafferty,Josh Shapiro,30
+John Brown,1,0,0,0,194,19,30
+Eugene A Depasquale,,1,0,0,9,174,30
+John J Sweeney,,,0,0,1,4,30
+Roy A Minet,,,,0,2,0,30
+John Rafferty,,,,,0,0,30
+Josh Shapiro,,,,,,8,30
+Total,214,184,5,2,206,205,30
+,Attorney General,,Auditor General,,,,31
+,John Rafferty,Josh Shapiro,John Brown,Eugene A Depasquale,John J Sweeney,Roy A Minet,31
+John Rafferty,9,0,168,14,6,2,31
+Josh Shapiro,,6,24,156,6,3,31
+John Brown,,,2,0,0,0,31
+Eugene A Depasquale,,,,1,0,0,31
+John J Sweeney,,,,,1,0,31
+Roy A Minet,,,,,,0,31
+Total,199,195,194,171,13,5,31
+,Attorney General,,Auditor General,,,,32
+,Josh Shapiro,John Rafferty,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,32
+Josh Shapiro,21,0,199,27,3,2,32
+John Rafferty,,7,15,139,3,2,32
+Eugene A Depasquale,,,1,0,0,0,32
+John Brown,,,,0,0,0,32
+John J Sweeney,,,,,0,0,32
+Roy A Minet,,,,,,0,32
+Total,252,166,215,166,6,4,32
+,Attorney General,,Auditor General,,,,33
+,Josh Shapiro,John Rafferty,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,33
+Josh Shapiro,12,0,229,30,3,5,33
+John Rafferty,,6,19,200,3,1,33
+Eugene A Depasquale,,,3,0,0,0,33
+John Brown,,,,1,0,0,33
+John J Sweeney,,,,,1,0,33
+Roy A Minet,,,,,,0,33
+Total,279,229,251,231,7,6,33
+,Auditor General,,,,Attorney General,,34
+,John Brown,Eugene A Depasquale,John J Sweeney,Roy A Minet,John Rafferty,Josh Shapiro,34
+John Brown,3,0,0,0,175,42,34
+Eugene A Depasquale,,4,0,0,13,119,34
+John J Sweeney,,,2,0,1,4,34
+Roy A Minet,,,,1,2,0,34
+John Rafferty,,,,,6,0,34
+Josh Shapiro,,,,,,14,34
+Total,220,136,7,3,197,179,34
+,Attorney General,,Auditor General,,,,35
+,John Rafferty,Josh Shapiro,John Brown,Eugene A Depasquale,John J Sweeney,Roy A Minet,35
+John Rafferty,7,0,196,25,2,1,35
+Josh Shapiro,,8,22,184,4,0,35
+John Brown,,,0,0,0,0,35
+Eugene A Depasquale,,,,1,0,0,35
+John J Sweeney,,,,,0,0,35
+Roy A Minet,,,,,,0,35
+Total,231,218,218,210,6,1,35
+,Auditor General,,,,Attorney General,,36
+,John Brown,Eugene A Depasquale,John J Sweeney,Roy A Minet,John Rafferty,Josh Shapiro,36
+John Brown,2,0,0,0,271,26,36
+Eugene A Depasquale,,2,0,0,16,219,36
+John J Sweeney,,,1,0,0,6,36
+Roy A Minet,,,,0,2,1,36
+John Rafferty,,,,,5,0,36
+Josh Shapiro,,,,,,11,36
+Total,299,237,7,3,294,263,36
+,Attorney General,,Auditor General,,,,37
+,Josh Shapiro,John Rafferty,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,37
+Josh Shapiro,3,0,190,6,7,1,37
+John Rafferty,,3,6,108,1,1,37
+Eugene A Depasquale,,,0,0,0,0,37
+John Brown,,,,2,0,0,37
+John J Sweeney,,,,,1,0,37
+Roy A Minet,,,,,,1,37
+Total,207,119,196,116,9,3,37
+,Attorney General,,Auditor General,,,,38
+,Josh Shapiro,John Rafferty,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,38
+Josh Shapiro,8,0,200,31,6,2,38
+John Rafferty,,4,11,164,5,1,38
+Eugene A Depasquale,,,2,0,0,0,38
+John Brown,,,,1,0,0,38
+John J Sweeney,,,,,0,0,38
+Roy A Minet,,,,,,0,38
+Total,247,185,213,196,11,3,38
+,Attorney General,,Auditor General,,,,39
+,Josh Shapiro,John Rafferty,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,39
+Josh Shapiro,8,0,196,22,3,1,39
+John Rafferty,,4,13,156,2,1,39
+Eugene A Depasquale,,,0,0,0,0,39
+John Brown,,,,3,0,0,39
+John J Sweeney,,,,,0,0,39
+Roy A Minet,,,,,,2,39
+Total,230,176,209,181,5,4,39
+,Attorney General,,Auditor General,,,,40
+,Josh Shapiro,John Rafferty,Eugene A Depasquale,John Brown,John J Sweeney,Roy A Minet,40
+Josh Shapiro,7,0,132,19,4,2,40
+John Rafferty,,9,14,110,3,4,40
+Eugene A Depasquale,,,1,0,0,0,40
+John Brown,,,,0,0,0,40
+John J Sweeney,,,,,0,0,40
+Roy A Minet,,,,,,1,40
+Total,164,140,147,129,7,7,40
+,Attorney General,,Auditor General,,,,41
+,Josh Shapiro,John Rafferty,Eugene A Depasquale,John Brown,Roy A Minet,John J Sweeney,41
+Josh Shapiro,5,0,331,31,3,1,41
+John Rafferty,,7,7,116,1,2,41
+Eugene A Depasquale,,,3,0,0,0,41
+John Brown,,,,1,0,0,41
+Roy A Minet,,,,,0,0,41
+John J Sweeney,,,,,,0,41
+Total,371,133,341,148,4,3,41
+,Attorney General,,Auditor General,,,,42
+,John Rafferty,Josh Shapiro,John Brown,Eugene A Depasquale,John J Sweeney,Roy A Minet,42
+John Rafferty,10,0,171,9,1,1,42
+Josh Shapiro,,12,14,122,5,1,42
+John Brown,,,2,0,0,0,42
+Eugene A Depasquale,,,,6,0,0,42
+John J Sweeney,,,,,0,0,42
+Roy A Minet,,,,,,0,42
+Total,192,154,187,137,6,2,42
+,Attorney General,,Auditor General,,,,43
+,John Rafferty,Josh Shapiro,John Brown,Eugene A Depasquale,John J Sweeney,Roy A Minet,43
+John Rafferty,27,0,214,23,9,1,43
+Josh Shapiro,,21,31,215,5,2,43
+John Brown,,,1,0,0,0,43
+Eugene A Depasquale,,,,2,0,0,43
+John J Sweeney,,,,,0,0,43
+Roy A Minet,,,,,,0,43
+Total,274,274,246,240,14,3,43
+,Auditor General,,,,Attorney General,,44
+,John Brown,Eugene A Depasquale,John J Sweeney,Roy A Minet,John Rafferty,Josh Shapiro,44
+John Brown,4,0,0,0,189,31,44
+Eugene A Depasquale,,1,0,0,19,155,44
+John J Sweeney,,,1,0,4,5,44
+Roy A Minet,,,,0,2,4,44
+John Rafferty,,,,,7,0,44
+Josh Shapiro,,,,,,16,44
+Total,224,175,10,6,221,211,44
+,Auditor General,,,,Attorney General,,45
+,John Brown,Eugene A Depasquale,John J Sweeney,Roy A Minet,John Rafferty,Josh Shapiro,45
+John Brown,0,0,0,0,147,25,45
+Eugene A Depasquale,,0,0,0,12,103,45
+John J Sweeney,,,0,0,4,0,45
+Roy A Minet,,,,0,2,0,45
+John Rafferty,,,,,3,0,45
+Josh Shapiro,,,,,,7,45
+Total,172,115,4,2,168,135,45
+,Auditor General,,,,Attorney General,,46
+,John Brown,Eugene A Depasquale,John J Sweeney,Roy A Minet,John Rafferty,Josh Shapiro,46
+John Brown,3,0,0,0,208,29,46
+Eugene A Depasquale,,1,0,0,18,134,46
+John J Sweeney,,,0,0,3,1,46
+Roy A Minet,,,,0,4,0,46
+John Rafferty,,,,,4,0,46
+Josh Shapiro,,,,,,7,46
+Total,240,153,4,4,237,171,46

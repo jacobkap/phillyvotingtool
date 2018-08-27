@@ -1,11 +1,11 @@
 col_1,col_2,col_3,col_4,col_5,division
-,City Commissioners,,,District Council 7th District,1
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Maria Quinones Sanchez,1
-Anthony Clark,8,50,1,0,1
-Lisa M Deeley,,6,1,0,1
-Al Schmidt,,,0,0,1
-Maria Quinones Sanchez,,,,0,1
-Total,59,57,2,0,1
+,District Council 7th District,City Commissioners,,,All
+,Maria Quinones Sanchez,Anthony Clark,Lisa M Deeley,Al Schmidt,All
+Maria Quinones Sanchez,107,636,586,13,All
+Anthony Clark,,30,558,2,All
+Lisa M Deeley,,,20,6,All
+Al Schmidt,,,,29,All
+Total,797,686,627,43,All
 ,District Council 7th District,City Commissioners,,,2
 ,Maria Quinones Sanchez,Anthony Clark,Lisa M Deeley,Al Schmidt,2
 Maria Quinones Sanchez,19,105,98,5,2
@@ -55,20 +55,6 @@ Anthony Clark,,3,31,0,8
 Lisa M Deeley,,,2,2,8
 Al Schmidt,,,,3,8
 Total,47,40,40,5,8
-,City Commissioners,,,District Council 7th District,9
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Maria Quinones Sanchez,9
-Anthony Clark,12,52,0,0,9
-Lisa M Deeley,,4,2,0,9
-Al Schmidt,,,2,0,9
-Maria Quinones Sanchez,,,,0,9
-Total,64,58,4,0,9
-,City Commissioners,,,District Council 7th District,10
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Maria Quinones Sanchez,10
-Anthony Clark,10,44,0,0,10
-Lisa M Deeley,,6,0,0,10
-Al Schmidt,,,1,0,10
-Maria Quinones Sanchez,,,,0,10
-Total,54,50,1,0,10
 ,City Commissioners,,,District Council 7th District,11
 ,Anthony Clark,Lisa M Deeley,Al Schmidt,Maria Quinones Sanchez,11
 Anthony Clark,4,32,0,34,11
@@ -83,34 +69,6 @@ Anthony Clark,,3,38,0,12
 Lisa M Deeley,,,1,0,12
 Al Schmidt,,,,0,12
 Total,61,50,43,1,12
-,City Commissioners,,,District Council 7th District,13
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Maria Quinones Sanchez,13
-Anthony Clark,15,33,0,0,13
-Lisa M Deeley,,8,1,0,13
-Al Schmidt,,,0,0,13
-Maria Quinones Sanchez,,,,0,13
-Total,48,42,1,0,13
-,City Commissioners,,,District Council 7th District,14
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Maria Quinones Sanchez,14
-Anthony Clark,16,43,0,0,14
-Lisa M Deeley,,9,0,0,14
-Al Schmidt,,,2,0,14
-Maria Quinones Sanchez,,,,0,14
-Total,59,52,2,0,14
-,City Commissioners,,,District Council 7th District,15
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Maria Quinones Sanchez,15
-Anthony Clark,7,76,1,0,15
-Lisa M Deeley,,1,0,0,15
-Al Schmidt,,,0,0,15
-Maria Quinones Sanchez,,,,0,15
-Total,84,77,1,0,15
-,City Commissioners,,,District Council 7th District,16
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Maria Quinones Sanchez,16
-Anthony Clark,20,49,0,0,16
-Lisa M Deeley,,7,0,0,16
-Al Schmidt,,,0,0,16
-Maria Quinones Sanchez,,,,0,16
-Total,69,56,0,0,16
 ,District Council 7th District,City Commissioners,,,17
 ,Maria Quinones Sanchez,Anthony Clark,Lisa M Deeley,Al Schmidt,17
 Maria Quinones Sanchez,13,19,21,1,17
@@ -139,45 +97,3 @@ Lisa M Deeley,,3,34,0,20
 Anthony Clark,,,1,0,20
 Al Schmidt,,,,5,20
 Total,43,41,39,5,20
-,City Commissioners,,,District Council 7th District,21
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Maria Quinones Sanchez,21
-Anthony Clark,10,41,1,0,21
-Lisa M Deeley,,2,1,0,21
-Al Schmidt,,,0,0,21
-Maria Quinones Sanchez,,,,0,21
-Total,52,44,2,0,21
-,City Commissioners,,,District Council 7th District,22
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Maria Quinones Sanchez,22
-Anthony Clark,15,41,1,0,22
-Lisa M Deeley,,4,0,0,22
-Al Schmidt,,,2,0,22
-Maria Quinones Sanchez,,,,0,22
-Total,57,45,3,0,22
-,City Commissioners,,,District Council 7th District,23
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Maria Quinones Sanchez,23
-Anthony Clark,28,33,1,0,23
-Lisa M Deeley,,5,0,0,23
-Al Schmidt,,,3,0,23
-Maria Quinones Sanchez,,,,0,23
-Total,62,38,4,0,23
-,City Commissioners,,,District Council 7th District,24
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Maria Quinones Sanchez,24
-Anthony Clark,27,65,1,0,24
-Lisa M Deeley,,6,2,0,24
-Al Schmidt,,,0,0,24
-Maria Quinones Sanchez,,,,0,24
-Total,93,73,3,0,24
-,City Commissioners,,,District Council 7th District,25
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Maria Quinones Sanchez,25
-Anthony Clark,13,48,0,0,25
-Lisa M Deeley,,9,2,0,25
-Al Schmidt,,,2,0,25
-Maria Quinones Sanchez,,,,0,25
-Total,61,59,4,0,25
-,City Commissioners,,,District Council 7th District,All
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Maria Quinones Sanchez,All
-Anthony Clark,211,"1,133",8,636,All
-Lisa M Deeley,,87,15,586,All
-Al Schmidt,,,41,13,All
-Maria Quinones Sanchez,,,,107,All
-Total,"1,448","1,278",70,797,All

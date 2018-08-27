@@ -1,15 +1,15 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,division
-,Justice Of The Supreme Court,,,,,,,District Council 7th District,1
-,Christine Donohue,Kevin M Dougherty,David Wecht,Anne Covey,Judy Olson,Mike George,Paul P Panepinto,Maria Quinones Sanchez,1
-Christine Donohue,8,51,50,1,0,0,0,0,1
-Kevin M Dougherty,,6,51,1,1,0,0,0,1
-David Wecht,,,3,0,1,0,0,0,1
-Anne Covey,,,,0,0,0,0,0,1
-Judy Olson,,,,,0,0,0,0,1
-Mike George,,,,,,0,0,0,1
-Paul P Panepinto,,,,,,,0,0,1
-Maria Quinones Sanchez,,,,,,,,0,1
-Total,60,59,55,1,1,0,0,0,1
+,District Council 7th District,Justice Of The Supreme Court,,,,,,,All
+,Maria Quinones Sanchez,Kevin M Dougherty,Christine Donohue,David Wecht,Judy Olson,Anne Covey,Mike George,Paul P Panepinto,All
+Maria Quinones Sanchez,44,671,601,575,10,9,7,3,All
+Kevin M Dougherty,,64,590,584,4,6,1,2,All
+Christine Donohue,,,18,581,2,1,1,1,All
+David Wecht,,,,15,4,3,2,1,All
+Judy Olson,,,,,5,30,28,1,All
+Anne Covey,,,,,,1,27,0,All
+Mike George,,,,,,,1,0,All
+Paul P Panepinto,,,,,,,,1,All
+Total,797,784,664,637,41,36,32,4,All
 ,District Council 7th District,Justice Of The Supreme Court,,,,,,,2
 ,Maria Quinones Sanchez,Kevin M Dougherty,Christine Donohue,David Wecht,Anne Covey,Judy Olson,Mike George,Paul P Panepinto,2
 Maria Quinones Sanchez,2,120,105,98,2,2,1,1,2
@@ -87,28 +87,6 @@ Anne Covey,,,,,,0,1,0,8
 Mike George,,,,,,,0,0,8
 Paul P Panepinto,,,,,,,,0,8
 Total,47,44,39,38,4,3,2,0,8
-,Justice Of The Supreme Court,,,,,,,District Council 7th District,9
-,Christine Donohue,Kevin M Dougherty,David Wecht,Anne Covey,Judy Olson,Paul P Panepinto,Mike George,Maria Quinones Sanchez,9
-Christine Donohue,9,56,49,1,0,1,0,0,9
-Kevin M Dougherty,,10,48,1,0,1,0,0,9
-David Wecht,,,4,0,0,0,0,0,9
-Anne Covey,,,,0,1,0,0,0,9
-Judy Olson,,,,,0,0,0,0,9
-Paul P Panepinto,,,,,,0,0,0,9
-Mike George,,,,,,,0,0,9
-Maria Quinones Sanchez,,,,,,,,0,9
-Total,68,68,55,2,1,1,0,0,9
-,Justice Of The Supreme Court,,,,,,,District Council 7th District,10
-,Kevin M Dougherty,David Wecht,Christine Donohue,Judy Olson,Anne Covey,Mike George,Paul P Panepinto,Maria Quinones Sanchez,10
-Kevin M Dougherty,8,43,42,1,0,0,1,0,10
-David Wecht,,4,40,1,0,0,0,0,10
-Christine Donohue,,,4,0,0,0,1,0,10
-Judy Olson,,,,0,1,1,0,0,10
-Anne Covey,,,,,0,1,0,0,10
-Mike George,,,,,,0,0,0,10
-Paul P Panepinto,,,,,,,0,0,10
-Maria Quinones Sanchez,,,,,,,,0,10
-Total,53,47,46,2,1,1,1,0,10
 ,Justice Of The Supreme Court,,,,,,,District Council 7th District,11
 ,Christine Donohue,Kevin M Dougherty,David Wecht,Anne Covey,Judy Olson,Mike George,Paul P Panepinto,Maria Quinones Sanchez,11
 Christine Donohue,2,33,32,0,0,0,0,33,11
@@ -131,50 +109,6 @@ Judy Olson,,,,,,0,1,0,12
 Mike George,,,,,,,0,0,12
 Paul P Panepinto,,,,,,,,0,12
 Total,61,57,48,42,1,1,1,0,12
-,Justice Of The Supreme Court,,,,,,,District Council 7th District,13
-,Kevin M Dougherty,David Wecht,Christine Donohue,Judy Olson,Paul P Panepinto,Anne Covey,Mike George,Maria Quinones Sanchez,13
-Kevin M Dougherty,24,36,36,1,1,0,0,0,13
-David Wecht,,6,36,0,0,0,0,0,13
-Christine Donohue,,,2,0,1,0,0,0,13
-Judy Olson,,,,1,0,0,0,0,13
-Paul P Panepinto,,,,,0,0,0,0,13
-Anne Covey,,,,,,0,0,0,13
-Mike George,,,,,,,0,0,13
-Maria Quinones Sanchez,,,,,,,,0,13
-Total,63,44,40,2,1,0,0,0,13
-,Justice Of The Supreme Court,,,,,,,District Council 7th District,14
-,Kevin M Dougherty,David Wecht,Christine Donohue,Mike George,Anne Covey,Judy Olson,Paul P Panepinto,Maria Quinones Sanchez,14
-Kevin M Dougherty,20,45,45,0,0,0,0,0,14
-David Wecht,,7,45,0,0,0,1,0,14
-Christine Donohue,,,4,0,0,0,1,0,14
-Mike George,,,,1,2,2,0,0,14
-Anne Covey,,,,,0,2,0,0,14
-Judy Olson,,,,,,0,0,0,14
-Paul P Panepinto,,,,,,,0,0,14
-Maria Quinones Sanchez,,,,,,,,0,14
-Total,67,54,51,3,2,2,1,0,14
-,Justice Of The Supreme Court,,,,,,,District Council 7th District,15
-,Kevin M Dougherty,David Wecht,Christine Donohue,Anne Covey,Judy Olson,Mike George,Paul P Panepinto,Maria Quinones Sanchez,15
-Kevin M Dougherty,12,73,72,0,0,0,0,0,15
-David Wecht,,3,72,1,0,0,0,0,15
-Christine Donohue,,,3,1,0,0,0,0,15
-Anne Covey,,,,0,0,0,0,0,15
-Judy Olson,,,,,0,0,0,0,15
-Mike George,,,,,,0,0,0,15
-Paul P Panepinto,,,,,,,0,0,15
-Maria Quinones Sanchez,,,,,,,,0,15
-Total,86,77,76,1,0,0,0,0,15
-,Justice Of The Supreme Court,,,,,,,District Council 7th District,16
-,Kevin M Dougherty,Christine Donohue,David Wecht,Anne Covey,Judy Olson,Mike George,Paul P Panepinto,Maria Quinones Sanchez,16
-Kevin M Dougherty,17,58,57,0,0,0,0,0,16
-Christine Donohue,,4,58,0,0,0,0,0,16
-David Wecht,,,4,0,0,0,0,0,16
-Anne Covey,,,,0,0,0,0,0,16
-Judy Olson,,,,,0,0,0,0,16
-Mike George,,,,,,0,0,0,16
-Paul P Panepinto,,,,,,,0,0,16
-Maria Quinones Sanchez,,,,,,,,0,16
-Total,77,65,64,0,0,0,0,0,16
 ,District Council 7th District,Justice Of The Supreme Court,,,,,,,17
 ,Maria Quinones Sanchez,Kevin M Dougherty,Christine Donohue,David Wecht,Judy Olson,Anne Covey,Mike George,Paul P Panepinto,17
 Maria Quinones Sanchez,5,24,20,17,1,0,0,0,17
@@ -219,69 +153,3 @@ Mike George,,,,,,0,0,0,20
 Paul P Panepinto,,,,,,,0,0,20
 Maria Quinones Sanchez,,,,,,,,1,20
 Total,51,39,35,5,4,4,0,43,20
-,Justice Of The Supreme Court,,,,,,,District Council 7th District,21
-,Kevin M Dougherty,David Wecht,Christine Donohue,Mike George,Judy Olson,Anne Covey,Paul P Panepinto,Maria Quinones Sanchez,21
-Kevin M Dougherty,11,44,44,2,0,0,0,0,21
-David Wecht,,3,44,0,1,0,0,0,21
-Christine Donohue,,,1,1,1,0,0,0,21
-Mike George,,,,1,1,0,0,0,21
-Judy Olson,,,,,0,0,0,0,21
-Anne Covey,,,,,,0,0,0,21
-Paul P Panepinto,,,,,,,0,0,21
-Maria Quinones Sanchez,,,,,,,,0,21
-Total,58,49,47,4,2,0,0,0,21
-,Justice Of The Supreme Court,,,,,,,District Council 7th District,22
-,David Wecht,Kevin M Dougherty,Christine Donohue,Anne Covey,Mike George,Judy Olson,Paul P Panepinto,Maria Quinones Sanchez,22
-David Wecht,12,47,45,1,0,0,0,0,22
-Kevin M Dougherty,,11,46,2,0,0,0,0,22
-Christine Donohue,,,5,1,0,0,0,0,22
-Anne Covey,,,,0,1,1,0,0,22
-Mike George,,,,,1,1,0,0,22
-Judy Olson,,,,,,0,0,0,22
-Paul P Panepinto,,,,,,,0,0,22
-Maria Quinones Sanchez,,,,,,,,0,22
-Total,59,59,51,3,2,1,0,0,22
-,Justice Of The Supreme Court,,,,,,,District Council 7th District,23
-,Kevin M Dougherty,Christine Donohue,David Wecht,Judy Olson,Anne Covey,Mike George,Paul P Panepinto,Maria Quinones Sanchez,23
-Kevin M Dougherty,38,39,40,2,1,0,0,0,23
-Christine Donohue,,7,40,0,0,0,0,0,23
-David Wecht,,,1,0,0,0,0,0,23
-Judy Olson,,,,1,3,2,0,0,23
-Anne Covey,,,,,0,2,0,0,23
-Mike George,,,,,,0,0,0,23
-Paul P Panepinto,,,,,,,0,0,23
-Maria Quinones Sanchez,,,,,,,,0,23
-Total,81,48,43,5,3,2,0,0,23
-,Justice Of The Supreme Court,,,,,,,District Council 7th District,24
-,Kevin M Dougherty,David Wecht,Christine Donohue,Anne Covey,Judy Olson,Mike George,Paul P Panepinto,Maria Quinones Sanchez,24
-Kevin M Dougherty,18,76,69,2,1,0,0,0,24
-David Wecht,,8,70,1,0,0,0,0,24
-Christine Donohue,,,5,0,0,0,0,0,24
-Anne Covey,,,,0,3,2,0,0,24
-Judy Olson,,,,,0,2,0,0,24
-Mike George,,,,,,0,0,0,24
-Paul P Panepinto,,,,,,,0,0,24
-Maria Quinones Sanchez,,,,,,,,0,24
-Total,95,85,75,4,3,2,0,0,24
-,Justice Of The Supreme Court,,,,,,,District Council 7th District,25
-,Kevin M Dougherty,David Wecht,Christine Donohue,Judy Olson,Mike George,Anne Covey,Paul P Panepinto,Maria Quinones Sanchez,25
-Kevin M Dougherty,21,50,49,0,0,0,0,0,25
-David Wecht,,6,51,1,0,0,0,0,25
-Christine Donohue,,,3,1,1,0,0,0,25
-Judy Olson,,,,1,2,2,0,0,25
-Mike George,,,,,1,2,0,0,25
-Anne Covey,,,,,,0,0,0,25
-Paul P Panepinto,,,,,,,0,0,25
-Maria Quinones Sanchez,,,,,,,,0,25
-Total,71,58,55,4,4,2,0,0,25
-,Justice Of The Supreme Court,,,,,,,District Council 7th District,All
-,Kevin M Dougherty,Christine Donohue,David Wecht,Judy Olson,Anne Covey,Mike George,Paul P Panepinto,Maria Quinones Sanchez,All
-Kevin M Dougherty,260,"1,197","1,194",10,13,3,5,671,All
-Christine Donohue,,73,"1,181",4,5,3,5,601,All
-David Wecht,,,76,8,6,2,2,575,All
-Judy Olson,,,,8,43,39,1,10,All
-Anne Covey,,,,,1,37,0,9,All
-Mike George,,,,,,5,0,7,All
-Paul P Panepinto,,,,,,,1,3,All
-Maria Quinones Sanchez,,,,,,,,44,All
-Total,"1,621","1,346","1,327",64,55,50,8,797,All

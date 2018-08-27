@@ -1,0 +1,461 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,division
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,1
+,Melissa Murray Bailey,Anne Covey,Mike George,Correale Stevens,Rebecca Warren,Cheryl Allen,Judy Olson,1
+Melissa Murray Bailey,0,8,6,5,5,5,3,1
+Anne Covey,,0,4,3,2,2,1,1
+Mike George,,,0,4,1,1,3,1
+Correale Stevens,,,,0,2,1,1,1
+Rebecca Warren,,,,,1,4,1,1
+Cheryl Allen,,,,,,0,2,1
+Judy Olson,,,,,,,0,1
+Total,12,8,7,6,6,5,4,1
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,2
+,Melissa Murray Bailey,Anne Covey,Correale Stevens,Rebecca Warren,Judy Olson,Mike George,Cheryl Allen,2
+Melissa Murray Bailey,3,5,6,6,4,3,3,2
+Anne Covey,,1,1,2,1,1,0,2
+Correale Stevens,,,0,3,2,2,2,2
+Rebecca Warren,,,,0,2,1,1,2
+Judy Olson,,,,,0,2,2,2
+Mike George,,,,,,0,1,2
+Cheryl Allen,,,,,,,0,2
+Total,15,6,6,6,5,4,3,2
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,3
+,Melissa Murray Bailey,Judy Olson,Anne Covey,Mike George,Rebecca Warren,Cheryl Allen,Correale Stevens,3
+Melissa Murray Bailey,1,3,3,2,3,1,1,3
+Judy Olson,,0,2,2,2,2,0,3
+Anne Covey,,,0,1,2,1,0,3
+Mike George,,,,0,2,1,0,3
+Rebecca Warren,,,,,0,0,0,3
+Cheryl Allen,,,,,,0,0,3
+Correale Stevens,,,,,,,1,3
+Total,6,4,3,3,3,2,2,3
+,Justice Of The Supreme Court - Republican,,,,,,Mayor - Republican,4
+,Anne Covey,Judy Olson,Correale Stevens,Mike George,Rebecca Warren,Cheryl Allen,Melissa Murray Bailey,4
+Anne Covey,0,4,2,3,1,0,3,4
+Judy Olson,,0,2,3,1,0,3,4
+Correale Stevens,,,0,0,2,0,4,4
+Mike George,,,,0,0,0,1,4
+Rebecca Warren,,,,,0,0,2,4
+Cheryl Allen,,,,,,0,0,4
+Melissa Murray Bailey,,,,,,,0,4
+Total,5,5,4,3,2,0,5,4
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,5
+,Melissa Murray Bailey,Anne Covey,Correale Stevens,Rebecca Warren,Mike George,Cheryl Allen,Judy Olson,5
+Melissa Murray Bailey,4,22,16,12,10,10,8,5
+Anne Covey,,0,10,5,6,5,8,5
+Correale Stevens,,,0,7,4,7,2,5
+Rebecca Warren,,,,0,3,5,1,5
+Mike George,,,,,0,1,4,5
+Cheryl Allen,,,,,,0,1,5
+Judy Olson,,,,,,,0,5
+Total,35,22,17,12,11,10,8,5
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,6
+,Melissa Murray Bailey,Anne Covey,Correale Stevens,Cheryl Allen,Judy Olson,Rebecca Warren,Mike George,6
+Melissa Murray Bailey,1,4,5,2,2,2,1,6
+Anne Covey,,0,2,1,2,2,0,6
+Correale Stevens,,,0,2,1,3,1,6
+Cheryl Allen,,,,0,2,2,0,6
+Judy Olson,,,,,0,1,1,6
+Rebecca Warren,,,,,,0,0,6
+Mike George,,,,,,,1,6
+Total,9,6,6,4,4,4,2,6
+,Justice Of The Supreme Court - Republican,,,,,,Mayor - Republican,7
+,Anne Covey,Correale Stevens,Cheryl Allen,Mike George,Rebecca Warren,Judy Olson,Melissa Murray Bailey,7
+Anne Covey,0,1,2,1,2,1,3,7
+Correale Stevens,,1,0,1,1,0,2,7
+Cheryl Allen,,,0,0,1,0,1,7
+Mike George,,,,0,0,1,2,7
+Rebecca Warren,,,,,0,0,1,7
+Judy Olson,,,,,,0,1,7
+Melissa Murray Bailey,,,,,,,0,7
+Total,4,3,2,2,2,1,4,7
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,8
+,Melissa Murray Bailey,Mike George,Cheryl Allen,Correale Stevens,Judy Olson,Anne Covey,Rebecca Warren,8
+Melissa Murray Bailey,0,4,3,3,3,2,0,8
+Mike George,,0,2,1,2,2,0,8
+Cheryl Allen,,,0,1,2,1,0,8
+Correale Stevens,,,,0,1,1,0,8
+Judy Olson,,,,,0,0,0,8
+Anne Covey,,,,,,0,0,8
+Rebecca Warren,,,,,,,0,8
+Total,6,4,3,3,3,2,0,8
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,9
+,Melissa Murray Bailey,Anne Covey,Correale Stevens,Mike George,Cheryl Allen,Judy Olson,Rebecca Warren,9
+Melissa Murray Bailey,1,2,4,2,0,0,0,9
+Anne Covey,,0,0,1,1,1,0,9
+Correale Stevens,,,0,2,0,0,0,9
+Mike George,,,,0,0,0,0,9
+Cheryl Allen,,,,,0,1,0,9
+Judy Olson,,,,,,0,0,9
+Rebecca Warren,,,,,,,0,9
+Total,7,4,4,3,1,1,0,9
+,Justice Of The Supreme Court - Republican,,,,,,Mayor - Republican,10
+,Anne Covey,Correale Stevens,Judy Olson,Cheryl Allen,Mike George,Rebecca Warren,Melissa Murray Bailey,10
+Anne Covey,1,6,1,1,1,0,9,10
+Correale Stevens,,1,2,1,0,2,7,10
+Judy Olson,,,0,2,0,1,3,10
+Cheryl Allen,,,,0,0,0,2,10
+Mike George,,,,,1,0,1,10
+Rebecca Warren,,,,,,0,2,10
+Melissa Murray Bailey,,,,,,,0,10
+Total,12,10,3,2,2,2,12,10
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,11
+,Melissa Murray Bailey,Anne Covey,Correale Stevens,Cheryl Allen,Mike George,Judy Olson,Rebecca Warren,11
+Melissa Murray Bailey,0,4,4,3,2,1,0,11
+Anne Covey,,0,2,2,1,1,0,11
+Correale Stevens,,,0,2,2,0,0,11
+Cheryl Allen,,,,0,1,1,0,11
+Mike George,,,,,0,0,0,11
+Judy Olson,,,,,,0,0,11
+Rebecca Warren,,,,,,,0,11
+Total,6,4,4,3,2,1,0,11
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,12
+,Melissa Murray Bailey,Anne Covey,Judy Olson,Mike George,Correale Stevens,Rebecca Warren,Cheryl Allen,12
+Melissa Murray Bailey,1,6,5,4,2,2,1,12
+Anne Covey,,1,4,4,1,2,1,12
+Judy Olson,,,0,3,0,0,1,12
+Mike George,,,,0,0,1,0,12
+Correale Stevens,,,,,0,1,0,12
+Rebecca Warren,,,,,,0,0,12
+Cheryl Allen,,,,,,,0,12
+Total,9,7,5,4,2,2,1,12
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,13
+,Melissa Murray Bailey,Anne Covey,Correale Stevens,Mike George,Rebecca Warren,Cheryl Allen,Judy Olson,13
+Melissa Murray Bailey,3,10,8,7,2,1,0,13
+Anne Covey,,1,8,6,2,1,0,13
+Correale Stevens,,,0,7,0,0,0,13
+Mike George,,,,0,1,0,0,13
+Rebecca Warren,,,,,0,1,0,13
+Cheryl Allen,,,,,,0,0,13
+Judy Olson,,,,,,,0,13
+Total,14,12,10,8,2,1,0,13
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,14
+,Melissa Murray Bailey,Anne Covey,Mike George,Correale Stevens,Judy Olson,Cheryl Allen,Rebecca Warren,14
+Melissa Murray Bailey,1,5,4,3,3,1,1,14
+Anne Covey,,2,3,1,2,0,1,14
+Mike George,,,0,0,3,0,1,14
+Correale Stevens,,,,0,0,0,0,14
+Judy Olson,,,,,0,0,0,14
+Cheryl Allen,,,,,,0,0,14
+Rebecca Warren,,,,,,,0,14
+Total,10,7,4,3,3,1,1,14
+,Justice Of The Supreme Court - Republican,,,,,,Mayor - Republican,15
+,Anne Covey,Correale Stevens,Mike George,Cheryl Allen,Judy Olson,Rebecca Warren,Melissa Murray Bailey,15
+Anne Covey,2,11,6,1,0,1,14,15
+Correale Stevens,,0,5,0,0,0,11,15
+Mike George,,,0,2,1,1,7,15
+Cheryl Allen,,,,0,1,0,2,15
+Judy Olson,,,,,0,0,1,15
+Rebecca Warren,,,,,,0,1,15
+Melissa Murray Bailey,,,,,,,0,15
+Total,16,12,8,2,1,1,15,15
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,16
+,Melissa Murray Bailey,Anne Covey,Mike George,Correale Stevens,Judy Olson,Rebecca Warren,Cheryl Allen,16
+Melissa Murray Bailey,0,12,8,6,5,4,2,16
+Anne Covey,,0,7,3,5,4,1,16
+Mike George,,,0,4,2,2,1,16
+Correale Stevens,,,,0,0,0,1,16
+Judy Olson,,,,,0,2,1,16
+Rebecca Warren,,,,,,0,0,16
+Cheryl Allen,,,,,,,0,16
+Total,15,12,8,6,5,4,2,16
+,Justice Of The Supreme Court - Republican,,,,,,Mayor - Republican,17
+,Anne Covey,Correale Stevens,Mike George,Rebecca Warren,Judy Olson,Cheryl Allen,Melissa Murray Bailey,17
+Anne Covey,1,4,3,2,1,0,9,17
+Correale Stevens,,0,2,1,1,0,4,17
+Mike George,,,0,1,0,0,4,17
+Rebecca Warren,,,,0,0,0,2,17
+Judy Olson,,,,,0,0,1,17
+Cheryl Allen,,,,,,0,0,17
+Melissa Murray Bailey,,,,,,,1,17
+Total,11,5,4,2,1,0,11,17
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,18
+,Melissa Murray Bailey,Anne Covey,Correale Stevens,Rebecca Warren,Cheryl Allen,Mike George,Judy Olson,18
+Melissa Murray Bailey,2,6,3,3,2,2,0,18
+Anne Covey,,0,1,1,1,2,1,18
+Correale Stevens,,,1,1,1,1,0,18
+Rebecca Warren,,,,0,3,1,1,18
+Cheryl Allen,,,,,0,0,1,18
+Mike George,,,,,,0,1,18
+Judy Olson,,,,,,,0,18
+Total,11,7,4,4,3,3,2,18
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,19
+,Melissa Murray Bailey,Anne Covey,Mike George,Rebecca Warren,Cheryl Allen,Judy Olson,Correale Stevens,19
+Melissa Murray Bailey,1,4,2,3,3,2,1,19
+Anne Covey,,0,3,2,2,2,0,19
+Mike George,,,0,0,1,0,0,19
+Rebecca Warren,,,,1,1,1,1,19
+Cheryl Allen,,,,,0,1,1,19
+Judy Olson,,,,,,0,0,19
+Correale Stevens,,,,,,,0,19
+Total,7,6,4,4,3,2,1,19
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,20
+,Melissa Murray Bailey,Anne Covey,Correale Stevens,Cheryl Allen,Mike George,Judy Olson,Rebecca Warren,20
+Melissa Murray Bailey,3,6,4,1,1,1,0,20
+Anne Covey,,0,4,2,2,1,0,20
+Correale Stevens,,,0,0,0,1,0,20
+Cheryl Allen,,,,0,2,0,0,20
+Mike George,,,,,0,0,0,20
+Judy Olson,,,,,,0,0,20
+Rebecca Warren,,,,,,,0,20
+Total,11,9,6,2,2,1,0,20
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,21
+,Melissa Murray Bailey,Anne Covey,Correale Stevens,Mike George,Rebecca Warren,Cheryl Allen,Judy Olson,21
+Melissa Murray Bailey,1,13,10,6,3,2,1,21
+Anne Covey,,2,7,3,3,1,1,21
+Correale Stevens,,,0,3,1,0,0,21
+Mike George,,,,0,0,1,0,21
+Rebecca Warren,,,,,0,1,1,21
+Cheryl Allen,,,,,,0,0,21
+Judy Olson,,,,,,,0,21
+Total,19,15,10,6,3,2,1,21
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,22
+,Melissa Murray Bailey,Anne Covey,Correale Stevens,Judy Olson,Rebecca Warren,Mike George,Cheryl Allen,22
+Melissa Murray Bailey,3,23,18,8,7,7,3,22
+Anne Covey,,0,12,8,7,5,2,22
+Correale Stevens,,,0,2,4,2,2,22
+Judy Olson,,,,0,4,3,0,22
+Rebecca Warren,,,,,0,1,0,22
+Mike George,,,,,,0,2,22
+Cheryl Allen,,,,,,,0,22
+Total,33,25,19,9,8,7,3,22
+,Justice Of The Supreme Court - Republican,,,,,,Mayor - Republican,23
+,Anne Covey,Mike George,Correale Stevens,Judy Olson,Cheryl Allen,Rebecca Warren,Melissa Murray Bailey,23
+Anne Covey,0,5,3,4,1,0,5,23
+Mike George,,0,2,4,1,0,4,23
+Correale Stevens,,,0,0,2,0,4,23
+Judy Olson,,,,0,0,0,2,23
+Cheryl Allen,,,,,0,0,2,23
+Rebecca Warren,,,,,,0,0,23
+Melissa Murray Bailey,,,,,,,0,23
+Total,7,6,4,4,2,0,6,23
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,24
+,Melissa Murray Bailey,Correale Stevens,Mike George,Anne Covey,Rebecca Warren,Judy Olson,Cheryl Allen,24
+Melissa Murray Bailey,0,7,6,4,4,3,2,24
+Correale Stevens,,0,4,2,2,2,1,24
+Mike George,,,0,2,4,1,1,24
+Anne Covey,,,,0,1,1,1,24
+Rebecca Warren,,,,,0,0,1,24
+Judy Olson,,,,,,0,0,24
+Cheryl Allen,,,,,,,0,24
+Total,10,7,6,4,4,3,2,24
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,25
+,Melissa Murray Bailey,Anne Covey,Correale Stevens,Judy Olson,Mike George,Rebecca Warren,Cheryl Allen,25
+Melissa Murray Bailey,1,19,15,6,7,6,3,25
+Anne Covey,,0,9,6,6,4,1,25
+Correale Stevens,,,2,2,0,4,2,25
+Judy Olson,,,,1,3,1,0,25
+Mike George,,,,,0,1,1,25
+Rebecca Warren,,,,,,0,2,25
+Cheryl Allen,,,,,,,0,25
+Total,27,19,17,7,7,6,3,25
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,26
+,Melissa Murray Bailey,Anne Covey,Correale Stevens,Rebecca Warren,Judy Olson,Mike George,Cheryl Allen,26
+Melissa Murray Bailey,0,18,10,10,6,5,2,26
+Anne Covey,,0,7,9,6,4,1,26
+Correale Stevens,,,0,5,1,0,1,26
+Rebecca Warren,,,,0,4,0,1,26
+Judy Olson,,,,,0,1,0,26
+Mike George,,,,,,0,1,26
+Cheryl Allen,,,,,,,0,26
+Total,23,19,10,10,6,6,2,26
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,27
+,Melissa Murray Bailey,Anne Covey,Correale Stevens,Mike George,Cheryl Allen,Judy Olson,Rebecca Warren,27
+Melissa Murray Bailey,1,8,5,3,2,2,2,27
+Anne Covey,,0,5,2,1,1,2,27
+Correale Stevens,,,0,1,1,0,2,27
+Mike George,,,,0,1,2,0,27
+Cheryl Allen,,,,,0,1,0,27
+Judy Olson,,,,,,0,0,27
+Rebecca Warren,,,,,,,0,27
+Total,10,8,5,3,2,2,2,27
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,28
+,Melissa Murray Bailey,Anne Covey,Correale Stevens,Mike George,Judy Olson,Rebecca Warren,Cheryl Allen,28
+Melissa Murray Bailey,0,13,12,7,4,4,3,28
+Anne Covey,,0,8,7,2,2,3,28
+Correale Stevens,,,0,3,2,4,1,28
+Mike George,,,,1,2,0,2,28
+Judy Olson,,,,,0,2,0,28
+Rebecca Warren,,,,,,0,0,28
+Cheryl Allen,,,,,,,0,28
+Total,17,13,12,8,4,4,3,28
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,29
+,Melissa Murray Bailey,Anne Covey,Mike George,Correale Stevens,Judy Olson,Rebecca Warren,Cheryl Allen,29
+Melissa Murray Bailey,4,14,10,8,5,7,4,29
+Anne Covey,,1,9,1,5,5,2,29
+Mike George,,,0,2,5,3,3,29
+Correale Stevens,,,,0,2,3,1,29
+Judy Olson,,,,,0,2,0,29
+Rebecca Warren,,,,,,0,0,29
+Cheryl Allen,,,,,,,0,29
+Total,26,17,12,8,7,7,4,29
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,30
+,Melissa Murray Bailey,Correale Stevens,Anne Covey,Mike George,Rebecca Warren,Judy Olson,Cheryl Allen,30
+Melissa Murray Bailey,1,7,6,4,4,3,2,30
+Correale Stevens,,0,3,4,3,3,1,30
+Anne Covey,,,0,1,1,1,1,30
+Mike George,,,,1,1,1,0,30
+Rebecca Warren,,,,,0,1,0,30
+Judy Olson,,,,,,0,2,30
+Cheryl Allen,,,,,,,0,30
+Total,14,9,7,5,5,4,2,30
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,31
+,Melissa Murray Bailey,Anne Covey,Correale Stevens,Rebecca Warren,Judy Olson,Mike George,Cheryl Allen,31
+Melissa Murray Bailey,1,16,10,8,7,5,2,31
+Anne Covey,,3,9,7,5,5,1,31
+Correale Stevens,,,0,3,1,3,0,31
+Rebecca Warren,,,,0,3,0,2,31
+Judy Olson,,,,,0,2,1,31
+Mike George,,,,,,0,0,31
+Cheryl Allen,,,,,,,0,31
+Total,20,19,10,8,7,5,2,31
+,Justice Of The Supreme Court - Republican,,,,,,Mayor - Republican,32
+,Anne Covey,Mike George,Correale Stevens,Judy Olson,Rebecca Warren,Cheryl Allen,Melissa Murray Bailey,32
+Anne Covey,2,9,7,3,4,2,14,32
+Mike George,,0,7,3,3,1,10,32
+Correale Stevens,,,0,2,1,1,9,32
+Judy Olson,,,,0,3,1,4,32
+Rebecca Warren,,,,,0,1,5,32
+Cheryl Allen,,,,,,0,2,32
+Melissa Murray Bailey,,,,,,,0,32
+Total,20,12,11,6,6,3,19,32
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,33
+,Melissa Murray Bailey,Anne Covey,Correale Stevens,Mike George,Rebecca Warren,Judy Olson,Cheryl Allen,33
+Melissa Murray Bailey,2,20,15,17,6,6,2,33
+Anne Covey,,4,10,10,4,1,2,33
+Correale Stevens,,,3,10,4,4,1,33
+Mike George,,,,1,2,3,2,33
+Rebecca Warren,,,,,0,1,0,33
+Judy Olson,,,,,,0,0,33
+Cheryl Allen,,,,,,,0,33
+Total,35,26,21,18,8,6,3,33
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,34
+,Melissa Murray Bailey,Anne Covey,Correale Stevens,Mike George,Cheryl Allen,Rebecca Warren,Judy Olson,34
+Melissa Murray Bailey,2,28,17,15,10,10,7,34
+Anne Covey,,1,12,14,8,7,7,34
+Correale Stevens,,,2,6,4,3,3,34
+Mike George,,,,0,3,4,4,34
+Cheryl Allen,,,,,0,2,4,34
+Rebecca Warren,,,,,,1,0,34
+Judy Olson,,,,,,,0,34
+Total,39,33,21,17,11,11,9,34
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,35
+,Melissa Murray Bailey,Anne Covey,Mike George,Correale Stevens,Cheryl Allen,Judy Olson,Rebecca Warren,35
+Melissa Murray Bailey,2,6,3,4,2,2,3,35
+Anne Covey,,0,2,1,0,2,2,35
+Mike George,,,0,2,2,1,1,35
+Correale Stevens,,,,0,2,1,1,35
+Cheryl Allen,,,,,0,1,1,35
+Judy Olson,,,,,,0,1,35
+Rebecca Warren,,,,,,,0,35
+Total,11,7,5,4,3,3,3,35
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,36
+,Melissa Murray Bailey,Anne Covey,Rebecca Warren,Judy Olson,Correale Stevens,Cheryl Allen,Mike George,36
+Melissa Murray Bailey,2,8,6,5,5,3,2,36
+Anne Covey,,0,4,3,3,1,1,36
+Rebecca Warren,,,0,4,2,3,1,36
+Judy Olson,,,,0,2,2,1,36
+Correale Stevens,,,,,0,1,0,36
+Cheryl Allen,,,,,,0,1,36
+Mike George,,,,,,,1,36
+Total,13,8,7,6,5,4,3,36
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,37
+,Melissa Murray Bailey,Anne Covey,Correale Stevens,Cheryl Allen,Rebecca Warren,Mike George,Judy Olson,37
+Melissa Murray Bailey,3,9,6,4,3,3,2,37
+Anne Covey,,0,6,3,2,3,2,37
+Correale Stevens,,,0,2,2,1,0,37
+Cheryl Allen,,,,1,1,1,0,37
+Rebecca Warren,,,,,0,0,1,37
+Mike George,,,,,,0,1,37
+Judy Olson,,,,,,,0,37
+Total,14,10,7,5,4,3,2,37
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,38
+,Melissa Murray Bailey,Anne Covey,Mike George,Judy Olson,Correale Stevens,Rebecca Warren,Cheryl Allen,38
+Melissa Murray Bailey,5,15,11,10,7,9,4,38
+Anne Covey,,4,6,6,5,6,3,38
+Mike George,,,1,6,3,1,3,38
+Judy Olson,,,,0,2,5,1,38
+Correale Stevens,,,,,0,2,0,38
+Rebecca Warren,,,,,,0,1,38
+Cheryl Allen,,,,,,,0,38
+Total,28,19,13,11,9,9,4,38
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,39
+,Melissa Murray Bailey,Anne Covey,Correale Stevens,Rebecca Warren,Mike George,Judy Olson,Cheryl Allen,39
+Melissa Murray Bailey,1,17,16,9,8,6,4,39
+Anne Covey,,1,10,4,5,2,0,39
+Correale Stevens,,,0,5,5,4,2,39
+Rebecca Warren,,,,0,2,4,3,39
+Mike George,,,,,0,0,0,39
+Judy Olson,,,,,,0,2,39
+Cheryl Allen,,,,,,,0,39
+Total,28,18,17,9,8,6,5,39
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,40
+,Melissa Murray Bailey,Anne Covey,Correale Stevens,Mike George,Judy Olson,Rebecca Warren,Cheryl Allen,40
+Melissa Murray Bailey,1,18,10,10,7,6,3,40
+Anne Covey,,1,7,7,6,5,4,40
+Correale Stevens,,,0,4,1,2,1,40
+Mike George,,,,0,5,1,1,40
+Judy Olson,,,,,0,1,1,40
+Rebecca Warren,,,,,,0,2,40
+Cheryl Allen,,,,,,,0,40
+Total,24,20,11,11,7,6,5,40
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,41
+,Melissa Murray Bailey,Anne Covey,Correale Stevens,Rebecca Warren,Cheryl Allen,Mike George,Judy Olson,41
+Melissa Murray Bailey,2,16,15,10,10,9,9,41
+Anne Covey,,0,6,7,5,7,6,41
+Correale Stevens,,,1,5,5,3,3,41
+Rebecca Warren,,,,1,3,2,1,41
+Cheryl Allen,,,,,0,3,5,41
+Mike George,,,,,,0,3,41
+Judy Olson,,,,,,,0,41
+Total,30,17,17,12,11,10,9,41
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,42
+,Melissa Murray Bailey,Anne Covey,Correale Stevens,Cheryl Allen,Judy Olson,Mike George,Rebecca Warren,42
+Melissa Murray Bailey,1,15,11,8,7,7,8,42
+Anne Covey,,1,5,6,5,3,4,42
+Correale Stevens,,,0,3,1,3,3,42
+Cheryl Allen,,,,1,1,1,3,42
+Judy Olson,,,,,0,6,3,42
+Mike George,,,,,,0,3,42
+Rebecca Warren,,,,,,,0,42
+Total,24,17,11,9,8,8,8,42
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,43
+,Melissa Murray Bailey,Anne Covey,Correale Stevens,Rebecca Warren,Mike George,Judy Olson,Cheryl Allen,43
+Melissa Murray Bailey,1,16,12,8,6,4,3,43
+Anne Covey,,1,9,8,6,4,1,43
+Correale Stevens,,,0,5,3,2,1,43
+Rebecca Warren,,,,0,1,2,1,43
+Mike George,,,,,0,1,1,43
+Judy Olson,,,,,,0,1,43
+Cheryl Allen,,,,,,,0,43
+Total,21,18,12,10,6,5,4,43
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,44
+,Melissa Murray Bailey,Anne Covey,Mike George,Correale Stevens,Rebecca Warren,Judy Olson,Cheryl Allen,44
+Melissa Murray Bailey,3,27,15,14,5,4,2,44
+Anne Covey,,0,14,12,4,4,1,44
+Mike George,,,2,8,2,3,1,44
+Correale Stevens,,,,0,2,0,1,44
+Rebecca Warren,,,,,0,1,1,44
+Judy Olson,,,,,,0,0,44
+Cheryl Allen,,,,,,,1,44
+Total,34,28,17,15,5,4,3,44
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,45
+,Melissa Murray Bailey,Anne Covey,Correale Stevens,Rebecca Warren,Mike George,Cheryl Allen,Judy Olson,45
+Melissa Murray Bailey,4,20,19,12,11,8,6,45
+Anne Covey,,2,12,11,6,5,6,45
+Correale Stevens,,,1,7,6,4,0,45
+Rebecca Warren,,,,1,2,2,2,45
+Mike George,,,,,0,3,5,45
+Cheryl Allen,,,,,,0,1,45
+Judy Olson,,,,,,,0,45
+Total,34,24,20,14,13,9,7,45
+,Mayor - Republican,Justice Of The Supreme Court - Republican,,,,,,All
+,Melissa Murray Bailey,Anne Covey,Correale Stevens,Mike George,Rebecca Warren,Judy Olson,Cheryl Allen,All
+Melissa Murray Bailey,63,505,365,264,206,175,135,All
+Anne Covey,,32,232,199,144,135,81,All
+Correale Stevens,,,13,121,99,53,59,All
+Mike George,,,,9,50,94,49,All
+Rebecca Warren,,,,,5,60,49,All
+Judy Olson,,,,,,1,44,All
+Cheryl Allen,,,,,,,3,All
+Total,779,581,406,303,226,202,156,All

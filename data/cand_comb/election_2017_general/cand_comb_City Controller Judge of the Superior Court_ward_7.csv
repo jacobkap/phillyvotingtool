@@ -1,0 +1,337 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10,col_11,col_12,division
+,City Controller,,Judge Of The Superior Court,,,,,,,,,All
+,Rebecca Rhynhart,Michael Tomlinson,Maria Mclaughlin,Carolyn H Nichols,Debbie Kunselman,Geoff Moulton,Mary Murray,Emil Giordano,Craig Stedman,Wade A Kagarise,Jules Mermelstein,All
+Rebecca Rhynhart,8,0,446,434,421,419,8,6,2,1,5,All
+Michael Tomlinson,,2,2,1,1,2,34,33,34,34,1,All
+Maria Mclaughlin,,,16,420,419,417,6,5,1,2,2,All
+Carolyn H Nichols,,,,7,418,418,5,2,0,1,2,All
+Debbie Kunselman,,,,,0,415,4,4,0,1,2,All
+Geoff Moulton,,,,,,0,1,1,1,0,1,All
+Mary Murray,,,,,,,2,34,33,33,1,All
+Emil Giordano,,,,,,,,0,33,32,3,All
+Craig Stedman,,,,,,,,,0,32,1,All
+Wade A Kagarise,,,,,,,,,,0,0,All
+Jules Mermelstein,,,,,,,,,,,0,All
+Total,486,42,472,450,429,428,45,42,36,35,7,All
+,Judge Of The Superior Court,,,,,,,,,City Controller,,1
+,Carolyn H Nichols,Geoff Moulton,Maria Mclaughlin,Debbie Kunselman,Craig Stedman,Emil Giordano,Mary Murray,Wade A Kagarise,Jules Mermelstein,Rebecca Rhynhart,Michael Tomlinson,1
+Carolyn H Nichols,0,15,14,14,0,0,0,0,0,15,0,1
+Geoff Moulton,,0,14,14,0,0,0,0,0,14,0,1
+Maria Mclaughlin,,,0,14,0,0,0,0,0,14,1,1
+Debbie Kunselman,,,,0,0,0,0,0,0,14,0,1
+Craig Stedman,,,,,0,1,1,1,0,0,1,1
+Emil Giordano,,,,,,0,1,1,0,0,1,1
+Mary Murray,,,,,,,0,1,0,0,1,1
+Wade A Kagarise,,,,,,,,0,0,0,1,1
+Jules Mermelstein,,,,,,,,,0,0,0,1
+Rebecca Rhynhart,,,,,,,,,,0,0,1
+Michael Tomlinson,,,,,,,,,,,0,1
+Total,16,15,15,14,1,1,1,1,0,15,2,1
+,City Controller,,Judge Of The Superior Court,,,,,,,,,2
+,Rebecca Rhynhart,Michael Tomlinson,Carolyn H Nichols,Maria Mclaughlin,Debbie Kunselman,Geoff Moulton,Craig Stedman,Emil Giordano,Mary Murray,Wade A Kagarise,Jules Mermelstein,2
+Rebecca Rhynhart,0,0,11,11,10,10,0,0,0,0,0,2
+Michael Tomlinson,,1,0,0,0,0,1,1,1,1,0,2
+Carolyn H Nichols,,,0,10,10,10,0,0,0,0,0,2
+Maria Mclaughlin,,,,0,10,10,0,0,0,0,0,2
+Debbie Kunselman,,,,,0,10,0,0,0,0,0,2
+Geoff Moulton,,,,,,0,0,0,0,0,0,2
+Craig Stedman,,,,,,,0,1,1,1,0,2
+Emil Giordano,,,,,,,,0,1,1,0,2
+Mary Murray,,,,,,,,,0,1,0,2
+Wade A Kagarise,,,,,,,,,,0,0,2
+Jules Mermelstein,,,,,,,,,,,0,2
+Total,12,2,11,11,10,10,1,1,1,1,0,2
+,Judge Of The Superior Court,,,,,,,,,City Controller,,3
+,Carolyn H Nichols,Debbie Kunselman,Geoff Moulton,Maria Mclaughlin,Craig Stedman,Emil Giordano,Jules Mermelstein,Mary Murray,Wade A Kagarise,Rebecca Rhynhart,Michael Tomlinson,3
+Carolyn H Nichols,0,5,5,5,0,0,0,0,0,5,0,3
+Debbie Kunselman,,0,5,5,0,0,0,0,0,5,0,3
+Geoff Moulton,,,0,5,0,0,0,0,0,5,0,3
+Maria Mclaughlin,,,,0,0,0,0,0,0,5,0,3
+Craig Stedman,,,,,0,0,0,0,0,0,0,3
+Emil Giordano,,,,,,0,0,0,0,0,0,3
+Jules Mermelstein,,,,,,,0,0,0,0,0,3
+Mary Murray,,,,,,,,0,0,0,0,3
+Wade A Kagarise,,,,,,,,,0,0,0,3
+Rebecca Rhynhart,,,,,,,,,,0,0,3
+Michael Tomlinson,,,,,,,,,,,0,3
+Total,5,5,5,5,0,0,0,0,0,5,0,3
+,Judge Of The Superior Court,,,,,,,,,City Controller,,4
+,Debbie Kunselman,Maria Mclaughlin,Carolyn H Nichols,Geoff Moulton,Craig Stedman,Wade A Kagarise,Emil Giordano,Mary Murray,Jules Mermelstein,Rebecca Rhynhart,Michael Tomlinson,4
+Debbie Kunselman,0,40,39,38,0,1,1,0,0,39,1,4
+Maria Mclaughlin,,0,39,38,0,1,1,0,0,39,1,4
+Carolyn H Nichols,,,0,38,0,0,0,0,0,39,0,4
+Geoff Moulton,,,,0,0,0,0,0,0,38,0,4
+Craig Stedman,,,,,0,1,0,1,0,1,1,4
+Wade A Kagarise,,,,,,0,1,1,0,0,2,4
+Emil Giordano,,,,,,,0,0,0,0,1,4
+Mary Murray,,,,,,,,0,0,0,1,4
+Jules Mermelstein,,,,,,,,,0,0,0,4
+Rebecca Rhynhart,,,,,,,,,,0,0,4
+Michael Tomlinson,,,,,,,,,,,0,4
+Total,40,40,39,38,2,2,1,1,0,40,2,4
+,Judge Of The Superior Court,,,,,,,,,City Controller,,5
+,Carolyn H Nichols,Maria Mclaughlin,Geoff Moulton,Debbie Kunselman,Mary Murray,Wade A Kagarise,Craig Stedman,Emil Giordano,Jules Mermelstein,Rebecca Rhynhart,Michael Tomlinson,5
+Carolyn H Nichols,1,44,44,43,0,0,0,0,0,44,0,5
+Maria Mclaughlin,,2,44,43,0,0,0,0,0,43,0,5
+Geoff Moulton,,,0,43,0,0,0,0,0,43,0,5
+Debbie Kunselman,,,,0,0,0,0,0,0,43,0,5
+Mary Murray,,,,,0,3,2,2,0,1,3,5
+Wade A Kagarise,,,,,,0,2,2,0,0,3,5
+Craig Stedman,,,,,,,0,2,0,0,2,5
+Emil Giordano,,,,,,,,0,0,0,2,5
+Jules Mermelstein,,,,,,,,,0,0,0,5
+Rebecca Rhynhart,,,,,,,,,,0,0,5
+Michael Tomlinson,,,,,,,,,,,0,5
+Total,46,46,44,43,4,3,2,2,0,45,3,5
+,City Controller,,Judge Of The Superior Court,,,,,,,,,6
+,Rebecca Rhynhart,Michael Tomlinson,Maria Mclaughlin,Geoff Moulton,Carolyn H Nichols,Debbie Kunselman,Craig Stedman,Emil Giordano,Mary Murray,Wade A Kagarise,Jules Mermelstein,6
+Rebecca Rhynhart,1,0,22,20,19,19,0,0,0,0,0,6
+Michael Tomlinson,,0,0,0,0,0,2,2,2,2,0,6
+Maria Mclaughlin,,,1,20,19,18,0,0,0,0,0,6
+Geoff Moulton,,,,0,19,18,0,0,0,0,0,6
+Carolyn H Nichols,,,,,0,18,0,0,0,0,0,6
+Debbie Kunselman,,,,,,0,0,0,0,0,0,6
+Craig Stedman,,,,,,,0,2,2,2,0,6
+Emil Giordano,,,,,,,,0,2,2,0,6
+Mary Murray,,,,,,,,,0,2,0,6
+Wade A Kagarise,,,,,,,,,,0,0,6
+Jules Mermelstein,,,,,,,,,,,0,6
+Total,24,2,23,20,19,19,2,2,2,2,0,6
+,City Controller,,Judge Of The Superior Court,,,,,,,,,7
+,Rebecca Rhynhart,Michael Tomlinson,Carolyn H Nichols,Debbie Kunselman,Maria Mclaughlin,Geoff Moulton,Emil Giordano,Jules Mermelstein,Craig Stedman,Mary Murray,Wade A Kagarise,7
+Rebecca Rhynhart,0,0,20,19,19,19,0,1,0,0,0,7
+Michael Tomlinson,,0,0,0,0,0,0,0,0,0,0,7
+Carolyn H Nichols,,,0,19,19,19,0,0,0,0,0,7
+Debbie Kunselman,,,,0,19,19,1,0,0,0,0,7
+Maria Mclaughlin,,,,,1,19,0,0,0,0,0,7
+Geoff Moulton,,,,,,0,0,0,0,0,0,7
+Emil Giordano,,,,,,,0,0,0,0,0,7
+Jules Mermelstein,,,,,,,,0,0,0,0,7
+Craig Stedman,,,,,,,,,0,0,0,7
+Mary Murray,,,,,,,,,,0,0,7
+Wade A Kagarise,,,,,,,,,,,0,7
+Total,21,0,20,20,20,19,1,1,0,0,0,7
+,City Controller,,Judge Of The Superior Court,,,,,,,,,8
+,Rebecca Rhynhart,Michael Tomlinson,Carolyn H Nichols,Maria Mclaughlin,Debbie Kunselman,Geoff Moulton,Mary Murray,Craig Stedman,Emil Giordano,Wade A Kagarise,Jules Mermelstein,8
+Rebecca Rhynhart,2,0,36,36,32,32,2,1,1,1,0,8
+Michael Tomlinson,,0,0,0,0,0,4,4,4,4,0,8
+Carolyn H Nichols,,,2,32,32,32,1,0,0,1,0,8
+Maria Mclaughlin,,,,1,31,31,2,1,1,1,0,8
+Debbie Kunselman,,,,,0,31,0,0,0,0,0,8
+Geoff Moulton,,,,,,0,0,0,0,0,0,8
+Mary Murray,,,,,,,0,5,5,5,0,8
+Craig Stedman,,,,,,,,0,5,4,0,8
+Emil Giordano,,,,,,,,,0,4,0,8
+Wade A Kagarise,,,,,,,,,,0,0,8
+Jules Mermelstein,,,,,,,,,,,0,8
+Total,42,4,38,37,32,32,6,5,5,5,0,8
+,City Controller,,Judge Of The Superior Court,,,,,,,,,9
+,Rebecca Rhynhart,Michael Tomlinson,Maria Mclaughlin,Carolyn H Nichols,Debbie Kunselman,Geoff Moulton,Mary Murray,Craig Stedman,Emil Giordano,Wade A Kagarise,Jules Mermelstein,9
+Rebecca Rhynhart,1,0,24,24,22,21,1,0,0,0,0,9
+Michael Tomlinson,,0,0,0,0,0,3,3,3,3,0,9
+Maria Mclaughlin,,,1,22,22,21,1,0,0,0,0,9
+Carolyn H Nichols,,,,0,22,21,1,0,0,0,0,9
+Debbie Kunselman,,,,,0,21,1,0,0,0,0,9
+Geoff Moulton,,,,,,0,0,0,0,0,0,9
+Mary Murray,,,,,,,0,3,3,3,0,9
+Craig Stedman,,,,,,,,0,3,3,0,9
+Emil Giordano,,,,,,,,,0,3,0,9
+Wade A Kagarise,,,,,,,,,,0,0,9
+Jules Mermelstein,,,,,,,,,,,0,9
+Total,27,3,25,24,22,21,4,3,3,3,0,9
+,City Controller,,Judge Of The Superior Court,,,,,,,,,10
+,Rebecca Rhynhart,Michael Tomlinson,Debbie Kunselman,Maria Mclaughlin,Geoff Moulton,Carolyn H Nichols,Emil Giordano,Mary Murray,Craig Stedman,Jules Mermelstein,Wade A Kagarise,10
+Rebecca Rhynhart,0,0,18,16,17,15,2,0,0,0,0,10
+Michael Tomlinson,,0,0,0,0,1,0,0,0,0,0,10
+Debbie Kunselman,,,0,16,17,15,1,0,0,0,0,10
+Maria Mclaughlin,,,,2,16,15,1,0,0,0,0,10
+Geoff Moulton,,,,,0,15,1,0,0,0,0,10
+Carolyn H Nichols,,,,,,0,0,0,0,0,0,10
+Emil Giordano,,,,,,,0,0,0,0,0,10
+Mary Murray,,,,,,,,2,0,0,0,10
+Craig Stedman,,,,,,,,,0,0,0,10
+Jules Mermelstein,,,,,,,,,,0,0,10
+Wade A Kagarise,,,,,,,,,,,0,10
+Total,19,1,18,18,17,16,2,2,0,0,0,10
+,Judge Of The Superior Court,,,,,,,,,City Controller,,11
+,Maria Mclaughlin,Carolyn H Nichols,Debbie Kunselman,Geoff Moulton,Craig Stedman,Emil Giordano,Mary Murray,Wade A Kagarise,Jules Mermelstein,Rebecca Rhynhart,Michael Tomlinson,11
+Maria Mclaughlin,1,10,10,10,0,0,0,0,0,10,0,11
+Carolyn H Nichols,,0,10,10,0,0,0,0,0,9,0,11
+Debbie Kunselman,,,0,10,0,0,0,0,0,9,0,11
+Geoff Moulton,,,,0,0,0,0,0,0,9,0,11
+Craig Stedman,,,,,0,2,2,2,0,0,2,11
+Emil Giordano,,,,,,0,2,2,0,0,2,11
+Mary Murray,,,,,,,0,2,0,0,2,11
+Wade A Kagarise,,,,,,,,0,0,0,2,11
+Jules Mermelstein,,,,,,,,,0,0,0,11
+Rebecca Rhynhart,,,,,,,,,,1,0,11
+Michael Tomlinson,,,,,,,,,,,0,11
+Total,12,10,10,10,2,2,2,2,0,11,2,11
+,Judge Of The Superior Court,,,,,,,,,City Controller,,12
+,Maria Mclaughlin,Carolyn H Nichols,Debbie Kunselman,Geoff Moulton,Emil Giordano,Craig Stedman,Mary Murray,Wade A Kagarise,Jules Mermelstein,Rebecca Rhynhart,Michael Tomlinson,12
+Maria Mclaughlin,0,26,25,25,0,0,0,0,0,27,0,12
+Carolyn H Nichols,,0,25,25,0,0,0,0,0,24,0,12
+Debbie Kunselman,,,0,25,0,0,0,0,0,24,0,12
+Geoff Moulton,,,,0,0,0,0,0,0,24,0,12
+Emil Giordano,,,,,0,3,3,3,1,0,3,12
+Craig Stedman,,,,,,0,3,3,0,0,3,12
+Mary Murray,,,,,,,0,3,0,0,3,12
+Wade A Kagarise,,,,,,,,0,0,0,3,12
+Jules Mermelstein,,,,,,,,,0,1,0,12
+Rebecca Rhynhart,,,,,,,,,,0,0,12
+Michael Tomlinson,,,,,,,,,,,0,12
+Total,29,26,25,25,4,3,3,3,2,28,3,12
+,Judge Of The Superior Court,,,,,,,,,City Controller,,13
+,Carolyn H Nichols,Debbie Kunselman,Geoff Moulton,Maria Mclaughlin,Craig Stedman,Emil Giordano,Jules Mermelstein,Mary Murray,Wade A Kagarise,Rebecca Rhynhart,Michael Tomlinson,13
+Carolyn H Nichols,0,7,7,7,0,0,0,0,0,8,0,13
+Debbie Kunselman,,0,7,7,0,0,0,0,0,7,0,13
+Geoff Moulton,,,0,7,0,0,0,0,0,7,0,13
+Maria Mclaughlin,,,,0,0,0,0,0,0,7,0,13
+Craig Stedman,,,,,0,0,0,0,0,0,0,13
+Emil Giordano,,,,,,0,0,0,0,0,0,13
+Jules Mermelstein,,,,,,,0,0,0,0,0,13
+Mary Murray,,,,,,,,0,0,0,0,13
+Wade A Kagarise,,,,,,,,,0,0,0,13
+Rebecca Rhynhart,,,,,,,,,,0,0,13
+Michael Tomlinson,,,,,,,,,,,0,13
+Total,8,7,7,7,0,0,0,0,0,8,0,13
+,Judge Of The Superior Court,,,,,,,,,City Controller,,14
+,Maria Mclaughlin,Debbie Kunselman,Geoff Moulton,Carolyn H Nichols,Mary Murray,Craig Stedman,Emil Giordano,Wade A Kagarise,Jules Mermelstein,Rebecca Rhynhart,Michael Tomlinson,14
+Maria Mclaughlin,2,20,19,16,1,0,1,0,1,21,0,14
+Debbie Kunselman,,0,20,18,2,0,0,0,0,20,0,14
+Geoff Moulton,,,0,17,1,1,0,0,0,19,2,14
+Carolyn H Nichols,,,,0,1,0,0,0,0,17,0,14
+Mary Murray,,,,,0,3,3,3,0,2,3,14
+Craig Stedman,,,,,,0,3,3,0,0,4,14
+Emil Giordano,,,,,,,0,3,1,1,3,14
+Wade A Kagarise,,,,,,,,0,0,0,3,14
+Jules Mermelstein,,,,,,,,,0,1,0,14
+Rebecca Rhynhart,,,,,,,,,,2,0,14
+Michael Tomlinson,,,,,,,,,,,0,14
+Total,25,22,22,18,5,4,4,3,1,25,5,14
+,City Controller,,Judge Of The Superior Court,,,,,,,,,15
+,Rebecca Rhynhart,Michael Tomlinson,Geoff Moulton,Maria Mclaughlin,Carolyn H Nichols,Debbie Kunselman,Craig Stedman,Emil Giordano,Jules Mermelstein,Mary Murray,Wade A Kagarise,15
+Rebecca Rhynhart,0,0,9,8,7,7,0,0,0,0,0,15
+Michael Tomlinson,,0,0,0,0,0,0,0,0,0,0,15
+Geoff Moulton,,,0,7,7,7,0,0,0,0,0,15
+Maria Mclaughlin,,,,1,7,7,0,0,0,0,0,15
+Carolyn H Nichols,,,,,0,7,0,0,0,0,0,15
+Debbie Kunselman,,,,,,0,0,0,0,0,0,15
+Craig Stedman,,,,,,,0,0,0,0,0,15
+Emil Giordano,,,,,,,,0,0,0,0,15
+Jules Mermelstein,,,,,,,,,0,0,0,15
+Mary Murray,,,,,,,,,,0,0,15
+Wade A Kagarise,,,,,,,,,,,0,15
+Total,10,0,9,9,7,7,0,0,0,0,0,15
+,City Controller,,Judge Of The Superior Court,,,,,,,,,16
+,Rebecca Rhynhart,Michael Tomlinson,Carolyn H Nichols,Maria Mclaughlin,Debbie Kunselman,Geoff Moulton,Craig Stedman,Emil Giordano,Jules Mermelstein,Mary Murray,Wade A Kagarise,16
+Rebecca Rhynhart,0,0,10,9,8,8,0,0,0,0,0,16
+Michael Tomlinson,,1,0,0,0,0,0,0,0,0,0,16
+Carolyn H Nichols,,,0,8,8,8,0,0,0,0,0,16
+Maria Mclaughlin,,,,1,8,8,0,0,0,0,0,16
+Debbie Kunselman,,,,,0,8,0,0,0,0,0,16
+Geoff Moulton,,,,,,0,0,0,0,0,0,16
+Craig Stedman,,,,,,,0,0,0,0,0,16
+Emil Giordano,,,,,,,,0,0,0,0,16
+Jules Mermelstein,,,,,,,,,0,0,0,16
+Mary Murray,,,,,,,,,,0,0,16
+Wade A Kagarise,,,,,,,,,,,0,16
+Total,11,1,10,10,8,8,0,0,0,0,0,16
+,Judge Of The Superior Court,,,,,,,,,City Controller,,17
+,Maria Mclaughlin,Carolyn H Nichols,Debbie Kunselman,Geoff Moulton,Emil Giordano,Mary Murray,Craig Stedman,Wade A Kagarise,Jules Mermelstein,Rebecca Rhynhart,Michael Tomlinson,17
+Maria Mclaughlin,2,40,39,39,1,1,0,0,0,40,0,17
+Carolyn H Nichols,,0,39,39,1,1,0,0,0,39,0,17
+Debbie Kunselman,,,0,39,0,0,0,0,0,38,0,17
+Geoff Moulton,,,,0,0,0,0,0,0,38,0,17
+Emil Giordano,,,,,0,2,1,1,0,1,1,17
+Mary Murray,,,,,,0,1,1,0,1,1,17
+Craig Stedman,,,,,,,0,1,0,0,1,17
+Wade A Kagarise,,,,,,,,0,0,0,1,17
+Jules Mermelstein,,,,,,,,,0,0,0,17
+Rebecca Rhynhart,,,,,,,,,,1,0,17
+Michael Tomlinson,,,,,,,,,,,0,17
+Total,43,40,39,39,2,2,1,1,0,41,1,17
+,Judge Of The Superior Court,,,,,,,,,City Controller,,18
+,Maria Mclaughlin,Carolyn H Nichols,Debbie Kunselman,Geoff Moulton,Craig Stedman,Emil Giordano,Jules Mermelstein,Mary Murray,Wade A Kagarise,Rebecca Rhynhart,Michael Tomlinson,18
+Maria Mclaughlin,0,9,9,9,0,0,0,0,0,11,0,18
+Carolyn H Nichols,,0,9,9,0,0,0,0,0,9,0,18
+Debbie Kunselman,,,0,9,0,0,0,0,0,9,0,18
+Geoff Moulton,,,,0,0,0,0,0,0,9,0,18
+Craig Stedman,,,,,0,0,0,0,0,0,0,18
+Emil Giordano,,,,,,0,0,0,0,0,0,18
+Jules Mermelstein,,,,,,,0,0,0,0,0,18
+Mary Murray,,,,,,,,0,0,0,0,18
+Wade A Kagarise,,,,,,,,,0,0,0,18
+Rebecca Rhynhart,,,,,,,,,,0,0,18
+Michael Tomlinson,,,,,,,,,,,0,18
+Total,11,9,9,9,0,0,0,0,0,11,0,18
+,Judge Of The Superior Court,,,,,,,,,City Controller,,19
+,Carolyn H Nichols,Geoff Moulton,Maria Mclaughlin,Debbie Kunselman,Craig Stedman,Emil Giordano,Jules Mermelstein,Mary Murray,Wade A Kagarise,Rebecca Rhynhart,Michael Tomlinson,19
+Carolyn H Nichols,1,10,9,8,0,0,0,0,0,10,0,19
+Geoff Moulton,,0,9,8,0,0,0,0,0,10,0,19
+Maria Mclaughlin,,,0,8,0,0,0,0,0,10,0,19
+Debbie Kunselman,,,,0,0,0,0,0,0,8,0,19
+Craig Stedman,,,,,0,0,0,0,0,0,0,19
+Emil Giordano,,,,,,0,0,0,0,0,0,19
+Jules Mermelstein,,,,,,,0,0,0,0,0,19
+Mary Murray,,,,,,,,0,0,0,0,19
+Wade A Kagarise,,,,,,,,,0,0,0,19
+Rebecca Rhynhart,,,,,,,,,,0,0,19
+Michael Tomlinson,,,,,,,,,,,0,19
+Total,11,10,10,8,0,0,0,0,0,11,0,19
+,City Controller,,Judge Of The Superior Court,,,,,,,,,20
+,Rebecca Rhynhart,Michael Tomlinson,Maria Mclaughlin,Carolyn H Nichols,Debbie Kunselman,Geoff Moulton,Mary Murray,Craig Stedman,Emil Giordano,Wade A Kagarise,Jules Mermelstein,20
+Rebecca Rhynhart,0,0,19,16,15,15,0,0,0,0,0,20
+Michael Tomlinson,,0,0,0,0,0,6,5,5,4,1,20
+Maria Mclaughlin,,,0,15,15,15,0,0,0,0,0,20
+Carolyn H Nichols,,,,0,15,15,0,0,0,0,0,20
+Debbie Kunselman,,,,,0,15,0,0,0,0,0,20
+Geoff Moulton,,,,,,0,0,0,0,0,0,20
+Mary Murray,,,,,,,0,5,5,4,1,20
+Craig Stedman,,,,,,,,0,5,4,1,20
+Emil Giordano,,,,,,,,,0,4,1,20
+Wade A Kagarise,,,,,,,,,,0,0,20
+Jules Mermelstein,,,,,,,,,,,0,20
+Total,20,6,19,16,15,15,6,5,5,4,1,20
+,Judge Of The Superior Court,,,,,,,,,City Controller,,21
+,Carolyn H Nichols,Maria Mclaughlin,Debbie Kunselman,Geoff Moulton,Craig Stedman,Emil Giordano,Wade A Kagarise,Jules Mermelstein,Mary Murray,Rebecca Rhynhart,Michael Tomlinson,21
+Carolyn H Nichols,1,25,25,25,0,0,0,0,0,26,0,21
+Maria Mclaughlin,,0,25,25,0,0,0,0,0,26,0,21
+Debbie Kunselman,,,0,25,0,0,0,0,0,25,0,21
+Geoff Moulton,,,,0,0,0,0,0,0,25,0,21
+Craig Stedman,,,,,0,1,1,0,0,0,1,21
+Emil Giordano,,,,,,0,1,0,0,0,1,21
+Wade A Kagarise,,,,,,,0,0,0,0,1,21
+Jules Mermelstein,,,,,,,,0,0,0,0,21
+Mary Murray,,,,,,,,,0,0,0,21
+Rebecca Rhynhart,,,,,,,,,,0,0,21
+Michael Tomlinson,,,,,,,,,,,0,21
+Total,27,26,25,25,1,1,1,0,0,27,1,21
+,Judge Of The Superior Court,,,,,,,,,City Controller,,22
+,Carolyn H Nichols,Debbie Kunselman,Geoff Moulton,Maria Mclaughlin,Emil Giordano,Craig Stedman,Mary Murray,Wade A Kagarise,Jules Mermelstein,Rebecca Rhynhart,Michael Tomlinson,22
+Carolyn H Nichols,1,20,19,18,1,0,0,0,1,20,0,22
+Debbie Kunselman,,0,19,18,1,0,0,0,1,20,0,22
+Geoff Moulton,,,0,18,0,0,0,0,1,19,0,22
+Maria Mclaughlin,,,,0,0,0,0,0,0,19,0,22
+Emil Giordano,,,,,0,2,2,2,0,1,2,22
+Craig Stedman,,,,,,0,2,2,0,0,2,22
+Mary Murray,,,,,,,0,2,0,0,2,22
+Wade A Kagarise,,,,,,,,0,0,0,2,22
+Jules Mermelstein,,,,,,,,,0,1,0,22
+Rebecca Rhynhart,,,,,,,,,,0,0,22
+Michael Tomlinson,,,,,,,,,,,0,22
+Total,21,20,19,19,3,2,2,2,1,21,2,22
+,Judge Of The Superior Court,,,,,,,,,City Controller,,23
+,Carolyn H Nichols,Maria Mclaughlin,Debbie Kunselman,Geoff Moulton,Mary Murray,Emil Giordano,Craig Stedman,Wade A Kagarise,Jules Mermelstein,Rebecca Rhynhart,Michael Tomlinson,23
+Carolyn H Nichols,1,11,10,9,1,0,0,0,1,11,0,23
+Maria Mclaughlin,,1,10,8,1,0,0,0,1,10,0,23
+Debbie Kunselman,,,0,7,1,0,0,0,1,10,0,23
+Geoff Moulton,,,,0,0,0,0,0,0,8,0,23
+Mary Murray,,,,,0,3,2,2,0,1,2,23
+Emil Giordano,,,,,,0,2,2,0,0,2,23
+Craig Stedman,,,,,,,0,2,0,0,2,23
+Wade A Kagarise,,,,,,,,0,0,0,2,23
+Jules Mermelstein,,,,,,,,,0,1,0,23
+Rebecca Rhynhart,,,,,,,,,,0,0,23
+Michael Tomlinson,,,,,,,,,,,0,23
+Total,13,12,11,9,4,3,2,2,1,12,2,23

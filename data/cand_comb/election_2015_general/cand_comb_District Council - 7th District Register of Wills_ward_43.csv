@@ -1,10 +1,10 @@
 col_1,col_2,col_3,col_4,division
-,Register Of Wills,,District Council 7th District,1
-,Ronald R Donatucci,Ross Feinberg,Maria Quinones Sanchez,1
-Ronald R Donatucci,59,0,0,1
-Ross Feinberg,,3,0,1
-Maria Quinones Sanchez,,,0,1
-Total,59,3,0,1
+,District Council 7th District,Register Of Wills,,All
+,Maria Quinones Sanchez,Ronald R Donatucci,Ross Feinberg,All
+Maria Quinones Sanchez,151,632,14,All
+Ronald R Donatucci,,45,0,All
+Ross Feinberg,,,28,All
+Total,797,677,42,All
 ,District Council 7th District,Register Of Wills,,2
 ,Maria Quinones Sanchez,Ronald R Donatucci,Ross Feinberg,2
 Maria Quinones Sanchez,21,109,3,2
@@ -47,18 +47,6 @@ Maria Quinones Sanchez,7,38,2,8
 Ronald R Donatucci,,4,0,8
 Ross Feinberg,,,2,8
 Total,47,42,4,8
-,Register Of Wills,,District Council 7th District,9
-,Ronald R Donatucci,Ross Feinberg,Maria Quinones Sanchez,9
-Ronald R Donatucci,64,0,0,9
-Ross Feinberg,,3,0,9
-Maria Quinones Sanchez,,,0,9
-Total,64,3,0,9
-,Register Of Wills,,District Council 7th District,10
-,Ronald R Donatucci,Ross Feinberg,Maria Quinones Sanchez,10
-Ronald R Donatucci,51,0,0,10
-Ross Feinberg,,1,0,10
-Maria Quinones Sanchez,,,0,10
-Total,51,1,0,10
 ,District Council 7th District,Register Of Wills,,11
 ,Maria Quinones Sanchez,Ronald R Donatucci,Ross Feinberg,11
 Maria Quinones Sanchez,4,34,0,11
@@ -71,30 +59,6 @@ Maria Quinones Sanchez,15,45,1,12
 Ronald R Donatucci,,3,0,12
 Ross Feinberg,,,0,12
 Total,61,48,1,12
-,Register Of Wills,,District Council 7th District,13
-,Ronald R Donatucci,Ross Feinberg,Maria Quinones Sanchez,13
-Ronald R Donatucci,46,0,0,13
-Ross Feinberg,,0,0,13
-Maria Quinones Sanchez,,,0,13
-Total,46,0,0,13
-,Register Of Wills,,District Council 7th District,14
-,Ronald R Donatucci,Ross Feinberg,Maria Quinones Sanchez,14
-Ronald R Donatucci,62,0,0,14
-Ross Feinberg,,2,0,14
-Maria Quinones Sanchez,,,0,14
-Total,62,2,0,14
-,Register Of Wills,,District Council 7th District,15
-,Ronald R Donatucci,Ross Feinberg,Maria Quinones Sanchez,15
-Ronald R Donatucci,83,0,0,15
-Ross Feinberg,,1,0,15
-Maria Quinones Sanchez,,,0,15
-Total,83,1,0,15
-,Register Of Wills,,District Council 7th District,16
-,Ronald R Donatucci,Ross Feinberg,Maria Quinones Sanchez,16
-Ronald R Donatucci,64,0,0,16
-Ross Feinberg,,0,0,16
-Maria Quinones Sanchez,,,0,16
-Total,64,0,0,16
 ,District Council 7th District,Register Of Wills,,17
 ,Maria Quinones Sanchez,Ronald R Donatucci,Ross Feinberg,17
 Maria Quinones Sanchez,15,22,0,17
@@ -119,39 +83,3 @@ Maria Quinones Sanchez,6,36,1,20
 Ronald R Donatucci,,6,0,20
 Ross Feinberg,,,5,20
 Total,43,42,6,20
-,Register Of Wills,,District Council 7th District,21
-,Ronald R Donatucci,Ross Feinberg,Maria Quinones Sanchez,21
-Ronald R Donatucci,53,0,0,21
-Ross Feinberg,,1,0,21
-Maria Quinones Sanchez,,,0,21
-Total,53,1,0,21
-,Register Of Wills,,District Council 7th District,22
-,Ronald R Donatucci,Ross Feinberg,Maria Quinones Sanchez,22
-Ronald R Donatucci,56,0,0,22
-Ross Feinberg,,1,0,22
-Maria Quinones Sanchez,,,0,22
-Total,56,1,0,22
-,Register Of Wills,,District Council 7th District,23
-,Ronald R Donatucci,Ross Feinberg,Maria Quinones Sanchez,23
-Ronald R Donatucci,57,0,0,23
-Ross Feinberg,,3,0,23
-Maria Quinones Sanchez,,,0,23
-Total,57,3,0,23
-,Register Of Wills,,District Council 7th District,24
-,Ronald R Donatucci,Ross Feinberg,Maria Quinones Sanchez,24
-Ronald R Donatucci,87,0,0,24
-Ross Feinberg,,2,0,24
-Maria Quinones Sanchez,,,0,24
-Total,87,2,0,24
-,Register Of Wills,,District Council 7th District,25
-,Ronald R Donatucci,Ross Feinberg,Maria Quinones Sanchez,25
-Ronald R Donatucci,70,0,0,25
-Ross Feinberg,,4,0,25
-Maria Quinones Sanchez,,,0,25
-Total,70,4,0,25
-,Register Of Wills,,District Council 7th District,All
-,Ronald R Donatucci,Ross Feinberg,Maria Quinones Sanchez,All
-Ronald R Donatucci,797,0,632,All
-Ross Feinberg,,49,14,All
-Maria Quinones Sanchez,,,151,All
-Total,"1,429",63,797,All

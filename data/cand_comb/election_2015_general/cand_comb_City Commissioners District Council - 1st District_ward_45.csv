@@ -1,46 +1,11 @@
 col_1,col_2,col_3,col_4,col_5,division
-,City Commissioners,,,District Council 1st District,1
-,Lisa M Deeley,Al Schmidt,Anthony Clark,Mark F Squilla,1
-Lisa M Deeley,15,14,46,0,1
-Al Schmidt,,54,5,0,1
-Anthony Clark,,,9,0,1
-Mark F Squilla,,,,0,1
-Total,75,73,60,0,1
-,City Commissioners,,,District Council 1st District,2
-,Lisa M Deeley,Anthony Clark,Al Schmidt,Mark F Squilla,2
-Lisa M Deeley,13,25,12,0,2
-Anthony Clark,,12,3,0,2
-Al Schmidt,,,13,0,2
-Mark F Squilla,,,,0,2
-Total,50,40,28,0,2
-,City Commissioners,,,District Council 1st District,3
-,Al Schmidt,Lisa M Deeley,Anthony Clark,Mark F Squilla,3
-Al Schmidt,82,31,16,0,3
-Lisa M Deeley,,25,55,0,3
-Anthony Clark,,,22,0,3
-Mark F Squilla,,,,0,3
-Total,129,111,93,0,3
-,City Commissioners,,,District Council 1st District,4
-,Lisa M Deeley,Al Schmidt,Anthony Clark,Mark F Squilla,4
-Lisa M Deeley,25,25,59,0,4
-Al Schmidt,,63,6,0,4
-Anthony Clark,,,22,0,4
-Mark F Squilla,,,,0,4
-Total,109,94,87,0,4
-,City Commissioners,,,District Council 1st District,5
-,Lisa M Deeley,Al Schmidt,Anthony Clark,Mark F Squilla,5
-Lisa M Deeley,22,15,44,0,5
-Al Schmidt,,48,4,0,5
-Anthony Clark,,,9,0,5
-Mark F Squilla,,,,0,5
-Total,81,67,57,0,5
-,City Commissioners,,,District Council 1st District,6
-,Lisa M Deeley,Anthony Clark,Al Schmidt,Mark F Squilla,6
-Lisa M Deeley,11,30,7,0,6
-Anthony Clark,,12,0,0,6
-Al Schmidt,,,29,0,6
-Mark F Squilla,,,,0,6
-Total,48,42,36,0,6
+,District Council 1st District,City Commissioners,,,All
+,Mark F Squilla,Anthony Clark,Lisa M Deeley,Al Schmidt,All
+Mark F Squilla,81,459,443,114,All
+Anthony Clark,,18,354,39,All
+Lisa M Deeley,,,22,45,All
+Al Schmidt,,,,139,All
+Total,686,495,486,268,All
 ,District Council 1st District,City Commissioners,,,7
 ,Mark F Squilla,Lisa M Deeley,Anthony Clark,Al Schmidt,7
 Mark F Squilla,11,43,41,19,7
@@ -76,13 +41,6 @@ Anthony Clark,,0,23,1,11
 Lisa M Deeley,,,1,1,11
 Al Schmidt,,,,1,11
 Total,41,29,29,5,11
-,City Commissioners,,,District Council 1st District,12
-,Lisa M Deeley,Anthony Clark,Al Schmidt,Mark F Squilla,12
-Lisa M Deeley,5,21,1,0,12
-Anthony Clark,,4,0,0,12
-Al Schmidt,,,10,0,12
-Mark F Squilla,,,,0,12
-Total,27,25,11,0,12
 ,District Council 1st District,City Commissioners,,,13
 ,Mark F Squilla,Anthony Clark,Lisa M Deeley,Al Schmidt,13
 Mark F Squilla,5,28,26,5,13
@@ -97,13 +55,6 @@ Anthony Clark,,0,2,6,14
 Al Schmidt,,,6,0,14
 Lisa M Deeley,,,,0,14
 Total,12,10,9,7,14
-,City Commissioners,,,District Council 1st District,15
-,Anthony Clark,Lisa M Deeley,Al Schmidt,Mark F Squilla,15
-Anthony Clark,10,40,8,0,15
-Lisa M Deeley,,5,8,0,15
-Al Schmidt,,,30,0,15
-Mark F Squilla,,,,0,15
-Total,58,53,46,0,15
 ,District Council 1st District,City Commissioners,,,16
 ,Mark F Squilla,Anthony Clark,Lisa M Deeley,Al Schmidt,16
 Mark F Squilla,4,27,25,3,16
@@ -132,13 +83,6 @@ Anthony Clark,,0,18,2,19
 Lisa M Deeley,,,1,0,19
 Al Schmidt,,,,5,19
 Total,31,24,21,9,19
-,City Commissioners,,,District Council 1st District,20
-,Lisa M Deeley,Al Schmidt,Anthony Clark,Mark F Squilla,20
-Lisa M Deeley,21,23,49,0,20
-Al Schmidt,,58,10,0,20
-Anthony Clark,,,19,0,20
-Mark F Squilla,,,,0,20
-Total,93,91,78,0,20
 ,District Council 1st District,City Commissioners,,,21
 ,Mark F Squilla,Lisa M Deeley,Anthony Clark,Al Schmidt,21
 Mark F Squilla,4,19,14,2,21
@@ -153,13 +97,6 @@ Lisa M Deeley,,2,41,13,22
 Anthony Clark,,,3,8,22
 Al Schmidt,,,,22,22
 Total,103,62,61,56,22
-,City Commissioners,,,District Council 1st District,23
-,Lisa M Deeley,Anthony Clark,Al Schmidt,Mark F Squilla,23
-Lisa M Deeley,11,50,14,0,23
-Anthony Clark,,8,9,0,23
-Al Schmidt,,,38,0,23
-Mark F Squilla,,,,0,23
-Total,75,67,61,0,23
 ,District Council 1st District,City Commissioners,,,24
 ,Mark F Squilla,Anthony Clark,Lisa M Deeley,Al Schmidt,24
 Mark F Squilla,20,79,76,24,24
@@ -167,17 +104,3 @@ Anthony Clark,,3,59,9,24
 Lisa M Deeley,,,3,10,24
 Al Schmidt,,,,43,24
 Total,126,84,84,70,24
-,City Commissioners,,,District Council 1st District,25
-,Lisa M Deeley,Anthony Clark,Al Schmidt,Mark F Squilla,25
-Lisa M Deeley,13,37,14,0,25
-Anthony Clark,,10,6,0,25
-Al Schmidt,,,27,0,25
-Mark F Squilla,,,,0,25
-Total,64,53,47,0,25
-,City Commissioners,,,District Council 1st District,All
-,Lisa M Deeley,Anthony Clark,Al Schmidt,Mark F Squilla,All
-Lisa M Deeley,188,810,209,443,All
-Anthony Clark,,155,106,459,All
-Al Schmidt,,,591,114,All
-Mark F Squilla,,,,81,All
-Total,"1,272","1,155",951,686,All

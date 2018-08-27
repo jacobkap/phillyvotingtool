@@ -1,0 +1,21 @@
+col_1,col_2,col_3,division
+,City Controller - Republican,District Attorney - Republican,All
+,Michael Tomlinson,Beth Grossman,All
+Michael Tomlinson,1,5,All
+Beth Grossman,,0,All
+Total,6,5,All
+,City Controller - Republican,District Attorney - Republican,1
+,Michael Tomlinson,Beth Grossman,1
+Michael Tomlinson,1,1,1
+Beth Grossman,,0,1
+Total,2,1,1
+,District Attorney - Republican,City Controller - Republican,4
+,Beth Grossman,Michael Tomlinson,4
+Beth Grossman,0,1,4
+Michael Tomlinson,,0,4
+Total,1,1,4
+,District Attorney - Republican,City Controller - Republican,10
+,Beth Grossman,Michael Tomlinson,10
+Beth Grossman,0,3,10
+Michael Tomlinson,,0,10
+Total,3,3,10

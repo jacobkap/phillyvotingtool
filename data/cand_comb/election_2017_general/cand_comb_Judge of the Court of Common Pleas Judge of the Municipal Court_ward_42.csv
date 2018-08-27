@@ -1,0 +1,365 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10,col_11,col_12,division
+,Judge Of The Municipal Court,,Judge Of The Court Of Common Pleas,,,,,,,,,All
+,Marissa Brumbach,Matt Wolf,Deborah Canty,Vincent Furlong,Stella Tsai,Shanese Johnson,Mark B Cohen,Lucretia C Clemons,Deborah Cianfrani,Zac Shaffer,Vikki Kristiansson,All
+Marissa Brumbach,6,"1,188","1,219","1,176","1,218","1,199","1,188","1,201","1,191","1,191","1,188",All
+Matt Wolf,,7,"1,183","1,164","1,176","1,178","1,181","1,173","1,169","1,172","1,172",All
+Deborah Canty,,,6,"1,179","1,201","1,198","1,191","1,216","1,195","1,199","1,202",All
+Vincent Furlong,,,,51,"1,174","1,171","1,173","1,176","1,172","1,175","1,174",All
+Stella Tsai,,,,,3,"1,192","1,181","1,200","1,185","1,190","1,197",All
+Shanese Johnson,,,,,,3,"1,180","1,198","1,180","1,186","1,186",All
+Mark B Cohen,,,,,,,8,"1,191","1,179","1,186","1,184",All
+Lucretia C Clemons,,,,,,,,1,"1,186","1,197","1,200",All
+Deborah Cianfrani,,,,,,,,,6,"1,178","1,185",All
+Zac Shaffer,,,,,,,,,,1,"1,193",All
+Vikki Kristiansson,,,,,,,,,,,1,All
+Total,"1,316","1,278","1,274","1,265","1,256","1,252","1,250","1,244","1,234","1,231","1,229",All
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,1
+,Vincent Furlong,Deborah Cianfrani,Lucretia C Clemons,Stella Tsai,Deborah Canty,Mark B Cohen,Shanese Johnson,Vikki Kristiansson,Zac Shaffer,Marissa Brumbach,Matt Wolf,1
+Vincent Furlong,6,45,47,46,47,45,46,44,45,47,44,1
+Deborah Cianfrani,,1,47,47,47,46,46,46,47,47,44,1
+Lucretia C Clemons,,,0,49,48,47,47,47,47,47,43,1
+Stella Tsai,,,,1,48,46,47,47,47,46,43,1
+Deborah Canty,,,,,0,45,47,46,47,47,44,1
+Mark B Cohen,,,,,,0,46,45,45,45,42,1
+Shanese Johnson,,,,,,,0,45,45,46,43,1
+Vikki Kristiansson,,,,,,,,0,46,44,43,1
+Zac Shaffer,,,,,,,,,0,46,44,1
+Marissa Brumbach,,,,,,,,,,0,45,1
+Matt Wolf,,,,,,,,,,,0,1
+Total,55,50,50,50,49,48,48,48,48,50,46,1
+,Judge Of The Municipal Court,,Judge Of The Court Of Common Pleas,,,,,,,,,2
+,Marissa Brumbach,Matt Wolf,Deborah Canty,Mark B Cohen,Vincent Furlong,Lucretia C Clemons,Deborah Cianfrani,Shanese Johnson,Stella Tsai,Vikki Kristiansson,Zac Shaffer,2
+Marissa Brumbach,1,22,21,19,21,20,19,20,20,19,19,2
+Matt Wolf,,0,21,20,19,20,20,19,19,19,18,2
+Deborah Canty,,,0,19,20,21,20,20,20,19,19,2
+Mark B Cohen,,,,1,17,18,17,17,17,16,17,2
+Vincent Furlong,,,,,1,20,19,20,20,19,19,2
+Lucretia C Clemons,,,,,,0,20,20,20,19,19,2
+Deborah Cianfrani,,,,,,,0,19,19,19,18,2
+Shanese Johnson,,,,,,,,0,20,19,19,2
+Stella Tsai,,,,,,,,,0,19,19,2
+Vikki Kristiansson,,,,,,,,,,0,18,2
+Zac Shaffer,,,,,,,,,,,0,2
+Total,25,24,22,22,22,21,20,20,20,19,19,2
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,3
+,Vincent Furlong,Deborah Canty,Mark B Cohen,Stella Tsai,Vikki Kristiansson,Zac Shaffer,Lucretia C Clemons,Shanese Johnson,Deborah Cianfrani,Marissa Brumbach,Matt Wolf,3
+Vincent Furlong,5,33,34,34,34,34,34,34,33,34,33,3
+Deborah Canty,,0,34,33,34,34,33,33,33,34,34,3
+Mark B Cohen,,,0,34,35,35,34,34,33,35,33,3
+Stella Tsai,,,,0,34,34,34,34,33,35,33,3
+Vikki Kristiansson,,,,,0,35,34,34,33,35,33,3
+Zac Shaffer,,,,,,0,34,34,33,35,33,3
+Lucretia C Clemons,,,,,,,0,34,33,34,33,3
+Shanese Johnson,,,,,,,,0,33,34,33,3
+Deborah Cianfrani,,,,,,,,,0,33,33,3
+Marissa Brumbach,,,,,,,,,,0,33,3
+Matt Wolf,,,,,,,,,,,0,3
+Total,39,35,35,35,35,35,34,34,33,36,34,3
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,4
+,Deborah Canty,Deborah Cianfrani,Lucretia C Clemons,Shanese Johnson,Stella Tsai,Vikki Kristiansson,Vincent Furlong,Mark B Cohen,Zac Shaffer,Marissa Brumbach,Matt Wolf,4
+Deborah Canty,2,18,18,18,17,18,18,16,16,18,17,4
+Deborah Cianfrani,,0,19,19,18,19,18,17,16,19,17,4
+Lucretia C Clemons,,,0,19,18,19,18,17,16,19,17,4
+Shanese Johnson,,,,0,18,19,18,17,16,19,17,4
+Stella Tsai,,,,,0,18,17,17,16,18,17,4
+Vikki Kristiansson,,,,,,0,18,17,16,19,17,4
+Vincent Furlong,,,,,,,1,16,16,18,17,4
+Mark B Cohen,,,,,,,,0,15,17,15,4
+Zac Shaffer,,,,,,,,,0,16,16,4
+Marissa Brumbach,,,,,,,,,,1,17,4
+Matt Wolf,,,,,,,,,,,2,4
+Total,20,19,19,19,19,19,19,17,16,20,20,4
+,Judge Of The Municipal Court,,Judge Of The Court Of Common Pleas,,,,,,,,,5
+,Marissa Brumbach,Matt Wolf,Deborah Canty,Lucretia C Clemons,Shanese Johnson,Deborah Cianfrani,Vincent Furlong,Zac Shaffer,Stella Tsai,Vikki Kristiansson,Mark B Cohen,5
+Marissa Brumbach,0,56,60,58,59,59,56,58,58,57,55,5
+Matt Wolf,,1,58,58,56,56,56,56,55,56,56,5
+Deborah Canty,,,0,61,58,59,57,59,57,59,57,5
+Lucretia C Clemons,,,,0,57,58,58,58,57,58,57,5
+Shanese Johnson,,,,,0,57,56,58,57,58,56,5
+Deborah Cianfrani,,,,,,0,57,58,57,58,56,5
+Vincent Furlong,,,,,,,1,57,56,57,55,5
+Zac Shaffer,,,,,,,,0,57,59,56,5
+Stella Tsai,,,,,,,,,0,57,55,5
+Vikki Kristiansson,,,,,,,,,,0,56,5
+Mark B Cohen,,,,,,,,,,,0,5
+Total,66,61,64,62,62,60,60,60,59,59,57,5
+,Judge Of The Municipal Court,,Judge Of The Court Of Common Pleas,,,,,,,,,6
+,Marissa Brumbach,Matt Wolf,Vincent Furlong,Stella Tsai,Deborah Canty,Lucretia C Clemons,Mark B Cohen,Vikki Kristiansson,Zac Shaffer,Deborah Cianfrani,Shanese Johnson,6
+Marissa Brumbach,0,27,25,27,27,26,26,26,26,25,22,6
+Matt Wolf,,0,24,27,27,26,26,26,26,24,23,6
+Vincent Furlong,,,5,24,24,24,24,24,24,24,21,6
+Stella Tsai,,,,0,26,26,26,26,26,24,22,6
+Deborah Canty,,,,,0,26,26,26,26,24,22,6
+Lucretia C Clemons,,,,,,1,26,26,26,24,22,6
+Mark B Cohen,,,,,,,0,26,26,24,22,6
+Vikki Kristiansson,,,,,,,,0,26,24,22,6
+Zac Shaffer,,,,,,,,,0,24,22,6
+Deborah Cianfrani,,,,,,,,,,0,21,6
+Shanese Johnson,,,,,,,,,,,1,6
+Total,30,29,30,28,27,27,26,26,26,25,24,6
+,Judge Of The Municipal Court,,Judge Of The Court Of Common Pleas,,,,,,,,,7
+,Marissa Brumbach,Matt Wolf,Mark B Cohen,Vincent Furlong,Lucretia C Clemons,Zac Shaffer,Deborah Canty,Deborah Cianfrani,Shanese Johnson,Stella Tsai,Vikki Kristiansson,7
+Marissa Brumbach,1,31,33,31,33,33,32,31,31,31,31,7
+Matt Wolf,,0,33,30,31,31,31,32,31,31,31,7
+Mark B Cohen,,,0,31,32,33,32,32,32,32,31,7
+Vincent Furlong,,,,4,31,31,31,30,31,30,29,7
+Lucretia C Clemons,,,,,0,32,32,31,31,31,30,7
+Zac Shaffer,,,,,,0,32,31,31,31,31,7
+Deborah Canty,,,,,,,0,31,31,31,30,7
+Deborah Cianfrani,,,,,,,,0,31,31,30,7
+Shanese Johnson,,,,,,,,,0,31,29,7
+Stella Tsai,,,,,,,,,,0,30,7
+Vikki Kristiansson,,,,,,,,,,,0,7
+Total,35,34,35,35,33,33,32,32,32,32,32,7
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,8
+,Vincent Furlong,Deborah Canty,Stella Tsai,Vikki Kristiansson,Lucretia C Clemons,Mark B Cohen,Shanese Johnson,Zac Shaffer,Deborah Cianfrani,Marissa Brumbach,Matt Wolf,8
+Vincent Furlong,2,47,48,47,47,47,47,47,47,46,46,8
+Deborah Canty,,0,48,47,47,47,47,47,46,47,45,8
+Stella Tsai,,,0,48,48,47,48,48,47,47,46,8
+Vikki Kristiansson,,,,1,48,46,48,48,47,47,46,8
+Lucretia C Clemons,,,,,0,46,48,48,47,47,46,8
+Mark B Cohen,,,,,,0,46,46,46,45,46,8
+Shanese Johnson,,,,,,,0,48,47,47,46,8
+Zac Shaffer,,,,,,,,0,47,47,46,8
+Deborah Cianfrani,,,,,,,,,0,46,46,8
+Marissa Brumbach,,,,,,,,,,0,45,8
+Matt Wolf,,,,,,,,,,,0,8
+Total,50,49,49,49,48,48,48,48,47,48,47,8
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,9
+,Deborah Canty,Mark B Cohen,Shanese Johnson,Stella Tsai,Deborah Cianfrani,Lucretia C Clemons,Vikki Kristiansson,Zac Shaffer,Vincent Furlong,Marissa Brumbach,Matt Wolf,9
+Deborah Canty,0,43,42,43,43,43,43,43,41,44,41,9
+Mark B Cohen,,1,43,43,43,43,43,43,41,43,40,9
+Shanese Johnson,,,0,42,42,42,42,42,40,42,40,9
+Stella Tsai,,,,0,43,43,43,43,41,44,41,9
+Deborah Cianfrani,,,,,0,43,43,43,41,43,40,9
+Lucretia C Clemons,,,,,,0,43,43,41,43,40,9
+Vikki Kristiansson,,,,,,,0,43,41,43,40,9
+Zac Shaffer,,,,,,,,0,41,43,40,9
+Vincent Furlong,,,,,,,,,1,41,38,9
+Marissa Brumbach,,,,,,,,,,0,41,9
+Matt Wolf,,,,,,,,,,,0,9
+Total,45,45,44,44,43,43,43,43,42,45,43,9
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,10
+,Vincent Furlong,Deborah Canty,Stella Tsai,Zac Shaffer,Deborah Cianfrani,Vikki Kristiansson,Shanese Johnson,Lucretia C Clemons,Mark B Cohen,Matt Wolf,Marissa Brumbach,10
+Vincent Furlong,2,33,33,33,32,32,31,31,32,34,32,10
+Deborah Canty,,0,33,33,32,33,32,32,31,32,33,10
+Stella Tsai,,,0,32,32,33,32,32,30,31,33,10
+Zac Shaffer,,,,0,32,33,32,32,31,34,32,10
+Deborah Cianfrani,,,,,1,32,31,31,31,31,31,10
+Vikki Kristiansson,,,,,,0,32,32,30,32,31,10
+Shanese Johnson,,,,,,,0,32,29,32,31,10
+Lucretia C Clemons,,,,,,,,0,29,31,31,10
+Mark B Cohen,,,,,,,,,0,31,30,10
+Matt Wolf,,,,,,,,,,0,31,10
+Marissa Brumbach,,,,,,,,,,,0,10
+Total,38,35,35,35,34,34,33,32,32,36,35,10
+,Judge Of The Municipal Court,,Judge Of The Court Of Common Pleas,,,,,,,,,11
+,Marissa Brumbach,Matt Wolf,Deborah Canty,Lucretia C Clemons,Stella Tsai,Shanese Johnson,Mark B Cohen,Zac Shaffer,Vikki Kristiansson,Deborah Cianfrani,Vincent Furlong,11
+Marissa Brumbach,1,52,54,54,53,54,51,52,51,49,49,11
+Matt Wolf,,0,51,51,51,51,51,51,50,49,49,11
+Deborah Canty,,,0,54,52,53,52,51,51,49,49,11
+Lucretia C Clemons,,,,0,53,54,51,52,50,49,49,11
+Stella Tsai,,,,,0,52,50,52,50,49,49,11
+Shanese Johnson,,,,,,0,50,52,50,49,49,11
+Mark B Cohen,,,,,,,0,49,50,48,48,11
+Zac Shaffer,,,,,,,,0,50,49,49,11
+Vikki Kristiansson,,,,,,,,,0,49,49,11
+Deborah Cianfrani,,,,,,,,,,0,49,11
+Vincent Furlong,,,,,,,,,,,0,11
+Total,58,55,55,55,55,54,53,53,51,49,49,11
+,Judge Of The Municipal Court,,Judge Of The Court Of Common Pleas,,,,,,,,,12
+,Marissa Brumbach,Matt Wolf,Mark B Cohen,Stella Tsai,Vincent Furlong,Deborah Canty,Lucretia C Clemons,Shanese Johnson,Vikki Kristiansson,Zac Shaffer,Deborah Cianfrani,12
+Marissa Brumbach,1,31,33,35,33,35,33,33,34,33,33,12
+Matt Wolf,,0,32,32,31,30,32,31,31,31,30,12
+Mark B Cohen,,,0,34,34,33,34,34,33,34,32,12
+Stella Tsai,,,,0,34,34,33,33,34,33,33,12
+Vincent Furlong,,,,,1,33,33,33,33,33,32,12
+Deborah Canty,,,,,,0,33,33,33,33,33,12
+Lucretia C Clemons,,,,,,,0,33,32,34,32,12
+Shanese Johnson,,,,,,,,0,33,33,33,12
+Vikki Kristiansson,,,,,,,,,0,32,33,12
+Zac Shaffer,,,,,,,,,,0,32,12
+Deborah Cianfrani,,,,,,,,,,,0,12
+Total,38,34,36,36,36,35,35,35,35,34,33,12
+,Judge Of The Municipal Court,,Judge Of The Court Of Common Pleas,,,,,,,,,13
+,Marissa Brumbach,Matt Wolf,Deborah Canty,Shanese Johnson,Stella Tsai,Vincent Furlong,Deborah Cianfrani,Vikki Kristiansson,Lucretia C Clemons,Mark B Cohen,Zac Shaffer,13
+Marissa Brumbach,0,83,83,82,85,83,82,84,83,81,79,13
+Matt Wolf,,0,80,81,82,82,80,81,80,81,79,13
+Deborah Canty,,,0,81,81,83,83,84,82,81,79,13
+Shanese Johnson,,,,1,81,81,80,82,80,80,78,13
+Stella Tsai,,,,,0,81,80,82,81,80,79,13
+Vincent Furlong,,,,,,1,81,83,80,81,79,13
+Deborah Cianfrani,,,,,,,1,82,81,81,79,13
+Vikki Kristiansson,,,,,,,,0,82,81,79,13
+Lucretia C Clemons,,,,,,,,,0,80,79,13
+Mark B Cohen,,,,,,,,,,0,78,13
+Zac Shaffer,,,,,,,,,,,0,13
+Total,92,87,86,86,86,86,85,85,84,84,80,13
+,Judge Of The Municipal Court,,Judge Of The Court Of Common Pleas,,,,,,,,,14
+,Marissa Brumbach,Matt Wolf,Mark B Cohen,Deborah Canty,Lucretia C Clemons,Stella Tsai,Shanese Johnson,Vikki Kristiansson,Zac Shaffer,Vincent Furlong,Deborah Cianfrani,14
+Marissa Brumbach,0,47,49,51,50,50,47,48,47,45,46,14
+Matt Wolf,,0,49,48,47,45,46,46,46,45,44,14
+Mark B Cohen,,,1,49,50,47,47,48,46,45,46,14
+Deborah Canty,,,,0,50,47,47,48,46,45,46,14
+Lucretia C Clemons,,,,,0,47,47,48,46,45,46,14
+Stella Tsai,,,,,,1,47,47,46,44,45,14
+Shanese Johnson,,,,,,,0,47,46,44,45,14
+Vikki Kristiansson,,,,,,,,0,46,44,46,14
+Zac Shaffer,,,,,,,,,0,44,44,14
+Vincent Furlong,,,,,,,,,,2,43,14
+Deborah Cianfrani,,,,,,,,,,,0,14
+Total,55,52,53,52,51,51,48,48,48,47,46,14
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,15
+,Shanese Johnson,Deborah Canty,Zac Shaffer,Lucretia C Clemons,Stella Tsai,Vincent Furlong,Deborah Cianfrani,Mark B Cohen,Vikki Kristiansson,Matt Wolf,Marissa Brumbach,15
+Shanese Johnson,0,82,82,81,77,79,80,80,78,81,80,15
+Deborah Canty,,0,82,80,78,78,80,80,78,80,79,15
+Zac Shaffer,,,0,81,78,79,80,80,79,80,78,15
+Lucretia C Clemons,,,,0,77,78,79,80,78,79,77,15
+Stella Tsai,,,,,1,74,77,75,77,77,77,15
+Vincent Furlong,,,,,,3,78,78,76,78,76,15
+Deborah Cianfrani,,,,,,,0,78,77,79,78,15
+Mark B Cohen,,,,,,,,0,77,79,76,15
+Vikki Kristiansson,,,,,,,,,0,77,74,15
+Matt Wolf,,,,,,,,,,1,77,15
+Marissa Brumbach,,,,,,,,,,,0,15
+Total,85,84,83,82,82,82,81,81,79,84,82,15
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,16
+,Mark B Cohen,Deborah Canty,Deborah Cianfrani,Lucretia C Clemons,Stella Tsai,Vikki Kristiansson,Vincent Furlong,Zac Shaffer,Shanese Johnson,Matt Wolf,Marissa Brumbach,16
+Mark B Cohen,0,42,45,44,42,43,41,42,42,43,42,16
+Deborah Canty,,0,42,43,42,42,40,42,41,41,42,16
+Deborah Cianfrani,,,0,43,42,42,40,40,42,41,42,16
+Lucretia C Clemons,,,,0,42,44,40,42,42,41,42,16
+Stella Tsai,,,,,0,41,39,40,41,40,42,16
+Vikki Kristiansson,,,,,,0,40,42,42,41,41,16
+Vincent Furlong,,,,,,,1,41,40,40,39,16
+Zac Shaffer,,,,,,,,0,40,40,40,16
+Shanese Johnson,,,,,,,,,0,40,40,16
+Matt Wolf,,,,,,,,,,0,43,16
+Marissa Brumbach,,,,,,,,,,,0,16
+Total,48,45,45,45,44,44,44,44,42,47,46,16
+,Judge Of The Municipal Court,,Judge Of The Court Of Common Pleas,,,,,,,,,17
+,Matt Wolf,Marissa Brumbach,Shanese Johnson,Lucretia C Clemons,Stella Tsai,Deborah Canty,Deborah Cianfrani,Vincent Furlong,Vikki Kristiansson,Zac Shaffer,Mark B Cohen,17
+Matt Wolf,0,64,65,65,64,64,64,63,63,63,62,17
+Marissa Brumbach,,0,63,63,63,62,61,61,61,61,61,17
+Shanese Johnson,,,1,64,63,63,63,63,63,63,62,17
+Lucretia C Clemons,,,,0,63,63,63,63,63,63,62,17
+Stella Tsai,,,,,0,62,62,62,62,62,61,17
+Deborah Canty,,,,,,0,62,62,62,62,62,17
+Deborah Cianfrani,,,,,,,0,62,62,62,61,17
+Vincent Furlong,,,,,,,,1,63,63,62,17
+Vikki Kristiansson,,,,,,,,,0,63,62,17
+Zac Shaffer,,,,,,,,,,0,62,17
+Mark B Cohen,,,,,,,,,,,0,17
+Total,69,66,67,65,65,64,64,64,63,63,62,17
+,Judge Of The Municipal Court,,Judge Of The Court Of Common Pleas,,,,,,,,,18
+,Marissa Brumbach,Matt Wolf,Mark B Cohen,Lucretia C Clemons,Deborah Canty,Deborah Cianfrani,Stella Tsai,Vincent Furlong,Zac Shaffer,Shanese Johnson,Vikki Kristiansson,18
+Marissa Brumbach,0,73,74,75,74,73,76,71,74,74,73,18
+Matt Wolf,,0,71,72,72,71,72,70,71,69,70,18
+Mark B Cohen,,,2,74,73,73,72,70,73,73,73,18
+Lucretia C Clemons,,,,0,76,74,75,72,76,76,75,18
+Deborah Canty,,,,,0,73,73,70,75,74,74,18
+Deborah Cianfrani,,,,,,1,73,71,73,72,73,18
+Stella Tsai,,,,,,,0,72,73,73,74,18
+Vincent Furlong,,,,,,,,5,71,71,72,18
+Zac Shaffer,,,,,,,,,0,74,74,18
+Shanese Johnson,,,,,,,,,,0,74,18
+Vikki Kristiansson,,,,,,,,,,,0,18
+Total,83,76,80,79,78,78,78,78,78,77,76,18
+,Judge Of The Municipal Court,,Judge Of The Court Of Common Pleas,,,,,,,,,19
+,Matt Wolf,Marissa Brumbach,Shanese Johnson,Vincent Furlong,Deborah Canty,Mark B Cohen,Stella Tsai,Deborah Cianfrani,Lucretia C Clemons,Vikki Kristiansson,Zac Shaffer,19
+Matt Wolf,1,67,69,67,65,66,68,67,66,66,65,19
+Marissa Brumbach,,0,66,66,64,65,66,65,65,65,65,19
+Shanese Johnson,,,0,67,65,67,67,65,67,66,65,19
+Vincent Furlong,,,,2,64,66,66,64,66,65,64,19
+Deborah Canty,,,,,2,64,65,65,65,64,63,19
+Mark B Cohen,,,,,,1,66,64,66,65,65,19
+Stella Tsai,,,,,,,0,66,66,66,65,19
+Deborah Cianfrani,,,,,,,,0,65,65,64,19
+Lucretia C Clemons,,,,,,,,,0,66,64,19
+Vikki Kristiansson,,,,,,,,,,0,64,19
+Zac Shaffer,,,,,,,,,,,0,19
+Total,73,67,70,70,68,68,68,67,67,66,65,19
+,Judge Of The Municipal Court,,Judge Of The Court Of Common Pleas,,,,,,,,,20
+,Marissa Brumbach,Matt Wolf,Deborah Cianfrani,Mark B Cohen,Shanese Johnson,Deborah Canty,Lucretia C Clemons,Zac Shaffer,Stella Tsai,Vincent Furlong,Vikki Kristiansson,20
+Marissa Brumbach,0,63,65,65,64,63,63,63,63,63,62,20
+Matt Wolf,,0,64,63,63,63,63,64,62,63,62,20
+Deborah Cianfrani,,,0,63,64,63,62,63,62,63,62,20
+Mark B Cohen,,,,1,62,62,62,63,62,63,62,20
+Shanese Johnson,,,,,0,63,63,62,62,62,62,20
+Deborah Canty,,,,,,0,62,62,62,62,62,20
+Lucretia C Clemons,,,,,,,0,62,62,62,62,20
+Zac Shaffer,,,,,,,,0,62,63,62,20
+Stella Tsai,,,,,,,,,0,62,62,20
+Vincent Furlong,,,,,,,,,,0,62,20
+Vikki Kristiansson,,,,,,,,,,,0,20
+Total,69,67,66,66,65,64,64,64,63,63,62,20
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,21
+,Deborah Canty,Shanese Johnson,Lucretia C Clemons,Vikki Kristiansson,Vincent Furlong,Deborah Cianfrani,Mark B Cohen,Stella Tsai,Zac Shaffer,Marissa Brumbach,Matt Wolf,21
+Deborah Canty,1,32,33,33,30,31,31,32,31,34,33,21
+Shanese Johnson,,0,32,32,30,31,31,32,31,33,33,21
+Lucretia C Clemons,,,0,33,30,31,31,32,31,32,32,21
+Vikki Kristiansson,,,,0,30,31,31,32,31,32,32,21
+Vincent Furlong,,,,,1,30,31,30,30,31,31,21
+Deborah Cianfrani,,,,,,0,30,31,30,31,31,21
+Mark B Cohen,,,,,,,0,31,31,32,32,21
+Stella Tsai,,,,,,,,0,31,32,32,21
+Zac Shaffer,,,,,,,,,0,31,31,21
+Marissa Brumbach,,,,,,,,,,0,34,21
+Matt Wolf,,,,,,,,,,,0,21
+Total,36,34,33,33,33,32,32,32,31,36,35,21
+,Judge Of The Municipal Court,,Judge Of The Court Of Common Pleas,,,,,,,,,22
+,Marissa Brumbach,Matt Wolf,Deborah Cianfrani,Vincent Furlong,Deborah Canty,Shanese Johnson,Stella Tsai,Vikki Kristiansson,Lucretia C Clemons,Mark B Cohen,Zac Shaffer,22
+Marissa Brumbach,0,29,30,31,31,31,31,30,30,30,30,22
+Matt Wolf,,0,28,29,29,29,29,30,29,29,29,22
+Deborah Cianfrani,,,2,30,29,28,29,29,29,29,29,22
+Vincent Furlong,,,,1,30,30,30,30,30,30,30,22
+Deborah Canty,,,,,0,30,30,30,30,30,30,22
+Shanese Johnson,,,,,,0,29,29,29,29,29,22
+Stella Tsai,,,,,,,0,30,30,30,30,22
+Vikki Kristiansson,,,,,,,,0,30,30,30,22
+Lucretia C Clemons,,,,,,,,,0,30,30,22
+Mark B Cohen,,,,,,,,,,0,30,22
+Zac Shaffer,,,,,,,,,,,0,22
+Total,34,30,33,33,31,31,31,31,30,30,30,22
+,Judge Of The Court Of Common Pleas,,,,,,,,,Judge Of The Municipal Court,,23
+,Lucretia C Clemons,Shanese Johnson,Vincent Furlong,Zac Shaffer,Deborah Canty,Deborah Cianfrani,Vikki Kristiansson,Mark B Cohen,Stella Tsai,Matt Wolf,Marissa Brumbach,23
+Lucretia C Clemons,0,25,25,26,25,25,25,24,24,24,23,23
+Shanese Johnson,,0,24,25,24,24,24,24,24,25,23,23
+Vincent Furlong,,,1,25,24,25,25,24,24,24,23,23
+Zac Shaffer,,,,0,25,25,25,24,24,24,23,23
+Deborah Canty,,,,,0,24,24,23,23,23,22,23
+Deborah Cianfrani,,,,,,0,25,24,24,24,23,23
+Vikki Kristiansson,,,,,,,0,24,24,24,23,23
+Mark B Cohen,,,,,,,,0,24,24,23,23
+Stella Tsai,,,,,,,,,0,24,23,23
+Matt Wolf,,,,,,,,,,0,23,23
+Marissa Brumbach,,,,,,,,,,,0,23
+Total,26,26,26,26,25,25,25,24,24,25,23,23
+,Judge Of The Municipal Court,,Judge Of The Court Of Common Pleas,,,,,,,,,24
+,Marissa Brumbach,Matt Wolf,Shanese Johnson,Deborah Canty,Mark B Cohen,Stella Tsai,Vincent Furlong,Zac Shaffer,Vikki Kristiansson,Deborah Cianfrani,Lucretia C Clemons,24
+Marissa Brumbach,1,88,95,93,92,95,90,94,92,90,88,24
+Matt Wolf,,2,89,89,91,89,88,90,90,87,84,24
+Shanese Johnson,,,0,95,94,95,92,95,93,92,90,24
+Deborah Canty,,,,0,94,96,94,95,95,93,91,24
+Mark B Cohen,,,,,0,94,92,95,93,92,89,24
+Stella Tsai,,,,,,0,93,95,94,93,90,24
+Vincent Furlong,,,,,,,4,92,92,92,88,24
+Zac Shaffer,,,,,,,,0,94,92,90,24
+Vikki Kristiansson,,,,,,,,,0,92,90,24
+Deborah Cianfrani,,,,,,,,,,0,88,24
+Lucretia C Clemons,,,,,,,,,,,0,24
+Total,101,98,99,98,98,98,98,98,97,93,91,24
+,Judge Of The Municipal Court,,Judge Of The Court Of Common Pleas,,,,,,,,,25
+,Marissa Brumbach,Matt Wolf,Deborah Canty,Deborah Cianfrani,Stella Tsai,Zac Shaffer,Mark B Cohen,Vikki Kristiansson,Shanese Johnson,Lucretia C Clemons,Vincent Furlong,25
+Marissa Brumbach,0,66,69,70,68,66,66,66,63,65,64,25
+Matt Wolf,,0,65,67,66,64,66,66,66,63,63,25
+Deborah Canty,,,1,69,68,67,65,67,65,68,64,25
+Deborah Cianfrani,,,,0,68,67,68,66,66,66,66,25
+Stella Tsai,,,,,0,67,66,67,65,67,65,25
+Zac Shaffer,,,,,,1,67,67,64,66,65,25
+Mark B Cohen,,,,,,,1,67,63,65,66,25
+Vikki Kristiansson,,,,,,,,0,63,66,65,25
+Shanese Johnson,,,,,,,,,0,63,62,25
+Lucretia C Clemons,,,,,,,,,,0,64,25
+Vincent Furlong,,,,,,,,,,,0,25
+Total,76,72,75,74,72,71,70,70,69,68,66,25

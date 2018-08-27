@@ -1,0 +1,181 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,division
+,United States Senator - Republican,President Of The United States - Republican,,,,,,All
+,Pat Toomey,Ted Cruz,Donald J Trump,John R Kasich,Ben Carson,Marco Rubio,Jeb Bush,All
+Pat Toomey,2,9,8,7,2,1,0,All
+Ted Cruz,,5,0,0,0,0,0,All
+Donald J Trump,,,4,0,0,0,0,All
+John R Kasich,,,,4,0,0,0,All
+Ben Carson,,,,,1,0,0,All
+Marco Rubio,,,,,,0,0,All
+Jeb Bush,,,,,,,0,All
+Total,29,14,12,11,3,1,0,All
+,President Of The United States - Republican,,,,,,United States Senator - Republican,4
+,Ted Cruz,Ben Carson,Donald J Trump,Jeb Bush,John R Kasich,Marco Rubio,Pat Toomey,4
+Ted Cruz,2,0,0,0,0,0,1,4
+Ben Carson,,0,0,0,0,0,0,4
+Donald J Trump,,,0,0,0,0,0,4
+Jeb Bush,,,,0,0,0,0,4
+John R Kasich,,,,,0,0,0,4
+Marco Rubio,,,,,,0,0,4
+Pat Toomey,,,,,,,0,4
+Total,3,0,0,0,0,0,1,4
+,President Of The United States - Republican,,,,,,United States Senator - Republican,5
+,John R Kasich,Ben Carson,Donald J Trump,Jeb Bush,Marco Rubio,Ted Cruz,Pat Toomey,5
+John R Kasich,0,0,0,0,0,0,1,5
+Ben Carson,,0,0,0,0,0,0,5
+Donald J Trump,,,0,0,0,0,0,5
+Jeb Bush,,,,0,0,0,0,5
+Marco Rubio,,,,,0,0,0,5
+Ted Cruz,,,,,,0,0,5
+Pat Toomey,,,,,,,0,5
+Total,1,0,0,0,0,0,1,5
+,President Of The United States - Republican,,,,,,United States Senator - Republican,7
+,Donald J Trump,Ben Carson,Jeb Bush,John R Kasich,Marco Rubio,Ted Cruz,Pat Toomey,7
+Donald J Trump,0,0,0,0,0,0,1,7
+Ben Carson,,0,0,0,0,0,0,7
+Jeb Bush,,,0,0,0,0,0,7
+John R Kasich,,,,0,0,0,0,7
+Marco Rubio,,,,,0,0,0,7
+Ted Cruz,,,,,,0,0,7
+Pat Toomey,,,,,,,0,7
+Total,1,0,0,0,0,0,1,7
+,United States Senator - Republican,President Of The United States - Republican,,,,,,8
+,Pat Toomey,Donald J Trump,John R Kasich,Ted Cruz,Ben Carson,Jeb Bush,Marco Rubio,8
+Pat Toomey,0,2,1,1,0,0,0,8
+Donald J Trump,,0,0,0,0,0,0,8
+John R Kasich,,,0,0,0,0,0,8
+Ted Cruz,,,,0,0,0,0,8
+Ben Carson,,,,,0,0,0,8
+Jeb Bush,,,,,,0,0,8
+Marco Rubio,,,,,,,0,8
+Total,4,2,1,1,0,0,0,8
+,United States Senator - Republican,President Of The United States - Republican,,,,,,9
+,Pat Toomey,John R Kasich,Marco Rubio,Ted Cruz,Ben Carson,Donald J Trump,Jeb Bush,9
+Pat Toomey,0,0,1,1,0,0,0,9
+John R Kasich,,1,0,0,0,0,0,9
+Marco Rubio,,,0,0,0,0,0,9
+Ted Cruz,,,,0,0,0,0,9
+Ben Carson,,,,,0,0,0,9
+Donald J Trump,,,,,,0,0,9
+Jeb Bush,,,,,,,0,9
+Total,2,1,1,1,0,0,0,9
+,President Of The United States - Republican,,,,,,United States Senator - Republican,10
+,Ted Cruz,John R Kasich,Ben Carson,Donald J Trump,Jeb Bush,Marco Rubio,Pat Toomey,10
+Ted Cruz,1,0,0,0,0,0,1,10
+John R Kasich,,1,0,0,0,0,0,10
+Ben Carson,,,0,0,0,0,0,10
+Donald J Trump,,,,0,0,0,0,10
+Jeb Bush,,,,,0,0,0,10
+Marco Rubio,,,,,,0,0,10
+Pat Toomey,,,,,,,0,10
+Total,2,1,0,0,0,0,1,10
+,President Of The United States - Republican,,,,,,United States Senator - Republican,11
+,Ben Carson,Donald J Trump,John R Kasich,Ted Cruz,Jeb Bush,Marco Rubio,Pat Toomey,11
+Ben Carson,1,0,0,0,0,0,0,11
+Donald J Trump,,1,0,0,0,0,0,11
+John R Kasich,,,0,0,0,0,1,11
+Ted Cruz,,,,1,0,0,0,11
+Jeb Bush,,,,,0,0,0,11
+Marco Rubio,,,,,,0,0,11
+Pat Toomey,,,,,,,0,11
+Total,1,1,1,1,0,0,1,11
+,United States Senator - Republican,President Of The United States - Republican,,,,,,12
+,Pat Toomey,Donald J Trump,Ben Carson,Jeb Bush,John R Kasich,Marco Rubio,Ted Cruz,12
+Pat Toomey,1,2,1,0,0,0,0,12
+Donald J Trump,,0,0,0,0,0,0,12
+Ben Carson,,,0,0,0,0,0,12
+Jeb Bush,,,,0,0,0,0,12
+John R Kasich,,,,,0,0,0,12
+Marco Rubio,,,,,,0,0,12
+Ted Cruz,,,,,,,0,12
+Total,4,2,1,0,0,0,0,12
+,United States Senator - Republican,President Of The United States - Republican,,,,,,14
+,Pat Toomey,Ted Cruz,Ben Carson,Donald J Trump,Jeb Bush,John R Kasich,Marco Rubio,14
+Pat Toomey,0,1,0,0,0,0,0,14
+Ted Cruz,,0,0,0,0,0,0,14
+Ben Carson,,,0,0,0,0,0,14
+Donald J Trump,,,,0,0,0,0,14
+Jeb Bush,,,,,0,0,0,14
+John R Kasich,,,,,,0,0,14
+Marco Rubio,,,,,,,0,14
+Total,1,1,0,0,0,0,0,14
+,President Of The United States - Republican,,,,,,United States Senator - Republican,15
+,John R Kasich,Ben Carson,Donald J Trump,Jeb Bush,Marco Rubio,Ted Cruz,Pat Toomey,15
+John R Kasich,0,0,0,0,0,0,2,15
+Ben Carson,,0,0,0,0,0,0,15
+Donald J Trump,,,0,0,0,0,0,15
+Jeb Bush,,,,0,0,0,0,15
+Marco Rubio,,,,,0,0,0,15
+Ted Cruz,,,,,,0,0,15
+Pat Toomey,,,,,,,0,15
+Total,2,0,0,0,0,0,2,15
+,President Of The United States - Republican,,,,,,United States Senator - Republican,19
+,John R Kasich,Ben Carson,Donald J Trump,Jeb Bush,Marco Rubio,Ted Cruz,Pat Toomey,19
+John R Kasich,0,0,0,0,0,0,1,19
+Ben Carson,,0,0,0,0,0,0,19
+Donald J Trump,,,0,0,0,0,0,19
+Jeb Bush,,,,0,0,0,0,19
+Marco Rubio,,,,,0,0,0,19
+Ted Cruz,,,,,,0,0,19
+Pat Toomey,,,,,,,0,19
+Total,1,0,0,0,0,0,1,19
+,United States Senator - Republican,President Of The United States - Republican,,,,,,21
+,Pat Toomey,John R Kasich,Ted Cruz,Ben Carson,Donald J Trump,Jeb Bush,Marco Rubio,21
+Pat Toomey,1,1,1,0,0,0,0,21
+John R Kasich,,0,0,0,0,0,0,21
+Ted Cruz,,,0,0,0,0,0,21
+Ben Carson,,,,0,0,0,0,21
+Donald J Trump,,,,,0,0,0,21
+Jeb Bush,,,,,,0,0,21
+Marco Rubio,,,,,,,0,21
+Total,3,1,1,0,0,0,0,21
+,President Of The United States - Republican,,,,,,United States Senator - Republican,22
+,Donald J Trump,Ben Carson,Jeb Bush,John R Kasich,Marco Rubio,Ted Cruz,Pat Toomey,22
+Donald J Trump,0,0,0,0,0,0,2,22
+Ben Carson,,0,0,0,0,0,0,22
+Jeb Bush,,,0,0,0,0,0,22
+John R Kasich,,,,0,0,0,0,22
+Marco Rubio,,,,,0,0,0,22
+Ted Cruz,,,,,,0,0,22
+Pat Toomey,,,,,,,0,22
+Total,2,0,0,0,0,0,2,22
+,President Of The United States - Republican,,,,,,United States Senator - Republican,23
+,Ben Carson,Donald J Trump,John R Kasich,Ted Cruz,Jeb Bush,Marco Rubio,Pat Toomey,23
+Ben Carson,0,0,0,0,0,0,1,23
+Donald J Trump,,1,0,0,0,0,0,23
+John R Kasich,,,1,0,0,0,0,23
+Ted Cruz,,,,1,0,0,0,23
+Jeb Bush,,,,,0,0,0,23
+Marco Rubio,,,,,,0,0,23
+Pat Toomey,,,,,,,0,23
+Total,1,1,1,1,0,0,1,23
+,President Of The United States - Republican,,,,,,United States Senator - Republican,24
+,Donald J Trump,Ted Cruz,John R Kasich,Ben Carson,Jeb Bush,Marco Rubio,Pat Toomey,24
+Donald J Trump,2,0,0,0,0,0,0,24
+Ted Cruz,,0,0,0,0,0,2,24
+John R Kasich,,,1,0,0,0,0,24
+Ben Carson,,,,0,0,0,0,24
+Jeb Bush,,,,,0,0,0,24
+Marco Rubio,,,,,,0,0,24
+Pat Toomey,,,,,,,0,24
+Total,2,2,1,0,0,0,2,24
+,President Of The United States - Republican,,,,,,United States Senator - Republican,25
+,Donald J Trump,Ben Carson,Jeb Bush,John R Kasich,Marco Rubio,Ted Cruz,Pat Toomey,25
+Donald J Trump,0,0,0,0,0,0,1,25
+Ben Carson,,0,0,0,0,0,0,25
+Jeb Bush,,,0,0,0,0,0,25
+John R Kasich,,,,0,0,0,0,25
+Marco Rubio,,,,,0,0,0,25
+Ted Cruz,,,,,,0,0,25
+Pat Toomey,,,,,,,0,25
+Total,1,0,0,0,0,0,1,25
+,United States Senator - Republican,President Of The United States - Republican,,,,,,27
+,Pat Toomey,Ted Cruz,Ben Carson,Donald J Trump,Jeb Bush,John R Kasich,Marco Rubio,27
+Pat Toomey,0,1,0,0,0,0,0,27
+Ted Cruz,,0,0,0,0,0,0,27
+Ben Carson,,,0,0,0,0,0,27
+Donald J Trump,,,,0,0,0,0,27
+Jeb Bush,,,,,0,0,0,27
+John R Kasich,,,,,,0,0,27
+Marco Rubio,,,,,,,0,27
+Total,1,1,0,0,0,0,0,27

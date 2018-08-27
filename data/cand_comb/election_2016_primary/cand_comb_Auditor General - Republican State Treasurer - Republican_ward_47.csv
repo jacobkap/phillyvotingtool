@@ -1,0 +1,51 @@
+col_1,col_2,col_3,division
+,Auditor General - Republican,State Treasurer - Republican,All
+,John Brown,Otto Voit,All
+John Brown,3,45,All
+Otto Voit,,3,All
+Total,48,48,All
+,Auditor General - Republican,State Treasurer - Republican,1
+,John Brown,Otto Voit,1
+John Brown,0,10,1
+Otto Voit,,0,1
+Total,10,10,1
+,State Treasurer - Republican,Auditor General - Republican,2
+,Otto Voit,John Brown,2
+Otto Voit,1,10,2
+John Brown,,0,2
+Total,11,10,2
+,Auditor General - Republican,State Treasurer - Republican,3
+,John Brown,Otto Voit,3
+John Brown,1,11,3
+Otto Voit,,0,3
+Total,12,11,3
+,Auditor General - Republican,State Treasurer - Republican,4
+,John Brown,Otto Voit,4
+John Brown,0,1,4
+Otto Voit,,0,4
+Total,1,1,4
+,Auditor General - Republican,State Treasurer - Republican,5
+,John Brown,Otto Voit,5
+John Brown,0,4,5
+Otto Voit,,0,5
+Total,4,4,5
+,State Treasurer - Republican,Auditor General - Republican,6
+,Otto Voit,John Brown,6
+Otto Voit,2,3,6
+John Brown,,0,6
+Total,5,3,6
+,Auditor General - Republican,State Treasurer - Republican,11
+,John Brown,Otto Voit,11
+John Brown,1,1,11
+Otto Voit,,0,11
+Total,2,1,11
+,Auditor General - Republican,State Treasurer - Republican,12
+,John Brown,Otto Voit,12
+John Brown,1,4,12
+Otto Voit,,0,12
+Total,5,4,12
+,Auditor General - Republican,State Treasurer - Republican,14
+,John Brown,Otto Voit,14
+John Brown,0,1,14
+Otto Voit,,0,14
+Total,1,1,14

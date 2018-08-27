@@ -1,40 +1,10 @@
 col_1,col_2,col_3,col_4,division
-,Register Of Wills,,District Council 6th District,1
-,Ronald R Donatucci,Ross Feinberg,Bobby Henon,1
-Ronald R Donatucci,38,0,0,1
-Ross Feinberg,,3,0,1
-Bobby Henon,,,0,1
-Total,38,3,0,1
-,Register Of Wills,,District Council 6th District,2
-,Ronald R Donatucci,Ross Feinberg,Bobby Henon,2
-Ronald R Donatucci,67,0,0,2
-Ross Feinberg,,7,0,2
-Bobby Henon,,,0,2
-Total,67,7,0,2
-,Register Of Wills,,District Council 6th District,3
-,Ronald R Donatucci,Ross Feinberg,Bobby Henon,3
-Ronald R Donatucci,51,0,0,3
-Ross Feinberg,,5,0,3
-Bobby Henon,,,0,3
-Total,51,5,0,3
-,Register Of Wills,,District Council 6th District,4
-,Ronald R Donatucci,Ross Feinberg,Bobby Henon,4
-Ronald R Donatucci,51,0,0,4
-Ross Feinberg,,9,0,4
-Bobby Henon,,,0,4
-Total,51,9,0,4
-,Register Of Wills,,District Council 6th District,5
-,Ronald R Donatucci,Ross Feinberg,Bobby Henon,5
-Ronald R Donatucci,42,0,0,5
-Ross Feinberg,,10,0,5
-Bobby Henon,,,0,5
-Total,42,10,0,5
-,Register Of Wills,,District Council 6th District,6
-,Ronald R Donatucci,Ross Feinberg,Bobby Henon,6
-Ronald R Donatucci,65,0,0,6
-Ross Feinberg,,8,0,6
-Bobby Henon,,,0,6
-Total,65,8,0,6
+,District Council 6th District,Register Of Wills,,All
+,Bobby Henon,Ronald R Donatucci,Ross Feinberg,All
+Bobby Henon,98,661,81,All
+Ronald R Donatucci,,44,0,All
+Ross Feinberg,,,92,All
+Total,840,705,173,All
 ,District Council 6th District,Register Of Wills,,7
 ,Bobby Henon,Ronald R Donatucci,Ross Feinberg,7
 Bobby Henon,6,35,5,7
@@ -131,9 +101,3 @@ Bobby Henon,5,48,4,22
 Ronald R Donatucci,,0,0,22
 Ross Feinberg,,,2,22
 Total,57,48,6,22
-,Register Of Wills,,District Council 6th District,All
-,Ronald R Donatucci,Ross Feinberg,Bobby Henon,All
-Ronald R Donatucci,358,0,661,All
-Ross Feinberg,,134,81,All
-Bobby Henon,,,98,All
-Total,"1,019",215,840,All

@@ -1,0 +1,31 @@
+col_1,col_2,col_3,col_4,division
+,Justice Of The Supreme Court - Republican,Judge Of The Commonwealth Court - Republican,,All
+,Sallie Mundy,Paul Lalley,Christine Fizzano Cannon,All
+Sallie Mundy,1,6,5,All
+Paul Lalley,,0,5,All
+Christine Fizzano Cannon,,,0,All
+Total,7,6,5,All
+,Judge Of The Commonwealth Court - Republican,,Justice Of The Supreme Court - Republican,1
+,Paul Lalley,Christine Fizzano Cannon,Sallie Mundy,1
+Paul Lalley,0,1,2,1
+Christine Fizzano Cannon,,0,1,1
+Sallie Mundy,,,0,1
+Total,2,1,2,1
+,Judge Of The Commonwealth Court - Republican,,Justice Of The Supreme Court - Republican,4
+,Christine Fizzano Cannon,Paul Lalley,Sallie Mundy,4
+Christine Fizzano Cannon,0,1,1,4
+Paul Lalley,,0,1,4
+Sallie Mundy,,,0,4
+Total,1,1,1,4
+,Judge Of The Commonwealth Court - Republican,,Justice Of The Supreme Court - Republican,9
+,Christine Fizzano Cannon,Paul Lalley,Sallie Mundy,9
+Christine Fizzano Cannon,0,1,1,9
+Paul Lalley,,0,1,9
+Sallie Mundy,,,0,9
+Total,1,1,1,9
+,Justice Of The Supreme Court - Republican,Judge Of The Commonwealth Court - Republican,,10
+,Sallie Mundy,Christine Fizzano Cannon,Paul Lalley,10
+Sallie Mundy,1,2,2,10
+Christine Fizzano Cannon,,0,2,10
+Paul Lalley,,,0,10
+Total,3,2,2,10

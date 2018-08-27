@@ -1,0 +1,411 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,division
+,Judge Of The Municipal Court - Republican,Justice Of The Supreme Court - Republican,,,,,,1
+,Christine Hope,Correale Stevens,Anne Covey,Judy Olson,Mike George,Cheryl Allen,Rebecca Warren,1
+Christine Hope,0,2,1,1,1,1,0,1
+Correale Stevens,,1,1,1,0,1,0,1
+Anne Covey,,,0,1,0,0,1,1
+Judy Olson,,,,0,0,1,1,1
+Mike George,,,,,1,0,0,1
+Cheryl Allen,,,,,,0,0,1
+Rebecca Warren,,,,,,,0,1
+Total,3,3,2,2,2,1,1,1
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Municipal Court - Republican,4
+,Cheryl Allen,Correale Stevens,Mike George,Anne Covey,Judy Olson,Rebecca Warren,Christine Hope,4
+Cheryl Allen,0,1,1,0,0,0,1,4
+Correale Stevens,,0,1,0,0,0,1,4
+Mike George,,,0,0,0,0,1,4
+Anne Covey,,,,0,0,0,0,4
+Judy Olson,,,,,0,0,0,4
+Rebecca Warren,,,,,,0,0,4
+Christine Hope,,,,,,,0,4
+Total,1,1,1,0,0,0,1,4
+,Judge Of The Municipal Court - Republican,Justice Of The Supreme Court - Republican,,,,,,6
+,Christine Hope,Correale Stevens,Mike George,Anne Covey,Cheryl Allen,Judy Olson,Rebecca Warren,6
+Christine Hope,0,1,2,1,0,0,0,6
+Correale Stevens,,1,1,1,0,0,0,6
+Mike George,,,0,1,0,0,0,6
+Anne Covey,,,,0,0,0,0,6
+Cheryl Allen,,,,,0,0,0,6
+Judy Olson,,,,,,0,0,6
+Rebecca Warren,,,,,,,0,6
+Total,2,2,2,1,0,0,0,6
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Municipal Court - Republican,7
+,Cheryl Allen,Judy Olson,Anne Covey,Correale Stevens,Mike George,Rebecca Warren,Christine Hope,7
+Cheryl Allen,0,1,0,0,0,0,1,7
+Judy Olson,,0,0,0,0,0,1,7
+Anne Covey,,,0,0,0,0,0,7
+Correale Stevens,,,,0,0,0,0,7
+Mike George,,,,,0,0,0,7
+Rebecca Warren,,,,,,0,0,7
+Christine Hope,,,,,,,0,7
+Total,1,1,0,0,0,0,1,7
+,Judge Of The Municipal Court - Republican,Justice Of The Supreme Court - Republican,,,,,,9
+,Christine Hope,Mike George,Anne Covey,Cheryl Allen,Correale Stevens,Rebecca Warren,Judy Olson,9
+Christine Hope,0,2,1,1,1,1,0,9
+Mike George,,0,1,1,1,1,0,9
+Anne Covey,,,0,1,0,0,0,9
+Cheryl Allen,,,,0,0,0,0,9
+Correale Stevens,,,,,0,1,0,9
+Rebecca Warren,,,,,,0,0,9
+Judy Olson,,,,,,,0,9
+Total,2,2,1,1,1,1,0,9
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Municipal Court - Republican,11
+,Anne Covey,Correale Stevens,Cheryl Allen,Rebecca Warren,Judy Olson,Mike George,Christine Hope,11
+Anne Covey,1,0,1,1,0,0,1,11
+Correale Stevens,,1,0,0,0,0,1,11
+Cheryl Allen,,,0,1,0,0,1,11
+Rebecca Warren,,,,0,0,0,1,11
+Judy Olson,,,,,0,0,0,11
+Mike George,,,,,,0,0,11
+Christine Hope,,,,,,,0,11
+Total,2,2,1,1,0,0,2,11
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Municipal Court - Republican,12
+,Anne Covey,Cheryl Allen,Correale Stevens,Judy Olson,Mike George,Rebecca Warren,Christine Hope,12
+Anne Covey,0,0,0,0,0,0,1,12
+Cheryl Allen,,0,0,0,0,0,0,12
+Correale Stevens,,,0,0,0,0,0,12
+Judy Olson,,,,0,0,0,0,12
+Mike George,,,,,0,0,0,12
+Rebecca Warren,,,,,,0,0,12
+Christine Hope,,,,,,,0,12
+Total,1,0,0,0,0,0,1,12
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Municipal Court - Republican,13
+,Anne Covey,Judy Olson,Mike George,Cheryl Allen,Correale Stevens,Rebecca Warren,Christine Hope,13
+Anne Covey,0,1,1,0,0,0,1,13
+Judy Olson,,0,1,0,0,0,1,13
+Mike George,,,0,0,0,0,1,13
+Cheryl Allen,,,,0,0,0,0,13
+Correale Stevens,,,,,0,0,0,13
+Rebecca Warren,,,,,,0,0,13
+Christine Hope,,,,,,,0,13
+Total,1,1,1,0,0,0,1,13
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Municipal Court - Republican,14
+,Anne Covey,Mike George,Rebecca Warren,Cheryl Allen,Correale Stevens,Judy Olson,Christine Hope,14
+Anne Covey,0,1,1,0,0,0,1,14
+Mike George,,0,1,0,0,0,1,14
+Rebecca Warren,,,0,0,0,0,1,14
+Cheryl Allen,,,,0,0,0,0,14
+Correale Stevens,,,,,0,0,0,14
+Judy Olson,,,,,,0,0,14
+Christine Hope,,,,,,,0,14
+Total,1,1,1,0,0,0,1,14
+,Judge Of The Municipal Court - Republican,Justice Of The Supreme Court - Republican,,,,,,17
+,Christine Hope,Anne Covey,Judy Olson,Mike George,Correale Stevens,Rebecca Warren,Cheryl Allen,17
+Christine Hope,0,2,1,1,1,0,0,17
+Anne Covey,,0,0,0,0,0,0,17
+Judy Olson,,,0,2,1,0,0,17
+Mike George,,,,0,1,0,0,17
+Correale Stevens,,,,,0,0,0,17
+Rebecca Warren,,,,,,1,0,17
+Cheryl Allen,,,,,,,0,17
+Total,3,2,2,2,1,1,0,17
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Municipal Court - Republican,19
+,Anne Covey,Correale Stevens,Cheryl Allen,Mike George,Rebecca Warren,Judy Olson,Christine Hope,19
+Anne Covey,1,3,0,2,1,0,5,19
+Correale Stevens,,1,0,0,0,0,4,19
+Cheryl Allen,,,1,0,0,0,1,19
+Mike George,,,,0,1,0,1,19
+Rebecca Warren,,,,,0,0,1,19
+Judy Olson,,,,,,0,0,19
+Christine Hope,,,,,,,0,19
+Total,7,5,2,2,1,0,7,19
+,Judge Of The Municipal Court - Republican,Justice Of The Supreme Court - Republican,,,,,,20
+,Christine Hope,Anne Covey,Cheryl Allen,Correale Stevens,Rebecca Warren,Judy Olson,Mike George,20
+Christine Hope,0,3,1,1,1,0,0,20
+Anne Covey,,0,1,0,1,0,0,20
+Cheryl Allen,,,0,0,1,0,0,20
+Correale Stevens,,,,0,0,0,0,20
+Rebecca Warren,,,,,0,0,0,20
+Judy Olson,,,,,,0,0,20
+Mike George,,,,,,,0,20
+Total,4,3,1,1,1,0,0,20
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Municipal Court - Republican,21
+,Anne Covey,Correale Stevens,Rebecca Warren,Cheryl Allen,Judy Olson,Mike George,Christine Hope,21
+Anne Covey,1,0,0,0,0,0,0,21
+Correale Stevens,,1,0,0,0,0,0,21
+Rebecca Warren,,,0,0,0,0,1,21
+Cheryl Allen,,,,0,0,0,0,21
+Judy Olson,,,,,0,0,0,21
+Mike George,,,,,,0,0,21
+Christine Hope,,,,,,,0,21
+Total,1,1,1,0,0,0,1,21
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Municipal Court - Republican,22
+,Anne Covey,Correale Stevens,Mike George,Judy Olson,Cheryl Allen,Rebecca Warren,Christine Hope,22
+Anne Covey,1,2,1,0,0,0,3,22
+Correale Stevens,,0,2,1,0,0,3,22
+Mike George,,,0,1,0,0,2,22
+Judy Olson,,,,0,0,0,1,22
+Cheryl Allen,,,,,0,0,0,22
+Rebecca Warren,,,,,,0,0,22
+Christine Hope,,,,,,,0,22
+Total,4,3,2,1,0,0,4,22
+,Judge Of The Municipal Court - Republican,Justice Of The Supreme Court - Republican,,,,,,23
+,Christine Hope,Cheryl Allen,Correale Stevens,Anne Covey,Rebecca Warren,Judy Olson,Mike George,23
+Christine Hope,0,2,2,1,1,0,0,23
+Cheryl Allen,,0,1,0,1,0,0,23
+Correale Stevens,,,0,1,1,0,0,23
+Anne Covey,,,,0,0,0,0,23
+Rebecca Warren,,,,,0,0,0,23
+Judy Olson,,,,,,0,0,23
+Mike George,,,,,,,0,23
+Total,3,2,2,1,1,0,0,23
+,Judge Of The Municipal Court - Republican,Justice Of The Supreme Court - Republican,,,,,,24
+,Christine Hope,Cheryl Allen,Correale Stevens,Mike George,Anne Covey,Judy Olson,Rebecca Warren,24
+Christine Hope,0,3,2,3,2,2,0,24
+Cheryl Allen,,0,1,2,1,2,0,24
+Correale Stevens,,,1,2,1,0,0,24
+Mike George,,,,0,1,1,0,24
+Anne Covey,,,,,0,1,0,24
+Judy Olson,,,,,,0,0,24
+Rebecca Warren,,,,,,,0,24
+Total,4,3,3,3,2,2,0,24
+,Judge Of The Municipal Court - Republican,Justice Of The Supreme Court - Republican,,,,,,25
+,Christine Hope,Mike George,Anne Covey,Judy Olson,Cheryl Allen,Correale Stevens,Rebecca Warren,25
+Christine Hope,1,2,1,1,0,0,0,25
+Mike George,,0,1,1,0,0,0,25
+Anne Covey,,,0,1,0,0,0,25
+Judy Olson,,,,0,0,0,0,25
+Cheryl Allen,,,,,0,0,0,25
+Correale Stevens,,,,,,0,0,25
+Rebecca Warren,,,,,,,0,25
+Total,3,2,1,1,0,0,0,25
+,Judge Of The Municipal Court - Republican,Justice Of The Supreme Court - Republican,,,,,,26
+,Christine Hope,Mike George,Anne Covey,Cheryl Allen,Correale Stevens,Judy Olson,Rebecca Warren,26
+Christine Hope,0,1,0,0,0,0,0,26
+Mike George,,0,0,0,0,0,0,26
+Anne Covey,,,0,0,0,0,0,26
+Cheryl Allen,,,,0,0,0,0,26
+Correale Stevens,,,,,0,0,0,26
+Judy Olson,,,,,,0,0,26
+Rebecca Warren,,,,,,,0,26
+Total,1,1,0,0,0,0,0,26
+,Judge Of The Municipal Court - Republican,Justice Of The Supreme Court - Republican,,,,,,28
+,Christine Hope,Mike George,Anne Covey,Correale Stevens,Rebecca Warren,Cheryl Allen,Judy Olson,28
+Christine Hope,0,6,5,5,3,1,1,28
+Mike George,,0,3,3,2,1,1,28
+Anne Covey,,,0,3,2,1,0,28
+Correale Stevens,,,,0,2,0,1,28
+Rebecca Warren,,,,,0,0,0,28
+Cheryl Allen,,,,,,0,0,28
+Judy Olson,,,,,,,0,28
+Total,8,6,5,5,3,1,1,28
+,Judge Of The Municipal Court - Republican,Justice Of The Supreme Court - Republican,,,,,,29
+,Christine Hope,Correale Stevens,Anne Covey,Judy Olson,Mike George,Cheryl Allen,Rebecca Warren,29
+Christine Hope,0,1,1,1,1,0,0,29
+Correale Stevens,,1,0,0,0,0,0,29
+Anne Covey,,,0,1,1,0,0,29
+Judy Olson,,,,0,1,0,0,29
+Mike George,,,,,0,0,0,29
+Cheryl Allen,,,,,,0,0,29
+Rebecca Warren,,,,,,,0,29
+Total,2,2,1,1,1,0,0,29
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Municipal Court - Republican,30
+,Anne Covey,Correale Stevens,Cheryl Allen,Judy Olson,Mike George,Rebecca Warren,Christine Hope,30
+Anne Covey,0,1,0,0,0,0,2,30
+Correale Stevens,,0,0,0,0,0,1,30
+Cheryl Allen,,,0,0,0,0,0,30
+Judy Olson,,,,0,0,0,0,30
+Mike George,,,,,0,0,0,30
+Rebecca Warren,,,,,,0,0,30
+Christine Hope,,,,,,,0,30
+Total,2,1,0,0,0,0,2,30
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Municipal Court - Republican,31
+,Anne Covey,Rebecca Warren,Cheryl Allen,Correale Stevens,Judy Olson,Mike George,Christine Hope,31
+Anne Covey,1,2,1,1,0,0,2,31
+Rebecca Warren,,0,1,1,0,0,2,31
+Cheryl Allen,,,0,0,0,0,1,31
+Correale Stevens,,,,0,0,0,1,31
+Judy Olson,,,,,0,0,0,31
+Mike George,,,,,,0,0,31
+Christine Hope,,,,,,,0,31
+Total,3,2,1,1,0,0,2,31
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Municipal Court - Republican,32
+,Cheryl Allen,Correale Stevens,Rebecca Warren,Anne Covey,Judy Olson,Mike George,Christine Hope,32
+Cheryl Allen,0,1,1,0,0,0,1,32
+Correale Stevens,,0,1,0,0,0,1,32
+Rebecca Warren,,,0,0,0,0,1,32
+Anne Covey,,,,0,0,0,0,32
+Judy Olson,,,,,0,0,0,32
+Mike George,,,,,,0,0,32
+Christine Hope,,,,,,,0,32
+Total,1,1,1,0,0,0,1,32
+,Judge Of The Municipal Court - Republican,Justice Of The Supreme Court - Republican,,,,,,33
+,Christine Hope,Anne Covey,Cheryl Allen,Correale Stevens,Judy Olson,Rebecca Warren,Mike George,33
+Christine Hope,0,2,2,1,1,1,0,33
+Anne Covey,,0,1,1,1,1,0,33
+Cheryl Allen,,,0,0,1,0,0,33
+Correale Stevens,,,,0,0,1,0,33
+Judy Olson,,,,,0,0,0,33
+Rebecca Warren,,,,,,0,0,33
+Mike George,,,,,,,0,33
+Total,3,2,2,1,1,1,0,33
+,Judge Of The Municipal Court - Republican,Justice Of The Supreme Court - Republican,,,,,,34
+,Christine Hope,Correale Stevens,Judy Olson,Mike George,Anne Covey,Cheryl Allen,Rebecca Warren,34
+Christine Hope,0,1,1,1,0,0,0,34
+Correale Stevens,,0,1,1,0,0,0,34
+Judy Olson,,,0,1,0,0,0,34
+Mike George,,,,0,0,0,0,34
+Anne Covey,,,,,0,0,0,34
+Cheryl Allen,,,,,,0,0,34
+Rebecca Warren,,,,,,,0,34
+Total,1,1,1,1,0,0,0,34
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Municipal Court - Republican,35
+,Anne Covey,Cheryl Allen,Judy Olson,Mike George,Correale Stevens,Rebecca Warren,Christine Hope,35
+Anne Covey,1,0,0,0,0,0,0,35
+Cheryl Allen,,0,1,0,0,0,1,35
+Judy Olson,,,0,0,0,0,1,35
+Mike George,,,,1,0,0,0,35
+Correale Stevens,,,,,0,0,0,35
+Rebecca Warren,,,,,,0,0,35
+Christine Hope,,,,,,,0,35
+Total,1,1,1,1,0,0,1,35
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Municipal Court - Republican,36
+,Anne Covey,Judy Olson,Mike George,Correale Stevens,Cheryl Allen,Rebecca Warren,Christine Hope,36
+Anne Covey,0,1,0,1,0,0,2,36
+Judy Olson,,0,1,1,0,0,1,36
+Mike George,,,1,0,0,0,0,36
+Correale Stevens,,,,0,0,0,1,36
+Cheryl Allen,,,,,0,0,0,36
+Rebecca Warren,,,,,,0,0,36
+Christine Hope,,,,,,,0,36
+Total,2,2,2,1,0,0,2,36
+,Judge Of The Municipal Court - Republican,Justice Of The Supreme Court - Republican,,,,,,37
+,Christine Hope,Anne Covey,Correale Stevens,Mike George,Rebecca Warren,Cheryl Allen,Judy Olson,37
+Christine Hope,0,5,6,4,3,2,1,37
+Anne Covey,,1,2,2,1,0,1,37
+Correale Stevens,,,0,2,2,2,0,37
+Mike George,,,,1,2,1,1,37
+Rebecca Warren,,,,,0,1,0,37
+Cheryl Allen,,,,,,0,0,37
+Judy Olson,,,,,,,0,37
+Total,9,6,6,5,3,2,1,37
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Municipal Court - Republican,38
+,Anne Covey,Mike George,Rebecca Warren,Cheryl Allen,Judy Olson,Correale Stevens,Christine Hope,38
+Anne Covey,1,2,2,1,1,0,1,38
+Mike George,,0,1,1,0,0,0,38
+Rebecca Warren,,,0,0,1,0,1,38
+Cheryl Allen,,,,0,0,0,0,38
+Judy Olson,,,,,0,0,1,38
+Correale Stevens,,,,,,0,0,38
+Christine Hope,,,,,,,0,38
+Total,4,2,2,1,1,0,1,38
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Municipal Court - Republican,39
+,Anne Covey,Cheryl Allen,Rebecca Warren,Correale Stevens,Judy Olson,Mike George,Christine Hope,39
+Anne Covey,0,1,1,0,0,0,0,39
+Cheryl Allen,,0,1,0,0,0,0,39
+Rebecca Warren,,,0,0,0,0,0,39
+Correale Stevens,,,,0,0,0,0,39
+Judy Olson,,,,,0,0,0,39
+Mike George,,,,,,0,0,39
+Christine Hope,,,,,,,0,39
+Total,1,1,1,0,0,0,0,39
+,Judge Of The Municipal Court - Republican,Justice Of The Supreme Court - Republican,,,,,,40
+,Christine Hope,Anne Covey,Correale Stevens,Judy Olson,Mike George,Rebecca Warren,Cheryl Allen,40
+Christine Hope,0,2,2,1,1,1,0,40
+Anne Covey,,0,1,1,1,1,0,40
+Correale Stevens,,,0,0,1,0,0,40
+Judy Olson,,,,0,0,1,0,40
+Mike George,,,,,0,0,0,40
+Rebecca Warren,,,,,,0,0,40
+Cheryl Allen,,,,,,,0,40
+Total,3,2,2,1,1,1,0,40
+,Judge Of The Municipal Court - Republican,Justice Of The Supreme Court - Republican,,,,,,41
+,Christine Hope,Anne Covey,Cheryl Allen,Correale Stevens,Mike George,Rebecca Warren,Judy Olson,41
+Christine Hope,1,3,2,1,2,2,0,41
+Anne Covey,,0,2,0,2,2,0,41
+Cheryl Allen,,,0,0,1,1,0,41
+Correale Stevens,,,,1,0,0,0,41
+Mike George,,,,,0,1,0,41
+Rebecca Warren,,,,,,0,0,41
+Judy Olson,,,,,,,0,41
+Total,5,3,2,2,2,2,0,41
+,Judge Of The Municipal Court - Republican,Justice Of The Supreme Court - Republican,,,,,,42
+,Christine Hope,Anne Covey,Cheryl Allen,Correale Stevens,Judy Olson,Mike George,Rebecca Warren,42
+Christine Hope,2,0,0,0,0,0,0,42
+Anne Covey,,0,0,0,0,0,0,42
+Cheryl Allen,,,0,0,0,0,0,42
+Correale Stevens,,,,0,0,0,0,42
+Judy Olson,,,,,0,0,0,42
+Mike George,,,,,,0,0,42
+Rebecca Warren,,,,,,,0,42
+Total,2,0,0,0,0,0,0,42
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Municipal Court - Republican,43
+,Anne Covey,Rebecca Warren,Judy Olson,Mike George,Cheryl Allen,Correale Stevens,Christine Hope,43
+Anne Covey,0,2,1,0,0,0,1,43
+Rebecca Warren,,0,1,0,0,0,1,43
+Judy Olson,,,0,0,0,0,1,43
+Mike George,,,,1,0,0,0,43
+Cheryl Allen,,,,,0,0,0,43
+Correale Stevens,,,,,,0,0,43
+Christine Hope,,,,,,,0,43
+Total,2,2,1,1,0,0,1,43
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Municipal Court - Republican,45
+,Anne Covey,Mike George,Cheryl Allen,Correale Stevens,Judy Olson,Rebecca Warren,Christine Hope,45
+Anne Covey,0,2,1,1,1,1,3,45
+Mike George,,0,1,0,1,0,2,45
+Cheryl Allen,,,0,0,0,0,1,45
+Correale Stevens,,,,0,0,1,1,45
+Judy Olson,,,,,0,0,1,45
+Rebecca Warren,,,,,,0,1,45
+Christine Hope,,,,,,,0,45
+Total,3,2,1,1,1,1,3,45
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Municipal Court - Republican,46
+,Anne Covey,Correale Stevens,Judy Olson,Rebecca Warren,Cheryl Allen,Mike George,Christine Hope,46
+Anne Covey,0,2,2,2,0,1,5,46
+Correale Stevens,,0,1,1,0,0,2,46
+Judy Olson,,,0,1,0,1,2,46
+Rebecca Warren,,,,0,0,0,2,46
+Cheryl Allen,,,,,1,0,0,46
+Mike George,,,,,,0,1,46
+Christine Hope,,,,,,,0,46
+Total,5,3,3,2,1,1,5,46
+,Judge Of The Municipal Court - Republican,Justice Of The Supreme Court - Republican,,,,,,48
+,Christine Hope,Anne Covey,Correale Stevens,Judy Olson,Mike George,Cheryl Allen,Rebecca Warren,48
+Christine Hope,0,4,3,4,4,2,0,48
+Anne Covey,,0,1,3,3,1,0,48
+Correale Stevens,,,1,1,2,1,0,48
+Judy Olson,,,,0,2,2,0,48
+Mike George,,,,,0,0,0,48
+Cheryl Allen,,,,,,0,0,48
+Rebecca Warren,,,,,,,0,48
+Total,6,4,4,4,4,2,0,48
+,Judge Of The Municipal Court - Republican,Justice Of The Supreme Court - Republican,,,,,,49
+,Christine Hope,Cheryl Allen,Anne Covey,Judy Olson,Correale Stevens,Mike George,Rebecca Warren,49
+Christine Hope,0,5,4,3,2,2,0,49
+Cheryl Allen,,0,3,2,2,1,0,49
+Anne Covey,,,0,2,1,2,0,49
+Judy Olson,,,,0,1,1,0,49
+Correale Stevens,,,,,0,0,0,49
+Mike George,,,,,,0,0,49
+Rebecca Warren,,,,,,,0,49
+Total,6,5,4,3,2,2,0,49
+,Justice Of The Supreme Court - Republican,,,,,,Judge Of The Municipal Court - Republican,50
+,Judy Olson,Anne Covey,Cheryl Allen,Correale Stevens,Mike George,Rebecca Warren,Christine Hope,50
+Judy Olson,1,1,1,1,1,0,1,50
+Anne Covey,,0,0,0,1,0,0,50
+Cheryl Allen,,,0,1,0,0,1,50
+Correale Stevens,,,,0,0,0,1,50
+Mike George,,,,,0,0,0,50
+Rebecca Warren,,,,,,0,0,50
+Christine Hope,,,,,,,0,50
+Total,3,1,1,1,1,0,1,50
+,Judge Of The Municipal Court - Republican,Justice Of The Supreme Court - Republican,,,,,,51
+,Christine Hope,Correale Stevens,Anne Covey,Cheryl Allen,Mike George,Judy Olson,Rebecca Warren,51
+Christine Hope,1,1,0,1,1,0,0,51
+Correale Stevens,,0,1,1,1,0,0,51
+Anne Covey,,,0,0,0,0,0,51
+Cheryl Allen,,,,0,1,0,0,51
+Mike George,,,,,0,0,0,51
+Judy Olson,,,,,,0,0,51
+Rebecca Warren,,,,,,,0,51
+Total,2,2,1,1,1,0,0,51
+,Judge Of The Municipal Court - Republican,Justice Of The Supreme Court - Republican,,,,,,All
+,Christine Hope,Anne Covey,Correale Stevens,Mike George,Cheryl Allen,Judy Olson,Rebecca Warren,All
+Christine Hope,5,66,50,43,32,29,25,All
+Anne Covey,,8,25,29,16,20,22,All
+Correale Stevens,,,9,18,12,10,11,All
+Mike George,,,,5,11,17,9,All
+Cheryl Allen,,,,,2,11,8,All
+Judy Olson,,,,,,1,5,All
+Rebecca Warren,,,,,,,1,All
+Total,110,82,61,54,36,35,30,All

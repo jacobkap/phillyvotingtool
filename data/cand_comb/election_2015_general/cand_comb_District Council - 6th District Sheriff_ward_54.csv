@@ -1,40 +1,10 @@
 col_1,col_2,col_3,col_4,division
-,Sheriff,,District Council 6th District,1
-,Jewell Williams,Christopher Sawyer,Bobby Henon,1
-Jewell Williams,32,0,0,1
-Christopher Sawyer,,5,0,1
-Bobby Henon,,,0,1
-Total,32,5,0,1
-,Sheriff,,District Council 6th District,2
-,Jewell Williams,Christopher Sawyer,Bobby Henon,2
-Jewell Williams,67,0,0,2
-Christopher Sawyer,,8,0,2
-Bobby Henon,,,0,2
-Total,67,8,0,2
-,Sheriff,,District Council 6th District,3
-,Jewell Williams,Christopher Sawyer,Bobby Henon,3
-Jewell Williams,53,0,0,3
-Christopher Sawyer,,5,0,3
-Bobby Henon,,,0,3
-Total,53,5,0,3
-,Sheriff,,District Council 6th District,4
-,Jewell Williams,Christopher Sawyer,Bobby Henon,4
-Jewell Williams,54,0,0,4
-Christopher Sawyer,,11,0,4
-Bobby Henon,,,0,4
-Total,54,11,0,4
-,Sheriff,,District Council 6th District,5
-,Jewell Williams,Christopher Sawyer,Bobby Henon,5
-Jewell Williams,44,0,0,5
-Christopher Sawyer,,11,0,5
-Bobby Henon,,,0,5
-Total,44,11,0,5
-,Sheriff,,District Council 6th District,6
-,Jewell Williams,Christopher Sawyer,Bobby Henon,6
-Jewell Williams,57,0,0,6
-Christopher Sawyer,,10,0,6
-Bobby Henon,,,0,6
-Total,57,10,0,6
+,District Council 6th District,Sheriff,,All
+,Bobby Henon,Jewell Williams,Christopher Sawyer,All
+Bobby Henon,124,621,95,All
+Jewell Williams,,38,0,All
+Christopher Sawyer,,,88,All
+Total,840,659,183,All
 ,District Council 6th District,Sheriff,,7
 ,Bobby Henon,Jewell Williams,Christopher Sawyer,7
 Bobby Henon,9,34,3,7
@@ -131,9 +101,3 @@ Bobby Henon,7,47,3,22
 Jewell Williams,,0,0,22
 Christopher Sawyer,,,2,22
 Total,57,47,5,22
-,Sheriff,,District Council 6th District,All
-,Jewell Williams,Christopher Sawyer,Bobby Henon,All
-Jewell Williams,345,0,621,All
-Christopher Sawyer,,138,95,All
-Bobby Henon,,,124,All
-Total,966,233,840,All

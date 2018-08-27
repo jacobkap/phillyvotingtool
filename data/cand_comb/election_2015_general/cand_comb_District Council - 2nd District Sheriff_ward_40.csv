@@ -1,4 +1,10 @@
 col_1,col_2,col_3,col_4,division
+,District Council 2nd District,Sheriff,,All
+,Kenyatta Johnson,Jewell Williams,Christopher Sawyer,All
+Kenyatta Johnson,425,"4,095",109,All
+Jewell Williams,,248,0,All
+Christopher Sawyer,,,151,All
+Total,"4,629","4,343",260,All
 ,District Council 2nd District,Sheriff,,1
 ,Kenyatta Johnson,Jewell Williams,Christopher Sawyer,1
 Kenyatta Johnson,7,52,1,1
@@ -17,12 +23,6 @@ Jewell Williams,16,0,142,3
 Christopher Sawyer,,1,2,3
 Kenyatta Johnson,,,11,3
 Total,158,3,155,3
-,Sheriff,,District Council 2nd District,4
-,Jewell Williams,Christopher Sawyer,Kenyatta Johnson,4
-Jewell Williams,118,0,0,4
-Christopher Sawyer,,3,0,4
-Kenyatta Johnson,,,0,4
-Total,118,3,0,4
 ,District Council 2nd District,Sheriff,,5
 ,Kenyatta Johnson,Jewell Williams,Christopher Sawyer,5
 Kenyatta Johnson,13,143,1,5
@@ -77,12 +77,6 @@ Kenyatta Johnson,10,76,0,13
 Jewell Williams,,4,0,13
 Christopher Sawyer,,,0,13
 Total,86,80,0,13
-,Sheriff,,District Council 2nd District,14
-,Jewell Williams,Christopher Sawyer,Kenyatta Johnson,14
-Jewell Williams,87,0,0,14
-Christopher Sawyer,,4,0,14
-Kenyatta Johnson,,,0,14
-Total,87,4,0,14
 ,District Council 2nd District,Sheriff,,15
 ,Kenyatta Johnson,Jewell Williams,Christopher Sawyer,15
 Kenyatta Johnson,7,41,2,15
@@ -161,12 +155,6 @@ Kenyatta Johnson,11,67,1,27
 Jewell Williams,,0,0,27
 Christopher Sawyer,,,1,27
 Total,79,67,2,27
-,Sheriff,,District Council 2nd District,28
-,Jewell Williams,Christopher Sawyer,Kenyatta Johnson,28
-Jewell Williams,116,0,0,28
-Christopher Sawyer,,12,0,28
-Kenyatta Johnson,,,0,28
-Total,116,12,0,28
 ,District Council 2nd District,Sheriff,,29
 ,Kenyatta Johnson,Jewell Williams,Christopher Sawyer,29
 Kenyatta Johnson,14,70,2,29
@@ -305,9 +293,3 @@ Kenyatta Johnson,8,45,1,51
 Jewell Williams,,3,0,51
 Christopher Sawyer,,,2,51
 Total,54,48,3,51
-,Sheriff,,District Council 2nd District,All
-,Jewell Williams,Christopher Sawyer,Kenyatta Johnson,All
-Jewell Williams,569,0,"4,095",All
-Christopher Sawyer,,170,109,All
-Kenyatta Johnson,,,425,All
-Total,"4,664",279,"4,629",All

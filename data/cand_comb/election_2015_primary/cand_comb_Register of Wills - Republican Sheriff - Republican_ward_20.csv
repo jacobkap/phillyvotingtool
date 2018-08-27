@@ -1,0 +1,31 @@
+col_1,col_2,col_3,division
+,Sheriff - Republican,Register Of Wills - Republican,1
+,Christopher Sawyer,Ross Feinberg,1
+Christopher Sawyer,1,2,1
+Ross Feinberg,,0,1
+Total,3,2,1
+,Sheriff - Republican,Register Of Wills - Republican,4
+,Christopher Sawyer,Ross Feinberg,4
+Christopher Sawyer,0,2,4
+Ross Feinberg,,0,4
+Total,2,2,4
+,Sheriff - Republican,Register Of Wills - Republican,6
+,Christopher Sawyer,Ross Feinberg,6
+Christopher Sawyer,1,0,6
+Ross Feinberg,,0,6
+Total,1,0,6
+,Register Of Wills - Republican,Sheriff - Republican,7
+,Ross Feinberg,Christopher Sawyer,7
+Ross Feinberg,1,0,7
+Christopher Sawyer,,0,7
+Total,1,0,7
+,Sheriff - Republican,Register Of Wills - Republican,10
+,Christopher Sawyer,Ross Feinberg,10
+Christopher Sawyer,0,3,10
+Ross Feinberg,,0,10
+Total,3,3,10
+,Sheriff - Republican,Register Of Wills - Republican,All
+,Christopher Sawyer,Ross Feinberg,All
+Christopher Sawyer,2,7,All
+Ross Feinberg,,1,All
+Total,9,8,All

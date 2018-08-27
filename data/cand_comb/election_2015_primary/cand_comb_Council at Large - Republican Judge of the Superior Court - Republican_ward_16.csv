@@ -1,0 +1,100 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,division
+,Judge Of The Superior Court - Republican,Council At Large - Republican,,,,,,,1
+,Emil Giordano,Al Taubenberger,Daniel Tinney,David Oh,Dennis M O Brien,James Williams,Matt Wolfe,Terry Tracy,1
+Emil Giordano,1,0,0,0,0,0,0,0,1
+Al Taubenberger,,0,0,0,0,0,0,0,1
+Daniel Tinney,,,0,0,0,0,0,0,1
+David Oh,,,,0,0,0,0,0,1
+Dennis M O Brien,,,,,0,0,0,0,1
+James Williams,,,,,,0,0,0,1
+Matt Wolfe,,,,,,,0,0,1
+Terry Tracy,,,,,,,,0,1
+Total,1,0,0,0,0,0,0,0,1
+,Judge Of The Superior Court - Republican,Council At Large - Republican,,,,,,,3
+,Emil Giordano,Terry Tracy,David Oh,James Williams,Dennis M O Brien,Matt Wolfe,Al Taubenberger,Daniel Tinney,3
+Emil Giordano,0,4,2,2,1,1,0,0,3
+Terry Tracy,,0,2,2,1,1,0,0,3
+David Oh,,,0,2,0,0,0,0,3
+James Williams,,,,0,0,0,0,0,3
+Dennis M O Brien,,,,,0,1,0,0,3
+Matt Wolfe,,,,,,0,0,0,3
+Al Taubenberger,,,,,,,0,0,3
+Daniel Tinney,,,,,,,,0,3
+Total,4,4,2,2,1,1,0,0,3
+,Council At Large - Republican,,,,,,,Judge Of The Superior Court - Republican,4
+,David Oh,James Williams,Terry Tracy,Dennis M O Brien,Matt Wolfe,Al Taubenberger,Daniel Tinney,Emil Giordano,4
+David Oh,0,3,3,1,1,0,0,3,4
+James Williams,,0,3,1,1,0,0,3,4
+Terry Tracy,,,0,1,1,0,0,3,4
+Dennis M O Brien,,,,0,1,0,0,1,4
+Matt Wolfe,,,,,0,0,0,1,4
+Al Taubenberger,,,,,,0,0,0,4
+Daniel Tinney,,,,,,,0,0,4
+Emil Giordano,,,,,,,,0,4
+Total,3,3,3,1,1,0,0,3,4
+,Council At Large - Republican,,,,,,,Judge Of The Superior Court - Republican,12
+,Daniel Tinney,David Oh,Dennis M O Brien,Matt Wolfe,Terry Tracy,Al Taubenberger,James Williams,Emil Giordano,12
+Daniel Tinney,0,1,1,1,1,0,0,1,12
+David Oh,,0,1,1,1,0,0,1,12
+Dennis M O Brien,,,0,1,1,0,0,1,12
+Matt Wolfe,,,,0,1,0,0,1,12
+Terry Tracy,,,,,0,0,0,1,12
+Al Taubenberger,,,,,,0,0,0,12
+James Williams,,,,,,,0,0,12
+Emil Giordano,,,,,,,,0,12
+Total,1,1,1,1,1,0,0,1,12
+,Council At Large - Republican,,,,,,,Judge Of The Superior Court - Republican,14
+,Daniel Tinney,Matt Wolfe,Terry Tracy,Al Taubenberger,David Oh,Dennis M O Brien,James Williams,Emil Giordano,14
+Daniel Tinney,0,1,1,0,0,0,0,1,14
+Matt Wolfe,,0,1,0,0,0,0,1,14
+Terry Tracy,,,0,0,0,0,0,1,14
+Al Taubenberger,,,,0,0,0,0,0,14
+David Oh,,,,,0,0,0,0,14
+Dennis M O Brien,,,,,,0,0,0,14
+James Williams,,,,,,,0,0,14
+Emil Giordano,,,,,,,,0,14
+Total,1,1,1,0,0,0,0,1,14
+,Judge Of The Superior Court - Republican,Council At Large - Republican,,,,,,,16
+,Emil Giordano,James Williams,Al Taubenberger,Daniel Tinney,David Oh,Dennis M O Brien,Matt Wolfe,Terry Tracy,16
+Emil Giordano,0,1,0,0,0,0,0,0,16
+James Williams,,0,0,0,0,0,0,0,16
+Al Taubenberger,,,0,0,0,0,0,0,16
+Daniel Tinney,,,,0,0,0,0,0,16
+David Oh,,,,,0,0,0,0,16
+Dennis M O Brien,,,,,,0,0,0,16
+Matt Wolfe,,,,,,,0,0,16
+Terry Tracy,,,,,,,,0,16
+Total,1,1,0,0,0,0,0,0,16
+,Council At Large - Republican,,,,,,,Judge Of The Superior Court - Republican,17
+,David Oh,James Williams,Terry Tracy,Al Taubenberger,Daniel Tinney,Dennis M O Brien,Matt Wolfe,Emil Giordano,17
+David Oh,0,1,1,0,0,0,0,1,17
+James Williams,,0,1,0,0,0,0,1,17
+Terry Tracy,,,0,0,0,0,0,1,17
+Al Taubenberger,,,,0,0,0,0,0,17
+Daniel Tinney,,,,,0,0,0,0,17
+Dennis M O Brien,,,,,,0,0,0,17
+Matt Wolfe,,,,,,,0,0,17
+Emil Giordano,,,,,,,,0,17
+Total,1,1,1,0,0,0,0,1,17
+,Council At Large - Republican,,,,,,,Judge Of The Superior Court - Republican,18
+,Al Taubenberger,Daniel Tinney,David Oh,Dennis M O Brien,James Williams,Matt Wolfe,Terry Tracy,Emil Giordano,18
+Al Taubenberger,0,1,0,0,0,0,0,0,18
+Daniel Tinney,,0,0,0,0,0,0,0,18
+David Oh,,,0,0,0,0,0,0,18
+Dennis M O Brien,,,,0,0,0,0,0,18
+James Williams,,,,,0,0,0,0,18
+Matt Wolfe,,,,,,0,0,0,18
+Terry Tracy,,,,,,,0,0,18
+Emil Giordano,,,,,,,,0,18
+Total,1,1,0,0,0,0,0,0,18
+,Judge Of The Superior Court - Republican,Council At Large - Republican,,,,,,,All
+,Emil Giordano,Terry Tracy,David Oh,James Williams,Matt Wolfe,Daniel Tinney,Dennis M O Brien,Al Taubenberger,All
+Emil Giordano,1,10,7,7,4,2,3,0,All
+Terry Tracy,,0,7,6,4,2,3,0,All
+David Oh,,,0,6,2,1,2,0,All
+James Williams,,,,0,1,0,1,0,All
+Matt Wolfe,,,,,0,2,3,0,All
+Daniel Tinney,,,,,,0,1,1,All
+Dennis M O Brien,,,,,,,0,0,All
+Al Taubenberger,,,,,,,,0,All
+Total,12,10,7,7,4,3,3,1,All

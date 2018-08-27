@@ -1,4 +1,11 @@
 col_1,col_2,col_3,col_4,col_5,division
+,District Council 1st District,Judge Of The Municipal Court,,,All
+,Mark F Squilla,Christine Hope,Joffie C Pittman,Sharon Williams Losier,All
+Mark F Squilla,610,"2,709","2,557","2,481",All
+Christine Hope,,271,"2,328","2,381",All
+Joffie C Pittman,,,83,"2,396",All
+Sharon Williams Losier,,,,19,All
+Total,"3,789","3,109","2,766","2,642",All
 ,District Council 1st District,Judge Of The Municipal Court,,,1
 ,Mark F Squilla,Christine Hope,Joffie C Pittman,Sharon Williams Losier,1
 Mark F Squilla,50,162,141,140,1
@@ -55,13 +62,6 @@ Christine Hope,,9,55,56,8
 Joffie C Pittman,,,1,55,8
 Sharon Williams Losier,,,,1,8
 Total,102,78,69,64,8
-,Judge Of The Municipal Court,,,District Council 1st District,9
-,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Mark F Squilla,9
-Christine Hope,23,73,77,0,9
-Joffie C Pittman,,14,76,0,9
-Sharon Williams Losier,,,9,0,9
-Mark F Squilla,,,,0,9
-Total,102,92,91,0,9
 ,District Council 1st District,Judge Of The Municipal Court,,,10
 ,Mark F Squilla,Christine Hope,Joffie C Pittman,Sharon Williams Losier,10
 Mark F Squilla,26,100,103,98,10
@@ -125,34 +125,6 @@ Christine Hope,,13,92,93,18
 Joffie C Pittman,,,4,98,18
 Sharon Williams Losier,,,,0,18
 Total,159,123,115,103,18
-,Judge Of The Municipal Court,,,District Council 1st District,19
-,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Mark F Squilla,19
-Christine Hope,20,108,108,0,19
-Joffie C Pittman,,9,111,0,19
-Sharon Williams Losier,,,7,0,19
-Mark F Squilla,,,,0,19
-Total,130,122,120,0,19
-,Judge Of The Municipal Court,,,District Council 1st District,20
-,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Mark F Squilla,20
-Christine Hope,12,67,64,0,20
-Joffie C Pittman,,4,69,0,20
-Sharon Williams Losier,,,4,0,20
-Mark F Squilla,,,,0,20
-Total,79,76,73,0,20
-,Judge Of The Municipal Court,,,District Council 1st District,21
-,Christine Hope,Sharon Williams Losier,Joffie C Pittman,Mark F Squilla,21
-Christine Hope,13,82,78,0,21
-Sharon Williams Losier,,6,81,0,21
-Joffie C Pittman,,,4,0,21
-Mark F Squilla,,,,0,21
-Total,95,91,85,0,21
-,Judge Of The Municipal Court,,,District Council 1st District,22
-,Joffie C Pittman,Christine Hope,Sharon Williams Losier,Mark F Squilla,22
-Joffie C Pittman,31,123,126,0,22
-Christine Hope,,20,130,0,22
-Sharon Williams Losier,,,6,0,22
-Mark F Squilla,,,,0,22
-Total,160,153,142,0,22
 ,District Council 1st District,Judge Of The Municipal Court,,,23
 ,Mark F Squilla,Christine Hope,Joffie C Pittman,Sharon Williams Losier,23
 Mark F Squilla,32,178,177,174,23
@@ -188,10 +160,3 @@ Christine Hope,,22,124,130,27
 Joffie C Pittman,,,6,139,27
 Sharon Williams Losier,,,,0,27
 Total,232,180,159,152,27
-,District Council 1st District,Judge Of The Municipal Court,,,All
-,Mark F Squilla,Christine Hope,Joffie C Pittman,Sharon Williams Losier,All
-Mark F Squilla,610,"2,709","2,557","2,481",All
-Christine Hope,,359,"2,777","2,842",All
-Joffie C Pittman,,,145,"2,859",All
-Sharon Williams Losier,,,,51,All
-Total,"3,789","3,668","3,301","3,159",All

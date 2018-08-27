@@ -1,25 +1,11 @@
 col_1,col_2,col_3,col_4,col_5,division
-,Register Of Wills,,District Council 8th District,,1
-,Ronald R Donatucci,Ross Feinberg,Cindy Bass,Michael Galganski,1
-Ronald R Donatucci,77,0,0,0,1
-Ross Feinberg,,6,0,0,1
-Cindy Bass,,,0,0,1
-Michael Galganski,,,,0,1
-Total,77,6,0,0,1
-,Register Of Wills,,District Council 8th District,,2
-,Ronald R Donatucci,Ross Feinberg,Cindy Bass,Michael Galganski,2
-Ronald R Donatucci,191,0,0,0,2
-Ross Feinberg,,6,0,0,2
-Cindy Bass,,,0,0,2
-Michael Galganski,,,,0,2
-Total,191,6,0,0,2
-,Register Of Wills,,District Council 8th District,,3
-,Ronald R Donatucci,Ross Feinberg,Cindy Bass,Michael Galganski,3
-Ronald R Donatucci,199,0,0,0,3
-Ross Feinberg,,8,0,0,3
-Cindy Bass,,,0,0,3
-Michael Galganski,,,,0,3
-Total,199,8,0,0,3
+,District Council 8th District,,Register Of Wills,,All
+,Cindy Bass,Michael Galganski,Ronald R Donatucci,Ross Feinberg,All
+Cindy Bass,123,0,"1,135",9,All
+Michael Galganski,,5,4,7,All
+Ronald R Donatucci,,,56,0,All
+Ross Feinberg,,,,23,All
+Total,"1,267",16,"1,195",39,All
 ,District Council 8th District,,Register Of Wills,,4
 ,Cindy Bass,Michael Galganski,Ronald R Donatucci,Ross Feinberg,4
 Cindy Bass,9,0,117,0,4
@@ -34,27 +20,6 @@ Michael Galganski,,0,0,0,5
 Ronald R Donatucci,,,7,0,5
 Ross Feinberg,,,,1,5
 Total,166,0,154,1,5
-,Register Of Wills,,District Council 8th District,,6
-,Ronald R Donatucci,Ross Feinberg,Cindy Bass,Michael Galganski,6
-Ronald R Donatucci,165,0,0,0,6
-Ross Feinberg,,15,0,0,6
-Cindy Bass,,,0,0,6
-Michael Galganski,,,,0,6
-Total,165,15,0,0,6
-,Register Of Wills,,District Council 8th District,,7
-,Ronald R Donatucci,Ross Feinberg,Cindy Bass,Michael Galganski,7
-Ronald R Donatucci,146,0,0,0,7
-Ross Feinberg,,1,0,0,7
-Cindy Bass,,,0,0,7
-Michael Galganski,,,,0,7
-Total,146,1,0,0,7
-,Register Of Wills,,District Council 8th District,,8
-,Ronald R Donatucci,Ross Feinberg,Cindy Bass,Michael Galganski,8
-Ronald R Donatucci,172,0,0,0,8
-Ross Feinberg,,14,0,0,8
-Cindy Bass,,,0,0,8
-Michael Galganski,,,,0,8
-Total,172,14,0,0,8
 ,District Council 8th District,,Register Of Wills,,9
 ,Cindy Bass,Michael Galganski,Ronald R Donatucci,Ross Feinberg,9
 Cindy Bass,7,0,179,0,9
@@ -104,27 +69,6 @@ Michael Galganski,,1,0,0,15
 Ronald R Donatucci,,,7,0,15
 Ross Feinberg,,,,1,15
 Total,117,1,114,1,15
-,Register Of Wills,,District Council 8th District,,16
-,Ronald R Donatucci,Ross Feinberg,Cindy Bass,Michael Galganski,16
-Ronald R Donatucci,126,0,0,0,16
-Ross Feinberg,,3,0,0,16
-Cindy Bass,,,0,0,16
-Michael Galganski,,,,0,16
-Total,126,3,0,0,16
-,Register Of Wills,,District Council 8th District,,17
-,Ronald R Donatucci,Ross Feinberg,Cindy Bass,Michael Galganski,17
-Ronald R Donatucci,135,0,0,0,17
-Ross Feinberg,,5,0,0,17
-Cindy Bass,,,0,0,17
-Michael Galganski,,,,0,17
-Total,135,5,0,0,17
-,Register Of Wills,,District Council 8th District,,18
-,Ronald R Donatucci,Ross Feinberg,Cindy Bass,Michael Galganski,18
-Ronald R Donatucci,175,0,0,0,18
-Ross Feinberg,,13,0,0,18
-Cindy Bass,,,0,0,18
-Michael Galganski,,,,0,18
-Total,175,13,0,0,18
 ,District Council 8th District,,Register Of Wills,,19
 ,Cindy Bass,Michael Galganski,Ronald R Donatucci,Ross Feinberg,19
 Cindy Bass,17,0,109,0,19
@@ -132,31 +76,3 @@ Michael Galganski,,1,0,1,19
 Ronald R Donatucci,,,7,0,19
 Ross Feinberg,,,,2,19
 Total,126,2,116,3,19
-,Register Of Wills,,District Council 8th District,,20
-,Ronald R Donatucci,Ross Feinberg,Cindy Bass,Michael Galganski,20
-Ronald R Donatucci,185,0,0,0,20
-Ross Feinberg,,6,0,0,20
-Cindy Bass,,,0,0,20
-Michael Galganski,,,,0,20
-Total,185,6,0,0,20
-,Register Of Wills,,District Council 8th District,,21
-,Ronald R Donatucci,Ross Feinberg,Cindy Bass,Michael Galganski,21
-Ronald R Donatucci,184,0,0,0,21
-Ross Feinberg,,15,0,0,21
-Cindy Bass,,,0,0,21
-Michael Galganski,,,,0,21
-Total,184,15,0,0,21
-,Register Of Wills,,District Council 8th District,,22
-,Ronald R Donatucci,Ross Feinberg,Cindy Bass,Michael Galganski,22
-Ronald R Donatucci,175,0,0,0,22
-Ross Feinberg,,9,0,0,22
-Cindy Bass,,,0,0,22
-Michael Galganski,,,,0,22
-Total,175,9,0,0,22
-,Register Of Wills,,District Council 8th District,,All
-,Ronald R Donatucci,Ross Feinberg,Cindy Bass,Michael Galganski,All
-Ronald R Donatucci,"1,986",0,"1,135",4,All
-Ross Feinberg,,124,9,7,All
-Cindy Bass,,,123,0,All
-Michael Galganski,,,,5,All
-Total,"3,125",140,"1,267",16,All

@@ -1,0 +1,26 @@
+col_1,col_2,col_3,division
+,City Commissioners - Republican,Judge Of The Superior Court - Republican,1
+,Al Schmidt,Emil Giordano,1
+Al Schmidt,0,3,1
+Emil Giordano,,0,1
+Total,3,3,1
+,City Commissioners - Republican,Judge Of The Superior Court - Republican,4
+,Al Schmidt,Emil Giordano,4
+Al Schmidt,0,2,4
+Emil Giordano,,0,4
+Total,2,2,4
+,Judge Of The Superior Court - Republican,City Commissioners - Republican,7
+,Emil Giordano,Al Schmidt,7
+Emil Giordano,1,1,7
+Al Schmidt,,0,7
+Total,2,1,7
+,City Commissioners - Republican,Judge Of The Superior Court - Republican,10
+,Al Schmidt,Emil Giordano,10
+Al Schmidt,0,3,10
+Emil Giordano,,0,10
+Total,3,3,10
+,Judge Of The Superior Court - Republican,City Commissioners - Republican,All
+,Emil Giordano,Al Schmidt,All
+Emil Giordano,1,9,All
+Al Schmidt,,0,All
+Total,10,9,All

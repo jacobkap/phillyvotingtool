@@ -1,0 +1,217 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,division
+,District Attorney,,Judge Of The Commonwealth Court,,,,All
+,Lawrence S Krasner,Beth Grossman,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,All
+Lawrence S Krasner,23,0,429,429,4,2,All
+Beth Grossman,,7,12,11,37,34,All
+Ellen Ceisler,,,11,414,4,1,All
+Irene M Clark,,,,12,1,1,All
+Christine Fizzano Cannon,,,,,2,32,All
+Paul Lalley,,,,,,2,All
+Total,481,59,456,455,45,39,All
+,Judge Of The Commonwealth Court,,,,District Attorney,,1
+,Irene M Clark,Ellen Ceisler,Christine Fizzano Cannon,Paul Lalley,Lawrence S Krasner,Beth Grossman,1
+Irene M Clark,0,14,0,0,16,1,1
+Ellen Ceisler,,0,0,0,14,0,1
+Christine Fizzano Cannon,,,1,1,0,1,1
+Paul Lalley,,,,0,0,1,1
+Lawrence S Krasner,,,,,1,0,1
+Beth Grossman,,,,,,0,1
+Total,17,14,2,1,17,2,1
+,Judge Of The Commonwealth Court,,,,District Attorney,,2
+,Irene M Clark,Ellen Ceisler,Christine Fizzano Cannon,Paul Lalley,Lawrence S Krasner,Beth Grossman,2
+Irene M Clark,2,9,0,0,10,0,2
+Ellen Ceisler,,0,0,0,9,0,2
+Christine Fizzano Cannon,,,0,1,0,1,2
+Paul Lalley,,,,0,0,1,2
+Lawrence S Krasner,,,,,1,0,2
+Beth Grossman,,,,,,0,2
+Total,12,9,1,1,11,1,2
+,Judge Of The Commonwealth Court,,,,District Attorney,,3
+,Irene M Clark,Ellen Ceisler,Christine Fizzano Cannon,Paul Lalley,Lawrence S Krasner,Beth Grossman,3
+Irene M Clark,1,4,0,0,5,0,3
+Ellen Ceisler,,1,0,0,4,0,3
+Christine Fizzano Cannon,,,0,0,0,0,3
+Paul Lalley,,,,0,0,0,3
+Lawrence S Krasner,,,,,0,0,3
+Beth Grossman,,,,,,0,3
+Total,6,5,0,0,5,0,3
+,Judge Of The Commonwealth Court,,,,District Attorney,,4
+,Ellen Ceisler,Irene M Clark,Paul Lalley,Christine Fizzano Cannon,Lawrence S Krasner,Beth Grossman,4
+Ellen Ceisler,0,39,1,0,39,1,4
+Irene M Clark,,1,0,0,38,1,4
+Paul Lalley,,,0,1,1,1,4
+Christine Fizzano Cannon,,,,0,0,1,4
+Lawrence S Krasner,,,,,0,0,4
+Beth Grossman,,,,,,0,4
+Total,40,40,2,1,39,2,4
+,District Attorney,,Judge Of The Commonwealth Court,,,,5
+,Lawrence S Krasner,Beth Grossman,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,5
+Lawrence S Krasner,1,0,43,43,2,0,5
+Beth Grossman,,0,0,0,2,2,5
+Ellen Ceisler,,,1,42,1,0,5
+Irene M Clark,,,,1,0,0,5
+Christine Fizzano Cannon,,,,,0,2,5
+Paul Lalley,,,,,,0,5
+Total,46,2,44,44,4,2,5
+,Judge Of The Commonwealth Court,,,,District Attorney,,6
+,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,Lawrence S Krasner,Beth Grossman,6
+Ellen Ceisler,1,19,0,0,20,1,6
+Irene M Clark,,0,0,0,19,0,6
+Christine Fizzano Cannon,,,0,2,0,2,6
+Paul Lalley,,,,0,0,2,6
+Lawrence S Krasner,,,,,0,0,6
+Beth Grossman,,,,,,1,6
+Total,23,20,2,2,21,4,6
+,Judge Of The Commonwealth Court,,,,District Attorney,,7
+,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,Lawrence S Krasner,Beth Grossman,7
+Ellen Ceisler,1,19,0,0,18,1,7
+Irene M Clark,,0,0,0,19,1,7
+Christine Fizzano Cannon,,,0,0,0,0,7
+Paul Lalley,,,,0,0,0,7
+Lawrence S Krasner,,,,,0,0,7
+Beth Grossman,,,,,,1,7
+Total,20,20,0,0,19,2,7
+,District Attorney,,Judge Of The Commonwealth Court,,,,8
+,Lawrence S Krasner,Beth Grossman,Irene M Clark,Ellen Ceisler,Christine Fizzano Cannon,Paul Lalley,8
+Lawrence S Krasner,5,0,35,33,0,0,8
+Beth Grossman,,0,1,1,4,4,8
+Irene M Clark,,,1,31,0,0,8
+Ellen Ceisler,,,,0,0,0,8
+Christine Fizzano Cannon,,,,,0,5,8
+Paul Lalley,,,,,,0,8
+Total,43,5,37,34,5,5,8
+,District Attorney,,Judge Of The Commonwealth Court,,,,9
+,Lawrence S Krasner,Beth Grossman,Irene M Clark,Ellen Ceisler,Paul Lalley,Christine Fizzano Cannon,9
+Lawrence S Krasner,2,0,21,20,0,0,9
+Beth Grossman,,1,0,0,3,2,9
+Irene M Clark,,,1,19,0,0,9
+Ellen Ceisler,,,,0,0,0,9
+Paul Lalley,,,,,0,2,9
+Christine Fizzano Cannon,,,,,,0,9
+Total,24,4,22,20,3,2,9
+,District Attorney,,Judge Of The Commonwealth Court,,,,10
+,Lawrence S Krasner,Beth Grossman,Irene M Clark,Ellen Ceisler,Christine Fizzano Cannon,Paul Lalley,10
+Lawrence S Krasner,3,0,14,12,1,0,10
+Beth Grossman,,1,3,3,1,0,10
+Irene M Clark,,,0,15,0,0,10
+Ellen Ceisler,,,,0,0,0,10
+Christine Fizzano Cannon,,,,,1,0,10
+Paul Lalley,,,,,,0,10
+Total,18,5,17,15,3,0,10
+,Judge Of The Commonwealth Court,,,,District Attorney,,11
+,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,Lawrence S Krasner,Beth Grossman,11
+Ellen Ceisler,1,9,0,0,11,0,11
+Irene M Clark,,0,0,0,9,0,11
+Christine Fizzano Cannon,,,0,2,0,2,11
+Paul Lalley,,,,0,0,2,11
+Lawrence S Krasner,,,,,0,0,11
+Beth Grossman,,,,,,0,11
+Total,12,9,2,2,11,2,11
+,District Attorney,,Judge Of The Commonwealth Court,,,,12
+,Lawrence S Krasner,Beth Grossman,Ellen Ceisler,Irene M Clark,Paul Lalley,Christine Fizzano Cannon,12
+Lawrence S Krasner,0,0,28,28,0,0,12
+Beth Grossman,,0,0,0,3,3,12
+Ellen Ceisler,,,0,26,0,0,12
+Irene M Clark,,,,0,0,0,12
+Paul Lalley,,,,,1,3,12
+Christine Fizzano Cannon,,,,,,0,12
+Total,30,3,28,28,4,3,12
+,Judge Of The Commonwealth Court,,,,District Attorney,,13
+,Irene M Clark,Ellen Ceisler,Christine Fizzano Cannon,Paul Lalley,Lawrence S Krasner,Beth Grossman,13
+Irene M Clark,0,7,0,0,8,0,13
+Ellen Ceisler,,0,0,0,7,0,13
+Christine Fizzano Cannon,,,0,0,0,0,13
+Paul Lalley,,,,0,0,0,13
+Lawrence S Krasner,,,,,0,0,13
+Beth Grossman,,,,,,0,13
+Total,8,7,0,0,8,0,13
+,Judge Of The Commonwealth Court,,,,District Attorney,,14
+,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,Lawrence S Krasner,Beth Grossman,14
+Ellen Ceisler,3,19,1,0,24,1,14
+Irene M Clark,,2,0,1,20,0,14
+Christine Fizzano Cannon,,,0,3,0,4,14
+Paul Lalley,,,,0,1,3,14
+Lawrence S Krasner,,,,,0,0,14
+Beth Grossman,,,,,,0,14
+Total,28,22,4,4,25,4,14
+,District Attorney,,Judge Of The Commonwealth Court,,,,15
+,Lawrence S Krasner,Beth Grossman,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,15
+Lawrence S Krasner,1,0,10,8,0,0,15
+Beth Grossman,,0,0,0,0,0,15
+Ellen Ceisler,,,0,8,0,0,15
+Irene M Clark,,,,0,0,0,15
+Christine Fizzano Cannon,,,,,0,0,15
+Paul Lalley,,,,,,0,15
+Total,11,0,10,8,0,0,15
+,Judge Of The Commonwealth Court,,,,District Attorney,,16
+,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,Lawrence S Krasner,Beth Grossman,16
+Ellen Ceisler,1,8,1,0,8,0,16
+Irene M Clark,,0,0,0,10,0,16
+Christine Fizzano Cannon,,,0,0,0,1,16
+Paul Lalley,,,,0,0,0,16
+Lawrence S Krasner,,,,,0,0,16
+Beth Grossman,,,,,,2,16
+Total,10,10,2,0,10,3,16
+,Judge Of The Commonwealth Court,,,,District Attorney,,17
+,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,Lawrence S Krasner,Beth Grossman,17
+Ellen Ceisler,0,39,0,0,40,0,17
+Irene M Clark,,0,1,0,39,1,17
+Christine Fizzano Cannon,,,0,1,0,3,17
+Paul Lalley,,,,0,0,1,17
+Lawrence S Krasner,,,,,0,0,17
+Beth Grossman,,,,,,0,17
+Total,40,40,3,1,40,3,17
+,Judge Of The Commonwealth Court,,,,District Attorney,,18
+,Irene M Clark,Ellen Ceisler,Christine Fizzano Cannon,Paul Lalley,Lawrence S Krasner,Beth Grossman,18
+Irene M Clark,1,9,0,0,9,1,18
+Ellen Ceisler,,1,0,0,8,1,18
+Christine Fizzano Cannon,,,0,0,0,0,18
+Paul Lalley,,,,0,0,0,18
+Lawrence S Krasner,,,,,0,0,18
+Beth Grossman,,,,,,0,18
+Total,11,10,0,0,9,1,18
+,District Attorney,,Judge Of The Commonwealth Court,,,,19
+,Lawrence S Krasner,Beth Grossman,Irene M Clark,Ellen Ceisler,Christine Fizzano Cannon,Paul Lalley,19
+Lawrence S Krasner,2,0,9,9,1,0,19
+Beth Grossman,,0,0,1,0,0,19
+Irene M Clark,,,2,8,0,0,19
+Ellen Ceisler,,,,0,1,0,19
+Christine Fizzano Cannon,,,,,0,0,19
+Paul Lalley,,,,,,0,19
+Total,12,1,11,10,1,0,19
+,Judge Of The Commonwealth Court,,,,District Attorney,,20
+,Ellen Ceisler,Irene M Clark,Christine Fizzano Cannon,Paul Lalley,Lawrence S Krasner,Beth Grossman,20
+Ellen Ceisler,0,16,0,0,18,0,20
+Irene M Clark,,0,0,0,16,0,20
+Christine Fizzano Cannon,,,0,4,0,5,20
+Paul Lalley,,,,0,0,5,20
+Lawrence S Krasner,,,,,0,0,20
+Beth Grossman,,,,,,1,20
+Total,19,17,5,5,19,7,20
+,District Attorney,,Judge Of The Commonwealth Court,,,,21
+,Lawrence S Krasner,Beth Grossman,Ellen Ceisler,Irene M Clark,Paul Lalley,Christine Fizzano Cannon,21
+Lawrence S Krasner,3,0,27,24,0,0,21
+Beth Grossman,,0,1,1,1,0,21
+Ellen Ceisler,,,0,25,0,0,21
+Irene M Clark,,,,0,0,0,21
+Paul Lalley,,,,,0,0,21
+Christine Fizzano Cannon,,,,,,0,21
+Total,30,2,28,25,1,0,21
+,Judge Of The Commonwealth Court,,,,District Attorney,,22
+,Ellen Ceisler,Irene M Clark,Paul Lalley,Christine Fizzano Cannon,Lawrence S Krasner,Beth Grossman,22
+Ellen Ceisler,1,21,0,0,19,1,22
+Irene M Clark,,0,0,0,20,1,22
+Paul Lalley,,,1,2,0,2,22
+Christine Fizzano Cannon,,,,0,0,2,22
+Lawrence S Krasner,,,,,0,0,22
+Beth Grossman,,,,,,0,22
+Total,22,22,3,2,20,3,22
+,District Attorney,,Judge Of The Commonwealth Court,,,,23
+,Lawrence S Krasner,Beth Grossman,Irene M Clark,Ellen Ceisler,Christine Fizzano Cannon,Paul Lalley,23
+Lawrence S Krasner,4,0,9,8,0,0,23
+Beth Grossman,,0,0,0,3,3,23
+Irene M Clark,,,0,8,0,0,23
+Ellen Ceisler,,,,0,0,0,23
+Christine Fizzano Cannon,,,,,0,3,23
+Paul Lalley,,,,,,0,23
+Total,13,3,9,8,3,3,23

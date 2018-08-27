@@ -1,53 +1,11 @@
 col_1,col_2,col_3,col_4,col_5,division
-,Judge Of The Municipal Court,,,District Council 5th District,1
-,Joffie C Pittman,Christine Hope,Sharon Williams Losier,Darrell L Clarke,1
-Joffie C Pittman,56,85,87,0,1
-Christine Hope,,21,85,0,1
-Sharon Williams Losier,,,2,0,1
-Darrell L Clarke,,,,0,1
-Total,147,110,93,0,1
-,Judge Of The Municipal Court,,,District Council 5th District,2
-,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Darrell L Clarke,2
-Christine Hope,36,106,105,0,2
-Joffie C Pittman,,31,108,0,2
-Sharon Williams Losier,,,5,0,2
-Darrell L Clarke,,,,0,2
-Total,145,143,116,0,2
-,Judge Of The Municipal Court,,,District Council 5th District,3
-,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Darrell L Clarke,3
-Christine Hope,32,152,154,0,3
-Joffie C Pittman,,24,160,0,3
-Sharon Williams Losier,,,3,0,3
-Darrell L Clarke,,,,0,3
-Total,187,185,166,0,3
-,Judge Of The Municipal Court,,,District Council 5th District,4
-,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Darrell L Clarke,4
-Christine Hope,33,113,117,0,4
-Joffie C Pittman,,15,113,0,4
-Sharon Williams Losier,,,7,0,4
-Darrell L Clarke,,,,0,4
-Total,151,129,125,0,4
-,Judge Of The Municipal Court,,,District Council 5th District,5
-,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Darrell L Clarke,5
-Christine Hope,42,106,107,0,5
-Joffie C Pittman,,13,108,0,5
-Sharon Williams Losier,,,3,0,5
-Darrell L Clarke,,,,0,5
-Total,152,124,115,0,5
-,Judge Of The Municipal Court,,,District Council 5th District,6
-,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Darrell L Clarke,6
-Christine Hope,28,116,118,0,6
-Joffie C Pittman,,19,116,0,6
-Sharon Williams Losier,,,13,0,6
-Darrell L Clarke,,,,0,6
-Total,148,137,133,0,6
-,Judge Of The Municipal Court,,,District Council 5th District,7
-,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Darrell L Clarke,7
-Christine Hope,56,182,178,0,7
-Joffie C Pittman,,11,179,0,7
-Sharon Williams Losier,,,8,0,7
-Darrell L Clarke,,,,0,7
-Total,241,197,190,0,7
+,District Council 5th District,Judge Of The Municipal Court,,,All
+,Darrell L Clarke,Christine Hope,Joffie C Pittman,Sharon Williams Losier,All
+Darrell L Clarke,324,"1,898","1,913","1,776",All
+Christine Hope,,335,"1,802","1,807",All
+Joffie C Pittman,,,123,"1,829",All
+Sharon Williams Losier,,,,34,All
+Total,"2,588","2,423","2,238","2,007",All
 ,Judge Of The Municipal Court,,,District Council 5th District,8
 ,Joffie C Pittman,Christine Hope,Sharon Williams Losier,Darrell L Clarke,8
 Joffie C Pittman,30,86,102,120,8
@@ -55,13 +13,6 @@ Christine Hope,,17,87,92,8
 Sharon Williams Losier,,,2,93,8
 Darrell L Clarke,,,,13,8
 Total,164,116,109,148,8
-,Judge Of The Municipal Court,,,District Council 5th District,9
-,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Darrell L Clarke,9
-Christine Hope,42,99,101,0,9
-Joffie C Pittman,,23,107,0,9
-Sharon Williams Losier,,,10,0,9
-Darrell L Clarke,,,,0,9
-Total,143,130,119,0,9
 ,District Council 5th District,Judge Of The Municipal Court,,,10
 ,Darrell L Clarke,Joffie C Pittman,Christine Hope,Sharon Williams Losier,10
 Darrell L Clarke,34,150,124,119,10
@@ -76,27 +27,6 @@ Christine Hope,,11,70,70,11
 Joffie C Pittman,,,3,71,11
 Sharon Williams Losier,,,,0,11
 Total,109,92,86,76,11
-,Judge Of The Municipal Court,,,District Council 5th District,12
-,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Darrell L Clarke,12
-Christine Hope,22,94,90,0,12
-Joffie C Pittman,,19,93,0,12
-Sharon Williams Losier,,,5,0,12
-Darrell L Clarke,,,,0,12
-Total,119,119,101,0,12
-,Judge Of The Municipal Court,,,District Council 5th District,13
-,Joffie C Pittman,Christine Hope,Sharon Williams Losier,Darrell L Clarke,13
-Joffie C Pittman,74,42,43,0,13
-Christine Hope,,18,40,0,13
-Sharon Williams Losier,,,4,0,13
-Darrell L Clarke,,,,0,13
-Total,119,60,47,0,13
-,Judge Of The Municipal Court,,,District Council 5th District,14
-,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Darrell L Clarke,14
-Christine Hope,32,138,140,0,14
-Joffie C Pittman,,29,138,0,14
-Sharon Williams Losier,,,7,0,14
-Darrell L Clarke,,,,0,14
-Total,175,170,150,0,14
 ,District Council 5th District,Judge Of The Municipal Court,,,15
 ,Darrell L Clarke,Christine Hope,Joffie C Pittman,Sharon Williams Losier,15
 Darrell L Clarke,18,117,108,108,15
@@ -132,20 +62,6 @@ Christine Hope,,26,122,120,19
 Joffie C Pittman,,,15,119,19
 Sharon Williams Losier,,,,1,19
 Total,177,169,158,129,19
-,Judge Of The Municipal Court,,,District Council 5th District,20
-,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Darrell L Clarke,20
-Christine Hope,18,47,42,0,20
-Joffie C Pittman,,7,43,0,20
-Sharon Williams Losier,,,1,0,20
-Darrell L Clarke,,,,0,20
-Total,65,55,44,0,20
-,Judge Of The Municipal Court,,,District Council 5th District,21
-,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Darrell L Clarke,21
-Christine Hope,51,135,134,0,21
-Joffie C Pittman,,24,136,0,21
-Sharon Williams Losier,,,9,0,21
-Darrell L Clarke,,,,0,21
-Total,190,165,149,0,21
 ,District Council 5th District,Judge Of The Municipal Court,,,22
 ,Darrell L Clarke,Christine Hope,Sharon Williams Losier,Joffie C Pittman,22
 Darrell L Clarke,8,35,32,32,22
@@ -181,20 +97,6 @@ Christine Hope,,10,157,155,26
 Joffie C Pittman,,,2,164,26
 Sharon Williams Losier,,,,1,26
 Total,213,185,179,177,26
-,Judge Of The Municipal Court,,,District Council 5th District,27
-,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Darrell L Clarke,27
-Christine Hope,11,65,66,0,27
-Joffie C Pittman,,7,68,0,27
-Sharon Williams Losier,,,3,0,27
-Darrell L Clarke,,,,0,27
-Total,77,75,72,0,27
-,Judge Of The Municipal Court,,,District Council 5th District,28
-,Joffie C Pittman,Christine Hope,Sharon Williams Losier,Darrell L Clarke,28
-Joffie C Pittman,29,105,107,0,28
-Christine Hope,,27,107,0,28
-Sharon Williams Losier,,,5,0,28
-Darrell L Clarke,,,,0,28
-Total,138,136,116,0,28
 ,District Council 5th District,Judge Of The Municipal Court,,,29
 ,Darrell L Clarke,Christine Hope,Joffie C Pittman,Sharon Williams Losier,29
 Darrell L Clarke,40,203,197,192,29
@@ -209,10 +111,3 @@ Joffie C Pittman,,3,99,95,30
 Sharon Williams Losier,,,1,97,30
 Darrell L Clarke,,,,15,30
 Total,130,109,108,130,30
-,Judge Of The Municipal Court,,,District Council 5th District,All
-,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Darrell L Clarke,All
-Christine Hope,804,"3,387","3,391","1,898",All
-Joffie C Pittman,,504,"3,435","1,913",All
-Sharon Williams Losier,,,119,"1,776",All
-Darrell L Clarke,,,,324,All
-Total,"4,522","4,271","3,743","2,588",All

@@ -1,0 +1,631 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10,col_11,col_12,division
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,All
+,Beth Grossman,Lawrence S Krasner,Emil Giordano,Mary Murray,Maria Mclaughlin,Craig Stedman,Wade A Kagarise,Debbie Kunselman,Carolyn H Nichols,Geoff Moulton,Jules Mermelstein,All
+Beth Grossman,439,0,"2,666","2,551","1,089","2,385","2,327",704,627,619,126,All
+Lawrence S Krasner,,44,69,56,"1,474",48,36,"1,365","1,376","1,322",57,All
+Emil Giordano,,,4,"2,307",352,"2,264","2,289",166,80,216,55,All
+Mary Murray,,,,6,283,"2,174","2,153",181,166,34,51,All
+Maria Mclaughlin,,,,,27,101,192,"1,875","1,884","1,819",88,All
+Craig Stedman,,,,,,6,"2,124",130,61,103,44,All
+Wade A Kagarise,,,,,,,0,25,34,124,33,All
+Debbie Kunselman,,,,,,,,16,"1,793","1,725",84,All
+Carolyn H Nichols,,,,,,,,,6,"1,678",75,All
+Geoff Moulton,,,,,,,,,,1,39,All
+Jules Mermelstein,,,,,,,,,,,2,All
+Total,"4,185","1,665","2,771","2,638","2,630","2,462","2,390","2,115","2,046","1,976",188,All
+,Judge Of The Superior Court,,,,,,,,,District Attorney,,1
+,Carolyn H Nichols,Maria Mclaughlin,Debbie Kunselman,Geoff Moulton,Craig Stedman,Emil Giordano,Mary Murray,Wade A Kagarise,Jules Mermelstein,Lawrence S Krasner,Beth Grossman,1
+Carolyn H Nichols,0,38,37,33,1,0,0,1,1,34,5,1
+Maria Mclaughlin,,0,37,33,1,0,0,1,0,35,5,1
+Debbie Kunselman,,,1,33,1,0,0,1,0,33,4,1
+Geoff Moulton,,,,0,0,0,0,0,0,32,3,1
+Craig Stedman,,,,,0,11,11,11,0,0,14,1
+Emil Giordano,,,,,,0,12,11,0,0,12,1
+Mary Murray,,,,,,,0,11,0,0,12,1
+Wade A Kagarise,,,,,,,,0,0,1,11,1
+Jules Mermelstein,,,,,,,,,0,0,0,1
+Lawrence S Krasner,,,,,,,,,,0,0,1
+Beth Grossman,,,,,,,,,,,1,1
+Total,40,40,38,35,14,12,12,12,1,38,20,1
+,Judge Of The Superior Court,,,,,,,,,District Attorney,,2
+,Maria Mclaughlin,Debbie Kunselman,Geoff Moulton,Carolyn H Nichols,Craig Stedman,Emil Giordano,Wade A Kagarise,Mary Murray,Jules Mermelstein,Lawrence S Krasner,Beth Grossman,2
+Maria Mclaughlin,2,16,16,16,1,2,1,0,0,16,3,2
+Debbie Kunselman,,0,18,16,4,2,0,0,1,16,4,2
+Geoff Moulton,,,0,16,3,2,1,0,1,15,4,2
+Carolyn H Nichols,,,,0,1,0,0,0,0,16,1,2
+Craig Stedman,,,,,0,11,9,8,2,1,12,2
+Emil Giordano,,,,,,0,10,8,1,0,12,2
+Wade A Kagarise,,,,,,,0,8,1,0,10,2
+Mary Murray,,,,,,,,0,0,0,9,2
+Jules Mermelstein,,,,,,,,,0,0,2,2
+Lawrence S Krasner,,,,,,,,,,0,0,2
+Beth Grossman,,,,,,,,,,,1,2
+Total,21,20,19,17,13,12,10,9,2,18,16,2
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,3
+,Beth Grossman,Lawrence S Krasner,Maria Mclaughlin,Debbie Kunselman,Carolyn H Nichols,Geoff Moulton,Mary Murray,Emil Giordano,Wade A Kagarise,Craig Stedman,Jules Mermelstein,3
+Beth Grossman,11,0,31,23,20,19,54,52,50,48,3,3
+Lawrence S Krasner,,0,49,49,48,46,2,2,2,1,2,3
+Maria Mclaughlin,,,1,67,64,62,11,11,6,2,2,3
+Debbie Kunselman,,,,1,65,60,11,5,1,3,3,3
+Carolyn H Nichols,,,,,0,58,7,1,0,1,4,3
+Geoff Moulton,,,,,,0,1,5,4,2,3,3
+Mary Murray,,,,,,,0,43,45,44,1,3
+Emil Giordano,,,,,,,,0,46,43,0,3
+Wade A Kagarise,,,,,,,,,0,45,1,3
+Craig Stedman,,,,,,,,,,0,1,3
+Jules Mermelstein,,,,,,,,,,,0,3
+Total,91,53,81,73,68,65,56,54,52,49,5,3
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,4
+,Beth Grossman,Lawrence S Krasner,Emil Giordano,Mary Murray,Craig Stedman,Wade A Kagarise,Maria Mclaughlin,Carolyn H Nichols,Debbie Kunselman,Geoff Moulton,Jules Mermelstein,4
+Beth Grossman,25,0,145,142,135,133,50,21,20,19,7,4
+Lawrence S Krasner,,1,2,2,0,1,17,18,18,17,1,4
+Emil Giordano,,,0,127,130,129,18,6,4,7,2,4
+Mary Murray,,,,0,126,120,14,7,6,0,1,4
+Craig Stedman,,,,,0,122,9,1,5,1,3,4
+Wade A Kagarise,,,,,,0,10,1,0,6,1,4
+Maria Mclaughlin,,,,,,,0,35,34,33,3,4
+Carolyn H Nichols,,,,,,,,0,30,25,3,4
+Debbie Kunselman,,,,,,,,,0,27,2,4
+Geoff Moulton,,,,,,,,,,0,1,4
+Jules Mermelstein,,,,,,,,,,,0,4
+Total,216,22,147,144,135,134,68,39,39,36,8,4
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,5
+,Beth Grossman,Lawrence S Krasner,Maria Mclaughlin,Carolyn H Nichols,Debbie Kunselman,Mary Murray,Emil Giordano,Geoff Moulton,Craig Stedman,Wade A Kagarise,Jules Mermelstein,5
+Beth Grossman,8,0,38,12,15,70,69,9,60,57,7,5
+Lawrence S Krasner,,3,52,54,51,0,0,50,0,0,4,5
+Maria Mclaughlin,,,1,65,66,8,8,62,4,4,8,5
+Carolyn H Nichols,,,,0,63,5,0,57,1,0,7,5
+Debbie Kunselman,,,,,0,5,3,58,1,0,8,5
+Mary Murray,,,,,,0,59,0,55,54,2,5
+Emil Giordano,,,,,,,0,5,54,54,2,5
+Geoff Moulton,,,,,,,,0,1,3,5,5
+Craig Stedman,,,,,,,,,0,52,3,5
+Wade A Kagarise,,,,,,,,,,0,3,5
+Jules Mermelstein,,,,,,,,,,,0,5
+Total,115,59,95,71,71,70,69,65,60,57,13,5
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,6
+,Beth Grossman,Lawrence S Krasner,Emil Giordano,Mary Murray,Maria Mclaughlin,Craig Stedman,Wade A Kagarise,Geoff Moulton,Carolyn H Nichols,Debbie Kunselman,Jules Mermelstein,6
+Beth Grossman,3,0,59,52,16,50,49,13,5,10,2,6
+Lawrence S Krasner,,0,0,0,34,0,0,31,32,27,1,6
+Emil Giordano,,,1,46,10,46,48,8,1,4,1,6
+Mary Murray,,,,0,2,44,43,1,0,3,1,6
+Maria Mclaughlin,,,,,1,1,6,37,34,30,1,6
+Craig Stedman,,,,,,0,42,4,1,5,1,6
+Wade A Kagarise,,,,,,,0,4,0,0,1,6
+Geoff Moulton,,,,,,,,0,33,34,1,6
+Carolyn H Nichols,,,,,,,,,0,31,1,6
+Debbie Kunselman,,,,,,,,,,0,0,6
+Jules Mermelstein,,,,,,,,,,,0,6
+Total,75,38,60,52,51,50,49,44,37,37,3,6
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,7
+,Beth Grossman,Lawrence S Krasner,Emil Giordano,Mary Murray,Craig Stedman,Wade A Kagarise,Maria Mclaughlin,Carolyn H Nichols,Geoff Moulton,Debbie Kunselman,Jules Mermelstein,7
+Beth Grossman,9,0,72,70,66,64,26,15,16,13,1,7
+Lawrence S Krasner,,2,2,2,2,2,30,23,21,19,2,7
+Emil Giordano,,,0,61,64,65,10,0,5,4,1,7
+Mary Murray,,,,0,60,60,8,6,2,1,1,7
+Craig Stedman,,,,,1,59,2,2,1,2,1,7
+Wade A Kagarise,,,,,,0,6,0,2,1,1,7
+Maria Mclaughlin,,,,,,,1,37,37,32,2,7
+Carolyn H Nichols,,,,,,,,0,33,29,1,7
+Geoff Moulton,,,,,,,,,0,29,1,7
+Debbie Kunselman,,,,,,,,,,1,1,7
+Jules Mermelstein,,,,,,,,,,,0,7
+Total,107,32,75,72,70,67,58,39,38,34,3,7
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,8
+,Beth Grossman,Lawrence S Krasner,Maria Mclaughlin,Carolyn H Nichols,Debbie Kunselman,Geoff Moulton,Emil Giordano,Craig Stedman,Mary Murray,Wade A Kagarise,Jules Mermelstein,8
+Beth Grossman,4,0,15,14,12,12,39,35,36,35,2,8
+Lawrence S Krasner,,1,37,36,35,34,1,1,0,0,1,8
+Maria Mclaughlin,,,0,45,42,43,6,1,3,5,1,8
+Carolyn H Nichols,,,,1,45,40,2,3,4,1,1,8
+Debbie Kunselman,,,,,1,42,2,3,3,0,2,8
+Geoff Moulton,,,,,,0,3,1,0,2,1,8
+Emil Giordano,,,,,,,0,33,32,35,0,8
+Craig Stedman,,,,,,,,0,31,31,0,8
+Mary Murray,,,,,,,,,0,32,1,8
+Wade A Kagarise,,,,,,,,,,0,0,8
+Jules Mermelstein,,,,,,,,,,,0,8
+Total,62,39,52,51,48,46,41,37,37,36,3,8
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,9
+,Beth Grossman,Lawrence S Krasner,Emil Giordano,Mary Murray,Craig Stedman,Wade A Kagarise,Maria Mclaughlin,Debbie Kunselman,Carolyn H Nichols,Geoff Moulton,Jules Mermelstein,9
+Beth Grossman,18,0,83,80,73,70,35,23,20,18,1,9
+Lawrence S Krasner,,1,2,1,2,2,23,21,20,22,1,9
+Emil Giordano,,,0,65,68,69,17,6,3,12,0,9
+Mary Murray,,,,0,63,61,13,11,8,1,1,9
+Craig Stedman,,,,,0,64,5,5,3,8,0,9
+Wade A Kagarise,,,,,,0,10,1,1,7,0,9
+Maria Mclaughlin,,,,,,,0,39,36,34,2,9
+Debbie Kunselman,,,,,,,,0,36,30,2,9
+Carolyn H Nichols,,,,,,,,,0,30,1,9
+Geoff Moulton,,,,,,,,,,0,0,9
+Jules Mermelstein,,,,,,,,,,,0,9
+Total,132,28,86,81,75,72,61,46,42,42,2,9
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,10
+,Beth Grossman,Lawrence S Krasner,Mary Murray,Emil Giordano,Maria Mclaughlin,Debbie Kunselman,Craig Stedman,Wade A Kagarise,Carolyn H Nichols,Geoff Moulton,Jules Mermelstein,10
+Beth Grossman,3,0,56,55,26,17,46,48,16,9,3,10
+Lawrence S Krasner,,4,3,3,29,33,3,0,29,32,2,10
+Mary Murray,,,0,47,9,9,45,46,7,2,2,10
+Emil Giordano,,,,0,6,5,46,48,0,4,3,10
+Maria Mclaughlin,,,,,0,43,0,2,41,35,3,10
+Debbie Kunselman,,,,,,0,4,0,44,37,3,10
+Craig Stedman,,,,,,,0,43,1,3,0,10
+Wade A Kagarise,,,,,,,,0,0,1,2,10
+Carolyn H Nichols,,,,,,,,,0,34,1,10
+Geoff Moulton,,,,,,,,,,0,1,10
+Jules Mermelstein,,,,,,,,,,,0,10
+Total,83,39,59,58,55,51,49,48,46,41,5,10
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,11
+,Beth Grossman,Lawrence S Krasner,Craig Stedman,Emil Giordano,Mary Murray,Wade A Kagarise,Carolyn H Nichols,Maria Mclaughlin,Geoff Moulton,Debbie Kunselman,Jules Mermelstein,11
+Beth Grossman,11,0,53,54,49,46,15,15,13,9,4,11
+Lawrence S Krasner,,0,2,1,2,2,27,27,27,26,3,11
+Craig Stedman,,,0,51,48,46,4,2,5,1,0,11
+Emil Giordano,,,,0,50,47,4,4,4,1,1,11
+Mary Murray,,,,,0,46,2,3,0,1,0,11
+Wade A Kagarise,,,,,,0,0,2,2,0,0,11
+Carolyn H Nichols,,,,,,,0,37,36,32,5,11
+Maria Mclaughlin,,,,,,,,0,35,32,3,11
+Geoff Moulton,,,,,,,,,0,31,3,11
+Debbie Kunselman,,,,,,,,,,0,3,11
+Jules Mermelstein,,,,,,,,,,,0,11
+Total,80,33,55,55,51,48,43,43,41,36,7,11
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,12
+,Beth Grossman,Lawrence S Krasner,Emil Giordano,Maria Mclaughlin,Mary Murray,Wade A Kagarise,Craig Stedman,Carolyn H Nichols,Geoff Moulton,Debbie Kunselman,Jules Mermelstein,12
+Beth Grossman,9,0,54,15,52,49,48,8,7,8,6,12
+Lawrence S Krasner,,1,1,39,1,1,1,37,38,36,0,12
+Emil Giordano,,,1,6,49,48,48,1,2,2,0,12
+Maria Mclaughlin,,,,0,6,5,2,43,42,42,3,12
+Mary Murray,,,,,0,45,45,1,1,4,1,12
+Wade A Kagarise,,,,,,0,45,1,3,0,0,12
+Craig Stedman,,,,,,,0,2,1,1,0,12
+Carolyn H Nichols,,,,,,,,0,42,40,2,12
+Geoff Moulton,,,,,,,,,0,39,0,12
+Debbie Kunselman,,,,,,,,,,0,2,12
+Jules Mermelstein,,,,,,,,,,,0,12
+Total,76,43,56,54,53,50,49,45,45,44,6,12
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,13
+,Beth Grossman,Lawrence S Krasner,Mary Murray,Emil Giordano,Maria Mclaughlin,Craig Stedman,Wade A Kagarise,Debbie Kunselman,Carolyn H Nichols,Geoff Moulton,Jules Mermelstein,13
+Beth Grossman,15,0,63,58,31,55,55,21,17,14,5,13
+Lawrence S Krasner,,1,1,2,26,1,0,25,23,22,3,13
+Mary Murray,,,0,52,9,49,53,5,3,0,3,13
+Emil Giordano,,,,0,6,51,52,3,0,2,1,13
+Maria Mclaughlin,,,,,1,4,3,38,40,33,3,13
+Craig Stedman,,,,,,0,48,4,0,3,2,13
+Wade A Kagarise,,,,,,,0,1,0,1,2,13
+Debbie Kunselman,,,,,,,,0,36,35,3,13
+Carolyn H Nichols,,,,,,,,,0,32,3,13
+Geoff Moulton,,,,,,,,,,0,0,13
+Jules Mermelstein,,,,,,,,,,,0,13
+Total,111,30,64,60,58,56,55,46,40,36,8,13
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,14
+,Beth Grossman,Lawrence S Krasner,Emil Giordano,Wade A Kagarise,Maria Mclaughlin,Mary Murray,Craig Stedman,Geoff Moulton,Debbie Kunselman,Carolyn H Nichols,Jules Mermelstein,14
+Beth Grossman,6,0,53,51,23,47,45,16,15,10,4,14
+Lawrence S Krasner,,1,0,0,24,0,0,20,20,22,0,14
+Emil Giordano,,,0,48,8,44,43,5,2,0,1,14
+Wade A Kagarise,,,,0,7,43,43,7,3,0,2,14
+Maria Mclaughlin,,,,,1,1,0,37,35,33,2,14
+Mary Murray,,,,,,0,44,0,1,0,1,14
+Craig Stedman,,,,,,,0,0,0,0,1,14
+Geoff Moulton,,,,,,,,0,31,29,0,14
+Debbie Kunselman,,,,,,,,,0,31,3,14
+Carolyn H Nichols,,,,,,,,,,0,2,14
+Jules Mermelstein,,,,,,,,,,,0,14
+Total,77,25,53,51,49,47,45,37,36,33,4,14
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,15
+,Beth Grossman,Lawrence S Krasner,Maria Mclaughlin,Carolyn H Nichols,Geoff Moulton,Debbie Kunselman,Emil Giordano,Wade A Kagarise,Craig Stedman,Mary Murray,Jules Mermelstein,15
+Beth Grossman,1,0,8,8,8,5,16,15,14,12,0,15
+Lawrence S Krasner,,0,16,12,11,11,0,0,0,0,2,15
+Maria Mclaughlin,,,0,17,16,16,1,0,0,1,0,15
+Carolyn H Nichols,,,,1,17,16,2,1,0,1,1,15
+Geoff Moulton,,,,,0,16,3,3,2,0,0,15
+Debbie Kunselman,,,,,,2,0,0,0,0,0,15
+Emil Giordano,,,,,,,0,15,14,12,0,15
+Wade A Kagarise,,,,,,,,0,14,11,0,15
+Craig Stedman,,,,,,,,,0,11,0,15
+Mary Murray,,,,,,,,,,0,0,15
+Jules Mermelstein,,,,,,,,,,,0,15
+Total,25,18,24,21,19,18,16,15,14,12,2,15
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,16
+,Beth Grossman,Lawrence S Krasner,Mary Murray,Emil Giordano,Wade A Kagarise,Craig Stedman,Maria Mclaughlin,Carolyn H Nichols,Debbie Kunselman,Geoff Moulton,Jules Mermelstein,16
+Beth Grossman,10,0,89,87,78,73,33,19,18,17,2,16
+Lawrence S Krasner,,0,2,2,1,1,19,18,20,15,0,16
+Mary Murray,,,0,80,75,72,13,5,6,3,0,16
+Emil Giordano,,,,0,79,74,8,1,1,1,0,16
+Wade A Kagarise,,,,,0,73,4,1,0,1,0,16
+Craig Stedman,,,,,,0,0,1,0,0,0,16
+Maria Mclaughlin,,,,,,,1,34,35,32,0,16
+Carolyn H Nichols,,,,,,,,1,31,29,0,16
+Debbie Kunselman,,,,,,,,,0,29,0,16
+Geoff Moulton,,,,,,,,,,0,0,16
+Jules Mermelstein,,,,,,,,,,,0,16
+Total,135,23,93,91,81,76,54,39,39,33,2,16
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,17
+,Beth Grossman,Lawrence S Krasner,Emil Giordano,Maria Mclaughlin,Mary Murray,Craig Stedman,Wade A Kagarise,Geoff Moulton,Debbie Kunselman,Carolyn H Nichols,Jules Mermelstein,17
+Beth Grossman,14,0,81,41,71,69,69,26,23,18,4,17
+Lawrence S Krasner,,1,2,35,2,1,1,34,34,30,1,17
+Emil Giordano,,,0,14,68,64,67,8,3,3,2,17
+Maria Mclaughlin,,,,1,5,3,5,55,52,46,2,17
+Mary Murray,,,,,0,63,66,0,3,2,2,17
+Craig Stedman,,,,,,0,64,5,5,1,3,17
+Wade A Kagarise,,,,,,,0,4,1,1,1,17
+Geoff Moulton,,,,,,,,0,52,44,2,17
+Debbie Kunselman,,,,,,,,,0,45,1,17
+Carolyn H Nichols,,,,,,,,,,0,0,17
+Jules Mermelstein,,,,,,,,,,,0,17
+Total,132,41,84,79,74,71,71,61,59,49,5,17
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,18
+,Beth Grossman,Lawrence S Krasner,Maria Mclaughlin,Debbie Kunselman,Carolyn H Nichols,Emil Giordano,Geoff Moulton,Mary Murray,Wade A Kagarise,Craig Stedman,Jules Mermelstein,18
+Beth Grossman,5,0,8,7,5,25,4,22,21,18,3,18
+Lawrence S Krasner,,0,24,23,22,1,21,0,0,0,2,18
+Maria Mclaughlin,,,0,29,27,4,25,2,1,0,2,18
+Debbie Kunselman,,,,0,28,4,26,2,0,1,2,18
+Carolyn H Nichols,,,,,0,1,24,2,0,0,2,18
+Emil Giordano,,,,,,0,2,20,21,19,2,18
+Geoff Moulton,,,,,,,0,0,0,1,0,18
+Mary Murray,,,,,,,,0,20,17,3,18
+Wade A Kagarise,,,,,,,,,0,18,2,18
+Craig Stedman,,,,,,,,,,0,0,18
+Jules Mermelstein,,,,,,,,,,,0,18
+Total,38,24,33,31,28,27,26,23,22,19,5,18
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,19
+,Beth Grossman,Lawrence S Krasner,Emil Giordano,Craig Stedman,Mary Murray,Maria Mclaughlin,Debbie Kunselman,Carolyn H Nichols,Geoff Moulton,Wade A Kagarise,Jules Mermelstein,19
+Beth Grossman,19,0,85,77,78,35,23,22,18,46,5,19
+Lawrence S Krasner,,4,3,2,2,32,32,30,30,0,1,19
+Emil Giordano,,,0,73,71,9,6,4,7,42,3,19
+Craig Stedman,,,,1,71,3,4,2,1,42,5,19
+Mary Murray,,,,,0,6,5,3,0,43,3,19
+Maria Mclaughlin,,,,,,1,49,49,44,3,2,19
+Debbie Kunselman,,,,,,,1,45,43,0,2,19
+Carolyn H Nichols,,,,,,,,0,45,2,1,19
+Geoff Moulton,,,,,,,,,1,2,0,19
+Wade A Kagarise,,,,,,,,,,0,0,19
+Jules Mermelstein,,,,,,,,,,,0,19
+Total,141,42,88,81,80,71,59,57,52,46,6,19
+,Judge Of The Superior Court,,,,,,,,,District Attorney,,20
+,Maria Mclaughlin,Carolyn H Nichols,Debbie Kunselman,Geoff Moulton,Craig Stedman,Mary Murray,Emil Giordano,Wade A Kagarise,Jules Mermelstein,Beth Grossman,Lawrence S Krasner,20
+Maria Mclaughlin,0,58,54,51,4,6,5,3,1,20,50,20
+Carolyn H Nichols,,1,56,51,4,5,3,2,0,15,47,20
+Debbie Kunselman,,,0,51,4,5,4,1,1,15,44,20
+Geoff Moulton,,,,0,1,1,2,1,0,11,43,20
+Craig Stedman,,,,,0,36,36,34,1,41,1,20
+Mary Murray,,,,,,0,36,35,0,39,2,20
+Emil Giordano,,,,,,,0,34,2,39,1,20
+Wade A Kagarise,,,,,,,,0,1,36,0,20
+Jules Mermelstein,,,,,,,,,0,2,0,20
+Beth Grossman,,,,,,,,,,9,0,20
+Lawrence S Krasner,,,,,,,,,,,0,20
+Total,70,63,59,54,43,42,41,37,2,68,52,20
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,21
+,Beth Grossman,Lawrence S Krasner,Mary Murray,Emil Giordano,Wade A Kagarise,Craig Stedman,Maria Mclaughlin,Carolyn H Nichols,Debbie Kunselman,Geoff Moulton,Jules Mermelstein,21
+Beth Grossman,14,0,120,115,103,103,25,18,18,11,1,21
+Lawrence S Krasner,,1,3,4,2,2,40,40,38,36,2,21
+Mary Murray,,,1,112,101,101,12,13,12,2,1,21
+Emil Giordano,,,,1,103,102,10,5,5,4,0,21
+Wade A Kagarise,,,,,0,99,4,2,0,3,0,21
+Craig Stedman,,,,,,0,0,1,1,1,0,21
+Maria Mclaughlin,,,,,,,1,50,49,43,1,21
+Carolyn H Nichols,,,,,,,,1,52,42,2,21
+Debbie Kunselman,,,,,,,,,0,41,1,21
+Geoff Moulton,,,,,,,,,,0,1,21
+Jules Mermelstein,,,,,,,,,,,0,21
+Total,157,46,126,122,107,106,66,59,56,47,3,21
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,22
+,Beth Grossman,Lawrence S Krasner,Emil Giordano,Mary Murray,Wade A Kagarise,Craig Stedman,Maria Mclaughlin,Carolyn H Nichols,Geoff Moulton,Debbie Kunselman,Jules Mermelstein,22
+Beth Grossman,12,0,75,68,68,65,41,21,21,22,4,22
+Lawrence S Krasner,,0,0,2,1,1,16,14,13,11,1,22
+Emil Giordano,,,0,61,65,61,11,3,4,3,2,22
+Mary Murray,,,,0,62,58,6,2,1,2,1,22
+Wade A Kagarise,,,,,0,61,7,3,4,1,0,22
+Craig Stedman,,,,,,0,4,1,2,4,1,22
+Maria Mclaughlin,,,,,,,0,34,33,31,3,22
+Carolyn H Nichols,,,,,,,,0,27,27,2,22
+Geoff Moulton,,,,,,,,,0,25,0,22
+Debbie Kunselman,,,,,,,,,,0,2,22
+Jules Mermelstein,,,,,,,,,,,0,22
+Total,126,16,77,71,70,66,58,35,34,33,5,22
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,23
+,Beth Grossman,Lawrence S Krasner,Emil Giordano,Mary Murray,Wade A Kagarise,Craig Stedman,Maria Mclaughlin,Carolyn H Nichols,Debbie Kunselman,Geoff Moulton,Jules Mermelstein,23
+Beth Grossman,13,0,80,77,76,69,20,15,15,11,2,23
+Lawrence S Krasner,,1,1,1,1,1,48,49,47,47,1,23
+Emil Giordano,,,0,76,74,67,7,1,2,0,2,23
+Mary Murray,,,,0,73,66,6,2,2,0,1,23
+Wade A Kagarise,,,,,0,66,4,2,1,1,0,23
+Craig Stedman,,,,,,0,1,3,2,1,1,23
+Maria Mclaughlin,,,,,,,0,60,57,55,2,23
+Carolyn H Nichols,,,,,,,,0,59,58,1,23
+Debbie Kunselman,,,,,,,,,0,55,2,23
+Geoff Moulton,,,,,,,,,,0,0,23
+Jules Mermelstein,,,,,,,,,,,0,23
+Total,111,52,81,78,77,70,68,64,62,58,3,23
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,24
+,Beth Grossman,Lawrence S Krasner,Emil Giordano,Maria Mclaughlin,Mary Murray,Craig Stedman,Debbie Kunselman,Wade A Kagarise,Geoff Moulton,Carolyn H Nichols,Jules Mermelstein,24
+Beth Grossman,29,0,118,56,116,108,51,97,37,36,8,24
+Lawrence S Krasner,,1,5,63,2,5,58,1,54,54,3,24
+Emil Giordano,,,0,13,98,100,19,96,16,4,4,24
+Maria Mclaughlin,,,,2,18,7,93,5,80,87,5,24
+Mary Murray,,,,,0,88,13,93,1,10,4,24
+Craig Stedman,,,,,,0,14,86,13,7,3,24
+Debbie Kunselman,,,,,,,0,0,84,80,5,24
+Wade A Kagarise,,,,,,,,0,6,0,2,24
+Geoff Moulton,,,,,,,,,0,71,4,24
+Carolyn H Nichols,,,,,,,,,,0,4,24
+Jules Mermelstein,,,,,,,,,,,0,24
+Total,210,71,124,124,119,114,111,100,94,93,11,24
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,25
+,Beth Grossman,Lawrence S Krasner,Maria Mclaughlin,Emil Giordano,Debbie Kunselman,Carolyn H Nichols,Geoff Moulton,Mary Murray,Wade A Kagarise,Craig Stedman,Jules Mermelstein,25
+Beth Grossman,4,0,20,57,13,10,13,50,49,48,2,25
+Lawrence S Krasner,,0,44,1,40,43,39,1,0,1,3,25
+Maria Mclaughlin,,,2,9,47,47,48,7,6,3,4,25
+Emil Giordano,,,,0,7,2,7,47,49,45,0,25
+Debbie Kunselman,,,,,2,47,48,3,0,2,1,25
+Carolyn H Nichols,,,,,,0,46,2,0,0,2,25
+Geoff Moulton,,,,,,,0,0,3,4,2,25
+Mary Murray,,,,,,,,0,45,40,2,25
+Wade A Kagarise,,,,,,,,,0,42,1,25
+Craig Stedman,,,,,,,,,,0,3,25
+Jules Mermelstein,,,,,,,,,,,0,25
+Total,78,48,67,59,55,53,53,51,50,49,5,25
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,26
+,Beth Grossman,Lawrence S Krasner,Emil Giordano,Mary Murray,Wade A Kagarise,Craig Stedman,Maria Mclaughlin,Geoff Moulton,Debbie Kunselman,Carolyn H Nichols,Jules Mermelstein,26
+Beth Grossman,16,0,79,77,71,69,40,25,24,20,3,26
+Lawrence S Krasner,,1,3,3,2,3,31,30,29,30,0,26
+Emil Giordano,,,0,66,70,66,14,12,7,2,2,26
+Mary Murray,,,,0,64,65,10,2,6,7,2,26
+Wade A Kagarise,,,,,0,62,10,7,0,2,1,26
+Craig Stedman,,,,,,0,5,5,5,2,0,26
+Maria Mclaughlin,,,,,,,0,51,48,47,2,26
+Geoff Moulton,,,,,,,,0,46,42,1,26
+Debbie Kunselman,,,,,,,,,0,45,1,26
+Carolyn H Nichols,,,,,,,,,,0,0,26
+Jules Mermelstein,,,,,,,,,,,0,26
+Total,131,37,84,80,74,73,72,57,54,50,3,26
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,27
+,Beth Grossman,Lawrence S Krasner,Maria Mclaughlin,Debbie Kunselman,Carolyn H Nichols,Geoff Moulton,Mary Murray,Emil Giordano,Wade A Kagarise,Craig Stedman,Jules Mermelstein,27
+Beth Grossman,3,0,14,13,11,9,37,34,33,32,2,27
+Lawrence S Krasner,,1,34,33,32,30,0,2,0,0,5,27
+Maria Mclaughlin,,,1,40,40,37,2,2,0,1,3,27
+Debbie Kunselman,,,,0,38,37,3,3,0,0,5,27
+Carolyn H Nichols,,,,,0,35,2,1,0,1,3,27
+Geoff Moulton,,,,,,0,1,2,0,0,3,27
+Mary Murray,,,,,,,0,36,33,32,2,27
+Emil Giordano,,,,,,,,0,33,32,2,27
+Wade A Kagarise,,,,,,,,,0,31,1,27
+Craig Stedman,,,,,,,,,,0,1,27
+Jules Mermelstein,,,,,,,,,,,0,27
+Total,54,40,49,46,43,39,39,38,34,33,7,27
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,28
+,Beth Grossman,Lawrence S Krasner,Maria Mclaughlin,Emil Giordano,Carolyn H Nichols,Craig Stedman,Wade A Kagarise,Mary Murray,Debbie Kunselman,Geoff Moulton,Jules Mermelstein,28
+Beth Grossman,7,0,24,46,17,43,39,38,12,11,3,28
+Lawrence S Krasner,,1,33,1,30,2,4,2,29,30,0,28
+Maria Mclaughlin,,,0,6,44,4,5,9,38,40,1,28
+Emil Giordano,,,,0,5,39,39,33,2,3,3,28
+Carolyn H Nichols,,,,,0,3,4,6,38,36,3,28
+Craig Stedman,,,,,,1,38,30,2,2,0,28
+Wade A Kagarise,,,,,,,0,32,0,2,0,28
+Mary Murray,,,,,,,,1,1,2,1,28
+Debbie Kunselman,,,,,,,,,0,37,1,28
+Geoff Moulton,,,,,,,,,,0,0,28
+Jules Mermelstein,,,,,,,,,,,0,28
+Total,78,37,58,49,48,47,45,43,41,41,3,28
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,29
+,Beth Grossman,Lawrence S Krasner,Emil Giordano,Maria Mclaughlin,Wade A Kagarise,Craig Stedman,Mary Murray,Geoff Moulton,Carolyn H Nichols,Debbie Kunselman,Jules Mermelstein,29
+Beth Grossman,13,0,116,59,98,93,92,35,29,29,4,29
+Lawrence S Krasner,,1,2,46,0,0,1,40,39,39,2,29
+Emil Giordano,,,0,22,98,89,87,17,4,7,3,29
+Maria Mclaughlin,,,,0,10,2,7,65,63,62,5,29
+Wade A Kagarise,,,,,0,86,82,9,1,2,1,29
+Craig Stedman,,,,,,1,80,7,0,5,0,29
+Mary Murray,,,,,,,0,2,5,4,1,29
+Geoff Moulton,,,,,,,,0,54,60,0,29
+Carolyn H Nichols,,,,,,,,,0,59,3,29
+Debbie Kunselman,,,,,,,,,,0,2,29
+Jules Mermelstein,,,,,,,,,,,0,29
+Total,175,52,119,106,99,95,94,75,69,68,6,29
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,30
+,Beth Grossman,Lawrence S Krasner,Maria Mclaughlin,Emil Giordano,Debbie Kunselman,Wade A Kagarise,Mary Murray,Carolyn H Nichols,Craig Stedman,Geoff Moulton,Jules Mermelstein,30
+Beth Grossman,5,0,16,45,10,42,41,10,37,6,3,30
+Lawrence S Krasner,,0,35,3,36,3,3,32,3,30,1,30
+Maria Mclaughlin,,,0,7,42,6,4,41,2,36,2,30
+Emil Giordano,,,,0,2,43,41,3,40,1,2,30
+Debbie Kunselman,,,,,1,2,0,38,2,35,2,30
+Wade A Kagarise,,,,,,0,38,3,38,1,2,30
+Mary Murray,,,,,,,0,2,35,0,2,30
+Carolyn H Nichols,,,,,,,,0,1,35,1,30
+Craig Stedman,,,,,,,,,1,0,1,30
+Geoff Moulton,,,,,,,,,,0,0,30
+Jules Mermelstein,,,,,,,,,,,0,30
+Total,62,40,51,48,47,45,44,42,41,36,4,30
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,31
+,Beth Grossman,Lawrence S Krasner,Maria Mclaughlin,Mary Murray,Craig Stedman,Emil Giordano,Debbie Kunselman,Wade A Kagarise,Carolyn H Nichols,Geoff Moulton,Jules Mermelstein,31
+Beth Grossman,13,0,10,42,40,42,9,36,5,6,0,31
+Lawrence S Krasner,,1,35,1,2,0,29,1,29,28,1,31
+Maria Mclaughlin,,,2,2,4,3,33,2,32,32,1,31
+Mary Murray,,,,1,36,35,3,34,3,0,0,31
+Craig Stedman,,,,,0,37,2,37,2,2,0,31
+Emil Giordano,,,,,,0,3,36,0,3,0,31
+Debbie Kunselman,,,,,,,1,0,30,31,0,31
+Wade A Kagarise,,,,,,,,0,0,1,0,31
+Carolyn H Nichols,,,,,,,,,0,29,1,31
+Geoff Moulton,,,,,,,,,,0,1,31
+Jules Mermelstein,,,,,,,,,,,0,31
+Total,68,40,47,44,42,42,39,37,34,34,1,31
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,32
+,Beth Grossman,Lawrence S Krasner,Maria Mclaughlin,Debbie Kunselman,Carolyn H Nichols,Geoff Moulton,Emil Giordano,Craig Stedman,Mary Murray,Wade A Kagarise,Jules Mermelstein,32
+Beth Grossman,2,0,15,16,11,12,21,21,20,18,2,32
+Lawrence S Krasner,,0,18,15,19,15,2,1,1,1,2,32
+Maria Mclaughlin,,,0,25,26,25,6,2,4,3,1,32
+Debbie Kunselman,,,,0,26,24,2,2,4,0,3,32
+Carolyn H Nichols,,,,,0,24,2,1,2,0,2,32
+Geoff Moulton,,,,,,0,2,2,0,1,1,32
+Emil Giordano,,,,,,,0,18,19,19,1,32
+Craig Stedman,,,,,,,,0,16,16,2,32
+Mary Murray,,,,,,,,,0,17,1,32
+Wade A Kagarise,,,,,,,,,,0,1,32
+Jules Mermelstein,,,,,,,,,,,0,32
+Total,40,21,33,31,30,27,23,22,21,19,4,32
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,33
+,Beth Grossman,Lawrence S Krasner,Maria Mclaughlin,Debbie Kunselman,Carolyn H Nichols,Mary Murray,Craig Stedman,Emil Giordano,Geoff Moulton,Wade A Kagarise,Jules Mermelstein,33
+Beth Grossman,0,0,4,4,3,23,22,21,1,17,0,33
+Lawrence S Krasner,,0,22,21,21,0,0,0,20,0,0,33
+Maria Mclaughlin,,,0,24,24,1,1,1,21,0,0,33
+Debbie Kunselman,,,,0,24,1,1,1,21,0,0,33
+Carolyn H Nichols,,,,,0,0,0,0,21,0,0,33
+Mary Murray,,,,,,0,21,21,0,17,0,33
+Craig Stedman,,,,,,,0,21,0,17,0,33
+Emil Giordano,,,,,,,,0,0,17,0,33
+Geoff Moulton,,,,,,,,,0,0,0,33
+Wade A Kagarise,,,,,,,,,,0,0,33
+Jules Mermelstein,,,,,,,,,,,0,33
+Total,27,22,26,25,24,23,22,21,21,17,0,33
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,34
+,Beth Grossman,Lawrence S Krasner,Maria Mclaughlin,Debbie Kunselman,Geoff Moulton,Carolyn H Nichols,Emil Giordano,Mary Murray,Wade A Kagarise,Craig Stedman,Jules Mermelstein,34
+Beth Grossman,8,0,23,18,18,14,49,44,42,37,2,34
+Lawrence S Krasner,,3,48,43,42,42,0,1,0,1,1,34
+Maria Mclaughlin,,,0,56,62,57,6,3,5,1,0,34
+Debbie Kunselman,,,,2,54,53,3,3,1,3,3,34
+Geoff Moulton,,,,,0,55,5,0,5,0,0,34
+Carolyn H Nichols,,,,,,0,0,1,0,0,0,34
+Emil Giordano,,,,,,,0,40,42,36,1,34
+Mary Murray,,,,,,,,0,36,37,1,34
+Wade A Kagarise,,,,,,,,,0,36,0,34
+Craig Stedman,,,,,,,,,,1,1,34
+Jules Mermelstein,,,,,,,,,,,0,34
+Total,77,54,73,64,62,58,49,45,42,39,3,34
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,35
+,Beth Grossman,Lawrence S Krasner,Craig Stedman,Mary Murray,Emil Giordano,Wade A Kagarise,Maria Mclaughlin,Debbie Kunselman,Carolyn H Nichols,Geoff Moulton,Jules Mermelstein,35
+Beth Grossman,21,0,98,93,87,84,20,15,14,11,1,35
+Lawrence S Krasner,,3,2,2,4,3,57,53,50,51,2,35
+Craig Stedman,,,0,89,88,87,6,7,3,3,1,35
+Mary Murray,,,,2,86,81,6,5,3,2,0,35
+Emil Giordano,,,,,0,85,3,1,0,1,0,35
+Wade A Kagarise,,,,,,0,2,3,1,2,1,35
+Maria Mclaughlin,,,,,,,0,61,59,55,1,35
+Debbie Kunselman,,,,,,,,0,61,56,2,35
+Carolyn H Nichols,,,,,,,,,0,58,1,35
+Geoff Moulton,,,,,,,,,,0,0,35
+Jules Mermelstein,,,,,,,,,,,2,35
+Total,143,68,103,99,93,89,79,69,65,62,5,35
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,36
+,Beth Grossman,Lawrence S Krasner,Maria Mclaughlin,Carolyn H Nichols,Debbie Kunselman,Mary Murray,Craig Stedman,Emil Giordano,Geoff Moulton,Wade A Kagarise,Jules Mermelstein,36
+Beth Grossman,1,0,7,6,8,10,9,9,4,7,1,36
+Lawrence S Krasner,,0,7,7,4,0,0,0,3,0,0,36
+Maria Mclaughlin,,,1,10,11,2,0,0,7,0,0,36
+Carolyn H Nichols,,,,0,10,2,0,0,7,0,0,36
+Debbie Kunselman,,,,,0,2,1,1,7,0,1,36
+Mary Murray,,,,,,0,8,8,0,7,0,36
+Craig Stedman,,,,,,,0,9,0,7,1,36
+Emil Giordano,,,,,,,,0,0,7,1,36
+Geoff Moulton,,,,,,,,,0,0,0,36
+Wade A Kagarise,,,,,,,,,,0,0,36
+Jules Mermelstein,,,,,,,,,,,0,36
+Total,17,10,15,13,12,10,9,9,7,7,1,36
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,37
+,Beth Grossman,Lawrence S Krasner,Maria Mclaughlin,Debbie Kunselman,Geoff Moulton,Emil Giordano,Carolyn H Nichols,Craig Stedman,Mary Murray,Wade A Kagarise,Jules Mermelstein,37
+Beth Grossman,8,0,29,29,28,53,21,45,42,42,4,37
+Lawrence S Krasner,,2,36,33,32,3,32,1,2,1,1,37
+Maria Mclaughlin,,,0,54,53,10,51,1,6,5,2,37
+Debbie Kunselman,,,,1,54,11,50,5,3,1,2,37
+Geoff Moulton,,,,,0,12,47,6,2,4,1,37
+Emil Giordano,,,,,,0,1,44,40,44,1,37
+Carolyn H Nichols,,,,,,,0,2,4,0,1,37
+Craig Stedman,,,,,,,,0,40,38,1,37
+Mary Murray,,,,,,,,,0,38,1,37
+Wade A Kagarise,,,,,,,,,,0,2,37
+Jules Mermelstein,,,,,,,,,,,0,37
+Total,89,39,66,63,60,58,54,48,46,45,5,37
+,Judge Of The Superior Court,,,,,,,,,District Attorney,,38
+,Debbie Kunselman,Maria Mclaughlin,Carolyn H Nichols,Geoff Moulton,Craig Stedman,Emil Giordano,Mary Murray,Wade A Kagarise,Jules Mermelstein,Lawrence S Krasner,Beth Grossman,38
+Debbie Kunselman,0,20,20,18,2,2,1,0,4,23,3,38
+Maria Mclaughlin,,1,17,18,1,1,0,0,1,18,3,38
+Carolyn H Nichols,,,0,17,0,0,0,0,3,20,0,38
+Geoff Moulton,,,,0,0,0,0,0,0,18,0,38
+Craig Stedman,,,,,0,16,15,14,0,0,16,38
+Emil Giordano,,,,,,0,15,14,1,0,16,38
+Mary Murray,,,,,,,0,14,0,0,16,38
+Wade A Kagarise,,,,,,,,0,0,0,13,38
+Jules Mermelstein,,,,,,,,,0,3,1,38
+Lawrence S Krasner,,,,,,,,,,1,0,38
+Beth Grossman,,,,,,,,,,,2,38
+Total,26,22,20,18,17,17,17,14,4,24,22,38
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,39
+,Beth Grossman,Lawrence S Krasner,Emil Giordano,Mary Murray,Wade A Kagarise,Craig Stedman,Maria Mclaughlin,Carolyn H Nichols,Debbie Kunselman,Geoff Moulton,Jules Mermelstein,39
+Beth Grossman,25,0,156,150,140,134,41,17,17,11,4,39
+Lawrence S Krasner,,0,0,0,0,0,31,30,30,28,1,39
+Emil Giordano,,,0,140,136,129,19,2,5,5,3,39
+Mary Murray,,,,0,130,128,14,7,9,2,2,39
+Wade A Kagarise,,,,,0,124,12,0,0,6,2,39
+Craig Stedman,,,,,,0,2,1,1,1,2,39
+Maria Mclaughlin,,,,,,,3,40,40,38,3,39
+Carolyn H Nichols,,,,,,,,0,39,33,1,39
+Debbie Kunselman,,,,,,,,,0,32,1,39
+Geoff Moulton,,,,,,,,,,0,1,39
+Jules Mermelstein,,,,,,,,,,,0,39
+Total,217,32,156,150,140,134,76,47,47,40,5,39
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,40
+,Beth Grossman,Lawrence S Krasner,Maria Mclaughlin,Debbie Kunselman,Emil Giordano,Carolyn H Nichols,Mary Murray,Geoff Moulton,Wade A Kagarise,Craig Stedman,Jules Mermelstein,40
+Beth Grossman,10,0,20,10,26,8,25,6,24,21,3,40
+Lawrence S Krasner,,1,19,17,2,18,0,18,0,1,0,40
+Maria Mclaughlin,,,0,24,6,25,4,23,3,2,2,40
+Debbie Kunselman,,,,1,1,24,2,21,0,1,2,40
+Emil Giordano,,,,,0,1,23,2,22,21,0,40
+Carolyn H Nichols,,,,,,0,2,22,0,0,2,40
+Mary Murray,,,,,,,0,0,21,20,1,40
+Geoff Moulton,,,,,,,,0,1,2,0,40
+Wade A Kagarise,,,,,,,,,0,20,0,40
+Craig Stedman,,,,,,,,,,0,0,40
+Jules Mermelstein,,,,,,,,,,,0,40
+Total,54,21,39,28,28,26,25,24,24,22,3,40
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,41
+,Beth Grossman,Lawrence S Krasner,Emil Giordano,Mary Murray,Wade A Kagarise,Craig Stedman,Maria Mclaughlin,Geoff Moulton,Carolyn H Nichols,Debbie Kunselman,Jules Mermelstein,41
+Beth Grossman,32,0,163,157,145,140,76,50,39,39,3,41
+Lawrence S Krasner,,2,6,4,1,1,45,37,40,38,1,41
+Emil Giordano,,,0,142,142,134,28,20,6,10,1,41
+Mary Murray,,,,0,133,130,22,3,10,7,2,41
+Wade A Kagarise,,,,,0,130,14,11,2,2,1,41
+Craig Stedman,,,,,,0,5,5,1,7,1,41
+Maria Mclaughlin,,,,,,,1,81,73,70,3,41
+Geoff Moulton,,,,,,,,0,64,69,1,41
+Carolyn H Nichols,,,,,,,,,0,64,2,41
+Debbie Kunselman,,,,,,,,,,0,1,41
+Jules Mermelstein,,,,,,,,,,,0,41
+Total,266,50,171,164,149,143,123,88,81,78,4,41
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,42
+,Beth Grossman,Lawrence S Krasner,Maria Mclaughlin,Carolyn H Nichols,Debbie Kunselman,Geoff Moulton,Mary Murray,Emil Giordano,Craig Stedman,Wade A Kagarise,Jules Mermelstein,42
+Beth Grossman,10,0,20,17,17,14,35,33,33,28,2,42
+Lawrence S Krasner,,0,24,24,22,25,2,3,1,1,0,42
+Maria Mclaughlin,,,0,39,37,36,5,6,1,1,2,42
+Carolyn H Nichols,,,,1,36,35,5,3,2,0,1,42
+Debbie Kunselman,,,,,0,34,5,3,2,0,0,42
+Geoff Moulton,,,,,,0,2,5,1,1,1,42
+Mary Murray,,,,,,,0,30,32,29,0,42
+Emil Giordano,,,,,,,,0,28,29,2,42
+Craig Stedman,,,,,,,,,0,28,0,42
+Wade A Kagarise,,,,,,,,,,0,0,42
+Jules Mermelstein,,,,,,,,,,,0,42
+Total,65,27,45,43,40,40,38,37,35,30,2,42
+,District Attorney,,Judge Of The Superior Court,,,,,,,,,43
+,Beth Grossman,Lawrence S Krasner,Maria Mclaughlin,Emil Giordano,Mary Murray,Craig Stedman,Debbie Kunselman,Carolyn H Nichols,Geoff Moulton,Wade A Kagarise,Jules Mermelstein,43
+Beth Grossman,3,0,15,47,47,42,8,7,7,36,2,43
+Lawrence S Krasner,,0,37,2,1,0,33,32,30,1,0,43
+Maria Mclaughlin,,,0,6,8,2,40,38,36,3,1,43
+Emil Giordano,,,,0,43,39,1,1,4,36,1,43
+Mary Murray,,,,,1,41,5,3,0,33,1,43
+Craig Stedman,,,,,,0,1,0,0,33,1,43
+Debbie Kunselman,,,,,,,0,38,33,1,0,43
+Carolyn H Nichols,,,,,,,,0,34,1,1,43
+Geoff Moulton,,,,,,,,,0,2,1,43
+Wade A Kagarise,,,,,,,,,,0,0,43
+Jules Mermelstein,,,,,,,,,,,0,43
+Total,61,39,52,50,50,42,41,39,37,37,2,43
+,Judge Of The Superior Court,,,,,,,,,District Attorney,,44
+,Maria Mclaughlin,Debbie Kunselman,Carolyn H Nichols,Geoff Moulton,Emil Giordano,Mary Murray,Craig Stedman,Wade A Kagarise,Jules Mermelstein,Lawrence S Krasner,Beth Grossman,44
+Maria Mclaughlin,2,85,85,82,3,5,0,1,3,73,17,44
+Debbie Kunselman,,1,79,82,4,4,5,1,4,71,19,44
+Carolyn H Nichols,,,0,78,2,5,1,1,3,71,12,44
+Geoff Moulton,,,,0,4,0,3,0,2,65,16,44
+Emil Giordano,,,,,1,26,24,22,1,0,28,44
+Mary Murray,,,,,,0,23,23,2,2,28,44
+Craig Stedman,,,,,,,0,23,1,1,28,44
+Wade A Kagarise,,,,,,,,0,0,0,26,44
+Jules Mermelstein,,,,,,,,,0,1,6,44
+Lawrence S Krasner,,,,,,,,,,4,0,44
+Beth Grossman,,,,,,,,,,,6,44
+Total,98,95,88,87,31,30,29,26,7,82,57,44
