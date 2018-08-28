@@ -64,11 +64,16 @@
 <br><br>
 <h3>Select a voting division:</h3>
 <br>
-<select class="simple-select" id="choices_division" onchange="updateChart(choices_chart, 'choices')"></select>
+<select class="simple-select" id="choices_division" onchange="choices_division_change()"></select>
   <br><br>
   <h3>Select a voting ward by clicking on the map</h3>
   <br>
   <div id="choices_map_div" class="leaflet_map"></div>
+
+  <br>
+  <button type="button" onclick="exportToCsv(choices_data, choices_headers, 'choices', '#choices_election', choices_offices, '#choices_ballot_position', choices_wards, '#choices_ward', choices_divisions, '#choices_division')">Download Data as CSV</button>
+  <br>
+
   <script>
       choices_map = makeMap('choices_map_div')
   </script>
@@ -84,6 +89,7 @@
 <script>
 
 $(document).ready(function(){
+  choices_headers = ["max_number_of_selections", "percent_of_votes"]
   $('.simple-select').chosen();
    jQuery(window).on('resize', resizeChosen);
   resizeChosen();
@@ -100,7 +106,7 @@ $.each(choices_wards, function(val, text) {
   $('.simple-select').chosen();
   choices_divisions = setDivisionDropdown("num_selected", "#choices_election", "#choices_ballot_position", choices_offices, "#choices_ward", "#choices_division", choices_wards)
     ctx_choices = document.getElementById("choices_chart").getContext('2d');
-  makeChart('choices');
+  choices_data = makeChart('choices');
 
   geojson = L.geoJson(wards_polygon, {
     filter: mapAvailableWardsChoices,

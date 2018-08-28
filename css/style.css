@@ -95,6 +95,15 @@
   }
 }
 
+.red {
+  background-color: red !important;
+}
+
+td.highlight {
+        font-weight: bold;
+        color: blue;
+    }
+
 * {
   box-sizing: border-box;
   font-family: Arial, Helvetica, sans-serif;

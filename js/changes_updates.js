@@ -8,6 +8,10 @@ function resultsElectionChange() {
   resultsChange();
 }
 
+function resultsDivisionChange() {
+  results_data = updateChart(results_chart, 'results');
+}
+
 function resultsOfficeChange() {
   $('#results_ward').empty();
   results_wards = getWards_locations("election_results", "#results_election", "#results_ballot_position", results_offices);
@@ -31,7 +35,7 @@ function resultsChange() {
     color: '#28b78d'
   });
   highlightWard(results_wards, "#results_ward", results_map);
-  updateChart(results_chart, 'results');
+  results_data = updateChart(results_chart, 'results');
 }
 
 function choicesChange() {
@@ -44,7 +48,11 @@ function choicesChange() {
   }).addTo(choices_map);
 
   highlightWard(choices_wards, "#choices_ward", choices_map);
-  updateChart(choices_chart, 'choices');
+  choices_data = updateChart(choices_chart, 'choices');
+}
+
+function choices_division_change() {
+  choices_data = updateChart(choices_chart, 'choices');
 }
 
 function choicesOfficeChange() {
@@ -69,6 +77,7 @@ function choicesElectionChange() {
   choicesChange();
 }
 
+
 function timeElectionChange() {
 
   $('#time_ward').empty();
@@ -87,7 +96,7 @@ function timeElectionChange() {
 }
 
 function timeChange() {
-  setDivisionDropdown("vote_time", "#time_election", "", "", "#time_ward", "#time_division", time_wards);
+  time_divisions = setDivisionDropdown("vote_time", "#time_election", "", "", "#time_ward", "#time_division", time_wards);
   highlightWard(time_wards, "#time_ward", time_map);
   graph = updateGraph();
 }

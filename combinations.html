@@ -68,6 +68,11 @@
   <h3>Select a voting ward by clicking on the map</h3>
   <br>
   <div id="cand_comb_map_div" class="leaflet_map"></div>
+
+  <br>
+  <button type="button" onclick="exportToCsv(cand_data, '', 'cand_comb', '#cand_comb_election', cand_comb_offices, '#cand_comb_ballot_position', cand_comb_wards, '#cand_comb_ward', cand_comb_divisions, '#cand_comb_division')">Download Data as CSV</button>
+  <br>
+
   <script>
         cand_comb_map = makeMap('cand_comb_map_div')
 

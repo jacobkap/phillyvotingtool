@@ -70,6 +70,11 @@
   <h3>Select a voting ward by clicking on the map</h3>
   <br>
   <div id="time_map_div" class="leaflet_map"></div>
+
+  <br>
+  <button type="button" onclick="exportToCsv(graph_data, time_headers, 'vote_time', '#time_election', '', '', time_wards, '#time_ward', time_divisions, '#time_division')">Download Data as CSV</button>
+  <br>
+
   <script>
     time_map = makeMap('time_map_div')
   </script>
@@ -82,6 +87,8 @@
 </div>
 <script>
   $(document).ready(function(){
+    time_headers = ["hour", "votes_count", "votes_percent", "division", "median_minutes_per_vote"]
+
     $.each(elections, function(val, text) {
             $('#time_election').append( new Option(text,val) );
         });
@@ -95,7 +102,7 @@
        $('.simple-select').chosen();
        $('.simple-select').trigger('chosen:updated');
 
-      setDivisionDropdown("vote_time", "#time_election", "", "", "#time_ward", "#time_division", time_wards)
+  time_divisions =    setDivisionDropdown("vote_time", "#time_election", "", "", "#time_ward", "#time_division", time_wards)
    ctx_time = document.getElementById("time_graph").getContext('2d');
    graph_data = getGraphData();
    subsetted_graph_data = subsetGraphData(graph_data);

@@ -104,7 +104,11 @@ function makeGraph(data, time_data) {
           label: function(tooltipItems, data) {
             value = tooltipItems.yLabel;
             value = value.toLocaleString();
-            return value;
+            if (tooltipItems.datasetIndex === 0) {
+            return " " + yaxis_label + " " + value;
+          } else {
+            return " Minutes per Vote " + value;
+          }
           }
         }
       },
@@ -170,7 +174,7 @@ function makeGraph(data, time_data) {
             label: function(tooltipItems, data) {
               value = tooltipItems.yLabel;
               value = value.toLocaleString();
-              return value;
+              return " " + yaxis_label + " " + value;
             }
           }
         },
@@ -274,9 +278,6 @@ function makeTable(div, data, headers) {
     }
   }
 
-
-
-
   final_data = _.map(final_data, function(x) {
     return _.omit(x, 'division');
   });
@@ -317,7 +318,7 @@ function makeTable(div, data, headers) {
   var table = $("#table").DataTable({
     data: final_data,
     columns: z,
-    "stripe": true,
+    "stripe": false,
     "hover": true,
     "paging": false,
     "searching": false,
@@ -328,14 +329,37 @@ function makeTable(div, data, headers) {
     "order": [1, "desc"],
           "scrollX": true,
           "sScrollXInner": "100%",
-          "sScrollX": "100%"
+          "sScrollX": "100%",
   });
  $("#table_wrapper").css("width", "95%");
+   $('td', 2).eq(2).addClass('highlight');
  $($.fn.dataTable.tables(true)).DataTable()
       .columns.adjust()
       .responsive.recalc();
+
+      bold_color_table();
   return table;
 }
+
+function bold_color_table() {
+// Checks all cells and makes the background brown if they have an empty string
+// The color is just a placeholder for now.
+$('#table tr').each(function() {
+  $(this).find('td').each (function() {
+    if ($(this).text() === "") {
+     $(this).css("background-color", "brown");
+     $(this).closest("td").next().css("font-weight", "bold");
+     $(this).css("font-weight", "normal");
+   }
+});
+});
+
+// Forces the top-left data cell to be bold
+$("#table > tbody:nth-child(2) > tr:nth-child(2) > td:nth-child(2)").css("font-weight", "bold");
+// Forces the top-left header cell (first candiate name) to NOT be bold
+$("#table > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(2)").css("font-weight", "normal");
+}
+
 
 function updateTable() {
   cand_data = getData("cand_comb");
@@ -348,21 +372,6 @@ function updateTable() {
   $('#table').empty();
   table = makeTable("#table", cand_data, headers);
 
-/*
-  title = cand_comb_offices[$('#cand_comb_ballot_position').val()[0]];
-  if ($('#cand_comb_ballot_position').val().length > 1) {
-    title += " and " + cand_comb_offices[$('#cand_comb_ballot_position').val()[1]];
-  }
-  if (cand_comb_wards[$("#cand_comb_ward").val()] != "All") {
-    title += ", Ward " + cand_comb_wards[$("#cand_comb_ward").val()];
-  }
-  if (cand_comb_division[$("#cand_comb_division").val()] != "All") {
-    title += ", Division " + cand_comb_division[$("#cand_comb_division").val()];
-  }
-  //  subtitle = "Max number of selections: " + cand_comb_offices[$('#cand_comb_ballot_position').val()];
-  $("#table_title").text(title);
-  //  $("#table_subtitle").text(subtitle);
-  */
 }
 
 function updateGraph() {
@@ -376,14 +385,15 @@ function updateGraph() {
 
 function updateChart(chart, type) {
   chart.destroy();
-  makeChart(type);
+  data = makeChart(type);
+  return data;
 }
 
 function makeChart(type) {
   Chart.defaults.global.defaultFontColor = "#000000";
   data = getData(type);
-  data = subsetData(data, type);
-  data = formatData(data, type);
+  data_for_csv = subsetData(data, type);
+  data = formatData(data_for_csv, type);
   title_text = data[1];
   data = data[0];
 
@@ -494,4 +504,6 @@ function makeChart(type) {
       }
     });
   }
+
+  return data_for_csv;
 }

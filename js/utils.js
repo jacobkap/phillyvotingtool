@@ -60,19 +60,21 @@ function setDivisionDropdown(type, election_dropdown, office_dropdown, offices, 
     }
   }
   */
-  locations = getWards_locations(type, election_dropdown, office_dropdown, offices, wards = false);
-  divisions = [];
-  for (var i = 0; i < locations.length; i++) {
-    if (locations[i].replace(/-.*/, "") === ward_num) {
-      temp = locations[i];
-      temp = temp.replace(/.*-/, "");
-      temp = parseInt(temp);
-      divisions.push(temp);
+    locations = getWards_locations(type, election_dropdown, office_dropdown, offices, wards = false);
+    divisions = [];
+    for (var i = 0; i < locations.length; i++) {
+      if (locations[i].replace(/-.*/, "") === ward_num) {
+        temp = locations[i];
+        temp = temp.replace(/.*-/, "");
+        temp = parseInt(temp);
+        divisions.push(temp);
+      }
     }
+    divisions = divisions.sort(function(a, b) {
+      return a - b;
+    });
+    divisions.unshift("All");
   }
-  divisions = divisions.sort(function(a,b) { return a - b; });
-   divisions.unshift("All");
-}
   $.each(divisions, function(val, text) {
     $(division_dropdown).append(new Option(text, val));
   });
@@ -97,8 +99,8 @@ function setOffices(type, election_dropdown, ballot_dropdown) {
 
 function getOffices(type, election_dropdown, max_choices = false) {
   if (type == "results") {
-   type = "election_results";
- }
+    type = "election_results";
+  }
   url = "https://raw.githubusercontent.com/jacobkap/phillyvotingtool/master/data/";
   url += type + "/election_";
 
@@ -163,10 +165,10 @@ function getData(type) {
   url += folder + "_";
   temp_office = $(office_dropdown).val();
   if (Array.isArray(temp_office)) {
-  selected_office = office_options[temp_office[0]];
-} else {
-  selected_office = office_options[temp_office];
-}
+    selected_office = office_options[temp_office[0]];
+  } else {
+    selected_office = office_options[temp_office];
+  }
   if (Array.isArray(temp_office) && $(office_dropdown).val().length > 1) {
     temp_office = $(office_dropdown).val();
     temp_office = office_options[temp_office[1]];
@@ -174,19 +176,19 @@ function getData(type) {
   }
   url += selected_office;
 
-if (type == "cand_comb") {
-  url += "_ward_" + cand_comb_wards[$("#cand_comb_ward").val()];
-  url += ".csv";
+  if (type == "cand_comb") {
+    url += "_ward_" + cand_comb_wards[$("#cand_comb_ward").val()];
+    url += ".csv";
     data_type = "csv";
-} else if (type == "results") {
-  url += "_ward_" + results_wards[$("#results_ward").val()];
-  url += ".json";
+  } else if (type == "results") {
+    url += "_ward_" + results_wards[$("#results_ward").val()];
+    url += ".json";
     data_type = "json";
-} else if (type == "choices") {
-  url += "_ward_" + choices_wards[$("#choices_ward").val()];
-  url += ".json";
-  data_type = "json";
-}
+  } else if (type == "choices") {
+    url += "_ward_" + choices_wards[$("#choices_ward").val()];
+    url += ".json";
+    data_type = "json";
+  }
 
   var data = $.getJSON({
     url: url,
@@ -200,8 +202,8 @@ if (type == "cand_comb") {
   if (type == "cand_comb") {
     data = data.responseText;
   } else {
-  data = data.responseJSON;
-}
+    data = data.responseJSON;
+  }
   return (data);
 }
 
@@ -211,7 +213,7 @@ function getWards_locations(type, election_dropdown, office_dropdown, offices, w
 
   election = elections[$(election_dropdown).val()];
   if (type == "cand_comb") {
-      election = elections_no_special[$(election_dropdown).val()];
+    election = elections_no_special[$(election_dropdown).val()];
   }
   election = election.toLowerCase().replace(" ", "_");
   election = election.replace(" ", "_");
@@ -248,10 +250,22 @@ function getWards_locations(type, election_dropdown, office_dropdown, offices, w
 }
 
 
-function mapAvailableWardsTime(feature) {return mapAvailableWards(feature, time_wards);}
-function mapAvailableWardsResults(feature) {return mapAvailableWards(feature, results_wards);}
-function mapAvailableWardsChoices(feature) {return mapAvailableWards(feature, choices_wards);}
-function mapAvailableWardsCond(feature) {return mapAvailableWards(feature, cand_comb_wards);}
+function mapAvailableWardsTime(feature) {
+  return mapAvailableWards(feature, time_wards);
+}
+
+function mapAvailableWardsResults(feature) {
+  return mapAvailableWards(feature, results_wards);
+}
+
+function mapAvailableWardsChoices(feature) {
+  return mapAvailableWards(feature, choices_wards);
+}
+
+function mapAvailableWardsCond(feature) {
+  return mapAvailableWards(feature, cand_comb_wards);
+}
+
 function mapAvailableWards(feature, wards) {
   // Check if polygon ward is in available wards
   if (wards.indexOf(feature.properties.WARD_NUM) != -1) {
@@ -392,5 +406,82 @@ function makeMap(map_div) {
 }
 
 function dropdownFun() {
-    document.getElementById("myDropdown").classList.toggle("show");
+  document.getElementById("myDropdown").classList.toggle("show");
+}
+
+function objToString(obj) {
+  var str = '';
+  for (var p in obj) {
+    if (obj.hasOwnProperty(p)) {
+      str += obj[p] + ',';
+    }
+  }
+  str = str.slice(0, -1); // Removes comma at end.
+  return str;
+}
+
+function arrayToOjbect(data, headers, type) {
+  results = [];
+  if (type == "vote_time") {
+    data = data[0].map((col, i) => data.map(row => row[i]));
+  }
+  //  console.log(data)
+  for (n = 0; n < data.length; n++) {
+    obj = _.object(headers, data[n]);
+    results.push(obj);
+  }
+  return (results);
+}
+
+function exportToCsv(data, headers, type, election_dropdown, offices, office_dropdown, wards, ward_dropdown, divisions, division_dropdown) {
+
+  if (type == "cand_comb") {
+    headers = data[0];
+    data = data.map(objToString);
+    data = data.join("\n");
+    data = objToString(_.keys(headers)) + '\n' + data;
+  } else {
+    data = arrayToOjbect(data, headers, type);
+    data = data.map(objToString);
+    data = data.join("\n");
+    data = objToString(headers) + '\n' + data;
+  }
+
+  if (type == "cand_comb") {
+    elections = elections_no_special;
+  }
+
+  election = elections[$(election_dropdown).val()];
+  if (type != "vote_time") {
+    office = offices[$(office_dropdown).val()];
+  } else {
+    office = "";
+  }
+  ward = wards[$(ward_dropdown).val()];
+  division = divisions[$(division_dropdown).val()];
+
+if (type == "vote_time") {
+  filename = type + "_" + election + "_ward_" + ward + "_division_" + division;
+} else {
+  filename = type + "_" + election + "_" + office + "_ward_" + ward + "_division_" + division;
+}
+
+  var blob = new Blob([data], {
+    type: 'text/csv;charset=utf-8;'
+  });
+  if (navigator.msSaveBlob) { // IE 10+
+    navigator.msSaveBlob(blob, filename);
+  } else {
+    var link = document.createElement("a");
+    if (link.download !== undefined) { // feature detection
+      // Browsers that support HTML5 download attribute
+      var url = URL.createObjectURL(blob);
+      link.setAttribute("href", url);
+      link.setAttribute("download", filename);
+      link.style.visibility = 'hidden';
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    }
+  }
 }

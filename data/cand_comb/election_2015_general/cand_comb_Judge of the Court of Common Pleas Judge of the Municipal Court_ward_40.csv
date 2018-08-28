@@ -1,0 +1,989 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10,col_11,col_12,col_13,col_14,col_15,col_16,col_17,division
+,Judge Of The Municipal Court,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,All
+,Christine Hope,Sharon Williams Losier,Joffie C Pittman,Ken Powell,Tracy B Roman,Mia Roberts Perez,Kai Scott,Lyris Younge,Abbe Fletman,Stephanie M Sawyer,Daine Grey Jr,Michael Fanning,Chris Mallios,Scott Diclaudio,Rainy Papademetriou,Vincent Furlong,All
+Christine Hope,44,"3,736","3,731","3,865","3,853","3,823","3,775","3,725","3,671","3,313","3,269","3,253","3,224","3,196","3,190",310,All
+Sharon Williams Losier,,37,"3,740","3,860","3,789","3,769","3,749","3,685","3,646","3,289","3,231","3,217","3,193","3,170","3,180",163,All
+Joffie C Pittman,,,7,"3,749","3,716","3,728","3,716","3,692","3,643","3,266","3,226","3,228","3,198","3,157","3,176",172,All
+Ken Powell,,,,52,"3,826","3,828","3,809","3,774","3,742","3,327","3,285","3,296","3,249","3,221","3,220",176,All
+Tracy B Roman,,,,,21,"3,820","3,789","3,762","3,708","3,321","3,271","3,265","3,234","3,204","3,209",175,All
+Mia Roberts Perez,,,,,,27,"3,819","3,772","3,721","3,336","3,303","3,277","3,249","3,211","3,228",174,All
+Kai Scott,,,,,,,20,"3,784","3,738","3,319","3,285","3,264","3,238","3,195","3,221",153,All
+Lyris Younge,,,,,,,,19,"3,715","3,293","3,275","3,257","3,227","3,190","3,213",152,All
+Abbe Fletman,,,,,,,,,3,"3,257","3,243","3,237","3,204","3,175","3,190",147,All
+Stephanie M Sawyer,,,,,,,,,,11,"3,303","3,285","3,257","3,212","3,236",158,All
+Daine Grey Jr,,,,,,,,,,,2,"3,265","3,226","3,191","3,215",149,All
+Michael Fanning,,,,,,,,,,,,1,"3,242","3,211","3,212",158,All
+Chris Mallios,,,,,,,,,,,,,4,"3,191","3,201",151,All
+Scott Diclaudio,,,,,,,,,,,,,,9,"3,155",131,All
+Rainy Papademetriou,,,,,,,,,,,,,,,5,119,All
+Vincent Furlong,,,,,,,,,,,,,,,,16,All
+Total,"4,395","4,163","3,954","4,263","4,138","4,088","4,034","3,941","3,844","3,468","3,389","3,364","3,319","3,303","3,297",351,All
+,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,Judge Of The Municipal Court,,,1
+,Ken Powell,Tracy B Roman,Mia Roberts Perez,Kai Scott,Abbe Fletman,Lyris Younge,Scott Diclaudio,Daine Grey Jr,Stephanie M Sawyer,Chris Mallios,Michael Fanning,Rainy Papademetriou,Vincent Furlong,Christine Hope,Sharon Williams Losier,Joffie C Pittman,1
+Ken Powell,0,48,46,47,45,45,40,40,40,37,39,38,2,48,49,45,1
+Tracy B Roman,,0,45,46,43,44,38,38,39,39,39,39,1,46,46,44,1
+Mia Roberts Perez,,,0,45,43,44,38,38,38,37,37,38,1,46,44,44,1
+Kai Scott,,,,0,43,44,37,37,38,36,37,37,1,46,44,42,1
+Abbe Fletman,,,,,0,43,37,38,39,37,38,38,2,44,44,42,1
+Lyris Younge,,,,,,0,35,37,38,36,37,37,0,44,43,42,1
+Scott Diclaudio,,,,,,,0,38,37,35,37,36,2,39,37,36,1
+Daine Grey Jr,,,,,,,,0,39,36,38,37,1,37,37,36,1
+Stephanie M Sawyer,,,,,,,,,0,37,39,38,1,38,38,37,1
+Chris Mallios,,,,,,,,,,0,37,38,1,37,37,37,1
+Michael Fanning,,,,,,,,,,,0,38,1,37,38,37,1
+Rainy Papademetriou,,,,,,,,,,,,0,1,37,38,38,1
+Vincent Furlong,,,,,,,,,,,,,1,5,2,2,1
+Christine Hope,,,,,,,,,,,,,,1,44,44,1
+Sharon Williams Losier,,,,,,,,,,,,,,,1,43,1
+Joffie C Pittman,,,,,,,,,,,,,,,,0,1
+Total,56,51,50,47,45,45,41,40,40,39,39,39,6,55,52,48,1
+,Judge Of The Municipal Court,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,2
+,Christine Hope,Sharon Williams Losier,Joffie C Pittman,Tracy B Roman,Ken Powell,Kai Scott,Mia Roberts Perez,Lyris Younge,Abbe Fletman,Stephanie M Sawyer,Michael Fanning,Rainy Papademetriou,Chris Mallios,Daine Grey Jr,Scott Diclaudio,Vincent Furlong,2
+Christine Hope,1,78,74,82,76,78,76,77,76,72,69,69,68,68,68,3,2
+Sharon Williams Losier,,0,75,78,79,79,75,76,76,73,70,69,69,68,68,4,2
+Joffie C Pittman,,,0,73,74,74,73,73,72,68,67,66,65,66,65,3,2
+Tracy B Roman,,,,1,76,77,78,78,76,71,69,69,68,68,68,2,2
+Ken Powell,,,,,2,77,75,75,77,70,70,69,68,68,68,2,2
+Kai Scott,,,,,,0,75,77,77,72,70,69,69,68,68,2,2
+Mia Roberts Perez,,,,,,,0,76,74,69,69,68,67,67,67,1,2
+Lyris Younge,,,,,,,,0,75,70,69,69,68,68,68,2,2
+Abbe Fletman,,,,,,,,,0,70,69,69,69,68,68,2,2
+Stephanie M Sawyer,,,,,,,,,,0,70,70,69,68,68,3,2
+Michael Fanning,,,,,,,,,,,0,69,68,68,68,2,2
+Rainy Papademetriou,,,,,,,,,,,,0,68,68,68,2,2
+Chris Mallios,,,,,,,,,,,,,0,67,67,2,2
+Daine Grey Jr,,,,,,,,,,,,,,0,67,2,2
+Scott Diclaudio,,,,,,,,,,,,,,,0,1,2
+Vincent Furlong,,,,,,,,,,,,,,,,0,2
+Total,87,87,78,87,84,81,81,79,78,75,70,70,69,68,68,4,2
+,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,Judge Of The Municipal Court,,,3
+,Ken Powell,Tracy B Roman,Mia Roberts Perez,Lyris Younge,Kai Scott,Abbe Fletman,Stephanie M Sawyer,Chris Mallios,Michael Fanning,Rainy Papademetriou,Scott Diclaudio,Daine Grey Jr,Vincent Furlong,Christine Hope,Sharon Williams Losier,Joffie C Pittman,3
+Ken Powell,1,132,131,127,127,127,112,111,112,110,112,109,3,132,134,127,3
+Tracy B Roman,,0,129,127,127,127,113,112,109,111,110,108,3,131,129,125,3
+Mia Roberts Perez,,,2,128,127,126,113,111,110,110,110,109,2,128,127,124,3
+Lyris Younge,,,,2,127,125,110,111,108,110,109,108,1,125,124,122,3
+Kai Scott,,,,,0,127,110,110,109,111,109,107,2,125,123,123,3
+Abbe Fletman,,,,,,0,110,109,109,110,109,107,2,124,122,122,3
+Stephanie M Sawyer,,,,,,,0,111,109,109,110,108,2,111,111,111,3
+Chris Mallios,,,,,,,,0,108,110,111,108,2,110,111,110,3
+Michael Fanning,,,,,,,,,0,108,108,107,3,111,109,108,3
+Rainy Papademetriou,,,,,,,,,,1,109,107,2,108,110,108,3
+Scott Diclaudio,,,,,,,,,,,1,108,2,110,110,109,3
+Daine Grey Jr,,,,,,,,,,,,0,1,110,106,106,3
+Vincent Furlong,,,,,,,,,,,,,0,4,2,2,3
+Christine Hope,,,,,,,,,,,,,,0,128,128,3
+Sharon Williams Losier,,,,,,,,,,,,,,,1,128,3
+Joffie C Pittman,,,,,,,,,,,,,,,,1,3
+Total,144,139,138,133,129,128,115,113,113,113,113,112,4,142,142,132,3
+,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,Judge Of The Municipal Court,,,4
+,Ken Powell,Lyris Younge,Kai Scott,Mia Roberts Perez,Abbe Fletman,Tracy B Roman,Chris Mallios,Daine Grey Jr,Michael Fanning,Rainy Papademetriou,Scott Diclaudio,Stephanie M Sawyer,Vincent Furlong,Christine Hope,Sharon Williams Losier,Joffie C Pittman,4
+Ken Powell,2,101,102,101,102,95,94,94,94,94,94,94,1,102,107,101,4
+Lyris Younge,,1,101,103,101,96,94,94,94,94,94,94,0,97,99,101,4
+Kai Scott,,,1,102,102,96,95,95,95,95,95,95,1,100,101,101,4
+Mia Roberts Perez,,,,0,101,97,95,95,95,95,95,95,1,99,100,100,4
+Abbe Fletman,,,,,0,96,95,95,95,95,95,95,1,99,100,102,4
+Tracy B Roman,,,,,,0,92,92,92,92,92,92,1,96,94,96,4
+Chris Mallios,,,,,,,0,96,96,96,96,96,1,95,94,95,4
+Daine Grey Jr,,,,,,,,0,96,96,96,96,1,94,94,95,4
+Michael Fanning,,,,,,,,,0,96,96,96,1,94,94,95,4
+Rainy Papademetriou,,,,,,,,,,0,96,96,1,94,94,95,4
+Scott Diclaudio,,,,,,,,,,,0,96,1,94,94,95,4
+Stephanie M Sawyer,,,,,,,,,,,,0,1,94,94,95,4
+Vincent Furlong,,,,,,,,,,,,,0,1,1,1,4
+Christine Hope,,,,,,,,,,,,,,1,97,98,4
+Sharon Williams Losier,,,,,,,,,,,,,,,0,100,4
+Joffie C Pittman,,,,,,,,,,,,,,,,0,4
+Total,115,106,105,105,104,98,97,96,96,96,96,96,1,107,107,105,4
+,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,Judge Of The Municipal Court,,,5
+,Ken Powell,Kai Scott,Tracy B Roman,Mia Roberts Perez,Lyris Younge,Abbe Fletman,Stephanie M Sawyer,Daine Grey Jr,Scott Diclaudio,Chris Mallios,Michael Fanning,Rainy Papademetriou,Vincent Furlong,Christine Hope,Sharon Williams Losier,Joffie C Pittman,5
+Ken Powell,2,132,131,133,129,128,123,121,122,121,121,118,2,129,129,127,5
+Kai Scott,,1,128,130,128,127,122,121,121,121,121,118,2,128,125,127,5
+Tracy B Roman,,,1,131,127,128,121,121,120,120,120,117,2,128,126,127,5
+Mia Roberts Perez,,,,0,127,128,122,121,120,120,120,118,2,129,127,126,5
+Lyris Younge,,,,,0,127,121,120,120,120,120,117,2,126,123,124,5
+Abbe Fletman,,,,,,0,121,121,120,120,120,117,2,125,125,124,5
+Stephanie M Sawyer,,,,,,,0,123,122,122,122,119,2,119,118,118,5
+Daine Grey Jr,,,,,,,,0,122,122,122,119,2,118,118,118,5
+Scott Diclaudio,,,,,,,,,0,122,122,119,2,117,118,118,5
+Chris Mallios,,,,,,,,,,0,122,119,2,117,117,118,5
+Michael Fanning,,,,,,,,,,,0,119,2,117,117,118,5
+Rainy Papademetriou,,,,,,,,,,,,0,0,114,115,115,5
+Vincent Furlong,,,,,,,,,,,,,0,4,2,2,5
+Christine Hope,,,,,,,,,,,,,,3,126,127,5
+Sharon Williams Losier,,,,,,,,,,,,,,,1,125,5
+Joffie C Pittman,,,,,,,,,,,,,,,,0,5
+Total,141,136,136,135,131,129,125,123,123,122,122,119,4,140,133,131,5
+,Judge Of The Municipal Court,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,6
+,Sharon Williams Losier,Christine Hope,Joffie C Pittman,Mia Roberts Perez,Ken Powell,Tracy B Roman,Abbe Fletman,Kai Scott,Lyris Younge,Daine Grey Jr,Chris Mallios,Stephanie M Sawyer,Michael Fanning,Rainy Papademetriou,Scott Diclaudio,Vincent Furlong,6
+Sharon Williams Losier,1,42,46,46,50,46,46,44,45,40,39,40,39,39,39,2,6
+Christine Hope,,0,43,48,43,45,42,40,41,39,38,38,37,38,38,4,6
+Joffie C Pittman,,,0,45,45,47,45,43,44,39,38,39,38,38,38,2,6
+Mia Roberts Perez,,,,0,45,47,45,43,44,40,39,39,38,39,39,3,6
+Ken Powell,,,,,0,45,46,44,45,40,39,40,39,39,39,2,6
+Tracy B Roman,,,,,,0,45,43,44,40,39,39,38,39,39,3,6
+Abbe Fletman,,,,,,,0,44,45,40,39,40,39,39,39,2,6
+Kai Scott,,,,,,,,1,43,39,38,39,38,38,38,2,6
+Lyris Younge,,,,,,,,,0,39,38,39,38,38,38,1,6
+Daine Grey Jr,,,,,,,,,,0,39,40,39,39,39,3,6
+Chris Mallios,,,,,,,,,,,1,39,38,39,39,2,6
+Stephanie M Sawyer,,,,,,,,,,,,0,39,39,39,2,6
+Michael Fanning,,,,,,,,,,,,,0,38,38,1,6
+Rainy Papademetriou,,,,,,,,,,,,,,0,39,2,6
+Scott Diclaudio,,,,,,,,,,,,,,,0,2,6
+Vincent Furlong,,,,,,,,,,,,,,,,1,6
+Total,54,51,49,52,51,51,46,45,45,41,40,40,39,39,39,5,6
+,Judge Of The Municipal Court,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,7
+,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Kai Scott,Ken Powell,Lyris Younge,Tracy B Roman,Mia Roberts Perez,Abbe Fletman,Stephanie M Sawyer,Rainy Papademetriou,Daine Grey Jr,Chris Mallios,Michael Fanning,Scott Diclaudio,Vincent Furlong,7
+Christine Hope,0,83,78,82,85,81,82,77,76,64,64,63,62,62,59,4,7
+Joffie C Pittman,,1,77,81,79,81,75,76,76,67,67,66,64,64,61,4,7
+Sharon Williams Losier,,,0,79,75,75,76,75,73,61,62,61,59,60,60,3,7
+Kai Scott,,,,1,80,81,79,79,78,65,66,65,63,63,59,3,7
+Ken Powell,,,,,2,80,78,75,76,63,62,62,62,61,58,3,7
+Lyris Younge,,,,,,0,78,76,75,67,66,66,63,64,61,3,7
+Tracy B Roman,,,,,,,0,76,76,60,61,61,60,62,58,3,7
+Mia Roberts Perez,,,,,,,,0,74,64,64,65,63,63,60,3,7
+Abbe Fletman,,,,,,,,,1,61,63,62,62,63,58,3,7
+Stephanie M Sawyer,,,,,,,,,,2,65,66,63,62,60,2,7
+Rainy Papademetriou,,,,,,,,,,,0,66,63,63,59,2,7
+Daine Grey Jr,,,,,,,,,,,,0,63,63,60,3,7
+Chris Mallios,,,,,,,,,,,,,0,62,58,2,7
+Michael Fanning,,,,,,,,,,,,,,0,59,3,7
+Scott Diclaudio,,,,,,,,,,,,,,,0,2,7
+Vincent Furlong,,,,,,,,,,,,,,,,0,7
+Total,98,89,88,92,92,88,87,82,81,70,68,67,64,64,62,4,7
+,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,Judge Of The Municipal Court,,,8
+,Ken Powell,Lyris Younge,Tracy B Roman,Kai Scott,Mia Roberts Perez,Abbe Fletman,Michael Fanning,Stephanie M Sawyer,Chris Mallios,Daine Grey Jr,Rainy Papademetriou,Scott Diclaudio,Vincent Furlong,Joffie C Pittman,Sharon Williams Losier,Christine Hope,8
+Ken Powell,2,66,65,66,66,64,57,56,56,56,56,55,6,68,69,65,8
+Lyris Younge,,1,65,66,66,64,56,56,56,56,56,54,4,65,64,63,8
+Tracy B Roman,,,0,64,64,62,57,56,56,56,56,55,5,64,64,66,8
+Kai Scott,,,,0,67,65,56,56,56,56,56,54,4,66,65,63,8
+Mia Roberts Perez,,,,,0,65,56,56,56,56,56,54,4,66,65,63,8
+Abbe Fletman,,,,,,0,54,54,54,54,54,52,3,65,63,61,8
+Michael Fanning,,,,,,,0,56,56,56,56,55,5,57,57,57,8
+Stephanie M Sawyer,,,,,,,,1,56,56,56,54,4,56,56,56,8
+Chris Mallios,,,,,,,,,0,56,56,54,4,56,56,56,8
+Daine Grey Jr,,,,,,,,,,0,56,54,4,56,56,56,8
+Rainy Papademetriou,,,,,,,,,,,0,54,4,56,56,56,8
+Scott Diclaudio,,,,,,,,,,,,0,3,55,55,55,8
+Vincent Furlong,,,,,,,,,,,,,0,7,5,5,8
+Joffie C Pittman,,,,,,,,,,,,,,1,65,64,8
+Sharon Williams Losier,,,,,,,,,,,,,,,0,64,8
+Christine Hope,,,,,,,,,,,,,,,,0,8
+Total,75,68,68,67,67,66,57,57,56,56,56,55,7,71,70,67,8
+,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,Judge Of The Municipal Court,,,9
+,Tracy B Roman,Ken Powell,Mia Roberts Perez,Kai Scott,Lyris Younge,Abbe Fletman,Michael Fanning,Rainy Papademetriou,Stephanie M Sawyer,Chris Mallios,Daine Grey Jr,Scott Diclaudio,Vincent Furlong,Sharon Williams Losier,Christine Hope,Joffie C Pittman,9
+Tracy B Roman,1,84,81,80,79,79,61,61,60,59,60,58,3,79,81,76,9
+Ken Powell,,1,82,80,79,79,61,60,59,59,60,59,3,80,79,76,9
+Mia Roberts Perez,,,0,78,78,78,61,59,59,59,60,59,3,76,78,76,9
+Kai Scott,,,,0,77,78,58,57,58,56,58,57,1,76,75,74,9
+Lyris Younge,,,,,1,78,59,58,58,57,58,58,2,75,75,73,9
+Abbe Fletman,,,,,,0,59,58,58,57,58,58,2,74,74,73,9
+Michael Fanning,,,,,,,0,60,59,60,59,59,3,57,56,55,9
+Rainy Papademetriou,,,,,,,,0,58,59,59,58,3,57,54,54,9
+Stephanie M Sawyer,,,,,,,,,0,57,58,57,1,58,55,55,9
+Chris Mallios,,,,,,,,,,0,58,58,3,55,55,54,9
+Daine Grey Jr,,,,,,,,,,,0,58,3,56,55,55,9
+Scott Diclaudio,,,,,,,,,,,,0,2,56,55,54,9
+Vincent Furlong,,,,,,,,,,,,,0,2,4,2,9
+Sharon Williams Losier,,,,,,,,,,,,,,2,72,74,9
+Christine Hope,,,,,,,,,,,,,,,0,74,9
+Joffie C Pittman,,,,,,,,,,,,,,,,0,9
+Total,91,90,84,82,82,79,62,61,61,60,60,60,5,90,87,77,9
+,Judge Of The Municipal Court,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,10
+,Christine Hope,Sharon Williams Losier,Joffie C Pittman,Kai Scott,Tracy B Roman,Ken Powell,Abbe Fletman,Mia Roberts Perez,Lyris Younge,Stephanie M Sawyer,Chris Mallios,Daine Grey Jr,Michael Fanning,Scott Diclaudio,Rainy Papademetriou,Vincent Furlong,10
+Christine Hope,0,40,40,42,44,42,41,42,40,39,38,38,38,38,37,2,10
+Sharon Williams Losier,,0,39,42,41,42,41,41,40,38,38,38,37,38,38,1,10
+Joffie C Pittman,,,0,41,39,40,40,40,39,37,37,37,36,37,36,2,10
+Kai Scott,,,,1,43,43,42,42,41,40,39,39,39,39,38,2,10
+Tracy B Roman,,,,,0,42,41,41,41,40,39,39,39,39,38,2,10
+Ken Powell,,,,,,1,41,42,41,40,39,39,39,39,38,2,10
+Abbe Fletman,,,,,,,0,41,40,38,38,38,37,38,38,1,10
+Mia Roberts Perez,,,,,,,,0,41,39,39,39,38,39,38,2,10
+Lyris Younge,,,,,,,,,0,39,39,39,38,39,38,2,10
+Stephanie M Sawyer,,,,,,,,,,0,39,39,39,39,38,2,10
+Chris Mallios,,,,,,,,,,,0,39,38,39,38,2,10
+Daine Grey Jr,,,,,,,,,,,,0,38,39,38,2,10
+Michael Fanning,,,,,,,,,,,,,0,38,37,1,10
+Scott Diclaudio,,,,,,,,,,,,,,0,38,2,10
+Rainy Papademetriou,,,,,,,,,,,,,,,0,1,10
+Vincent Furlong,,,,,,,,,,,,,,,,0,10
+Total,46,43,41,46,46,45,43,43,41,40,39,39,39,39,38,2,10
+,Judge Of The Municipal Court,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,11
+,Christine Hope,Sharon Williams Losier,Joffie C Pittman,Tracy B Roman,Kai Scott,Ken Powell,Mia Roberts Perez,Lyris Younge,Abbe Fletman,Stephanie M Sawyer,Chris Mallios,Daine Grey Jr,Michael Fanning,Rainy Papademetriou,Scott Diclaudio,Vincent Furlong,11
+Christine Hope,1,72,73,73,73,71,72,70,69,66,64,64,64,63,63,6,11
+Sharon Williams Losier,,1,71,71,71,71,70,68,70,64,64,63,63,63,63,3,11
+Joffie C Pittman,,,0,71,71,69,71,67,69,63,64,64,64,63,63,3,11
+Tracy B Roman,,,,0,71,71,71,69,69,64,63,62,62,62,61,3,11
+Kai Scott,,,,,0,71,72,69,69,65,65,64,64,64,63,4,11
+Ken Powell,,,,,,1,71,70,71,64,63,62,62,62,62,3,11
+Mia Roberts Perez,,,,,,,0,69,70,64,63,63,63,62,62,3,11
+Lyris Younge,,,,,,,,1,69,63,62,62,62,61,62,2,11
+Abbe Fletman,,,,,,,,,0,62,62,62,62,61,62,2,11
+Stephanie M Sawyer,,,,,,,,,,0,64,63,63,63,62,2,11
+Chris Mallios,,,,,,,,,,,0,64,64,64,63,3,11
+Daine Grey Jr,,,,,,,,,,,,0,64,63,63,3,11
+Michael Fanning,,,,,,,,,,,,,0,63,63,3,11
+Rainy Papademetriou,,,,,,,,,,,,,,0,62,2,11
+Scott Diclaudio,,,,,,,,,,,,,,,0,2,11
+Vincent Furlong,,,,,,,,,,,,,,,,0,11
+Total,82,77,74,76,75,75,73,72,71,67,65,64,64,64,63,6,11
+,Judge Of The Municipal Court,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,12
+,Christine Hope,Sharon Williams Losier,Joffie C Pittman,Mia Roberts Perez,Ken Powell,Kai Scott,Lyris Younge,Tracy B Roman,Abbe Fletman,Stephanie M Sawyer,Daine Grey Jr,Scott Diclaudio,Chris Mallios,Michael Fanning,Rainy Papademetriou,Vincent Furlong,12
+Christine Hope,1,47,45,50,46,47,45,46,42,35,34,33,33,33,33,3,12
+Sharon Williams Losier,,0,44,48,47,45,44,44,43,34,33,32,32,32,32,1,12
+Joffie C Pittman,,,0,45,43,45,44,43,41,33,31,31,31,30,31,1,12
+Mia Roberts Perez,,,,0,47,48,45,46,42,35,35,33,33,33,33,1,12
+Ken Powell,,,,,1,44,44,42,41,33,33,32,32,31,32,1,12
+Kai Scott,,,,,,0,43,44,41,34,33,31,31,31,31,2,12
+Lyris Younge,,,,,,,0,43,42,33,33,33,33,32,33,1,12
+Tracy B Roman,,,,,,,,0,41,33,33,32,32,32,32,1,12
+Abbe Fletman,,,,,,,,,0,31,31,31,31,30,31,0,12
+Stephanie M Sawyer,,,,,,,,,,0,34,33,33,32,33,2,12
+Daine Grey Jr,,,,,,,,,,,0,33,33,33,33,1,12
+Scott Diclaudio,,,,,,,,,,,,1,33,32,33,1,12
+Chris Mallios,,,,,,,,,,,,,0,32,33,1,12
+Michael Fanning,,,,,,,,,,,,,,0,32,1,12
+Rainy Papademetriou,,,,,,,,,,,,,,,0,1,12
+Vincent Furlong,,,,,,,,,,,,,,,,0,12
+Total,56,52,47,53,51,50,46,46,44,38,35,34,33,33,33,4,12
+,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,Judge Of The Municipal Court,,,13
+,Ken Powell,Kai Scott,Mia Roberts Perez,Tracy B Roman,Lyris Younge,Abbe Fletman,Stephanie M Sawyer,Michael Fanning,Rainy Papademetriou,Scott Diclaudio,Chris Mallios,Daine Grey Jr,Vincent Furlong,Christine Hope,Sharon Williams Losier,Joffie C Pittman,13
+Ken Powell,2,68,70,67,68,66,57,57,56,57,56,55,4,67,68,63,13
+Kai Scott,,0,68,67,69,68,57,57,58,57,56,56,4,66,67,63,13
+Mia Roberts Perez,,,1,67,68,65,59,57,57,57,57,57,5,66,66,63,13
+Tracy B Roman,,,,0,66,65,56,54,55,56,54,55,5,66,64,62,13
+Lyris Younge,,,,,0,66,57,57,56,56,56,55,4,64,66,63,13
+Abbe Fletman,,,,,,0,54,54,55,54,53,53,3,63,64,63,13
+Stephanie M Sawyer,,,,,,,1,57,56,56,57,57,5,57,56,54,13
+Michael Fanning,,,,,,,,0,55,56,56,56,3,55,56,54,13
+Rainy Papademetriou,,,,,,,,,0,56,55,55,3,56,56,54,13
+Scott Diclaudio,,,,,,,,,,0,55,56,3,56,56,54,13
+Chris Mallios,,,,,,,,,,,0,55,3,55,55,53,13
+Daine Grey Jr,,,,,,,,,,,,0,4,56,55,53,13
+Vincent Furlong,,,,,,,,,,,,,0,5,4,4,13
+Christine Hope,,,,,,,,,,,,,,0,63,62,13
+Sharon Williams Losier,,,,,,,,,,,,,,,0,63,13
+Joffie C Pittman,,,,,,,,,,,,,,,,0,13
+Total,79,74,74,72,70,69,60,58,58,58,57,57,5,72,71,65,13
+,Judge Of The Municipal Court,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,14
+,Christine Hope,Sharon Williams Losier,Joffie C Pittman,Tracy B Roman,Ken Powell,Mia Roberts Perez,Abbe Fletman,Kai Scott,Lyris Younge,Stephanie M Sawyer,Chris Mallios,Daine Grey Jr,Michael Fanning,Rainy Papademetriou,Scott Diclaudio,Vincent Furlong,14
+Christine Hope,1,72,71,74,70,72,70,69,68,58,58,58,57,55,55,7,14
+Sharon Williams Losier,,1,71,75,71,70,70,71,68,59,59,58,58,56,55,5,14
+Joffie C Pittman,,,0,74,71,69,69,70,67,59,59,57,58,56,56,6,14
+Tracy B Roman,,,,0,71,72,72,72,70,60,60,59,58,56,56,6,14
+Ken Powell,,,,,1,69,69,69,67,58,59,57,58,56,56,6,14
+Mia Roberts Perez,,,,,,0,71,69,69,58,58,58,57,56,55,5,14
+Abbe Fletman,,,,,,,0,70,69,57,57,58,56,56,54,5,14
+Kai Scott,,,,,,,,1,67,57,58,58,56,56,54,5,14
+Lyris Younge,,,,,,,,,0,58,57,57,56,55,54,5,14
+Stephanie M Sawyer,,,,,,,,,,0,59,58,57,55,55,5,14
+Chris Mallios,,,,,,,,,,,0,58,58,56,56,5,14
+Daine Grey Jr,,,,,,,,,,,,0,56,56,54,4,14
+Michael Fanning,,,,,,,,,,,,,0,56,55,4,14
+Rainy Papademetriou,,,,,,,,,,,,,,0,53,3,14
+Scott Diclaudio,,,,,,,,,,,,,,,0,2,14
+Vincent Furlong,,,,,,,,,,,,,,,,1,14
+Total,82,78,76,81,75,75,73,73,71,61,60,60,58,56,56,8,14
+,Judge Of The Municipal Court,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,15
+,Christine Hope,Sharon Williams Losier,Joffie C Pittman,Tracy B Roman,Mia Roberts Perez,Ken Powell,Abbe Fletman,Kai Scott,Lyris Younge,Chris Mallios,Michael Fanning,Rainy Papademetriou,Scott Diclaudio,Stephanie M Sawyer,Daine Grey Jr,Vincent Furlong,15
+Christine Hope,2,33,33,41,33,34,33,33,33,27,26,26,26,26,25,2,15
+Sharon Williams Losier,,0,33,34,33,34,33,33,33,26,26,26,26,26,25,1,15
+Joffie C Pittman,,,0,33,32,33,33,33,33,26,26,26,26,26,25,1,15
+Tracy B Roman,,,,0,32,33,33,33,33,26,26,26,26,26,25,1,15
+Mia Roberts Perez,,,,,3,32,32,32,32,25,25,25,25,25,24,1,15
+Ken Powell,,,,,,0,33,33,33,26,26,26,26,26,25,1,15
+Abbe Fletman,,,,,,,0,33,33,26,26,26,26,26,25,1,15
+Kai Scott,,,,,,,,0,33,26,26,26,26,26,25,1,15
+Lyris Younge,,,,,,,,,0,26,26,26,26,26,25,1,15
+Chris Mallios,,,,,,,,,,0,26,26,26,26,25,1,15
+Michael Fanning,,,,,,,,,,,0,26,26,26,25,1,15
+Rainy Papademetriou,,,,,,,,,,,,0,26,26,25,1,15
+Scott Diclaudio,,,,,,,,,,,,,0,26,25,1,15
+Stephanie M Sawyer,,,,,,,,,,,,,,0,25,1,15
+Daine Grey Jr,,,,,,,,,,,,,,,0,0,15
+Vincent Furlong,,,,,,,,,,,,,,,,0,15
+Total,47,36,33,42,37,35,33,33,33,27,26,26,26,26,25,2,15
+,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,Judge Of The Municipal Court,,,16
+,Ken Powell,Tracy B Roman,Mia Roberts Perez,Lyris Younge,Abbe Fletman,Kai Scott,Scott Diclaudio,Daine Grey Jr,Michael Fanning,Stephanie M Sawyer,Chris Mallios,Rainy Papademetriou,Vincent Furlong,Christine Hope,Sharon Williams Losier,Joffie C Pittman,16
+Ken Powell,1,46,46,44,45,43,30,29,30,29,28,28,2,48,44,45,16
+Tracy B Roman,,0,48,44,45,44,30,30,30,30,29,29,2,46,47,44,16
+Mia Roberts Perez,,,0,44,46,44,31,31,30,31,29,29,3,47,45,44,16
+Lyris Younge,,,,1,45,44,29,30,30,29,28,29,1,42,42,43,16
+Abbe Fletman,,,,,0,44,30,31,30,30,28,29,2,44,42,43,16
+Kai Scott,,,,,,1,27,29,28,28,27,28,0,42,43,41,16
+Scott Diclaudio,,,,,,,0,29,30,30,28,28,3,30,30,30,16
+Daine Grey Jr,,,,,,,,0,29,30,28,29,2,30,29,29,16
+Michael Fanning,,,,,,,,,0,29,28,29,1,29,29,30,16
+Stephanie M Sawyer,,,,,,,,,,0,29,29,3,30,29,29,16
+Chris Mallios,,,,,,,,,,,0,28,2,28,28,28,16
+Rainy Papademetriou,,,,,,,,,,,,0,1,28,28,28,16
+Vincent Furlong,,,,,,,,,,,,,0,3,2,2,16
+Christine Hope,,,,,,,,,,,,,,0,43,44,16
+Sharon Williams Losier,,,,,,,,,,,,,,,0,44,16
+Joffie C Pittman,,,,,,,,,,,,,,,,0,16
+Total,52,51,50,48,47,47,33,31,31,31,29,29,3,51,51,47,16
+,Judge Of The Municipal Court,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,17
+,Sharon Williams Losier,Christine Hope,Joffie C Pittman,Tracy B Roman,Kai Scott,Ken Powell,Mia Roberts Perez,Lyris Younge,Abbe Fletman,Michael Fanning,Chris Mallios,Daine Grey Jr,Rainy Papademetriou,Scott Diclaudio,Stephanie M Sawyer,Vincent Furlong,17
+Sharon Williams Losier,1,46,47,51,48,50,48,47,46,40,40,40,40,40,40,0,17
+Christine Hope,,0,47,47,47,47,46,47,45,43,41,41,41,41,41,3,17
+Joffie C Pittman,,,0,47,48,46,47,47,46,41,41,41,41,41,41,1,17
+Tracy B Roman,,,,1,48,48,48,48,47,41,41,41,41,41,41,0,17
+Kai Scott,,,,,1,47,48,48,47,42,41,41,41,41,41,0,17
+Ken Powell,,,,,,0,47,47,46,40,40,40,40,40,40,0,17
+Mia Roberts Perez,,,,,,,2,48,47,41,41,41,41,41,41,0,17
+Lyris Younge,,,,,,,,0,47,42,41,41,41,41,41,0,17
+Abbe Fletman,,,,,,,,,0,41,41,41,41,41,41,0,17
+Michael Fanning,,,,,,,,,,0,41,41,41,41,41,0,17
+Chris Mallios,,,,,,,,,,,0,41,41,41,41,0,17
+Daine Grey Jr,,,,,,,,,,,,0,41,41,41,0,17
+Rainy Papademetriou,,,,,,,,,,,,,0,41,41,0,17
+Scott Diclaudio,,,,,,,,,,,,,,0,41,0,17
+Stephanie M Sawyer,,,,,,,,,,,,,,,0,0,17
+Vincent Furlong,,,,,,,,,,,,,,,,1,17
+Total,57,55,50,54,52,52,51,49,47,43,41,41,41,41,41,5,17
+,Judge Of The Municipal Court,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,18
+,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Tracy B Roman,Ken Powell,Abbe Fletman,Lyris Younge,Mia Roberts Perez,Kai Scott,Michael Fanning,Rainy Papademetriou,Chris Mallios,Daine Grey Jr,Stephanie M Sawyer,Scott Diclaudio,Vincent Furlong,18
+Christine Hope,0,33,33,35,34,33,33,32,32,30,30,29,30,30,29,3,18
+Joffie C Pittman,,0,34,34,35,34,33,33,32,30,30,29,29,29,28,1,18
+Sharon Williams Losier,,,0,34,34,34,33,32,32,30,30,29,29,29,28,1,18
+Tracy B Roman,,,,1,33,33,33,32,32,30,30,29,30,30,29,1,18
+Ken Powell,,,,,0,34,33,32,32,30,30,29,29,29,28,1,18
+Abbe Fletman,,,,,,0,33,32,32,30,30,29,29,29,28,1,18
+Lyris Younge,,,,,,,1,32,32,29,29,28,29,29,28,1,18
+Mia Roberts Perez,,,,,,,,0,31,29,29,28,29,29,28,1,18
+Kai Scott,,,,,,,,,0,28,28,28,28,28,28,0,18
+Michael Fanning,,,,,,,,,,0,31,30,30,30,29,1,18
+Rainy Papademetriou,,,,,,,,,,,0,30,30,30,29,1,18
+Chris Mallios,,,,,,,,,,,,0,29,29,29,0,18
+Daine Grey Jr,,,,,,,,,,,,,0,30,29,1,18
+Stephanie M Sawyer,,,,,,,,,,,,,,0,29,1,18
+Scott Diclaudio,,,,,,,,,,,,,,,0,0,18
+Vincent Furlong,,,,,,,,,,,,,,,,0,18
+Total,38,37,35,38,36,34,34,33,32,31,31,30,30,30,29,3,18
+,Judge Of The Municipal Court,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,19
+,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Tracy B Roman,Kai Scott,Ken Powell,Mia Roberts Perez,Lyris Younge,Stephanie M Sawyer,Chris Mallios,Daine Grey Jr,Abbe Fletman,Scott Diclaudio,Michael Fanning,Rainy Papademetriou,Vincent Furlong,19
+Christine Hope,1,35,34,39,38,36,38,37,36,35,36,34,34,33,31,4,19
+Joffie C Pittman,,0,34,35,35,34,35,35,33,33,34,33,32,32,31,1,19
+Sharon Williams Losier,,,0,36,35,34,35,35,32,32,33,33,32,31,30,1,19
+Tracy B Roman,,,,0,39,37,38,37,37,36,36,35,36,34,31,3,19
+Kai Scott,,,,,0,37,39,38,37,36,37,36,35,34,32,2,19
+Ken Powell,,,,,,1,36,36,35,34,35,34,33,34,31,2,19
+Mia Roberts Perez,,,,,,,0,39,36,36,36,36,35,34,32,2,19
+Lyris Younge,,,,,,,,0,35,35,36,36,34,34,32,2,19
+Stephanie M Sawyer,,,,,,,,,0,37,36,34,36,35,32,3,19
+Chris Mallios,,,,,,,,,,0,35,34,36,35,32,3,19
+Daine Grey Jr,,,,,,,,,,,0,34,34,34,32,2,19
+Abbe Fletman,,,,,,,,,,,,0,33,33,31,2,19
+Scott Diclaudio,,,,,,,,,,,,,0,34,31,3,19
+Michael Fanning,,,,,,,,,,,,,,0,31,3,19
+Rainy Papademetriou,,,,,,,,,,,,,,,0,0,19
+Vincent Furlong,,,,,,,,,,,,,,,,2,19
+Total,45,36,36,44,40,40,40,39,38,37,37,36,36,35,32,7,19
+,Judge Of The Municipal Court,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,20
+,Christine Hope,Sharon Williams Losier,Joffie C Pittman,Ken Powell,Mia Roberts Perez,Abbe Fletman,Tracy B Roman,Kai Scott,Lyris Younge,Chris Mallios,Daine Grey Jr,Michael Fanning,Scott Diclaudio,Stephanie M Sawyer,Rainy Papademetriou,Vincent Furlong,20
+Christine Hope,0,29,29,30,30,31,30,30,30,23,24,23,23,23,23,3,20
+Sharon Williams Losier,,1,30,32,31,30,30,29,29,24,24,24,24,24,23,0,20
+Joffie C Pittman,,,0,29,30,29,28,28,29,24,24,24,23,24,23,0,20
+Ken Powell,,,,0,29,29,30,27,28,24,23,24,23,24,23,0,20
+Mia Roberts Perez,,,,,1,29,29,29,29,24,24,24,23,24,23,0,20
+Abbe Fletman,,,,,,0,29,29,30,23,24,23,23,23,23,0,20
+Tracy B Roman,,,,,,,0,27,28,23,23,23,23,23,23,0,20
+Kai Scott,,,,,,,,0,29,22,23,22,22,22,22,0,20
+Lyris Younge,,,,,,,,,0,23,24,23,23,23,23,0,20
+Chris Mallios,,,,,,,,,,0,23,24,23,24,23,0,20
+Daine Grey Jr,,,,,,,,,,,0,23,23,23,23,0,20
+Michael Fanning,,,,,,,,,,,,0,23,24,23,0,20
+Scott Diclaudio,,,,,,,,,,,,,0,23,23,0,20
+Stephanie M Sawyer,,,,,,,,,,,,,,0,23,0,20
+Rainy Papademetriou,,,,,,,,,,,,,,,0,0,20
+Vincent Furlong,,,,,,,,,,,,,,,,0,20
+Total,38,37,30,34,33,32,32,31,30,24,24,24,24,24,23,3,20
+,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,Judge Of The Municipal Court,,,21
+,Ken Powell,Abbe Fletman,Kai Scott,Lyris Younge,Mia Roberts Perez,Tracy B Roman,Rainy Papademetriou,Chris Mallios,Daine Grey Jr,Michael Fanning,Stephanie M Sawyer,Scott Diclaudio,Vincent Furlong,Sharon Williams Losier,Joffie C Pittman,Christine Hope,21
+Ken Powell,0,37,37,37,36,35,29,30,30,30,30,29,1,38,36,36,21
+Abbe Fletman,,0,38,37,36,35,30,30,30,30,30,29,1,37,36,36,21
+Kai Scott,,,0,37,36,35,30,30,30,30,30,29,1,37,36,36,21
+Lyris Younge,,,,1,36,35,29,30,30,30,30,29,1,36,36,36,21
+Mia Roberts Perez,,,,,1,34,28,29,29,29,29,28,1,35,35,36,21
+Tracy B Roman,,,,,,0,27,28,28,28,28,28,1,35,36,34,21
+Rainy Papademetriou,,,,,,,1,29,29,29,29,28,0,29,28,28,21
+Chris Mallios,,,,,,,,0,30,30,30,29,1,29,29,29,21
+Daine Grey Jr,,,,,,,,,0,30,30,29,1,29,29,29,21
+Michael Fanning,,,,,,,,,,0,30,29,1,29,29,29,21
+Stephanie M Sawyer,,,,,,,,,,,0,29,1,29,29,29,21
+Scott Diclaudio,,,,,,,,,,,,0,1,29,29,28,21
+Vincent Furlong,,,,,,,,,,,,,1,1,1,1,21
+Sharon Williams Losier,,,,,,,,,,,,,,0,36,35,21
+Joffie C Pittman,,,,,,,,,,,,,,,0,35,21
+Christine Hope,,,,,,,,,,,,,,,,0,21
+Total,39,38,38,38,37,36,31,30,30,30,30,29,2,39,37,36,21
+,Judge Of The Municipal Court,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,22
+,Christine Hope,Sharon Williams Losier,Joffie C Pittman,Ken Powell,Tracy B Roman,Kai Scott,Lyris Younge,Abbe Fletman,Mia Roberts Perez,Chris Mallios,Daine Grey Jr,Michael Fanning,Scott Diclaudio,Stephanie M Sawyer,Rainy Papademetriou,Vincent Furlong,22
+Christine Hope,0,62,61,63,62,61,60,60,60,57,57,57,57,57,56,4,22
+Sharon Williams Losier,,1,62,63,62,62,61,61,61,57,57,57,57,57,56,1,22
+Joffie C Pittman,,,0,62,62,62,61,61,61,57,57,57,57,57,56,2,22
+Ken Powell,,,,1,63,63,62,62,62,57,57,57,57,57,56,1,22
+Tracy B Roman,,,,,0,63,62,62,62,57,57,57,57,57,56,1,22
+Kai Scott,,,,,,0,62,62,62,57,57,57,57,57,56,1,22
+Lyris Younge,,,,,,,1,62,62,57,57,57,57,57,56,1,22
+Abbe Fletman,,,,,,,,0,62,57,57,57,57,57,56,1,22
+Mia Roberts Perez,,,,,,,,,0,57,57,57,57,57,56,1,22
+Chris Mallios,,,,,,,,,,0,57,57,57,57,56,1,22
+Daine Grey Jr,,,,,,,,,,,0,57,57,57,56,1,22
+Michael Fanning,,,,,,,,,,,,0,57,57,56,1,22
+Scott Diclaudio,,,,,,,,,,,,,0,57,56,1,22
+Stephanie M Sawyer,,,,,,,,,,,,,,0,56,1,22
+Rainy Papademetriou,,,,,,,,,,,,,,,0,0,22
+Vincent Furlong,,,,,,,,,,,,,,,,1,22
+Total,68,65,63,67,64,63,63,62,62,57,57,57,57,57,56,6,22
+,Judge Of The Municipal Court,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,23
+,Christine Hope,Sharon Williams Losier,Joffie C Pittman,Tracy B Roman,Ken Powell,Kai Scott,Mia Roberts Perez,Lyris Younge,Abbe Fletman,Stephanie M Sawyer,Daine Grey Jr,Michael Fanning,Rainy Papademetriou,Scott Diclaudio,Chris Mallios,Vincent Furlong,23
+Christine Hope,0,49,47,52,51,49,50,48,47,43,42,41,40,40,39,5,23
+Sharon Williams Losier,,3,47,50,48,46,47,46,45,40,40,39,38,38,37,3,23
+Joffie C Pittman,,,0,46,49,48,46,46,45,39,39,39,38,38,37,3,23
+Tracy B Roman,,,,1,48,49,49,48,47,42,42,41,40,40,39,3,23
+Ken Powell,,,,,0,49,49,48,47,41,41,41,40,40,39,3,23
+Kai Scott,,,,,,1,48,48,47,41,41,41,40,40,39,3,23
+Mia Roberts Perez,,,,,,,0,47,46,42,42,41,40,40,39,3,23
+Lyris Younge,,,,,,,,1,47,41,41,41,40,40,39,3,23
+Abbe Fletman,,,,,,,,,1,41,41,41,40,40,39,3,23
+Stephanie M Sawyer,,,,,,,,,,0,42,41,40,40,39,3,23
+Daine Grey Jr,,,,,,,,,,,0,41,40,40,39,3,23
+Michael Fanning,,,,,,,,,,,,0,40,40,39,3,23
+Rainy Papademetriou,,,,,,,,,,,,,0,39,38,2,23
+Scott Diclaudio,,,,,,,,,,,,,,0,38,2,23
+Chris Mallios,,,,,,,,,,,,,,,0,2,23
+Vincent Furlong,,,,,,,,,,,,,,,,0,23
+Total,61,56,50,57,55,53,52,49,48,43,42,41,40,40,39,5,23
+,Judge Of The Municipal Court,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,24
+,Christine Hope,Sharon Williams Losier,Joffie C Pittman,Ken Powell,Mia Roberts Perez,Tracy B Roman,Kai Scott,Abbe Fletman,Lyris Younge,Chris Mallios,Daine Grey Jr,Rainy Papademetriou,Stephanie M Sawyer,Michael Fanning,Scott Diclaudio,Vincent Furlong,24
+Christine Hope,0,89,87,93,92,88,90,89,87,79,79,78,77,75,76,9,24
+Sharon Williams Losier,,0,87,92,90,92,87,85,85,77,78,77,78,75,74,4,24
+Joffie C Pittman,,,0,89,87,87,86,86,86,77,77,77,75,74,74,2,24
+Ken Powell,,,,0,93,91,91,90,89,81,81,80,80,77,76,3,24
+Mia Roberts Perez,,,,,1,91,88,88,88,79,79,79,79,77,76,3,24
+Tracy B Roman,,,,,,0,89,88,88,80,80,79,81,78,77,3,24
+Kai Scott,,,,,,,0,90,88,80,81,78,78,77,76,3,24
+Abbe Fletman,,,,,,,,0,89,81,80,79,78,78,77,3,24
+Lyris Younge,,,,,,,,,0,81,81,80,79,78,77,3,24
+Chris Mallios,,,,,,,,,,0,80,80,79,78,77,3,24
+Daine Grey Jr,,,,,,,,,,,0,79,79,77,76,3,24
+Rainy Papademetriou,,,,,,,,,,,,1,78,77,76,3,24
+Stephanie M Sawyer,,,,,,,,,,,,,0,78,76,2,24
+Michael Fanning,,,,,,,,,,,,,,0,76,2,24
+Scott Diclaudio,,,,,,,,,,,,,,,0,1,24
+Vincent Furlong,,,,,,,,,,,,,,,,0,24
+Total,105,98,90,98,97,97,93,92,90,82,82,81,81,78,78,10,24
+,Judge Of The Municipal Court,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,25
+,Christine Hope,Sharon Williams Losier,Joffie C Pittman,Mia Roberts Perez,Ken Powell,Tracy B Roman,Kai Scott,Lyris Younge,Abbe Fletman,Daine Grey Jr,Stephanie M Sawyer,Michael Fanning,Rainy Papademetriou,Scott Diclaudio,Chris Mallios,Vincent Furlong,25
+Christine Hope,1,66,65,69,69,66,64,65,64,62,63,62,61,63,59,11,25
+Sharon Williams Losier,,1,67,71,69,67,67,65,67,64,65,63,63,63,61,4,25
+Joffie C Pittman,,,0,67,68,66,66,65,66,62,63,62,62,62,60,4,25
+Mia Roberts Perez,,,,1,69,68,66,66,67,64,64,63,63,63,61,5,25
+Ken Powell,,,,,0,66,65,66,66,62,63,62,62,63,60,5,25
+Tracy B Roman,,,,,,1,64,65,65,64,64,62,62,63,60,4,25
+Kai Scott,,,,,,,0,63,66,62,63,62,61,61,59,3,25
+Lyris Younge,,,,,,,,1,64,61,62,60,61,62,59,3,25
+Abbe Fletman,,,,,,,,,0,63,64,63,62,62,60,4,25
+Daine Grey Jr,,,,,,,,,,1,64,63,61,61,60,4,25
+Stephanie M Sawyer,,,,,,,,,,,0,63,62,62,60,4,25
+Michael Fanning,,,,,,,,,,,,0,62,62,60,4,25
+Rainy Papademetriou,,,,,,,,,,,,,0,62,60,3,25
+Scott Diclaudio,,,,,,,,,,,,,,0,60,4,25
+Chris Mallios,,,,,,,,,,,,,,,0,3,25
+Vincent Furlong,,,,,,,,,,,,,,,,0,25
+Total,82,77,72,76,75,71,69,69,67,66,66,65,64,64,61,11,25
+,Judge Of The Municipal Court,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,26
+,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Ken Powell,Tracy B Roman,Lyris Younge,Kai Scott,Mia Roberts Perez,Abbe Fletman,Daine Grey Jr,Michael Fanning,Stephanie M Sawyer,Chris Mallios,Scott Diclaudio,Rainy Papademetriou,Vincent Furlong,26
+Christine Hope,1,45,46,50,48,46,45,44,45,43,44,43,43,43,42,4,26
+Joffie C Pittman,,0,45,45,46,46,44,46,44,43,42,42,42,41,42,2,26
+Sharon Williams Losier,,,0,46,46,45,43,44,44,44,43,44,43,43,42,2,26
+Ken Powell,,,,0,48,45,45,44,45,43,44,43,43,43,42,3,26
+Tracy B Roman,,,,,0,46,45,45,44,44,44,43,43,42,42,3,26
+Lyris Younge,,,,,,1,44,45,44,44,43,43,43,42,42,2,26
+Kai Scott,,,,,,,0,44,44,42,42,41,42,41,42,1,26
+Mia Roberts Perez,,,,,,,,0,44,43,42,42,42,41,42,1,26
+Abbe Fletman,,,,,,,,,0,42,42,42,42,42,42,1,26
+Daine Grey Jr,,,,,,,,,,0,43,43,43,42,42,2,26
+Michael Fanning,,,,,,,,,,,0,42,43,42,42,3,26
+Stephanie M Sawyer,,,,,,,,,,,,0,42,42,41,1,26
+Chris Mallios,,,,,,,,,,,,,0,42,42,2,26
+Scott Diclaudio,,,,,,,,,,,,,,0,41,2,26
+Rainy Papademetriou,,,,,,,,,,,,,,,0,1,26
+Vincent Furlong,,,,,,,,,,,,,,,,0,26
+Total,55,49,47,51,50,49,46,46,45,44,44,44,43,43,42,5,26
+,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,Judge Of The Municipal Court,,,27
+,Mia Roberts Perez,Kai Scott,Tracy B Roman,Ken Powell,Lyris Younge,Abbe Fletman,Daine Grey Jr,Michael Fanning,Stephanie M Sawyer,Chris Mallios,Rainy Papademetriou,Scott Diclaudio,Vincent Furlong,Christine Hope,Sharon Williams Losier,Joffie C Pittman,27
+Mia Roberts Perez,1,64,62,59,62,60,55,53,54,53,53,53,2,64,62,62,27
+Kai Scott,,0,62,59,62,60,55,53,54,53,53,53,2,62,61,61,27
+Tracy B Roman,,,1,58,61,60,53,52,54,53,53,51,2,61,61,61,27
+Ken Powell,,,,1,59,58,53,53,52,52,52,52,1,57,60,59,27
+Lyris Younge,,,,,0,60,53,53,53,53,53,52,2,60,61,61,27
+Abbe Fletman,,,,,,0,52,52,53,53,53,51,2,58,60,60,27
+Daine Grey Jr,,,,,,,0,53,53,52,52,53,1,53,52,52,27
+Michael Fanning,,,,,,,,0,52,52,52,52,2,52,52,52,27
+Stephanie M Sawyer,,,,,,,,,0,53,53,51,2,52,53,53,27
+Chris Mallios,,,,,,,,,,0,53,51,2,51,53,53,27
+Rainy Papademetriou,,,,,,,,,,,0,51,2,51,53,53,27
+Scott Diclaudio,,,,,,,,,,,,0,0,51,51,51,27
+Vincent Furlong,,,,,,,,,,,,,0,3,2,2,27
+Christine Hope,,,,,,,,,,,,,,0,59,59,27
+Sharon Williams Losier,,,,,,,,,,,,,,,1,61,27
+Joffie C Pittman,,,,,,,,,,,,,,,,0,27
+Total,69,64,64,63,62,60,55,54,54,53,53,53,3,66,65,63,27
+,Judge Of The Municipal Court,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,28
+,Christine Hope,Sharon Williams Losier,Joffie C Pittman,Ken Powell,Tracy B Roman,Abbe Fletman,Kai Scott,Lyris Younge,Mia Roberts Perez,Daine Grey Jr,Stephanie M Sawyer,Rainy Papademetriou,Chris Mallios,Michael Fanning,Scott Diclaudio,Vincent Furlong,28
+Christine Hope,3,97,96,98,98,98,97,97,96,89,90,87,87,86,85,10,28
+Sharon Williams Losier,,0,99,101,102,98,100,98,99,89,87,86,86,86,84,4,28
+Joffie C Pittman,,,0,95,98,98,99,99,98,88,87,86,86,86,84,4,28
+Ken Powell,,,,1,98,98,97,96,96,88,88,86,87,87,85,3,28
+Tracy B Roman,,,,,0,99,100,100,98,88,88,87,87,87,85,4,28
+Abbe Fletman,,,,,,0,100,99,98,88,89,86,87,87,85,3,28
+Kai Scott,,,,,,,0,100,99,89,88,87,87,87,85,4,28
+Lyris Younge,,,,,,,,0,98,89,88,87,87,87,85,4,28
+Mia Roberts Perez,,,,,,,,,0,90,88,86,87,87,85,3,28
+Daine Grey Jr,,,,,,,,,,0,89,87,87,87,86,3,28
+Stephanie M Sawyer,,,,,,,,,,,0,87,87,87,86,3,28
+Rainy Papademetriou,,,,,,,,,,,,1,86,86,85,3,28
+Chris Mallios,,,,,,,,,,,,,0,87,85,3,28
+Michael Fanning,,,,,,,,,,,,,,0,85,3,28
+Scott Diclaudio,,,,,,,,,,,,,,,0,1,28
+Vincent Furlong,,,,,,,,,,,,,,,,1,28
+Total,115,109,103,106,104,102,102,102,101,93,91,89,88,87,86,11,28
+,Judge Of The Municipal Court,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,29
+,Christine Hope,Sharon Williams Losier,Joffie C Pittman,Tracy B Roman,Ken Powell,Mia Roberts Perez,Abbe Fletman,Kai Scott,Lyris Younge,Stephanie M Sawyer,Daine Grey Jr,Michael Fanning,Chris Mallios,Rainy Papademetriou,Scott Diclaudio,Vincent Furlong,29
+Christine Hope,2,55,50,55,54,55,54,53,52,49,46,46,45,45,43,4,29
+Sharon Williams Losier,,2,51,55,53,53,52,50,52,46,44,43,45,45,43,1,29
+Joffie C Pittman,,,0,51,49,49,50,47,49,43,43,42,43,43,43,1,29
+Tracy B Roman,,,,1,51,54,54,51,53,46,46,45,45,45,44,2,29
+Ken Powell,,,,,0,49,49,48,49,45,44,43,43,43,42,1,29
+Mia Roberts Perez,,,,,,0,53,49,53,47,46,45,44,45,43,2,29
+Abbe Fletman,,,,,,,0,50,53,46,46,45,45,46,44,2,29
+Kai Scott,,,,,,,,0,50,44,44,43,45,44,43,1,29
+Lyris Younge,,,,,,,,,0,45,45,44,44,45,43,1,29
+Stephanie M Sawyer,,,,,,,,,,0,46,45,45,46,44,2,29
+Daine Grey Jr,,,,,,,,,,,0,46,45,45,44,2,29
+Michael Fanning,,,,,,,,,,,,0,44,44,43,2,29
+Chris Mallios,,,,,,,,,,,,,0,45,44,2,29
+Rainy Papademetriou,,,,,,,,,,,,,,0,44,2,29
+Scott Diclaudio,,,,,,,,,,,,,,,0,1,29
+Vincent Furlong,,,,,,,,,,,,,,,,0,29
+Total,73,65,53,61,60,58,55,55,54,50,47,47,46,46,44,4,29
+,Judge Of The Municipal Court,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,30
+,Sharon Williams Losier,Christine Hope,Joffie C Pittman,Ken Powell,Mia Roberts Perez,Kai Scott,Abbe Fletman,Lyris Younge,Tracy B Roman,Stephanie M Sawyer,Chris Mallios,Daine Grey Jr,Michael Fanning,Rainy Papademetriou,Scott Diclaudio,Vincent Furlong,30
+Sharon Williams Losier,7,68,69,74,68,65,66,67,66,59,60,58,59,58,57,7,30
+Christine Hope,,0,68,72,69,65,65,64,67,60,59,58,58,58,56,8,30
+Joffie C Pittman,,,0,70,69,66,67,66,67,60,61,59,60,58,57,6,30
+Ken Powell,,,,1,71,69,67,67,67,61,61,59,60,60,57,7,30
+Mia Roberts Perez,,,,,0,67,68,66,66,61,61,60,60,58,57,6,30
+Kai Scott,,,,,,0,64,66,64,58,58,58,58,56,54,4,30
+Abbe Fletman,,,,,,,0,64,64,59,59,58,58,55,55,6,30
+Lyris Younge,,,,,,,,0,64,57,58,58,58,55,55,5,30
+Tracy B Roman,,,,,,,,,0,57,58,56,57,54,56,6,30
+Stephanie M Sawyer,,,,,,,,,,1,60,58,59,56,56,6,30
+Chris Mallios,,,,,,,,,,,0,59,60,57,57,6,30
+Daine Grey Jr,,,,,,,,,,,,0,59,56,55,5,30
+Michael Fanning,,,,,,,,,,,,,0,57,56,5,30
+Rainy Papademetriou,,,,,,,,,,,,,,0,53,3,30
+Scott Diclaudio,,,,,,,,,,,,,,,0,4,30
+Vincent Furlong,,,,,,,,,,,,,,,,1,30
+Total,82,76,71,81,72,69,68,68,68,63,61,60,60,60,57,9,30
+,Judge Of The Municipal Court,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,31
+,Christine Hope,Sharon Williams Losier,Joffie C Pittman,Ken Powell,Tracy B Roman,Lyris Younge,Mia Roberts Perez,Abbe Fletman,Kai Scott,Michael Fanning,Stephanie M Sawyer,Chris Mallios,Rainy Papademetriou,Scott Diclaudio,Daine Grey Jr,Vincent Furlong,31
+Christine Hope,1,72,72,73,76,71,72,72,72,60,59,60,59,59,59,2,31
+Sharon Williams Losier,,0,72,74,71,72,72,73,72,60,60,59,59,61,59,0,31
+Joffie C Pittman,,,0,74,72,71,71,71,72,61,60,60,59,60,59,0,31
+Ken Powell,,,,0,72,73,73,74,74,62,62,60,61,61,60,0,31
+Tracy B Roman,,,,,0,71,71,71,72,60,62,60,60,59,59,0,31
+Lyris Younge,,,,,,0,73,72,73,60,62,61,62,60,61,0,31
+Mia Roberts Perez,,,,,,,1,73,74,60,61,60,60,60,60,0,31
+Abbe Fletman,,,,,,,,1,73,61,61,60,60,61,60,0,31
+Kai Scott,,,,,,,,,0,60,61,60,60,60,60,0,31
+Michael Fanning,,,,,,,,,,0,60,61,60,61,60,0,31
+Stephanie M Sawyer,,,,,,,,,,,0,60,61,60,60,0,31
+Chris Mallios,,,,,,,,,,,,0,61,60,61,0,31
+Rainy Papademetriou,,,,,,,,,,,,,0,60,61,0,31
+Scott Diclaudio,,,,,,,,,,,,,,0,60,0,31
+Daine Grey Jr,,,,,,,,,,,,,,,0,0,31
+Vincent Furlong,,,,,,,,,,,,,,,,0,31
+Total,88,78,77,82,80,77,77,76,76,63,63,62,62,62,61,2,31
+,Judge Of The Municipal Court,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,32
+,Christine Hope,Sharon Williams Losier,Joffie C Pittman,Mia Roberts Perez,Tracy B Roman,Ken Powell,Kai Scott,Abbe Fletman,Lyris Younge,Stephanie M Sawyer,Chris Mallios,Daine Grey Jr,Michael Fanning,Rainy Papademetriou,Scott Diclaudio,Vincent Furlong,32
+Christine Hope,0,106,102,109,106,106,107,101,103,83,80,80,79,77,74,8,32
+Sharon Williams Losier,,0,103,107,107,107,106,102,103,83,82,81,82,79,76,5,32
+Joffie C Pittman,,,0,102,101,101,101,99,99,80,78,79,78,76,74,5,32
+Mia Roberts Perez,,,,0,109,107,109,106,105,84,80,81,80,77,76,7,32
+Tracy B Roman,,,,,2,108,107,106,106,83,82,81,81,79,77,6,32
+Ken Powell,,,,,,0,106,106,105,81,80,79,79,77,76,7,32
+Kai Scott,,,,,,,0,106,105,85,82,83,82,79,77,6,32
+Abbe Fletman,,,,,,,,0,103,81,79,80,79,76,76,6,32
+Lyris Younge,,,,,,,,,0,81,80,80,80,77,75,5,32
+Stephanie M Sawyer,,,,,,,,,,0,82,83,82,80,77,6,32
+Chris Mallios,,,,,,,,,,,0,82,82,79,77,4,32
+Daine Grey Jr,,,,,,,,,,,,0,82,79,77,4,32
+Michael Fanning,,,,,,,,,,,,,0,79,77,4,32
+Rainy Papademetriou,,,,,,,,,,,,,,0,75,3,32
+Scott Diclaudio,,,,,,,,,,,,,,,0,5,32
+Vincent Furlong,,,,,,,,,,,,,,,,0,32
+Total,119,116,104,116,116,115,114,109,107,87,83,83,83,81,78,10,32
+,Judge Of The Municipal Court,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,33
+,Christine Hope,Sharon Williams Losier,Joffie C Pittman,Kai Scott,Ken Powell,Mia Roberts Perez,Lyris Younge,Tracy B Roman,Abbe Fletman,Chris Mallios,Daine Grey Jr,Michael Fanning,Rainy Papademetriou,Scott Diclaudio,Stephanie M Sawyer,Vincent Furlong,33
+Christine Hope,0,42,40,43,41,42,42,41,40,38,37,37,36,37,37,2,33
+Sharon Williams Losier,,0,40,41,43,43,42,41,40,37,37,37,36,37,37,1,33
+Joffie C Pittman,,,0,40,40,40,40,39,39,37,37,37,36,37,37,2,33
+Kai Scott,,,,0,41,41,41,39,40,37,37,37,36,37,37,1,33
+Ken Powell,,,,,0,42,41,40,40,37,37,37,36,37,37,1,33
+Mia Roberts Perez,,,,,,0,42,40,40,37,37,37,36,37,37,1,33
+Lyris Younge,,,,,,,0,40,40,37,37,37,36,37,37,1,33
+Tracy B Roman,,,,,,,,0,39,37,37,37,36,37,37,1,33
+Abbe Fletman,,,,,,,,,0,37,37,37,36,37,37,1,33
+Chris Mallios,,,,,,,,,,0,37,37,36,37,37,1,33
+Daine Grey Jr,,,,,,,,,,,0,37,36,37,37,1,33
+Michael Fanning,,,,,,,,,,,,0,36,37,37,1,33
+Rainy Papademetriou,,,,,,,,,,,,,1,36,36,0,33
+Scott Diclaudio,,,,,,,,,,,,,,0,37,1,33
+Stephanie M Sawyer,,,,,,,,,,,,,,,0,1,33
+Vincent Furlong,,,,,,,,,,,,,,,,0,33
+Total,47,44,41,43,43,43,42,42,40,38,37,37,37,37,37,3,33
+,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,Judge Of The Municipal Court,,,34
+,Ken Powell,Tracy B Roman,Abbe Fletman,Kai Scott,Lyris Younge,Mia Roberts Perez,Daine Grey Jr,Michael Fanning,Stephanie M Sawyer,Chris Mallios,Scott Diclaudio,Rainy Papademetriou,Vincent Furlong,Christine Hope,Joffie C Pittman,Sharon Williams Losier,34
+Ken Powell,3,61,59,61,59,58,55,55,55,54,53,52,4,57,58,59,34
+Tracy B Roman,,0,59,61,59,58,55,55,54,54,53,52,4,58,58,58,34
+Abbe Fletman,,,0,59,59,58,55,55,54,54,54,52,4,57,58,57,34
+Kai Scott,,,,0,59,58,55,55,54,54,53,52,4,57,58,58,34
+Lyris Younge,,,,,0,57,56,56,54,54,54,52,4,56,57,56,34
+Mia Roberts Perez,,,,,,0,53,53,53,53,52,51,3,55,56,56,34
+Daine Grey Jr,,,,,,,0,56,54,54,54,52,4,52,54,53,34
+Michael Fanning,,,,,,,,0,54,54,54,52,4,52,54,53,34
+Stephanie M Sawyer,,,,,,,,,0,54,53,52,4,52,53,54,34
+Chris Mallios,,,,,,,,,,0,53,52,4,52,53,53,34
+Scott Diclaudio,,,,,,,,,,,0,51,3,51,53,52,34
+Rainy Papademetriou,,,,,,,,,,,,0,2,51,52,52,34
+Vincent Furlong,,,,,,,,,,,,,0,5,3,3,34
+Christine Hope,,,,,,,,,,,,,,1,56,56,34
+Joffie C Pittman,,,,,,,,,,,,,,,1,58,34
+Sharon Williams Losier,,,,,,,,,,,,,,,,1,34
+Total,65,62,61,61,61,58,56,56,55,54,54,52,6,63,60,60,34
+,Judge Of The Municipal Court,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,35
+,Christine Hope,Sharon Williams Losier,Joffie C Pittman,Ken Powell,Kai Scott,Tracy B Roman,Mia Roberts Perez,Abbe Fletman,Lyris Younge,Michael Fanning,Scott Diclaudio,Stephanie M Sawyer,Daine Grey Jr,Rainy Papademetriou,Chris Mallios,Vincent Furlong,35
+Christine Hope,0,66,65,68,66,66,65,64,63,58,56,57,55,52,52,8,35
+Sharon Williams Losier,,2,65,67,67,67,67,64,63,57,55,57,56,53,52,3,35
+Joffie C Pittman,,,0,66,63,64,62,63,62,56,54,56,55,52,52,3,35
+Ken Powell,,,,1,67,66,65,65,64,58,55,58,55,53,53,3,35
+Kai Scott,,,,,1,66,66,64,63,58,55,59,56,54,53,3,35
+Tracy B Roman,,,,,,0,66,64,63,55,53,57,56,54,53,2,35
+Mia Roberts Perez,,,,,,,0,64,63,55,53,57,56,54,53,3,35
+Abbe Fletman,,,,,,,,0,65,55,54,55,55,53,53,3,35
+Lyris Younge,,,,,,,,,1,54,53,54,54,52,52,2,35
+Michael Fanning,,,,,,,,,,1,56,57,55,53,52,4,35
+Scott Diclaudio,,,,,,,,,,,2,55,53,53,52,4,35
+Stephanie M Sawyer,,,,,,,,,,,,0,56,54,53,3,35
+Daine Grey Jr,,,,,,,,,,,,,0,53,52,3,35
+Rainy Papademetriou,,,,,,,,,,,,,,0,52,2,35
+Chris Mallios,,,,,,,,,,,,,,,0,1,35
+Vincent Furlong,,,,,,,,,,,,,,,,0,35
+Total,76,76,68,74,70,70,69,66,66,61,60,59,57,54,53,8,35
+,Judge Of The Municipal Court,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,36
+,Christine Hope,Sharon Williams Losier,Joffie C Pittman,Mia Roberts Perez,Lyris Younge,Kai Scott,Ken Powell,Tracy B Roman,Abbe Fletman,Stephanie M Sawyer,Rainy Papademetriou,Daine Grey Jr,Michael Fanning,Scott Diclaudio,Chris Mallios,Vincent Furlong,36
+Christine Hope,0,63,63,61,64,61,64,62,59,55,54,53,53,50,52,3,36
+Sharon Williams Losier,,0,65,62,65,63,63,62,61,57,56,54,54,52,53,1,36
+Joffie C Pittman,,,0,62,64,63,61,61,60,57,56,53,53,51,52,1,36
+Mia Roberts Perez,,,,1,62,63,61,61,60,55,55,54,53,53,52,1,36
+Lyris Younge,,,,,0,63,63,63,61,57,55,54,53,51,52,1,36
+Kai Scott,,,,,,0,60,60,60,56,55,53,52,51,51,1,36
+Ken Powell,,,,,,,0,62,60,54,53,53,53,50,52,1,36
+Tracy B Roman,,,,,,,,1,60,54,53,53,52,50,51,1,36
+Abbe Fletman,,,,,,,,,0,52,52,51,51,51,50,1,36
+Stephanie M Sawyer,,,,,,,,,,0,57,55,54,52,53,1,36
+Rainy Papademetriou,,,,,,,,,,,0,54,54,52,53,1,36
+Daine Grey Jr,,,,,,,,,,,,0,53,51,52,0,36
+Michael Fanning,,,,,,,,,,,,,0,51,53,1,36
+Scott Diclaudio,,,,,,,,,,,,,,0,51,1,36
+Chris Mallios,,,,,,,,,,,,,,,0,1,36
+Vincent Furlong,,,,,,,,,,,,,,,,2,36
+Total,72,67,66,68,67,66,66,65,61,59,57,56,54,54,53,5,36
+,Judge Of The Municipal Court,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,37
+,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Ken Powell,Tracy B Roman,Mia Roberts Perez,Kai Scott,Abbe Fletman,Lyris Younge,Stephanie M Sawyer,Michael Fanning,Chris Mallios,Daine Grey Jr,Rainy Papademetriou,Scott Diclaudio,Vincent Furlong,37
+Christine Hope,2,113,107,126,120,117,114,118,115,105,104,100,101,97,96,16,37
+Joffie C Pittman,,2,109,116,110,112,109,110,109,101,98,97,97,96,92,8,37
+Sharon Williams Losier,,,0,113,111,110,108,104,105,99,93,94,93,92,91,7,37
+Ken Powell,,,,1,122,121,118,119,121,106,105,101,103,100,97,6,37
+Tracy B Roman,,,,,0,121,115,115,116,101,100,98,98,98,95,6,37
+Mia Roberts Perez,,,,,,0,117,117,118,103,102,102,101,100,96,8,37
+Kai Scott,,,,,,,1,116,116,101,98,99,98,96,93,4,37
+Abbe Fletman,,,,,,,,0,119,100,102,100,101,98,96,5,37
+Lyris Younge,,,,,,,,,1,100,103,100,101,98,95,4,37
+Stephanie M Sawyer,,,,,,,,,,0,102,102,101,98,96,8,37
+Michael Fanning,,,,,,,,,,,0,102,102,100,96,6,37
+Chris Mallios,,,,,,,,,,,,0,100,99,96,7,37
+Daine Grey Jr,,,,,,,,,,,,,0,98,96,5,37
+Rainy Papademetriou,,,,,,,,,,,,,,0,93,4,37
+Scott Diclaudio,,,,,,,,,,,,,,,2,5,37
+Vincent Furlong,,,,,,,,,,,,,,,,0,37
+Total,149,122,119,140,133,127,125,123,123,110,107,104,104,101,100,17,37
+,Judge Of The Municipal Court,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,38
+,Christine Hope,Sharon Williams Losier,Joffie C Pittman,Ken Powell,Mia Roberts Perez,Tracy B Roman,Kai Scott,Lyris Younge,Abbe Fletman,Stephanie M Sawyer,Daine Grey Jr,Michael Fanning,Chris Mallios,Rainy Papademetriou,Scott Diclaudio,Vincent Furlong,38
+Christine Hope,6,142,138,145,145,142,140,137,138,117,113,110,108,106,105,15,38
+Sharon Williams Losier,,0,138,142,144,143,136,134,133,114,110,107,106,103,103,12,38
+Joffie C Pittman,,,0,140,138,139,134,135,134,113,114,111,107,106,103,11,38
+Ken Powell,,,,5,143,142,140,142,142,115,114,114,109,107,108,11,38
+Mia Roberts Perez,,,,,4,144,141,142,141,119,116,114,112,108,107,13,38
+Tracy B Roman,,,,,,2,139,141,137,112,112,109,107,104,105,11,38
+Kai Scott,,,,,,,0,140,141,112,111,109,107,107,105,9,38
+Lyris Younge,,,,,,,,2,141,112,114,112,109,108,108,12,38
+Abbe Fletman,,,,,,,,,0,114,113,112,110,110,109,12,38
+Stephanie M Sawyer,,,,,,,,,,1,114,112,108,107,106,11,38
+Daine Grey Jr,,,,,,,,,,,0,112,110,106,105,12,38
+Michael Fanning,,,,,,,,,,,,0,108,106,106,11,38
+Chris Mallios,,,,,,,,,,,,,0,104,104,11,38
+Rainy Papademetriou,,,,,,,,,,,,,,0,103,8,38
+Scott Diclaudio,,,,,,,,,,,,,,,0,8,38
+Vincent Furlong,,,,,,,,,,,,,,,,0,38
+Total,172,157,153,165,163,160,152,151,148,124,119,115,112,110,109,16,38
+,Judge Of The Municipal Court,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,39
+,Christine Hope,Sharon Williams Losier,Joffie C Pittman,Mia Roberts Perez,Ken Powell,Abbe Fletman,Kai Scott,Tracy B Roman,Lyris Younge,Michael Fanning,Daine Grey Jr,Stephanie M Sawyer,Rainy Papademetriou,Scott Diclaudio,Chris Mallios,Vincent Furlong,39
+Christine Hope,2,52,53,54,51,52,53,52,50,48,48,48,48,44,45,3,39
+Sharon Williams Losier,,0,54,55,55,55,54,54,52,47,48,48,47,45,46,2,39
+Joffie C Pittman,,,0,53,52,53,53,52,52,47,48,48,47,45,46,2,39
+Mia Roberts Perez,,,,1,55,55,55,55,52,49,50,49,49,46,47,2,39
+Ken Powell,,,,,3,55,54,54,52,47,48,48,47,45,46,1,39
+Abbe Fletman,,,,,,0,56,54,53,47,48,48,47,45,46,1,39
+Kai Scott,,,,,,,0,53,52,47,48,48,48,45,46,1,39
+Tracy B Roman,,,,,,,,0,52,48,48,48,47,45,45,2,39
+Lyris Younge,,,,,,,,,0,46,46,46,45,45,45,1,39
+Michael Fanning,,,,,,,,,,0,49,48,46,47,46,2,39
+Daine Grey Jr,,,,,,,,,,,0,49,47,46,47,2,39
+Stephanie M Sawyer,,,,,,,,,,,,1,47,45,46,2,39
+Rainy Papademetriou,,,,,,,,,,,,,0,43,45,2,39
+Scott Diclaudio,,,,,,,,,,,,,,1,45,0,39
+Chris Mallios,,,,,,,,,,,,,,,0,1,39
+Vincent Furlong,,,,,,,,,,,,,,,,0,39
+Total,61,59,55,60,59,58,58,56,53,51,50,50,49,48,47,3,39
+,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,Judge Of The Municipal Court,,,40
+,Kai Scott,Mia Roberts Perez,Lyris Younge,Ken Powell,Tracy B Roman,Abbe Fletman,Stephanie M Sawyer,Daine Grey Jr,Michael Fanning,Rainy Papademetriou,Scott Diclaudio,Chris Mallios,Vincent Furlong,Christine Hope,Sharon Williams Losier,Joffie C Pittman,40
+Kai Scott,2,167,167,158,162,155,149,143,144,139,132,125,11,158,159,160,40
+Mia Roberts Perez,,2,160,162,158,155,145,142,141,138,129,124,12,159,158,159,40
+Lyris Younge,,,1,157,157,155,146,141,141,138,130,124,11,155,153,154,40
+Ken Powell,,,,1,155,154,142,143,141,135,131,124,12,157,155,153,40
+Tracy B Roman,,,,,0,152,146,142,141,135,130,121,11,157,157,155,40
+Abbe Fletman,,,,,,0,138,137,136,134,127,121,9,148,149,150,40
+Stephanie M Sawyer,,,,,,,1,143,142,141,132,125,9,139,141,142,40
+Daine Grey Jr,,,,,,,,0,139,138,130,122,8,138,140,138,40
+Michael Fanning,,,,,,,,,0,137,132,126,9,135,136,137,40
+Rainy Papademetriou,,,,,,,,,,0,131,124,9,132,135,135,40
+Scott Diclaudio,,,,,,,,,,,0,122,6,127,128,131,40
+Chris Mallios,,,,,,,,,,,,1,7,122,123,124,40
+Vincent Furlong,,,,,,,,,,,,,0,14,10,12,40
+Christine Hope,,,,,,,,,,,,,,0,152,152,40
+Sharon Williams Losier,,,,,,,,,,,,,,,1,158,40
+Joffie C Pittman,,,,,,,,,,,,,,,,1,40
+Total,180,178,175,174,174,159,156,152,147,143,139,130,16,176,173,168,40
+,Judge Of The Municipal Court,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,41
+,Christine Hope,Sharon Williams Losier,Joffie C Pittman,Ken Powell,Kai Scott,Tracy B Roman,Mia Roberts Perez,Lyris Younge,Abbe Fletman,Michael Fanning,Stephanie M Sawyer,Chris Mallios,Daine Grey Jr,Rainy Papademetriou,Scott Diclaudio,Vincent Furlong,41
+Christine Hope,2,95,96,99,98,97,99,95,94,91,92,91,91,91,91,1,41
+Sharon Williams Losier,,0,95,96,94,96,95,93,93,89,89,89,89,89,89,0,41
+Joffie C Pittman,,,0,96,95,94,96,93,93,90,90,89,90,89,89,0,41
+Ken Powell,,,,0,98,97,97,95,94,91,92,91,91,91,91,1,41
+Kai Scott,,,,,1,97,98,96,94,91,92,91,91,91,91,1,41
+Tracy B Roman,,,,,,0,97,96,94,91,91,91,90,91,91,1,41
+Mia Roberts Perez,,,,,,,0,96,94,91,92,91,91,91,91,1,41
+Lyris Younge,,,,,,,,1,93,89,90,90,89,90,90,1,41
+Abbe Fletman,,,,,,,,,0,90,90,90,90,90,90,0,41
+Michael Fanning,,,,,,,,,,0,91,90,91,90,90,0,41
+Stephanie M Sawyer,,,,,,,,,,,0,91,91,91,91,1,41
+Chris Mallios,,,,,,,,,,,,0,90,91,91,1,41
+Daine Grey Jr,,,,,,,,,,,,,0,90,90,0,41
+Rainy Papademetriou,,,,,,,,,,,,,,0,91,1,41
+Scott Diclaudio,,,,,,,,,,,,,,,0,1,41
+Vincent Furlong,,,,,,,,,,,,,,,,0,41
+Total,105,98,97,103,101,101,100,97,94,92,92,91,91,91,91,1,41
+,Judge Of The Municipal Court,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,42
+,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Ken Powell,Kai Scott,Mia Roberts Perez,Tracy B Roman,Lyris Younge,Abbe Fletman,Stephanie M Sawyer,Chris Mallios,Michael Fanning,Rainy Papademetriou,Daine Grey Jr,Scott Diclaudio,Vincent Furlong,42
+Christine Hope,2,88,83,90,92,93,88,88,84,80,77,78,77,77,76,11,42
+Joffie C Pittman,,0,85,90,92,91,91,91,88,79,78,77,78,76,75,6,42
+Sharon Williams Losier,,,0,89,88,83,85,83,82,75,73,72,73,72,73,6,42
+Ken Powell,,,,0,94,92,95,92,91,84,81,80,81,79,77,5,42
+Kai Scott,,,,,0,95,93,94,93,84,81,80,82,81,78,6,42
+Mia Roberts Perez,,,,,,0,92,94,90,84,81,80,81,81,77,6,42
+Tracy B Roman,,,,,,,2,92,91,81,79,78,79,77,78,5,42
+Lyris Younge,,,,,,,,0,89,82,79,78,80,80,76,5,42
+Abbe Fletman,,,,,,,,,0,80,79,78,80,77,76,5,42
+Stephanie M Sawyer,,,,,,,,,,0,81,80,81,80,77,3,42
+Chris Mallios,,,,,,,,,,,0,79,81,78,76,3,42
+Michael Fanning,,,,,,,,,,,,0,80,77,74,4,42
+Rainy Papademetriou,,,,,,,,,,,,,0,79,76,4,42
+Daine Grey Jr,,,,,,,,,,,,,,0,74,4,42
+Scott Diclaudio,,,,,,,,,,,,,,,1,4,42
+Vincent Furlong,,,,,,,,,,,,,,,,0,42
+Total,111,97,97,106,105,104,104,98,94,86,82,82,82,81,81,11,42
+,Judge Of The Municipal Court,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,43
+,Christine Hope,Sharon Williams Losier,Joffie C Pittman,Ken Powell,Tracy B Roman,Kai Scott,Abbe Fletman,Mia Roberts Perez,Lyris Younge,Stephanie M Sawyer,Daine Grey Jr,Scott Diclaudio,Chris Mallios,Michael Fanning,Rainy Papademetriou,Vincent Furlong,43
+Christine Hope,1,52,51,55,54,52,53,51,52,47,47,47,47,47,47,5,43
+Sharon Williams Losier,,0,51,54,53,53,52,52,51,48,48,46,46,45,46,1,43
+Joffie C Pittman,,,0,51,51,51,51,50,51,46,46,45,46,45,46,1,43
+Ken Powell,,,,0,54,53,53,52,52,47,48,48,47,47,47,2,43
+Tracy B Roman,,,,,0,54,53,53,52,49,48,48,47,47,47,2,43
+Kai Scott,,,,,,0,53,52,52,49,49,47,47,46,47,2,43
+Abbe Fletman,,,,,,,0,51,52,48,48,47,47,47,47,2,43
+Mia Roberts Perez,,,,,,,,0,50,46,46,46,45,45,45,0,43
+Lyris Younge,,,,,,,,,0,47,47,46,47,46,47,2,43
+Stephanie M Sawyer,,,,,,,,,,0,48,46,47,46,47,2,43
+Daine Grey Jr,,,,,,,,,,,0,47,47,46,47,2,43
+Scott Diclaudio,,,,,,,,,,,,1,46,47,46,2,43
+Chris Mallios,,,,,,,,,,,,,0,46,47,2,43
+Michael Fanning,,,,,,,,,,,,,,0,46,2,43
+Rainy Papademetriou,,,,,,,,,,,,,,,0,2,43
+Vincent Furlong,,,,,,,,,,,,,,,,1,43
+Total,60,57,51,57,57,55,54,54,52,50,49,49,47,47,47,6,43
+,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,Judge Of The Municipal Court,,,44
+,Ken Powell,Tracy B Roman,Mia Roberts Perez,Lyris Younge,Kai Scott,Abbe Fletman,Daine Grey Jr,Michael Fanning,Chris Mallios,Stephanie M Sawyer,Scott Diclaudio,Rainy Papademetriou,Vincent Furlong,Christine Hope,Sharon Williams Losier,Joffie C Pittman,44
+Ken Powell,3,135,131,129,129,128,111,113,111,112,107,107,8,134,135,126,44
+Tracy B Roman,,0,134,133,132,129,111,112,110,110,107,105,9,135,133,130,44
+Mia Roberts Perez,,,0,128,129,126,110,109,107,107,105,104,7,130,133,128,44
+Lyris Younge,,,,0,130,127,109,108,108,108,105,105,8,132,127,126,44
+Kai Scott,,,,,0,127,108,107,108,107,105,104,6,131,128,125,44
+Abbe Fletman,,,,,,0,111,109,109,108,105,104,6,128,127,125,44
+Daine Grey Jr,,,,,,,0,109,110,109,106,105,8,112,110,109,44
+Michael Fanning,,,,,,,,0,108,109,106,104,8,112,110,111,44
+Chris Mallios,,,,,,,,,0,109,108,105,7,113,107,108,44
+Stephanie M Sawyer,,,,,,,,,,0,105,106,6,111,109,110,44
+Scott Diclaudio,,,,,,,,,,,0,103,7,109,105,105,44
+Rainy Papademetriou,,,,,,,,,,,,0,5,107,103,104,44
+Vincent Furlong,,,,,,,,,,,,,0,9,8,7,44
+Christine Hope,,,,,,,,,,,,,,3,131,129,44
+Sharon Williams Losier,,,,,,,,,,,,,,,1,128,44
+Joffie C Pittman,,,,,,,,,,,,,,,,0,44
+Total,149,144,141,137,136,135,115,115,114,114,111,109,9,146,146,137,44
+,Judge Of The Municipal Court,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,45
+,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Ken Powell,Kai Scott,Mia Roberts Perez,Tracy B Roman,Lyris Younge,Stephanie M Sawyer,Abbe Fletman,Daine Grey Jr,Chris Mallios,Michael Fanning,Scott Diclaudio,Rainy Papademetriou,Vincent Furlong,45
+Christine Hope,1,125,122,128,126,129,124,121,106,107,104,104,104,106,100,13,45
+Joffie C Pittman,,0,126,129,125,128,122,127,108,108,104,107,105,103,102,9,45
+Sharon Williams Losier,,,0,127,126,128,123,121,109,105,105,102,103,102,101,6,45
+Ken Powell,,,,1,131,133,126,126,108,109,106,108,108,106,101,11,45
+Kai Scott,,,,,0,132,125,127,108,108,107,108,107,105,102,10,45
+Mia Roberts Perez,,,,,,0,128,127,111,109,107,107,109,106,104,11,45
+Tracy B Roman,,,,,,,0,122,109,106,105,105,105,103,101,8,45
+Lyris Younge,,,,,,,,0,109,108,105,108,106,104,102,10,45
+Stephanie M Sawyer,,,,,,,,,1,98,107,105,105,104,102,9,45
+Abbe Fletman,,,,,,,,,,0,95,96,96,96,93,5,45
+Daine Grey Jr,,,,,,,,,,,0,103,103,102,100,6,45
+Chris Mallios,,,,,,,,,,,,0,107,105,102,10,45
+Michael Fanning,,,,,,,,,,,,,0,105,102,10,45
+Scott Diclaudio,,,,,,,,,,,,,,0,101,9,45
+Rainy Papademetriou,,,,,,,,,,,,,,,0,6,45
+Vincent Furlong,,,,,,,,,,,,,,,,0,45
+Total,146,137,136,144,140,140,135,131,115,111,111,110,110,110,107,15,45
+,Judge Of The Municipal Court,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,46
+,Christine Hope,Sharon Williams Losier,Joffie C Pittman,Ken Powell,Tracy B Roman,Kai Scott,Mia Roberts Perez,Lyris Younge,Abbe Fletman,Daine Grey Jr,Stephanie M Sawyer,Michael Fanning,Scott Diclaudio,Chris Mallios,Rainy Papademetriou,Vincent Furlong,46
+Christine Hope,0,127,132,128,127,128,128,124,122,114,110,109,108,107,106,15,46
+Sharon Williams Losier,,3,128,127,127,128,124,124,120,110,109,106,106,106,104,6,46
+Joffie C Pittman,,,0,126,126,127,126,124,122,111,108,108,107,108,104,8,46
+Ken Powell,,,,0,127,126,123,124,122,112,107,109,108,107,105,9,46
+Tracy B Roman,,,,,3,128,125,125,123,111,110,109,108,108,106,8,46
+Kai Scott,,,,,,1,125,125,122,111,109,108,108,107,104,7,46
+Mia Roberts Perez,,,,,,,1,121,120,108,109,107,107,106,103,7,46
+Lyris Younge,,,,,,,,0,122,111,107,108,107,106,105,7,46
+Abbe Fletman,,,,,,,,,0,107,105,107,106,106,103,7,46
+Daine Grey Jr,,,,,,,,,,1,108,108,107,106,105,7,46
+Stephanie M Sawyer,,,,,,,,,,,1,106,106,105,103,6,46
+Michael Fanning,,,,,,,,,,,,0,108,106,104,8,46
+Scott Diclaudio,,,,,,,,,,,,,0,105,103,7,46
+Chris Mallios,,,,,,,,,,,,,,0,102,6,46
+Rainy Papademetriou,,,,,,,,,,,,,,,0,5,46
+Vincent Furlong,,,,,,,,,,,,,,,,1,46
+Total,145,141,136,141,139,136,132,129,124,117,114,109,109,108,107,16,46
+,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,Judge Of The Municipal Court,,,47
+,Ken Powell,Mia Roberts Perez,Tracy B Roman,Kai Scott,Lyris Younge,Abbe Fletman,Stephanie M Sawyer,Michael Fanning,Chris Mallios,Daine Grey Jr,Scott Diclaudio,Rainy Papademetriou,Vincent Furlong,Sharon Williams Losier,Joffie C Pittman,Christine Hope,47
+Ken Powell,0,28,28,27,28,27,24,24,23,23,23,22,0,30,28,27,47
+Mia Roberts Perez,,1,28,27,28,27,24,24,23,23,23,22,0,26,28,27,47
+Tracy B Roman,,,0,27,28,27,24,24,23,23,23,22,0,27,28,27,47
+Kai Scott,,,,1,27,27,24,24,23,23,23,22,0,26,27,26,47
+Lyris Younge,,,,,0,27,24,24,23,23,23,22,0,26,28,27,47
+Abbe Fletman,,,,,,0,24,24,23,23,23,22,0,26,27,26,47
+Stephanie M Sawyer,,,,,,,1,24,23,23,23,22,0,23,24,23,47
+Michael Fanning,,,,,,,,0,23,23,23,22,0,23,24,23,47
+Chris Mallios,,,,,,,,,0,22,23,22,0,23,23,23,47
+Daine Grey Jr,,,,,,,,,,0,22,22,0,22,23,22,47
+Scott Diclaudio,,,,,,,,,,,0,22,0,23,23,23,47
+Rainy Papademetriou,,,,,,,,,,,,0,0,22,22,22,47
+Vincent Furlong,,,,,,,,,,,,,0,0,0,0,47
+Sharon Williams Losier,,,,,,,,,,,,,,1,26,26,47
+Joffie C Pittman,,,,,,,,,,,,,,,0,27,47
+Christine Hope,,,,,,,,,,,,,,,,0,47
+Total,32,29,29,28,28,27,25,24,23,23,23,22,0,32,28,27,47
+,Judge Of The Municipal Court,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,48
+,Christine Hope,Sharon Williams Losier,Joffie C Pittman,Ken Powell,Tracy B Roman,Mia Roberts Perez,Lyris Younge,Kai Scott,Abbe Fletman,Stephanie M Sawyer,Daine Grey Jr,Michael Fanning,Scott Diclaudio,Chris Mallios,Rainy Papademetriou,Vincent Furlong,48
+Christine Hope,0,120,116,119,121,118,116,116,112,109,106,105,104,102,102,12,48
+Sharon Williams Losier,,0,117,121,116,115,118,114,112,107,105,106,104,102,102,9,48
+Joffie C Pittman,,,0,114,112,113,113,110,109,104,103,104,102,100,100,7,48
+Ken Powell,,,,1,118,115,115,116,112,108,104,105,102,102,102,8,48
+Tracy B Roman,,,,,1,115,113,115,112,108,103,106,103,102,103,9,48
+Mia Roberts Perez,,,,,,0,113,113,109,106,104,103,103,102,102,9,48
+Lyris Younge,,,,,,,0,114,111,106,105,104,102,102,102,8,48
+Kai Scott,,,,,,,,0,111,104,102,103,102,102,102,8,48
+Abbe Fletman,,,,,,,,,0,102,101,103,99,100,100,6,48
+Stephanie M Sawyer,,,,,,,,,,0,105,105,102,101,102,7,48
+Daine Grey Jr,,,,,,,,,,,0,102,100,100,100,5,48
+Michael Fanning,,,,,,,,,,,,0,102,102,103,7,48
+Scott Diclaudio,,,,,,,,,,,,,0,100,101,6,48
+Chris Mallios,,,,,,,,,,,,,,1,101,6,48
+Rainy Papademetriou,,,,,,,,,,,,,,,0,7,48
+Vincent Furlong,,,,,,,,,,,,,,,,0,48
+Total,132,129,121,128,126,122,120,117,113,112,107,107,106,103,103,14,48
+,Judge Of The Municipal Court,,,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,49
+,Christine Hope,Joffie C Pittman,Sharon Williams Losier,Ken Powell,Tracy B Roman,Kai Scott,Mia Roberts Perez,Lyris Younge,Abbe Fletman,Daine Grey Jr,Chris Mallios,Stephanie M Sawyer,Michael Fanning,Scott Diclaudio,Rainy Papademetriou,Vincent Furlong,49
+Christine Hope,2,106,104,112,112,106,107,110,109,96,95,95,94,95,92,19,49
+Joffie C Pittman,,0,105,105,104,106,105,107,106,94,94,96,95,93,92,6,49
+Sharon Williams Losier,,,1,103,103,103,102,103,102,92,93,95,93,93,91,4,49
+Ken Powell,,,,3,106,107,108,108,108,94,93,94,92,93,91,4,49
+Tracy B Roman,,,,,1,105,105,107,106,94,93,93,92,93,90,5,49
+Kai Scott,,,,,,2,107,107,107,94,93,94,93,92,90,3,49
+Mia Roberts Perez,,,,,,,2,107,108,94,93,93,93,93,90,4,49
+Lyris Younge,,,,,,,,0,109,94,93,95,93,93,91,4,49
+Abbe Fletman,,,,,,,,,0,95,93,95,94,94,91,6,49
+Daine Grey Jr,,,,,,,,,,0,92,93,94,92,91,6,49
+Chris Mallios,,,,,,,,,,,1,93,93,93,91,6,49
+Stephanie M Sawyer,,,,,,,,,,,,0,94,93,90,4,49
+Michael Fanning,,,,,,,,,,,,,0,92,90,5,49
+Scott Diclaudio,,,,,,,,,,,,,,0,90,6,49
+Rainy Papademetriou,,,,,,,,,,,,,,,0,3,49
+Vincent Furlong,,,,,,,,,,,,,,,,2,49
+Total,139,111,111,120,115,114,114,112,111,100,98,98,97,96,92,23,49
+,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,Judge Of The Municipal Court,,,50
+,Ken Powell,Kai Scott,Mia Roberts Perez,Lyris Younge,Tracy B Roman,Abbe Fletman,Stephanie M Sawyer,Chris Mallios,Michael Fanning,Daine Grey Jr,Rainy Papademetriou,Scott Diclaudio,Vincent Furlong,Christine Hope,Sharon Williams Losier,Joffie C Pittman,50
+Ken Powell,3,123,123,122,122,122,109,108,109,108,107,106,3,119,122,117,50
+Kai Scott,,2,126,125,122,123,111,110,111,110,107,107,4,117,121,120,50
+Mia Roberts Perez,,,1,123,123,122,111,110,110,109,109,107,4,120,120,119,50
+Lyris Younge,,,,0,123,120,108,107,108,107,106,105,3,121,120,121,50
+Tracy B Roman,,,,,0,120,109,108,107,106,107,105,3,120,119,118,50
+Abbe Fletman,,,,,,0,108,107,108,107,105,105,3,116,116,116,50
+Stephanie M Sawyer,,,,,,,0,111,110,109,109,107,4,106,106,104,50
+Chris Mallios,,,,,,,,0,109,108,108,107,4,107,105,104,50
+Michael Fanning,,,,,,,,,0,110,107,107,4,105,104,104,50
+Daine Grey Jr,,,,,,,,,,0,107,106,4,104,103,103,50
+Rainy Papademetriou,,,,,,,,,,,0,106,2,105,103,102,50
+Scott Diclaudio,,,,,,,,,,,,0,1,103,101,101,50
+Vincent Furlong,,,,,,,,,,,,,0,8,3,3,50
+Christine Hope,,,,,,,,,,,,,,1,116,115,50
+Sharon Williams Losier,,,,,,,,,,,,,,,1,118,50
+Joffie C Pittman,,,,,,,,,,,,,,,,0,50
+Total,136,132,131,130,128,126,114,112,111,110,110,108,9,133,130,122,50
+,Judge Of The Court Of Common Pleas,,,,,,,,,,,,,Judge Of The Municipal Court,,,51
+,Ken Powell,Tracy B Roman,Kai Scott,Mia Roberts Perez,Stephanie M Sawyer,Chris Mallios,Abbe Fletman,Lyris Younge,Scott Diclaudio,Michael Fanning,Daine Grey Jr,Rainy Papademetriou,Vincent Furlong,Christine Hope,Sharon Williams Losier,Joffie C Pittman,51
+Ken Powell,3,37,34,36,32,32,30,30,30,28,27,27,5,39,35,34,51
+Tracy B Roman,,0,35,36,32,33,30,31,31,29,27,27,5,39,35,32,51
+Kai Scott,,,0,33,31,31,30,31,29,28,27,26,5,34,34,32,51
+Mia Roberts Perez,,,,0,31,32,29,30,30,28,27,27,5,35,33,30,51
+Stephanie M Sawyer,,,,,0,31,27,27,29,28,27,26,4,31,31,28,51
+Chris Mallios,,,,,,0,27,28,31,29,26,26,5,32,30,28,51
+Abbe Fletman,,,,,,,0,27,26,25,26,24,3,29,29,27,51
+Lyris Younge,,,,,,,,0,27,26,25,24,4,30,29,28,51
+Scott Diclaudio,,,,,,,,,0,29,25,26,4,30,28,26,51
+Michael Fanning,,,,,,,,,,0,24,25,3,28,27,26,51
+Daine Grey Jr,,,,,,,,,,,0,26,4,26,26,23,51
+Rainy Papademetriou,,,,,,,,,,,,0,4,26,25,23,51
+Vincent Furlong,,,,,,,,,,,,,0,7,5,4,51
+Christine Hope,,,,,,,,,,,,,,1,35,32,51
+Sharon Williams Losier,,,,,,,,,,,,,,,1,32,51
+Joffie C Pittman,,,,,,,,,,,,,,,,0,51
+Total,47,40,36,36,34,33,32,31,31,29,28,27,7,45,38,36,51
