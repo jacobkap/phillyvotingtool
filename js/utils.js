@@ -1,3 +1,19 @@
+// Temporary password
+var passwordCheckFunction = function() {
+  var password_given = localStorage.getItem("password_given");
+  if (password_given === false | password_given === null) {
+        var testPassword = window.prompt("Please enter the password");
+        if (testPassword === "houdini") {
+            $("body").show();
+            localStorage.setItem("password_given", true);
+        } else {
+            location.reload();
+        }
+      } else {
+        $("body").show();
+      }
+    };
+
 function readCSV(csv) {
   var result = null;
   var scriptUrl = csv;
