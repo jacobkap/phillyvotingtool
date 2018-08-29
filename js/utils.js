@@ -63,7 +63,7 @@ function setDivisionDropdown(type, election_dropdown, office_dropdown, offices, 
     locations = getWards_locations(type, election_dropdown, office_dropdown, offices, wards = false);
     divisions = [];
     for (var i = 0; i < locations.length; i++) {
-      if (locations[i].replace(/-.*/, "") === ward_num) {
+      if (locations[i].replace(/-.*/, "") === ward_num | locations[i].replace(/-.*/, "") === "0" + ward_num) {
         temp = locations[i];
         temp = temp.replace(/.*-/, "");
         temp = parseInt(temp);
