@@ -457,13 +457,24 @@ function exportToCsv(data, headers, type, election_dropdown, offices, office_dro
   } else {
     office = "";
   }
+  if (type == "cand_comb") {
+    positions = $('#cand_comb_ballot_position').val();
+    office1 = cand_comb_offices[positions[0]];
+    office2 = cand_comb_offices[positions[positions.length-1]];
+    if (number_of_choices_1 == number_of_choices_2) {
+      number_of_choices_2 = "";
+      office = office1;
+    } else {
+    office = office1 + "_" + office2;
+  }
+  }
   ward = wards[$(ward_dropdown).val()];
   division = divisions[$(division_dropdown).val()];
 
 if (type == "vote_time") {
   filename = type + "_" + election + "_ward_" + ward + "_division_" + division;
 } else {
-  filename = type + "_" + election + "_" + office + "_ward_" + ward + "_division_" + division;
+  filename = type + "_" + election + "_" + office + "_" + "_ward_" + ward + "_division_" + division;
 }
 
   var blob = new Blob([data], {

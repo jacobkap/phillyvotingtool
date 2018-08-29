@@ -85,7 +85,7 @@
     <h3 id = "table_title2" style="text-align:left; display:block"></h3>
 
   <!-- <h5 id="table_subtitle" align="center">subtitle</h5> -->
-  <div><table id="table" class="display" cellspacing="0" width="100%"></table></div>
+  <div><table id="table" class="display nowrap" width="100%" cellspacing="0"></table></div>
 
   <script>
     $(document).ready(function(){
@@ -124,6 +124,9 @@
 
       $("#table_title").text(number_of_choices_1);
       $("#table_title2").text(number_of_choices_2);
+
+      $("#table_title").css("color", "#1b9e77");
+      $("#table_title2").css("color", "#d95f02");
 
 $("#table").ready($("#loader").hide())
 geojson = L.geoJson(wards_polygon, {

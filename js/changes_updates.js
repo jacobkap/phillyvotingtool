@@ -171,4 +171,7 @@ cand_comb_divisions = setDivisionDropdown("cand_comb", "#cand_comb_election", "#
 
   $("#table_title").text(number_of_choices_1);
   $("#table_title2").text(number_of_choices_2);
+
+  $("#table_title").css("color", "#1b9e77");
+  $("#table_title2").css("color", "#d95f02");
 }
