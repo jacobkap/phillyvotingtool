@@ -35,7 +35,7 @@ function makeGraph(data, time_data) {
           data: data,
           onAnimationComplete: allowSaveGraph,
         }, {
-          label: 'Time to Vote (minutes)',
+          label: 'Avg. Time Per Vote (minute:second)',
           borderColor: "#7570b3",
           fill: false,
           yAxisID: 'B',
@@ -82,13 +82,27 @@ function makeGraph(data, time_data) {
             position: 'right',
             ticks: {
               beginAtZero: true,
-              fontSize: 15
+              fontSize: 15,
+              userCallback: function(value, index, values) {
+                value = value.toString();
+                value = value.split(".");
+                value[1] = value[1] / 100 * 60;
+                value[1] = Math.round(value[1]);
+                if (isNaN(value[1])) {
+                  value[1] = "00";
+                }
+                value = value.join(':');
+                if (value.length == 3) {
+                  value += "0";
+                }
+                return value;
+              }
             },
             scaleLabel: {
               fontSize: 22,
               fontColor: "#000000",
               display: true,
-              labelString: "Time to Vote (in Minutes)"
+              labelString: "Avg. Time Per Vote (minute:second)"
             }
           }],
           xAxes: [{
@@ -107,7 +121,15 @@ function makeGraph(data, time_data) {
               if (tooltipItems.datasetIndex === 0) {
                 return " " + yaxis_label + " " + value;
               } else {
-                return " Minutes per Vote " + value;
+                  value = value.toString();
+                  value = value.split(".");
+                  value[1] = value[1] / 100 * 60;
+                  value[1] = Math.round(value[1]);
+                  value = value.join(":");
+                  if (value.length == 3) {
+                    value += "0";
+                  }
+                return " Avg. Time Per Vote " + value;
               }
             }
           }

@@ -66,16 +66,6 @@ function setDivisionDropdown(type, election_dropdown, office_dropdown, offices, 
   ward_num = wards[$(ward_dropdown).val()];
 
   if (ward_num != "All") {
-    /*
-    division_num = _.filter(max_divisions, function(x) {
-      return x.ward == ward_num;
-    });
-    division_num = division_num[0].max_division;
-    for (var i = 1; i < division_num + 1; i++) {
-      divisions.push(i);
-    }
-  }
-  */
     locations = getWards_locations(type, election_dropdown, office_dropdown, offices, wards = false);
     divisions = [];
     for (var i = 0; i < locations.length; i++) {
