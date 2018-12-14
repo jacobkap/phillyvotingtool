@@ -1,0 +1,518 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,division
+,Governor And Lieutenant Governor,,,,United States Senator,,,,All
+,Tom Wolf,Scott R Wagner,Paul Glover,Ken V Krawchuk,Bob Casey Jr,Lou Barletta,Neal Gale,Dale R Kerns Jr,All
+Tom Wolf,130,0,0,0,"9,332",274,59,23,All
+Scott R Wagner,,32,0,0,143,"3,048",4,14,All
+Paul Glover,,,5,0,23,9,49,3,All
+Ken V Krawchuk,,,,3,13,11,4,35,All
+Bob Casey Jr,,,,,110,0,0,0,All
+Lou Barletta,,,,,,34,0,0,All
+Neal Gale,,,,,,,4,0,All
+Dale R Kerns Jr,,,,,,,,0,All
+Total,"9,818","3,241",89,66,"9,621","3,376",120,75,All
+,Governor And Lieutenant Governor,,,,United States Senator,,,,1
+,Tom Wolf,Scott R Wagner,Paul Glover,Ken V Krawchuk,Bob Casey Jr,Lou Barletta,Neal Gale,Dale R Kerns Jr,1
+Tom Wolf,2,0,0,0,150,3,1,0,1
+Scott R Wagner,,0,0,0,2,58,0,1,1
+Paul Glover,,,0,0,0,0,2,0,1
+Ken V Krawchuk,,,,0,0,0,0,0,1
+Bob Casey Jr,,,,,0,0,0,0,1
+Lou Barletta,,,,,,0,0,0,1
+Neal Gale,,,,,,,0,0,1
+Dale R Kerns Jr,,,,,,,,0,1
+Total,156,61,2,0,152,61,3,1,1
+,United States Senator,,,,Governor And Lieutenant Governor,,,,2
+,Bob Casey Jr,Lou Barletta,Neal Gale,Dale R Kerns Jr,Tom Wolf,Scott R Wagner,Paul Glover,Ken V Krawchuk,2
+Bob Casey Jr,1,0,0,0,148,1,2,1,2
+Lou Barletta,,4,0,0,1,36,0,0,2
+Neal Gale,,,0,0,0,0,2,0,2
+Dale R Kerns Jr,,,,0,0,0,0,0,2
+Tom Wolf,,,,,2,0,0,0,2
+Scott R Wagner,,,,,,1,0,0,2
+Paul Glover,,,,,,,0,0,2
+Ken V Krawchuk,,,,,,,,0,2
+Total,153,41,2,0,151,38,4,1,2
+,United States Senator,,,,Governor And Lieutenant Governor,,,,3
+,Bob Casey Jr,Lou Barletta,Dale R Kerns Jr,Neal Gale,Tom Wolf,Scott R Wagner,Ken V Krawchuk,Paul Glover,3
+Bob Casey Jr,6,0,0,0,227,5,1,0,3
+Lou Barletta,,2,0,0,4,78,0,1,3
+Dale R Kerns Jr,,,0,0,0,0,2,0,3
+Neal Gale,,,,0,0,0,0,2,3
+Tom Wolf,,,,,1,0,0,0,3
+Scott R Wagner,,,,,,0,0,0,3
+Ken V Krawchuk,,,,,,,0,0,3
+Paul Glover,,,,,,,,0,3
+Total,239,85,2,2,232,83,3,3,3
+,Governor And Lieutenant Governor,,,,United States Senator,,,,4
+,Tom Wolf,Scott R Wagner,Ken V Krawchuk,Paul Glover,Bob Casey Jr,Lou Barletta,Neal Gale,Dale R Kerns Jr,4
+Tom Wolf,1,0,0,0,106,3,1,0,4
+Scott R Wagner,,1,0,0,0,56,0,0,4
+Ken V Krawchuk,,,0,0,1,0,0,0,4
+Paul Glover,,,,0,1,0,0,0,4
+Bob Casey Jr,,,,,0,0,0,0,4
+Lou Barletta,,,,,,0,0,0,4
+Neal Gale,,,,,,,0,0,4
+Dale R Kerns Jr,,,,,,,,0,4
+Total,111,57,1,1,108,59,1,0,4
+,Governor And Lieutenant Governor,,,,United States Senator,,,,5
+,Tom Wolf,Scott R Wagner,Paul Glover,Ken V Krawchuk,Bob Casey Jr,Lou Barletta,Neal Gale,Dale R Kerns Jr,5
+Tom Wolf,2,0,0,0,208,1,5,0,5
+Scott R Wagner,,0,0,0,3,22,0,2,5
+Paul Glover,,,0,0,3,0,3,0,5
+Ken V Krawchuk,,,,0,1,0,0,0,5
+Bob Casey Jr,,,,,0,0,0,0,5
+Lou Barletta,,,,,,1,0,0,5
+Neal Gale,,,,,,,0,0,5
+Dale R Kerns Jr,,,,,,,,0,5
+Total,216,27,6,1,215,24,8,2,5
+,Governor And Lieutenant Governor,,,,United States Senator,,,,6
+,Tom Wolf,Scott R Wagner,Ken V Krawchuk,Paul Glover,Bob Casey Jr,Lou Barletta,Dale R Kerns Jr,Neal Gale,6
+Tom Wolf,3,0,0,0,198,10,1,0,6
+Scott R Wagner,,1,0,0,5,87,0,0,6
+Ken V Krawchuk,,,0,0,1,0,1,0,6
+Paul Glover,,,,0,0,0,0,0,6
+Bob Casey Jr,,,,,2,0,0,0,6
+Lou Barletta,,,,,,0,0,0,6
+Dale R Kerns Jr,,,,,,,0,0,6
+Neal Gale,,,,,,,,0,6
+Total,212,93,2,0,206,97,2,0,6
+,United States Senator,,,,Governor And Lieutenant Governor,,,,7
+,Bob Casey Jr,Lou Barletta,Dale R Kerns Jr,Neal Gale,Tom Wolf,Scott R Wagner,Ken V Krawchuk,Paul Glover,7
+Bob Casey Jr,13,0,0,0,295,4,0,0,7
+Lou Barletta,,1,0,0,11,101,0,0,7
+Dale R Kerns Jr,,,0,0,2,2,2,0,7
+Neal Gale,,,,0,0,0,1,0,7
+Tom Wolf,,,,,4,0,0,0,7
+Scott R Wagner,,,,,,3,0,0,7
+Ken V Krawchuk,,,,,,,0,0,7
+Paul Glover,,,,,,,,0,7
+Total,312,113,6,1,312,110,3,0,7
+,United States Senator,,,,Governor And Lieutenant Governor,,,,8
+,Bob Casey Jr,Lou Barletta,Neal Gale,Dale R Kerns Jr,Tom Wolf,Scott R Wagner,Paul Glover,Ken V Krawchuk,8
+Bob Casey Jr,4,0,0,0,221,9,2,0,8
+Lou Barletta,,0,0,0,5,69,0,1,8
+Neal Gale,,,0,0,3,0,4,1,8
+Dale R Kerns Jr,,,,0,0,1,1,2,8
+Tom Wolf,,,,,0,0,0,0,8
+Scott R Wagner,,,,,,0,0,0,8
+Paul Glover,,,,,,,0,0,8
+Ken V Krawchuk,,,,,,,,1,8
+Total,236,75,8,4,229,79,7,5,8
+,Governor And Lieutenant Governor,,,,United States Senator,,,,9
+,Tom Wolf,Scott R Wagner,Paul Glover,Ken V Krawchuk,Bob Casey Jr,Lou Barletta,Neal Gale,Dale R Kerns Jr,9
+Tom Wolf,2,0,0,0,209,4,1,1,9
+Scott R Wagner,,0,0,0,2,18,0,0,9
+Paul Glover,,,0,0,0,0,5,0,9
+Ken V Krawchuk,,,,0,0,0,0,0,9
+Bob Casey Jr,,,,,1,0,0,0,9
+Lou Barletta,,,,,,0,0,0,9
+Neal Gale,,,,,,,1,0,9
+Dale R Kerns Jr,,,,,,,,0,9
+Total,217,20,5,0,212,22,7,1,9
+,Governor And Lieutenant Governor,,,,United States Senator,,,,10
+,Tom Wolf,Scott R Wagner,Ken V Krawchuk,Paul Glover,Bob Casey Jr,Lou Barletta,Neal Gale,Dale R Kerns Jr,10
+Tom Wolf,8,0,0,0,257,2,1,1,10
+Scott R Wagner,,1,0,0,2,22,0,0,10
+Ken V Krawchuk,,,0,0,1,0,0,0,10
+Paul Glover,,,,0,0,0,1,0,10
+Bob Casey Jr,,,,,4,0,0,0,10
+Lou Barletta,,,,,,0,0,0,10
+Neal Gale,,,,,,,0,0,10
+Dale R Kerns Jr,,,,,,,,0,10
+Total,269,25,1,1,264,24,2,1,10
+,Governor And Lieutenant Governor,,,,United States Senator,,,,11
+,Tom Wolf,Scott R Wagner,Ken V Krawchuk,Paul Glover,Bob Casey Jr,Lou Barletta,Neal Gale,Dale R Kerns Jr,11
+Tom Wolf,0,0,0,0,102,3,1,0,11
+Scott R Wagner,,0,0,0,0,27,0,0,11
+Ken V Krawchuk,,,0,0,0,0,0,1,11
+Paul Glover,,,,0,0,0,1,0,11
+Bob Casey Jr,,,,,3,0,0,0,11
+Lou Barletta,,,,,,0,0,0,11
+Neal Gale,,,,,,,0,0,11
+Dale R Kerns Jr,,,,,,,,0,11
+Total,106,27,1,1,105,30,2,1,11
+,Governor And Lieutenant Governor,,,,United States Senator,,,,12
+,Tom Wolf,Scott R Wagner,Paul Glover,Ken V Krawchuk,Bob Casey Jr,Lou Barletta,Dale R Kerns Jr,Neal Gale,12
+Tom Wolf,1,0,0,0,98,5,0,0,12
+Scott R Wagner,,0,0,0,4,57,0,0,12
+Paul Glover,,,0,0,1,0,0,0,12
+Ken V Krawchuk,,,,0,0,0,0,0,12
+Bob Casey Jr,,,,,0,0,0,0,12
+Lou Barletta,,,,,,0,0,0,12
+Dale R Kerns Jr,,,,,,,0,0,12
+Neal Gale,,,,,,,,0,12
+Total,104,61,1,0,103,62,0,0,12
+,Governor And Lieutenant Governor,,,,United States Senator,,,,13
+,Tom Wolf,Scott R Wagner,Ken V Krawchuk,Paul Glover,Bob Casey Jr,Lou Barletta,Neal Gale,Dale R Kerns Jr,13
+Tom Wolf,6,0,0,0,195,1,1,0,13
+Scott R Wagner,,0,0,0,0,36,0,0,13
+Ken V Krawchuk,,,0,0,0,1,0,0,13
+Paul Glover,,,,0,0,1,0,0,13
+Bob Casey Jr,,,,,5,0,0,0,13
+Lou Barletta,,,,,,0,0,0,13
+Neal Gale,,,,,,,0,0,13
+Dale R Kerns Jr,,,,,,,,0,13
+Total,203,36,1,1,200,39,1,0,13
+,United States Senator,,,,Governor And Lieutenant Governor,,,,14
+,Lou Barletta,Bob Casey Jr,Dale R Kerns Jr,Neal Gale,Scott R Wagner,Tom Wolf,Ken V Krawchuk,Paul Glover,14
+Lou Barletta,1,0,0,0,129,9,0,0,14
+Bob Casey Jr,,0,0,0,1,87,0,0,14
+Dale R Kerns Jr,,,0,0,0,0,1,0,14
+Neal Gale,,,,0,0,0,0,0,14
+Scott R Wagner,,,,,0,0,0,0,14
+Tom Wolf,,,,,,4,0,0,14
+Ken V Krawchuk,,,,,,,0,0,14
+Paul Glover,,,,,,,,0,14
+Total,139,88,1,0,130,100,1,0,14
+,Governor And Lieutenant Governor,,,,United States Senator,,,,15
+,Tom Wolf,Scott R Wagner,Paul Glover,Ken V Krawchuk,Bob Casey Jr,Lou Barletta,Neal Gale,Dale R Kerns Jr,15
+Tom Wolf,5,0,0,0,254,6,1,1,15
+Scott R Wagner,,2,0,0,4,95,0,0,15
+Paul Glover,,,0,0,1,2,1,0,15
+Ken V Krawchuk,,,,0,0,1,0,0,15
+Bob Casey Jr,,,,,1,0,0,0,15
+Lou Barletta,,,,,,1,0,0,15
+Neal Gale,,,,,,,0,0,15
+Dale R Kerns Jr,,,,,,,,0,15
+Total,267,101,4,1,260,105,2,1,15
+,Governor And Lieutenant Governor,,,,United States Senator,,,,16
+,Tom Wolf,Scott R Wagner,Ken V Krawchuk,Paul Glover,Bob Casey Jr,Lou Barletta,Dale R Kerns Jr,Neal Gale,16
+Tom Wolf,6,0,0,0,107,0,0,2,16
+Scott R Wagner,,1,0,0,0,28,2,0,16
+Ken V Krawchuk,,,0,0,0,0,1,0,16
+Paul Glover,,,,0,1,0,0,0,16
+Bob Casey Jr,,,,,0,0,0,0,16
+Lou Barletta,,,,,,0,0,0,16
+Dale R Kerns Jr,,,,,,,0,0,16
+Neal Gale,,,,,,,,0,16
+Total,115,31,1,1,108,28,3,2,16
+,Governor And Lieutenant Governor,,,,United States Senator,,,,17
+,Tom Wolf,Scott R Wagner,Paul Glover,Ken V Krawchuk,Bob Casey Jr,Lou Barletta,Neal Gale,Dale R Kerns Jr,17
+Tom Wolf,2,0,0,0,133,4,1,2,17
+Scott R Wagner,,2,0,0,3,34,1,0,17
+Paul Glover,,,0,0,1,0,1,0,17
+Ken V Krawchuk,,,,0,0,0,0,0,17
+Bob Casey Jr,,,,,0,0,0,0,17
+Lou Barletta,,,,,,0,0,0,17
+Neal Gale,,,,,,,0,0,17
+Dale R Kerns Jr,,,,,,,,0,17
+Total,142,40,2,0,137,38,3,2,17
+,United States Senator,,,,Governor And Lieutenant Governor,,,,18
+,Bob Casey Jr,Lou Barletta,Dale R Kerns Jr,Neal Gale,Tom Wolf,Scott R Wagner,Paul Glover,Ken V Krawchuk,18
+Bob Casey Jr,2,0,0,0,76,1,0,0,18
+Lou Barletta,,0,0,0,2,43,0,0,18
+Dale R Kerns Jr,,,0,0,0,1,0,0,18
+Neal Gale,,,,0,0,0,1,0,18
+Tom Wolf,,,,,0,0,0,0,18
+Scott R Wagner,,,,,,1,0,0,18
+Paul Glover,,,,,,,0,0,18
+Ken V Krawchuk,,,,,,,,0,18
+Total,79,45,1,1,78,46,1,0,18
+,United States Senator,,,,Governor And Lieutenant Governor,,,,19
+,Bob Casey Jr,Lou Barletta,Neal Gale,Dale R Kerns Jr,Tom Wolf,Scott R Wagner,Paul Glover,Ken V Krawchuk,19
+Bob Casey Jr,0,0,0,0,136,3,0,0,19
+Lou Barletta,,0,0,0,1,17,0,0,19
+Neal Gale,,,0,0,1,0,4,0,19
+Dale R Kerns Jr,,,,0,0,0,0,0,19
+Tom Wolf,,,,,1,0,0,0,19
+Scott R Wagner,,,,,,0,0,0,19
+Paul Glover,,,,,,,0,0,19
+Ken V Krawchuk,,,,,,,,0,19
+Total,139,18,5,0,139,20,4,0,19
+,Governor And Lieutenant Governor,,,,United States Senator,,,,20
+,Tom Wolf,Scott R Wagner,Paul Glover,Ken V Krawchuk,Bob Casey Jr,Lou Barletta,Dale R Kerns Jr,Neal Gale,20
+Tom Wolf,7,0,0,0,276,5,2,0,20
+Scott R Wagner,,0,0,0,7,91,0,1,20
+Paul Glover,,,0,0,0,1,0,1,20
+Ken V Krawchuk,,,,0,0,0,1,0,20
+Bob Casey Jr,,,,,4,0,0,0,20
+Lou Barletta,,,,,,3,0,0,20
+Dale R Kerns Jr,,,,,,,0,0,20
+Neal Gale,,,,,,,,1,20
+Total,290,99,2,1,287,100,3,3,20
+,Governor And Lieutenant Governor,,,,United States Senator,,,,21
+,Tom Wolf,Scott R Wagner,Ken V Krawchuk,Paul Glover,Bob Casey Jr,Lou Barletta,Dale R Kerns Jr,Neal Gale,21
+Tom Wolf,5,0,0,0,260,8,1,0,21
+Scott R Wagner,,3,0,0,4,78,2,0,21
+Ken V Krawchuk,,,0,0,1,0,0,0,21
+Paul Glover,,,,1,0,0,0,0,21
+Bob Casey Jr,,,,,5,0,0,0,21
+Lou Barletta,,,,,,1,0,0,21
+Dale R Kerns Jr,,,,,,,0,0,21
+Neal Gale,,,,,,,,0,21
+Total,274,87,1,1,270,87,3,0,21
+,Governor And Lieutenant Governor,,,,United States Senator,,,,22
+,Tom Wolf,Scott R Wagner,Paul Glover,Ken V Krawchuk,Bob Casey Jr,Lou Barletta,Neal Gale,Dale R Kerns Jr,22
+Tom Wolf,7,0,0,0,185,7,1,1,22
+Scott R Wagner,,0,0,0,0,48,0,0,22
+Paul Glover,,,0,0,1,0,4,0,22
+Ken V Krawchuk,,,,1,0,0,0,3,22
+Bob Casey Jr,,,,,4,0,0,0,22
+Lou Barletta,,,,,,1,0,0,22
+Neal Gale,,,,,,,0,0,22
+Dale R Kerns Jr,,,,,,,,0,22
+Total,201,48,5,4,190,56,5,4,22
+,United States Senator,,,,Governor And Lieutenant Governor,,,,23
+,Bob Casey Jr,Lou Barletta,Neal Gale,Dale R Kerns Jr,Tom Wolf,Scott R Wagner,Paul Glover,Ken V Krawchuk,23
+Bob Casey Jr,1,0,0,0,146,2,2,0,23
+Lou Barletta,,0,0,0,2,18,0,0,23
+Neal Gale,,,0,0,1,0,1,0,23
+Dale R Kerns Jr,,,,0,0,0,0,0,23
+Tom Wolf,,,,,2,0,0,0,23
+Scott R Wagner,,,,,,1,0,0,23
+Paul Glover,,,,,,,0,0,23
+Ken V Krawchuk,,,,,,,,0,23
+Total,151,20,2,0,151,21,3,0,23
+,Governor And Lieutenant Governor,,,,United States Senator,,,,24
+,Tom Wolf,Scott R Wagner,Ken V Krawchuk,Paul Glover,Bob Casey Jr,Lou Barletta,Dale R Kerns Jr,Neal Gale,24
+Tom Wolf,2,0,0,0,284,6,1,1,24
+Scott R Wagner,,1,0,0,3,59,0,0,24
+Ken V Krawchuk,,,0,0,0,1,1,0,24
+Paul Glover,,,,0,0,0,0,1,24
+Bob Casey Jr,,,,,5,0,0,0,24
+Lou Barletta,,,,,,1,0,0,24
+Dale R Kerns Jr,,,,,,,0,0,24
+Neal Gale,,,,,,,,0,24
+Total,294,63,2,1,292,67,2,2,24
+,Governor And Lieutenant Governor,,,,United States Senator,,,,25
+,Tom Wolf,Scott R Wagner,Paul Glover,Ken V Krawchuk,Bob Casey Jr,Lou Barletta,Neal Gale,Dale R Kerns Jr,25
+Tom Wolf,1,0,0,0,237,6,3,0,25
+Scott R Wagner,,0,0,0,5,98,0,0,25
+Paul Glover,,,0,0,1,0,1,0,25
+Ken V Krawchuk,,,,0,1,0,0,0,25
+Bob Casey Jr,,,,,1,0,0,0,25
+Lou Barletta,,,,,,2,0,0,25
+Neal Gale,,,,,,,0,0,25
+Dale R Kerns Jr,,,,,,,,0,25
+Total,247,103,2,1,245,106,4,0,25
+,Governor And Lieutenant Governor,,,,United States Senator,,,,26
+,Tom Wolf,Scott R Wagner,Ken V Krawchuk,Paul Glover,Bob Casey Jr,Lou Barletta,Dale R Kerns Jr,Neal Gale,26
+Tom Wolf,1,0,0,0,319,9,0,2,26
+Scott R Wagner,,1,0,0,0,66,0,0,26
+Ken V Krawchuk,,,0,0,0,0,2,0,26
+Paul Glover,,,,0,1,0,0,0,26
+Bob Casey Jr,,,,,5,0,0,0,26
+Lou Barletta,,,,,,1,0,0,26
+Dale R Kerns Jr,,,,,,,0,0,26
+Neal Gale,,,,,,,,0,26
+Total,331,67,2,1,325,76,2,2,26
+,Governor And Lieutenant Governor,,,,United States Senator,,,,27
+,Tom Wolf,Scott R Wagner,Ken V Krawchuk,Paul Glover,Bob Casey Jr,Lou Barletta,Neal Gale,Dale R Kerns Jr,27
+Tom Wolf,2,0,0,0,259,6,4,1,27
+Scott R Wagner,,0,0,0,3,69,0,0,27
+Ken V Krawchuk,,,0,0,1,0,0,2,27
+Paul Glover,,,,0,0,1,1,0,27
+Bob Casey Jr,,,,,1,0,0,0,27
+Lou Barletta,,,,,,1,0,0,27
+Neal Gale,,,,,,,0,0,27
+Dale R Kerns Jr,,,,,,,,0,27
+Total,272,72,3,2,264,77,5,3,27
+,United States Senator,,,,Governor And Lieutenant Governor,,,,28
+,Bob Casey Jr,Lou Barletta,Dale R Kerns Jr,Neal Gale,Tom Wolf,Scott R Wagner,Paul Glover,Ken V Krawchuk,28
+Bob Casey Jr,6,0,0,0,293,4,0,0,28
+Lou Barletta,,0,0,0,0,14,1,0,28
+Dale R Kerns Jr,,,0,0,1,0,0,1,28
+Neal Gale,,,,0,0,0,2,0,28
+Tom Wolf,,,,,3,0,0,0,28
+Scott R Wagner,,,,,,0,0,0,28
+Paul Glover,,,,,,,0,0,28
+Ken V Krawchuk,,,,,,,,1,28
+Total,303,15,2,2,297,18,3,2,28
+,Governor And Lieutenant Governor,,,,United States Senator,,,,29
+,Tom Wolf,Scott R Wagner,Ken V Krawchuk,Paul Glover,Bob Casey Jr,Lou Barletta,Dale R Kerns Jr,Neal Gale,29
+Tom Wolf,4,0,0,0,133,11,0,0,29
+Scott R Wagner,,1,0,0,0,79,1,0,29
+Ken V Krawchuk,,,0,0,0,0,1,0,29
+Paul Glover,,,,0,0,0,0,0,29
+Bob Casey Jr,,,,,5,0,0,0,29
+Lou Barletta,,,,,,0,0,0,29
+Dale R Kerns Jr,,,,,,,0,0,29
+Neal Gale,,,,,,,,0,29
+Total,148,81,1,0,138,90,2,0,29
+,Governor And Lieutenant Governor,,,,United States Senator,,,,30
+,Tom Wolf,Scott R Wagner,Paul Glover,Ken V Krawchuk,Bob Casey Jr,Lou Barletta,Neal Gale,Dale R Kerns Jr,30
+Tom Wolf,2,0,0,0,340,9,1,0,30
+Scott R Wagner,,1,0,0,2,58,0,0,30
+Paul Glover,,,3,0,1,0,1,0,30
+Ken V Krawchuk,,,,0,0,1,0,3,30
+Bob Casey Jr,,,,,2,0,0,0,30
+Lou Barletta,,,,,,0,0,0,30
+Neal Gale,,,,,,,2,0,30
+Dale R Kerns Jr,,,,,,,,0,30
+Total,352,61,5,4,345,68,4,3,30
+,Governor And Lieutenant Governor,,,,United States Senator,,,,31
+,Tom Wolf,Scott R Wagner,Paul Glover,Ken V Krawchuk,Bob Casey Jr,Lou Barletta,Dale R Kerns Jr,Neal Gale,31
+Tom Wolf,1,0,0,0,187,5,2,1,31
+Scott R Wagner,,1,0,0,5,95,0,0,31
+Paul Glover,,,0,0,0,1,0,2,31
+Ken V Krawchuk,,,,0,0,0,1,0,31
+Bob Casey Jr,,,,,3,0,0,0,31
+Lou Barletta,,,,,,1,0,0,31
+Dale R Kerns Jr,,,,,,,0,0,31
+Neal Gale,,,,,,,,0,31
+Total,196,101,3,1,195,102,3,3,31
+,Governor And Lieutenant Governor,,,,United States Senator,,,,32
+,Tom Wolf,Scott R Wagner,Ken V Krawchuk,Paul Glover,Bob Casey Jr,Lou Barletta,Neal Gale,Dale R Kerns Jr,32
+Tom Wolf,1,0,0,0,180,6,3,0,32
+Scott R Wagner,,0,0,0,2,46,0,0,32
+Ken V Krawchuk,,,0,0,0,0,0,0,32
+Paul Glover,,,,0,0,0,0,0,32
+Bob Casey Jr,,,,,3,0,0,0,32
+Lou Barletta,,,,,,0,0,0,32
+Neal Gale,,,,,,,0,0,32
+Dale R Kerns Jr,,,,,,,,0,32
+Total,190,48,0,0,185,52,3,0,32
+,Governor And Lieutenant Governor,,,,United States Senator,,,,33
+,Tom Wolf,Scott R Wagner,Ken V Krawchuk,Paul Glover,Bob Casey Jr,Lou Barletta,Dale R Kerns Jr,Neal Gale,33
+Tom Wolf,1,0,0,0,154,9,1,1,33
+Scott R Wagner,,1,0,0,1,89,0,0,33
+Ken V Krawchuk,,,0,0,0,0,2,0,33
+Paul Glover,,,,0,2,0,0,0,33
+Bob Casey Jr,,,,,1,0,0,0,33
+Lou Barletta,,,,,,0,0,0,33
+Dale R Kerns Jr,,,,,,,0,0,33
+Neal Gale,,,,,,,,0,33
+Total,166,91,2,2,158,98,3,1,33
+,United States Senator,,,,Governor And Lieutenant Governor,,,,34
+,Bob Casey Jr,Lou Barletta,Neal Gale,Dale R Kerns Jr,Tom Wolf,Scott R Wagner,Ken V Krawchuk,Paul Glover,34
+Bob Casey Jr,3,0,0,0,152,4,1,0,34
+Lou Barletta,,2,0,0,2,36,0,0,34
+Neal Gale,,,0,0,1,0,0,1,34
+Dale R Kerns Jr,,,,0,0,0,0,0,34
+Tom Wolf,,,,,0,0,0,0,34
+Scott R Wagner,,,,,,0,0,0,34
+Ken V Krawchuk,,,,,,,0,0,34
+Paul Glover,,,,,,,,0,34
+Total,160,40,2,0,155,40,1,1,34
+,Governor And Lieutenant Governor,,,,United States Senator,,,,35
+,Tom Wolf,Scott R Wagner,Ken V Krawchuk,Paul Glover,Bob Casey Jr,Lou Barletta,Neal Gale,Dale R Kerns Jr,35
+Tom Wolf,4,0,0,0,263,5,1,1,35
+Scott R Wagner,,1,0,0,4,54,0,0,35
+Ken V Krawchuk,,,0,0,0,1,0,0,35
+Paul Glover,,,,0,0,0,1,0,35
+Bob Casey Jr,,,,,2,0,0,0,35
+Lou Barletta,,,,,,0,0,0,35
+Neal Gale,,,,,,,0,0,35
+Dale R Kerns Jr,,,,,,,,0,35
+Total,274,59,1,1,269,60,2,1,35
+,United States Senator,,,,Governor And Lieutenant Governor,,,,36
+,Lou Barletta,Bob Casey Jr,Dale R Kerns Jr,Neal Gale,Tom Wolf,Scott R Wagner,Paul Glover,Ken V Krawchuk,36
+Lou Barletta,1,0,0,0,15,139,0,0,36
+Bob Casey Jr,,1,0,0,133,5,1,0,36
+Dale R Kerns Jr,,,0,0,0,0,0,0,36
+Neal Gale,,,,0,0,0,0,0,36
+Tom Wolf,,,,,3,0,0,0,36
+Scott R Wagner,,,,,,0,0,0,36
+Paul Glover,,,,,,,0,0,36
+Ken V Krawchuk,,,,,,,,0,36
+Total,155,140,0,0,151,144,1,0,36
+,Governor And Lieutenant Governor,,,,United States Senator,,,,37
+,Tom Wolf,Scott R Wagner,Ken V Krawchuk,Paul Glover,Bob Casey Jr,Lou Barletta,Neal Gale,Dale R Kerns Jr,37
+Tom Wolf,2,0,0,0,263,4,2,0,37
+Scott R Wagner,,1,0,0,2,99,0,0,37
+Ken V Krawchuk,,,0,0,1,1,0,1,37
+Paul Glover,,,,0,0,0,0,0,37
+Bob Casey Jr,,,,,1,0,0,0,37
+Lou Barletta,,,,,,2,0,0,37
+Neal Gale,,,,,,,0,0,37
+Dale R Kerns Jr,,,,,,,,0,37
+Total,271,102,3,0,267,106,2,1,37
+,Governor And Lieutenant Governor,,,,United States Senator,,,,38
+,Tom Wolf,Scott R Wagner,Ken V Krawchuk,Paul Glover,Bob Casey Jr,Lou Barletta,Dale R Kerns Jr,Neal Gale,38
+Tom Wolf,1,0,0,0,249,8,1,2,38
+Scott R Wagner,,0,0,0,1,71,0,0,38
+Ken V Krawchuk,,,0,0,0,1,1,0,38
+Paul Glover,,,,0,0,0,0,0,38
+Bob Casey Jr,,,,,2,0,0,0,38
+Lou Barletta,,,,,,1,0,0,38
+Dale R Kerns Jr,,,,,,,0,0,38
+Neal Gale,,,,,,,,0,38
+Total,261,72,2,0,252,81,2,2,38
+,Governor And Lieutenant Governor,,,,United States Senator,,,,39
+,Tom Wolf,Scott R Wagner,Ken V Krawchuk,Paul Glover,Bob Casey Jr,Lou Barletta,Neal Gale,Dale R Kerns Jr,39
+Tom Wolf,1,0,0,0,194,10,2,0,39
+Scott R Wagner,,1,0,0,7,113,0,1,39
+Ken V Krawchuk,,,0,0,0,0,1,1,39
+Paul Glover,,,,0,0,0,0,0,39
+Bob Casey Jr,,,,,1,0,0,0,39
+Lou Barletta,,,,,,1,0,0,39
+Neal Gale,,,,,,,0,0,39
+Dale R Kerns Jr,,,,,,,,0,39
+Total,207,122,2,0,202,124,3,2,39
+,Governor And Lieutenant Governor,,,,United States Senator,,,,40
+,Tom Wolf,Scott R Wagner,Ken V Krawchuk,Paul Glover,Bob Casey Jr,Lou Barletta,Neal Gale,Dale R Kerns Jr,40
+Tom Wolf,4,0,0,0,183,2,2,1,40
+Scott R Wagner,,3,0,0,2,20,1,0,40
+Ken V Krawchuk,,,0,0,0,1,0,0,40
+Paul Glover,,,,0,0,0,0,0,40
+Bob Casey Jr,,,,,3,0,0,0,40
+Lou Barletta,,,,,,0,0,0,40
+Neal Gale,,,,,,,0,0,40
+Dale R Kerns Jr,,,,,,,,0,40
+Total,192,26,1,0,188,23,3,1,40
+,Governor And Lieutenant Governor,,,,United States Senator,,,,41
+,Tom Wolf,Scott R Wagner,Paul Glover,Ken V Krawchuk,Bob Casey Jr,Lou Barletta,Neal Gale,Dale R Kerns Jr,41
+Tom Wolf,5,0,0,0,149,18,2,0,41
+Scott R Wagner,,0,0,0,5,127,0,0,41
+Paul Glover,,,0,0,1,0,0,0,41
+Ken V Krawchuk,,,,0,0,0,0,0,41
+Bob Casey Jr,,,,,2,0,0,0,41
+Lou Barletta,,,,,,1,0,0,41
+Neal Gale,,,,,,,0,0,41
+Dale R Kerns Jr,,,,,,,,0,41
+Total,174,132,1,0,157,146,2,0,41
+,Governor And Lieutenant Governor,,,,United States Senator,,,,42
+,Tom Wolf,Scott R Wagner,Ken V Krawchuk,Paul Glover,Bob Casey Jr,Lou Barletta,Neal Gale,Dale R Kerns Jr,42
+Tom Wolf,2,0,0,0,175,9,5,0,42
+Scott R Wagner,,0,0,0,7,85,0,0,42
+Ken V Krawchuk,,,0,0,1,0,0,1,42
+Paul Glover,,,,0,0,0,1,0,42
+Bob Casey Jr,,,,,0,0,0,0,42
+Lou Barletta,,,,,,0,0,0,42
+Neal Gale,,,,,,,0,0,42
+Dale R Kerns Jr,,,,,,,,0,42
+Total,191,92,2,1,183,94,6,1,42
+,Governor And Lieutenant Governor,,,,United States Senator,,,,43
+,Tom Wolf,Scott R Wagner,Paul Glover,Ken V Krawchuk,Bob Casey Jr,Lou Barletta,Dale R Kerns Jr,Neal Gale,43
+Tom Wolf,4,0,0,0,157,7,0,0,43
+Scott R Wagner,,2,0,0,3,86,0,0,43
+Paul Glover,,,0,0,0,1,2,1,43
+Ken V Krawchuk,,,,0,0,0,0,0,43
+Bob Casey Jr,,,,,1,0,0,0,43
+Lou Barletta,,,,,,2,0,0,43
+Dale R Kerns Jr,,,,,,,0,0,43
+Neal Gale,,,,,,,,0,43
+Total,168,91,4,0,161,96,2,1,43
+,Governor And Lieutenant Governor,,,,United States Senator,,,,44
+,Tom Wolf,Scott R Wagner,Ken V Krawchuk,Paul Glover,Bob Casey Jr,Lou Barletta,Neal Gale,Dale R Kerns Jr,44
+Tom Wolf,4,0,0,0,144,8,0,0,44
+Scott R Wagner,,0,0,0,5,88,0,0,44
+Ken V Krawchuk,,,0,0,0,2,1,0,44
+Paul Glover,,,,1,0,0,0,0,44
+Bob Casey Jr,,,,,2,0,0,0,44
+Lou Barletta,,,,,,2,0,0,44
+Neal Gale,,,,,,,0,0,44
+Dale R Kerns Jr,,,,,,,,0,44
+Total,156,93,3,1,151,100,1,0,44
+,Governor And Lieutenant Governor,,,,United States Senator,,,,45
+,Tom Wolf,Scott R Wagner,Paul Glover,Ken V Krawchuk,Bob Casey Jr,Lou Barletta,Neal Gale,Dale R Kerns Jr,45
+Tom Wolf,9,0,0,0,405,3,2,0,45
+Scott R Wagner,,1,0,0,9,111,1,1,45
+Paul Glover,,,0,0,1,0,2,0,45
+Ken V Krawchuk,,,,0,0,0,0,2,45
+Bob Casey Jr,,,,,1,0,0,0,45
+Lou Barletta,,,,,,0,0,0,45
+Neal Gale,,,,,,,0,0,45
+Dale R Kerns Jr,,,,,,,,0,45
+Total,419,123,3,2,416,114,5,3,45
+,Governor And Lieutenant Governor,,,,United States Senator,,,,46
+,Tom Wolf,Scott R Wagner,Ken V Krawchuk,Paul Glover,Bob Casey Jr,Lou Barletta,Neal Gale,Dale R Kerns Jr,46
+Tom Wolf,2,0,0,0,405,19,3,2,46
+Scott R Wagner,,0,0,0,2,98,0,0,46
+Ken V Krawchuk,,,0,0,1,0,0,2,46
+Paul Glover,,,,0,0,0,2,0,46
+Bob Casey Jr,,,,,3,0,0,0,46
+Lou Barletta,,,,,,1,0,0,46
+Neal Gale,,,,,,,0,0,46
+Dale R Kerns Jr,,,,,,,,0,46
+Total,431,100,3,2,411,118,5,4,46
