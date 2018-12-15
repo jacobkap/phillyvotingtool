@@ -1,5 +1,5 @@
 elections = [
-  "2018 General",
+//  "2018 General",
   "2018 Primary",
   "2017 General",
   "2017 Primary",
@@ -20,7 +20,7 @@ elections = [
 ];
 
 elections_no_special = [
-  "2018 General",
+//  "2018 General",
   "2018 Primary",
   "2017 General",
   "2017 Primary",
