@@ -255,6 +255,12 @@ function getWards_locations(type, election_dropdown, office_dropdown, offices, w
   return (data);
 }
 
+function map_time_wards(wards) {
+  if (elections[$("#time_election").val()].includes("Primary") || elections[$("#time_election").val()].includes("General")) {
+  wards = wards_complete;
+}
+  return(wards);
+}
 
 function mapAvailableWardsTime(feature) {
   return mapAvailableWards(feature, time_wards);

@@ -82,16 +82,18 @@ function timeElectionChange() {
 
   $('#time_ward').empty();
   time_wards = getWards_locations("vote_time", "#time_election");
+  $.each(time_wards, function(val, text) {
+    $('#time_ward').append(new Option(text, val));
+  });
 
+time_wards = map_time_wards(time_wards);
   geojson.removeFrom(time_map);
   geojson = L.geoJson(wards_polygon, {
     filter: mapAvailableWardsTime,
     onEachFeature: onEachFeature
   }).addTo(time_map);
 
-  $.each(time_wards, function(val, text) {
-    $('#time_ward').append(new Option(text, val));
-  });
+
   timeChange();
 }
 

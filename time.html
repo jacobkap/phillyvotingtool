@@ -112,6 +112,8 @@
        $('#time_ward').val(0);
        $('.simple-select').chosen();
        $('.simple-select').trigger('chosen:updated');
+time_wards = map_time_wards(time_wards);
+
 
   time_divisions =    setDivisionDropdown("vote_time", "#time_election", "", "", "#time_ward", "#time_division", time_wards)
    ctx_time = document.getElementById("time_graph").getContext('2d');
