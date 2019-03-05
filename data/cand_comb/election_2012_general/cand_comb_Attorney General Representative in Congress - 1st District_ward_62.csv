@@ -1,12 +1,12 @@
 col_1,col_2,col_3,col_4,col_5,col_6,division
-,Attorney General,,,Representative In Congress 1st District,,All
-,Kathleen G Kane,David J Freed,Marakay J Rogers,Robert A Brady,John Featherman,All
-Kathleen G Kane,674,0,0,"7,086",114,All
-David J Freed,,109,0,224,781,All
-Marakay J Rogers,,,7,31,8,All
-Robert A Brady,,,,74,0,All
-John Featherman,,,,,11,All
-Total,"7,874","1,114",46,"7,415",914,All
+,Representative In Congress 1st District,,Attorney General,,,All
+,Robert A Brady,John Featherman,Kathleen G Kane,David J Freed,Marakay J Rogers,All
+Robert A Brady,74,0,"7,086",224,31,All
+John Featherman,,11,114,781,8,All
+Kathleen G Kane,,,100,0,0,All
+David J Freed,,,,20,0,All
+Marakay J Rogers,,,,,5,All
+Total,"7,415",914,"7,300","1,025",44,All
 ,Representative In Congress 1st District,,Attorney General,,,1
 ,Robert A Brady,John Featherman,Kathleen G Kane,David J Freed,Marakay J Rogers,1
 Robert A Brady,5,0,329,11,2,1
@@ -79,14 +79,6 @@ Marakay J Rogers,,,0,1,0,9
 Robert A Brady,,,,3,0,9
 John Featherman,,,,,1,9
 Total,316,19,1,316,20,9
-,Attorney General,,,Representative In Congress 1st District,,10
-,Kathleen G Kane,David J Freed,Marakay J Rogers,John Featherman,Robert A Brady,10
-Kathleen G Kane,282,0,0,0,0,10
-David J Freed,,30,0,0,0,10
-Marakay J Rogers,,,2,0,0,10
-John Featherman,,,,0,0,10
-Robert A Brady,,,,,0,10
-Total,282,30,2,0,0,10
 ,Attorney General,,,Representative In Congress 1st District,,11
 ,Kathleen G Kane,David J Freed,Marakay J Rogers,Robert A Brady,John Featherman,11
 Kathleen G Kane,8,0,0,397,3,11
@@ -159,14 +151,6 @@ Marakay J Rogers,,,0,0,0,19
 Robert A Brady,,,,1,0,19
 John Featherman,,,,,1,19
 Total,216,54,0,213,52,19
-,Attorney General,,,Representative In Congress 1st District,,20
-,Kathleen G Kane,David J Freed,Marakay J Rogers,John Featherman,Robert A Brady,20
-Kathleen G Kane,292,0,0,0,0,20
-David J Freed,,59,0,0,0,20
-Marakay J Rogers,,,0,0,0,20
-John Featherman,,,,0,0,20
-Robert A Brady,,,,,0,20
-Total,292,59,0,0,0,20
 ,Representative In Congress 1st District,,Attorney General,,,21
 ,Robert A Brady,John Featherman,Kathleen G Kane,David J Freed,Marakay J Rogers,21
 Robert A Brady,4,0,182,15,2,21

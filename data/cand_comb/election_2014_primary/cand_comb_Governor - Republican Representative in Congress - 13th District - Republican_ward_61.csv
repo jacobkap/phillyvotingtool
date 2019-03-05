@@ -1,18 +1,11 @@
 col_1,col_2,col_3,col_4,col_5,division
-,Governor - Republican,,Representative In Congress 13th District - Republican,,1
-,Tom Corbett,Robert Guzzardi,Bev Plosa Bowser,Carson Dee Adcock,1
-Tom Corbett,2,0,0,0,1
-Robert Guzzardi,,1,0,0,1
-Bev Plosa Bowser,,,0,0,1
-Carson Dee Adcock,,,,0,1
-Total,2,1,0,0,1
-,Governor - Republican,,Representative In Congress 13th District - Republican,,2
-,Tom Corbett,Robert Guzzardi,Bev Plosa Bowser,Carson Dee Adcock,2
-Tom Corbett,1,0,0,0,2
-Robert Guzzardi,,0,0,0,2
-Bev Plosa Bowser,,,0,0,2
-Carson Dee Adcock,,,,0,2
-Total,1,0,0,0,2
+,Governor - Republican,,Representative In Congress 13th District - Republican,,All
+,Tom Corbett,Robert Guzzardi,Bev Plosa Bowser,Carson Dee Adcock,All
+Tom Corbett,3,0,21,15,All
+Robert Guzzardi,,0,0,0,All
+Bev Plosa Bowser,,,4,0,All
+Carson Dee Adcock,,,,2,All
+Total,39,0,25,17,All
 ,Representative In Congress 13th District - Republican,,Governor - Republican,,3
 ,Bev Plosa Bowser,Carson Dee Adcock,Tom Corbett,Robert Guzzardi,3
 Bev Plosa Bowser,2,0,3,0,3
@@ -34,13 +27,6 @@ Robert Guzzardi,,0,0,0,5
 Bev Plosa Bowser,,,0,0,5
 Carson Dee Adcock,,,,0,5
 Total,3,0,2,1,5
-,Governor - Republican,,Representative In Congress 13th District - Republican,,7
-,Tom Corbett,Robert Guzzardi,Bev Plosa Bowser,Carson Dee Adcock,7
-Tom Corbett,5,0,0,0,7
-Robert Guzzardi,,0,0,0,7
-Bev Plosa Bowser,,,0,0,7
-Carson Dee Adcock,,,,0,7
-Total,5,0,0,0,7
 ,Representative In Congress 13th District - Republican,,Governor - Republican,,8
 ,Bev Plosa Bowser,Carson Dee Adcock,Tom Corbett,Robert Guzzardi,8
 Bev Plosa Bowser,0,0,2,0,8
@@ -90,13 +76,6 @@ Carson Dee Adcock,,0,1,0,15
 Tom Corbett,,,0,0,15
 Robert Guzzardi,,,,0,15
 Total,4,1,4,0,15
-,Governor - Republican,,Representative In Congress 13th District - Republican,,16
-,Tom Corbett,Robert Guzzardi,Bev Plosa Bowser,Carson Dee Adcock,16
-Tom Corbett,2,0,0,0,16
-Robert Guzzardi,,0,0,0,16
-Bev Plosa Bowser,,,0,0,16
-Carson Dee Adcock,,,,0,16
-Total,2,0,0,0,16
 ,Governor - Republican,,Representative In Congress 13th District - Republican,,18
 ,Tom Corbett,Robert Guzzardi,Carson Dee Adcock,Bev Plosa Bowser,18
 Tom Corbett,0,0,2,1,18
@@ -111,34 +90,6 @@ Carson Dee Adcock,,0,0,0,19
 Tom Corbett,,,0,0,19
 Robert Guzzardi,,,,0,19
 Total,1,0,1,0,19
-,Governor - Republican,,Representative In Congress 13th District - Republican,,21
-,Tom Corbett,Robert Guzzardi,Bev Plosa Bowser,Carson Dee Adcock,21
-Tom Corbett,1,0,0,0,21
-Robert Guzzardi,,0,0,0,21
-Bev Plosa Bowser,,,0,0,21
-Carson Dee Adcock,,,,0,21
-Total,1,0,0,0,21
-,Governor - Republican,,Representative In Congress 13th District - Republican,,22
-,Tom Corbett,Robert Guzzardi,Bev Plosa Bowser,Carson Dee Adcock,22
-Tom Corbett,1,0,0,0,22
-Robert Guzzardi,,0,0,0,22
-Bev Plosa Bowser,,,0,0,22
-Carson Dee Adcock,,,,0,22
-Total,1,0,0,0,22
-,Governor - Republican,,Representative In Congress 13th District - Republican,,23
-,Tom Corbett,Robert Guzzardi,Bev Plosa Bowser,Carson Dee Adcock,23
-Tom Corbett,5,0,0,0,23
-Robert Guzzardi,,0,0,0,23
-Bev Plosa Bowser,,,0,0,23
-Carson Dee Adcock,,,,0,23
-Total,5,0,0,0,23
-,Governor - Republican,,Representative In Congress 13th District - Republican,,24
-,Tom Corbett,Robert Guzzardi,Bev Plosa Bowser,Carson Dee Adcock,24
-Tom Corbett,4,0,0,0,24
-Robert Guzzardi,,0,0,0,24
-Bev Plosa Bowser,,,0,0,24
-Carson Dee Adcock,,,,0,24
-Total,4,0,0,0,24
 ,Representative In Congress 13th District - Republican,,Governor - Republican,,25
 ,Carson Dee Adcock,Bev Plosa Bowser,Tom Corbett,Robert Guzzardi,25
 Carson Dee Adcock,0,0,1,0,25
@@ -167,10 +118,3 @@ Bev Plosa Bowser,,0,0,0,28
 Tom Corbett,,,0,0,28
 Robert Guzzardi,,,,0,28
 Total,3,0,3,0,28
-,Governor - Republican,,Representative In Congress 13th District - Republican,,All
-,Tom Corbett,Robert Guzzardi,Bev Plosa Bowser,Carson Dee Adcock,All
-Tom Corbett,24,0,21,15,All
-Robert Guzzardi,,1,0,0,All
-Bev Plosa Bowser,,,4,0,All
-Carson Dee Adcock,,,,2,All
-Total,60,1,25,17,All

@@ -1,13 +1,13 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,division
-,Member Of - Republican State Committee 13th Congressional District,,,,Governor - Republican,,1
-,Agnes Tilley,Dave Kralle,Michael P Meehan,Margaret L Recupido,Robert Guzzardi,Tom Corbett,1
-Agnes Tilley,1,1,0,0,0,0,1
-Dave Kralle,,0,0,0,0,0,1
-Michael P Meehan,,,1,0,0,0,1
-Margaret L Recupido,,,,0,0,0,1
-Robert Guzzardi,,,,,0,0,1
-Tom Corbett,,,,,,0,1
-Total,2,1,1,0,0,0,1
+,Governor - Republican,,Member Of - Republican State Committee 13th Congressional District,,,,All
+,Tom Corbett,Robert Guzzardi,Agnes Tilley,Dave Kralle,Michael P Meehan,Margaret L Recupido,All
+Tom Corbett,5,0,24,22,10,8,All
+Robert Guzzardi,,0,0,1,0,1,All
+Agnes Tilley,,,1,18,9,8,All
+Dave Kralle,,,,0,7,9,All
+Michael P Meehan,,,,,0,7,All
+Margaret L Recupido,,,,,,0,All
+Total,36,1,27,25,10,9,All
 ,Member Of - Republican State Committee 13th Congressional District,,,,Governor - Republican,,2
 ,Dave Kralle,Agnes Tilley,Margaret L Recupido,Michael P Meehan,Tom Corbett,Robert Guzzardi,2
 Dave Kralle,0,1,0,0,2,0,2
@@ -89,42 +89,6 @@ Dave Kralle,,,,0,1,1,13
 Margaret L Recupido,,,,,0,1,13
 Michael P Meehan,,,,,,0,13
 Total,5,0,2,2,1,1,13
-,Governor - Republican,,Member Of - Republican State Committee 13th Congressional District,,,,14
-,Tom Corbett,Robert Guzzardi,Agnes Tilley,Dave Kralle,Margaret L Recupido,Michael P Meehan,14
-Tom Corbett,1,0,0,0,0,0,14
-Robert Guzzardi,,0,0,0,0,0,14
-Agnes Tilley,,,0,0,0,0,14
-Dave Kralle,,,,0,0,0,14
-Margaret L Recupido,,,,,0,0,14
-Michael P Meehan,,,,,,0,14
-Total,1,0,0,0,0,0,14
-,Governor - Republican,,Member Of - Republican State Committee 13th Congressional District,,,,15
-,Tom Corbett,Robert Guzzardi,Agnes Tilley,Dave Kralle,Margaret L Recupido,Michael P Meehan,15
-Tom Corbett,4,0,0,0,0,0,15
-Robert Guzzardi,,0,0,0,0,0,15
-Agnes Tilley,,,0,0,0,0,15
-Dave Kralle,,,,0,0,0,15
-Margaret L Recupido,,,,,0,0,15
-Michael P Meehan,,,,,,0,15
-Total,4,0,0,0,0,0,15
-,Governor - Republican,,Member Of - Republican State Committee 13th Congressional District,,,,16
-,Tom Corbett,Robert Guzzardi,Agnes Tilley,Dave Kralle,Margaret L Recupido,Michael P Meehan,16
-Tom Corbett,4,0,0,0,0,0,16
-Robert Guzzardi,,0,0,0,0,0,16
-Agnes Tilley,,,0,0,0,0,16
-Dave Kralle,,,,0,0,0,16
-Margaret L Recupido,,,,,0,0,16
-Michael P Meehan,,,,,,0,16
-Total,4,0,0,0,0,0,16
-,Member Of - Republican State Committee 13th Congressional District,,,,Governor - Republican,,17
-,Michael P Meehan,Margaret L Recupido,Agnes Tilley,Dave Kralle,Robert Guzzardi,Tom Corbett,17
-Michael P Meehan,1,1,0,0,0,0,17
-Margaret L Recupido,,0,0,0,0,0,17
-Agnes Tilley,,,0,0,0,0,17
-Dave Kralle,,,,0,0,0,17
-Robert Guzzardi,,,,,0,0,17
-Tom Corbett,,,,,,0,17
-Total,2,1,0,0,0,0,17
 ,Member Of - Republican State Committee 13th Congressional District,,,,Governor - Republican,,18
 ,Agnes Tilley,Dave Kralle,Michael P Meehan,Margaret L Recupido,Tom Corbett,Robert Guzzardi,18
 Agnes Tilley,1,6,4,2,9,0,18
@@ -134,24 +98,6 @@ Margaret L Recupido,,,,0,2,0,18
 Tom Corbett,,,,,0,0,18
 Robert Guzzardi,,,,,,0,18
 Total,11,7,4,2,10,0,18
-,Governor - Republican,,Member Of - Republican State Committee 13th Congressional District,,,,19
-,Tom Corbett,Robert Guzzardi,Agnes Tilley,Dave Kralle,Margaret L Recupido,Michael P Meehan,19
-Tom Corbett,2,0,0,0,0,0,19
-Robert Guzzardi,,0,0,0,0,0,19
-Agnes Tilley,,,0,0,0,0,19
-Dave Kralle,,,,0,0,0,19
-Margaret L Recupido,,,,,0,0,19
-Michael P Meehan,,,,,,0,19
-Total,2,0,0,0,0,0,19
-,Governor - Republican,,Member Of - Republican State Committee 13th Congressional District,,,,20
-,Tom Corbett,Robert Guzzardi,Agnes Tilley,Dave Kralle,Margaret L Recupido,Michael P Meehan,20
-Tom Corbett,2,0,0,0,0,0,20
-Robert Guzzardi,,0,0,0,0,0,20
-Agnes Tilley,,,0,0,0,0,20
-Dave Kralle,,,,0,0,0,20
-Margaret L Recupido,,,,,0,0,20
-Michael P Meehan,,,,,,0,20
-Total,2,0,0,0,0,0,20
 ,Governor - Republican,,Member Of - Republican State Committee 13th Congressional District,,,,22
 ,Tom Corbett,Robert Guzzardi,Agnes Tilley,Dave Kralle,Margaret L Recupido,Michael P Meehan,22
 Tom Corbett,1,0,1,1,0,0,22
@@ -161,12 +107,3 @@ Dave Kralle,,,,0,0,0,22
 Margaret L Recupido,,,,,0,0,22
 Michael P Meehan,,,,,,0,22
 Total,2,0,1,1,0,0,22
-,Governor - Republican,,Member Of - Republican State Committee 13th Congressional District,,,,All
-,Tom Corbett,Robert Guzzardi,Agnes Tilley,Dave Kralle,Michael P Meehan,Margaret L Recupido,All
-Tom Corbett,18,0,24,22,10,8,All
-Robert Guzzardi,,0,0,1,0,1,All
-Agnes Tilley,,,2,19,9,8,All
-Dave Kralle,,,,0,7,9,All
-Michael P Meehan,,,,,2,8,All
-Margaret L Recupido,,,,,,0,All
-Total,49,1,29,26,13,10,All

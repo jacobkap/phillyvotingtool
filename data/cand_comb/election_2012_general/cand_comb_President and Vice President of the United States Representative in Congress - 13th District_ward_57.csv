@@ -1,13 +1,13 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,division
-,President And Vice President Of The United States,,,,Representative In Congress 13th District,,All
-,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,Allyson Y Schwartz,Joseph James Rooney,All
-Barack Obama,607,0,0,0,"5,752",272,All
-Mitt Romney,,386,0,0,743,"3,112",All
-Gary Johnson,,,6,0,37,30,All
-Jill Stein,,,,4,19,7,All
-Allyson Y Schwartz,,,,,52,0,All
-Joseph James Rooney,,,,,,31,All
-Total,"6,631","4,241",73,30,"6,603","3,452",All
+,Representative In Congress 13th District,,President And Vice President Of The United States,,,,All
+,Allyson Y Schwartz,Joseph James Rooney,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,All
+Allyson Y Schwartz,52,0,"5,752",743,37,19,All
+Joseph James Rooney,,31,272,"3,112",30,7,All
+Barack Obama,,,358,0,0,0,All
+Mitt Romney,,,,218,0,0,All
+Gary Johnson,,,,,4,0,All
+Jill Stein,,,,,,3,All
+Total,"6,603","3,452","6,382","4,073",71,29,All
 ,President And Vice President Of The United States,,,,Representative In Congress 13th District,,1
 ,Mitt Romney,Barack Obama,Gary Johnson,Jill Stein,Allyson Y Schwartz,Joseph James Rooney,1
 Mitt Romney,7,0,0,0,37,176,1
@@ -161,15 +161,6 @@ Mitt Romney,,,,7,0,0,17
 Gary Johnson,,,,,0,0,17
 Jill Stein,,,,,,0,17
 Total,211,172,211,181,3,1,17
-,President And Vice President Of The United States,,,,Representative In Congress 13th District,,18
-,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,Allyson Y Schwartz,Joseph James Rooney,18
-Barack Obama,249,0,0,0,0,0,18
-Mitt Romney,,168,0,0,0,0,18
-Gary Johnson,,,2,0,0,0,18
-Jill Stein,,,,1,0,0,18
-Allyson Y Schwartz,,,,,0,0,18
-Joseph James Rooney,,,,,,0,18
-Total,249,168,2,1,0,0,18
 ,Representative In Congress 13th District,,President And Vice President Of The United States,,,,19
 ,Allyson Y Schwartz,Joseph James Rooney,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,19
 Allyson Y Schwartz,1,0,141,32,1,0,19

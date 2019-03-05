@@ -1,4 +1,11 @@
 col_1,col_2,col_3,col_4,col_5,division
+,Representative In Congress 3rd District - Republican,Governor - Republican,,,All
+,Bryan E Leib,Scott R Wagner,Paul Mango,Laura Ellsworth,All
+Bryan E Leib,0,8,5,0,All
+Scott R Wagner,,1,0,0,All
+Paul Mango,,,0,0,All
+Laura Ellsworth,,,,0,All
+Total,13,9,5,0,All
 ,Representative In Congress 3rd District - Republican,Governor - Republican,,,1
 ,Bryan E Leib,Scott R Wagner,Laura Ellsworth,Paul Mango,1
 Bryan E Leib,0,1,0,0,1
@@ -6,13 +13,6 @@ Scott R Wagner,,0,0,0,1
 Laura Ellsworth,,,0,0,1
 Paul Mango,,,,0,1
 Total,1,1,0,0,1
-,Governor - Republican,,,Representative In Congress 3rd District - Republican,2
-,Laura Ellsworth,Paul Mango,Scott R Wagner,Bryan E Leib,2
-Laura Ellsworth,1,0,0,0,2
-Paul Mango,,0,0,0,2
-Scott R Wagner,,,0,0,2
-Bryan E Leib,,,,0,2
-Total,1,0,0,0,2
 ,Representative In Congress 3rd District - Republican,Governor - Republican,,,3
 ,Bryan E Leib,Paul Mango,Scott R Wagner,Laura Ellsworth,3
 Bryan E Leib,0,1,1,0,3
@@ -34,20 +34,6 @@ Scott R Wagner,,0,0,0,5
 Laura Ellsworth,,,0,0,5
 Paul Mango,,,,0,5
 Total,1,1,0,0,5
-,Governor - Republican,,,Representative In Congress 3rd District - Republican,7
-,Paul Mango,Laura Ellsworth,Scott R Wagner,Bryan E Leib,7
-Paul Mango,1,0,0,0,7
-Laura Ellsworth,,0,0,0,7
-Scott R Wagner,,,0,0,7
-Bryan E Leib,,,,0,7
-Total,1,0,0,0,7
-,Governor - Republican,,,Representative In Congress 3rd District - Republican,10
-,Paul Mango,Laura Ellsworth,Scott R Wagner,Bryan E Leib,10
-Paul Mango,1,0,0,0,10
-Laura Ellsworth,,0,0,0,10
-Scott R Wagner,,,0,0,10
-Bryan E Leib,,,,0,10
-Total,1,0,0,0,10
 ,Governor - Republican,,,Representative In Congress 3rd District - Republican,11
 ,Scott R Wagner,Laura Ellsworth,Paul Mango,Bryan E Leib,11
 Scott R Wagner,1,0,0,2,11
@@ -76,13 +62,6 @@ Paul Mango,,0,0,0,14
 Scott R Wagner,,,0,0,14
 Laura Ellsworth,,,,0,14
 Total,2,1,1,0,14
-,Representative In Congress 3rd District - Republican,Governor - Republican,,,15
-,Bryan E Leib,Laura Ellsworth,Paul Mango,Scott R Wagner,15
-Bryan E Leib,1,0,0,0,15
-Laura Ellsworth,,0,0,0,15
-Paul Mango,,,0,0,15
-Scott R Wagner,,,,0,15
-Total,1,0,0,0,15
 ,Representative In Congress 3rd District - Republican,Governor - Republican,,,18
 ,Bryan E Leib,Paul Mango,Laura Ellsworth,Scott R Wagner,18
 Bryan E Leib,0,1,0,0,18
@@ -90,10 +69,3 @@ Paul Mango,,0,0,0,18
 Laura Ellsworth,,,0,0,18
 Scott R Wagner,,,,0,18
 Total,1,1,0,0,18
-,Representative In Congress 3rd District - Republican,Governor - Republican,,,All
-,Bryan E Leib,Scott R Wagner,Paul Mango,Laura Ellsworth,All
-Bryan E Leib,1,8,5,0,All
-Scott R Wagner,,1,0,0,All
-Paul Mango,,,2,0,All
-Laura Ellsworth,,,,1,All
-Total,14,9,7,1,All

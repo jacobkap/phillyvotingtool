@@ -1,28 +1,16 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10,division
-,Lieutenant Governor - Democrat,,,,,Member Of The Democratic State Committee 8th Senatorial District,,,,1
-,Nina Ahmad,Mike Stack,John Fetterman,Kathi Cozzone,Ray Sosa,Kyle J Sampson,Kyle Shenandoah,Marisa Piccarreto,Torri Douglas,1
-Nina Ahmad,22,0,0,0,0,0,0,0,0,1
-Mike Stack,,17,0,0,0,0,0,0,0,1
-John Fetterman,,,11,0,0,0,0,0,0,1
-Kathi Cozzone,,,,9,0,0,0,0,0,1
-Ray Sosa,,,,,1,0,0,0,0,1
-Kyle J Sampson,,,,,,0,0,0,0,1
-Kyle Shenandoah,,,,,,,0,0,0,1
-Marisa Piccarreto,,,,,,,,0,0,1
-Torri Douglas,,,,,,,,,0,1
-Total,22,17,11,9,1,0,0,0,0,1
-,Lieutenant Governor - Democrat,,,,,Member Of The Democratic State Committee 8th Senatorial District,,,,2
-,Nina Ahmad,Mike Stack,John Fetterman,Kathi Cozzone,Ray Sosa,Kyle J Sampson,Kyle Shenandoah,Marisa Piccarreto,Torri Douglas,2
-Nina Ahmad,24,0,0,0,0,0,0,0,0,2
-Mike Stack,,23,0,0,0,0,0,0,0,2
-John Fetterman,,,18,0,0,0,0,0,0,2
-Kathi Cozzone,,,,12,0,0,0,0,0,2
-Ray Sosa,,,,,1,0,0,0,0,2
-Kyle J Sampson,,,,,,0,0,0,0,2
-Kyle Shenandoah,,,,,,,0,0,0,2
-Marisa Piccarreto,,,,,,,,0,0,2
-Torri Douglas,,,,,,,,,0,2
-Total,24,23,18,12,1,0,0,0,0,2
+,Member Of The Democratic State Committee 8th Senatorial District,,,,Lieutenant Governor - Democrat,,,,,All
+,Torri Douglas,Marisa Piccarreto,Kyle Shenandoah,Kyle J Sampson,Mike Stack,Kathi Cozzone,Nina Ahmad,John Fetterman,Ray Sosa,All
+Torri Douglas,10,408,381,387,190,184,122,52,1,All
+Marisa Piccarreto,,8,390,383,181,149,112,55,2,All
+Kyle Shenandoah,,,4,379,176,122,100,45,1,All
+Kyle J Sampson,,,,6,157,129,95,46,1,All
+Mike Stack,,,,,98,0,0,0,0,All
+Kathi Cozzone,,,,,,15,0,0,0,All
+Nina Ahmad,,,,,,,31,0,0,All
+John Fetterman,,,,,,,,24,0,All
+Ray Sosa,,,,,,,,,0,All
+Total,569,518,457,444,382,244,181,92,3,All
 ,Member Of The Democratic State Committee 8th Senatorial District,,,,Lieutenant Governor - Democrat,,,,,3
 ,Torri Douglas,Kyle J Sampson,Marisa Piccarreto,Kyle Shenandoah,Mike Stack,Kathi Cozzone,Nina Ahmad,John Fetterman,Ray Sosa,3
 Torri Douglas,1,24,24,23,15,11,8,3,0,3
@@ -47,18 +35,6 @@ Kathi Cozzone,,,,,,,0,0,0,4
 John Fetterman,,,,,,,,0,0,4
 Ray Sosa,,,,,,,,,0,4
 Total,42,38,36,33,28,21,13,4,0,4
-,Lieutenant Governor - Democrat,,,,,Member Of The Democratic State Committee 8th Senatorial District,,,,5
-,Nina Ahmad,Kathi Cozzone,Mike Stack,John Fetterman,Ray Sosa,Kyle J Sampson,Kyle Shenandoah,Marisa Piccarreto,Torri Douglas,5
-Nina Ahmad,16,0,0,0,0,0,0,0,0,5
-Kathi Cozzone,,15,0,0,0,0,0,0,0,5
-Mike Stack,,,14,0,0,0,0,0,0,5
-John Fetterman,,,,12,0,0,0,0,0,5
-Ray Sosa,,,,,2,0,0,0,0,5
-Kyle J Sampson,,,,,,0,0,0,0,5
-Kyle Shenandoah,,,,,,,0,0,0,5
-Marisa Piccarreto,,,,,,,,0,0,5
-Torri Douglas,,,,,,,,,0,5
-Total,16,15,14,12,2,0,0,0,0,5
 ,Member Of The Democratic State Committee 8th Senatorial District,,,,Lieutenant Governor - Democrat,,,,,6
 ,Torri Douglas,Kyle Shenandoah,Marisa Piccarreto,Kyle J Sampson,Kathi Cozzone,Mike Stack,Nina Ahmad,John Fetterman,Ray Sosa,6
 Torri Douglas,1,27,28,26,14,13,9,4,0,6
@@ -143,30 +119,6 @@ Kathi Cozzone,,,,,,,2,0,0,12
 John Fetterman,,,,,,,,2,0,12
 Ray Sosa,,,,,,,,,0,12
 Total,45,40,38,34,21,20,17,10,0,12
-,Lieutenant Governor - Democrat,,,,,Member Of The Democratic State Committee 8th Senatorial District,,,,13
-,John Fetterman,Mike Stack,Nina Ahmad,Kathi Cozzone,Ray Sosa,Kyle J Sampson,Kyle Shenandoah,Marisa Piccarreto,Torri Douglas,13
-John Fetterman,20,0,0,0,0,0,0,0,0,13
-Mike Stack,,17,0,0,0,0,0,0,0,13
-Nina Ahmad,,,13,0,0,0,0,0,0,13
-Kathi Cozzone,,,,12,0,0,0,0,0,13
-Ray Sosa,,,,,0,0,0,0,0,13
-Kyle J Sampson,,,,,,0,0,0,0,13
-Kyle Shenandoah,,,,,,,0,0,0,13
-Marisa Piccarreto,,,,,,,,0,0,13
-Torri Douglas,,,,,,,,,0,13
-Total,20,17,13,12,0,0,0,0,0,13
-,Lieutenant Governor - Democrat,,,,,Member Of The Democratic State Committee 8th Senatorial District,,,,14
-,Nina Ahmad,John Fetterman,Mike Stack,Kathi Cozzone,Ray Sosa,Kyle J Sampson,Kyle Shenandoah,Marisa Piccarreto,Torri Douglas,14
-Nina Ahmad,28,0,0,0,0,0,0,0,0,14
-John Fetterman,,21,0,0,0,0,0,0,0,14
-Mike Stack,,,18,0,0,0,0,0,0,14
-Kathi Cozzone,,,,7,0,0,0,0,0,14
-Ray Sosa,,,,,0,0,0,0,0,14
-Kyle J Sampson,,,,,,0,0,0,0,14
-Kyle Shenandoah,,,,,,,0,0,0,14
-Marisa Piccarreto,,,,,,,,0,0,14
-Torri Douglas,,,,,,,,,0,14
-Total,28,21,18,7,0,0,0,0,0,14
 ,Member Of The Democratic State Committee 8th Senatorial District,,,,Lieutenant Governor - Democrat,,,,,15
 ,Marisa Piccarreto,Torri Douglas,Kyle Shenandoah,Kyle J Sampson,Mike Stack,Kathi Cozzone,John Fetterman,Nina Ahmad,Ray Sosa,15
 Marisa Piccarreto,0,36,35,34,22,10,5,7,0,15
@@ -203,18 +155,6 @@ Kathi Cozzone,,,,,,,0,0,0,17
 John Fetterman,,,,,,,,3,0,17
 Ray Sosa,,,,,,,,,0,17
 Total,38,35,29,26,23,19,9,7,0,17
-,Lieutenant Governor - Democrat,,,,,Member Of The Democratic State Committee 8th Senatorial District,,,,18
-,Nina Ahmad,John Fetterman,Mike Stack,Kathi Cozzone,Ray Sosa,Kyle J Sampson,Kyle Shenandoah,Marisa Piccarreto,Torri Douglas,18
-Nina Ahmad,24,0,0,0,0,0,0,0,0,18
-John Fetterman,,21,0,0,0,0,0,0,0,18
-Mike Stack,,,13,0,0,0,0,0,0,18
-Kathi Cozzone,,,,11,0,0,0,0,0,18
-Ray Sosa,,,,,1,0,0,0,0,18
-Kyle J Sampson,,,,,,0,0,0,0,18
-Kyle Shenandoah,,,,,,,0,0,0,18
-Marisa Piccarreto,,,,,,,,0,0,18
-Torri Douglas,,,,,,,,,0,18
-Total,24,21,13,11,1,0,0,0,0,18
 ,Member Of The Democratic State Committee 8th Senatorial District,,,,Lieutenant Governor - Democrat,,,,,19
 ,Marisa Piccarreto,Torri Douglas,Kyle J Sampson,Kyle Shenandoah,Mike Stack,Nina Ahmad,Kathi Cozzone,John Fetterman,Ray Sosa,19
 Marisa Piccarreto,0,9,7,6,5,3,5,3,0,19
@@ -227,18 +167,6 @@ Kathi Cozzone,,,,,,,0,0,0,19
 John Fetterman,,,,,,,,0,0,19
 Ray Sosa,,,,,,,,,0,19
 Total,16,15,8,6,8,8,7,3,0,19
-,Lieutenant Governor - Democrat,,,,,Member Of The Democratic State Committee 8th Senatorial District,,,,20
-,Nina Ahmad,John Fetterman,Kathi Cozzone,Mike Stack,Ray Sosa,Kyle J Sampson,Kyle Shenandoah,Marisa Piccarreto,Torri Douglas,20
-Nina Ahmad,39,0,0,0,0,0,0,0,0,20
-John Fetterman,,36,0,0,0,0,0,0,0,20
-Kathi Cozzone,,,14,0,0,0,0,0,0,20
-Mike Stack,,,,13,0,0,0,0,0,20
-Ray Sosa,,,,,1,0,0,0,0,20
-Kyle J Sampson,,,,,,0,0,0,0,20
-Kyle Shenandoah,,,,,,,0,0,0,20
-Marisa Piccarreto,,,,,,,,0,0,20
-Torri Douglas,,,,,,,,,0,20
-Total,39,36,14,13,1,0,0,0,0,20
 ,Member Of The Democratic State Committee 8th Senatorial District,,,,Lieutenant Governor - Democrat,,,,,21
 ,Torri Douglas,Marisa Piccarreto,Kyle J Sampson,Kyle Shenandoah,Mike Stack,Kathi Cozzone,Nina Ahmad,John Fetterman,Ray Sosa,21
 Torri Douglas,0,48,46,44,19,39,6,4,0,21
@@ -275,15 +203,3 @@ Nina Ahmad,,,,,,,1,0,0,23
 John Fetterman,,,,,,,,0,0,23
 Ray Sosa,,,,,,,,,0,23
 Total,38,29,27,26,23,21,3,1,0,23
-,Member Of The Democratic State Committee 8th Senatorial District,,,,Lieutenant Governor - Democrat,,,,,All
-,Torri Douglas,Marisa Piccarreto,Kyle Shenandoah,Kyle J Sampson,Mike Stack,Nina Ahmad,Kathi Cozzone,John Fetterman,Ray Sosa,All
-Torri Douglas,10,408,381,387,190,122,184,52,1,All
-Marisa Piccarreto,,8,390,383,181,112,149,55,2,All
-Kyle Shenandoah,,,4,379,176,100,122,45,1,All
-Kyle J Sampson,,,,6,157,95,129,46,1,All
-Mike Stack,,,,,213,0,0,0,0,All
-Nina Ahmad,,,,,,197,0,0,0,All
-Kathi Cozzone,,,,,,,95,0,0,All
-John Fetterman,,,,,,,,163,0,All
-Ray Sosa,,,,,,,,,6,All
-Total,569,518,457,444,497,347,324,231,9,All

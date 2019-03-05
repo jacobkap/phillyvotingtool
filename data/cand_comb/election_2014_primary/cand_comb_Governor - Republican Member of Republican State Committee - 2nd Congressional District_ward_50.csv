@@ -1,20 +1,12 @@
 col_1,col_2,col_3,col_4,col_5,col_6,division
-,Member Of - Republican State Committee 2nd Congressional District,,,Governor - Republican,,4
-,Denise Furey,Calvin R Tucker,Walt Vogler,Robert Guzzardi,Tom Corbett,4
-Denise Furey,1,0,0,0,0,4
-Calvin R Tucker,,0,0,0,0,4
-Walt Vogler,,,0,0,0,4
-Robert Guzzardi,,,,0,0,4
-Tom Corbett,,,,,0,4
-Total,1,0,0,0,0,4
-,Governor - Republican,,Member Of - Republican State Committee 2nd Congressional District,,,5
-,Tom Corbett,Robert Guzzardi,Calvin R Tucker,Denise Furey,Walt Vogler,5
-Tom Corbett,1,0,0,0,0,5
-Robert Guzzardi,,0,0,0,0,5
-Calvin R Tucker,,,0,0,0,5
-Denise Furey,,,,0,0,5
-Walt Vogler,,,,,0,5
-Total,1,0,0,0,0,5
+,Governor - Republican,,Member Of - Republican State Committee 2nd Congressional District,,,All
+,Tom Corbett,Robert Guzzardi,Calvin R Tucker,Denise Furey,Walt Vogler,All
+Tom Corbett,4,0,10,11,9,All
+Robert Guzzardi,,0,0,0,0,All
+Calvin R Tucker,,,1,7,8,All
+Denise Furey,,,,0,7,All
+Walt Vogler,,,,,0,All
+Total,19,0,11,11,9,All
 ,Member Of - Republican State Committee 2nd Congressional District,,,Governor - Republican,,8
 ,Calvin R Tucker,Denise Furey,Walt Vogler,Tom Corbett,Robert Guzzardi,8
 Calvin R Tucker,0,0,0,2,0,8
@@ -47,14 +39,6 @@ Calvin R Tucker,,,1,2,2,12
 Denise Furey,,,,0,2,12
 Walt Vogler,,,,,0,12
 Total,4,0,3,3,2,12
-,Member Of - Republican State Committee 2nd Congressional District,,,Governor - Republican,,13
-,Calvin R Tucker,Denise Furey,Walt Vogler,Robert Guzzardi,Tom Corbett,13
-Calvin R Tucker,0,1,1,0,0,13
-Denise Furey,,0,1,0,0,13
-Walt Vogler,,,0,0,0,13
-Robert Guzzardi,,,,0,0,13
-Tom Corbett,,,,,0,13
-Total,1,1,1,0,0,13
 ,Governor - Republican,,Member Of - Republican State Committee 2nd Congressional District,,,16
 ,Tom Corbett,Robert Guzzardi,Denise Furey,Calvin R Tucker,Walt Vogler,16
 Tom Corbett,2,0,1,0,0,16
@@ -103,11 +87,3 @@ Walt Vogler,,,0,0,0,26
 Calvin R Tucker,,,,0,0,26
 Denise Furey,,,,,0,26
 Total,1,0,1,0,0,26
-,Governor - Republican,,Member Of - Republican State Committee 2nd Congressional District,,,All
-,Tom Corbett,Robert Guzzardi,Denise Furey,Calvin R Tucker,Walt Vogler,All
-Tom Corbett,5,0,11,10,9,All
-Robert Guzzardi,,0,0,0,0,All
-Denise Furey,,,1,8,8,All
-Calvin R Tucker,,,,1,9,All
-Walt Vogler,,,,,0,All
-Total,20,0,13,12,10,All

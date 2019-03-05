@@ -1,20 +1,12 @@
 col_1,col_2,col_3,col_4,col_5,col_6,division
-,United States Senator - Democrat,Member Of The Democratic State Committee 8th Senatorial District,,,,1
-,Bob Casey Jr,Kyle J Sampson,Kyle Shenandoah,Marisa Piccarreto,Torri Douglas,1
-Bob Casey Jr,58,0,0,0,0,1
-Kyle J Sampson,,0,0,0,0,1
-Kyle Shenandoah,,,0,0,0,1
-Marisa Piccarreto,,,,0,0,1
-Torri Douglas,,,,,0,1
-Total,58,0,0,0,0,1
-,United States Senator - Democrat,Member Of The Democratic State Committee 8th Senatorial District,,,,2
-,Bob Casey Jr,Kyle J Sampson,Kyle Shenandoah,Marisa Piccarreto,Torri Douglas,2
-Bob Casey Jr,83,0,0,0,0,2
-Kyle J Sampson,,0,0,0,0,2
-Kyle Shenandoah,,,0,0,0,2
-Marisa Piccarreto,,,,0,0,2
-Torri Douglas,,,,,0,2
-Total,83,0,0,0,0,2
+,United States Senator - Democrat,Member Of The Democratic State Committee 8th Senatorial District,,,,All
+,Bob Casey Jr,Torri Douglas,Marisa Piccarreto,Kyle Shenandoah,Kyle J Sampson,All
+Bob Casey Jr,191,544,488,440,428,All
+Torri Douglas,,13,408,381,387,All
+Marisa Piccarreto,,,16,390,383,All
+Kyle Shenandoah,,,,4,379,All
+Kyle J Sampson,,,,,5,All
+Total,911,569,518,457,444,All
 ,United States Senator - Democrat,Member Of The Democratic State Committee 8th Senatorial District,,,,3
 ,Bob Casey Jr,Torri Douglas,Kyle J Sampson,Marisa Piccarreto,Kyle Shenandoah,3
 Bob Casey Jr,27,36,30,28,27,3
@@ -31,14 +23,6 @@ Kyle Shenandoah,,,0,29,28,4
 Marisa Piccarreto,,,,0,26,4
 Kyle J Sampson,,,,,0,4
 Total,65,42,38,36,33,4
-,United States Senator - Democrat,Member Of The Democratic State Committee 8th Senatorial District,,,,5
-,Bob Casey Jr,Kyle J Sampson,Kyle Shenandoah,Marisa Piccarreto,Torri Douglas,5
-Bob Casey Jr,54,0,0,0,0,5
-Kyle J Sampson,,0,0,0,0,5
-Kyle Shenandoah,,,0,0,0,5
-Marisa Piccarreto,,,,0,0,5
-Torri Douglas,,,,,0,5
-Total,54,0,0,0,0,5
 ,United States Senator - Democrat,Member Of The Democratic State Committee 8th Senatorial District,,,,6
 ,Bob Casey Jr,Torri Douglas,Kyle Shenandoah,Marisa Piccarreto,Kyle J Sampson,6
 Bob Casey Jr,9,40,38,38,33,6
@@ -95,22 +79,6 @@ Marisa Piccarreto,,,1,34,30,12
 Kyle J Sampson,,,,0,31,12
 Kyle Shenandoah,,,,,0,12
 Total,68,45,40,38,34,12
-,United States Senator - Democrat,Member Of The Democratic State Committee 8th Senatorial District,,,,13
-,Bob Casey Jr,Kyle J Sampson,Kyle Shenandoah,Marisa Piccarreto,Torri Douglas,13
-Bob Casey Jr,65,0,0,0,0,13
-Kyle J Sampson,,0,0,0,0,13
-Kyle Shenandoah,,,0,0,0,13
-Marisa Piccarreto,,,,0,0,13
-Torri Douglas,,,,,0,13
-Total,65,0,0,0,0,13
-,United States Senator - Democrat,Member Of The Democratic State Committee 8th Senatorial District,,,,14
-,Bob Casey Jr,Kyle J Sampson,Kyle Shenandoah,Marisa Piccarreto,Torri Douglas,14
-Bob Casey Jr,72,0,0,0,0,14
-Kyle J Sampson,,0,0,0,0,14
-Kyle Shenandoah,,,0,0,0,14
-Marisa Piccarreto,,,,0,0,14
-Torri Douglas,,,,,0,14
-Total,72,0,0,0,0,14
 ,United States Senator - Democrat,Member Of The Democratic State Committee 8th Senatorial District,,,,15
 ,Bob Casey Jr,Marisa Piccarreto,Torri Douglas,Kyle Shenandoah,Kyle J Sampson,15
 Bob Casey Jr,10,44,44,36,35,15
@@ -135,14 +103,6 @@ Marisa Piccarreto,,,0,26,25,17
 Kyle Shenandoah,,,,0,25,17
 Kyle J Sampson,,,,,0,17
 Total,58,38,35,29,26,17
-,United States Senator - Democrat,Member Of The Democratic State Committee 8th Senatorial District,,,,18
-,Bob Casey Jr,Kyle J Sampson,Kyle Shenandoah,Marisa Piccarreto,Torri Douglas,18
-Bob Casey Jr,71,0,0,0,0,18
-Kyle J Sampson,,0,0,0,0,18
-Kyle Shenandoah,,,0,0,0,18
-Marisa Piccarreto,,,,0,0,18
-Torri Douglas,,,,,0,18
-Total,71,0,0,0,0,18
 ,United States Senator - Democrat,Member Of The Democratic State Committee 8th Senatorial District,,,,19
 ,Bob Casey Jr,Marisa Piccarreto,Torri Douglas,Kyle J Sampson,Kyle Shenandoah,19
 Bob Casey Jr,2,14,13,8,6,19
@@ -151,14 +111,6 @@ Torri Douglas,,,2,7,6,19
 Kyle J Sampson,,,,0,6,19
 Kyle Shenandoah,,,,,0,19
 Total,21,16,15,8,6,19
-,United States Senator - Democrat,Member Of The Democratic State Committee 8th Senatorial District,,,,20
-,Bob Casey Jr,Kyle J Sampson,Kyle Shenandoah,Marisa Piccarreto,Torri Douglas,20
-Bob Casey Jr,106,0,0,0,0,20
-Kyle J Sampson,,0,0,0,0,20
-Kyle Shenandoah,,,0,0,0,20
-Marisa Piccarreto,,,,0,0,20
-Torri Douglas,,,,,0,20
-Total,106,0,0,0,0,20
 ,United States Senator - Democrat,Member Of The Democratic State Committee 8th Senatorial District,,,,21
 ,Bob Casey Jr,Torri Douglas,Marisa Piccarreto,Kyle J Sampson,Kyle Shenandoah,21
 Bob Casey Jr,43,66,50,52,46,21
@@ -183,11 +135,3 @@ Kyle Shenandoah,,,0,25,25,23
 Kyle J Sampson,,,,0,24,23
 Marisa Piccarreto,,,,,0,23
 Total,50,38,29,27,26,23
-,United States Senator - Democrat,Member Of The Democratic State Committee 8th Senatorial District,,,,All
-,Bob Casey Jr,Torri Douglas,Marisa Piccarreto,Kyle Shenandoah,Kyle J Sampson,All
-Bob Casey Jr,700,544,488,440,428,All
-Torri Douglas,,13,408,381,387,All
-Marisa Piccarreto,,,16,390,383,All
-Kyle Shenandoah,,,,4,379,All
-Kyle J Sampson,,,,,5,All
-Total,"1,420",569,518,457,444,All

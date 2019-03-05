@@ -1,14 +1,14 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,division
-,Attorney General - Republican,Delegate To The Republican National Convention 1st District,,,,,,All
-,David J Freed,Christopher M Vogler,Marion S Taxin,Tom Boggia,Frederick W Anton,Michael W Untermeyer,Dale Kerns,All
-David J Freed,48,370,212,186,118,143,100,All
-Christopher M Vogler,,74,246,147,145,95,61,All
-Marion S Taxin,,,10,114,113,28,21,All
-Tom Boggia,,,,11,14,45,39,All
-Frederick W Anton,,,,,3,47,37,All
-Michael W Untermeyer,,,,,,12,67,All
-Dale Kerns,,,,,,,5,All
-Total,546,541,303,226,193,176,130,All
+,Delegate To The Republican National Convention 1st District,,,,,,Attorney General - Republican,All
+,Christopher M Vogler,Marion S Taxin,Tom Boggia,Frederick W Anton,Michael W Untermeyer,Dale Kerns,David J Freed,All
+Christopher M Vogler,74,246,147,145,95,61,370,All
+Marion S Taxin,,10,114,113,28,21,212,All
+Tom Boggia,,,11,14,45,39,186,All
+Frederick W Anton,,,,3,47,37,118,All
+Michael W Untermeyer,,,,,12,67,143,All
+Dale Kerns,,,,,,5,100,All
+David J Freed,,,,,,,21,All
+Total,541,303,226,193,176,130,519,All
 ,Delegate To The Republican National Convention 1st District,,,,,,Attorney General - Republican,1
 ,Christopher M Vogler,Marion S Taxin,Frederick W Anton,Michael W Untermeyer,Tom Boggia,Dale Kerns,David J Freed,1
 Christopher M Vogler,4,15,11,3,4,0,15,1
@@ -239,16 +239,6 @@ Frederick W Anton,,,,,0,1,2,23
 Michael W Untermeyer,,,,,,0,2,23
 David J Freed,,,,,,,0,23
 Total,9,8,5,3,3,3,8,23
-,Attorney General - Republican,Delegate To The Republican National Convention 1st District,,,,,,24
-,David J Freed,Christopher M Vogler,Dale Kerns,Frederick W Anton,Marion S Taxin,Michael W Untermeyer,Tom Boggia,24
-David J Freed,27,0,0,0,0,0,0,24
-Christopher M Vogler,,0,0,0,0,0,0,24
-Dale Kerns,,,0,0,0,0,0,24
-Frederick W Anton,,,,0,0,0,0,24
-Marion S Taxin,,,,,0,0,0,24
-Michael W Untermeyer,,,,,,0,0,24
-Tom Boggia,,,,,,,0,24
-Total,27,0,0,0,0,0,0,24
 ,Attorney General - Republican,Delegate To The Republican National Convention 1st District,,,,,,25
 ,David J Freed,Christopher M Vogler,Marion S Taxin,Dale Kerns,Frederick W Anton,Michael W Untermeyer,Tom Boggia,25
 David J Freed,0,15,10,5,4,5,4,25

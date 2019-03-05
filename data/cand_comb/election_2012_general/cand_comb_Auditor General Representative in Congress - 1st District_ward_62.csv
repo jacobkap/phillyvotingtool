@@ -1,12 +1,12 @@
 col_1,col_2,col_3,col_4,col_5,col_6,division
-,Auditor General,,,Representative In Congress 1st District,,All
-,Eugene A Depasquale,John Maher,Betsy Elizabeth Summers,Robert A Brady,John Featherman,All
-Eugene A Depasquale,581,0,0,"6,956",52,All
-John Maher,,117,0,292,832,All
-Betsy Elizabeth Summers,,,13,38,16,All
-Robert A Brady,,,,129,0,All
-John Featherman,,,,,14,All
-Total,"7,589","1,241",67,"7,415",914,All
+,Representative In Congress 1st District,,Auditor General,,,All
+,Robert A Brady,John Featherman,Eugene A Depasquale,John Maher,Betsy Elizabeth Summers,All
+Robert A Brady,129,0,"6,956",292,38,All
+John Featherman,,14,52,832,16,All
+Eugene A Depasquale,,,31,0,0,All
+John Maher,,,,19,0,All
+Betsy Elizabeth Summers,,,,,6,All
+Total,"7,415",914,"7,039","1,143",60,All
 ,Representative In Congress 1st District,,Auditor General,,,1
 ,Robert A Brady,John Featherman,Eugene A Depasquale,John Maher,Betsy Elizabeth Summers,1
 Robert A Brady,7,0,325,11,4,1
@@ -79,14 +79,6 @@ Eugene A Depasquale,,,2,0,0,9
 John Maher,,,,1,0,9
 Betsy Elizabeth Summers,,,,,0,9
 Total,316,20,310,24,0,9
-,Auditor General,,,Representative In Congress 1st District,,10
-,Eugene A Depasquale,John Maher,Betsy Elizabeth Summers,John Featherman,Robert A Brady,10
-Eugene A Depasquale,272,0,0,0,0,10
-John Maher,,32,0,0,0,10
-Betsy Elizabeth Summers,,,5,0,0,10
-John Featherman,,,,0,0,10
-Robert A Brady,,,,,0,10
-Total,272,32,5,0,0,10
 ,Representative In Congress 1st District,,Auditor General,,,11
 ,Robert A Brady,John Featherman,Eugene A Depasquale,John Maher,Betsy Elizabeth Summers,11
 Robert A Brady,7,0,390,8,3,11
@@ -159,14 +151,6 @@ Eugene A Depasquale,,,1,0,0,19
 John Maher,,,,3,0,19
 Betsy Elizabeth Summers,,,,,0,19
 Total,213,52,196,68,1,19
-,Auditor General,,,Representative In Congress 1st District,,20
-,Eugene A Depasquale,John Maher,Betsy Elizabeth Summers,John Featherman,Robert A Brady,20
-Eugene A Depasquale,278,0,0,0,0,20
-John Maher,,66,0,0,0,20
-Betsy Elizabeth Summers,,,2,0,0,20
-John Featherman,,,,0,0,20
-Robert A Brady,,,,,0,20
-Total,278,66,2,0,0,20
 ,Representative In Congress 1st District,,Auditor General,,,21
 ,Robert A Brady,John Featherman,Eugene A Depasquale,John Maher,Betsy Elizabeth Summers,21
 Robert A Brady,6,0,182,12,3,21

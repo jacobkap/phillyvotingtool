@@ -1,12 +1,12 @@
 col_1,col_2,col_3,col_4,col_5,col_6,division
 ,Attorney General - Republican,President Of The United States - Republican,,,,All
 ,David J Freed,Newt Gingrich,Mitt Romney,Ron Paul,Rick Santorum,All
-David J Freed,3,9,5,3,3,All
-Newt Gingrich,,1,0,0,0,All
-Mitt Romney,,,4,0,0,All
-Ron Paul,,,,3,0,All
+David J Freed,1,9,5,3,3,All
+Newt Gingrich,,0,0,0,0,All
+Mitt Romney,,,1,0,0,All
+Ron Paul,,,,2,0,All
 Rick Santorum,,,,,1,All
-Total,23,10,9,6,4,All
+Total,21,9,6,5,4,All
 ,President Of The United States - Republican,,,,Attorney General - Republican,1
 ,Ron Paul,Mitt Romney,Newt Gingrich,Rick Santorum,David J Freed,1
 Ron Paul,1,0,0,0,1,1
@@ -23,14 +23,6 @@ Mitt Romney,,,1,0,0,2
 Rick Santorum,,,,0,0,2
 Ron Paul,,,,,0,2
 Total,5,5,1,0,0,2
-,Attorney General - Republican,President Of The United States - Republican,,,,3
-,David J Freed,Mitt Romney,Newt Gingrich,Rick Santorum,Ron Paul,3
-David J Freed,1,0,0,0,0,3
-Mitt Romney,,0,0,0,0,3
-Newt Gingrich,,,0,0,0,3
-Rick Santorum,,,,0,0,3
-Ron Paul,,,,,0,3
-Total,1,0,0,0,0,3
 ,Attorney General - Republican,President Of The United States - Republican,,,,6
 ,David J Freed,Newt Gingrich,Mitt Romney,Rick Santorum,Ron Paul,6
 David J Freed,0,1,0,0,0,6
@@ -39,30 +31,6 @@ Mitt Romney,,,0,0,0,6
 Rick Santorum,,,,0,0,6
 Ron Paul,,,,,0,6
 Total,1,1,0,0,0,6
-,President Of The United States - Republican,,,,Attorney General - Republican,7
-,Mitt Romney,Newt Gingrich,Rick Santorum,Ron Paul,David J Freed,7
-Mitt Romney,1,0,0,0,0,7
-Newt Gingrich,,0,0,0,0,7
-Rick Santorum,,,0,0,0,7
-Ron Paul,,,,0,0,7
-David J Freed,,,,,0,7
-Total,1,0,0,0,0,7
-,President Of The United States - Republican,,,,Attorney General - Republican,8
-,Newt Gingrich,Mitt Romney,Rick Santorum,Ron Paul,David J Freed,8
-Newt Gingrich,1,0,0,0,0,8
-Mitt Romney,,0,0,0,0,8
-Rick Santorum,,,0,0,0,8
-Ron Paul,,,,0,0,8
-David J Freed,,,,,0,8
-Total,1,0,0,0,0,8
-,President Of The United States - Republican,,,,Attorney General - Republican,10
-,Ron Paul,Mitt Romney,Newt Gingrich,Rick Santorum,David J Freed,10
-Ron Paul,1,0,0,0,0,10
-Mitt Romney,,0,0,0,0,10
-Newt Gingrich,,,0,0,0,10
-Rick Santorum,,,,0,0,10
-David J Freed,,,,,0,10
-Total,1,0,0,0,0,10
 ,Attorney General - Republican,President Of The United States - Republican,,,,14
 ,David J Freed,Mitt Romney,Newt Gingrich,Rick Santorum,Ron Paul,14
 David J Freed,0,2,1,0,0,14
@@ -71,14 +39,6 @@ Newt Gingrich,,,0,0,0,14
 Rick Santorum,,,,0,0,14
 Ron Paul,,,,,0,14
 Total,3,2,1,0,0,14
-,President Of The United States - Republican,,,,Attorney General - Republican,16
-,Mitt Romney,Newt Gingrich,Rick Santorum,Ron Paul,David J Freed,16
-Mitt Romney,1,0,0,0,0,16
-Newt Gingrich,,0,0,0,0,16
-Rick Santorum,,,0,0,0,16
-Ron Paul,,,,0,0,16
-David J Freed,,,,,0,16
-Total,1,0,0,0,0,16
 ,Attorney General - Republican,President Of The United States - Republican,,,,17
 ,David J Freed,Mitt Romney,Newt Gingrich,Rick Santorum,Ron Paul,17
 David J Freed,0,1,0,0,0,17
@@ -87,14 +47,6 @@ Newt Gingrich,,,0,0,0,17
 Rick Santorum,,,,0,0,17
 Ron Paul,,,,,0,17
 Total,1,1,0,0,0,17
-,Attorney General - Republican,President Of The United States - Republican,,,,19
-,David J Freed,Mitt Romney,Newt Gingrich,Rick Santorum,Ron Paul,19
-David J Freed,1,0,0,0,0,19
-Mitt Romney,,0,0,0,0,19
-Newt Gingrich,,,0,0,0,19
-Rick Santorum,,,,0,0,19
-Ron Paul,,,,,0,19
-Total,1,0,0,0,0,19
 ,Attorney General - Republican,President Of The United States - Republican,,,,22
 ,David J Freed,Ron Paul,Mitt Romney,Newt Gingrich,Rick Santorum,22
 David J Freed,0,1,0,0,0,22
@@ -127,14 +79,6 @@ Newt Gingrich,,,0,0,0,25
 Rick Santorum,,,,0,0,25
 Ron Paul,,,,,0,25
 Total,2,1,0,0,0,25
-,President Of The United States - Republican,,,,Attorney General - Republican,27
-,Mitt Romney,Newt Gingrich,Rick Santorum,Ron Paul,David J Freed,27
-Mitt Romney,1,0,0,0,0,27
-Newt Gingrich,,0,0,0,0,27
-Rick Santorum,,,0,0,0,27
-Ron Paul,,,,0,0,27
-David J Freed,,,,,0,27
-Total,1,0,0,0,0,27
 ,Attorney General - Republican,President Of The United States - Republican,,,,28
 ,David J Freed,Rick Santorum,Mitt Romney,Newt Gingrich,Ron Paul,28
 David J Freed,0,1,0,0,0,28

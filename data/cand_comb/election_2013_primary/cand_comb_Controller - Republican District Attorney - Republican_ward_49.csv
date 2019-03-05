@@ -1,4 +1,9 @@
 col_1,col_2,col_3,division
+,District Attorney - Republican,Controller - Republican,All
+,Daniel A Alvarez,Terrence J Tracy Jr,All
+Daniel A Alvarez,0,14,All
+Terrence J Tracy Jr,,0,All
+Total,14,14,All
 ,District Attorney - Republican,Controller - Republican,2
 ,Daniel A Alvarez,Terrence J Tracy Jr,2
 Daniel A Alvarez,0,4,2
@@ -14,11 +19,6 @@ Total,1,1,3
 Daniel A Alvarez,0,1,5
 Terrence J Tracy Jr,,0,5
 Total,1,1,5
-,Controller - Republican,District Attorney - Republican,10
-,Terrence J Tracy Jr,Daniel A Alvarez,10
-Terrence J Tracy Jr,1,0,10
-Daniel A Alvarez,,0,10
-Total,1,0,10
 ,District Attorney - Republican,Controller - Republican,15
 ,Daniel A Alvarez,Terrence J Tracy Jr,15
 Daniel A Alvarez,0,1,15
@@ -39,8 +39,3 @@ Total,4,4,21
 Daniel A Alvarez,0,1,22
 Terrence J Tracy Jr,,0,22
 Total,1,1,22
-,Controller - Republican,District Attorney - Republican,All
-,Terrence J Tracy Jr,Daniel A Alvarez,All
-Terrence J Tracy Jr,1,14,All
-Daniel A Alvarez,,0,All
-Total,15,14,All

@@ -3,10 +3,10 @@ col_1,col_2,col_3,col_4,col_5,col_6,division
 ,Robert Allen Mansfield Jr,Mitt Romney,Newt Gingrich,Rick Santorum,Ron Paul,All
 Robert Allen Mansfield Jr,3,10,5,2,1,All
 Mitt Romney,,4,0,0,0,All
-Newt Gingrich,,,1,0,0,All
-Rick Santorum,,,,4,0,All
+Newt Gingrich,,,0,0,0,All
+Rick Santorum,,,,2,0,All
 Ron Paul,,,,,0,All
-Total,21,14,6,6,1,All
+Total,21,14,5,4,1,All
 ,President Of The United States - Republican,,,,Representative In Congress 2nd District - Republican,1
 ,Newt Gingrich,Mitt Romney,Rick Santorum,Ron Paul,Robert Allen Mansfield Jr,1
 Newt Gingrich,0,0,0,0,1,1
@@ -15,14 +15,6 @@ Rick Santorum,,,0,0,0,1
 Ron Paul,,,,0,0,1
 Robert Allen Mansfield Jr,,,,,0,1
 Total,1,0,0,0,1,1
-,President Of The United States - Republican,,,,Representative In Congress 2nd District - Republican,2
-,Newt Gingrich,Mitt Romney,Rick Santorum,Ron Paul,Robert Allen Mansfield Jr,2
-Newt Gingrich,1,0,0,0,0,2
-Mitt Romney,,0,0,0,0,2
-Rick Santorum,,,0,0,0,2
-Ron Paul,,,,0,0,2
-Robert Allen Mansfield Jr,,,,,0,2
-Total,1,0,0,0,0,2
 ,President Of The United States - Republican,,,,Representative In Congress 2nd District - Republican,3
 ,Mitt Romney,Newt Gingrich,Rick Santorum,Ron Paul,Robert Allen Mansfield Jr,3
 Mitt Romney,0,0,0,0,1,3
@@ -79,14 +71,6 @@ Rick Santorum,,,0,0,0,11
 Ron Paul,,,,0,0,11
 Robert Allen Mansfield Jr,,,,,0,11
 Total,1,0,0,0,1,11
-,President Of The United States - Republican,,,,Representative In Congress 2nd District - Republican,12
-,Rick Santorum,Mitt Romney,Newt Gingrich,Ron Paul,Robert Allen Mansfield Jr,12
-Rick Santorum,1,0,0,0,0,12
-Mitt Romney,,0,0,0,0,12
-Newt Gingrich,,,0,0,0,12
-Ron Paul,,,,0,0,12
-Robert Allen Mansfield Jr,,,,,0,12
-Total,1,0,0,0,0,12
 ,President Of The United States - Republican,,,,Representative In Congress 2nd District - Republican,13
 ,Mitt Romney,Newt Gingrich,Rick Santorum,Ron Paul,Robert Allen Mansfield Jr,13
 Mitt Romney,0,0,0,0,1,13
@@ -135,14 +119,6 @@ Newt Gingrich,,,0,0,0,23
 Ron Paul,,,,0,0,23
 Robert Allen Mansfield Jr,,,,,0,23
 Total,3,1,0,0,2,23
-,President Of The United States - Republican,,,,Representative In Congress 2nd District - Republican,24
-,Rick Santorum,Mitt Romney,Newt Gingrich,Ron Paul,Robert Allen Mansfield Jr,24
-Rick Santorum,1,0,0,0,0,24
-Mitt Romney,,0,0,0,0,24
-Newt Gingrich,,,0,0,0,24
-Ron Paul,,,,0,0,24
-Robert Allen Mansfield Jr,,,,,0,24
-Total,1,0,0,0,0,24
 ,President Of The United States - Republican,,,,Representative In Congress 2nd District - Republican,27
 ,Mitt Romney,Newt Gingrich,Rick Santorum,Ron Paul,Robert Allen Mansfield Jr,27
 Mitt Romney,0,0,0,0,1,27

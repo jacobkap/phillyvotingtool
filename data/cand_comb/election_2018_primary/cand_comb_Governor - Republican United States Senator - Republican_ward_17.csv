@@ -1,4 +1,12 @@
 col_1,col_2,col_3,col_4,col_5,col_6,division
+,United States Senator - Republican,,Governor - Republican,,,All
+,Jim Christiana,Lou Barletta,Scott R Wagner,Paul Mango,Laura Ellsworth,All
+Jim Christiana,0,0,6,2,1,All
+Lou Barletta,,0,2,3,1,All
+Scott R Wagner,,,0,0,0,All
+Paul Mango,,,,0,0,All
+Laura Ellsworth,,,,,0,All
+Total,9,6,8,5,2,All
 ,United States Senator - Republican,,Governor - Republican,,,1
 ,Lou Barletta,Jim Christiana,Scott R Wagner,Laura Ellsworth,Paul Mango,1
 Lou Barletta,0,0,1,0,0,1
@@ -7,14 +15,6 @@ Scott R Wagner,,,0,0,0,1
 Laura Ellsworth,,,,0,0,1
 Paul Mango,,,,,0,1
 Total,1,0,1,0,0,1
-,Governor - Republican,,,United States Senator - Republican,,4
-,Laura Ellsworth,Paul Mango,Scott R Wagner,Jim Christiana,Lou Barletta,4
-Laura Ellsworth,1,0,0,0,0,4
-Paul Mango,,0,0,0,0,4
-Scott R Wagner,,,0,0,0,4
-Jim Christiana,,,,0,0,4
-Lou Barletta,,,,,0,4
-Total,1,0,0,0,0,4
 ,United States Senator - Republican,,Governor - Republican,,,8
 ,Lou Barletta,Jim Christiana,Paul Mango,Laura Ellsworth,Scott R Wagner,8
 Lou Barletta,0,0,1,0,0,8
@@ -47,14 +47,6 @@ Scott R Wagner,,,0,0,0,12
 Laura Ellsworth,,,,0,0,12
 Paul Mango,,,,,0,12
 Total,1,0,1,0,0,12
-,United States Senator - Republican,,Governor - Republican,,,13
-,Jim Christiana,Lou Barletta,Laura Ellsworth,Paul Mango,Scott R Wagner,13
-Jim Christiana,1,0,0,0,0,13
-Lou Barletta,,0,0,0,0,13
-Laura Ellsworth,,,0,0,0,13
-Paul Mango,,,,0,0,13
-Scott R Wagner,,,,,0,13
-Total,1,0,0,0,0,13
 ,United States Senator - Republican,,Governor - Republican,,,14
 ,Jim Christiana,Lou Barletta,Scott R Wagner,Laura Ellsworth,Paul Mango,14
 Jim Christiana,0,0,1,0,0,14
@@ -103,11 +95,3 @@ Scott R Wagner,,,0,0,0,29
 Laura Ellsworth,,,,0,0,29
 Paul Mango,,,,,0,29
 Total,1,0,1,0,0,29
-,United States Senator - Republican,,Governor - Republican,,,All
-,Jim Christiana,Lou Barletta,Scott R Wagner,Paul Mango,Laura Ellsworth,All
-Jim Christiana,1,0,6,2,1,All
-Lou Barletta,,0,2,3,1,All
-Scott R Wagner,,,0,0,0,All
-Paul Mango,,,,0,0,All
-Laura Ellsworth,,,,,1,All
-Total,10,6,8,5,3,All

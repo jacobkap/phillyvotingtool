@@ -1,100 +1,12 @@
 col_1,col_2,col_3,col_4,col_5,col_6,division
-,Auditor General,,,Representative In Congress 1st District,,All
-,Eugene A Depasquale,John Maher,Betsy Elizabeth Summers,Robert A Brady,John Featherman,All
-Eugene A Depasquale,"3,123",0,0,119,3,All
-John Maher,,"2,530",0,17,37,All
-Betsy Elizabeth Summers,,,74,2,3,All
-Robert A Brady,,,,3,0,All
-John Featherman,,,,,0,All
-Total,"3,245","2,584",79,141,43,All
-,Auditor General,,,Representative In Congress 1st District,,1
-,Eugene A Depasquale,John Maher,Betsy Elizabeth Summers,John Featherman,Robert A Brady,1
-Eugene A Depasquale,211,0,0,0,0,1
-John Maher,,122,0,0,0,1
-Betsy Elizabeth Summers,,,5,0,0,1
-John Featherman,,,,0,0,1
-Robert A Brady,,,,,0,1
-Total,211,122,5,0,0,1
-,Auditor General,,,Representative In Congress 1st District,,2
-,John Maher,Eugene A Depasquale,Betsy Elizabeth Summers,John Featherman,Robert A Brady,2
-John Maher,211,0,0,0,0,2
-Eugene A Depasquale,,185,0,0,0,2
-Betsy Elizabeth Summers,,,5,0,0,2
-John Featherman,,,,0,0,2
-Robert A Brady,,,,,0,2
-Total,211,185,5,0,0,2
-,Auditor General,,,Representative In Congress 1st District,,3
-,Eugene A Depasquale,John Maher,Betsy Elizabeth Summers,John Featherman,Robert A Brady,3
-Eugene A Depasquale,193,0,0,0,0,3
-John Maher,,119,0,0,0,3
-Betsy Elizabeth Summers,,,7,0,0,3
-John Featherman,,,,0,0,3
-Robert A Brady,,,,,0,3
-Total,193,119,7,0,0,3
-,Auditor General,,,Representative In Congress 1st District,,4
-,Eugene A Depasquale,John Maher,Betsy Elizabeth Summers,John Featherman,Robert A Brady,4
-Eugene A Depasquale,182,0,0,0,0,4
-John Maher,,156,0,0,0,4
-Betsy Elizabeth Summers,,,4,0,0,4
-John Featherman,,,,0,0,4
-Robert A Brady,,,,,0,4
-Total,182,156,4,0,0,4
-,Auditor General,,,Representative In Congress 1st District,,5
-,Eugene A Depasquale,John Maher,Betsy Elizabeth Summers,John Featherman,Robert A Brady,5
-Eugene A Depasquale,266,0,0,0,0,5
-John Maher,,185,0,0,0,5
-Betsy Elizabeth Summers,,,4,0,0,5
-John Featherman,,,,0,0,5
-Robert A Brady,,,,,0,5
-Total,266,185,4,0,0,5
-,Auditor General,,,Representative In Congress 1st District,,6
-,Eugene A Depasquale,John Maher,Betsy Elizabeth Summers,John Featherman,Robert A Brady,6
-Eugene A Depasquale,194,0,0,0,0,6
-John Maher,,160,0,0,0,6
-Betsy Elizabeth Summers,,,8,0,0,6
-John Featherman,,,,0,0,6
-Robert A Brady,,,,,0,6
-Total,194,160,8,0,0,6
-,Auditor General,,,Representative In Congress 1st District,,7
-,Eugene A Depasquale,John Maher,Betsy Elizabeth Summers,John Featherman,Robert A Brady,7
-Eugene A Depasquale,173,0,0,0,0,7
-John Maher,,140,0,0,0,7
-Betsy Elizabeth Summers,,,5,0,0,7
-John Featherman,,,,0,0,7
-Robert A Brady,,,,,0,7
-Total,173,140,5,0,0,7
-,Auditor General,,,Representative In Congress 1st District,,8
-,Eugene A Depasquale,John Maher,Betsy Elizabeth Summers,John Featherman,Robert A Brady,8
-Eugene A Depasquale,171,0,0,0,0,8
-John Maher,,163,0,0,0,8
-Betsy Elizabeth Summers,,,3,0,0,8
-John Featherman,,,,0,0,8
-Robert A Brady,,,,,0,8
-Total,171,163,3,0,0,8
-,Auditor General,,,Representative In Congress 1st District,,9
-,Eugene A Depasquale,John Maher,Betsy Elizabeth Summers,John Featherman,Robert A Brady,9
-Eugene A Depasquale,158,0,0,0,0,9
-John Maher,,102,0,0,0,9
-Betsy Elizabeth Summers,,,3,0,0,9
-John Featherman,,,,0,0,9
-Robert A Brady,,,,,0,9
-Total,158,102,3,0,0,9
-,Auditor General,,,Representative In Congress 1st District,,10
-,Eugene A Depasquale,John Maher,Betsy Elizabeth Summers,John Featherman,Robert A Brady,10
-Eugene A Depasquale,196,0,0,0,0,10
-John Maher,,128,0,0,0,10
-Betsy Elizabeth Summers,,,2,0,0,10
-John Featherman,,,,0,0,10
-Robert A Brady,,,,,0,10
-Total,196,128,2,0,0,10
-,Auditor General,,,Representative In Congress 1st District,,11
-,Eugene A Depasquale,John Maher,Betsy Elizabeth Summers,John Featherman,Robert A Brady,11
-Eugene A Depasquale,156,0,0,0,0,11
-John Maher,,140,0,0,0,11
-Betsy Elizabeth Summers,,,8,0,0,11
-John Featherman,,,,0,0,11
-Robert A Brady,,,,,0,11
-Total,156,140,8,0,0,11
+,Representative In Congress 1st District,,Auditor General,,,All
+,Robert A Brady,John Featherman,Eugene A Depasquale,John Maher,Betsy Elizabeth Summers,All
+Robert A Brady,3,0,119,17,2,All
+John Featherman,,0,3,37,3,All
+Eugene A Depasquale,,,1,0,0,All
+John Maher,,,,4,0,All
+Betsy Elizabeth Summers,,,,,1,All
+Total,141,43,123,58,6,All
 ,Representative In Congress 1st District,,Auditor General,,,12
 ,Robert A Brady,John Featherman,Eugene A Depasquale,John Maher,Betsy Elizabeth Summers,12
 Robert A Brady,3,0,119,17,2,12
@@ -103,51 +15,3 @@ Eugene A Depasquale,,,1,0,0,12
 John Maher,,,,4,0,12
 Betsy Elizabeth Summers,,,,,1,12
 Total,141,43,123,58,6,12
-,Auditor General,,,Representative In Congress 1st District,,13
-,John Maher,Eugene A Depasquale,Betsy Elizabeth Summers,John Featherman,Robert A Brady,13
-John Maher,168,0,0,0,0,13
-Eugene A Depasquale,,157,0,0,0,13
-Betsy Elizabeth Summers,,,4,0,0,13
-John Featherman,,,,0,0,13
-Robert A Brady,,,,,0,13
-Total,168,157,4,0,0,13
-,Auditor General,,,Representative In Congress 1st District,,14
-,John Maher,Eugene A Depasquale,Betsy Elizabeth Summers,John Featherman,Robert A Brady,14
-John Maher,144,0,0,0,0,14
-Eugene A Depasquale,,129,0,0,0,14
-Betsy Elizabeth Summers,,,8,0,0,14
-John Featherman,,,,0,0,14
-Robert A Brady,,,,,0,14
-Total,144,129,8,0,0,14
-,Auditor General,,,Representative In Congress 1st District,,15
-,Eugene A Depasquale,John Maher,Betsy Elizabeth Summers,John Featherman,Robert A Brady,15
-Eugene A Depasquale,113,0,0,0,0,15
-John Maher,,54,0,0,0,15
-Betsy Elizabeth Summers,,,1,0,0,15
-John Featherman,,,,0,0,15
-Robert A Brady,,,,,0,15
-Total,113,54,1,0,0,15
-,Auditor General,,,Representative In Congress 1st District,,16
-,Eugene A Depasquale,John Maher,Betsy Elizabeth Summers,John Featherman,Robert A Brady,16
-Eugene A Depasquale,210,0,0,0,0,16
-John Maher,,178,0,0,0,16
-Betsy Elizabeth Summers,,,3,0,0,16
-John Featherman,,,,0,0,16
-Robert A Brady,,,,,0,16
-Total,210,178,3,0,0,16
-,Auditor General,,,Representative In Congress 1st District,,17
-,Eugene A Depasquale,John Maher,Betsy Elizabeth Summers,John Featherman,Robert A Brady,17
-Eugene A Depasquale,150,0,0,0,0,17
-John Maher,,135,0,0,0,17
-Betsy Elizabeth Summers,,,0,0,0,17
-John Featherman,,,,0,0,17
-Robert A Brady,,,,,0,17
-Total,150,135,0,0,0,17
-,Auditor General,,,Representative In Congress 1st District,,18
-,Eugene A Depasquale,John Maher,Betsy Elizabeth Summers,John Featherman,Robert A Brady,18
-Eugene A Depasquale,278,0,0,0,0,18
-John Maher,,221,0,0,0,18
-Betsy Elizabeth Summers,,,3,0,0,18
-John Featherman,,,,0,0,18
-Robert A Brady,,,,,0,18
-Total,278,221,3,0,0,18

@@ -1,10 +1,10 @@
 col_1,col_2,col_3,col_4,division
-,United States Senator - Republican,,Representative In Congress 3rd District - Republican,3
-,Jim Christiana,Lou Barletta,Bryan E Leib,3
-Jim Christiana,1,0,0,3
-Lou Barletta,,0,0,3
-Bryan E Leib,,,0,3
-Total,1,0,0,3
+,Representative In Congress 3rd District - Republican,United States Senator - Republican,,All
+,Bryan E Leib,Lou Barletta,Jim Christiana,All
+Bryan E Leib,6,44,32,All
+Lou Barletta,,8,0,All
+Jim Christiana,,,1,All
+Total,82,52,33,All
 ,Representative In Congress 3rd District - Republican,United States Senator - Republican,,7
 ,Bryan E Leib,Jim Christiana,Lou Barletta,7
 Bryan E Leib,0,1,0,7
@@ -137,9 +137,3 @@ Bryan E Leib,0,3,1,41
 Jim Christiana,,0,0,41
 Lou Barletta,,,1,41
 Total,4,3,2,41
-,Representative In Congress 3rd District - Republican,United States Senator - Republican,,All
-,Bryan E Leib,Lou Barletta,Jim Christiana,All
-Bryan E Leib,6,44,32,All
-Lou Barletta,,8,0,All
-Jim Christiana,,,2,All
-Total,82,52,34,All

@@ -1,13 +1,13 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,division
 ,Attorney General - Republican,United States Senator - Republican,,,,,All
-,David J Freed,Tom Smith,Steven D Welch,David Alan Christian,Sam Rohrer,Marc A Scaringi,All
-David J Freed,4,29,25,22,7,7,All
-Tom Smith,,11,0,0,0,0,All
-Steven D Welch,,,3,0,0,0,All
-David Alan Christian,,,,5,0,0,All
-Sam Rohrer,,,,,5,0,All
-Marc A Scaringi,,,,,,2,All
-Total,94,40,28,27,12,9,All
+,David J Freed,Tom Smith,David Alan Christian,Steven D Welch,Sam Rohrer,Marc A Scaringi,All
+David J Freed,3,29,22,25,7,7,All
+Tom Smith,,10,0,0,0,0,All
+David Alan Christian,,,5,0,0,0,All
+Steven D Welch,,,,1,0,0,All
+Sam Rohrer,,,,,4,0,All
+Marc A Scaringi,,,,,,1,All
+Total,93,39,27,26,11,8,All
 ,United States Senator - Republican,,,,,Attorney General - Republican,1
 ,David Alan Christian,Tom Smith,Marc A Scaringi,Sam Rohrer,Steven D Welch,David J Freed,1
 David Alan Christian,1,0,0,0,0,0,1
@@ -80,15 +80,6 @@ Marc A Scaringi,,,,0,0,0,14
 Sam Rohrer,,,,,0,0,14
 Steven D Welch,,,,,,0,14
 Total,1,1,0,0,0,0,14
-,Attorney General - Republican,United States Senator - Republican,,,,,16
-,David J Freed,David Alan Christian,Marc A Scaringi,Sam Rohrer,Steven D Welch,Tom Smith,16
-David J Freed,1,0,0,0,0,0,16
-David Alan Christian,,0,0,0,0,0,16
-Marc A Scaringi,,,0,0,0,0,16
-Sam Rohrer,,,,0,0,0,16
-Steven D Welch,,,,,0,0,16
-Tom Smith,,,,,,0,16
-Total,1,0,0,0,0,0,16
 ,United States Senator - Republican,,,,,Attorney General - Republican,17
 ,Tom Smith,Steven D Welch,David Alan Christian,Marc A Scaringi,Sam Rohrer,David J Freed,17
 Tom Smith,1,0,0,0,0,1,17
@@ -197,24 +188,6 @@ David Alan Christian,,,,0,0,0,28
 Marc A Scaringi,,,,,0,0,28
 Sam Rohrer,,,,,,0,28
 Total,6,2,2,1,1,0,28
-,United States Senator - Republican,,,,,Attorney General - Republican,29
-,Steven D Welch,David Alan Christian,Marc A Scaringi,Sam Rohrer,Tom Smith,David J Freed,29
-Steven D Welch,1,0,0,0,0,0,29
-David Alan Christian,,0,0,0,0,0,29
-Marc A Scaringi,,,0,0,0,0,29
-Sam Rohrer,,,,0,0,0,29
-Tom Smith,,,,,0,0,29
-David J Freed,,,,,,0,29
-Total,1,0,0,0,0,0,29
-,United States Senator - Republican,,,,,Attorney General - Republican,30
-,Marc A Scaringi,Sam Rohrer,Steven D Welch,David Alan Christian,Tom Smith,David J Freed,30
-Marc A Scaringi,1,0,0,0,0,0,30
-Sam Rohrer,,1,0,0,0,0,30
-Steven D Welch,,,1,0,0,0,30
-David Alan Christian,,,,0,0,0,30
-Tom Smith,,,,,0,0,30
-David J Freed,,,,,,0,30
-Total,1,1,1,0,0,0,30
 ,United States Senator - Republican,,,,,Attorney General - Republican,31
 ,David Alan Christian,Marc A Scaringi,Sam Rohrer,Steven D Welch,Tom Smith,David J Freed,31
 David Alan Christian,1,0,0,0,0,0,31
@@ -287,15 +260,6 @@ David Alan Christian,,,,0,0,0,38
 Steven D Welch,,,,,0,0,38
 Marc A Scaringi,,,,,,0,38
 Total,5,3,2,1,1,0,38
-,United States Senator - Republican,,,,,Attorney General - Republican,39
-,Tom Smith,David Alan Christian,Marc A Scaringi,Sam Rohrer,Steven D Welch,David J Freed,39
-Tom Smith,1,0,0,0,0,0,39
-David Alan Christian,,0,0,0,0,0,39
-Marc A Scaringi,,,0,0,0,0,39
-Sam Rohrer,,,,0,0,0,39
-Steven D Welch,,,,,0,0,39
-David J Freed,,,,,,0,39
-Total,1,0,0,0,0,0,39
 ,Attorney General - Republican,United States Senator - Republican,,,,,40
 ,David J Freed,Steven D Welch,Marc A Scaringi,Sam Rohrer,Tom Smith,David Alan Christian,40
 David J Freed,0,2,1,1,0,0,40

@@ -1,10 +1,10 @@
 col_1,col_2,col_3,col_4,division
-,Judge Of The Court Of Common Pleas - Republican,,Judge Of The Superior Court - Republican,1
-,Anne Marie Coyle,Kenneth J Powell Jr,Vic Stabile,1
-Anne Marie Coyle,1,0,0,1
-Kenneth J Powell Jr,,0,0,1
-Vic Stabile,,,0,1
-Total,1,0,0,1
+,Judge Of The Superior Court - Republican,Judge Of The Court Of Common Pleas - Republican,,All
+,Vic Stabile,Anne Marie Coyle,Kenneth J Powell Jr,All
+Vic Stabile,3,17,17,All
+Anne Marie Coyle,,2,12,All
+Kenneth J Powell Jr,,,0,All
+Total,25,19,17,All
 ,Judge Of The Superior Court - Republican,Judge Of The Court Of Common Pleas - Republican,,4
 ,Vic Stabile,Kenneth J Powell Jr,Anne Marie Coyle,4
 Vic Stabile,1,4,3,4
@@ -17,12 +17,6 @@ Anne Marie Coyle,0,1,1,5
 Kenneth J Powell Jr,,0,1,5
 Vic Stabile,,,0,5
 Total,1,1,1,5
-,Judge Of The Court Of Common Pleas - Republican,,Judge Of The Superior Court - Republican,10
-,Kenneth J Powell Jr,Anne Marie Coyle,Vic Stabile,10
-Kenneth J Powell Jr,1,0,0,10
-Anne Marie Coyle,,0,0,10
-Vic Stabile,,,0,10
-Total,1,0,0,10
 ,Judge Of The Court Of Common Pleas - Republican,,Judge Of The Superior Court - Republican,11
 ,Anne Marie Coyle,Kenneth J Powell Jr,Vic Stabile,11
 Anne Marie Coyle,1,2,2,11
@@ -35,12 +29,6 @@ Kenneth J Powell Jr,0,0,1,12
 Anne Marie Coyle,,0,0,12
 Vic Stabile,,,0,12
 Total,1,0,1,12
-,Judge Of The Court Of Common Pleas - Republican,,Judge Of The Superior Court - Republican,13
-,Anne Marie Coyle,Kenneth J Powell Jr,Vic Stabile,13
-Anne Marie Coyle,1,0,0,13
-Kenneth J Powell Jr,,0,0,13
-Vic Stabile,,,0,13
-Total,1,0,0,13
 ,Judge Of The Court Of Common Pleas - Republican,,Judge Of The Superior Court - Republican,15
 ,Anne Marie Coyle,Kenneth J Powell Jr,Vic Stabile,15
 Anne Marie Coyle,0,3,4,15
@@ -83,9 +71,3 @@ Anne Marie Coyle,1,0,0,24
 Kenneth J Powell Jr,,0,1,24
 Vic Stabile,,,0,24
 Total,1,1,1,24
-,Judge Of The Superior Court - Republican,Judge Of The Court Of Common Pleas - Republican,,All
-,Vic Stabile,Anne Marie Coyle,Kenneth J Powell Jr,All
-Vic Stabile,3,17,17,All
-Anne Marie Coyle,,4,12,All
-Kenneth J Powell Jr,,,1,All
-Total,25,21,18,All

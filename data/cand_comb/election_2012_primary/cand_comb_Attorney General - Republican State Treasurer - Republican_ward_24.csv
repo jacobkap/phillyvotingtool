@@ -1,19 +1,14 @@
 col_1,col_2,col_3,division
 ,Attorney General - Republican,State Treasurer - Republican,All
 ,David J Freed,Diana Irey Vaughan,All
-David J Freed,2,33,All
-Diana Irey Vaughan,,1,All
-Total,35,34,All
+David J Freed,1,33,All
+Diana Irey Vaughan,,0,All
+Total,34,33,All
 ,Attorney General - Republican,State Treasurer - Republican,1
 ,David J Freed,Diana Irey Vaughan,1
 David J Freed,1,4,1
 Diana Irey Vaughan,,0,1
 Total,5,4,1
-,Attorney General - Republican,State Treasurer - Republican,2
-,David J Freed,Diana Irey Vaughan,2
-David J Freed,1,0,2
-Diana Irey Vaughan,,0,2
-Total,1,0,2
 ,Attorney General - Republican,State Treasurer - Republican,4
 ,David J Freed,Diana Irey Vaughan,4
 David J Freed,0,1,4
@@ -34,11 +29,6 @@ Total,5,5,6
 David J Freed,0,1,7
 Diana Irey Vaughan,,0,7
 Total,1,1,7
-,State Treasurer - Republican,Attorney General - Republican,9
-,Diana Irey Vaughan,David J Freed,9
-Diana Irey Vaughan,1,0,9
-David J Freed,,0,9
-Total,1,0,9
 ,Attorney General - Republican,State Treasurer - Republican,11
 ,David J Freed,Diana Irey Vaughan,11
 David J Freed,0,4,11

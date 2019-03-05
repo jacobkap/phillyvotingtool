@@ -1,12 +1,12 @@
 col_1,col_2,col_3,col_4,col_5,col_6,division
 ,Attorney General - Republican,President Of The United States - Republican,,,,All
-,David J Freed,Mitt Romney,Ron Paul,Newt Gingrich,Rick Santorum,All
-David J Freed,0,6,5,4,4,All
-Mitt Romney,,3,0,0,0,All
-Ron Paul,,,4,0,0,All
+,David J Freed,Ron Paul,Mitt Romney,Newt Gingrich,Rick Santorum,All
+David J Freed,0,5,6,4,4,All
+Ron Paul,,4,0,0,0,All
+Mitt Romney,,,2,0,0,All
 Newt Gingrich,,,,1,0,All
 Rick Santorum,,,,,0,All
-Total,19,9,9,5,4,All
+Total,19,9,8,5,4,All
 ,Attorney General - Republican,President Of The United States - Republican,,,,1
 ,David J Freed,Mitt Romney,Ron Paul,Newt Gingrich,Rick Santorum,1
 David J Freed,0,2,0,0,0,1
@@ -31,14 +31,6 @@ Newt Gingrich,,,0,0,0,3
 Ron Paul,,,,1,0,3
 Rick Santorum,,,,,0,3
 Total,5,2,2,2,0,3
-,President Of The United States - Republican,,,,Attorney General - Republican,4
-,Mitt Romney,Newt Gingrich,Rick Santorum,Ron Paul,David J Freed,4
-Mitt Romney,1,0,0,0,0,4
-Newt Gingrich,,0,0,0,0,4
-Rick Santorum,,,0,0,0,4
-Ron Paul,,,,0,0,4
-David J Freed,,,,,0,4
-Total,1,0,0,0,0,4
 ,Attorney General - Republican,President Of The United States - Republican,,,,6
 ,David J Freed,Rick Santorum,Mitt Romney,Newt Gingrich,Ron Paul,6
 David J Freed,0,2,1,0,0,6

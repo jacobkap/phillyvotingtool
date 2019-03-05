@@ -1,10 +1,10 @@
 col_1,col_2,col_3,col_4,division
-,United States Senator - Democrat,,Representative In Congress 1st District - Democrat,All
-,Bob Casey Jr,Joseph John Vodvarka,Robert A Brady,All
-Bob Casey Jr,294,0,"1,575",All
-Joseph John Vodvarka,,63,207,All
-Robert A Brady,,,83,All
-Total,"1,869",270,"1,865",All
+,Representative In Congress 1st District - Democrat,United States Senator - Democrat,,All
+,Robert A Brady,Bob Casey Jr,Joseph John Vodvarka,All
+Robert A Brady,83,"1,575",207,All
+Bob Casey Jr,,240,0,All
+Joseph John Vodvarka,,,52,All
+Total,"1,865","1,815",259,All
 ,United States Senator - Democrat,,Representative In Congress 1st District - Democrat,1
 ,Bob Casey Jr,Joseph John Vodvarka,Robert A Brady,1
 Bob Casey Jr,21,0,118,1
@@ -89,12 +89,6 @@ Bob Casey Jr,17,0,88,14
 Joseph John Vodvarka,,3,9,14
 Robert A Brady,,,2,14
 Total,105,12,99,14
-,United States Senator - Democrat,,Representative In Congress 1st District - Democrat,15
-,Bob Casey Jr,Joseph John Vodvarka,Robert A Brady,15
-Bob Casey Jr,54,0,0,15
-Joseph John Vodvarka,,11,0,15
-Robert A Brady,,,0,15
-Total,54,11,0,15
 ,United States Senator - Democrat,,Representative In Congress 1st District - Democrat,16
 ,Bob Casey Jr,Joseph John Vodvarka,Robert A Brady,16
 Bob Casey Jr,16,0,102,16

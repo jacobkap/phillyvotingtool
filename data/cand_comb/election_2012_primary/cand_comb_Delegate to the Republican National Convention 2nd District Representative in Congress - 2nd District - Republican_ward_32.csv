@@ -1,13 +1,13 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,division
 ,Representative In Congress 2nd District - Republican,Delegate To The Republican National Convention 2nd District,,,,,All
 ,Robert Allen Mansfield Jr,Lewis Harris Jr,Calvin R Tucker,Walter F Vogler Jr,Adam A Lang,Vahan H Gureghian,All
-Robert Allen Mansfield Jr,8,14,15,10,7,5,All
-Lewis Harris Jr,,4,7,4,3,1,All
-Calvin R Tucker,,,2,7,2,2,All
+Robert Allen Mansfield Jr,7,14,15,10,7,5,All
+Lewis Harris Jr,,3,7,4,3,1,All
+Calvin R Tucker,,,1,7,2,2,All
 Walter F Vogler Jr,,,,1,2,4,All
-Adam A Lang,,,,,1,4,All
+Adam A Lang,,,,,0,3,All
 Vahan H Gureghian,,,,,,1,All
-Total,35,18,17,11,9,7,All
+Total,34,17,16,11,7,6,All
 ,Representative In Congress 2nd District - Republican,Delegate To The Republican National Convention 2nd District,,,,,1
 ,Robert Allen Mansfield Jr,Vahan H Gureghian,Adam A Lang,Calvin R Tucker,Lewis Harris Jr,Walter F Vogler Jr,1
 Robert Allen Mansfield Jr,1,0,0,0,0,0,1
@@ -71,15 +71,6 @@ Calvin R Tucker,,,,0,0,0,11
 Walter F Vogler Jr,,,,,0,0,11
 Robert Allen Mansfield Jr,,,,,,0,11
 Total,2,1,1,0,0,2,11
-,Representative In Congress 2nd District - Republican,Delegate To The Republican National Convention 2nd District,,,,,12
-,Robert Allen Mansfield Jr,Adam A Lang,Calvin R Tucker,Lewis Harris Jr,Vahan H Gureghian,Walter F Vogler Jr,12
-Robert Allen Mansfield Jr,1,0,0,0,0,0,12
-Adam A Lang,,0,0,0,0,0,12
-Calvin R Tucker,,,0,0,0,0,12
-Lewis Harris Jr,,,,0,0,0,12
-Vahan H Gureghian,,,,,0,0,12
-Walter F Vogler Jr,,,,,,0,12
-Total,1,0,0,0,0,0,12
 ,Representative In Congress 2nd District - Republican,Delegate To The Republican National Convention 2nd District,,,,,13
 ,Robert Allen Mansfield Jr,Calvin R Tucker,Lewis Harris Jr,Walter F Vogler Jr,Adam A Lang,Vahan H Gureghian,13
 Robert Allen Mansfield Jr,0,2,1,1,0,0,13
@@ -152,15 +143,6 @@ Adam A Lang,,,,0,0,0,21
 Walter F Vogler Jr,,,,,0,0,21
 Vahan H Gureghian,,,,,,0,21
 Total,5,2,2,1,1,0,21
-,Delegate To The Republican National Convention 2nd District,,,,,Representative In Congress 2nd District - Republican,22
-,Adam A Lang,Calvin R Tucker,Lewis Harris Jr,Vahan H Gureghian,Walter F Vogler Jr,Robert Allen Mansfield Jr,22
-Adam A Lang,1,0,0,0,0,0,22
-Calvin R Tucker,,0,0,0,0,0,22
-Lewis Harris Jr,,,0,0,0,0,22
-Vahan H Gureghian,,,,0,0,0,22
-Walter F Vogler Jr,,,,,0,0,22
-Robert Allen Mansfield Jr,,,,,,0,22
-Total,1,0,0,0,0,0,22
 ,Delegate To The Republican National Convention 2nd District,,,,,Representative In Congress 2nd District - Republican,24
 ,Calvin R Tucker,Adam A Lang,Lewis Harris Jr,Vahan H Gureghian,Walter F Vogler Jr,Robert Allen Mansfield Jr,24
 Calvin R Tucker,0,0,0,0,0,1,24
@@ -170,33 +152,6 @@ Vahan H Gureghian,,,,0,0,0,24
 Walter F Vogler Jr,,,,,0,0,24
 Robert Allen Mansfield Jr,,,,,,0,24
 Total,1,0,0,0,0,1,24
-,Delegate To The Republican National Convention 2nd District,,,,,Representative In Congress 2nd District - Republican,25
-,Calvin R Tucker,Adam A Lang,Lewis Harris Jr,Vahan H Gureghian,Walter F Vogler Jr,Robert Allen Mansfield Jr,25
-Calvin R Tucker,1,0,0,0,0,0,25
-Adam A Lang,,0,0,0,0,0,25
-Lewis Harris Jr,,,0,0,0,0,25
-Vahan H Gureghian,,,,0,0,0,25
-Walter F Vogler Jr,,,,,0,0,25
-Robert Allen Mansfield Jr,,,,,,0,25
-Total,1,0,0,0,0,0,25
-,Delegate To The Republican National Convention 2nd District,,,,,Representative In Congress 2nd District - Republican,26
-,Lewis Harris Jr,Adam A Lang,Calvin R Tucker,Vahan H Gureghian,Walter F Vogler Jr,Robert Allen Mansfield Jr,26
-Lewis Harris Jr,1,0,0,0,0,0,26
-Adam A Lang,,0,0,0,0,0,26
-Calvin R Tucker,,,0,0,0,0,26
-Vahan H Gureghian,,,,0,0,0,26
-Walter F Vogler Jr,,,,,0,0,26
-Robert Allen Mansfield Jr,,,,,,0,26
-Total,1,0,0,0,0,0,26
-,Delegate To The Republican National Convention 2nd District,,,,,Representative In Congress 2nd District - Republican,27
-,Adam A Lang,Vahan H Gureghian,Calvin R Tucker,Lewis Harris Jr,Walter F Vogler Jr,Robert Allen Mansfield Jr,27
-Adam A Lang,0,1,0,0,0,0,27
-Vahan H Gureghian,,0,0,0,0,0,27
-Calvin R Tucker,,,0,0,0,0,27
-Lewis Harris Jr,,,,0,0,0,27
-Walter F Vogler Jr,,,,,0,0,27
-Robert Allen Mansfield Jr,,,,,,0,27
-Total,1,1,0,0,0,0,27
 ,Representative In Congress 2nd District - Republican,Delegate To The Republican National Convention 2nd District,,,,,28
 ,Robert Allen Mansfield Jr,Adam A Lang,Vahan H Gureghian,Walter F Vogler Jr,Calvin R Tucker,Lewis Harris Jr,28
 Robert Allen Mansfield Jr,2,1,1,1,0,0,28

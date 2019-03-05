@@ -1,4 +1,10 @@
 col_1,col_2,col_3,col_4,division
+,District Attorney - Republican,Judge Of The Traffic Court - Republican,,All
+,Daniel A Alvarez,Christopher M Vogler,Ella P Butcher,All
+Daniel A Alvarez,0,14,13,All
+Christopher M Vogler,,0,11,All
+Ella P Butcher,,,0,All
+Total,16,14,13,All
 ,Judge Of The Traffic Court - Republican,,District Attorney - Republican,1
 ,Christopher M Vogler,Ella P Butcher,Daniel A Alvarez,1
 Christopher M Vogler,0,1,1,1
@@ -35,12 +41,6 @@ Christopher M Vogler,0,0,2,11
 Ella P Butcher,,0,0,11
 Daniel A Alvarez,,,0,11
 Total,2,0,2,11
-,Judge Of The Traffic Court - Republican,,District Attorney - Republican,12
-,Christopher M Vogler,Ella P Butcher,Daniel A Alvarez,12
-Christopher M Vogler,1,0,0,12
-Ella P Butcher,,0,0,12
-Daniel A Alvarez,,,0,12
-Total,1,0,0,12
 ,District Attorney - Republican,Judge Of The Traffic Court - Republican,,13
 ,Daniel A Alvarez,Ella P Butcher,Christopher M Vogler,13
 Daniel A Alvarez,0,1,0,13
@@ -53,9 +53,3 @@ Christopher M Vogler,0,1,1,19
 Ella P Butcher,,0,1,19
 Daniel A Alvarez,,,0,19
 Total,1,1,1,19
-,District Attorney - Republican,Judge Of The Traffic Court - Republican,,All
-,Daniel A Alvarez,Christopher M Vogler,Ella P Butcher,All
-Daniel A Alvarez,0,14,13,All
-Christopher M Vogler,,1,11,All
-Ella P Butcher,,,0,All
-Total,16,15,13,All

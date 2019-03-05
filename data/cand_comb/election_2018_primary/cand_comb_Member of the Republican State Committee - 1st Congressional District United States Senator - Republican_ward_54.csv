@@ -1,13 +1,13 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,division
-,United States Senator - Republican,,Member Of The Republican State Committee 1st Congressional District,,,,1
-,Jim Christiana,Lou Barletta,Christopher M Vogler,Maria Digiorgio Mccolgan,Michael A Cibik,Theresa A Dintino,1
-Jim Christiana,2,0,0,0,0,0,1
-Lou Barletta,,0,0,0,0,0,1
-Christopher M Vogler,,,0,0,0,0,1
-Maria Digiorgio Mccolgan,,,,0,0,0,1
-Michael A Cibik,,,,,0,0,1
-Theresa A Dintino,,,,,,0,1
-Total,2,0,0,0,0,0,1
+,Member Of The Republican State Committee 1st Congressional District,,,,United States Senator - Republican,,All
+,Maria Digiorgio Mccolgan,Theresa A Dintino,Christopher M Vogler,Michael A Cibik,Jim Christiana,Lou Barletta,All
+Maria Digiorgio Mccolgan,0,4,3,3,4,4,All
+Theresa A Dintino,,0,3,3,2,3,All
+Christopher M Vogler,,,0,3,1,3,All
+Michael A Cibik,,,,0,1,2,All
+Jim Christiana,,,,,3,0,All
+Lou Barletta,,,,,,1,All
+Total,8,5,4,3,7,7,All
 ,United States Senator - Republican,,Member Of The Republican State Committee 1st Congressional District,,,,3
 ,Jim Christiana,Lou Barletta,Maria Digiorgio Mccolgan,Theresa A Dintino,Christopher M Vogler,Michael A Cibik,3
 Jim Christiana,1,0,1,1,0,0,3
@@ -17,96 +17,6 @@ Theresa A Dintino,,,,0,0,0,3
 Christopher M Vogler,,,,,0,0,3
 Michael A Cibik,,,,,,0,3
 Total,2,0,1,1,0,0,3
-,United States Senator - Republican,,Member Of The Republican State Committee 1st Congressional District,,,,4
-,Jim Christiana,Lou Barletta,Christopher M Vogler,Maria Digiorgio Mccolgan,Michael A Cibik,Theresa A Dintino,4
-Jim Christiana,1,0,0,0,0,0,4
-Lou Barletta,,1,0,0,0,0,4
-Christopher M Vogler,,,0,0,0,0,4
-Maria Digiorgio Mccolgan,,,,0,0,0,4
-Michael A Cibik,,,,,0,0,4
-Theresa A Dintino,,,,,,0,4
-Total,1,1,0,0,0,0,4
-,United States Senator - Republican,,Member Of The Republican State Committee 1st Congressional District,,,,5
-,Lou Barletta,Jim Christiana,Christopher M Vogler,Maria Digiorgio Mccolgan,Michael A Cibik,Theresa A Dintino,5
-Lou Barletta,5,0,0,0,0,0,5
-Jim Christiana,,0,0,0,0,0,5
-Christopher M Vogler,,,0,0,0,0,5
-Maria Digiorgio Mccolgan,,,,0,0,0,5
-Michael A Cibik,,,,,0,0,5
-Theresa A Dintino,,,,,,0,5
-Total,5,0,0,0,0,0,5
-,United States Senator - Republican,,Member Of The Republican State Committee 1st Congressional District,,,,6
-,Lou Barletta,Jim Christiana,Christopher M Vogler,Maria Digiorgio Mccolgan,Michael A Cibik,Theresa A Dintino,6
-Lou Barletta,3,0,0,0,0,0,6
-Jim Christiana,,2,0,0,0,0,6
-Christopher M Vogler,,,0,0,0,0,6
-Maria Digiorgio Mccolgan,,,,0,0,0,6
-Michael A Cibik,,,,,0,0,6
-Theresa A Dintino,,,,,,0,6
-Total,3,2,0,0,0,0,6
-,United States Senator - Republican,,Member Of The Republican State Committee 1st Congressional District,,,,7
-,Jim Christiana,Lou Barletta,Christopher M Vogler,Maria Digiorgio Mccolgan,Michael A Cibik,Theresa A Dintino,7
-Jim Christiana,1,0,0,0,0,0,7
-Lou Barletta,,1,0,0,0,0,7
-Christopher M Vogler,,,0,0,0,0,7
-Maria Digiorgio Mccolgan,,,,0,0,0,7
-Michael A Cibik,,,,,0,0,7
-Theresa A Dintino,,,,,,0,7
-Total,1,1,0,0,0,0,7
-,United States Senator - Republican,,Member Of The Republican State Committee 1st Congressional District,,,,8
-,Jim Christiana,Lou Barletta,Christopher M Vogler,Maria Digiorgio Mccolgan,Michael A Cibik,Theresa A Dintino,8
-Jim Christiana,1,0,0,0,0,0,8
-Lou Barletta,,1,0,0,0,0,8
-Christopher M Vogler,,,0,0,0,0,8
-Maria Digiorgio Mccolgan,,,,0,0,0,8
-Michael A Cibik,,,,,0,0,8
-Theresa A Dintino,,,,,,0,8
-Total,1,1,0,0,0,0,8
-,United States Senator - Republican,,Member Of The Republican State Committee 1st Congressional District,,,,9
-,Lou Barletta,Jim Christiana,Christopher M Vogler,Maria Digiorgio Mccolgan,Michael A Cibik,Theresa A Dintino,9
-Lou Barletta,2,0,0,0,0,0,9
-Jim Christiana,,1,0,0,0,0,9
-Christopher M Vogler,,,0,0,0,0,9
-Maria Digiorgio Mccolgan,,,,0,0,0,9
-Michael A Cibik,,,,,0,0,9
-Theresa A Dintino,,,,,,0,9
-Total,2,1,0,0,0,0,9
-,United States Senator - Republican,,Member Of The Republican State Committee 1st Congressional District,,,,10
-,Lou Barletta,Jim Christiana,Christopher M Vogler,Maria Digiorgio Mccolgan,Michael A Cibik,Theresa A Dintino,10
-Lou Barletta,5,0,0,0,0,0,10
-Jim Christiana,,2,0,0,0,0,10
-Christopher M Vogler,,,0,0,0,0,10
-Maria Digiorgio Mccolgan,,,,0,0,0,10
-Michael A Cibik,,,,,0,0,10
-Theresa A Dintino,,,,,,0,10
-Total,5,2,0,0,0,0,10
-,United States Senator - Republican,,Member Of The Republican State Committee 1st Congressional District,,,,11
-,Jim Christiana,Lou Barletta,Christopher M Vogler,Maria Digiorgio Mccolgan,Michael A Cibik,Theresa A Dintino,11
-Jim Christiana,1,0,0,0,0,0,11
-Lou Barletta,,0,0,0,0,0,11
-Christopher M Vogler,,,0,0,0,0,11
-Maria Digiorgio Mccolgan,,,,0,0,0,11
-Michael A Cibik,,,,,0,0,11
-Theresa A Dintino,,,,,,0,11
-Total,1,0,0,0,0,0,11
-,United States Senator - Republican,,Member Of The Republican State Committee 1st Congressional District,,,,12
-,Jim Christiana,Lou Barletta,Christopher M Vogler,Maria Digiorgio Mccolgan,Michael A Cibik,Theresa A Dintino,12
-Jim Christiana,1,0,0,0,0,0,12
-Lou Barletta,,0,0,0,0,0,12
-Christopher M Vogler,,,0,0,0,0,12
-Maria Digiorgio Mccolgan,,,,0,0,0,12
-Michael A Cibik,,,,,0,0,12
-Theresa A Dintino,,,,,,0,12
-Total,1,0,0,0,0,0,12
-,United States Senator - Republican,,Member Of The Republican State Committee 1st Congressional District,,,,13
-,Jim Christiana,Lou Barletta,Christopher M Vogler,Maria Digiorgio Mccolgan,Michael A Cibik,Theresa A Dintino,13
-Jim Christiana,2,0,0,0,0,0,13
-Lou Barletta,,1,0,0,0,0,13
-Christopher M Vogler,,,0,0,0,0,13
-Maria Digiorgio Mccolgan,,,,0,0,0,13
-Michael A Cibik,,,,,0,0,13
-Theresa A Dintino,,,,,,0,13
-Total,2,1,0,0,0,0,13
 ,Member Of The Republican State Committee 1st Congressional District,,,,United States Senator - Republican,,15
 ,Christopher M Vogler,Maria Digiorgio Mccolgan,Michael A Cibik,Theresa A Dintino,Lou Barletta,Jim Christiana,15
 Christopher M Vogler,0,1,1,1,1,0,15
@@ -125,24 +35,6 @@ Maria Digiorgio Mccolgan,,,,0,0,0,16
 Michael A Cibik,,,,,0,0,16
 Theresa A Dintino,,,,,,0,16
 Total,3,1,1,1,0,0,16
-,United States Senator - Republican,,Member Of The Republican State Committee 1st Congressional District,,,,17
-,Jim Christiana,Lou Barletta,Christopher M Vogler,Maria Digiorgio Mccolgan,Michael A Cibik,Theresa A Dintino,17
-Jim Christiana,1,0,0,0,0,0,17
-Lou Barletta,,1,0,0,0,0,17
-Christopher M Vogler,,,0,0,0,0,17
-Maria Digiorgio Mccolgan,,,,0,0,0,17
-Michael A Cibik,,,,,0,0,17
-Theresa A Dintino,,,,,,0,17
-Total,1,1,0,0,0,0,17
-,United States Senator - Republican,,Member Of The Republican State Committee 1st Congressional District,,,,18
-,Lou Barletta,Jim Christiana,Christopher M Vogler,Maria Digiorgio Mccolgan,Michael A Cibik,Theresa A Dintino,18
-Lou Barletta,5,0,0,0,0,0,18
-Jim Christiana,,4,0,0,0,0,18
-Christopher M Vogler,,,0,0,0,0,18
-Maria Digiorgio Mccolgan,,,,0,0,0,18
-Michael A Cibik,,,,,0,0,18
-Theresa A Dintino,,,,,,0,18
-Total,5,4,0,0,0,0,18
 ,United States Senator - Republican,,Member Of The Republican State Committee 1st Congressional District,,,,19
 ,Lou Barletta,Jim Christiana,Maria Digiorgio Mccolgan,Christopher M Vogler,Michael A Cibik,Theresa A Dintino,19
 Lou Barletta,0,0,1,0,0,0,19
@@ -170,21 +62,3 @@ Christopher M Vogler,,,,0,1,1,21
 Michael A Cibik,,,,,0,1,21
 Theresa A Dintino,,,,,,0,21
 Total,2,0,2,1,1,1,21
-,United States Senator - Republican,,Member Of The Republican State Committee 1st Congressional District,,,,22
-,Jim Christiana,Lou Barletta,Christopher M Vogler,Maria Digiorgio Mccolgan,Michael A Cibik,Theresa A Dintino,22
-Jim Christiana,1,0,0,0,0,0,22
-Lou Barletta,,0,0,0,0,0,22
-Christopher M Vogler,,,0,0,0,0,22
-Maria Digiorgio Mccolgan,,,,0,0,0,22
-Michael A Cibik,,,,,0,0,22
-Theresa A Dintino,,,,,,0,22
-Total,1,0,0,0,0,0,22
-,United States Senator - Republican,,Member Of The Republican State Committee 1st Congressional District,,,,All
-,Lou Barletta,Jim Christiana,Maria Digiorgio Mccolgan,Theresa A Dintino,Christopher M Vogler,Michael A Cibik,All
-Lou Barletta,26,0,4,3,3,2,All
-Jim Christiana,,23,4,2,1,1,All
-Maria Digiorgio Mccolgan,,,0,4,3,3,All
-Theresa A Dintino,,,,0,3,3,All
-Christopher M Vogler,,,,,0,3,All
-Michael A Cibik,,,,,,0,All
-Total,32,27,8,5,4,3,All

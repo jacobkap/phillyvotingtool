@@ -1,30 +1,17 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10,col_11,division
 ,President Of The United States - Republican,,,,Delegate To The Republican National Convention 1st District,,,,,,All
 ,Mitt Romney,Newt Gingrich,Rick Santorum,Ron Paul,Marion S Taxin,Tom Boggia,Christopher M Vogler,Michael W Untermeyer,Frederick W Anton,Dale Kerns,All
-Mitt Romney,6,0,0,0,2,3,2,1,0,0,All
-Newt Gingrich,,4,0,0,1,1,1,0,0,0,All
-Rick Santorum,,,1,0,1,0,0,1,1,1,All
-Ron Paul,,,,2,1,0,0,1,1,0,All
+Mitt Romney,5,0,0,0,2,3,2,1,0,0,All
+Newt Gingrich,,3,0,0,1,1,1,0,0,0,All
+Rick Santorum,,,0,0,1,0,0,1,1,1,All
+Ron Paul,,,,1,1,0,0,1,1,0,All
 Marion S Taxin,,,,,0,3,2,2,1,0,All
 Tom Boggia,,,,,,0,2,1,0,0,All
 Christopher M Vogler,,,,,,,0,0,0,0,All
 Michael W Untermeyer,,,,,,,,0,2,1,All
 Frederick W Anton,,,,,,,,,0,1,All
 Dale Kerns,,,,,,,,,,0,All
-Total,10,5,3,3,5,4,3,3,2,1,All
-,President Of The United States - Republican,,,,Delegate To The Republican National Convention 1st District,,,,,,1
-,Ron Paul,Mitt Romney,Newt Gingrich,Rick Santorum,Christopher M Vogler,Dale Kerns,Frederick W Anton,Marion S Taxin,Michael W Untermeyer,Tom Boggia,1
-Ron Paul,1,0,0,0,0,0,0,0,0,0,1
-Mitt Romney,,0,0,0,0,0,0,0,0,0,1
-Newt Gingrich,,,0,0,0,0,0,0,0,0,1
-Rick Santorum,,,,0,0,0,0,0,0,0,1
-Christopher M Vogler,,,,,0,0,0,0,0,0,1
-Dale Kerns,,,,,,0,0,0,0,0,1
-Frederick W Anton,,,,,,,0,0,0,0,1
-Marion S Taxin,,,,,,,,0,0,0,1
-Michael W Untermeyer,,,,,,,,,0,0,1
-Tom Boggia,,,,,,,,,,0,1
-Total,1,0,0,0,0,0,0,0,0,0,1
+Total,9,4,2,2,5,4,3,3,2,1,All
 ,President Of The United States - Republican,,,,Delegate To The Republican National Convention 1st District,,,,,,2
 ,Mitt Romney,Newt Gingrich,Rick Santorum,Ron Paul,Marion S Taxin,Michael W Untermeyer,Tom Boggia,Christopher M Vogler,Dale Kerns,Frederick W Anton,2
 Mitt Romney,1,0,0,0,1,1,1,0,0,0,2
@@ -38,19 +25,6 @@ Christopher M Vogler,,,,,,,,0,0,0,2
 Dale Kerns,,,,,,,,,0,0,2
 Frederick W Anton,,,,,,,,,,0,2
 Total,2,1,0,0,1,1,1,0,0,0,2
-,President Of The United States - Republican,,,,Delegate To The Republican National Convention 1st District,,,,,,4
-,Rick Santorum,Mitt Romney,Newt Gingrich,Ron Paul,Christopher M Vogler,Dale Kerns,Frederick W Anton,Marion S Taxin,Michael W Untermeyer,Tom Boggia,4
-Rick Santorum,1,0,0,0,0,0,0,0,0,0,4
-Mitt Romney,,0,0,0,0,0,0,0,0,0,4
-Newt Gingrich,,,0,0,0,0,0,0,0,0,4
-Ron Paul,,,,0,0,0,0,0,0,0,4
-Christopher M Vogler,,,,,0,0,0,0,0,0,4
-Dale Kerns,,,,,,0,0,0,0,0,4
-Frederick W Anton,,,,,,,0,0,0,0,4
-Marion S Taxin,,,,,,,,0,0,0,4
-Michael W Untermeyer,,,,,,,,,0,0,4
-Tom Boggia,,,,,,,,,,0,4
-Total,1,0,0,0,0,0,0,0,0,0,4
 ,Delegate To The Republican National Convention 1st District,,,,,,President Of The United States - Republican,,,,5
 ,Christopher M Vogler,Marion S Taxin,Tom Boggia,Dale Kerns,Frederick W Anton,Michael W Untermeyer,Mitt Romney,Newt Gingrich,Rick Santorum,Ron Paul,5
 Christopher M Vogler,0,1,1,0,0,0,1,0,0,0,5
@@ -103,32 +77,6 @@ Mitt Romney,,,,,,,,0,0,0,11
 Newt Gingrich,,,,,,,,,0,0,11
 Rick Santorum,,,,,,,,,,0,11
 Total,1,1,1,0,0,0,1,0,0,0,11
-,President Of The United States - Republican,,,,Delegate To The Republican National Convention 1st District,,,,,,12
-,Mitt Romney,Newt Gingrich,Rick Santorum,Ron Paul,Christopher M Vogler,Dale Kerns,Frederick W Anton,Marion S Taxin,Michael W Untermeyer,Tom Boggia,12
-Mitt Romney,1,0,0,0,0,0,0,0,0,0,12
-Newt Gingrich,,0,0,0,0,0,0,0,0,0,12
-Rick Santorum,,,0,0,0,0,0,0,0,0,12
-Ron Paul,,,,0,0,0,0,0,0,0,12
-Christopher M Vogler,,,,,0,0,0,0,0,0,12
-Dale Kerns,,,,,,0,0,0,0,0,12
-Frederick W Anton,,,,,,,0,0,0,0,12
-Marion S Taxin,,,,,,,,0,0,0,12
-Michael W Untermeyer,,,,,,,,,0,0,12
-Tom Boggia,,,,,,,,,,0,12
-Total,1,0,0,0,0,0,0,0,0,0,12
-,President Of The United States - Republican,,,,Delegate To The Republican National Convention 1st District,,,,,,13
-,Newt Gingrich,Mitt Romney,Rick Santorum,Ron Paul,Christopher M Vogler,Dale Kerns,Frederick W Anton,Marion S Taxin,Michael W Untermeyer,Tom Boggia,13
-Newt Gingrich,1,0,0,0,0,0,0,0,0,0,13
-Mitt Romney,,0,0,0,0,0,0,0,0,0,13
-Rick Santorum,,,0,0,0,0,0,0,0,0,13
-Ron Paul,,,,0,0,0,0,0,0,0,13
-Christopher M Vogler,,,,,0,0,0,0,0,0,13
-Dale Kerns,,,,,,0,0,0,0,0,13
-Frederick W Anton,,,,,,,0,0,0,0,13
-Marion S Taxin,,,,,,,,0,0,0,13
-Michael W Untermeyer,,,,,,,,,0,0,13
-Tom Boggia,,,,,,,,,,0,13
-Total,1,0,0,0,0,0,0,0,0,0,13
 ,President Of The United States - Republican,,,,Delegate To The Republican National Convention 1st District,,,,,,16
 ,Mitt Romney,Newt Gingrich,Rick Santorum,Ron Paul,Christopher M Vogler,Dale Kerns,Frederick W Anton,Marion S Taxin,Michael W Untermeyer,Tom Boggia,16
 Mitt Romney,1,0,0,0,1,0,0,0,0,0,16

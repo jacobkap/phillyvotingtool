@@ -1,11 +1,11 @@
 col_1,col_2,col_3,col_4,col_5,division
-,Governor And Lieutenant Governor,,Representative In Congress 2nd District,,1
-,Tom Wolf,Tom Corbett,Armond James,Chaka Fattah,1
-Tom Wolf,141,0,0,0,1
-Tom Corbett,,7,0,0,1
-Armond James,,,0,0,1
-Chaka Fattah,,,,0,1
-Total,141,7,0,0,1
+,Governor And Lieutenant Governor,,Representative In Congress 2nd District,,All
+,Tom Wolf,Tom Corbett,Chaka Fattah,Armond James,All
+Tom Wolf,57,0,"1,366",28,All
+Tom Corbett,,1,7,25,All
+Chaka Fattah,,,5,0,All
+Armond James,,,,1,All
+Total,"1,451",33,"1,378",54,All
 ,Governor And Lieutenant Governor,,Representative In Congress 2nd District,,2
 ,Tom Wolf,Tom Corbett,Chaka Fattah,Armond James,2
 Tom Wolf,3,0,106,6,2
@@ -97,10 +97,3 @@ Tom Corbett,,0,0,3,14
 Chaka Fattah,,,0,0,14
 Armond James,,,,0,14
 Total,77,3,75,4,14
-,Governor And Lieutenant Governor,,Representative In Congress 2nd District,,All
-,Tom Wolf,Tom Corbett,Chaka Fattah,Armond James,All
-Tom Wolf,198,0,"1,366",28,All
-Tom Corbett,,8,7,25,All
-Chaka Fattah,,,5,0,All
-Armond James,,,,1,All
-Total,"1,592",40,"1,378",54,All

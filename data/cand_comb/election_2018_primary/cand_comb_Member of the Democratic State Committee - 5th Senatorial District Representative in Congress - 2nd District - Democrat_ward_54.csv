@@ -1,24 +1,14 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,division
-,Representative In Congress 2nd District - Democrat,,Member Of The Democratic State Committee 5th Senatorial District,,,,,1
-,Brendan F Boyle,Michele Lawrence,James G Donnelly Sr,John Dellricci,Kathy Enggasser,Mary Ann Quartullo,Patrick Parkinson,1
-Brendan F Boyle,21,0,0,0,0,0,0,1
-Michele Lawrence,,13,0,0,0,0,0,1
-James G Donnelly Sr,,,0,0,0,0,0,1
-John Dellricci,,,,0,0,0,0,1
-Kathy Enggasser,,,,,0,0,0,1
-Mary Ann Quartullo,,,,,,0,0,1
-Patrick Parkinson,,,,,,,0,1
-Total,21,13,0,0,0,0,0,1
-,Representative In Congress 2nd District - Democrat,,Member Of The Democratic State Committee 5th Senatorial District,,,,,2
-,Brendan F Boyle,Michele Lawrence,James G Donnelly Sr,John Dellricci,Kathy Enggasser,Mary Ann Quartullo,Patrick Parkinson,2
-Brendan F Boyle,14,0,0,0,0,0,0,2
-Michele Lawrence,,14,0,0,0,0,0,2
-James G Donnelly Sr,,,0,0,0,0,0,2
-John Dellricci,,,,0,0,0,0,2
-Kathy Enggasser,,,,,0,0,0,2
-Mary Ann Quartullo,,,,,,0,0,2
-Patrick Parkinson,,,,,,,0,2
-Total,14,14,0,0,0,0,0,2
+,Representative In Congress 2nd District - Democrat,,Member Of The Democratic State Committee 5th Senatorial District,,,,,All
+,Brendan F Boyle,Michele Lawrence,Kathy Enggasser,John Dellricci,Mary Ann Quartullo,James G Donnelly Sr,Patrick Parkinson,All
+Brendan F Boyle,75,0,182,160,165,169,150,All
+Michele Lawrence,,15,92,92,86,82,73,All
+Kathy Enggasser,,,6,215,231,218,214,All
+John Dellricci,,,,4,214,211,208,All
+Mary Ann Quartullo,,,,,3,217,208,All
+James G Donnelly Sr,,,,,,3,213,All
+Patrick Parkinson,,,,,,,5,All
+Total,327,148,287,264,262,261,235,All
 ,Representative In Congress 2nd District - Democrat,,Member Of The Democratic State Committee 5th Senatorial District,,,,,3
 ,Michele Lawrence,Brendan F Boyle,James G Donnelly Sr,John Dellricci,Kathy Enggasser,Patrick Parkinson,Mary Ann Quartullo,3
 Michele Lawrence,0,0,8,7,7,5,7,3
@@ -219,13 +209,3 @@ Mary Ann Quartullo,,,,,0,10,10,22
 John Dellricci,,,,,,1,10,22
 Patrick Parkinson,,,,,,,0,22
 Total,18,7,15,14,13,11,10,22
-,Representative In Congress 2nd District - Democrat,,Member Of The Democratic State Committee 5th Senatorial District,,,,,All
-,Brendan F Boyle,Michele Lawrence,Kathy Enggasser,John Dellricci,Mary Ann Quartullo,James G Donnelly Sr,Patrick Parkinson,All
-Brendan F Boyle,110,0,182,160,165,169,150,All
-Michele Lawrence,,42,92,92,86,82,73,All
-Kathy Enggasser,,,6,215,231,218,214,All
-John Dellricci,,,,4,214,211,208,All
-Mary Ann Quartullo,,,,,3,217,208,All
-James G Donnelly Sr,,,,,,3,213,All
-Patrick Parkinson,,,,,,,5,All
-Total,362,175,287,264,262,261,235,All

@@ -1,22 +1,13 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,division
-,Lieutenant Governor - Republican,,,,Representative In Congress 5th District - Republican,,1
-,Kathy Coder,Diana Irey Vaughan,Jeff Bartos,Peg Luksik,Paul D Addis,Pearl Kim,1
-Kathy Coder,2,0,0,0,0,0,1
-Diana Irey Vaughan,,1,0,0,0,0,1
-Jeff Bartos,,,0,0,0,0,1
-Peg Luksik,,,,0,0,0,1
-Paul D Addis,,,,,0,0,1
-Pearl Kim,,,,,,0,1
-Total,2,1,0,0,0,0,1
-,Lieutenant Governor - Republican,,,,Representative In Congress 5th District - Republican,,2
-,Kathy Coder,Diana Irey Vaughan,Jeff Bartos,Peg Luksik,Paul D Addis,Pearl Kim,2
-Kathy Coder,1,0,0,0,0,0,2
-Diana Irey Vaughan,,0,0,0,0,0,2
-Jeff Bartos,,,0,0,0,0,2
-Peg Luksik,,,,0,0,0,2
-Paul D Addis,,,,,0,0,2
-Pearl Kim,,,,,,0,2
-Total,1,0,0,0,0,0,2
+,Representative In Congress 5th District - Republican,,Lieutenant Governor - Republican,,,,All
+,Pearl Kim,Paul D Addis,Diana Irey Vaughan,Kathy Coder,Peg Luksik,Jeff Bartos,All
+Pearl Kim,0,0,6,3,2,1,All
+Paul D Addis,,0,0,0,0,0,All
+Diana Irey Vaughan,,,0,0,0,0,All
+Kathy Coder,,,,3,0,0,All
+Peg Luksik,,,,,0,0,All
+Jeff Bartos,,,,,,0,All
+Total,12,0,6,6,2,1,All
 ,Lieutenant Governor - Republican,,,,Representative In Congress 5th District - Republican,,4
 ,Diana Irey Vaughan,Kathy Coder,Jeff Bartos,Peg Luksik,Pearl Kim,Paul D Addis,4
 Diana Irey Vaughan,0,0,0,0,1,0,4
@@ -26,15 +17,6 @@ Peg Luksik,,,,0,0,0,4
 Pearl Kim,,,,,0,0,4
 Paul D Addis,,,,,,0,4
 Total,1,1,0,0,1,0,4
-,Lieutenant Governor - Republican,,,,Representative In Congress 5th District - Republican,,5
-,Diana Irey Vaughan,Jeff Bartos,Kathy Coder,Peg Luksik,Paul D Addis,Pearl Kim,5
-Diana Irey Vaughan,1,0,0,0,0,0,5
-Jeff Bartos,,0,0,0,0,0,5
-Kathy Coder,,,0,0,0,0,5
-Peg Luksik,,,,0,0,0,5
-Paul D Addis,,,,,0,0,5
-Pearl Kim,,,,,,0,5
-Total,1,0,0,0,0,0,5
 ,Representative In Congress 5th District - Republican,,Lieutenant Governor - Republican,,,,10
 ,Pearl Kim,Paul D Addis,Kathy Coder,Diana Irey Vaughan,Peg Luksik,Jeff Bartos,10
 Pearl Kim,0,0,3,2,2,0,10
@@ -44,51 +26,6 @@ Diana Irey Vaughan,,,,0,0,0,10
 Peg Luksik,,,,,0,0,10
 Jeff Bartos,,,,,,0,10
 Total,7,0,3,2,2,0,10
-,Lieutenant Governor - Republican,,,,Representative In Congress 5th District - Republican,,11
-,Diana Irey Vaughan,Jeff Bartos,Kathy Coder,Peg Luksik,Paul D Addis,Pearl Kim,11
-Diana Irey Vaughan,1,0,0,0,0,0,11
-Jeff Bartos,,0,0,0,0,0,11
-Kathy Coder,,,0,0,0,0,11
-Peg Luksik,,,,0,0,0,11
-Paul D Addis,,,,,0,0,11
-Pearl Kim,,,,,,0,11
-Total,1,0,0,0,0,0,11
-,Lieutenant Governor - Republican,,,,Representative In Congress 5th District - Republican,,14
-,Diana Irey Vaughan,Jeff Bartos,Kathy Coder,Peg Luksik,Paul D Addis,Pearl Kim,14
-Diana Irey Vaughan,1,0,0,0,0,0,14
-Jeff Bartos,,0,0,0,0,0,14
-Kathy Coder,,,0,0,0,0,14
-Peg Luksik,,,,0,0,0,14
-Paul D Addis,,,,,0,0,14
-Pearl Kim,,,,,,0,14
-Total,1,0,0,0,0,0,14
-,Lieutenant Governor - Republican,,,,Representative In Congress 5th District - Republican,,16
-,Jeff Bartos,Diana Irey Vaughan,Kathy Coder,Peg Luksik,Paul D Addis,Pearl Kim,16
-Jeff Bartos,1,0,0,0,0,0,16
-Diana Irey Vaughan,,0,0,0,0,0,16
-Kathy Coder,,,0,0,0,0,16
-Peg Luksik,,,,0,0,0,16
-Paul D Addis,,,,,0,0,16
-Pearl Kim,,,,,,0,16
-Total,1,0,0,0,0,0,16
-,Lieutenant Governor - Republican,,,,Representative In Congress 5th District - Republican,,17
-,Diana Irey Vaughan,Kathy Coder,Jeff Bartos,Peg Luksik,Paul D Addis,Pearl Kim,17
-Diana Irey Vaughan,1,0,0,0,0,0,17
-Kathy Coder,,1,0,0,0,0,17
-Jeff Bartos,,,0,0,0,0,17
-Peg Luksik,,,,0,0,0,17
-Paul D Addis,,,,,0,0,17
-Pearl Kim,,,,,,0,17
-Total,1,1,0,0,0,0,17
-,Lieutenant Governor - Republican,,,,Representative In Congress 5th District - Republican,,20
-,Diana Irey Vaughan,Jeff Bartos,Kathy Coder,Peg Luksik,Paul D Addis,Pearl Kim,20
-Diana Irey Vaughan,2,0,0,0,0,0,20
-Jeff Bartos,,0,0,0,0,0,20
-Kathy Coder,,,0,0,0,0,20
-Peg Luksik,,,,0,0,0,20
-Paul D Addis,,,,,0,0,20
-Pearl Kim,,,,,,0,20
-Total,2,0,0,0,0,0,20
 ,Lieutenant Governor - Republican,,,,Representative In Congress 5th District - Republican,,22
 ,Diana Irey Vaughan,Jeff Bartos,Kathy Coder,Peg Luksik,Pearl Kim,Paul D Addis,22
 Diana Irey Vaughan,0,0,0,0,1,0,22
@@ -116,21 +53,3 @@ Peg Luksik,,,,0,0,0,25
 Pearl Kim,,,,,0,0,25
 Paul D Addis,,,,,,0,25
 Total,1,1,0,0,1,0,25
-,Lieutenant Governor - Republican,,,,Representative In Congress 5th District - Republican,,26
-,Diana Irey Vaughan,Jeff Bartos,Kathy Coder,Peg Luksik,Paul D Addis,Pearl Kim,26
-Diana Irey Vaughan,1,0,0,0,0,0,26
-Jeff Bartos,,0,0,0,0,0,26
-Kathy Coder,,,0,0,0,0,26
-Peg Luksik,,,,0,0,0,26
-Paul D Addis,,,,,0,0,26
-Pearl Kim,,,,,,0,26
-Total,1,0,0,0,0,0,26
-,Lieutenant Governor - Republican,,,,Representative In Congress 5th District - Republican,,All
-,Diana Irey Vaughan,Kathy Coder,Jeff Bartos,Peg Luksik,Pearl Kim,Paul D Addis,All
-Diana Irey Vaughan,8,0,0,0,6,0,All
-Kathy Coder,,7,0,0,3,0,All
-Jeff Bartos,,,1,0,1,0,All
-Peg Luksik,,,,0,2,0,All
-Pearl Kim,,,,,0,0,All
-Paul D Addis,,,,,,0,All
-Total,14,10,2,2,12,0,All

@@ -1,22 +1,13 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,division
 ,Attorney General - Republican,United States Senator - Republican,,,,,All
 ,David J Freed,Tom Smith,Steven D Welch,David Alan Christian,Sam Rohrer,Marc A Scaringi,All
-David J Freed,2,11,6,4,2,2,All
-Tom Smith,,4,0,0,0,0,All
-Steven D Welch,,,3,0,0,0,All
+David J Freed,1,11,6,4,2,2,All
+Tom Smith,,2,0,0,0,0,All
+Steven D Welch,,,2,0,0,0,All
 David Alan Christian,,,,2,0,0,All
 Sam Rohrer,,,,,1,0,All
 Marc A Scaringi,,,,,,0,All
-Total,27,15,9,6,3,2,All
-,Attorney General - Republican,United States Senator - Republican,,,,,20
-,David J Freed,Tom Smith,Steven D Welch,David Alan Christian,Marc A Scaringi,Sam Rohrer,20
-David J Freed,1,1,1,0,0,0,20
-Tom Smith,,1,0,0,0,0,20
-Steven D Welch,,,0,0,0,0,20
-David Alan Christian,,,,0,0,0,20
-Marc A Scaringi,,,,,0,0,20
-Sam Rohrer,,,,,,0,20
-Total,3,2,1,0,0,0,20
+Total,26,13,8,6,3,2,All
 ,Attorney General - Republican,United States Senator - Republican,,,,,2
 ,David J Freed,Tom Smith,David Alan Christian,Marc A Scaringi,Sam Rohrer,Steven D Welch,2
 David J Freed,0,1,0,0,0,0,2
@@ -62,15 +53,6 @@ Marc A Scaringi,,,,0,0,0,7
 Steven D Welch,,,,,0,0,7
 Tom Smith,,,,,,0,7
 Total,1,1,0,0,0,0,7
-,United States Senator - Republican,,,,,Attorney General - Republican,8
-,Tom Smith,David Alan Christian,Marc A Scaringi,Sam Rohrer,Steven D Welch,David J Freed,8
-Tom Smith,1,0,0,0,0,0,8
-David Alan Christian,,0,0,0,0,0,8
-Marc A Scaringi,,,0,0,0,0,8
-Sam Rohrer,,,,0,0,0,8
-Steven D Welch,,,,,0,0,8
-David J Freed,,,,,,0,8
-Total,1,0,0,0,0,0,8
 ,Attorney General - Republican,United States Senator - Republican,,,,,9
 ,David J Freed,Steven D Welch,Tom Smith,David Alan Christian,Marc A Scaringi,Sam Rohrer,9
 David J Freed,0,1,1,0,0,0,9
@@ -143,15 +125,15 @@ Marc A Scaringi,,,,0,0,0,16
 Tom Smith,,,,,0,0,16
 David J Freed,,,,,,0,16
 Total,1,1,1,0,0,1,16
-,United States Senator - Republican,,,,,Attorney General - Republican,17
-,Steven D Welch,David Alan Christian,Marc A Scaringi,Sam Rohrer,Tom Smith,David J Freed,17
-Steven D Welch,1,0,0,0,0,0,17
-David Alan Christian,,0,0,0,0,0,17
-Marc A Scaringi,,,0,0,0,0,17
-Sam Rohrer,,,,0,0,0,17
-Tom Smith,,,,,0,0,17
-David J Freed,,,,,,0,17
-Total,1,0,0,0,0,0,17
+,Attorney General - Republican,United States Senator - Republican,,,,,20
+,David J Freed,Tom Smith,Steven D Welch,David Alan Christian,Marc A Scaringi,Sam Rohrer,20
+David J Freed,1,1,1,0,0,0,20
+Tom Smith,,1,0,0,0,0,20
+Steven D Welch,,,0,0,0,0,20
+David Alan Christian,,,,0,0,0,20
+Marc A Scaringi,,,,,0,0,20
+Sam Rohrer,,,,,,0,20
+Total,3,2,1,0,0,0,20
 ,Attorney General - Republican,United States Senator - Republican,,,,,21
 ,David J Freed,Tom Smith,David Alan Christian,Marc A Scaringi,Sam Rohrer,Steven D Welch,21
 David J Freed,0,1,0,0,0,0,21
@@ -161,15 +143,6 @@ Marc A Scaringi,,,,0,0,0,21
 Sam Rohrer,,,,,0,0,21
 Steven D Welch,,,,,,0,21
 Total,1,1,0,0,0,0,21
-,Attorney General - Republican,United States Senator - Republican,,,,,24
-,David J Freed,David Alan Christian,Marc A Scaringi,Sam Rohrer,Steven D Welch,Tom Smith,24
-David J Freed,1,0,0,0,0,0,24
-David Alan Christian,,0,0,0,0,0,24
-Marc A Scaringi,,,0,0,0,0,24
-Sam Rohrer,,,,0,0,0,24
-Steven D Welch,,,,,0,0,24
-Tom Smith,,,,,,0,24
-Total,1,0,0,0,0,0,24
 ,Attorney General - Republican,United States Senator - Republican,,,,,25
 ,David J Freed,Sam Rohrer,Tom Smith,David Alan Christian,Marc A Scaringi,Steven D Welch,25
 David J Freed,0,1,1,0,0,0,25
@@ -179,15 +152,6 @@ David Alan Christian,,,,0,0,0,25
 Marc A Scaringi,,,,,0,0,25
 Steven D Welch,,,,,,0,25
 Total,2,1,1,0,0,0,25
-,United States Senator - Republican,,,,,Attorney General - Republican,26
-,Tom Smith,David Alan Christian,Marc A Scaringi,Sam Rohrer,Steven D Welch,David J Freed,26
-Tom Smith,1,0,0,0,0,0,26
-David Alan Christian,,0,0,0,0,0,26
-Marc A Scaringi,,,0,0,0,0,26
-Sam Rohrer,,,,0,0,0,26
-Steven D Welch,,,,,0,0,26
-David J Freed,,,,,,0,26
-Total,1,0,0,0,0,0,26
 ,Attorney General - Republican,United States Senator - Republican,,,,,27
 ,David J Freed,Marc A Scaringi,David Alan Christian,Sam Rohrer,Steven D Welch,Tom Smith,27
 David J Freed,0,1,0,0,0,0,27

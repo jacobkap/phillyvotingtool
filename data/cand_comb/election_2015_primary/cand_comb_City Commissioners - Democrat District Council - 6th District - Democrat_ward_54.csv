@@ -1,64 +1,14 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,division
-,City Commissioners - Democrat,,,,,,District Council 6th District - Democrat,1
-,Anthony Clark,Lisa M Deeley,Carol A Jenkins,Will Mega,Tracey L Gordon,Omar Sabir,Bobby Henon,1
-Anthony Clark,12,3,5,4,2,1,0,1
-Lisa M Deeley,,7,2,4,0,5,0,1
-Carol A Jenkins,,,4,1,3,1,0,1
-Will Mega,,,,1,1,0,0,1
-Tracey L Gordon,,,,,3,0,0,1
-Omar Sabir,,,,,,0,0,1
-Bobby Henon,,,,,,,0,1
-Total,27,21,16,11,9,7,0,1
-,City Commissioners - Democrat,,,,,,District Council 6th District - Democrat,2
-,Anthony Clark,Lisa M Deeley,Omar Sabir,Carol A Jenkins,Will Mega,Tracey L Gordon,Bobby Henon,2
-Anthony Clark,22,2,3,4,2,4,0,2
-Lisa M Deeley,,10,5,3,2,1,0,2
-Omar Sabir,,,3,0,0,0,0,2
-Carol A Jenkins,,,,1,0,2,0,2
-Will Mega,,,,,5,0,0,2
-Tracey L Gordon,,,,,,1,0,2
-Bobby Henon,,,,,,,0,2
-Total,37,23,11,10,9,8,0,2
-,City Commissioners - Democrat,,,,,,District Council 6th District - Democrat,3
-,Anthony Clark,Lisa M Deeley,Tracey L Gordon,Carol A Jenkins,Omar Sabir,Will Mega,Bobby Henon,3
-Anthony Clark,10,1,2,1,1,1,0,3
-Lisa M Deeley,,3,2,2,2,0,0,3
-Tracey L Gordon,,,0,4,0,0,0,3
-Carol A Jenkins,,,,0,0,0,0,3
-Omar Sabir,,,,,1,0,0,3
-Will Mega,,,,,,2,0,3
-Bobby Henon,,,,,,,0,3
-Total,16,10,8,7,4,3,0,3
-,City Commissioners - Democrat,,,,,,District Council 6th District - Democrat,4
-,Anthony Clark,Lisa M Deeley,Omar Sabir,Carol A Jenkins,Tracey L Gordon,Will Mega,Bobby Henon,4
-Anthony Clark,11,2,2,4,3,3,0,4
-Lisa M Deeley,,5,7,1,1,0,0,4
-Omar Sabir,,,1,1,1,1,0,4
-Carol A Jenkins,,,,2,3,0,0,4
-Tracey L Gordon,,,,,0,2,0,4
-Will Mega,,,,,,1,0,4
-Bobby Henon,,,,,,,0,4
-Total,25,16,13,11,10,7,0,4
-,City Commissioners - Democrat,,,,,,District Council 6th District - Democrat,5
-,Anthony Clark,Lisa M Deeley,Omar Sabir,Tracey L Gordon,Carol A Jenkins,Will Mega,Bobby Henon,5
-Anthony Clark,15,3,1,2,2,1,0,5
-Lisa M Deeley,,7,3,2,1,0,0,5
-Omar Sabir,,,1,0,0,1,0,5
-Tracey L Gordon,,,,2,0,0,0,5
-Carol A Jenkins,,,,,0,0,0,5
-Will Mega,,,,,,1,0,5
-Bobby Henon,,,,,,,0,5
-Total,24,16,6,6,3,3,0,5
-,City Commissioners - Democrat,,,,,,District Council 6th District - Democrat,6
-,Anthony Clark,Lisa M Deeley,Will Mega,Tracey L Gordon,Carol A Jenkins,Omar Sabir,Bobby Henon,6
-Anthony Clark,12,5,2,3,1,2,0,6
-Lisa M Deeley,,12,5,1,0,2,0,6
-Will Mega,,,1,0,2,1,0,6
-Tracey L Gordon,,,,2,1,1,0,6
-Carol A Jenkins,,,,,3,0,0,6
-Omar Sabir,,,,,,1,0,6
-Bobby Henon,,,,,,,0,6
-Total,25,25,11,8,7,7,0,6
+,District Council 6th District - Democrat,City Commissioners - Democrat,,,,,,All
+,Bobby Henon,Anthony Clark,Lisa M Deeley,Tracey L Gordon,Carol A Jenkins,Omar Sabir,Will Mega,All
+Bobby Henon,87,260,207,156,128,76,72,All
+Anthony Clark,,34,54,59,44,25,18,All
+Lisa M Deeley,,,68,35,36,21,28,All
+Tracey L Gordon,,,,15,39,7,10,All
+Carol A Jenkins,,,,,17,11,3,All
+Omar Sabir,,,,,,6,9,All
+Will Mega,,,,,,,3,All
+Total,645,313,300,195,171,92,87,All
 ,District Council 6th District - Democrat,City Commissioners - Democrat,,,,,,7
 ,Bobby Henon,Lisa M Deeley,Anthony Clark,Tracey L Gordon,Carol A Jenkins,Omar Sabir,Will Mega,7
 Bobby Henon,4,8,13,9,6,6,3,7
@@ -219,13 +169,3 @@ Will Mega,,,,,1,0,1,22
 Carol A Jenkins,,,,,,1,0,22
 Omar Sabir,,,,,,,1,22
 Total,32,15,10,8,8,6,4,22
-,District Council 6th District - Democrat,City Commissioners - Democrat,,,,,,All
-,Bobby Henon,Anthony Clark,Lisa M Deeley,Tracey L Gordon,Carol A Jenkins,Omar Sabir,Will Mega,All
-Bobby Henon,87,260,207,156,128,76,72,All
-Anthony Clark,,116,70,75,61,35,31,All
-Lisa M Deeley,,,112,42,45,45,39,All
-Tracey L Gordon,,,,23,52,9,13,All
-Carol A Jenkins,,,,,27,13,6,All
-Omar Sabir,,,,,,13,12,All
-Will Mega,,,,,,,14,All
-Total,645,467,411,244,225,140,131,All

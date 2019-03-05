@@ -1,4 +1,10 @@
 col_1,col_2,col_3,col_4,division
+,Judge Of The Superior Court - Republican,Judge Of The Traffic Court - Republican,,All
+,Vic Stabile,Ella P Butcher,Christopher M Vogler,All
+Vic Stabile,4,17,16,All
+Ella P Butcher,,2,12,All
+Christopher M Vogler,,,0,All
+Total,25,19,16,All
 ,Judge Of The Superior Court - Republican,Judge Of The Traffic Court - Republican,,4
 ,Vic Stabile,Christopher M Vogler,Ella P Butcher,4
 Vic Stabile,1,5,2,4
@@ -11,12 +17,6 @@ Christopher M Vogler,0,1,1,5
 Ella P Butcher,,0,1,5
 Vic Stabile,,,0,5
 Total,1,1,1,5
-,Judge Of The Traffic Court - Republican,,Judge Of The Superior Court - Republican,10
-,Ella P Butcher,Christopher M Vogler,Vic Stabile,10
-Ella P Butcher,1,0,0,10
-Christopher M Vogler,,0,0,10
-Vic Stabile,,,0,10
-Total,1,0,0,10
 ,Judge Of The Traffic Court - Republican,,Judge Of The Superior Court - Republican,11
 ,Ella P Butcher,Christopher M Vogler,Vic Stabile,11
 Ella P Butcher,1,2,2,11
@@ -29,12 +29,6 @@ Ella P Butcher,0,0,1,12
 Christopher M Vogler,,0,0,12
 Vic Stabile,,,0,12
 Total,1,0,1,12
-,Judge Of The Traffic Court - Republican,,Judge Of The Superior Court - Republican,13
-,Ella P Butcher,Christopher M Vogler,Vic Stabile,13
-Ella P Butcher,1,0,0,13
-Christopher M Vogler,,0,0,13
-Vic Stabile,,,0,13
-Total,1,0,0,13
 ,Judge Of The Superior Court - Republican,Judge Of The Traffic Court - Republican,,15
 ,Vic Stabile,Christopher M Vogler,Ella P Butcher,15
 Vic Stabile,0,3,3,15
@@ -77,9 +71,3 @@ Ella P Butcher,1,0,1,24
 Christopher M Vogler,,0,0,24
 Vic Stabile,,,0,24
 Total,2,0,1,24
-,Judge Of The Superior Court - Republican,Judge Of The Traffic Court - Republican,,All
-,Vic Stabile,Ella P Butcher,Christopher M Vogler,All
-Vic Stabile,4,17,16,All
-Ella P Butcher,,4,12,All
-Christopher M Vogler,,,0,All
-Total,25,21,16,All

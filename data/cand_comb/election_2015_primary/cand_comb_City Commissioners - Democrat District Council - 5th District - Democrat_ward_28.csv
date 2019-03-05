@@ -1,4 +1,14 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,division
+,District Council 5th District - Democrat,City Commissioners - Democrat,,,,,,All
+,Darrell L Clarke,Anthony Clark,Omar Sabir,Tracey L Gordon,Will Mega,Lisa M Deeley,Carol A Jenkins,All
+Darrell L Clarke,182,791,167,149,136,133,105,All
+Anthony Clark,,112,96,78,69,91,53,All
+Omar Sabir,,,15,12,13,11,15,All
+Tracey L Gordon,,,,12,16,8,24,All
+Will Mega,,,,,8,24,4,All
+Lisa M Deeley,,,,,,4,6,All
+Carol A Jenkins,,,,,,,9,All
+Total,"1,203",931,200,177,164,161,128,All
 ,District Council 5th District - Democrat,City Commissioners - Democrat,,,,,,1
 ,Darrell L Clarke,Anthony Clark,Carol A Jenkins,Tracey L Gordon,Will Mega,Lisa M Deeley,Omar Sabir,1
 Darrell L Clarke,5,32,5,7,7,4,4,1
@@ -79,16 +89,6 @@ Will Mega,,,,,1,0,2,8
 Tracey L Gordon,,,,,,0,2,8
 Carol A Jenkins,,,,,,,0,8
 Total,161,124,29,28,27,25,20,8
-,City Commissioners - Democrat,,,,,,District Council 5th District - Democrat,9
-,Anthony Clark,Will Mega,Carol A Jenkins,Tracey L Gordon,Lisa M Deeley,Omar Sabir,Darrell L Clarke,9
-Anthony Clark,46,10,11,5,8,6,0,9
-Will Mega,,3,1,2,3,2,0,9
-Carol A Jenkins,,,6,1,1,0,0,9
-Tracey L Gordon,,,,6,3,2,0,9
-Lisa M Deeley,,,,,1,2,0,9
-Omar Sabir,,,,,,4,0,9
-Darrell L Clarke,,,,,,,0,9
-Total,86,21,20,19,18,16,0,9
 ,District Council 5th District - Democrat,City Commissioners - Democrat,,,,,,10
 ,Darrell L Clarke,Anthony Clark,Tracey L Gordon,Will Mega,Carol A Jenkins,Omar Sabir,Lisa M Deeley,10
 Darrell L Clarke,17,30,7,5,6,7,5,10
@@ -149,43 +149,3 @@ Carol A Jenkins,,,,,0,0,0,15
 Will Mega,,,,,,0,1,15
 Lisa M Deeley,,,,,,,0,15
 Total,71,57,12,11,9,5,3,15
-,City Commissioners - Democrat,,,,,,District Council 5th District - Democrat,16
-,Anthony Clark,Omar Sabir,Lisa M Deeley,Tracey L Gordon,Will Mega,Carol A Jenkins,Darrell L Clarke,16
-Anthony Clark,30,9,8,4,5,1,0,16
-Omar Sabir,,5,1,1,0,2,0,16
-Lisa M Deeley,,,1,3,3,1,0,16
-Tracey L Gordon,,,,2,1,2,0,16
-Will Mega,,,,,2,0,0,16
-Carol A Jenkins,,,,,,0,0,16
-Darrell L Clarke,,,,,,,0,16
-Total,57,18,17,13,11,6,0,16
-,City Commissioners - Democrat,,,,,,District Council 5th District - Democrat,17
-,Anthony Clark,Lisa M Deeley,Omar Sabir,Will Mega,Carol A Jenkins,Tracey L Gordon,Darrell L Clarke,17
-Anthony Clark,43,14,5,3,2,3,0,17
-Lisa M Deeley,,3,0,2,0,0,0,17
-Omar Sabir,,,2,3,0,0,0,17
-Will Mega,,,,0,0,0,0,17
-Carol A Jenkins,,,,,2,1,0,17
-Tracey L Gordon,,,,,,0,0,17
-Darrell L Clarke,,,,,,,0,17
-Total,70,19,10,8,5,4,0,17
-,City Commissioners - Democrat,,,,,,District Council 5th District - Democrat,18
-,Anthony Clark,Omar Sabir,Carol A Jenkins,Lisa M Deeley,Tracey L Gordon,Will Mega,Darrell L Clarke,18
-Anthony Clark,45,8,6,7,3,5,0,18
-Omar Sabir,,5,0,1,2,1,0,18
-Carol A Jenkins,,,3,0,2,0,0,18
-Lisa M Deeley,,,,1,0,1,0,18
-Tracey L Gordon,,,,,3,0,0,18
-Will Mega,,,,,,1,0,18
-Darrell L Clarke,,,,,,,0,18
-Total,74,17,11,10,10,8,0,18
-,City Commissioners - Democrat,,,,,,District Council 5th District - Democrat,All
-,Anthony Clark,Omar Sabir,Lisa M Deeley,Tracey L Gordon,Will Mega,Carol A Jenkins,Darrell L Clarke,All
-Anthony Clark,276,124,128,93,92,73,791,All
-Omar Sabir,,31,15,17,19,17,167,All
-Lisa M Deeley,,,10,14,33,8,133,All
-Tracey L Gordon,,,,23,19,30,149,All
-Will Mega,,,,,14,5,136,All
-Carol A Jenkins,,,,,,20,105,All
-Darrell L Clarke,,,,,,,182,All
-Total,"1,218",261,225,223,212,170,"1,203",All

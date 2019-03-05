@@ -1,7 +1,7 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10,col_11,division
 ,President Of The United States - Democrat,Delegate To The Democratic National Convention 13th District,,,,,,,,,All
 ,Barack Obama,Catherine G Scott,Kelly Lynn Devine,D Gregory Holt,Louis J Farinella,Olivia E Brady,Leslie S Richards,Caren Gansman Moskowitz,Vince Gillen,Patrick J Eiding,All
-Barack Obama,272,342,300,292,178,180,182,176,178,173,All
+Barack Obama,102,342,300,292,178,180,182,176,178,173,All
 Catherine G Scott,,0,290,279,174,178,178,174,173,175,All
 Kelly Lynn Devine,,,0,275,172,178,173,168,169,167,All
 D Gregory Holt,,,,3,163,163,166,158,162,163,All
@@ -11,7 +11,7 @@ Leslie S Richards,,,,,,,0,164,170,167,All
 Caren Gansman Moskowitz,,,,,,,,1,162,160,All
 Vince Gillen,,,,,,,,,0,170,All
 Patrick J Eiding,,,,,,,,,,1,All
-Total,669,353,314,303,188,188,187,185,185,181,All
+Total,499,353,314,303,188,188,187,185,185,181,All
 ,President Of The United States - Democrat,Delegate To The Democratic National Convention 13th District,,,,,,,,,1
 ,Barack Obama,D Gregory Holt,Kelly Lynn Devine,Catherine G Scott,Caren Gansman Moskowitz,Louis J Farinella,Olivia E Brady,Patrick J Eiding,Leslie S Richards,Vince Gillen,1
 Barack Obama,8,15,14,14,9,8,9,9,7,8,1
@@ -38,19 +38,6 @@ Louis J Farinella,,,,,,,,0,16,16,2
 Patrick J Eiding,,,,,,,,,0,16,2
 Vince Gillen,,,,,,,,,,0,2
 Total,40,34,30,29,18,18,17,17,17,17,2
-,President Of The United States - Democrat,Delegate To The Democratic National Convention 13th District,,,,,,,,,3
-,Barack Obama,Caren Gansman Moskowitz,Catherine G Scott,D Gregory Holt,Kelly Lynn Devine,Leslie S Richards,Louis J Farinella,Olivia E Brady,Patrick J Eiding,Vince Gillen,3
-Barack Obama,33,0,0,0,0,0,0,0,0,0,3
-Caren Gansman Moskowitz,,0,0,0,0,0,0,0,0,0,3
-Catherine G Scott,,,0,0,0,0,0,0,0,0,3
-D Gregory Holt,,,,0,0,0,0,0,0,0,3
-Kelly Lynn Devine,,,,,0,0,0,0,0,0,3
-Leslie S Richards,,,,,,0,0,0,0,0,3
-Louis J Farinella,,,,,,,0,0,0,0,3
-Olivia E Brady,,,,,,,,0,0,0,3
-Patrick J Eiding,,,,,,,,,0,0,3
-Vince Gillen,,,,,,,,,,0,3
-Total,33,0,0,0,0,0,0,0,0,0,3
 ,President Of The United States - Democrat,Delegate To The Democratic National Convention 13th District,,,,,,,,,4
 ,Barack Obama,Catherine G Scott,Kelly Lynn Devine,D Gregory Holt,Patrick J Eiding,Leslie S Richards,Caren Gansman Moskowitz,Louis J Farinella,Olivia E Brady,Vince Gillen,4
 Barack Obama,5,37,32,31,17,16,15,15,15,15,4
@@ -181,45 +168,6 @@ Vince Gillen,,,,,,,,0,9,9,13
 Caren Gansman Moskowitz,,,,,,,,,0,10,13
 Olivia E Brady,,,,,,,,,,0,13
 Total,32,22,21,16,12,11,11,11,10,10,13
-,President Of The United States - Democrat,Delegate To The Democratic National Convention 13th District,,,,,,,,,14
-,Barack Obama,Caren Gansman Moskowitz,Catherine G Scott,D Gregory Holt,Kelly Lynn Devine,Leslie S Richards,Louis J Farinella,Olivia E Brady,Patrick J Eiding,Vince Gillen,14
-Barack Obama,14,0,0,0,0,0,0,0,0,0,14
-Caren Gansman Moskowitz,,0,0,0,0,0,0,0,0,0,14
-Catherine G Scott,,,0,0,0,0,0,0,0,0,14
-D Gregory Holt,,,,0,0,0,0,0,0,0,14
-Kelly Lynn Devine,,,,,0,0,0,0,0,0,14
-Leslie S Richards,,,,,,0,0,0,0,0,14
-Louis J Farinella,,,,,,,0,0,0,0,14
-Olivia E Brady,,,,,,,,0,0,0,14
-Patrick J Eiding,,,,,,,,,0,0,14
-Vince Gillen,,,,,,,,,,0,14
-Total,14,0,0,0,0,0,0,0,0,0,14
-,President Of The United States - Democrat,Delegate To The Democratic National Convention 13th District,,,,,,,,,15
-,Barack Obama,Caren Gansman Moskowitz,Catherine G Scott,D Gregory Holt,Kelly Lynn Devine,Leslie S Richards,Louis J Farinella,Olivia E Brady,Patrick J Eiding,Vince Gillen,15
-Barack Obama,15,0,0,0,0,0,0,0,0,0,15
-Caren Gansman Moskowitz,,0,0,0,0,0,0,0,0,0,15
-Catherine G Scott,,,0,0,0,0,0,0,0,0,15
-D Gregory Holt,,,,0,0,0,0,0,0,0,15
-Kelly Lynn Devine,,,,,0,0,0,0,0,0,15
-Leslie S Richards,,,,,,0,0,0,0,0,15
-Louis J Farinella,,,,,,,0,0,0,0,15
-Olivia E Brady,,,,,,,,0,0,0,15
-Patrick J Eiding,,,,,,,,,0,0,15
-Vince Gillen,,,,,,,,,,0,15
-Total,15,0,0,0,0,0,0,0,0,0,15
-,President Of The United States - Democrat,Delegate To The Democratic National Convention 13th District,,,,,,,,,16
-,Barack Obama,Caren Gansman Moskowitz,Catherine G Scott,D Gregory Holt,Kelly Lynn Devine,Leslie S Richards,Louis J Farinella,Olivia E Brady,Patrick J Eiding,Vince Gillen,16
-Barack Obama,20,0,0,0,0,0,0,0,0,0,16
-Caren Gansman Moskowitz,,0,0,0,0,0,0,0,0,0,16
-Catherine G Scott,,,0,0,0,0,0,0,0,0,16
-D Gregory Holt,,,,0,0,0,0,0,0,0,16
-Kelly Lynn Devine,,,,,0,0,0,0,0,0,16
-Leslie S Richards,,,,,,0,0,0,0,0,16
-Louis J Farinella,,,,,,,0,0,0,0,16
-Olivia E Brady,,,,,,,,0,0,0,16
-Patrick J Eiding,,,,,,,,,0,0,16
-Vince Gillen,,,,,,,,,,0,16
-Total,20,0,0,0,0,0,0,0,0,0,16
 ,President Of The United States - Democrat,Delegate To The Democratic National Convention 13th District,,,,,,,,,17
 ,Barack Obama,Catherine G Scott,D Gregory Holt,Kelly Lynn Devine,Olivia E Brady,Caren Gansman Moskowitz,Leslie S Richards,Louis J Farinella,Patrick J Eiding,Vince Gillen,17
 Barack Obama,4,23,20,20,16,14,14,13,13,13,17
@@ -246,45 +194,6 @@ Vince Gillen,,,,,,,,0,13,13,18
 Olivia E Brady,,,,,,,,,0,13,18
 Patrick J Eiding,,,,,,,,,,0,18
 Total,28,24,21,20,14,14,14,14,13,13,18
-,President Of The United States - Democrat,Delegate To The Democratic National Convention 13th District,,,,,,,,,19
-,Barack Obama,Caren Gansman Moskowitz,Catherine G Scott,D Gregory Holt,Kelly Lynn Devine,Leslie S Richards,Louis J Farinella,Olivia E Brady,Patrick J Eiding,Vince Gillen,19
-Barack Obama,29,0,0,0,0,0,0,0,0,0,19
-Caren Gansman Moskowitz,,0,0,0,0,0,0,0,0,0,19
-Catherine G Scott,,,0,0,0,0,0,0,0,0,19
-D Gregory Holt,,,,0,0,0,0,0,0,0,19
-Kelly Lynn Devine,,,,,0,0,0,0,0,0,19
-Leslie S Richards,,,,,,0,0,0,0,0,19
-Louis J Farinella,,,,,,,0,0,0,0,19
-Olivia E Brady,,,,,,,,0,0,0,19
-Patrick J Eiding,,,,,,,,,0,0,19
-Vince Gillen,,,,,,,,,,0,19
-Total,29,0,0,0,0,0,0,0,0,0,19
-,President Of The United States - Democrat,Delegate To The Democratic National Convention 13th District,,,,,,,,,20
-,Barack Obama,Caren Gansman Moskowitz,Catherine G Scott,D Gregory Holt,Kelly Lynn Devine,Leslie S Richards,Louis J Farinella,Olivia E Brady,Patrick J Eiding,Vince Gillen,20
-Barack Obama,25,0,0,0,0,0,0,0,0,0,20
-Caren Gansman Moskowitz,,0,0,0,0,0,0,0,0,0,20
-Catherine G Scott,,,0,0,0,0,0,0,0,0,20
-D Gregory Holt,,,,0,0,0,0,0,0,0,20
-Kelly Lynn Devine,,,,,0,0,0,0,0,0,20
-Leslie S Richards,,,,,,0,0,0,0,0,20
-Louis J Farinella,,,,,,,0,0,0,0,20
-Olivia E Brady,,,,,,,,0,0,0,20
-Patrick J Eiding,,,,,,,,,0,0,20
-Vince Gillen,,,,,,,,,,0,20
-Total,25,0,0,0,0,0,0,0,0,0,20
-,President Of The United States - Democrat,Delegate To The Democratic National Convention 13th District,,,,,,,,,21
-,Barack Obama,Caren Gansman Moskowitz,Catherine G Scott,D Gregory Holt,Kelly Lynn Devine,Leslie S Richards,Louis J Farinella,Olivia E Brady,Patrick J Eiding,Vince Gillen,21
-Barack Obama,34,0,0,0,0,0,0,0,0,0,21
-Caren Gansman Moskowitz,,0,0,0,0,0,0,0,0,0,21
-Catherine G Scott,,,0,0,0,0,0,0,0,0,21
-D Gregory Holt,,,,0,0,0,0,0,0,0,21
-Kelly Lynn Devine,,,,,0,0,0,0,0,0,21
-Leslie S Richards,,,,,,0,0,0,0,0,21
-Louis J Farinella,,,,,,,0,0,0,0,21
-Olivia E Brady,,,,,,,,0,0,0,21
-Patrick J Eiding,,,,,,,,,0,0,21
-Vince Gillen,,,,,,,,,,0,21
-Total,34,0,0,0,0,0,0,0,0,0,21
 ,President Of The United States - Democrat,Delegate To The Democratic National Convention 13th District,,,,,,,,,22
 ,Barack Obama,Catherine G Scott,Kelly Lynn Devine,D Gregory Holt,Caren Gansman Moskowitz,Leslie S Richards,Olivia E Brady,Louis J Farinella,Patrick J Eiding,Vince Gillen,22
 Barack Obama,7,17,15,14,10,10,10,9,9,9,22

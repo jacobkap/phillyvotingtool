@@ -1,4 +1,10 @@
 col_1,col_2,col_3,col_4,division
+,Controller - Republican,Judge Of The Court Of Common Pleas - Republican,,All
+,Terrence J Tracy Jr,Anne Marie Coyle,Kenneth J Powell Jr,All
+Terrence J Tracy Jr,1,37,34,All
+Anne Marie Coyle,,2,31,All
+Kenneth J Powell Jr,,,3,All
+Total,42,40,38,All
 ,Controller - Republican,Judge Of The Court Of Common Pleas - Republican,,1
 ,Terrence J Tracy Jr,Anne Marie Coyle,Kenneth J Powell Jr,1
 Terrence J Tracy Jr,0,2,2,1
@@ -41,12 +47,6 @@ Anne Marie Coyle,0,2,2,9
 Kenneth J Powell Jr,,0,2,9
 Terrence J Tracy Jr,,,0,9
 Total,2,2,2,9
-,Judge Of The Court Of Common Pleas - Republican,,Controller - Republican,10
-,Anne Marie Coyle,Kenneth J Powell Jr,Terrence J Tracy Jr,10
-Anne Marie Coyle,1,0,0,10
-Kenneth J Powell Jr,,0,0,10
-Terrence J Tracy Jr,,,0,10
-Total,1,0,0,10
 ,Judge Of The Court Of Common Pleas - Republican,,Controller - Republican,15
 ,Anne Marie Coyle,Kenneth J Powell Jr,Terrence J Tracy Jr,15
 Anne Marie Coyle,0,3,2,15
@@ -89,9 +89,3 @@ Anne Marie Coyle,0,1,1,25
 Kenneth J Powell Jr,,0,1,25
 Terrence J Tracy Jr,,,0,25
 Total,1,1,1,25
-,Controller - Republican,Judge Of The Court Of Common Pleas - Republican,,All
-,Terrence J Tracy Jr,Anne Marie Coyle,Kenneth J Powell Jr,All
-Terrence J Tracy Jr,1,37,34,All
-Anne Marie Coyle,,3,31,All
-Kenneth J Powell Jr,,,3,All
-Total,42,41,38,All

@@ -1,4 +1,11 @@
 col_1,col_2,col_3,col_4,col_5,division
+,Representative In Congress 2nd District - Republican,Member Of - Republican State Committee 2nd Congressional District,,,All
+,Armond James,Denise Furey,Calvin R Tucker,Walt Vogler,All
+Armond James,0,21,14,11,All
+Denise Furey,,1,11,11,All
+Calvin R Tucker,,,1,9,All
+Walt Vogler,,,,0,All
+Total,24,22,15,11,All
 ,Representative In Congress 2nd District - Republican,Member Of - Republican State Committee 2nd Congressional District,,,1
 ,Armond James,Denise Furey,Calvin R Tucker,Walt Vogler,1
 Armond James,0,1,0,0,1
@@ -13,13 +20,6 @@ Denise Furey,,0,1,0,2
 Walt Vogler,,,0,0,2
 Calvin R Tucker,,,,0,2
 Total,1,1,1,0,2
-,Member Of - Republican State Committee 2nd Congressional District,,,Representative In Congress 2nd District - Republican,3
-,Walt Vogler,Calvin R Tucker,Denise Furey,Armond James,3
-Walt Vogler,1,0,0,0,3
-Calvin R Tucker,,0,0,0,3
-Denise Furey,,,0,0,3
-Armond James,,,,0,3
-Total,1,0,0,0,3
 ,Representative In Congress 2nd District - Republican,Member Of - Republican State Committee 2nd Congressional District,,,6
 ,Armond James,Calvin R Tucker,Denise Furey,Walt Vogler,6
 Armond James,0,1,1,1,6
@@ -62,13 +62,6 @@ Denise Furey,,0,1,1,15
 Calvin R Tucker,,,0,1,15
 Walt Vogler,,,,0,15
 Total,2,2,1,1,15
-,Representative In Congress 2nd District - Republican,Member Of - Republican State Committee 2nd Congressional District,,,17
-,Armond James,Calvin R Tucker,Denise Furey,Walt Vogler,17
-Armond James,1,0,0,0,17
-Calvin R Tucker,,0,0,0,17
-Denise Furey,,,0,0,17
-Walt Vogler,,,,0,17
-Total,1,0,0,0,17
 ,Representative In Congress 2nd District - Republican,Member Of - Republican State Committee 2nd Congressional District,,,18
 ,Armond James,Calvin R Tucker,Denise Furey,Walt Vogler,18
 Armond James,0,2,2,1,18
@@ -97,10 +90,3 @@ Calvin R Tucker,,0,1,1,23
 Denise Furey,,,0,1,23
 Walt Vogler,,,,0,23
 Total,2,2,1,1,23
-,Representative In Congress 2nd District - Republican,Member Of - Republican State Committee 2nd Congressional District,,,All
-,Armond James,Denise Furey,Calvin R Tucker,Walt Vogler,All
-Armond James,1,21,14,11,All
-Denise Furey,,1,11,11,All
-Calvin R Tucker,,,1,9,All
-Walt Vogler,,,,1,All
-Total,25,22,15,12,All

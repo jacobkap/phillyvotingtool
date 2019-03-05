@@ -1,112 +1,13 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,division
-,President And Vice President Of The United States,,,,Representative In Congress 1st District,,All
-,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,Robert A Brady,John Featherman,All
-Barack Obama,"3,669",0,0,0,121,3,All
-Mitt Romney,,"2,530",0,0,18,38,All
-Gary Johnson,,,43,0,0,0,All
-Jill Stein,,,,21,1,2,All
-Robert A Brady,,,,,1,0,All
-John Featherman,,,,,,0,All
-Total,"3,793","2,586",43,24,141,43,All
-,President And Vice President Of The United States,,,,Representative In Congress 1st District,,1
-,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,John Featherman,Robert A Brady,1
-Barack Obama,241,0,0,0,0,0,1
-Mitt Romney,,117,0,0,0,0,1
-Gary Johnson,,,5,0,0,0,1
-Jill Stein,,,,2,0,0,1
-John Featherman,,,,,0,0,1
-Robert A Brady,,,,,,0,1
-Total,241,117,5,2,0,0,1
-,President And Vice President Of The United States,,,,Representative In Congress 1st District,,2
-,Barack Obama,Mitt Romney,Jill Stein,Gary Johnson,John Featherman,Robert A Brady,2
-Barack Obama,222,0,0,0,0,0,2
-Mitt Romney,,206,0,0,0,0,2
-Jill Stein,,,4,0,0,0,2
-Gary Johnson,,,,2,0,0,2
-John Featherman,,,,,0,0,2
-Robert A Brady,,,,,,0,2
-Total,222,206,4,2,0,0,2
-,President And Vice President Of The United States,,,,Representative In Congress 1st District,,3
-,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,John Featherman,Robert A Brady,3
-Barack Obama,223,0,0,0,0,0,3
-Mitt Romney,,109,0,0,0,0,3
-Gary Johnson,,,3,0,0,0,3
-Jill Stein,,,,2,0,0,3
-John Featherman,,,,,0,0,3
-Robert A Brady,,,,,,0,3
-Total,223,109,3,2,0,0,3
-,President And Vice President Of The United States,,,,Representative In Congress 1st District,,4
-,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,John Featherman,Robert A Brady,4
-Barack Obama,228,0,0,0,0,0,4
-Mitt Romney,,147,0,0,0,0,4
-Gary Johnson,,,2,0,0,0,4
-Jill Stein,,,,1,0,0,4
-John Featherman,,,,,0,0,4
-Robert A Brady,,,,,,0,4
-Total,228,147,2,1,0,0,4
-,President And Vice President Of The United States,,,,Representative In Congress 1st District,,5
-,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,John Featherman,Robert A Brady,5
-Barack Obama,321,0,0,0,0,0,5
-Mitt Romney,,173,0,0,0,0,5
-Gary Johnson,,,3,0,0,0,5
-Jill Stein,,,,3,0,0,5
-John Featherman,,,,,0,0,5
-Robert A Brady,,,,,,0,5
-Total,321,173,3,3,0,0,5
-,President And Vice President Of The United States,,,,Representative In Congress 1st District,,6
-,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,John Featherman,Robert A Brady,6
-Barack Obama,219,0,0,0,0,0,6
-Mitt Romney,,164,0,0,0,0,6
-Gary Johnson,,,6,0,0,0,6
-Jill Stein,,,,1,0,0,6
-John Featherman,,,,,0,0,6
-Robert A Brady,,,,,,0,6
-Total,219,164,6,1,0,0,6
-,President And Vice President Of The United States,,,,Representative In Congress 1st District,,7
-,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,John Featherman,Robert A Brady,7
-Barack Obama,206,0,0,0,0,0,7
-Mitt Romney,,148,0,0,0,0,7
-Gary Johnson,,,2,0,0,0,7
-Jill Stein,,,,0,0,0,7
-John Featherman,,,,,0,0,7
-Robert A Brady,,,,,,0,7
-Total,206,148,2,0,0,0,7
-,President And Vice President Of The United States,,,,Representative In Congress 1st District,,8
-,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,John Featherman,Robert A Brady,8
-Barack Obama,197,0,0,0,0,0,8
-Mitt Romney,,163,0,0,0,0,8
-Gary Johnson,,,3,0,0,0,8
-Jill Stein,,,,0,0,0,8
-John Featherman,,,,,0,0,8
-Robert A Brady,,,,,,0,8
-Total,197,163,3,0,0,0,8
-,President And Vice President Of The United States,,,,Representative In Congress 1st District,,9
-,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,John Featherman,Robert A Brady,9
-Barack Obama,196,0,0,0,0,0,9
-Mitt Romney,,101,0,0,0,0,9
-Gary Johnson,,,2,0,0,0,9
-Jill Stein,,,,0,0,0,9
-John Featherman,,,,,0,0,9
-Robert A Brady,,,,,,0,9
-Total,196,101,2,0,0,0,9
-,President And Vice President Of The United States,,,,Representative In Congress 1st District,,10
-,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,John Featherman,Robert A Brady,10
-Barack Obama,231,0,0,0,0,0,10
-Mitt Romney,,110,0,0,0,0,10
-Gary Johnson,,,3,0,0,0,10
-Jill Stein,,,,1,0,0,10
-John Featherman,,,,,0,0,10
-Robert A Brady,,,,,,0,10
-Total,231,110,3,1,0,0,10
-,President And Vice President Of The United States,,,,Representative In Congress 1st District,,11
-,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,John Featherman,Robert A Brady,11
-Barack Obama,186,0,0,0,0,0,11
-Mitt Romney,,146,0,0,0,0,11
-Gary Johnson,,,1,0,0,0,11
-Jill Stein,,,,1,0,0,11
-John Featherman,,,,,0,0,11
-Robert A Brady,,,,,,0,11
-Total,186,146,1,1,0,0,11
+,Representative In Congress 1st District,,President And Vice President Of The United States,,,,All
+,Robert A Brady,John Featherman,Barack Obama,Mitt Romney,Jill Stein,Gary Johnson,All
+Robert A Brady,1,0,121,18,1,0,All
+John Featherman,,0,3,38,2,0,All
+Barack Obama,,,3,0,0,0,All
+Mitt Romney,,,,11,0,0,All
+Jill Stein,,,,,0,0,All
+Gary Johnson,,,,,,1,All
+Total,141,43,127,67,3,1,All
 ,Representative In Congress 1st District,,President And Vice President Of The United States,,,,12
 ,Robert A Brady,John Featherman,Barack Obama,Mitt Romney,Jill Stein,Gary Johnson,12
 Robert A Brady,1,0,121,18,1,0,12
@@ -116,57 +17,3 @@ Mitt Romney,,,,11,0,0,12
 Jill Stein,,,,,0,0,12
 Gary Johnson,,,,,,1,12
 Total,141,43,127,67,3,1,12
-,President And Vice President Of The United States,,,,Representative In Congress 1st District,,13
-,Barack Obama,Mitt Romney,Jill Stein,Gary Johnson,John Featherman,Robert A Brady,13
-Barack Obama,182,0,0,0,0,0,13
-Mitt Romney,,181,0,0,0,0,13
-Jill Stein,,,2,0,0,0,13
-Gary Johnson,,,,1,0,0,13
-John Featherman,,,,,0,0,13
-Robert A Brady,,,,,,0,13
-Total,182,181,2,1,0,0,13
-,President And Vice President Of The United States,,,,Representative In Congress 1st District,,14
-,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,John Featherman,Robert A Brady,14
-Barack Obama,165,0,0,0,0,0,14
-Mitt Romney,,138,0,0,0,0,14
-Gary Johnson,,,3,0,0,0,14
-Jill Stein,,,,1,0,0,14
-John Featherman,,,,,0,0,14
-Robert A Brady,,,,,,0,14
-Total,165,138,3,1,0,0,14
-,President And Vice President Of The United States,,,,Representative In Congress 1st District,,15
-,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,John Featherman,Robert A Brady,15
-Barack Obama,129,0,0,0,0,0,15
-Mitt Romney,,57,0,0,0,0,15
-Gary Johnson,,,1,0,0,0,15
-Jill Stein,,,,1,0,0,15
-John Featherman,,,,,0,0,15
-Robert A Brady,,,,,,0,15
-Total,129,57,1,1,0,0,15
-,President And Vice President Of The United States,,,,Representative In Congress 1st District,,16
-,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,John Featherman,Robert A Brady,16
-Barack Obama,242,0,0,0,0,0,16
-Mitt Romney,,176,0,0,0,0,16
-Gary Johnson,,,2,0,0,0,16
-Jill Stein,,,,1,0,0,16
-John Featherman,,,,,0,0,16
-Robert A Brady,,,,,,0,16
-Total,242,176,2,1,0,0,16
-,President And Vice President Of The United States,,,,Representative In Congress 1st District,,17
-,Barack Obama,Mitt Romney,Jill Stein,Gary Johnson,John Featherman,Robert A Brady,17
-Barack Obama,173,0,0,0,0,0,17
-Mitt Romney,,149,0,0,0,0,17
-Jill Stein,,,1,0,0,0,17
-Gary Johnson,,,,0,0,0,17
-John Featherman,,,,,0,0,17
-Robert A Brady,,,,,,0,17
-Total,173,149,1,0,0,0,17
-,President And Vice President Of The United States,,,,Representative In Congress 1st District,,18
-,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,John Featherman,Robert A Brady,18
-Barack Obama,305,0,0,0,0,0,18
-Mitt Romney,,234,0,0,0,0,18
-Gary Johnson,,,3,0,0,0,18
-Jill Stein,,,,0,0,0,18
-John Featherman,,,,,0,0,18
-Robert A Brady,,,,,,0,18
-Total,305,234,3,0,0,0,18

@@ -1,4 +1,11 @@
 col_1,col_2,col_3,col_4,col_5,division
+,Representative In Congress 2nd District - Republican,Member Of - Republican State Committee 2nd Congressional District,,,All
+,Armond James,Denise Furey,Calvin R Tucker,Walt Vogler,All
+Armond James,2,10,9,6,All
+Denise Furey,,1,7,6,All
+Calvin R Tucker,,,0,6,All
+Walt Vogler,,,,1,All
+Total,14,11,9,7,All
 ,Representative In Congress 2nd District - Republican,Member Of - Republican State Committee 2nd Congressional District,,,1
 ,Armond James,Calvin R Tucker,Denise Furey,Walt Vogler,1
 Armond James,0,1,1,1,1
@@ -6,13 +13,6 @@ Calvin R Tucker,,0,1,1,1
 Denise Furey,,,0,1,1
 Walt Vogler,,,,0,1
 Total,1,1,1,1,1
-,Member Of - Republican State Committee 2nd Congressional District,,,Representative In Congress 2nd District - Republican,2
-,Denise Furey,Calvin R Tucker,Walt Vogler,Armond James,2
-Denise Furey,1,0,0,0,2
-Calvin R Tucker,,0,0,0,2
-Walt Vogler,,,0,0,2
-Armond James,,,,0,2
-Total,1,0,0,0,2
 ,Representative In Congress 2nd District - Republican,Member Of - Republican State Committee 2nd Congressional District,,,3
 ,Armond James,Denise Furey,Calvin R Tucker,Walt Vogler,3
 Armond James,0,1,0,0,3
@@ -90,17 +90,3 @@ Calvin R Tucker,,0,2,1,18
 Denise Furey,,,0,1,18
 Walt Vogler,,,,0,18
 Total,3,2,2,1,18
-,Representative In Congress 2nd District - Republican,Member Of - Republican State Committee 2nd Congressional District,,,19
-,Armond James,Calvin R Tucker,Denise Furey,Walt Vogler,19
-Armond James,1,0,0,0,19
-Calvin R Tucker,,0,0,0,19
-Denise Furey,,,0,0,19
-Walt Vogler,,,,0,19
-Total,1,0,0,0,19
-,Representative In Congress 2nd District - Republican,Member Of - Republican State Committee 2nd Congressional District,,,All
-,Armond James,Denise Furey,Calvin R Tucker,Walt Vogler,All
-Armond James,3,10,9,6,All
-Denise Furey,,2,7,6,All
-Calvin R Tucker,,,0,6,All
-Walt Vogler,,,,1,All
-Total,15,12,9,7,All

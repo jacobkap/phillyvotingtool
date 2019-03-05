@@ -1,24 +1,14 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,division
-,United States Senator - Republican,,Member Of The Republican State Committee 13th Congressional District,,,,,1
-,Jim Christiana,Lou Barletta,Camille G Mccolgan,Dan Tinney,Joseph Giedemann,Linwood Holland,Margaret L Recupido,1
-Jim Christiana,2,0,0,0,0,0,0,1
-Lou Barletta,,1,0,0,0,0,0,1
-Camille G Mccolgan,,,0,0,0,0,0,1
-Dan Tinney,,,,0,0,0,0,1
-Joseph Giedemann,,,,,0,0,0,1
-Linwood Holland,,,,,,0,0,1
-Margaret L Recupido,,,,,,,0,1
-Total,2,1,0,0,0,0,0,1
-,United States Senator - Republican,,Member Of The Republican State Committee 13th Congressional District,,,,,2
-,Jim Christiana,Lou Barletta,Camille G Mccolgan,Dan Tinney,Joseph Giedemann,Linwood Holland,Margaret L Recupido,2
-Jim Christiana,1,0,0,0,0,0,0,2
-Lou Barletta,,0,0,0,0,0,0,2
-Camille G Mccolgan,,,0,0,0,0,0,2
-Dan Tinney,,,,0,0,0,0,2
-Joseph Giedemann,,,,,0,0,0,2
-Linwood Holland,,,,,,0,0,2
-Margaret L Recupido,,,,,,,0,2
-Total,1,0,0,0,0,0,0,2
+,United States Senator - Republican,,Member Of The Republican State Committee 13th Congressional District,,,,,All
+,Jim Christiana,Lou Barletta,Joseph Giedemann,Linwood Holland,Camille G Mccolgan,Margaret L Recupido,Dan Tinney,All
+Jim Christiana,2,0,13,12,11,10,8,All
+Lou Barletta,,5,2,3,1,1,3,All
+Joseph Giedemann,,,0,11,13,9,11,All
+Linwood Holland,,,,0,10,6,6,All
+Camille G Mccolgan,,,,,1,8,7,All
+Margaret L Recupido,,,,,,0,4,All
+Dan Tinney,,,,,,,0,All
+Total,22,10,17,16,15,13,12,All
 ,Member Of The Republican State Committee 13th Congressional District,,,,,United States Senator - Republican,,3
 ,Camille G Mccolgan,Joseph Giedemann,Margaret L Recupido,Dan Tinney,Linwood Holland,Jim Christiana,Lou Barletta,3
 Camille G Mccolgan,0,4,4,2,2,3,0,3
@@ -49,26 +39,6 @@ Camille G Mccolgan,,,,,0,0,0,5
 Dan Tinney,,,,,,0,0,5
 Joseph Giedemann,,,,,,,0,5
 Total,3,1,1,1,0,0,0,5
-,United States Senator - Republican,,Member Of The Republican State Committee 13th Congressional District,,,,,6
-,Lou Barletta,Jim Christiana,Camille G Mccolgan,Dan Tinney,Joseph Giedemann,Linwood Holland,Margaret L Recupido,6
-Lou Barletta,3,0,0,0,0,0,0,6
-Jim Christiana,,1,0,0,0,0,0,6
-Camille G Mccolgan,,,0,0,0,0,0,6
-Dan Tinney,,,,0,0,0,0,6
-Joseph Giedemann,,,,,0,0,0,6
-Linwood Holland,,,,,,0,0,6
-Margaret L Recupido,,,,,,,0,6
-Total,3,1,0,0,0,0,0,6
-,United States Senator - Republican,,Member Of The Republican State Committee 13th Congressional District,,,,,7
-,Lou Barletta,Jim Christiana,Camille G Mccolgan,Dan Tinney,Joseph Giedemann,Linwood Holland,Margaret L Recupido,7
-Lou Barletta,4,0,0,0,0,0,0,7
-Jim Christiana,,0,0,0,0,0,0,7
-Camille G Mccolgan,,,0,0,0,0,0,7
-Dan Tinney,,,,0,0,0,0,7
-Joseph Giedemann,,,,,0,0,0,7
-Linwood Holland,,,,,,0,0,7
-Margaret L Recupido,,,,,,,0,7
-Total,4,0,0,0,0,0,0,7
 ,Member Of The Republican State Committee 13th Congressional District,,,,,United States Senator - Republican,,9
 ,Dan Tinney,Joseph Giedemann,Camille G Mccolgan,Linwood Holland,Margaret L Recupido,Jim Christiana,Lou Barletta,9
 Dan Tinney,0,1,0,0,0,1,0,9
@@ -119,16 +89,6 @@ Joseph Giedemann,,,,,0,1,0,15
 Linwood Holland,,,,,,0,0,15
 Margaret L Recupido,,,,,,,0,15
 Total,2,0,1,1,1,1,0,15
-,United States Senator - Republican,,Member Of The Republican State Committee 13th Congressional District,,,,,17
-,Jim Christiana,Lou Barletta,Camille G Mccolgan,Dan Tinney,Joseph Giedemann,Linwood Holland,Margaret L Recupido,17
-Jim Christiana,2,0,0,0,0,0,0,17
-Lou Barletta,,2,0,0,0,0,0,17
-Camille G Mccolgan,,,0,0,0,0,0,17
-Dan Tinney,,,,0,0,0,0,17
-Joseph Giedemann,,,,,0,0,0,17
-Linwood Holland,,,,,,0,0,17
-Margaret L Recupido,,,,,,,0,17
-Total,2,2,0,0,0,0,0,17
 ,Member Of The Republican State Committee 13th Congressional District,,,,,United States Senator - Republican,,19
 ,Dan Tinney,Joseph Giedemann,Linwood Holland,Camille G Mccolgan,Margaret L Recupido,Lou Barletta,Jim Christiana,19
 Dan Tinney,0,3,3,2,0,2,1,19
@@ -139,36 +99,6 @@ Margaret L Recupido,,,,,0,0,1,19
 Lou Barletta,,,,,,1,0,19
 Jim Christiana,,,,,,,0,19
 Total,3,3,3,2,1,3,2,19
-,United States Senator - Republican,,Member Of The Republican State Committee 13th Congressional District,,,,,21
-,Jim Christiana,Lou Barletta,Camille G Mccolgan,Dan Tinney,Joseph Giedemann,Linwood Holland,Margaret L Recupido,21
-Jim Christiana,1,0,0,0,0,0,0,21
-Lou Barletta,,0,0,0,0,0,0,21
-Camille G Mccolgan,,,0,0,0,0,0,21
-Dan Tinney,,,,0,0,0,0,21
-Joseph Giedemann,,,,,0,0,0,21
-Linwood Holland,,,,,,0,0,21
-Margaret L Recupido,,,,,,,0,21
-Total,1,0,0,0,0,0,0,21
-,United States Senator - Republican,,Member Of The Republican State Committee 13th Congressional District,,,,,22
-,Jim Christiana,Lou Barletta,Camille G Mccolgan,Dan Tinney,Joseph Giedemann,Linwood Holland,Margaret L Recupido,22
-Jim Christiana,3,0,0,0,0,0,0,22
-Lou Barletta,,1,0,0,0,0,0,22
-Camille G Mccolgan,,,0,0,0,0,0,22
-Dan Tinney,,,,0,0,0,0,22
-Joseph Giedemann,,,,,0,0,0,22
-Linwood Holland,,,,,,0,0,22
-Margaret L Recupido,,,,,,,0,22
-Total,3,1,0,0,0,0,0,22
-,United States Senator - Republican,,Member Of The Republican State Committee 13th Congressional District,,,,,23
-,Lou Barletta,Jim Christiana,Camille G Mccolgan,Dan Tinney,Joseph Giedemann,Linwood Holland,Margaret L Recupido,23
-Lou Barletta,5,0,0,0,0,0,0,23
-Jim Christiana,,0,0,0,0,0,0,23
-Camille G Mccolgan,,,0,0,0,0,0,23
-Dan Tinney,,,,0,0,0,0,23
-Joseph Giedemann,,,,,0,0,0,23
-Linwood Holland,,,,,,0,0,23
-Margaret L Recupido,,,,,,,0,23
-Total,5,0,0,0,0,0,0,23
 ,Member Of The Republican State Committee 13th Congressional District,,,,,United States Senator - Republican,,25
 ,Linwood Holland,Camille G Mccolgan,Dan Tinney,Joseph Giedemann,Margaret L Recupido,Lou Barletta,Jim Christiana,25
 Linwood Holland,0,0,0,0,0,1,1,25
@@ -209,13 +139,3 @@ Dan Tinney,,,,,0,0,0,28
 Jim Christiana,,,,,,0,0,28
 Lou Barletta,,,,,,,0,28
 Total,2,2,1,1,0,2,0,28
-,United States Senator - Republican,,Member Of The Republican State Committee 13th Congressional District,,,,,All
-,Jim Christiana,Lou Barletta,Joseph Giedemann,Linwood Holland,Camille G Mccolgan,Margaret L Recupido,Dan Tinney,All
-Jim Christiana,12,0,13,12,11,10,8,All
-Lou Barletta,,21,2,3,1,1,3,All
-Joseph Giedemann,,,0,11,13,9,11,All
-Linwood Holland,,,,0,10,6,6,All
-Camille G Mccolgan,,,,,1,8,7,All
-Margaret L Recupido,,,,,,0,4,All
-Dan Tinney,,,,,,,0,All
-Total,32,26,17,16,15,13,12,All

@@ -1,4 +1,11 @@
 col_1,col_2,col_3,col_4,col_5,division
+,Judge Of The Traffic Court - Republican,,Judge Of The Court Of Common Pleas - Republican,,All
+,Ella P Butcher,Christopher M Vogler,Anne Marie Coyle,Kenneth J Powell Jr,All
+Ella P Butcher,0,6,7,6,All
+Christopher M Vogler,,0,5,4,All
+Anne Marie Coyle,,,0,6,All
+Kenneth J Powell Jr,,,,1,All
+Total,9,6,8,8,All
 ,Judge Of The Court Of Common Pleas - Republican,,Judge Of The Traffic Court - Republican,,2
 ,Anne Marie Coyle,Kenneth J Powell Jr,Christopher M Vogler,Ella P Butcher,2
 Anne Marie Coyle,0,1,1,1,2
@@ -27,13 +34,6 @@ Anne Marie Coyle,,0,0,0,5
 Ella P Butcher,,,0,0,5
 Christopher M Vogler,,,,0,5
 Total,2,1,1,0,5
-,Judge Of The Court Of Common Pleas - Republican,,Judge Of The Traffic Court - Republican,,10
-,Kenneth J Powell Jr,Anne Marie Coyle,Christopher M Vogler,Ella P Butcher,10
-Kenneth J Powell Jr,1,0,0,0,10
-Anne Marie Coyle,,0,0,0,10
-Christopher M Vogler,,,0,0,10
-Ella P Butcher,,,,0,10
-Total,1,0,0,0,10
 ,Judge Of The Court Of Common Pleas - Republican,,Judge Of The Traffic Court - Republican,,11
 ,Anne Marie Coyle,Kenneth J Powell Jr,Ella P Butcher,Christopher M Vogler,11
 Anne Marie Coyle,0,1,1,0,11
@@ -62,10 +62,3 @@ Kenneth J Powell Jr,,0,0,0,17
 Ella P Butcher,,,0,0,17
 Christopher M Vogler,,,,0,17
 Total,1,0,1,0,17
-,Judge Of The Traffic Court - Republican,,Judge Of The Court Of Common Pleas - Republican,,All
-,Ella P Butcher,Christopher M Vogler,Kenneth J Powell Jr,Anne Marie Coyle,All
-Ella P Butcher,0,6,6,7,All
-Christopher M Vogler,,0,4,5,All
-Kenneth J Powell Jr,,,2,6,All
-Anne Marie Coyle,,,,0,All
-Total,9,6,9,8,All

@@ -1,30 +1,17 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10,col_11,division
-,United States Senator - Democrat,Member Of The Democratic State Committee 3rd Senatorial District,,,,,,,,,1
-,Bob Casey Jr,Barbara Carroll,David Rodriguez,Dustin Morris,Humberto Perez,Jaime Bouldin,Jonathan M Gary,Latrice Y Bryant,Robert Taylor,Sharon Vaughn,1
-Bob Casey Jr,79,0,0,0,0,0,0,0,0,0,1
-Barbara Carroll,,0,0,0,0,0,0,0,0,0,1
-David Rodriguez,,,0,0,0,0,0,0,0,0,1
-Dustin Morris,,,,0,0,0,0,0,0,0,1
-Humberto Perez,,,,,0,0,0,0,0,0,1
-Jaime Bouldin,,,,,,0,0,0,0,0,1
-Jonathan M Gary,,,,,,,0,0,0,0,1
-Latrice Y Bryant,,,,,,,,0,0,0,1
-Robert Taylor,,,,,,,,,0,0,1
-Sharon Vaughn,,,,,,,,,,0,1
-Total,79,0,0,0,0,0,0,0,0,0,1
-,United States Senator - Democrat,Member Of The Democratic State Committee 3rd Senatorial District,,,,,,,,,2
-,Bob Casey Jr,Barbara Carroll,David Rodriguez,Dustin Morris,Humberto Perez,Jaime Bouldin,Jonathan M Gary,Latrice Y Bryant,Robert Taylor,Sharon Vaughn,2
-Bob Casey Jr,91,0,0,0,0,0,0,0,0,0,2
-Barbara Carroll,,0,0,0,0,0,0,0,0,0,2
-David Rodriguez,,,0,0,0,0,0,0,0,0,2
-Dustin Morris,,,,0,0,0,0,0,0,0,2
-Humberto Perez,,,,,0,0,0,0,0,0,2
-Jaime Bouldin,,,,,,0,0,0,0,0,2
-Jonathan M Gary,,,,,,,0,0,0,0,2
-Latrice Y Bryant,,,,,,,,0,0,0,2
-Robert Taylor,,,,,,,,,0,0,2
-Sharon Vaughn,,,,,,,,,,0,2
-Total,91,0,0,0,0,0,0,0,0,0,2
+,United States Senator - Democrat,Member Of The Democratic State Committee 3rd Senatorial District,,,,,,,,,All
+,Bob Casey Jr,Jaime Bouldin,Barbara Carroll,Sharon Vaughn,David Rodriguez,Humberto Perez,Dustin Morris,Latrice Y Bryant,Robert Taylor,Jonathan M Gary,All
+Bob Casey Jr,311,"1,079","1,031","1,031","1,024",999,905,908,800,793,All
+Jaime Bouldin,,9,871,871,913,900,802,803,764,773,All
+Barbara Carroll,,,6,988,863,860,818,886,782,785,All
+Sharon Vaughn,,,,1,873,864,826,889,783,786,All
+David Rodriguez,,,,,6,933,800,815,768,767,All
+Humberto Perez,,,,,,3,786,810,756,762,All
+Dustin Morris,,,,,,,17,772,749,755,All
+Latrice Y Bryant,,,,,,,,1,761,768,All
+Robert Taylor,,,,,,,,,1,749,All
+Jonathan M Gary,,,,,,,,,,1,All
+Total,"1,806","1,105","1,061","1,058","1,051","1,020",942,922,814,805,All
 ,United States Senator - Democrat,Member Of The Democratic State Committee 3rd Senatorial District,,,,,,,,,3
 ,Bob Casey Jr,David Rodriguez,Humberto Perez,Jaime Bouldin,Barbara Carroll,Latrice Y Bryant,Sharon Vaughn,Dustin Morris,Jonathan M Gary,Robert Taylor,3
 Bob Casey Jr,7,60,59,57,56,48,50,42,42,43,3
@@ -38,253 +25,6 @@ Dustin Morris,,,,,,,,0,41,42,3
 Jonathan M Gary,,,,,,,,,0,40,3
 Robert Taylor,,,,,,,,,,0,3
 Total,85,61,60,58,57,50,50,43,43,43,3
-,United States Senator - Democrat,Member Of The Democratic State Committee 3rd Senatorial District,,,,,,,,,4
-,Bob Casey Jr,Barbara Carroll,David Rodriguez,Dustin Morris,Humberto Perez,Jaime Bouldin,Jonathan M Gary,Latrice Y Bryant,Robert Taylor,Sharon Vaughn,4
-Bob Casey Jr,45,0,0,0,0,0,0,0,0,0,4
-Barbara Carroll,,0,0,0,0,0,0,0,0,0,4
-David Rodriguez,,,0,0,0,0,0,0,0,0,4
-Dustin Morris,,,,0,0,0,0,0,0,0,4
-Humberto Perez,,,,,0,0,0,0,0,0,4
-Jaime Bouldin,,,,,,0,0,0,0,0,4
-Jonathan M Gary,,,,,,,0,0,0,0,4
-Latrice Y Bryant,,,,,,,,0,0,0,4
-Robert Taylor,,,,,,,,,0,0,4
-Sharon Vaughn,,,,,,,,,,0,4
-Total,45,0,0,0,0,0,0,0,0,0,4
-,United States Senator - Democrat,Member Of The Democratic State Committee 3rd Senatorial District,,,,,,,,,5
-,Bob Casey Jr,Barbara Carroll,David Rodriguez,Dustin Morris,Humberto Perez,Jaime Bouldin,Jonathan M Gary,Latrice Y Bryant,Robert Taylor,Sharon Vaughn,5
-Bob Casey Jr,107,0,0,0,0,0,0,0,0,0,5
-Barbara Carroll,,0,0,0,0,0,0,0,0,0,5
-David Rodriguez,,,0,0,0,0,0,0,0,0,5
-Dustin Morris,,,,0,0,0,0,0,0,0,5
-Humberto Perez,,,,,0,0,0,0,0,0,5
-Jaime Bouldin,,,,,,0,0,0,0,0,5
-Jonathan M Gary,,,,,,,0,0,0,0,5
-Latrice Y Bryant,,,,,,,,0,0,0,5
-Robert Taylor,,,,,,,,,0,0,5
-Sharon Vaughn,,,,,,,,,,0,5
-Total,107,0,0,0,0,0,0,0,0,0,5
-,United States Senator - Democrat,Member Of The Democratic State Committee 3rd Senatorial District,,,,,,,,,6
-,Bob Casey Jr,Barbara Carroll,David Rodriguez,Dustin Morris,Humberto Perez,Jaime Bouldin,Jonathan M Gary,Latrice Y Bryant,Robert Taylor,Sharon Vaughn,6
-Bob Casey Jr,57,0,0,0,0,0,0,0,0,0,6
-Barbara Carroll,,0,0,0,0,0,0,0,0,0,6
-David Rodriguez,,,0,0,0,0,0,0,0,0,6
-Dustin Morris,,,,0,0,0,0,0,0,0,6
-Humberto Perez,,,,,0,0,0,0,0,0,6
-Jaime Bouldin,,,,,,0,0,0,0,0,6
-Jonathan M Gary,,,,,,,0,0,0,0,6
-Latrice Y Bryant,,,,,,,,0,0,0,6
-Robert Taylor,,,,,,,,,0,0,6
-Sharon Vaughn,,,,,,,,,,0,6
-Total,57,0,0,0,0,0,0,0,0,0,6
-,United States Senator - Democrat,Member Of The Democratic State Committee 3rd Senatorial District,,,,,,,,,7
-,Bob Casey Jr,Barbara Carroll,David Rodriguez,Dustin Morris,Humberto Perez,Jaime Bouldin,Jonathan M Gary,Latrice Y Bryant,Robert Taylor,Sharon Vaughn,7
-Bob Casey Jr,72,0,0,0,0,0,0,0,0,0,7
-Barbara Carroll,,0,0,0,0,0,0,0,0,0,7
-David Rodriguez,,,0,0,0,0,0,0,0,0,7
-Dustin Morris,,,,0,0,0,0,0,0,0,7
-Humberto Perez,,,,,0,0,0,0,0,0,7
-Jaime Bouldin,,,,,,0,0,0,0,0,7
-Jonathan M Gary,,,,,,,0,0,0,0,7
-Latrice Y Bryant,,,,,,,,0,0,0,7
-Robert Taylor,,,,,,,,,0,0,7
-Sharon Vaughn,,,,,,,,,,0,7
-Total,72,0,0,0,0,0,0,0,0,0,7
-,United States Senator - Democrat,Member Of The Democratic State Committee 3rd Senatorial District,,,,,,,,,8
-,Bob Casey Jr,Barbara Carroll,David Rodriguez,Dustin Morris,Humberto Perez,Jaime Bouldin,Jonathan M Gary,Latrice Y Bryant,Robert Taylor,Sharon Vaughn,8
-Bob Casey Jr,47,0,0,0,0,0,0,0,0,0,8
-Barbara Carroll,,0,0,0,0,0,0,0,0,0,8
-David Rodriguez,,,0,0,0,0,0,0,0,0,8
-Dustin Morris,,,,0,0,0,0,0,0,0,8
-Humberto Perez,,,,,0,0,0,0,0,0,8
-Jaime Bouldin,,,,,,0,0,0,0,0,8
-Jonathan M Gary,,,,,,,0,0,0,0,8
-Latrice Y Bryant,,,,,,,,0,0,0,8
-Robert Taylor,,,,,,,,,0,0,8
-Sharon Vaughn,,,,,,,,,,0,8
-Total,47,0,0,0,0,0,0,0,0,0,8
-,United States Senator - Democrat,Member Of The Democratic State Committee 3rd Senatorial District,,,,,,,,,9
-,Bob Casey Jr,Barbara Carroll,David Rodriguez,Dustin Morris,Humberto Perez,Jaime Bouldin,Jonathan M Gary,Latrice Y Bryant,Robert Taylor,Sharon Vaughn,9
-Bob Casey Jr,80,0,0,0,0,0,0,0,0,0,9
-Barbara Carroll,,0,0,0,0,0,0,0,0,0,9
-David Rodriguez,,,0,0,0,0,0,0,0,0,9
-Dustin Morris,,,,0,0,0,0,0,0,0,9
-Humberto Perez,,,,,0,0,0,0,0,0,9
-Jaime Bouldin,,,,,,0,0,0,0,0,9
-Jonathan M Gary,,,,,,,0,0,0,0,9
-Latrice Y Bryant,,,,,,,,0,0,0,9
-Robert Taylor,,,,,,,,,0,0,9
-Sharon Vaughn,,,,,,,,,,0,9
-Total,80,0,0,0,0,0,0,0,0,0,9
-,United States Senator - Democrat,Member Of The Democratic State Committee 3rd Senatorial District,,,,,,,,,10
-,Bob Casey Jr,Barbara Carroll,David Rodriguez,Dustin Morris,Humberto Perez,Jaime Bouldin,Jonathan M Gary,Latrice Y Bryant,Robert Taylor,Sharon Vaughn,10
-Bob Casey Jr,59,0,0,0,0,0,0,0,0,0,10
-Barbara Carroll,,0,0,0,0,0,0,0,0,0,10
-David Rodriguez,,,0,0,0,0,0,0,0,0,10
-Dustin Morris,,,,0,0,0,0,0,0,0,10
-Humberto Perez,,,,,0,0,0,0,0,0,10
-Jaime Bouldin,,,,,,0,0,0,0,0,10
-Jonathan M Gary,,,,,,,0,0,0,0,10
-Latrice Y Bryant,,,,,,,,0,0,0,10
-Robert Taylor,,,,,,,,,0,0,10
-Sharon Vaughn,,,,,,,,,,0,10
-Total,59,0,0,0,0,0,0,0,0,0,10
-,United States Senator - Democrat,Member Of The Democratic State Committee 3rd Senatorial District,,,,,,,,,11
-,Bob Casey Jr,Barbara Carroll,David Rodriguez,Dustin Morris,Humberto Perez,Jaime Bouldin,Jonathan M Gary,Latrice Y Bryant,Robert Taylor,Sharon Vaughn,11
-Bob Casey Jr,97,0,0,0,0,0,0,0,0,0,11
-Barbara Carroll,,0,0,0,0,0,0,0,0,0,11
-David Rodriguez,,,0,0,0,0,0,0,0,0,11
-Dustin Morris,,,,0,0,0,0,0,0,0,11
-Humberto Perez,,,,,0,0,0,0,0,0,11
-Jaime Bouldin,,,,,,0,0,0,0,0,11
-Jonathan M Gary,,,,,,,0,0,0,0,11
-Latrice Y Bryant,,,,,,,,0,0,0,11
-Robert Taylor,,,,,,,,,0,0,11
-Sharon Vaughn,,,,,,,,,,0,11
-Total,97,0,0,0,0,0,0,0,0,0,11
-,United States Senator - Democrat,Member Of The Democratic State Committee 3rd Senatorial District,,,,,,,,,12
-,Bob Casey Jr,Barbara Carroll,David Rodriguez,Dustin Morris,Humberto Perez,Jaime Bouldin,Jonathan M Gary,Latrice Y Bryant,Robert Taylor,Sharon Vaughn,12
-Bob Casey Jr,75,0,0,0,0,0,0,0,0,0,12
-Barbara Carroll,,0,0,0,0,0,0,0,0,0,12
-David Rodriguez,,,0,0,0,0,0,0,0,0,12
-Dustin Morris,,,,0,0,0,0,0,0,0,12
-Humberto Perez,,,,,0,0,0,0,0,0,12
-Jaime Bouldin,,,,,,0,0,0,0,0,12
-Jonathan M Gary,,,,,,,0,0,0,0,12
-Latrice Y Bryant,,,,,,,,0,0,0,12
-Robert Taylor,,,,,,,,,0,0,12
-Sharon Vaughn,,,,,,,,,,0,12
-Total,75,0,0,0,0,0,0,0,0,0,12
-,United States Senator - Democrat,Member Of The Democratic State Committee 3rd Senatorial District,,,,,,,,,13
-,Bob Casey Jr,Barbara Carroll,David Rodriguez,Dustin Morris,Humberto Perez,Jaime Bouldin,Jonathan M Gary,Latrice Y Bryant,Robert Taylor,Sharon Vaughn,13
-Bob Casey Jr,75,0,0,0,0,0,0,0,0,0,13
-Barbara Carroll,,0,0,0,0,0,0,0,0,0,13
-David Rodriguez,,,0,0,0,0,0,0,0,0,13
-Dustin Morris,,,,0,0,0,0,0,0,0,13
-Humberto Perez,,,,,0,0,0,0,0,0,13
-Jaime Bouldin,,,,,,0,0,0,0,0,13
-Jonathan M Gary,,,,,,,0,0,0,0,13
-Latrice Y Bryant,,,,,,,,0,0,0,13
-Robert Taylor,,,,,,,,,0,0,13
-Sharon Vaughn,,,,,,,,,,0,13
-Total,75,0,0,0,0,0,0,0,0,0,13
-,United States Senator - Democrat,Member Of The Democratic State Committee 3rd Senatorial District,,,,,,,,,14
-,Bob Casey Jr,Barbara Carroll,David Rodriguez,Dustin Morris,Humberto Perez,Jaime Bouldin,Jonathan M Gary,Latrice Y Bryant,Robert Taylor,Sharon Vaughn,14
-Bob Casey Jr,137,0,0,0,0,0,0,0,0,0,14
-Barbara Carroll,,0,0,0,0,0,0,0,0,0,14
-David Rodriguez,,,0,0,0,0,0,0,0,0,14
-Dustin Morris,,,,0,0,0,0,0,0,0,14
-Humberto Perez,,,,,0,0,0,0,0,0,14
-Jaime Bouldin,,,,,,0,0,0,0,0,14
-Jonathan M Gary,,,,,,,0,0,0,0,14
-Latrice Y Bryant,,,,,,,,0,0,0,14
-Robert Taylor,,,,,,,,,0,0,14
-Sharon Vaughn,,,,,,,,,,0,14
-Total,137,0,0,0,0,0,0,0,0,0,14
-,United States Senator - Democrat,Member Of The Democratic State Committee 3rd Senatorial District,,,,,,,,,15
-,Bob Casey Jr,Barbara Carroll,David Rodriguez,Dustin Morris,Humberto Perez,Jaime Bouldin,Jonathan M Gary,Latrice Y Bryant,Robert Taylor,Sharon Vaughn,15
-Bob Casey Jr,93,0,0,0,0,0,0,0,0,0,15
-Barbara Carroll,,0,0,0,0,0,0,0,0,0,15
-David Rodriguez,,,0,0,0,0,0,0,0,0,15
-Dustin Morris,,,,0,0,0,0,0,0,0,15
-Humberto Perez,,,,,0,0,0,0,0,0,15
-Jaime Bouldin,,,,,,0,0,0,0,0,15
-Jonathan M Gary,,,,,,,0,0,0,0,15
-Latrice Y Bryant,,,,,,,,0,0,0,15
-Robert Taylor,,,,,,,,,0,0,15
-Sharon Vaughn,,,,,,,,,,0,15
-Total,93,0,0,0,0,0,0,0,0,0,15
-,United States Senator - Democrat,Member Of The Democratic State Committee 3rd Senatorial District,,,,,,,,,16
-,Bob Casey Jr,Barbara Carroll,David Rodriguez,Dustin Morris,Humberto Perez,Jaime Bouldin,Jonathan M Gary,Latrice Y Bryant,Robert Taylor,Sharon Vaughn,16
-Bob Casey Jr,47,0,0,0,0,0,0,0,0,0,16
-Barbara Carroll,,0,0,0,0,0,0,0,0,0,16
-David Rodriguez,,,0,0,0,0,0,0,0,0,16
-Dustin Morris,,,,0,0,0,0,0,0,0,16
-Humberto Perez,,,,,0,0,0,0,0,0,16
-Jaime Bouldin,,,,,,0,0,0,0,0,16
-Jonathan M Gary,,,,,,,0,0,0,0,16
-Latrice Y Bryant,,,,,,,,0,0,0,16
-Robert Taylor,,,,,,,,,0,0,16
-Sharon Vaughn,,,,,,,,,,0,16
-Total,47,0,0,0,0,0,0,0,0,0,16
-,United States Senator - Democrat,Member Of The Democratic State Committee 3rd Senatorial District,,,,,,,,,17
-,Bob Casey Jr,Barbara Carroll,David Rodriguez,Dustin Morris,Humberto Perez,Jaime Bouldin,Jonathan M Gary,Latrice Y Bryant,Robert Taylor,Sharon Vaughn,17
-Bob Casey Jr,83,0,0,0,0,0,0,0,0,0,17
-Barbara Carroll,,0,0,0,0,0,0,0,0,0,17
-David Rodriguez,,,0,0,0,0,0,0,0,0,17
-Dustin Morris,,,,0,0,0,0,0,0,0,17
-Humberto Perez,,,,,0,0,0,0,0,0,17
-Jaime Bouldin,,,,,,0,0,0,0,0,17
-Jonathan M Gary,,,,,,,0,0,0,0,17
-Latrice Y Bryant,,,,,,,,0,0,0,17
-Robert Taylor,,,,,,,,,0,0,17
-Sharon Vaughn,,,,,,,,,,0,17
-Total,83,0,0,0,0,0,0,0,0,0,17
-,United States Senator - Democrat,Member Of The Democratic State Committee 3rd Senatorial District,,,,,,,,,18
-,Bob Casey Jr,Barbara Carroll,David Rodriguez,Dustin Morris,Humberto Perez,Jaime Bouldin,Jonathan M Gary,Latrice Y Bryant,Robert Taylor,Sharon Vaughn,18
-Bob Casey Jr,81,0,0,0,0,0,0,0,0,0,18
-Barbara Carroll,,0,0,0,0,0,0,0,0,0,18
-David Rodriguez,,,0,0,0,0,0,0,0,0,18
-Dustin Morris,,,,0,0,0,0,0,0,0,18
-Humberto Perez,,,,,0,0,0,0,0,0,18
-Jaime Bouldin,,,,,,0,0,0,0,0,18
-Jonathan M Gary,,,,,,,0,0,0,0,18
-Latrice Y Bryant,,,,,,,,0,0,0,18
-Robert Taylor,,,,,,,,,0,0,18
-Sharon Vaughn,,,,,,,,,,0,18
-Total,81,0,0,0,0,0,0,0,0,0,18
-,United States Senator - Democrat,Member Of The Democratic State Committee 3rd Senatorial District,,,,,,,,,19
-,Bob Casey Jr,Barbara Carroll,David Rodriguez,Dustin Morris,Humberto Perez,Jaime Bouldin,Jonathan M Gary,Latrice Y Bryant,Robert Taylor,Sharon Vaughn,19
-Bob Casey Jr,67,0,0,0,0,0,0,0,0,0,19
-Barbara Carroll,,0,0,0,0,0,0,0,0,0,19
-David Rodriguez,,,0,0,0,0,0,0,0,0,19
-Dustin Morris,,,,0,0,0,0,0,0,0,19
-Humberto Perez,,,,,0,0,0,0,0,0,19
-Jaime Bouldin,,,,,,0,0,0,0,0,19
-Jonathan M Gary,,,,,,,0,0,0,0,19
-Latrice Y Bryant,,,,,,,,0,0,0,19
-Robert Taylor,,,,,,,,,0,0,19
-Sharon Vaughn,,,,,,,,,,0,19
-Total,67,0,0,0,0,0,0,0,0,0,19
-,United States Senator - Democrat,Member Of The Democratic State Committee 3rd Senatorial District,,,,,,,,,20
-,Bob Casey Jr,Barbara Carroll,David Rodriguez,Dustin Morris,Humberto Perez,Jaime Bouldin,Jonathan M Gary,Latrice Y Bryant,Robert Taylor,Sharon Vaughn,20
-Bob Casey Jr,70,0,0,0,0,0,0,0,0,0,20
-Barbara Carroll,,0,0,0,0,0,0,0,0,0,20
-David Rodriguez,,,0,0,0,0,0,0,0,0,20
-Dustin Morris,,,,0,0,0,0,0,0,0,20
-Humberto Perez,,,,,0,0,0,0,0,0,20
-Jaime Bouldin,,,,,,0,0,0,0,0,20
-Jonathan M Gary,,,,,,,0,0,0,0,20
-Latrice Y Bryant,,,,,,,,0,0,0,20
-Robert Taylor,,,,,,,,,0,0,20
-Sharon Vaughn,,,,,,,,,,0,20
-Total,70,0,0,0,0,0,0,0,0,0,20
-,United States Senator - Democrat,Member Of The Democratic State Committee 3rd Senatorial District,,,,,,,,,21
-,Bob Casey Jr,Barbara Carroll,David Rodriguez,Dustin Morris,Humberto Perez,Jaime Bouldin,Jonathan M Gary,Latrice Y Bryant,Robert Taylor,Sharon Vaughn,21
-Bob Casey Jr,51,0,0,0,0,0,0,0,0,0,21
-Barbara Carroll,,0,0,0,0,0,0,0,0,0,21
-David Rodriguez,,,0,0,0,0,0,0,0,0,21
-Dustin Morris,,,,0,0,0,0,0,0,0,21
-Humberto Perez,,,,,0,0,0,0,0,0,21
-Jaime Bouldin,,,,,,0,0,0,0,0,21
-Jonathan M Gary,,,,,,,0,0,0,0,21
-Latrice Y Bryant,,,,,,,,0,0,0,21
-Robert Taylor,,,,,,,,,0,0,21
-Sharon Vaughn,,,,,,,,,,0,21
-Total,51,0,0,0,0,0,0,0,0,0,21
-,United States Senator - Democrat,Member Of The Democratic State Committee 3rd Senatorial District,,,,,,,,,22
-,Bob Casey Jr,Barbara Carroll,David Rodriguez,Dustin Morris,Humberto Perez,Jaime Bouldin,Jonathan M Gary,Latrice Y Bryant,Robert Taylor,Sharon Vaughn,22
-Bob Casey Jr,116,0,0,0,0,0,0,0,0,0,22
-Barbara Carroll,,0,0,0,0,0,0,0,0,0,22
-David Rodriguez,,,0,0,0,0,0,0,0,0,22
-Dustin Morris,,,,0,0,0,0,0,0,0,22
-Humberto Perez,,,,,0,0,0,0,0,0,22
-Jaime Bouldin,,,,,,0,0,0,0,0,22
-Jonathan M Gary,,,,,,,0,0,0,0,22
-Latrice Y Bryant,,,,,,,,0,0,0,22
-Robert Taylor,,,,,,,,,0,0,22
-Sharon Vaughn,,,,,,,,,,0,22
-Total,116,0,0,0,0,0,0,0,0,0,22
 ,United States Senator - Democrat,Member Of The Democratic State Committee 3rd Senatorial District,,,,,,,,,23
 ,Bob Casey Jr,Jaime Bouldin,Sharon Vaughn,Barbara Carroll,Latrice Y Bryant,Humberto Perez,David Rodriguez,Dustin Morris,Robert Taylor,Jonathan M Gary,23
 Bob Casey Jr,32,89,87,84,77,77,75,68,67,65,23
@@ -363,19 +103,6 @@ Latrice Y Bryant,,,,,,,,0,42,39,28
 Jonathan M Gary,,,,,,,,,0,40,28
 Robert Taylor,,,,,,,,,,0,28
 Total,107,64,60,58,58,55,53,50,44,44,28
-,United States Senator - Democrat,Member Of The Democratic State Committee 3rd Senatorial District,,,,,,,,,29
-,Bob Casey Jr,Barbara Carroll,David Rodriguez,Dustin Morris,Humberto Perez,Jaime Bouldin,Jonathan M Gary,Latrice Y Bryant,Robert Taylor,Sharon Vaughn,29
-Bob Casey Jr,86,0,0,0,0,0,0,0,0,0,29
-Barbara Carroll,,0,0,0,0,0,0,0,0,0,29
-David Rodriguez,,,0,0,0,0,0,0,0,0,29
-Dustin Morris,,,,0,0,0,0,0,0,0,29
-Humberto Perez,,,,,0,0,0,0,0,0,29
-Jaime Bouldin,,,,,,0,0,0,0,0,29
-Jonathan M Gary,,,,,,,0,0,0,0,29
-Latrice Y Bryant,,,,,,,,0,0,0,29
-Robert Taylor,,,,,,,,,0,0,29
-Sharon Vaughn,,,,,,,,,,0,29
-Total,86,0,0,0,0,0,0,0,0,0,29
 ,United States Senator - Democrat,Member Of The Democratic State Committee 3rd Senatorial District,,,,,,,,,30
 ,Bob Casey Jr,Jaime Bouldin,David Rodriguez,Dustin Morris,Humberto Perez,Sharon Vaughn,Barbara Carroll,Jonathan M Gary,Latrice Y Bryant,Robert Taylor,30
 Bob Casey Jr,14,75,73,68,72,71,70,58,57,53,30
@@ -415,58 +142,6 @@ Dustin Morris,,,,,,,,0,25,25,32
 Robert Taylor,,,,,,,,,0,26,32
 Jonathan M Gary,,,,,,,,,,0,32
 Total,61,42,41,40,40,37,35,32,29,27,32
-,United States Senator - Democrat,Member Of The Democratic State Committee 3rd Senatorial District,,,,,,,,,33
-,Bob Casey Jr,Barbara Carroll,David Rodriguez,Dustin Morris,Humberto Perez,Jaime Bouldin,Jonathan M Gary,Latrice Y Bryant,Robert Taylor,Sharon Vaughn,33
-Bob Casey Jr,163,0,0,0,0,0,0,0,0,0,33
-Barbara Carroll,,0,0,0,0,0,0,0,0,0,33
-David Rodriguez,,,0,0,0,0,0,0,0,0,33
-Dustin Morris,,,,0,0,0,0,0,0,0,33
-Humberto Perez,,,,,0,0,0,0,0,0,33
-Jaime Bouldin,,,,,,0,0,0,0,0,33
-Jonathan M Gary,,,,,,,0,0,0,0,33
-Latrice Y Bryant,,,,,,,,0,0,0,33
-Robert Taylor,,,,,,,,,0,0,33
-Sharon Vaughn,,,,,,,,,,0,33
-Total,163,0,0,0,0,0,0,0,0,0,33
-,United States Senator - Democrat,Member Of The Democratic State Committee 3rd Senatorial District,,,,,,,,,34
-,Bob Casey Jr,Barbara Carroll,David Rodriguez,Dustin Morris,Humberto Perez,Jaime Bouldin,Jonathan M Gary,Latrice Y Bryant,Robert Taylor,Sharon Vaughn,34
-Bob Casey Jr,165,0,0,0,0,0,0,0,0,0,34
-Barbara Carroll,,0,0,0,0,0,0,0,0,0,34
-David Rodriguez,,,0,0,0,0,0,0,0,0,34
-Dustin Morris,,,,0,0,0,0,0,0,0,34
-Humberto Perez,,,,,0,0,0,0,0,0,34
-Jaime Bouldin,,,,,,0,0,0,0,0,34
-Jonathan M Gary,,,,,,,0,0,0,0,34
-Latrice Y Bryant,,,,,,,,0,0,0,34
-Robert Taylor,,,,,,,,,0,0,34
-Sharon Vaughn,,,,,,,,,,0,34
-Total,165,0,0,0,0,0,0,0,0,0,34
-,United States Senator - Democrat,Member Of The Democratic State Committee 3rd Senatorial District,,,,,,,,,35
-,Bob Casey Jr,Barbara Carroll,David Rodriguez,Dustin Morris,Humberto Perez,Jaime Bouldin,Jonathan M Gary,Latrice Y Bryant,Robert Taylor,Sharon Vaughn,35
-Bob Casey Jr,119,0,0,0,0,0,0,0,0,0,35
-Barbara Carroll,,0,0,0,0,0,0,0,0,0,35
-David Rodriguez,,,0,0,0,0,0,0,0,0,35
-Dustin Morris,,,,0,0,0,0,0,0,0,35
-Humberto Perez,,,,,0,0,0,0,0,0,35
-Jaime Bouldin,,,,,,0,0,0,0,0,35
-Jonathan M Gary,,,,,,,0,0,0,0,35
-Latrice Y Bryant,,,,,,,,0,0,0,35
-Robert Taylor,,,,,,,,,0,0,35
-Sharon Vaughn,,,,,,,,,,0,35
-Total,119,0,0,0,0,0,0,0,0,0,35
-,United States Senator - Democrat,Member Of The Democratic State Committee 3rd Senatorial District,,,,,,,,,36
-,Bob Casey Jr,Barbara Carroll,David Rodriguez,Dustin Morris,Humberto Perez,Jaime Bouldin,Jonathan M Gary,Latrice Y Bryant,Robert Taylor,Sharon Vaughn,36
-Bob Casey Jr,46,0,0,0,0,0,0,0,0,0,36
-Barbara Carroll,,0,0,0,0,0,0,0,0,0,36
-David Rodriguez,,,0,0,0,0,0,0,0,0,36
-Dustin Morris,,,,0,0,0,0,0,0,0,36
-Humberto Perez,,,,,0,0,0,0,0,0,36
-Jaime Bouldin,,,,,,0,0,0,0,0,36
-Jonathan M Gary,,,,,,,0,0,0,0,36
-Latrice Y Bryant,,,,,,,,0,0,0,36
-Robert Taylor,,,,,,,,,0,0,36
-Sharon Vaughn,,,,,,,,,,0,36
-Total,46,0,0,0,0,0,0,0,0,0,36
 ,United States Senator - Democrat,Member Of The Democratic State Committee 3rd Senatorial District,,,,,,,,,37
 ,Bob Casey Jr,Jaime Bouldin,Barbara Carroll,David Rodriguez,Sharon Vaughn,Humberto Perez,Latrice Y Bryant,Dustin Morris,Robert Taylor,Jonathan M Gary,37
 Bob Casey Jr,9,42,40,39,39,38,36,33,30,28,37
@@ -571,29 +246,3 @@ Humberto Perez,,,,,,,,0,17,15,44
 Jonathan M Gary,,,,,,,,,0,16,44
 Robert Taylor,,,,,,,,,,0,44
 Total,53,27,27,26,24,22,22,21,19,16,44
-,United States Senator - Democrat,Member Of The Democratic State Committee 3rd Senatorial District,,,,,,,,,45
-,Bob Casey Jr,Barbara Carroll,David Rodriguez,Dustin Morris,Humberto Perez,Jaime Bouldin,Jonathan M Gary,Latrice Y Bryant,Robert Taylor,Sharon Vaughn,45
-Bob Casey Jr,159,0,0,0,0,0,0,0,0,0,45
-Barbara Carroll,,0,0,0,0,0,0,0,0,0,45
-David Rodriguez,,,0,0,0,0,0,0,0,0,45
-Dustin Morris,,,,0,0,0,0,0,0,0,45
-Humberto Perez,,,,,0,0,0,0,0,0,45
-Jaime Bouldin,,,,,,0,0,0,0,0,45
-Jonathan M Gary,,,,,,,0,0,0,0,45
-Latrice Y Bryant,,,,,,,,0,0,0,45
-Robert Taylor,,,,,,,,,0,0,45
-Sharon Vaughn,,,,,,,,,,0,45
-Total,159,0,0,0,0,0,0,0,0,0,45
-,United States Senator - Democrat,Member Of The Democratic State Committee 3rd Senatorial District,,,,,,,,,All
-,Bob Casey Jr,Jaime Bouldin,Barbara Carroll,Sharon Vaughn,David Rodriguez,Humberto Perez,Dustin Morris,Latrice Y Bryant,Robert Taylor,Jonathan M Gary,All
-Bob Casey Jr,"2,678","1,079","1,031","1,031","1,024",999,905,908,800,793,All
-Jaime Bouldin,,9,871,871,913,900,802,803,764,773,All
-Barbara Carroll,,,6,988,863,860,818,886,782,785,All
-Sharon Vaughn,,,,1,873,864,826,889,783,786,All
-David Rodriguez,,,,,6,933,800,815,768,767,All
-Humberto Perez,,,,,,3,786,810,756,762,All
-Dustin Morris,,,,,,,17,772,749,755,All
-Latrice Y Bryant,,,,,,,,1,761,768,All
-Robert Taylor,,,,,,,,,1,749,All
-Jonathan M Gary,,,,,,,,,,1,All
-Total,"4,173","1,105","1,061","1,058","1,051","1,020",942,922,814,805,All

@@ -1,4 +1,11 @@
 col_1,col_2,col_3,col_4,col_5,division
+,Governor - Democrat,,,,All
+,Tom Wolf,Allyson Y Schwartz,Robert M Mccord,Katie Mcginty,All
+Tom Wolf,443,0,0,0,All
+Allyson Y Schwartz,,345,0,0,All
+Robert M Mccord,,,295,0,All
+Katie Mcginty,,,,60,All
+Total,443,345,295,60,All
 ,Governor - Democrat,,,,1
 ,Robert M Mccord,Tom Wolf,Allyson Y Schwartz,Katie Mcginty,1
 Robert M Mccord,23,0,0,0,1
@@ -160,10 +167,3 @@ Tom Wolf,,35,0,0,23
 Allyson Y Schwartz,,,27,0,23
 Katie Mcginty,,,,2,23
 Total,47,35,27,2,23
-,Governor - Democrat,,,,All
-,Tom Wolf,Allyson Y Schwartz,Robert M Mccord,Katie Mcginty,All
-Tom Wolf,443,0,0,0,All
-Allyson Y Schwartz,,345,0,0,All
-Robert M Mccord,,,295,0,All
-Katie Mcginty,,,,60,All
-Total,443,345,295,60,All

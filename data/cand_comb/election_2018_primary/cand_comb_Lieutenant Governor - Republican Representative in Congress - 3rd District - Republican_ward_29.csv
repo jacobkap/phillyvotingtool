@@ -1,4 +1,12 @@
 col_1,col_2,col_3,col_4,col_5,col_6,division
+,Representative In Congress 3rd District - Republican,Lieutenant Governor - Republican,,,,All
+,Bryan E Leib,Kathy Coder,Jeff Bartos,Diana Irey Vaughan,Peg Luksik,All
+Bryan E Leib,0,9,3,2,2,All
+Kathy Coder,,0,0,0,0,All
+Jeff Bartos,,,1,0,0,All
+Diana Irey Vaughan,,,,1,0,All
+Peg Luksik,,,,,0,All
+Total,16,9,4,3,2,All
 ,Representative In Congress 3rd District - Republican,Lieutenant Governor - Republican,,,,1
 ,Bryan E Leib,Kathy Coder,Diana Irey Vaughan,Jeff Bartos,Peg Luksik,1
 Bryan E Leib,0,1,0,0,0,1
@@ -47,14 +55,6 @@ Diana Irey Vaughan,,,0,0,0,12
 Jeff Bartos,,,,0,0,12
 Kathy Coder,,,,,0,12
 Total,1,1,0,0,0,12
-,Lieutenant Governor - Republican,,,,Representative In Congress 3rd District - Republican,13
-,Kathy Coder,Diana Irey Vaughan,Jeff Bartos,Peg Luksik,Bryan E Leib,13
-Kathy Coder,1,0,0,0,0,13
-Diana Irey Vaughan,,0,0,0,0,13
-Jeff Bartos,,,0,0,0,13
-Peg Luksik,,,,0,0,13
-Bryan E Leib,,,,,0,13
-Total,1,0,0,0,0,13
 ,Representative In Congress 3rd District - Republican,Lieutenant Governor - Republican,,,,17
 ,Bryan E Leib,Diana Irey Vaughan,Jeff Bartos,Kathy Coder,Peg Luksik,17
 Bryan E Leib,0,1,0,1,0,17
@@ -63,11 +63,3 @@ Jeff Bartos,,,1,0,0,17
 Kathy Coder,,,,0,0,17
 Peg Luksik,,,,,0,17
 Total,2,1,1,1,0,17
-,Representative In Congress 3rd District - Republican,Lieutenant Governor - Republican,,,,All
-,Bryan E Leib,Kathy Coder,Jeff Bartos,Diana Irey Vaughan,Peg Luksik,All
-Bryan E Leib,0,9,3,2,2,All
-Kathy Coder,,1,0,0,0,All
-Jeff Bartos,,,1,0,0,All
-Diana Irey Vaughan,,,,1,0,All
-Peg Luksik,,,,,0,All
-Total,16,10,4,3,2,All

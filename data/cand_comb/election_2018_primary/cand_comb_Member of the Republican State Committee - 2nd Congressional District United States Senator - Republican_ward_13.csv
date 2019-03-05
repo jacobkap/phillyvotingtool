@@ -1,4 +1,12 @@
 col_1,col_2,col_3,col_4,col_5,col_6,division
+,United States Senator - Republican,,Member Of The Republican State Committee 2nd Congressional District,,,All
+,Lou Barletta,Jim Christiana,Walt Vogler,Calvin R Tucker,Denise Furey,All
+Lou Barletta,3,0,12,13,12,All
+Jim Christiana,,3,7,4,5,All
+Walt Vogler,,,1,13,14,All
+Calvin R Tucker,,,,1,14,All
+Denise Furey,,,,,1,All
+Total,20,11,20,18,18,All
 ,United States Senator - Republican,,Member Of The Republican State Committee 2nd Congressional District,,,1
 ,Jim Christiana,Lou Barletta,Walt Vogler,Denise Furey,Calvin R Tucker,1
 Jim Christiana,1,0,2,1,0,1
@@ -39,14 +47,6 @@ Walt Vogler,,,0,0,0,7
 Jim Christiana,,,,0,0,7
 Lou Barletta,,,,,1,7
 Total,1,1,0,1,1,7
-,United States Senator - Republican,,Member Of The Republican State Committee 2nd Congressional District,,,9
-,Jim Christiana,Lou Barletta,Calvin R Tucker,Denise Furey,Walt Vogler,9
-Jim Christiana,1,0,0,0,0,9
-Lou Barletta,,0,0,0,0,9
-Calvin R Tucker,,,0,0,0,9
-Denise Furey,,,,0,0,9
-Walt Vogler,,,,,0,9
-Total,1,0,0,0,0,9
 ,Member Of The Republican State Committee 2nd Congressional District,,,United States Senator - Republican,,11
 ,Denise Furey,Calvin R Tucker,Walt Vogler,Lou Barletta,Jim Christiana,11
 Denise Furey,0,0,0,1,0,11
@@ -79,14 +79,6 @@ Walt Vogler,,,0,1,0,14
 Jim Christiana,,,,1,0,14
 Lou Barletta,,,,,0,14
 Total,2,1,1,2,1,14
-,Member Of The Republican State Committee 2nd Congressional District,,,United States Senator - Republican,,15
-,Denise Furey,Calvin R Tucker,Walt Vogler,Jim Christiana,Lou Barletta,15
-Denise Furey,1,0,0,0,0,15
-Calvin R Tucker,,0,0,0,0,15
-Walt Vogler,,,0,0,0,15
-Jim Christiana,,,,0,0,15
-Lou Barletta,,,,,0,15
-Total,1,0,0,0,0,15
 ,Member Of The Republican State Committee 2nd Congressional District,,,United States Senator - Republican,,17
 ,Calvin R Tucker,Denise Furey,Walt Vogler,Lou Barletta,Jim Christiana,17
 Calvin R Tucker,1,0,0,1,0,17
@@ -127,11 +119,3 @@ Walt Vogler,,,0,0,0,22
 Lou Barletta,,,,0,0,22
 Jim Christiana,,,,,0,22
 Total,1,0,0,1,0,22
-,United States Senator - Republican,,Member Of The Republican State Committee 2nd Congressional District,,,All
-,Lou Barletta,Jim Christiana,Walt Vogler,Denise Furey,Calvin R Tucker,All
-Lou Barletta,3,0,12,12,13,All
-Jim Christiana,,4,7,5,4,All
-Walt Vogler,,,1,14,13,All
-Denise Furey,,,,2,14,All
-Calvin R Tucker,,,,,1,All
-Total,20,12,20,19,18,All

@@ -1,4 +1,12 @@
 col_1,col_2,col_3,col_4,col_5,col_6,division
+,Governor - Republican,,Member Of - Republican State Committee 2nd Congressional District,,,All
+,Tom Corbett,Robert Guzzardi,Denise Furey,Calvin R Tucker,Walt Vogler,All
+Tom Corbett,1,0,12,11,10,All
+Robert Guzzardi,,0,2,1,2,All
+Denise Furey,,,0,11,10,All
+Calvin R Tucker,,,,0,11,All
+Walt Vogler,,,,,0,All
+Total,16,3,15,13,13,All
 ,Member Of - Republican State Committee 2nd Congressional District,,,Governor - Republican,,2
 ,Denise Furey,Calvin R Tucker,Walt Vogler,Tom Corbett,Robert Guzzardi,2
 Denise Furey,0,2,2,2,1,2
@@ -71,14 +79,6 @@ Walt Vogler,,,0,1,0,17
 Tom Corbett,,,,0,0,17
 Robert Guzzardi,,,,,0,17
 Total,2,2,2,1,0,17
-,Governor - Republican,,Member Of - Republican State Committee 2nd Congressional District,,,19
-,Tom Corbett,Robert Guzzardi,Calvin R Tucker,Denise Furey,Walt Vogler,19
-Tom Corbett,1,0,0,0,0,19
-Robert Guzzardi,,0,0,0,0,19
-Calvin R Tucker,,,0,0,0,19
-Denise Furey,,,,0,0,19
-Walt Vogler,,,,,0,19
-Total,1,0,0,0,0,19
 ,Member Of - Republican State Committee 2nd Congressional District,,,Governor - Republican,,22
 ,Calvin R Tucker,Walt Vogler,Denise Furey,Tom Corbett,Robert Guzzardi,22
 Calvin R Tucker,0,1,0,1,0,22
@@ -111,11 +111,3 @@ Walt Vogler,,,0,1,0,29
 Robert Guzzardi,,,,0,0,29
 Tom Corbett,,,,,0,29
 Total,2,2,1,1,1,29
-,Governor - Republican,,Member Of - Republican State Committee 2nd Congressional District,,,All
-,Tom Corbett,Robert Guzzardi,Denise Furey,Calvin R Tucker,Walt Vogler,All
-Tom Corbett,2,0,12,11,10,All
-Robert Guzzardi,,0,2,1,2,All
-Denise Furey,,,0,11,10,All
-Calvin R Tucker,,,,0,11,All
-Walt Vogler,,,,,0,All
-Total,17,3,15,13,13,All

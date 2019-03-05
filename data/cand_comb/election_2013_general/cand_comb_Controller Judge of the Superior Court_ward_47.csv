@@ -20,6 +20,13 @@ Terrence J Tracy Jr,,0,3,3,2
 Jack Mcvay Jr,,,2,0,2
 Vic Stabile,,,,0,2
 Total,39,6,36,4,2
+,Judge Of The Superior Court,,Controller,,3
+,Jack Mcvay Jr,Vic Stabile,Alan Butkovitz,Terrence J Tracy Jr,3
+Jack Mcvay Jr,2,0,20,3,3
+Vic Stabile,,0,0,2,3
+Alan Butkovitz,,,0,0,3
+Terrence J Tracy Jr,,,,0,3
+Total,25,2,20,5,3
 ,Judge Of The Superior Court,,Controller,,4
 ,Jack Mcvay Jr,Vic Stabile,Alan Butkovitz,Terrence J Tracy Jr,4
 Jack Mcvay Jr,0,0,26,1,4
@@ -27,6 +34,13 @@ Vic Stabile,,0,0,1,4
 Alan Butkovitz,,,0,0,4
 Terrence J Tracy Jr,,,,0,4
 Total,27,1,26,2,4
+,Controller,,Judge Of The Superior Court,,5
+,Alan Butkovitz,Terrence J Tracy Jr,Jack Mcvay Jr,Vic Stabile,5
+Alan Butkovitz,2,0,10,0,5
+Terrence J Tracy Jr,,0,0,1,5
+Jack Mcvay Jr,,,2,0,5
+Vic Stabile,,,,0,5
+Total,12,1,12,1,5
 ,Controller,,Judge Of The Superior Court,,6
 ,Alan Butkovitz,Terrence J Tracy Jr,Jack Mcvay Jr,Vic Stabile,6
 Alan Butkovitz,1,0,28,2,6
@@ -34,6 +48,13 @@ Terrence J Tracy Jr,,2,2,0,6
 Jack Mcvay Jr,,,0,0,6
 Vic Stabile,,,,0,6
 Total,31,4,30,2,6
+,Controller,,Judge Of The Superior Court,,7
+,Alan Butkovitz,Terrence J Tracy Jr,Jack Mcvay Jr,Vic Stabile,7
+Alan Butkovitz,1,0,34,0,7
+Terrence J Tracy Jr,,0,1,0,7
+Jack Mcvay Jr,,,0,0,7
+Vic Stabile,,,,0,7
+Total,35,1,35,0,7
 ,Controller,,Judge Of The Superior Court,,8
 ,Alan Butkovitz,Terrence J Tracy Jr,Jack Mcvay Jr,Vic Stabile,8
 Alan Butkovitz,2,0,43,0,8
@@ -83,24 +104,3 @@ Terrence J Tracy Jr,,0,0,0,14
 Jack Mcvay Jr,,,0,0,14
 Vic Stabile,,,,0,14
 Total,18,0,16,0,14
-,Judge Of The Superior Court,,Controller,,3
-,Jack Mcvay Jr,Vic Stabile,Alan Butkovitz,Terrence J Tracy Jr,3
-Jack Mcvay Jr,2,0,20,3,3
-Vic Stabile,,0,0,2,3
-Alan Butkovitz,,,0,0,3
-Terrence J Tracy Jr,,,,0,3
-Total,25,2,20,5,3
-,Controller,,Judge Of The Superior Court,,5
-,Alan Butkovitz,Terrence J Tracy Jr,Jack Mcvay Jr,Vic Stabile,5
-Alan Butkovitz,2,0,10,0,5
-Terrence J Tracy Jr,,0,0,1,5
-Jack Mcvay Jr,,,2,0,5
-Vic Stabile,,,,0,5
-Total,12,1,12,1,5
-,Controller,,Judge Of The Superior Court,,7
-,Alan Butkovitz,Terrence J Tracy Jr,Jack Mcvay Jr,Vic Stabile,7
-Alan Butkovitz,1,0,34,0,7
-Terrence J Tracy Jr,,0,1,0,7
-Jack Mcvay Jr,,,0,0,7
-Vic Stabile,,,,0,7
-Total,35,1,35,0,7

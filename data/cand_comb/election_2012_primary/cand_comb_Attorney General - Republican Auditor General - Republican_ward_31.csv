@@ -1,22 +1,16 @@
 col_1,col_2,col_3,col_4,division
 ,Attorney General - Republican,Auditor General - Republican,,All
 ,David J Freed,John Maher,Frank A Pinto,All
-David J Freed,13,123,69,All
+David J Freed,11,123,69,All
 John Maher,,21,0,All
-Frank A Pinto,,,16,All
-Total,205,144,85,All
+Frank A Pinto,,,15,All
+Total,203,144,84,All
 ,Attorney General - Republican,Auditor General - Republican,,1
 ,David J Freed,Frank A Pinto,John Maher,1
 David J Freed,0,2,2,1
 Frank A Pinto,,0,0,1
 John Maher,,,0,1
 Total,4,2,2,1
-,Attorney General - Republican,Auditor General - Republican,,2
-,David J Freed,Frank A Pinto,John Maher,2
-David J Freed,2,0,0,2
-Frank A Pinto,,0,0,2
-John Maher,,,0,2
-Total,2,0,0,2
 ,Attorney General - Republican,Auditor General - Republican,,3
 ,David J Freed,John Maher,Frank A Pinto,3
 David J Freed,1,4,1,3
@@ -53,12 +47,6 @@ David J Freed,1,8,4,8
 John Maher,,0,0,8
 Frank A Pinto,,,2,8
 Total,13,8,6,8
-,Auditor General - Republican,,Attorney General - Republican,9
-,Frank A Pinto,John Maher,David J Freed,9
-Frank A Pinto,1,0,0,9
-John Maher,,0,0,9
-David J Freed,,,0,9
-Total,1,0,0,9
 ,Attorney General - Republican,Auditor General - Republican,,10
 ,David J Freed,John Maher,Frank A Pinto,10
 David J Freed,0,3,2,10

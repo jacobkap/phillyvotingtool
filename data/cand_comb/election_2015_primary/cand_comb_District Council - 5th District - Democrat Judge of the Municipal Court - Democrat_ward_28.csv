@@ -1,4 +1,16 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10,division
+,District Council 5th District - Democrat,Judge Of The Municipal Court - Democrat,,,,,,,,All
+,Darrell L Clarke,Sharon Williams Losier,Joffie C Pittman,Christine Hope,Matthew Perks,Gary S Silver,Christian Dicicco,Franklin A Bennett Iii,Daniel R Sulman,All
+Darrell L Clarke,383,503,342,289,196,118,101,101,45,All
+Sharon Williams Losier,,24,228,199,107,50,53,41,13,All
+Joffie C Pittman,,,14,127,88,31,19,30,15,All
+Christine Hope,,,,14,47,44,56,41,10,All
+Matthew Perks,,,,,3,30,21,18,14,All
+Gary S Silver,,,,,,5,19,28,9,All
+Christian Dicicco,,,,,,,0,17,10,All
+Franklin A Bennett Iii,,,,,,,,0,6,All
+Daniel R Sulman,,,,,,,,,0,All
+Total,"1,203",557,379,332,208,136,111,110,45,All
 ,District Council 5th District - Democrat,Judge Of The Municipal Court - Democrat,,,,,,,,1
 ,Darrell L Clarke,Sharon Williams Losier,Gary S Silver,Joffie C Pittman,Christine Hope,Matthew Perks,Franklin A Bennett Iii,Christian Dicicco,Daniel R Sulman,1
 Darrell L Clarke,18,13,11,9,7,8,6,3,1,1
@@ -95,18 +107,6 @@ Gary S Silver,,,,,,,0,4,3,8
 Franklin A Bennett Iii,,,,,,,,0,1,8
 Daniel R Sulman,,,,,,,,,0,8
 Total,161,82,48,35,35,21,20,16,13,8
-,Judge Of The Municipal Court - Democrat,,,,,,,,District Council 5th District - Democrat,9
-,Sharon Williams Losier,Joffie C Pittman,Christine Hope,Matthew Perks,Christian Dicicco,Gary S Silver,Franklin A Bennett Iii,Daniel R Sulman,Darrell L Clarke,9
-Sharon Williams Losier,20,24,13,14,10,1,4,2,0,9
-Joffie C Pittman,,8,11,10,6,1,5,3,0,9
-Christine Hope,,,9,4,6,6,7,3,0,9
-Matthew Perks,,,,4,1,0,1,0,0,9
-Christian Dicicco,,,,,0,3,3,2,0,9
-Gary S Silver,,,,,,6,3,3,0,9
-Franklin A Bennett Iii,,,,,,,0,0,0,9
-Daniel R Sulman,,,,,,,,0,0,9
-Darrell L Clarke,,,,,,,,,0,9
-Total,57,41,35,19,16,16,13,7,0,9
 ,District Council 5th District - Democrat,Judge Of The Municipal Court - Democrat,,,,,,,,10
 ,Darrell L Clarke,Sharon Williams Losier,Christine Hope,Joffie C Pittman,Gary S Silver,Matthew Perks,Christian Dicicco,Franklin A Bennett Iii,Daniel R Sulman,10
 Darrell L Clarke,25,28,12,12,3,5,3,3,0,10
@@ -179,51 +179,3 @@ Gary S Silver,,,,,,,0,0,1,15
 Daniel R Sulman,,,,,,,,0,0,15
 Franklin A Bennett Iii,,,,,,,,,0,15
 Total,71,34,26,21,13,10,8,3,2,15
-,Judge Of The Municipal Court - Democrat,,,,,,,,District Council 5th District - Democrat,16
-,Sharon Williams Losier,Christine Hope,Joffie C Pittman,Matthew Perks,Christian Dicicco,Gary S Silver,Franklin A Bennett Iii,Daniel R Sulman,Darrell L Clarke,16
-Sharon Williams Losier,12,11,8,5,5,3,2,0,0,16
-Christine Hope,,6,8,3,3,1,2,0,0,16
-Joffie C Pittman,,,2,4,3,3,2,2,0,16
-Matthew Perks,,,,3,0,2,0,0,0,16
-Christian Dicicco,,,,,0,4,1,1,0,16
-Gary S Silver,,,,,,1,0,3,0,16
-Franklin A Bennett Iii,,,,,,,2,0,0,16
-Daniel R Sulman,,,,,,,,1,0,16
-Darrell L Clarke,,,,,,,,,0,16
-Total,30,21,18,10,9,9,6,4,0,16
-,Judge Of The Municipal Court - Democrat,,,,,,,,District Council 5th District - Democrat,17
-,Sharon Williams Losier,Joffie C Pittman,Christine Hope,Matthew Perks,Gary S Silver,Christian Dicicco,Franklin A Bennett Iii,Daniel R Sulman,Darrell L Clarke,17
-Sharon Williams Losier,10,33,18,6,3,1,1,1,0,17
-Joffie C Pittman,,7,15,4,4,1,1,1,0,17
-Christine Hope,,,3,2,0,2,1,0,0,17
-Matthew Perks,,,,3,1,0,0,0,0,17
-Gary S Silver,,,,,2,0,1,0,0,17
-Christian Dicicco,,,,,,0,0,0,0,17
-Franklin A Bennett Iii,,,,,,,0,0,0,17
-Daniel R Sulman,,,,,,,,0,0,17
-Darrell L Clarke,,,,,,,,,0,17
-Total,49,44,23,10,8,2,2,1,0,17
-,Judge Of The Municipal Court - Democrat,,,,,,,,District Council 5th District - Democrat,18
-,Sharon Williams Losier,Joffie C Pittman,Christine Hope,Matthew Perks,Christian Dicicco,Gary S Silver,Franklin A Bennett Iii,Daniel R Sulman,Darrell L Clarke,18
-Sharon Williams Losier,9,21,16,10,6,4,4,0,0,18
-Joffie C Pittman,,7,13,7,4,1,1,1,0,18
-Christine Hope,,,3,4,5,4,3,0,0,18
-Matthew Perks,,,,3,1,2,3,2,0,18
-Christian Dicicco,,,,,0,1,3,1,0,18
-Gary S Silver,,,,,,2,1,1,0,18
-Franklin A Bennett Iii,,,,,,,0,1,0,18
-Daniel R Sulman,,,,,,,,1,0,18
-Darrell L Clarke,,,,,,,,,0,18
-Total,42,33,26,18,11,9,8,4,0,18
-,District Council 5th District - Democrat,Judge Of The Municipal Court - Democrat,,,,,,,,All
-,Darrell L Clarke,Sharon Williams Losier,Joffie C Pittman,Christine Hope,Matthew Perks,Gary S Silver,Christian Dicicco,Franklin A Bennett Iii,Daniel R Sulman,All
-Darrell L Clarke,383,503,342,289,196,118,101,101,45,All
-Sharon Williams Losier,,75,314,257,142,61,75,52,16,All
-Joffie C Pittman,,,38,174,113,40,33,39,22,All
-Christine Hope,,,,35,60,55,72,54,13,All
-Matthew Perks,,,,,16,35,23,22,16,All
-Gary S Silver,,,,,,16,27,33,16,All
-Christian Dicicco,,,,,,,0,24,14,All
-Franklin A Bennett Iii,,,,,,,,2,7,All
-Daniel R Sulman,,,,,,,,,2,All
-Total,"1,203",735,515,437,265,178,149,139,61,All

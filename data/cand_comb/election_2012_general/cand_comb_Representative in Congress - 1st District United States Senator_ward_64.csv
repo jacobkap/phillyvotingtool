@@ -1,100 +1,12 @@
 col_1,col_2,col_3,col_4,col_5,col_6,division
-,United States Senator,,,Representative In Congress 1st District,,All
-,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,Robert A Brady,John Featherman,All
-Bob Casey Jr,"3,728",0,0,126,7,All
-Tom Smith,,"2,200",0,10,35,All
-Rayburn Douglas Smith,,,44,3,1,All
-Robert A Brady,,,,2,0,All
-John Featherman,,,,,0,All
-Total,"3,861","2,245",48,141,43,All
-,United States Senator,,,Representative In Congress 1st District,,1
-,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,John Featherman,Robert A Brady,1
-Bob Casey Jr,237,0,0,0,0,1
-Tom Smith,,107,0,0,0,1
-Rayburn Douglas Smith,,,5,0,0,1
-John Featherman,,,,0,0,1
-Robert A Brady,,,,,0,1
-Total,237,107,5,0,0,1
-,United States Senator,,,Representative In Congress 1st District,,2
-,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,John Featherman,Robert A Brady,2
-Bob Casey Jr,229,0,0,0,0,2
-Tom Smith,,183,0,0,0,2
-Rayburn Douglas Smith,,,2,0,0,2
-John Featherman,,,,0,0,2
-Robert A Brady,,,,,0,2
-Total,229,183,2,0,0,2
-,United States Senator,,,Representative In Congress 1st District,,3
-,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,John Featherman,Robert A Brady,3
-Bob Casey Jr,221,0,0,0,0,3
-Tom Smith,,101,0,0,0,3
-Rayburn Douglas Smith,,,5,0,0,3
-John Featherman,,,,0,0,3
-Robert A Brady,,,,,0,3
-Total,221,101,5,0,0,3
-,United States Senator,,,Representative In Congress 1st District,,4
-,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,John Featherman,Robert A Brady,4
-Bob Casey Jr,221,0,0,0,0,4
-Tom Smith,,130,0,0,0,4
-Rayburn Douglas Smith,,,2,0,0,4
-John Featherman,,,,0,0,4
-Robert A Brady,,,,,0,4
-Total,221,130,2,0,0,4
-,United States Senator,,,Representative In Congress 1st District,,5
-,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,John Featherman,Robert A Brady,5
-Bob Casey Jr,333,0,0,0,0,5
-Tom Smith,,137,0,0,0,5
-Rayburn Douglas Smith,,,1,0,0,5
-John Featherman,,,,0,0,5
-Robert A Brady,,,,,0,5
-Total,333,137,1,0,0,5
-,United States Senator,,,Representative In Congress 1st District,,6
-,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,John Featherman,Robert A Brady,6
-Bob Casey Jr,219,0,0,0,0,6
-Tom Smith,,153,0,0,0,6
-Rayburn Douglas Smith,,,4,0,0,6
-John Featherman,,,,0,0,6
-Robert A Brady,,,,,0,6
-Total,219,153,4,0,0,6
-,United States Senator,,,Representative In Congress 1st District,,7
-,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,John Featherman,Robert A Brady,7
-Bob Casey Jr,212,0,0,0,0,7
-Tom Smith,,121,0,0,0,7
-Rayburn Douglas Smith,,,2,0,0,7
-John Featherman,,,,0,0,7
-Robert A Brady,,,,,0,7
-Total,212,121,2,0,0,7
-,United States Senator,,,Representative In Congress 1st District,,8
-,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,John Featherman,Robert A Brady,8
-Bob Casey Jr,204,0,0,0,0,8
-Tom Smith,,139,0,0,0,8
-Rayburn Douglas Smith,,,5,0,0,8
-John Featherman,,,,0,0,8
-Robert A Brady,,,,,0,8
-Total,204,139,5,0,0,8
-,United States Senator,,,Representative In Congress 1st District,,9
-,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,John Featherman,Robert A Brady,9
-Bob Casey Jr,190,0,0,0,0,9
-Tom Smith,,89,0,0,0,9
-Rayburn Douglas Smith,,,1,0,0,9
-John Featherman,,,,0,0,9
-Robert A Brady,,,,,0,9
-Total,190,89,1,0,0,9
-,United States Senator,,,Representative In Congress 1st District,,10
-,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,John Featherman,Robert A Brady,10
-Bob Casey Jr,236,0,0,0,0,10
-Tom Smith,,101,0,0,0,10
-Rayburn Douglas Smith,,,3,0,0,10
-John Featherman,,,,0,0,10
-Robert A Brady,,,,,0,10
-Total,236,101,3,0,0,10
-,United States Senator,,,Representative In Congress 1st District,,11
-,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,John Featherman,Robert A Brady,11
-Bob Casey Jr,176,0,0,0,0,11
-Tom Smith,,136,0,0,0,11
-Rayburn Douglas Smith,,,2,0,0,11
-John Featherman,,,,0,0,11
-Robert A Brady,,,,,0,11
-Total,176,136,2,0,0,11
+,Representative In Congress 1st District,,United States Senator,,,All
+,Robert A Brady,John Featherman,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,All
+Robert A Brady,2,0,126,10,3,All
+John Featherman,,0,7,35,1,All
+Bob Casey Jr,,,3,0,0,All
+Tom Smith,,,,5,0,All
+Rayburn Douglas Smith,,,,,2,All
+Total,141,43,136,50,6,All
 ,Representative In Congress 1st District,,United States Senator,,,12
 ,Robert A Brady,John Featherman,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,12
 Robert A Brady,2,0,126,10,3,12
@@ -103,51 +15,3 @@ Bob Casey Jr,,,3,0,0,12
 Tom Smith,,,,5,0,12
 Rayburn Douglas Smith,,,,,2,12
 Total,141,43,136,50,6,12
-,United States Senator,,,Representative In Congress 1st District,,13
-,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,John Featherman,Robert A Brady,13
-Bob Casey Jr,202,0,0,0,0,13
-Tom Smith,,151,0,0,0,13
-Rayburn Douglas Smith,,,3,0,0,13
-John Featherman,,,,0,0,13
-Robert A Brady,,,,,0,13
-Total,202,151,3,0,0,13
-,United States Senator,,,Representative In Congress 1st District,,14
-,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,John Featherman,Robert A Brady,14
-Bob Casey Jr,173,0,0,0,0,14
-Tom Smith,,120,0,0,0,14
-Rayburn Douglas Smith,,,2,0,0,14
-John Featherman,,,,0,0,14
-Robert A Brady,,,,,0,14
-Total,173,120,2,0,0,14
-,United States Senator,,,Representative In Congress 1st District,,15
-,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,John Featherman,Robert A Brady,15
-Bob Casey Jr,122,0,0,0,0,15
-Tom Smith,,51,0,0,0,15
-Rayburn Douglas Smith,,,0,0,0,15
-John Featherman,,,,0,0,15
-Robert A Brady,,,,,0,15
-Total,122,51,0,0,0,15
-,United States Senator,,,Representative In Congress 1st District,,16
-,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,John Featherman,Robert A Brady,16
-Bob Casey Jr,252,0,0,0,0,16
-Tom Smith,,151,0,0,0,16
-Rayburn Douglas Smith,,,4,0,0,16
-John Featherman,,,,0,0,16
-Robert A Brady,,,,,0,16
-Total,252,151,4,0,0,16
-,United States Senator,,,Representative In Congress 1st District,,17
-,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,John Featherman,Robert A Brady,17
-Bob Casey Jr,180,0,0,0,0,17
-Tom Smith,,122,0,0,0,17
-Rayburn Douglas Smith,,,0,0,0,17
-John Featherman,,,,0,0,17
-Robert A Brady,,,,,0,17
-Total,180,122,0,0,0,17
-,United States Senator,,,Representative In Congress 1st District,,18
-,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,John Featherman,Robert A Brady,18
-Bob Casey Jr,318,0,0,0,0,18
-Tom Smith,,203,0,0,0,18
-Rayburn Douglas Smith,,,1,0,0,18
-John Featherman,,,,0,0,18
-Robert A Brady,,,,,0,18
-Total,318,203,1,0,0,18

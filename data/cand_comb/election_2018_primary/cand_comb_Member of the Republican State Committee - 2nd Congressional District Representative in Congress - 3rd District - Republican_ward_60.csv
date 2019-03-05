@@ -1,4 +1,11 @@
 col_1,col_2,col_3,col_4,col_5,division
+,Representative In Congress 3rd District - Republican,Member Of The Republican State Committee 2nd Congressional District,,,All
+,Bryan E Leib,Calvin R Tucker,Denise Furey,Walt Vogler,All
+Bryan E Leib,3,14,13,12,All
+Calvin R Tucker,,1,12,10,All
+Denise Furey,,,1,10,All
+Walt Vogler,,,,1,All
+Total,23,17,16,14,All
 ,Representative In Congress 3rd District - Republican,Member Of The Republican State Committee 2nd Congressional District,,,1
 ,Bryan E Leib,Denise Furey,Calvin R Tucker,Walt Vogler,1
 Bryan E Leib,1,1,0,0,1
@@ -48,13 +55,6 @@ Calvin R Tucker,,0,0,1,12
 Walt Vogler,,,0,0,12
 Denise Furey,,,,0,12
 Total,3,2,2,1,12
-,Member Of The Republican State Committee 2nd Congressional District,,,Representative In Congress 3rd District - Republican,13
-,Calvin R Tucker,Denise Furey,Walt Vogler,Bryan E Leib,13
-Calvin R Tucker,1,0,0,0,13
-Denise Furey,,0,0,0,13
-Walt Vogler,,,0,0,13
-Bryan E Leib,,,,0,13
-Total,1,0,0,0,13
 ,Member Of The Republican State Committee 2nd Congressional District,,,Representative In Congress 3rd District - Republican,15
 ,Calvin R Tucker,Denise Furey,Walt Vogler,Bryan E Leib,15
 Calvin R Tucker,1,0,0,1,15
@@ -83,13 +83,6 @@ Denise Furey,,0,3,2,20
 Calvin R Tucker,,,0,2,20
 Walt Vogler,,,,0,20
 Total,5,4,3,2,20
-,Member Of The Republican State Committee 2nd Congressional District,,,Representative In Congress 3rd District - Republican,21
-,Calvin R Tucker,Denise Furey,Walt Vogler,Bryan E Leib,21
-Calvin R Tucker,0,1,0,0,21
-Denise Furey,,0,0,0,21
-Walt Vogler,,,0,0,21
-Bryan E Leib,,,,0,21
-Total,1,1,0,0,21
 ,Member Of The Republican State Committee 2nd Congressional District,,,Representative In Congress 3rd District - Republican,23
 ,Walt Vogler,Calvin R Tucker,Denise Furey,Bryan E Leib,23
 Walt Vogler,1,2,2,2,23
@@ -97,10 +90,3 @@ Calvin R Tucker,,0,2,2,23
 Denise Furey,,,0,2,23
 Bryan E Leib,,,,0,23
 Total,3,2,2,2,23
-,Representative In Congress 3rd District - Republican,Member Of The Republican State Committee 2nd Congressional District,,,All
-,Bryan E Leib,Calvin R Tucker,Denise Furey,Walt Vogler,All
-Bryan E Leib,3,14,13,12,All
-Calvin R Tucker,,2,13,10,All
-Denise Furey,,,1,10,All
-Walt Vogler,,,,1,All
-Total,23,19,17,14,All

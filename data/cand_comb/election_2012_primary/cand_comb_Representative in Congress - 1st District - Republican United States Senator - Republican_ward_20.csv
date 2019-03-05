@@ -1,13 +1,13 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,division
 ,Representative In Congress 1st District - Republican,United States Senator - Republican,,,,,All
-,John Featherman,Sam Rohrer,Marc A Scaringi,David Alan Christian,Steven D Welch,Tom Smith,All
-John Featherman,2,6,3,4,1,1,All
-Sam Rohrer,,1,0,0,0,0,All
-Marc A Scaringi,,,3,0,0,0,All
-David Alan Christian,,,,0,0,0,All
-Steven D Welch,,,,,1,0,All
-Tom Smith,,,,,,1,All
-Total,17,7,6,4,2,2,All
+,John Featherman,Sam Rohrer,David Alan Christian,Marc A Scaringi,Tom Smith,Steven D Welch,All
+John Featherman,2,6,4,3,1,1,All
+Sam Rohrer,,0,0,0,0,0,All
+David Alan Christian,,,0,0,0,0,All
+Marc A Scaringi,,,,1,0,0,All
+Tom Smith,,,,,1,0,All
+Steven D Welch,,,,,,0,All
+Total,17,6,4,4,2,1,All
 ,Representative In Congress 1st District - Republican,United States Senator - Republican,,,,,1
 ,John Featherman,David Alan Christian,Sam Rohrer,Marc A Scaringi,Steven D Welch,Tom Smith,1
 John Featherman,0,3,2,0,1,0,1
@@ -35,15 +35,6 @@ David Alan Christian,,,,0,0,0,6
 Sam Rohrer,,,,,0,0,6
 Steven D Welch,,,,,,0,6
 Total,2,1,1,0,0,0,6
-,United States Senator - Republican,,,,,Representative In Congress 1st District - Republican,7
-,Marc A Scaringi,Sam Rohrer,Steven D Welch,David Alan Christian,Tom Smith,John Featherman,7
-Marc A Scaringi,2,0,0,0,0,0,7
-Sam Rohrer,,1,0,0,0,0,7
-Steven D Welch,,,1,0,0,0,7
-David Alan Christian,,,,0,0,0,7
-Tom Smith,,,,,0,0,7
-John Featherman,,,,,,0,7
-Total,2,1,1,0,0,0,7
 ,Representative In Congress 1st District - Republican,United States Senator - Republican,,,,,10
 ,John Featherman,Sam Rohrer,Marc A Scaringi,David Alan Christian,Steven D Welch,Tom Smith,10
 John Featherman,0,2,1,0,0,0,10

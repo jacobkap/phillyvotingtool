@@ -1,13 +1,13 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,division
 ,Attorney General - Republican,United States Senator - Republican,,,,,All
-,David J Freed,Steven D Welch,Tom Smith,David Alan Christian,Sam Rohrer,Marc A Scaringi,All
-David J Freed,1,5,4,4,1,0,All
+,David J Freed,Steven D Welch,David Alan Christian,Tom Smith,Sam Rohrer,Marc A Scaringi,All
+David J Freed,0,5,4,4,1,0,All
 Steven D Welch,,1,0,0,0,0,All
-Tom Smith,,,2,0,0,0,All
-David Alan Christian,,,,1,0,0,All
+David Alan Christian,,,1,0,0,0,All
+Tom Smith,,,,1,0,0,All
 Sam Rohrer,,,,,0,0,All
 Marc A Scaringi,,,,,,0,All
-Total,15,6,6,5,1,0,All
+Total,14,6,5,5,1,0,All
 ,Attorney General - Republican,United States Senator - Republican,,,,,2
 ,David J Freed,David Alan Christian,Steven D Welch,Tom Smith,Marc A Scaringi,Sam Rohrer,2
 David J Freed,0,0,1,1,0,0,2
@@ -17,15 +17,6 @@ Tom Smith,,,,0,0,0,2
 Marc A Scaringi,,,,,0,0,2
 Sam Rohrer,,,,,,0,2
 Total,2,1,1,1,0,0,2
-,United States Senator - Republican,,,,,Attorney General - Republican,4
-,Tom Smith,David Alan Christian,Marc A Scaringi,Sam Rohrer,Steven D Welch,David J Freed,4
-Tom Smith,1,0,0,0,0,0,4
-David Alan Christian,,0,0,0,0,0,4
-Marc A Scaringi,,,0,0,0,0,4
-Sam Rohrer,,,,0,0,0,4
-Steven D Welch,,,,,0,0,4
-David J Freed,,,,,,0,4
-Total,1,0,0,0,0,0,4
 ,Attorney General - Republican,United States Senator - Republican,,,,,5
 ,David J Freed,Steven D Welch,Tom Smith,David Alan Christian,Marc A Scaringi,Sam Rohrer,5
 David J Freed,0,1,1,0,0,0,5
@@ -62,15 +53,6 @@ David Alan Christian,,,,0,0,0,8
 Marc A Scaringi,,,,,0,0,8
 Sam Rohrer,,,,,,0,8
 Total,1,1,1,0,0,0,8
-,Attorney General - Republican,United States Senator - Republican,,,,,11
-,David J Freed,David Alan Christian,Marc A Scaringi,Sam Rohrer,Steven D Welch,Tom Smith,11
-David J Freed,1,0,0,0,0,0,11
-David Alan Christian,,0,0,0,0,0,11
-Marc A Scaringi,,,0,0,0,0,11
-Sam Rohrer,,,,0,0,0,11
-Steven D Welch,,,,,0,0,11
-Tom Smith,,,,,,0,11
-Total,1,0,0,0,0,0,11
 ,Attorney General - Republican,United States Senator - Republican,,,,,12
 ,David J Freed,Steven D Welch,David Alan Christian,Marc A Scaringi,Sam Rohrer,Tom Smith,12
 David J Freed,0,1,0,0,0,0,12

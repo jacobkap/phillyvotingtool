@@ -1,4 +1,12 @@
 col_1,col_2,col_3,col_4,col_5,col_6,division
+,United States Senator - Republican,,Governor - Republican,,,All
+,Jim Christiana,Lou Barletta,Scott R Wagner,Paul Mango,Laura Ellsworth,All
+Jim Christiana,0,0,22,22,8,All
+Lou Barletta,,1,20,18,8,All
+Scott R Wagner,,,4,0,0,All
+Paul Mango,,,,1,0,All
+Laura Ellsworth,,,,,0,All
+Total,52,47,46,41,16,All
 ,United States Senator - Republican,,Governor - Republican,,,1
 ,Lou Barletta,Jim Christiana,Scott R Wagner,Paul Mango,Laura Ellsworth,1
 Lou Barletta,0,0,5,1,0,1
@@ -47,14 +55,6 @@ Paul Mango,,,0,0,0,11
 Scott R Wagner,,,,0,0,11
 Laura Ellsworth,,,,,0,11
 Total,3,1,2,2,0,11
-,Governor - Republican,,,United States Senator - Republican,,12
-,Laura Ellsworth,Paul Mango,Scott R Wagner,Jim Christiana,Lou Barletta,12
-Laura Ellsworth,1,0,0,0,0,12
-Paul Mango,,0,0,0,0,12
-Scott R Wagner,,,0,0,0,12
-Jim Christiana,,,,0,0,12
-Lou Barletta,,,,,0,12
-Total,1,0,0,0,0,12
 ,United States Senator - Republican,,Governor - Republican,,,14
 ,Jim Christiana,Lou Barletta,Laura Ellsworth,Paul Mango,Scott R Wagner,14
 Jim Christiana,0,0,1,1,0,14
@@ -127,14 +127,6 @@ Laura Ellsworth,,,0,0,0,22
 Paul Mango,,,,0,0,22
 Scott R Wagner,,,,,0,22
 Total,1,1,1,1,0,22
-,United States Senator - Republican,,Governor - Republican,,,23
-,Jim Christiana,Lou Barletta,Laura Ellsworth,Paul Mango,Scott R Wagner,23
-Jim Christiana,1,0,0,0,0,23
-Lou Barletta,,0,0,0,0,23
-Laura Ellsworth,,,0,0,0,23
-Paul Mango,,,,0,0,23
-Scott R Wagner,,,,,0,23
-Total,1,0,0,0,0,23
 ,Governor - Republican,,,United States Senator - Republican,,24
 ,Paul Mango,Scott R Wagner,Laura Ellsworth,Jim Christiana,Lou Barletta,24
 Paul Mango,0,0,0,2,1,24
@@ -287,11 +279,3 @@ Paul Mango,,,0,0,0,51
 Scott R Wagner,,,,0,0,51
 Laura Ellsworth,,,,,0,51
 Total,2,0,1,1,0,51
-,United States Senator - Republican,,Governor - Republican,,,All
-,Jim Christiana,Lou Barletta,Scott R Wagner,Paul Mango,Laura Ellsworth,All
-Jim Christiana,1,0,22,22,8,All
-Lou Barletta,,1,20,18,8,All
-Scott R Wagner,,,4,0,0,All
-Paul Mango,,,,1,0,All
-Laura Ellsworth,,,,,1,All
-Total,53,47,46,41,17,All

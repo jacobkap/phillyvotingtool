@@ -1,4 +1,10 @@
 col_1,col_2,col_3,col_4,division
+,District Attorney - Republican,Judge Of The Court Of Common Pleas - Republican,,All
+,Daniel A Alvarez,Anne Marie Coyle,Kenneth J Powell Jr,All
+Daniel A Alvarez,6,161,134,All
+Anne Marie Coyle,,13,117,All
+Kenneth J Powell Jr,,,10,All
+Total,188,178,148,All
 ,Judge Of The Court Of Common Pleas - Republican,,District Attorney - Republican,1
 ,Anne Marie Coyle,Kenneth J Powell Jr,Daniel A Alvarez,1
 Anne Marie Coyle,1,0,1,1
@@ -47,12 +53,6 @@ Anne Marie Coyle,1,0,2,8
 Kenneth J Powell Jr,,0,0,8
 Daniel A Alvarez,,,0,8
 Total,3,0,2,8
-,District Attorney - Republican,Judge Of The Court Of Common Pleas - Republican,,10
-,Daniel A Alvarez,Anne Marie Coyle,Kenneth J Powell Jr,10
-Daniel A Alvarez,1,0,0,10
-Anne Marie Coyle,,0,0,10
-Kenneth J Powell Jr,,,0,10
-Total,1,0,0,10
 ,Judge Of The Court Of Common Pleas - Republican,,District Attorney - Republican,11
 ,Anne Marie Coyle,Kenneth J Powell Jr,Daniel A Alvarez,11
 Anne Marie Coyle,0,1,1,11
@@ -251,9 +251,3 @@ Anne Marie Coyle,0,5,7,46
 Kenneth J Powell Jr,,0,5,46
 Daniel A Alvarez,,,0,46
 Total,7,5,7,46
-,District Attorney - Republican,Judge Of The Court Of Common Pleas - Republican,,All
-,Daniel A Alvarez,Anne Marie Coyle,Kenneth J Powell Jr,All
-Daniel A Alvarez,7,161,134,All
-Anne Marie Coyle,,13,117,All
-Kenneth J Powell Jr,,,10,All
-Total,189,178,148,All

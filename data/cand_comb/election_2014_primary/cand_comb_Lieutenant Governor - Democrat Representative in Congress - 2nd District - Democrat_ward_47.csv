@@ -1,13 +1,13 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,division
-,Lieutenant Governor - Democrat,,,,,Representative In Congress 2nd District - Democrat,1
-,Mike Stack,Brad Koplinski,Mark Critz,Brandon P Neuman,Mark Smith,Chaka Fattah,1
-Mike Stack,27,0,0,0,0,0,1
-Brad Koplinski,,5,0,0,0,0,1
-Mark Critz,,,4,0,0,0,1
-Brandon P Neuman,,,,2,0,0,1
-Mark Smith,,,,,2,0,1
-Chaka Fattah,,,,,,0,1
-Total,27,5,4,2,2,0,1
+,Representative In Congress 2nd District - Democrat,Lieutenant Governor - Democrat,,,,,All
+,Chaka Fattah,Mike Stack,Mark Smith,Mark Critz,Brad Koplinski,Brandon P Neuman,All
+Chaka Fattah,73,415,32,26,15,14,All
+Mike Stack,,40,0,0,0,0,All
+Mark Smith,,,2,0,0,0,All
+Mark Critz,,,,4,0,0,All
+Brad Koplinski,,,,,3,0,All
+Brandon P Neuman,,,,,,2,All
+Total,575,455,34,30,18,16,All
 ,Representative In Congress 2nd District - Democrat,Lieutenant Governor - Democrat,,,,,2
 ,Chaka Fattah,Mike Stack,Mark Critz,Mark Smith,Brad Koplinski,Brandon P Neuman,2
 Chaka Fattah,9,40,4,5,3,1,2
@@ -125,12 +125,3 @@ Brandon P Neuman,,,,0,0,0,14
 Mark Smith,,,,,0,0,14
 Brad Koplinski,,,,,,0,14
 Total,31,24,2,1,1,0,14
-,Representative In Congress 2nd District - Democrat,Lieutenant Governor - Democrat,,,,,All
-,Chaka Fattah,Mike Stack,Mark Smith,Mark Critz,Brad Koplinski,Brandon P Neuman,All
-Chaka Fattah,73,415,32,26,15,14,All
-Mike Stack,,67,0,0,0,0,All
-Mark Smith,,,4,0,0,0,All
-Mark Critz,,,,8,0,0,All
-Brad Koplinski,,,,,8,0,All
-Brandon P Neuman,,,,,,4,All
-Total,575,482,36,34,23,18,All

@@ -3,11 +3,11 @@ col_1,col_2,col_3,col_4,col_5,col_6,col_7,division
 ,Robert A Brady,John Featherman,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,All
 Robert A Brady,33,0,"5,725",860,31,20,All
 John Featherman,,17,145,"2,086",29,4,All
-Barack Obama,,,619,0,0,0,All
-Mitt Romney,,,,380,0,0,All
-Gary Johnson,,,,,14,0,All
-Jill Stein,,,,,,6,All
-Total,"6,669","2,281","6,489","3,326",74,30,All
+Barack Obama,,,399,0,0,0,All
+Mitt Romney,,,,231,0,0,All
+Gary Johnson,,,,,12,0,All
+Jill Stein,,,,,,5,All
+Total,"6,669","2,281","6,269","3,177",72,29,All
 ,President And Vice President Of The United States,,,,Representative In Congress 1st District,,1
 ,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,Robert A Brady,John Featherman,1
 Barack Obama,18,0,0,0,226,3,1
@@ -215,15 +215,6 @@ Mitt Romney,,,,7,0,0,23
 Gary Johnson,,,,,1,0,23
 Jill Stein,,,,,,0,23
 Total,158,61,147,83,4,0,23
-,President And Vice President Of The United States,,,,Representative In Congress 1st District,,24
-,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,John Featherman,Robert A Brady,24
-Barack Obama,220,0,0,0,0,0,24
-Mitt Romney,,149,0,0,0,0,24
-Gary Johnson,,,2,0,0,0,24
-Jill Stein,,,,1,0,0,24
-John Featherman,,,,,0,0,24
-Robert A Brady,,,,,,0,24
-Total,220,149,2,1,0,0,24
 ,Representative In Congress 1st District,,President And Vice President Of The United States,,,,25
 ,Robert A Brady,John Featherman,Barack Obama,Mitt Romney,Gary Johnson,Jill Stein,25
 Robert A Brady,3,0,225,20,1,0,25

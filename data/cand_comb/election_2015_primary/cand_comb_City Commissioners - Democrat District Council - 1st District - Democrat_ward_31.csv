@@ -1,4 +1,14 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,division
+,District Council 1st District - Democrat,City Commissioners - Democrat,,,,,,All
+,Mark F Squilla,Lisa M Deeley,Anthony Clark,Carol A Jenkins,Tracey L Gordon,Will Mega,Omar Sabir,All
+Mark F Squilla,244,581,523,234,196,104,47,All
+Lisa M Deeley,,46,253,81,40,15,19,All
+Anthony Clark,,,27,65,63,34,7,All
+Carol A Jenkins,,,,16,67,18,8,All
+Tracey L Gordon,,,,,23,9,8,All
+Will Mega,,,,,,5,6,All
+Omar Sabir,,,,,,,4,All
+Total,"1,298",652,574,284,248,113,59,All
 ,District Council 1st District - Democrat,City Commissioners - Democrat,,,,,,1
 ,Mark F Squilla,Anthony Clark,Lisa M Deeley,Tracey L Gordon,Will Mega,Carol A Jenkins,Omar Sabir,1
 Mark F Squilla,8,34,27,17,12,11,2,1
@@ -9,16 +19,6 @@ Will Mega,,,,,3,0,1,1
 Carol A Jenkins,,,,,,0,0,1
 Omar Sabir,,,,,,,0,1
 Total,75,36,27,18,15,11,2,1
-,City Commissioners - Democrat,,,,,,District Council 1st District - Democrat,2
-,Anthony Clark,Lisa M Deeley,Carol A Jenkins,Tracey L Gordon,Omar Sabir,Will Mega,Mark F Squilla,2
-Anthony Clark,2,3,2,1,1,0,0,2
-Lisa M Deeley,,1,1,2,0,0,0,2
-Carol A Jenkins,,,2,0,1,0,0,2
-Tracey L Gordon,,,,0,0,1,0,2
-Omar Sabir,,,,,0,1,0,2
-Will Mega,,,,,,0,0,2
-Mark F Squilla,,,,,,,0,2
-Total,9,7,6,4,3,2,0,2
 ,District Council 1st District - Democrat,City Commissioners - Democrat,,,,,,3
 ,Mark F Squilla,Lisa M Deeley,Anthony Clark,Carol A Jenkins,Tracey L Gordon,Omar Sabir,Will Mega,3
 Mark F Squilla,12,22,17,18,5,2,2,3
@@ -79,16 +79,6 @@ Tracey L Gordon,,,,,0,0,0,8
 Will Mega,,,,,,1,0,8
 Omar Sabir,,,,,,,0,8
 Total,59,29,17,16,11,7,3,8
-,City Commissioners - Democrat,,,,,,District Council 1st District - Democrat,9
-,Anthony Clark,Carol A Jenkins,Lisa M Deeley,Omar Sabir,Will Mega,Tracey L Gordon,Mark F Squilla,9
-Anthony Clark,10,3,6,2,2,0,0,9
-Carol A Jenkins,,7,3,0,1,3,0,9
-Lisa M Deeley,,,2,1,0,0,0,9
-Omar Sabir,,,,2,4,1,0,9
-Will Mega,,,,,0,1,0,9
-Tracey L Gordon,,,,,,1,0,9
-Mark F Squilla,,,,,,,0,9
-Total,23,17,12,10,8,6,0,9
 ,District Council 1st District - Democrat,City Commissioners - Democrat,,,,,,10
 ,Mark F Squilla,Lisa M Deeley,Carol A Jenkins,Anthony Clark,Tracey L Gordon,Will Mega,Omar Sabir,10
 Mark F Squilla,8,11,8,7,5,5,1,10
@@ -189,13 +179,3 @@ Tracey L Gordon,,,,,2,1,0,19
 Will Mega,,,,,,0,0,19
 Omar Sabir,,,,,,,0,19
 Total,95,68,35,10,6,5,3,19
-,District Council 1st District - Democrat,City Commissioners - Democrat,,,,,,All
-,Mark F Squilla,Lisa M Deeley,Anthony Clark,Carol A Jenkins,Tracey L Gordon,Will Mega,Omar Sabir,All
-Mark F Squilla,244,581,523,234,196,104,47,All
-Lisa M Deeley,,49,262,85,42,15,20,All
-Anthony Clark,,,39,70,64,36,10,All
-Carol A Jenkins,,,,25,70,19,9,All
-Tracey L Gordon,,,,,24,11,9,All
-Will Mega,,,,,,5,11,All
-Omar Sabir,,,,,,,6,All
-Total,"1,298",671,606,307,258,123,72,All

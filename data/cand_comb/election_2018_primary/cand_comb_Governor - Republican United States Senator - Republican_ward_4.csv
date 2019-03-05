@@ -1,4 +1,12 @@
 col_1,col_2,col_3,col_4,col_5,col_6,division
+,United States Senator - Republican,,Governor - Republican,,,All
+,Jim Christiana,Lou Barletta,Scott R Wagner,Laura Ellsworth,Paul Mango,All
+Jim Christiana,2,0,7,2,1,All
+Lou Barletta,,1,1,2,0,All
+Scott R Wagner,,,2,0,0,All
+Laura Ellsworth,,,,0,0,All
+Paul Mango,,,,,0,All
+Total,12,4,10,4,1,All
 ,United States Senator - Republican,,Governor - Republican,,,1
 ,Jim Christiana,Lou Barletta,Scott R Wagner,Laura Ellsworth,Paul Mango,1
 Jim Christiana,0,0,1,0,0,1
@@ -47,14 +55,6 @@ Paul Mango,,,0,0,0,8
 Lou Barletta,,,,0,0,8
 Jim Christiana,,,,,0,8
 Total,1,1,0,1,0,8
-,Governor - Republican,,,United States Senator - Republican,,9
-,Paul Mango,Laura Ellsworth,Scott R Wagner,Jim Christiana,Lou Barletta,9
-Paul Mango,1,0,0,0,0,9
-Laura Ellsworth,,0,0,0,0,9
-Scott R Wagner,,,0,0,0,9
-Jim Christiana,,,,0,0,9
-Lou Barletta,,,,,0,9
-Total,1,0,0,0,0,9
 ,United States Senator - Republican,,Governor - Republican,,,13
 ,Jim Christiana,Lou Barletta,Scott R Wagner,Laura Ellsworth,Paul Mango,13
 Jim Christiana,0,0,1,0,0,13
@@ -79,14 +79,6 @@ Laura Ellsworth,,,0,0,0,16
 Paul Mango,,,,0,0,16
 Scott R Wagner,,,,,0,16
 Total,1,0,1,0,0,16
-,United States Senator - Republican,,Governor - Republican,,,17
-,Lou Barletta,Jim Christiana,Laura Ellsworth,Paul Mango,Scott R Wagner,17
-Lou Barletta,1,0,0,0,0,17
-Jim Christiana,,0,0,0,0,17
-Laura Ellsworth,,,0,0,0,17
-Paul Mango,,,,0,0,17
-Scott R Wagner,,,,,0,17
-Total,1,0,0,0,0,17
 ,United States Senator - Republican,,Governor - Republican,,,20
 ,Jim Christiana,Lou Barletta,Laura Ellsworth,Paul Mango,Scott R Wagner,20
 Jim Christiana,0,0,1,0,0,20
@@ -103,11 +95,3 @@ Scott R Wagner,,,0,0,0,21
 Laura Ellsworth,,,,0,0,21
 Paul Mango,,,,,0,21
 Total,1,1,1,0,0,21
-,United States Senator - Republican,,Governor - Republican,,,All
-,Jim Christiana,Lou Barletta,Scott R Wagner,Laura Ellsworth,Paul Mango,All
-Jim Christiana,2,0,7,2,1,All
-Lou Barletta,,2,1,2,0,All
-Scott R Wagner,,,2,0,0,All
-Laura Ellsworth,,,,0,0,All
-Paul Mango,,,,,1,All
-Total,12,5,10,4,2,All

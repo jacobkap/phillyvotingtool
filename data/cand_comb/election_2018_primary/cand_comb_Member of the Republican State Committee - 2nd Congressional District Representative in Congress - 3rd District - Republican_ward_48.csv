@@ -1,11 +1,11 @@
 col_1,col_2,col_3,col_4,col_5,division
-,Member Of The Republican State Committee 2nd Congressional District,,,Representative In Congress 3rd District - Republican,1
-,Denise Furey,Calvin R Tucker,Walt Vogler,Bryan E Leib,1
-Denise Furey,1,0,0,0,1
-Calvin R Tucker,,0,0,0,1
-Walt Vogler,,,0,0,1
-Bryan E Leib,,,,0,1
-Total,1,0,0,0,1
+,Representative In Congress 3rd District - Republican,Member Of The Republican State Committee 2nd Congressional District,,,All
+,Bryan E Leib,Denise Furey,Walt Vogler,Calvin R Tucker,All
+Bryan E Leib,1,48,46,45,All
+Denise Furey,,4,40,38,All
+Walt Vogler,,,5,36,All
+Calvin R Tucker,,,,4,All
+Total,64,54,52,51,All
 ,Representative In Congress 3rd District - Republican,Member Of The Republican State Committee 2nd Congressional District,,,2
 ,Bryan E Leib,Denise Furey,Walt Vogler,Calvin R Tucker,2
 Bryan E Leib,0,2,2,1,2
@@ -55,13 +55,6 @@ Walt Vogler,,1,6,6,10
 Denise Furey,,,0,6,10
 Bryan E Leib,,,,0,10
 Total,8,7,6,7,10
-,Member Of The Republican State Committee 2nd Congressional District,,,Representative In Congress 3rd District - Republican,11
-,Calvin R Tucker,Denise Furey,Walt Vogler,Bryan E Leib,11
-Calvin R Tucker,1,0,0,0,11
-Denise Furey,,0,0,0,11
-Walt Vogler,,,0,0,11
-Bryan E Leib,,,,0,11
-Total,1,0,0,0,11
 ,Member Of The Republican State Committee 2nd Congressional District,,,Representative In Congress 3rd District - Republican,12
 ,Denise Furey,Calvin R Tucker,Walt Vogler,Bryan E Leib,12
 Denise Furey,1,4,4,4,12
@@ -139,10 +132,3 @@ Calvin R Tucker,,1,3,4,22
 Walt Vogler,,,0,5,22
 Bryan E Leib,,,,0,22
 Total,8,6,5,7,22
-,Representative In Congress 3rd District - Republican,Member Of The Republican State Committee 2nd Congressional District,,,All
-,Bryan E Leib,Denise Furey,Calvin R Tucker,Walt Vogler,All
-Bryan E Leib,1,48,45,46,All
-Denise Furey,,5,38,40,All
-Calvin R Tucker,,,5,36,All
-Walt Vogler,,,,5,All
-Total,64,55,52,52,All

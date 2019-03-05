@@ -3,11 +3,11 @@ col_1,col_2,col_3,col_4,col_5,col_6,col_7,division
 ,Robert Allen Mansfield Jr,Tom Smith,Steven D Welch,David Alan Christian,Sam Rohrer,Marc A Scaringi,All
 Robert Allen Mansfield Jr,7,32,30,17,13,9,All
 Tom Smith,,6,0,0,0,0,All
-Steven D Welch,,,6,0,0,0,All
+Steven D Welch,,,5,0,0,0,All
 David Alan Christian,,,,3,0,0,All
 Sam Rohrer,,,,,6,0,All
-Marc A Scaringi,,,,,,4,All
-Total,108,38,36,20,19,13,All
+Marc A Scaringi,,,,,,3,All
+Total,108,38,35,20,19,12,All
 ,Representative In Congress 2nd District - Republican,United States Senator - Republican,,,,,2
 ,Robert Allen Mansfield Jr,David Alan Christian,Steven D Welch,Sam Rohrer,Marc A Scaringi,Tom Smith,2
 Robert Allen Mansfield Jr,0,1,2,0,0,0,2
@@ -17,15 +17,6 @@ Sam Rohrer,,,,1,0,0,2
 Marc A Scaringi,,,,,0,0,2
 Tom Smith,,,,,,0,2
 Total,3,2,2,1,0,0,2
-,United States Senator - Republican,,,,,Representative In Congress 2nd District - Republican,4
-,Steven D Welch,David Alan Christian,Marc A Scaringi,Sam Rohrer,Tom Smith,Robert Allen Mansfield Jr,4
-Steven D Welch,1,0,0,0,0,0,4
-David Alan Christian,,0,0,0,0,0,4
-Marc A Scaringi,,,0,0,0,0,4
-Sam Rohrer,,,,0,0,0,4
-Tom Smith,,,,,0,0,4
-Robert Allen Mansfield Jr,,,,,,0,4
-Total,1,0,0,0,0,0,4
 ,Representative In Congress 2nd District - Republican,United States Senator - Republican,,,,,7
 ,Robert Allen Mansfield Jr,Tom Smith,Sam Rohrer,David Alan Christian,Marc A Scaringi,Steven D Welch,7
 Robert Allen Mansfield Jr,0,2,0,0,0,0,7
@@ -143,12 +134,3 @@ Tom Smith,,,,1,0,0,20
 David Alan Christian,,,,,1,0,20
 Marc A Scaringi,,,,,,0,20
 Total,11,3,3,3,2,1,20
-,United States Senator - Republican,,,,,Representative In Congress 2nd District - Republican,21
-,Marc A Scaringi,David Alan Christian,Sam Rohrer,Steven D Welch,Tom Smith,Robert Allen Mansfield Jr,21
-Marc A Scaringi,1,0,0,0,0,0,21
-David Alan Christian,,0,0,0,0,0,21
-Sam Rohrer,,,0,0,0,0,21
-Steven D Welch,,,,0,0,0,21
-Tom Smith,,,,,0,0,21
-Robert Allen Mansfield Jr,,,,,,0,21
-Total,1,0,0,0,0,0,21

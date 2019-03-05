@@ -1,31 +1,13 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,division
 ,State Treasurer - Republican,United States Senator - Republican,,,,,All
-,Diana Irey Vaughan,David Alan Christian,Marc A Scaringi,Sam Rohrer,Steven D Welch,Tom Smith,All
-Diana Irey Vaughan,2,1,2,1,1,2,All
-David Alan Christian,,1,0,0,0,0,All
-Marc A Scaringi,,,0,0,0,0,All
-Sam Rohrer,,,,1,0,0,All
-Steven D Welch,,,,,1,0,All
-Tom Smith,,,,,,0,All
-Total,9,2,2,2,2,2,All
-,State Treasurer - Republican,United States Senator - Republican,,,,,4
-,Diana Irey Vaughan,David Alan Christian,Marc A Scaringi,Sam Rohrer,Steven D Welch,Tom Smith,4
-Diana Irey Vaughan,1,0,0,0,0,0,4
-David Alan Christian,,0,0,0,0,0,4
-Marc A Scaringi,,,0,0,0,0,4
-Sam Rohrer,,,,0,0,0,4
-Steven D Welch,,,,,0,0,4
-Tom Smith,,,,,,0,4
-Total,1,0,0,0,0,0,4
-,United States Senator - Republican,,,,,State Treasurer - Republican,6
-,Steven D Welch,David Alan Christian,Marc A Scaringi,Sam Rohrer,Tom Smith,Diana Irey Vaughan,6
-Steven D Welch,1,0,0,0,0,0,6
-David Alan Christian,,0,0,0,0,0,6
-Marc A Scaringi,,,0,0,0,0,6
-Sam Rohrer,,,,0,0,0,6
-Tom Smith,,,,,0,0,6
-Diana Irey Vaughan,,,,,,0,6
-Total,1,0,0,0,0,0,6
+,Diana Irey Vaughan,Marc A Scaringi,Sam Rohrer,Tom Smith,David Alan Christian,Steven D Welch,All
+Diana Irey Vaughan,1,2,1,2,1,1,All
+Marc A Scaringi,,0,0,0,0,0,All
+Sam Rohrer,,,1,0,0,0,All
+Tom Smith,,,,0,0,0,All
+David Alan Christian,,,,,0,0,All
+Steven D Welch,,,,,,0,All
+Total,8,2,2,2,1,1,All
 ,State Treasurer - Republican,United States Senator - Republican,,,,,9
 ,Diana Irey Vaughan,Marc A Scaringi,David Alan Christian,Sam Rohrer,Steven D Welch,Tom Smith,9
 Diana Irey Vaughan,0,1,0,0,0,0,9
@@ -62,15 +44,6 @@ David Alan Christian,,,,0,0,0,13
 Marc A Scaringi,,,,,0,0,13
 Steven D Welch,,,,,,0,13
 Total,2,1,1,0,0,0,13
-,United States Senator - Republican,,,,,State Treasurer - Republican,16
-,David Alan Christian,Marc A Scaringi,Sam Rohrer,Steven D Welch,Tom Smith,Diana Irey Vaughan,16
-David Alan Christian,1,0,0,0,0,0,16
-Marc A Scaringi,,0,0,0,0,0,16
-Sam Rohrer,,,0,0,0,0,16
-Steven D Welch,,,,0,0,0,16
-Tom Smith,,,,,0,0,16
-Diana Irey Vaughan,,,,,,0,16
-Total,1,0,0,0,0,0,16
 ,United States Senator - Republican,,,,,State Treasurer - Republican,18
 ,David Alan Christian,Marc A Scaringi,Sam Rohrer,Steven D Welch,Tom Smith,Diana Irey Vaughan,18
 David Alan Christian,0,0,0,0,0,1,18

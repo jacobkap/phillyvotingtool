@@ -1,4 +1,10 @@
 col_1,col_2,col_3,col_4,division
+,Representative In Congress 2nd District - Republican,United States Senator - Republican,,All
+,David Torres,Jim Christiana,Lou Barletta,All
+David Torres,1,10,7,All
+Jim Christiana,,1,0,All
+Lou Barletta,,,1,All
+Total,18,11,8,All
 ,Representative In Congress 2nd District - Republican,United States Senator - Republican,,1
 ,David Torres,Lou Barletta,Jim Christiana,1
 David Torres,0,1,0,1
@@ -41,12 +47,6 @@ David Torres,0,1,0,14
 Lou Barletta,,0,0,14
 Jim Christiana,,,0,14
 Total,1,1,0,14
-,United States Senator - Republican,,Representative In Congress 2nd District - Republican,16
-,Jim Christiana,Lou Barletta,David Torres,16
-Jim Christiana,1,0,0,16
-Lou Barletta,,0,0,16
-David Torres,,,0,16
-Total,1,0,0,16
 ,Representative In Congress 2nd District - Republican,United States Senator - Republican,,19
 ,David Torres,Jim Christiana,Lou Barletta,19
 David Torres,1,1,0,19
@@ -77,9 +77,3 @@ David Torres,0,1,0,23
 Jim Christiana,,0,0,23
 Lou Barletta,,,1,23
 Total,1,1,1,23
-,Representative In Congress 2nd District - Republican,United States Senator - Republican,,All
-,David Torres,Jim Christiana,Lou Barletta,All
-David Torres,1,10,7,All
-Jim Christiana,,2,0,All
-Lou Barletta,,,1,All
-Total,18,12,8,All

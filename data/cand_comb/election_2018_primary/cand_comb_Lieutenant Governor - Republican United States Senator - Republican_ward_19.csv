@@ -1,4 +1,13 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,division
+,United States Senator - Republican,,Lieutenant Governor - Republican,,,,All
+,Jim Christiana,Lou Barletta,Diana Irey Vaughan,Kathy Coder,Jeff Bartos,Peg Luksik,All
+Jim Christiana,4,0,2,2,0,0,All
+Lou Barletta,,1,1,1,1,0,All
+Diana Irey Vaughan,,,0,0,0,0,All
+Kathy Coder,,,,0,0,0,All
+Jeff Bartos,,,,,0,0,All
+Peg Luksik,,,,,,0,All
+Total,8,4,3,3,1,0,All
 ,United States Senator - Republican,,Lieutenant Governor - Republican,,,,1
 ,Jim Christiana,Lou Barletta,Diana Irey Vaughan,Jeff Bartos,Kathy Coder,Peg Luksik,1
 Jim Christiana,1,0,1,0,0,0,1
@@ -35,15 +44,6 @@ Diana Irey Vaughan,,,,0,0,0,8
 Jeff Bartos,,,,,0,0,8
 Peg Luksik,,,,,,0,8
 Total,3,1,1,0,0,0,8
-,United States Senator - Republican,,Lieutenant Governor - Republican,,,,10
-,Jim Christiana,Lou Barletta,Diana Irey Vaughan,Jeff Bartos,Kathy Coder,Peg Luksik,10
-Jim Christiana,2,0,0,0,0,0,10
-Lou Barletta,,0,0,0,0,0,10
-Diana Irey Vaughan,,,0,0,0,0,10
-Jeff Bartos,,,,0,0,0,10
-Kathy Coder,,,,,0,0,10
-Peg Luksik,,,,,,0,10
-Total,2,0,0,0,0,0,10
 ,United States Senator - Republican,,Lieutenant Governor - Republican,,,,12
 ,Jim Christiana,Lou Barletta,Kathy Coder,Diana Irey Vaughan,Jeff Bartos,Peg Luksik,12
 Jim Christiana,0,0,1,0,0,0,12
@@ -71,12 +71,3 @@ Peg Luksik,,,,0,0,0,14
 Lou Barletta,,,,,0,0,14
 Jim Christiana,,,,,,0,14
 Total,1,0,0,0,1,0,14
-,United States Senator - Republican,,Lieutenant Governor - Republican,,,,All
-,Jim Christiana,Lou Barletta,Diana Irey Vaughan,Kathy Coder,Jeff Bartos,Peg Luksik,All
-Jim Christiana,6,0,2,2,0,0,All
-Lou Barletta,,1,1,1,1,0,All
-Diana Irey Vaughan,,,0,0,0,0,All
-Kathy Coder,,,,0,0,0,All
-Jeff Bartos,,,,,0,0,All
-Peg Luksik,,,,,,0,All
-Total,10,4,3,3,1,0,All

@@ -1,13 +1,13 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,division
 ,State Treasurer - Republican,United States Senator - Republican,,,,,All
-,Diana Irey Vaughan,David Alan Christian,Marc A Scaringi,Steven D Welch,Tom Smith,Sam Rohrer,All
+,Diana Irey Vaughan,David Alan Christian,Marc A Scaringi,Tom Smith,Steven D Welch,Sam Rohrer,All
 Diana Irey Vaughan,0,2,4,4,4,1,All
 David Alan Christian,,3,0,0,0,0,All
 Marc A Scaringi,,,1,0,0,0,All
-Steven D Welch,,,,1,0,0,All
-Tom Smith,,,,,1,0,All
-Sam Rohrer,,,,,,3,All
-Total,15,5,5,5,5,4,All
+Tom Smith,,,,1,0,0,All
+Steven D Welch,,,,,0,0,All
+Sam Rohrer,,,,,,2,All
+Total,15,5,5,5,4,3,All
 ,State Treasurer - Republican,United States Senator - Republican,,,,,1
 ,Diana Irey Vaughan,David Alan Christian,Marc A Scaringi,Steven D Welch,Sam Rohrer,Tom Smith,1
 Diana Irey Vaughan,0,1,0,1,0,0,1
@@ -17,15 +17,6 @@ Steven D Welch,,,,0,0,0,1
 Sam Rohrer,,,,,0,0,1
 Tom Smith,,,,,,0,1
 Total,2,1,1,1,0,0,1
-,United States Senator - Republican,,,,,State Treasurer - Republican,2
-,Sam Rohrer,David Alan Christian,Marc A Scaringi,Steven D Welch,Tom Smith,Diana Irey Vaughan,2
-Sam Rohrer,1,0,0,0,0,0,2
-David Alan Christian,,0,0,0,0,0,2
-Marc A Scaringi,,,0,0,0,0,2
-Steven D Welch,,,,0,0,0,2
-Tom Smith,,,,,0,0,2
-Diana Irey Vaughan,,,,,,0,2
-Total,1,0,0,0,0,0,2
 ,State Treasurer - Republican,United States Senator - Republican,,,,,3
 ,Diana Irey Vaughan,Marc A Scaringi,David Alan Christian,Sam Rohrer,Steven D Welch,Tom Smith,3
 Diana Irey Vaughan,0,3,0,0,0,0,3
@@ -35,15 +26,6 @@ Sam Rohrer,,,,1,0,0,3
 Steven D Welch,,,,,0,0,3
 Tom Smith,,,,,,0,3
 Total,3,3,2,1,0,0,3
-,United States Senator - Republican,,,,,State Treasurer - Republican,4
-,Steven D Welch,David Alan Christian,Marc A Scaringi,Sam Rohrer,Tom Smith,Diana Irey Vaughan,4
-Steven D Welch,1,0,0,0,0,0,4
-David Alan Christian,,0,0,0,0,0,4
-Marc A Scaringi,,,0,0,0,0,4
-Sam Rohrer,,,,0,0,0,4
-Tom Smith,,,,,0,0,4
-Diana Irey Vaughan,,,,,,0,4
-Total,1,0,0,0,0,0,4
 ,State Treasurer - Republican,United States Senator - Republican,,,,,6
 ,Diana Irey Vaughan,Tom Smith,Steven D Welch,David Alan Christian,Marc A Scaringi,Sam Rohrer,6
 Diana Irey Vaughan,0,1,1,0,0,0,6

@@ -1,12 +1,12 @@
 col_1,col_2,col_3,col_4,col_5,col_6,division
-,Governor - Democrat,,,,Representative In Congress 2nd District - Democrat,1
-,Tom Wolf,Allyson Y Schwartz,Robert M Mccord,Katie Mcginty,Chaka Fattah,1
-Tom Wolf,19,0,0,0,0,1
-Allyson Y Schwartz,,12,0,0,0,1
-Robert M Mccord,,,11,0,0,1
-Katie Mcginty,,,,2,0,1
-Chaka Fattah,,,,,0,1
-Total,19,12,11,2,0,1
+,Representative In Congress 2nd District - Democrat,Governor - Democrat,,,,All
+,Chaka Fattah,Tom Wolf,Allyson Y Schwartz,Robert M Mccord,Katie Mcginty,All
+Chaka Fattah,34,262,173,86,20,All
+Tom Wolf,,67,0,0,0,All
+Allyson Y Schwartz,,,41,0,0,All
+Robert M Mccord,,,,10,0,All
+Katie Mcginty,,,,,6,All
+Total,575,329,214,96,26,All
 ,Representative In Congress 2nd District - Democrat,Governor - Democrat,,,,2
 ,Chaka Fattah,Tom Wolf,Allyson Y Schwartz,Robert M Mccord,Katie Mcginty,2
 Chaka Fattah,0,31,16,14,1,2
@@ -111,11 +111,3 @@ Allyson Y Schwartz,,,0,0,0,14
 Robert M Mccord,,,,0,0,14
 Katie Mcginty,,,,,0,14
 Total,31,19,7,4,1,14
-,Representative In Congress 2nd District - Democrat,Governor - Democrat,,,,All
-,Chaka Fattah,Tom Wolf,Allyson Y Schwartz,Robert M Mccord,Katie Mcginty,All
-Chaka Fattah,34,262,173,86,20,All
-Tom Wolf,,86,0,0,0,All
-Allyson Y Schwartz,,,53,0,0,All
-Robert M Mccord,,,,21,0,All
-Katie Mcginty,,,,,8,All
-Total,575,348,226,107,28,All

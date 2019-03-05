@@ -1,4 +1,12 @@
 col_1,col_2,col_3,col_4,col_5,col_6,division
+,Representative In Congress 2nd District - Republican,Lieutenant Governor - Republican,,,,All
+,David Torres,Kathy Coder,Diana Irey Vaughan,Jeff Bartos,Peg Luksik,All
+David Torres,5,22,16,6,5,All
+Kathy Coder,,2,0,0,0,All
+Diana Irey Vaughan,,,2,0,0,All
+Jeff Bartos,,,,1,0,All
+Peg Luksik,,,,,1,All
+Total,54,24,18,7,6,All
 ,Representative In Congress 2nd District - Republican,Lieutenant Governor - Republican,,,,1
 ,David Torres,Kathy Coder,Diana Irey Vaughan,Peg Luksik,Jeff Bartos,1
 David Torres,1,2,1,1,0,1
@@ -143,14 +151,6 @@ Peg Luksik,,,0,0,0,20
 Diana Irey Vaughan,,,,0,0,20
 Jeff Bartos,,,,,0,20
 Total,2,1,1,0,0,20
-,Lieutenant Governor - Republican,,,,Representative In Congress 2nd District - Republican,21
-,Diana Irey Vaughan,Jeff Bartos,Kathy Coder,Peg Luksik,David Torres,21
-Diana Irey Vaughan,1,0,0,0,0,21
-Jeff Bartos,,0,0,0,0,21
-Kathy Coder,,,0,0,0,21
-Peg Luksik,,,,0,0,21
-David Torres,,,,,0,21
-Total,1,0,0,0,0,21
 ,Representative In Congress 2nd District - Republican,Lieutenant Governor - Republican,,,,22
 ,David Torres,Jeff Bartos,Diana Irey Vaughan,Kathy Coder,Peg Luksik,22
 David Torres,0,1,0,0,0,22
@@ -175,11 +175,3 @@ Jeff Bartos,,,0,0,0,24
 Kathy Coder,,,,0,0,24
 Peg Luksik,,,,,0,24
 Total,1,1,0,0,0,24
-,Representative In Congress 2nd District - Republican,Lieutenant Governor - Republican,,,,All
-,David Torres,Kathy Coder,Diana Irey Vaughan,Jeff Bartos,Peg Luksik,All
-David Torres,5,22,16,6,5,All
-Kathy Coder,,2,0,0,0,All
-Diana Irey Vaughan,,,3,0,0,All
-Jeff Bartos,,,,1,0,All
-Peg Luksik,,,,,1,All
-Total,54,24,19,7,6,All

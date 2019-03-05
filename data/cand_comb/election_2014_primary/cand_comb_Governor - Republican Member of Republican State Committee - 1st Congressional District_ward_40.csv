@@ -1,4 +1,13 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,division
+,Governor - Republican,,Member Of - Republican State Committee 1st Congressional District,,,,All
+,Tom Corbett,Robert Guzzardi,Annie Havey,Monika A Czapla,Jimmy Dintino,Christopher M Vogler,All
+Tom Corbett,11,0,68,50,19,16,All
+Robert Guzzardi,,0,1,1,0,0,All
+Annie Havey,,,5,51,19,19,All
+Monika A Czapla,,,,3,18,17,All
+Jimmy Dintino,,,,,1,17,All
+Christopher M Vogler,,,,,,0,All
+Total,85,1,80,59,22,20,All
 ,Governor - Republican,,Member Of - Republican State Committee 1st Congressional District,,,,1
 ,Tom Corbett,Robert Guzzardi,Annie Havey,Christopher M Vogler,Jimmy Dintino,Monika A Czapla,1
 Tom Corbett,1,0,1,0,0,0,1
@@ -62,15 +71,6 @@ Jimmy Dintino,,,,0,0,0,12
 Tom Corbett,,,,,0,0,12
 Robert Guzzardi,,,,,,0,12
 Total,1,1,0,0,1,0,12
-,Member Of - Republican State Committee 1st Congressional District,,,,Governor - Republican,,15
-,Jimmy Dintino,Annie Havey,Christopher M Vogler,Monika A Czapla,Robert Guzzardi,Tom Corbett,15
-Jimmy Dintino,1,0,0,0,0,0,15
-Annie Havey,,0,0,0,0,0,15
-Christopher M Vogler,,,0,0,0,0,15
-Monika A Czapla,,,,0,0,0,15
-Robert Guzzardi,,,,,0,0,15
-Tom Corbett,,,,,,0,15
-Total,1,0,0,0,0,0,15
 ,Governor - Republican,,Member Of - Republican State Committee 1st Congressional District,,,,17
 ,Tom Corbett,Robert Guzzardi,Annie Havey,Monika A Czapla,Christopher M Vogler,Jimmy Dintino,17
 Tom Corbett,0,0,4,3,2,2,17
@@ -80,15 +80,6 @@ Monika A Czapla,,,,0,1,1,17
 Christopher M Vogler,,,,,0,2,17
 Jimmy Dintino,,,,,,0,17
 Total,6,0,4,3,2,2,17
-,Member Of - Republican State Committee 1st Congressional District,,,,Governor - Republican,,18
-,Annie Havey,Christopher M Vogler,Jimmy Dintino,Monika A Czapla,Robert Guzzardi,Tom Corbett,18
-Annie Havey,1,0,0,0,0,0,18
-Christopher M Vogler,,0,0,0,0,0,18
-Jimmy Dintino,,,0,0,0,0,18
-Monika A Czapla,,,,0,0,0,18
-Robert Guzzardi,,,,,0,0,18
-Tom Corbett,,,,,,0,18
-Total,1,0,0,0,0,0,18
 ,Member Of - Republican State Committee 1st Congressional District,,,,Governor - Republican,,19
 ,Annie Havey,Monika A Czapla,Christopher M Vogler,Jimmy Dintino,Tom Corbett,Robert Guzzardi,19
 Annie Havey,0,3,2,2,3,0,19
@@ -107,15 +98,6 @@ Christopher M Vogler,,,,0,0,0,20
 Jimmy Dintino,,,,,0,0,20
 Monika A Czapla,,,,,,0,20
 Total,2,0,1,0,0,0,20
-,Governor - Republican,,Member Of - Republican State Committee 1st Congressional District,,,,21
-,Tom Corbett,Robert Guzzardi,Annie Havey,Christopher M Vogler,Jimmy Dintino,Monika A Czapla,21
-Tom Corbett,1,0,0,0,0,0,21
-Robert Guzzardi,,0,0,0,0,0,21
-Annie Havey,,,0,0,0,0,21
-Christopher M Vogler,,,,0,0,0,21
-Jimmy Dintino,,,,,0,0,21
-Monika A Czapla,,,,,,0,21
-Total,1,0,0,0,0,0,21
 ,Member Of - Republican State Committee 1st Congressional District,,,,Governor - Republican,,22
 ,Annie Havey,Christopher M Vogler,Jimmy Dintino,Monika A Czapla,Tom Corbett,Robert Guzzardi,22
 Annie Havey,1,0,0,0,3,0,22
@@ -197,15 +179,6 @@ Jimmy Dintino,,,,0,0,0,33
 Tom Corbett,,,,,0,0,33
 Robert Guzzardi,,,,,,0,33
 Total,2,1,1,0,2,0,33
-,Member Of - Republican State Committee 1st Congressional District,,,,Governor - Republican,,34
-,Jimmy Dintino,Annie Havey,Christopher M Vogler,Monika A Czapla,Robert Guzzardi,Tom Corbett,34
-Jimmy Dintino,1,0,0,0,0,0,34
-Annie Havey,,0,0,0,0,0,34
-Christopher M Vogler,,,0,0,0,0,34
-Monika A Czapla,,,,0,0,0,34
-Robert Guzzardi,,,,,0,0,34
-Tom Corbett,,,,,,0,34
-Total,1,0,0,0,0,0,34
 ,Member Of - Republican State Committee 1st Congressional District,,,,Governor - Republican,,35
 ,Annie Havey,Christopher M Vogler,Jimmy Dintino,Monika A Czapla,Tom Corbett,Robert Guzzardi,35
 Annie Havey,0,0,0,0,2,0,35
@@ -278,15 +251,6 @@ Christopher M Vogler,,,,0,0,0,43
 Tom Corbett,,,,,0,0,43
 Robert Guzzardi,,,,,,0,43
 Total,3,2,1,0,2,0,43
-,Member Of - Republican State Committee 1st Congressional District,,,,Governor - Republican,,45
-,Annie Havey,Christopher M Vogler,Jimmy Dintino,Monika A Czapla,Robert Guzzardi,Tom Corbett,45
-Annie Havey,1,0,0,0,0,0,45
-Christopher M Vogler,,0,0,0,0,0,45
-Jimmy Dintino,,,0,0,0,0,45
-Monika A Czapla,,,,0,0,0,45
-Robert Guzzardi,,,,,0,0,45
-Tom Corbett,,,,,,0,45
-Total,1,0,0,0,0,0,45
 ,Governor - Republican,,Member Of - Republican State Committee 1st Congressional District,,,,46
 ,Tom Corbett,Robert Guzzardi,Annie Havey,Monika A Czapla,Christopher M Vogler,Jimmy Dintino,46
 Tom Corbett,3,0,4,4,1,1,46
@@ -314,15 +278,6 @@ Annie Havey,,,,0,0,0,49
 Christopher M Vogler,,,,,0,0,49
 Jimmy Dintino,,,,,,0,49
 Total,7,0,6,5,0,0,49
-,Governor - Republican,,Member Of - Republican State Committee 1st Congressional District,,,,50
-,Tom Corbett,Robert Guzzardi,Annie Havey,Christopher M Vogler,Jimmy Dintino,Monika A Czapla,50
-Tom Corbett,1,0,0,0,0,0,50
-Robert Guzzardi,,0,0,0,0,0,50
-Annie Havey,,,0,0,0,0,50
-Christopher M Vogler,,,,0,0,0,50
-Jimmy Dintino,,,,,0,0,50
-Monika A Czapla,,,,,,0,50
-Total,1,0,0,0,0,0,50
 ,Member Of - Republican State Committee 1st Congressional District,,,,Governor - Republican,,51
 ,Annie Havey,Christopher M Vogler,Jimmy Dintino,Monika A Czapla,Tom Corbett,Robert Guzzardi,51
 Annie Havey,0,0,0,0,1,0,51
@@ -332,12 +287,3 @@ Monika A Czapla,,,,0,0,0,51
 Tom Corbett,,,,,0,0,51
 Robert Guzzardi,,,,,,0,51
 Total,1,0,0,0,1,0,51
-,Governor - Republican,,Member Of - Republican State Committee 1st Congressional District,,,,All
-,Tom Corbett,Robert Guzzardi,Annie Havey,Monika A Czapla,Jimmy Dintino,Christopher M Vogler,All
-Tom Corbett,13,0,68,50,19,16,All
-Robert Guzzardi,,0,1,1,0,0,All
-Annie Havey,,,7,51,19,19,All
-Monika A Czapla,,,,3,18,17,All
-Jimmy Dintino,,,,,3,17,All
-Christopher M Vogler,,,,,,0,All
-Total,87,1,82,59,24,20,All

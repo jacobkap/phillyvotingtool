@@ -1,56 +1,17 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10,col_11,division
-,United States Senator - Republican,,,,,Delegate To The Republican National Convention 2nd District,,,,,All
-,Sam Rohrer,Marc A Scaringi,David Alan Christian,Steven D Welch,Tom Smith,Calvin R Tucker,Lewis Harris Jr,Walter F Vogler Jr,Adam A Lang,Vahan H Gureghian,All
-Sam Rohrer,6,0,0,0,0,1,0,0,1,1,All
-Marc A Scaringi,,4,0,0,0,2,1,1,0,0,All
-David Alan Christian,,,4,0,0,0,0,0,0,0,All
-Steven D Welch,,,,1,0,0,0,1,0,0,All
-Tom Smith,,,,,2,0,0,0,0,0,All
-Calvin R Tucker,,,,,,0,1,1,1,1,All
-Lewis Harris Jr,,,,,,,1,1,0,0,All
-Walter F Vogler Jr,,,,,,,,0,0,0,All
-Adam A Lang,,,,,,,,,0,1,All
-Vahan H Gureghian,,,,,,,,,,0,All
-Total,7,6,4,2,2,3,2,2,1,1,All
-,United States Senator - Republican,,,,,Delegate To The Republican National Convention 2nd District,,,,,1
-,David Alan Christian,Sam Rohrer,Marc A Scaringi,Steven D Welch,Tom Smith,Adam A Lang,Calvin R Tucker,Lewis Harris Jr,Vahan H Gureghian,Walter F Vogler Jr,1
-David Alan Christian,3,0,0,0,0,0,0,0,0,0,1
-Sam Rohrer,,2,0,0,0,0,0,0,0,0,1
-Marc A Scaringi,,,1,0,0,0,0,0,0,0,1
-Steven D Welch,,,,1,0,0,0,0,0,0,1
-Tom Smith,,,,,1,0,0,0,0,0,1
-Adam A Lang,,,,,,0,0,0,0,0,1
-Calvin R Tucker,,,,,,,0,0,0,0,1
-Lewis Harris Jr,,,,,,,,0,0,0,1
-Vahan H Gureghian,,,,,,,,,0,0,1
-Walter F Vogler Jr,,,,,,,,,,0,1
-Total,3,2,1,1,1,0,0,0,0,0,1
-,United States Senator - Republican,,,,,Delegate To The Republican National Convention 2nd District,,,,,2
-,Marc A Scaringi,Sam Rohrer,David Alan Christian,Steven D Welch,Tom Smith,Adam A Lang,Calvin R Tucker,Lewis Harris Jr,Vahan H Gureghian,Walter F Vogler Jr,2
-Marc A Scaringi,1,0,0,0,0,0,0,0,0,0,2
-Sam Rohrer,,1,0,0,0,0,0,0,0,0,2
-David Alan Christian,,,0,0,0,0,0,0,0,0,2
-Steven D Welch,,,,0,0,0,0,0,0,0,2
-Tom Smith,,,,,0,0,0,0,0,0,2
-Adam A Lang,,,,,,0,0,0,0,0,2
-Calvin R Tucker,,,,,,,0,0,0,0,2
-Lewis Harris Jr,,,,,,,,0,0,0,2
-Vahan H Gureghian,,,,,,,,,0,0,2
-Walter F Vogler Jr,,,,,,,,,,0,2
-Total,1,1,0,0,0,0,0,0,0,0,2
-,United States Senator - Republican,,,,,Delegate To The Republican National Convention 2nd District,,,,,6
-,Marc A Scaringi,Tom Smith,David Alan Christian,Sam Rohrer,Steven D Welch,Adam A Lang,Calvin R Tucker,Lewis Harris Jr,Vahan H Gureghian,Walter F Vogler Jr,6
-Marc A Scaringi,1,0,0,0,0,0,0,0,0,0,6
-Tom Smith,,1,0,0,0,0,0,0,0,0,6
-David Alan Christian,,,0,0,0,0,0,0,0,0,6
-Sam Rohrer,,,,0,0,0,0,0,0,0,6
-Steven D Welch,,,,,0,0,0,0,0,0,6
-Adam A Lang,,,,,,0,0,0,0,0,6
-Calvin R Tucker,,,,,,,0,0,0,0,6
-Lewis Harris Jr,,,,,,,,0,0,0,6
-Vahan H Gureghian,,,,,,,,,0,0,6
-Walter F Vogler Jr,,,,,,,,,,0,6
-Total,1,1,0,0,0,0,0,0,0,0,6
+,Delegate To The Republican National Convention 2nd District,,,,,United States Senator - Republican,,,,,All
+,Calvin R Tucker,Lewis Harris Jr,Walter F Vogler Jr,Adam A Lang,Vahan H Gureghian,Marc A Scaringi,Sam Rohrer,Steven D Welch,David Alan Christian,Tom Smith,All
+Calvin R Tucker,0,1,1,1,1,2,1,0,0,0,All
+Lewis Harris Jr,,1,1,0,0,1,0,0,0,0,All
+Walter F Vogler Jr,,,0,0,0,1,0,1,0,0,All
+Adam A Lang,,,,0,1,0,1,0,0,0,All
+Vahan H Gureghian,,,,,0,0,1,0,0,0,All
+Marc A Scaringi,,,,,,0,0,0,0,0,All
+Sam Rohrer,,,,,,,0,0,0,0,All
+Steven D Welch,,,,,,,,0,0,0,All
+David Alan Christian,,,,,,,,,0,0,All
+Tom Smith,,,,,,,,,,0,All
+Total,3,2,2,1,1,2,1,1,0,0,All
 ,Delegate To The Republican National Convention 2nd District,,,,,United States Senator - Republican,,,,,7
 ,Calvin R Tucker,Lewis Harris Jr,Walter F Vogler Jr,Adam A Lang,Vahan H Gureghian,Marc A Scaringi,Sam Rohrer,Steven D Welch,David Alan Christian,Tom Smith,7
 Calvin R Tucker,0,1,1,1,1,2,1,0,0,0,7
@@ -64,29 +25,3 @@ Steven D Welch,,,,,,,,0,0,0,7
 David Alan Christian,,,,,,,,,0,0,7
 Tom Smith,,,,,,,,,,0,7
 Total,3,2,2,1,1,2,1,1,0,0,7
-,United States Senator - Republican,,,,,Delegate To The Republican National Convention 2nd District,,,,,10
-,Sam Rohrer,Marc A Scaringi,David Alan Christian,Steven D Welch,Tom Smith,Adam A Lang,Calvin R Tucker,Lewis Harris Jr,Vahan H Gureghian,Walter F Vogler Jr,10
-Sam Rohrer,2,0,0,0,0,0,0,0,0,0,10
-Marc A Scaringi,,1,0,0,0,0,0,0,0,0,10
-David Alan Christian,,,0,0,0,0,0,0,0,0,10
-Steven D Welch,,,,0,0,0,0,0,0,0,10
-Tom Smith,,,,,0,0,0,0,0,0,10
-Adam A Lang,,,,,,0,0,0,0,0,10
-Calvin R Tucker,,,,,,,0,0,0,0,10
-Lewis Harris Jr,,,,,,,,0,0,0,10
-Vahan H Gureghian,,,,,,,,,0,0,10
-Walter F Vogler Jr,,,,,,,,,,0,10
-Total,2,1,0,0,0,0,0,0,0,0,10
-,United States Senator - Republican,,,,,Delegate To The Republican National Convention 2nd District,,,,,11
-,David Alan Christian,Sam Rohrer,Marc A Scaringi,Steven D Welch,Tom Smith,Adam A Lang,Calvin R Tucker,Lewis Harris Jr,Vahan H Gureghian,Walter F Vogler Jr,11
-David Alan Christian,1,0,0,0,0,0,0,0,0,0,11
-Sam Rohrer,,1,0,0,0,0,0,0,0,0,11
-Marc A Scaringi,,,0,0,0,0,0,0,0,0,11
-Steven D Welch,,,,0,0,0,0,0,0,0,11
-Tom Smith,,,,,0,0,0,0,0,0,11
-Adam A Lang,,,,,,0,0,0,0,0,11
-Calvin R Tucker,,,,,,,0,0,0,0,11
-Lewis Harris Jr,,,,,,,,0,0,0,11
-Vahan H Gureghian,,,,,,,,,0,0,11
-Walter F Vogler Jr,,,,,,,,,,0,11
-Total,1,1,0,0,0,0,0,0,0,0,11

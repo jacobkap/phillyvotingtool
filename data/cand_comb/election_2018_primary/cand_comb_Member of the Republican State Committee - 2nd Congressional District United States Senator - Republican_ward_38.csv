@@ -1,12 +1,12 @@
 col_1,col_2,col_3,col_4,col_5,col_6,division
-,Member Of The Republican State Committee 2nd Congressional District,,,United States Senator - Republican,,2
-,Denise Furey,Calvin R Tucker,Walt Vogler,Jim Christiana,Lou Barletta,2
-Denise Furey,1,0,0,0,0,2
-Calvin R Tucker,,0,0,0,0,2
-Walt Vogler,,,0,0,0,2
-Jim Christiana,,,,0,0,2
-Lou Barletta,,,,,0,2
-Total,1,0,0,0,0,2
+,Member Of The Republican State Committee 2nd Congressional District,,,United States Senator - Republican,,All
+,Denise Furey,Walt Vogler,Calvin R Tucker,Lou Barletta,Jim Christiana,All
+Denise Furey,0,51,49,36,29,All
+Walt Vogler,,0,51,31,31,All
+Calvin R Tucker,,,1,26,30,All
+Lou Barletta,,,,3,0,All
+Jim Christiana,,,,,5,All
+Total,69,66,60,49,46,All
 ,Member Of The Republican State Committee 2nd Congressional District,,,United States Senator - Republican,,9
 ,Calvin R Tucker,Denise Furey,Walt Vogler,Jim Christiana,Lou Barletta,9
 Calvin R Tucker,0,1,1,2,1,9
@@ -103,11 +103,3 @@ Calvin R Tucker,,,0,3,3,20
 Lou Barletta,,,,1,0,20
 Jim Christiana,,,,,1,20
 Total,8,8,7,6,4,20
-,Member Of The Republican State Committee 2nd Congressional District,,,United States Senator - Republican,,All
-,Denise Furey,Walt Vogler,Calvin R Tucker,Lou Barletta,Jim Christiana,All
-Denise Furey,1,51,49,36,29,All
-Walt Vogler,,0,51,31,31,All
-Calvin R Tucker,,,1,26,30,All
-Lou Barletta,,,,3,0,All
-Jim Christiana,,,,,5,All
-Total,70,66,60,49,46,All

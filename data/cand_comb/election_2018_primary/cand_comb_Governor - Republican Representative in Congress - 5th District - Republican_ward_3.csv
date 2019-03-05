@@ -1,60 +1,12 @@
 col_1,col_2,col_3,col_4,col_5,col_6,division
-,Governor - Republican,,,Representative In Congress 5th District - Republican,,3
-,Laura Ellsworth,Paul Mango,Scott R Wagner,Paul D Addis,Pearl Kim,3
-Laura Ellsworth,1,0,0,0,0,3
-Paul Mango,,0,0,0,0,3
-Scott R Wagner,,,0,0,0,3
-Paul D Addis,,,,0,0,3
-Pearl Kim,,,,,0,3
-Total,1,0,0,0,0,3
-,Governor - Republican,,,Representative In Congress 5th District - Republican,,6
-,Scott R Wagner,Laura Ellsworth,Paul Mango,Paul D Addis,Pearl Kim,6
-Scott R Wagner,1,0,0,0,0,6
-Laura Ellsworth,,0,0,0,0,6
-Paul Mango,,,0,0,0,6
-Paul D Addis,,,,0,0,6
-Pearl Kim,,,,,0,6
-Total,1,0,0,0,0,6
-,Governor - Republican,,,Representative In Congress 5th District - Republican,,9
-,Scott R Wagner,Laura Ellsworth,Paul Mango,Paul D Addis,Pearl Kim,9
-Scott R Wagner,2,0,0,0,0,9
-Laura Ellsworth,,0,0,0,0,9
-Paul Mango,,,0,0,0,9
-Paul D Addis,,,,0,0,9
-Pearl Kim,,,,,0,9
-Total,2,0,0,0,0,9
-,Governor - Republican,,,Representative In Congress 5th District - Republican,,11
-,Paul Mango,Laura Ellsworth,Scott R Wagner,Paul D Addis,Pearl Kim,11
-Paul Mango,1,0,0,0,0,11
-Laura Ellsworth,,0,0,0,0,11
-Scott R Wagner,,,0,0,0,11
-Paul D Addis,,,,0,0,11
-Pearl Kim,,,,,0,11
-Total,1,0,0,0,0,11
-,Governor - Republican,,,Representative In Congress 5th District - Republican,,14
-,Paul Mango,Laura Ellsworth,Scott R Wagner,Paul D Addis,Pearl Kim,14
-Paul Mango,1,0,0,0,0,14
-Laura Ellsworth,,0,0,0,0,14
-Scott R Wagner,,,0,0,0,14
-Paul D Addis,,,,0,0,14
-Pearl Kim,,,,,0,14
-Total,1,0,0,0,0,14
-,Governor - Republican,,,Representative In Congress 5th District - Republican,,18
-,Paul Mango,Laura Ellsworth,Scott R Wagner,Paul D Addis,Pearl Kim,18
-Paul Mango,1,0,0,0,0,18
-Laura Ellsworth,,0,0,0,0,18
-Scott R Wagner,,,0,0,0,18
-Paul D Addis,,,,0,0,18
-Pearl Kim,,,,,0,18
-Total,1,0,0,0,0,18
-,Governor - Republican,,,Representative In Congress 5th District - Republican,,20
-,Laura Ellsworth,Paul Mango,Scott R Wagner,Paul D Addis,Pearl Kim,20
-Laura Ellsworth,1,0,0,0,0,20
-Paul Mango,,0,0,0,0,20
-Scott R Wagner,,,0,0,0,20
-Paul D Addis,,,,0,0,20
-Pearl Kim,,,,,0,20
-Total,1,0,0,0,0,20
+,Representative In Congress 5th District - Republican,,Governor - Republican,,,All
+,Paul D Addis,Pearl Kim,Scott R Wagner,Paul Mango,Laura Ellsworth,All
+Paul D Addis,0,0,2,0,0,All
+Pearl Kim,,0,0,0,0,All
+Scott R Wagner,,,0,0,0,All
+Paul Mango,,,,1,0,All
+Laura Ellsworth,,,,,0,All
+Total,2,0,2,1,0,All
 ,Representative In Congress 5th District - Republican,,Governor - Republican,,,21
 ,Paul D Addis,Pearl Kim,Paul Mango,Scott R Wagner,Laura Ellsworth,21
 Paul D Addis,0,0,0,1,0,21
@@ -71,11 +23,3 @@ Scott R Wagner,,,0,0,0,22
 Laura Ellsworth,,,,0,0,22
 Paul Mango,,,,,0,22
 Total,1,0,1,0,0,22
-,Governor - Republican,,,Representative In Congress 5th District - Republican,,All
-,Scott R Wagner,Paul Mango,Laura Ellsworth,Paul D Addis,Pearl Kim,All
-Scott R Wagner,3,0,0,2,0,All
-Paul Mango,,4,0,0,0,All
-Laura Ellsworth,,,2,0,0,All
-Paul D Addis,,,,0,0,All
-Pearl Kim,,,,,0,All
-Total,5,4,2,2,0,All

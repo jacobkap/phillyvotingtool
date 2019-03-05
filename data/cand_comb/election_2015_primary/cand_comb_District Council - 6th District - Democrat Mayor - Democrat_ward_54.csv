@@ -1,64 +1,14 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,division
-,Mayor - Democrat,,,,,,District Council 6th District - Democrat,1
-,Jim Kenney,Anthony Hardy Williams,Lynne M Abraham,Nelson Diaz,Doug Oliver,T Milton Street Sr,Bobby Henon,1
-Jim Kenney,43,0,0,0,0,0,0,1
-Anthony Hardy Williams,,17,0,0,0,0,0,1
-Lynne M Abraham,,,11,0,0,0,0,1
-Nelson Diaz,,,,4,0,0,0,1
-Doug Oliver,,,,,3,0,0,1
-T Milton Street Sr,,,,,,0,0,1
-Bobby Henon,,,,,,,0,1
-Total,43,17,11,4,3,0,0,1
-,Mayor - Democrat,,,,,,District Council 6th District - Democrat,2
-,Jim Kenney,Anthony Hardy Williams,Doug Oliver,Lynne M Abraham,Nelson Diaz,T Milton Street Sr,Bobby Henon,2
-Jim Kenney,57,0,0,0,0,0,0,2
-Anthony Hardy Williams,,21,0,0,0,0,0,2
-Doug Oliver,,,8,0,0,0,0,2
-Lynne M Abraham,,,,5,0,0,0,2
-Nelson Diaz,,,,,4,0,0,2
-T Milton Street Sr,,,,,,4,0,2
-Bobby Henon,,,,,,,0,2
-Total,57,21,8,5,4,4,0,2
-,Mayor - Democrat,,,,,,District Council 6th District - Democrat,3
-,Jim Kenney,Anthony Hardy Williams,Lynne M Abraham,Nelson Diaz,T Milton Street Sr,Doug Oliver,Bobby Henon,3
-Jim Kenney,34,0,0,0,0,0,0,3
-Anthony Hardy Williams,,9,0,0,0,0,0,3
-Lynne M Abraham,,,6,0,0,0,0,3
-Nelson Diaz,,,,6,0,0,0,3
-T Milton Street Sr,,,,,2,0,0,3
-Doug Oliver,,,,,,1,0,3
-Bobby Henon,,,,,,,0,3
-Total,34,9,6,6,2,1,0,3
-,Mayor - Democrat,,,,,,District Council 6th District - Democrat,4
-,Jim Kenney,Anthony Hardy Williams,Nelson Diaz,Lynne M Abraham,Doug Oliver,T Milton Street Sr,Bobby Henon,4
-Jim Kenney,39,0,0,0,0,0,0,4
-Anthony Hardy Williams,,17,0,0,0,0,0,4
-Nelson Diaz,,,8,0,0,0,0,4
-Lynne M Abraham,,,,7,0,0,0,4
-Doug Oliver,,,,,5,0,0,4
-T Milton Street Sr,,,,,,0,0,4
-Bobby Henon,,,,,,,0,4
-Total,39,17,8,7,5,0,0,4
-,Mayor - Democrat,,,,,,District Council 6th District - Democrat,5
-,Jim Kenney,Anthony Hardy Williams,Lynne M Abraham,Nelson Diaz,Doug Oliver,T Milton Street Sr,Bobby Henon,5
-Jim Kenney,33,0,0,0,0,0,0,5
-Anthony Hardy Williams,,22,0,0,0,0,0,5
-Lynne M Abraham,,,6,0,0,0,0,5
-Nelson Diaz,,,,3,0,0,0,5
-Doug Oliver,,,,,1,0,0,5
-T Milton Street Sr,,,,,,0,0,5
-Bobby Henon,,,,,,,0,5
-Total,33,22,6,3,1,0,0,5
-,Mayor - Democrat,,,,,,District Council 6th District - Democrat,6
-,Jim Kenney,Anthony Hardy Williams,Lynne M Abraham,Doug Oliver,Nelson Diaz,T Milton Street Sr,Bobby Henon,6
-Jim Kenney,32,0,0,0,0,0,0,6
-Anthony Hardy Williams,,15,0,0,0,0,0,6
-Lynne M Abraham,,,14,0,0,0,0,6
-Doug Oliver,,,,3,0,0,0,6
-Nelson Diaz,,,,,3,0,0,6
-T Milton Street Sr,,,,,,2,0,6
-Bobby Henon,,,,,,,0,6
-Total,32,15,14,3,3,2,0,6
+,District Council 6th District - Democrat,Mayor - Democrat,,,,,,All
+,Bobby Henon,Jim Kenney,Lynne M Abraham,Anthony Hardy Williams,Nelson Diaz,Doug Oliver,T Milton Street Sr,All
+Bobby Henon,7,352,114,108,28,28,8,All
+Jim Kenney,,263,0,0,0,0,0,All
+Lynne M Abraham,,,86,0,0,0,0,All
+Anthony Hardy Williams,,,,68,0,0,0,All
+Nelson Diaz,,,,,23,0,0,All
+Doug Oliver,,,,,,13,0,All
+T Milton Street Sr,,,,,,,6,All
+Total,645,615,200,176,51,41,14,All
 ,Mayor - Democrat,,,,,,District Council 6th District - Democrat,7
 ,Jim Kenney,Anthony Hardy Williams,Lynne M Abraham,Nelson Diaz,Doug Oliver,T Milton Street Sr,Bobby Henon,7
 Jim Kenney,17,0,0,0,0,0,21,7
@@ -219,13 +169,3 @@ Doug Oliver,,,,,1,0,1,22
 T Milton Street Sr,,,,,,0,1,22
 Bobby Henon,,,,,,,1,22
 Total,37,10,4,3,2,1,32,22
-,Mayor - Democrat,,,,,,District Council 6th District - Democrat,All
-,Jim Kenney,Anthony Hardy Williams,Lynne M Abraham,Nelson Diaz,Doug Oliver,T Milton Street Sr,Bobby Henon,All
-Jim Kenney,501,0,0,0,0,0,352,All
-Anthony Hardy Williams,,169,0,0,0,0,108,All
-Lynne M Abraham,,,135,0,0,0,114,All
-Nelson Diaz,,,,51,0,0,28,All
-Doug Oliver,,,,,34,0,28,All
-T Milton Street Sr,,,,,,14,8,All
-Bobby Henon,,,,,,,7,All
-Total,853,277,249,79,62,22,645,All

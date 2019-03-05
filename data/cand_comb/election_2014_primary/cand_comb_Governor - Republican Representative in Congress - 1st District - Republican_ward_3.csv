@@ -1,16 +1,16 @@
 col_1,col_2,col_3,col_4,division
+,Governor - Republican,,Representative In Congress 1st District - Republican,All
+,Tom Corbett,Robert Guzzardi,Megan Rath,All
+Tom Corbett,1,0,13,All
+Robert Guzzardi,,0,0,All
+Megan Rath,,,0,All
+Total,14,0,13,All
 ,Governor - Republican,,Representative In Congress 1st District - Republican,2
 ,Tom Corbett,Robert Guzzardi,Megan Rath,2
 Tom Corbett,1,0,1,2
 Robert Guzzardi,,0,0,2
 Megan Rath,,,0,2
 Total,2,0,1,2
-,Representative In Congress 1st District - Republican,Governor - Republican,,3
-,Megan Rath,Robert Guzzardi,Tom Corbett,3
-Megan Rath,1,0,0,3
-Robert Guzzardi,,0,0,3
-Tom Corbett,,,0,3
-Total,1,0,0,3
 ,Representative In Congress 1st District - Republican,Governor - Republican,,4
 ,Megan Rath,Tom Corbett,Robert Guzzardi,4
 Megan Rath,0,1,0,4
@@ -41,12 +41,6 @@ Megan Rath,0,2,0,14
 Tom Corbett,,0,0,14
 Robert Guzzardi,,,0,14
 Total,2,2,0,14
-,Representative In Congress 1st District - Republican,Governor - Republican,,16
-,Megan Rath,Robert Guzzardi,Tom Corbett,16
-Megan Rath,1,0,0,16
-Robert Guzzardi,,0,0,16
-Tom Corbett,,,0,16
-Total,1,0,0,16
 ,Representative In Congress 1st District - Republican,Governor - Republican,,18
 ,Megan Rath,Tom Corbett,Robert Guzzardi,18
 Megan Rath,0,1,0,18
@@ -65,9 +59,3 @@ Megan Rath,0,1,0,22
 Tom Corbett,,0,0,22
 Robert Guzzardi,,,0,22
 Total,1,1,0,22
-,Representative In Congress 1st District - Republican,Governor - Republican,,All
-,Megan Rath,Tom Corbett,Robert Guzzardi,All
-Megan Rath,2,13,0,All
-Tom Corbett,,1,0,All
-Robert Guzzardi,,,0,All
-Total,15,14,0,All

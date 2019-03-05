@@ -1,4 +1,9 @@
 col_1,col_2,col_3,division
+,District Attorney - Republican,Judge Of The Superior Court - Republican,All
+,Daniel A Alvarez,Vic Stabile,All
+Daniel A Alvarez,2,40,All
+Vic Stabile,,2,All
+Total,42,42,All
 ,Judge Of The Superior Court - Republican,District Attorney - Republican,1
 ,Vic Stabile,Daniel A Alvarez,1
 Vic Stabile,1,4,1
@@ -49,11 +54,6 @@ Total,6,6,11
 Daniel A Alvarez,0,4,14
 Vic Stabile,,0,14
 Total,4,4,14
-,Judge Of The Superior Court - Republican,District Attorney - Republican,15
-,Vic Stabile,Daniel A Alvarez,15
-Vic Stabile,1,0,15
-Daniel A Alvarez,,0,15
-Total,1,0,15
 ,District Attorney - Republican,Judge Of The Superior Court - Republican,23
 ,Daniel A Alvarez,Vic Stabile,23
 Daniel A Alvarez,0,1,23
@@ -69,8 +69,3 @@ Total,1,1,24
 Vic Stabile,1,3,26
 Daniel A Alvarez,,0,26
 Total,4,3,26
-,Judge Of The Superior Court - Republican,District Attorney - Republican,All
-,Vic Stabile,Daniel A Alvarez,All
-Vic Stabile,3,40,All
-Daniel A Alvarez,,2,All
-Total,43,42,All

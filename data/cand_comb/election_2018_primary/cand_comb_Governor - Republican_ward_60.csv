@@ -1,4 +1,10 @@
 col_1,col_2,col_3,col_4,division
+,Governor - Republican,,,All
+,Paul Mango,Scott R Wagner,Laura Ellsworth,All
+Paul Mango,11,0,0,All
+Scott R Wagner,,10,0,All
+Laura Ellsworth,,,9,All
+Total,11,10,9,All
 ,Governor - Republican,,,1
 ,Laura Ellsworth,Paul Mango,Scott R Wagner,1
 Laura Ellsworth,2,0,0,1
@@ -83,9 +89,3 @@ Paul Mango,1,0,0,23
 Scott R Wagner,,1,0,23
 Laura Ellsworth,,,0,23
 Total,1,1,0,23
-,Governor - Republican,,,All
-,Paul Mango,Scott R Wagner,Laura Ellsworth,All
-Paul Mango,11,0,0,All
-Scott R Wagner,,10,0,All
-Laura Ellsworth,,,9,All
-Total,11,10,9,All

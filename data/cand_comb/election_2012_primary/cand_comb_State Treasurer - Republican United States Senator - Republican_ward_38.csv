@@ -3,11 +3,11 @@ col_1,col_2,col_3,col_4,col_5,col_6,col_7,division
 ,Diana Irey Vaughan,Tom Smith,Steven D Welch,David Alan Christian,Sam Rohrer,Marc A Scaringi,All
 Diana Irey Vaughan,3,28,29,17,12,8,All
 Tom Smith,,10,0,0,0,0,All
-Steven D Welch,,,7,0,0,0,All
+Steven D Welch,,,6,0,0,0,All
 David Alan Christian,,,,3,0,0,All
 Sam Rohrer,,,,,7,0,All
-Marc A Scaringi,,,,,,5,All
-Total,97,38,36,20,19,13,All
+Marc A Scaringi,,,,,,4,All
+Total,97,38,35,20,19,12,All
 ,State Treasurer - Republican,United States Senator - Republican,,,,,2
 ,Diana Irey Vaughan,David Alan Christian,Steven D Welch,Sam Rohrer,Marc A Scaringi,Tom Smith,2
 Diana Irey Vaughan,0,1,2,0,0,0,2
@@ -17,15 +17,6 @@ Sam Rohrer,,,,1,0,0,2
 Marc A Scaringi,,,,,0,0,2
 Tom Smith,,,,,,0,2
 Total,3,2,2,1,0,0,2
-,United States Senator - Republican,,,,,State Treasurer - Republican,4
-,Steven D Welch,David Alan Christian,Marc A Scaringi,Sam Rohrer,Tom Smith,Diana Irey Vaughan,4
-Steven D Welch,1,0,0,0,0,0,4
-David Alan Christian,,0,0,0,0,0,4
-Marc A Scaringi,,,0,0,0,0,4
-Sam Rohrer,,,,0,0,0,4
-Tom Smith,,,,,0,0,4
-Diana Irey Vaughan,,,,,,0,4
-Total,1,0,0,0,0,0,4
 ,State Treasurer - Republican,United States Senator - Republican,,,,,7
 ,Diana Irey Vaughan,Tom Smith,Sam Rohrer,David Alan Christian,Marc A Scaringi,Steven D Welch,7
 Diana Irey Vaughan,0,2,0,0,0,0,7
@@ -143,12 +134,3 @@ Tom Smith,,,,1,0,0,20
 David Alan Christian,,,,,1,0,20
 Marc A Scaringi,,,,,,0,20
 Total,11,3,3,3,2,1,20
-,United States Senator - Republican,,,,,State Treasurer - Republican,21
-,Marc A Scaringi,David Alan Christian,Sam Rohrer,Steven D Welch,Tom Smith,Diana Irey Vaughan,21
-Marc A Scaringi,1,0,0,0,0,0,21
-David Alan Christian,,0,0,0,0,0,21
-Sam Rohrer,,,0,0,0,0,21
-Steven D Welch,,,,0,0,0,21
-Tom Smith,,,,,0,0,21
-Diana Irey Vaughan,,,,,,0,21
-Total,1,0,0,0,0,0,21

@@ -1,36 +1,12 @@
 col_1,col_2,col_3,col_4,col_5,col_6,division
-,Governor - Democrat,Member Of The Democratic State Committee 8th Senatorial District,,,,1
-,Tom Wolf,Kyle J Sampson,Kyle Shenandoah,Marisa Piccarreto,Torri Douglas,1
-Tom Wolf,83,0,0,0,0,1
-Kyle J Sampson,,0,0,0,0,1
-Kyle Shenandoah,,,0,0,0,1
-Marisa Piccarreto,,,,0,0,1
-Torri Douglas,,,,,0,1
-Total,83,0,0,0,0,1
-,Governor - Democrat,Member Of The Democratic State Committee 8th Senatorial District,,,,2
-,Tom Wolf,Kyle J Sampson,Kyle Shenandoah,Marisa Piccarreto,Torri Douglas,2
-Tom Wolf,107,0,0,0,0,2
-Kyle J Sampson,,0,0,0,0,2
-Kyle Shenandoah,,,0,0,0,2
-Marisa Piccarreto,,,,0,0,2
-Torri Douglas,,,,,0,2
-Total,107,0,0,0,0,2
-,Governor - Democrat,Member Of The Democratic State Committee 8th Senatorial District,,,,3
-,Tom Wolf,Kyle J Sampson,Kyle Shenandoah,Marisa Piccarreto,Torri Douglas,3
-Tom Wolf,68,0,0,0,0,3
-Kyle J Sampson,,0,0,0,0,3
-Kyle Shenandoah,,,0,0,0,3
-Marisa Piccarreto,,,,0,0,3
-Torri Douglas,,,,,0,3
-Total,68,0,0,0,0,3
-,Governor - Democrat,Member Of The Democratic State Committee 8th Senatorial District,,,,4
-,Tom Wolf,Kyle J Sampson,Kyle Shenandoah,Marisa Piccarreto,Torri Douglas,4
-Tom Wolf,77,0,0,0,0,4
-Kyle J Sampson,,0,0,0,0,4
-Kyle Shenandoah,,,0,0,0,4
-Marisa Piccarreto,,,,0,0,4
-Torri Douglas,,,,,0,4
-Total,77,0,0,0,0,4
+,Governor - Democrat,Member Of The Democratic State Committee 8th Senatorial District,,,,All
+,Tom Wolf,Torri Douglas,Kyle J Sampson,Marisa Piccarreto,Kyle Shenandoah,All
+Tom Wolf,265,605,518,428,410,All
+Torri Douglas,,15,409,371,369,All
+Kyle J Sampson,,,7,356,365,All
+Marisa Piccarreto,,,,6,354,All
+Kyle Shenandoah,,,,,3,All
+Total,"1,079",633,542,447,428,All
 ,Governor - Democrat,Member Of The Democratic State Committee 8th Senatorial District,,,,5
 ,Tom Wolf,Torri Douglas,Kyle J Sampson,Kyle Shenandoah,Marisa Piccarreto,5
 Tom Wolf,18,43,37,33,33,5
@@ -55,22 +31,6 @@ Kyle J Sampson,,,0,25,24,7
 Marisa Piccarreto,,,,0,23,7
 Kyle Shenandoah,,,,,0,7
 Total,74,40,35,27,24,7
-,Governor - Democrat,Member Of The Democratic State Committee 8th Senatorial District,,,,8
-,Tom Wolf,Kyle J Sampson,Kyle Shenandoah,Marisa Piccarreto,Torri Douglas,8
-Tom Wolf,88,0,0,0,0,8
-Kyle J Sampson,,0,0,0,0,8
-Kyle Shenandoah,,,0,0,0,8
-Marisa Piccarreto,,,,0,0,8
-Torri Douglas,,,,,0,8
-Total,88,0,0,0,0,8
-,Governor - Democrat,Member Of The Democratic State Committee 8th Senatorial District,,,,9
-,Tom Wolf,Kyle J Sampson,Kyle Shenandoah,Marisa Piccarreto,Torri Douglas,9
-Tom Wolf,217,0,0,0,0,9
-Kyle J Sampson,,0,0,0,0,9
-Kyle Shenandoah,,,0,0,0,9
-Marisa Piccarreto,,,,0,0,9
-Torri Douglas,,,,,0,9
-Total,217,0,0,0,0,9
 ,Governor - Democrat,Member Of The Democratic State Committee 8th Senatorial District,,,,10
 ,Tom Wolf,Torri Douglas,Kyle J Sampson,Marisa Piccarreto,Kyle Shenandoah,10
 Tom Wolf,20,39,29,27,21,10
@@ -87,22 +47,6 @@ Kyle J Sampson,,,0,27,26,11
 Marisa Piccarreto,,,,1,27,11
 Kyle Shenandoah,,,,,0,11
 Total,78,48,43,38,30,11
-,Governor - Democrat,Member Of The Democratic State Committee 8th Senatorial District,,,,12
-,Tom Wolf,Kyle J Sampson,Kyle Shenandoah,Marisa Piccarreto,Torri Douglas,12
-Tom Wolf,90,0,0,0,0,12
-Kyle J Sampson,,0,0,0,0,12
-Kyle Shenandoah,,,0,0,0,12
-Marisa Piccarreto,,,,0,0,12
-Torri Douglas,,,,,0,12
-Total,90,0,0,0,0,12
-,Governor - Democrat,Member Of The Democratic State Committee 8th Senatorial District,,,,13
-,Tom Wolf,Kyle J Sampson,Kyle Shenandoah,Marisa Piccarreto,Torri Douglas,13
-Tom Wolf,76,0,0,0,0,13
-Kyle J Sampson,,0,0,0,0,13
-Kyle Shenandoah,,,0,0,0,13
-Marisa Piccarreto,,,,0,0,13
-Torri Douglas,,,,,0,13
-Total,76,0,0,0,0,13
 ,Governor - Democrat,Member Of The Democratic State Committee 8th Senatorial District,,,,14
 ,Tom Wolf,Torri Douglas,Kyle Shenandoah,Kyle J Sampson,Marisa Piccarreto,14
 Tom Wolf,20,41,36,32,30,14
@@ -175,19 +119,3 @@ Torri Douglas,,,0,35,35,22
 Marisa Piccarreto,,,,1,36,22
 Kyle Shenandoah,,,,,0,22
 Total,60,45,44,40,38,22
-,Governor - Democrat,Member Of The Democratic State Committee 8th Senatorial District,,,,23
-,Tom Wolf,Kyle J Sampson,Kyle Shenandoah,Marisa Piccarreto,Torri Douglas,23
-Tom Wolf,82,0,0,0,0,23
-Kyle J Sampson,,0,0,0,0,23
-Kyle Shenandoah,,,0,0,0,23
-Marisa Piccarreto,,,,0,0,23
-Torri Douglas,,,,,0,23
-Total,82,0,0,0,0,23
-,Governor - Democrat,Member Of The Democratic State Committee 8th Senatorial District,,,,All
-,Tom Wolf,Torri Douglas,Kyle J Sampson,Marisa Piccarreto,Kyle Shenandoah,All
-Tom Wolf,"1,153",605,518,428,410,All
-Torri Douglas,,15,409,371,369,All
-Kyle J Sampson,,,7,356,365,All
-Marisa Piccarreto,,,,6,354,All
-Kyle Shenandoah,,,,,3,All
-Total,"1,967",633,542,447,428,All

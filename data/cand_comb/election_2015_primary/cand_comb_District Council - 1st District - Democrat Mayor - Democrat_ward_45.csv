@@ -1,64 +1,14 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,division
-,Mayor - Democrat,,,,,,District Council 1st District - Democrat,1
-,Jim Kenney,Lynne M Abraham,Anthony Hardy Williams,Doug Oliver,Nelson Diaz,T Milton Street Sr,Mark F Squilla,1
-Jim Kenney,77,0,0,0,0,0,0,1
-Lynne M Abraham,,27,0,0,0,0,0,1
-Anthony Hardy Williams,,,6,0,0,0,0,1
-Doug Oliver,,,,2,0,0,0,1
-Nelson Diaz,,,,,0,0,0,1
-T Milton Street Sr,,,,,,0,0,1
-Mark F Squilla,,,,,,,0,1
-Total,77,27,6,2,0,0,0,1
-,Mayor - Democrat,,,,,,District Council 1st District - Democrat,2
-,Jim Kenney,Lynne M Abraham,Nelson Diaz,Anthony Hardy Williams,Doug Oliver,T Milton Street Sr,Mark F Squilla,2
-Jim Kenney,46,0,0,0,0,0,0,2
-Lynne M Abraham,,13,0,0,0,0,0,2
-Nelson Diaz,,,7,0,0,0,0,2
-Anthony Hardy Williams,,,,2,0,0,0,2
-Doug Oliver,,,,,1,0,0,2
-T Milton Street Sr,,,,,,0,0,2
-Mark F Squilla,,,,,,,0,2
-Total,46,13,7,2,1,0,0,2
-,Mayor - Democrat,,,,,,District Council 1st District - Democrat,3
-,Jim Kenney,Lynne M Abraham,Anthony Hardy Williams,Doug Oliver,Nelson Diaz,T Milton Street Sr,Mark F Squilla,3
-Jim Kenney,98,0,0,0,0,0,0,3
-Lynne M Abraham,,32,0,0,0,0,0,3
-Anthony Hardy Williams,,,4,0,0,0,0,3
-Doug Oliver,,,,2,0,0,0,3
-Nelson Diaz,,,,,0,0,0,3
-T Milton Street Sr,,,,,,0,0,3
-Mark F Squilla,,,,,,,0,3
-Total,98,32,4,2,0,0,0,3
-,Mayor - Democrat,,,,,,District Council 1st District - Democrat,4
-,Jim Kenney,Lynne M Abraham,Anthony Hardy Williams,Doug Oliver,T Milton Street Sr,Nelson Diaz,Mark F Squilla,4
-Jim Kenney,115,0,0,0,0,0,0,4
-Lynne M Abraham,,28,0,0,0,0,0,4
-Anthony Hardy Williams,,,2,0,0,0,0,4
-Doug Oliver,,,,1,0,0,0,4
-T Milton Street Sr,,,,,1,0,0,4
-Nelson Diaz,,,,,,0,0,4
-Mark F Squilla,,,,,,,0,4
-Total,115,28,2,1,1,0,0,4
-,Mayor - Democrat,,,,,,District Council 1st District - Democrat,5
-,Jim Kenney,Lynne M Abraham,Anthony Hardy Williams,Doug Oliver,Nelson Diaz,T Milton Street Sr,Mark F Squilla,5
-Jim Kenney,72,0,0,0,0,0,0,5
-Lynne M Abraham,,26,0,0,0,0,0,5
-Anthony Hardy Williams,,,3,0,0,0,0,5
-Doug Oliver,,,,1,0,0,0,5
-Nelson Diaz,,,,,1,0,0,5
-T Milton Street Sr,,,,,,0,0,5
-Mark F Squilla,,,,,,,0,5
-Total,72,26,3,1,1,0,0,5
-,Mayor - Democrat,,,,,,District Council 1st District - Democrat,6
-,Jim Kenney,Lynne M Abraham,Anthony Hardy Williams,Nelson Diaz,Doug Oliver,T Milton Street Sr,Mark F Squilla,6
-Jim Kenney,64,0,0,0,0,0,0,6
-Lynne M Abraham,,13,0,0,0,0,0,6
-Anthony Hardy Williams,,,2,0,0,0,0,6
-Nelson Diaz,,,,2,0,0,0,6
-Doug Oliver,,,,,1,0,0,6
-T Milton Street Sr,,,,,,1,0,6
-Mark F Squilla,,,,,,,0,6
-Total,64,13,2,2,1,1,0,6
+,Mayor - Democrat,,,,,,District Council 1st District - Democrat,All
+,Jim Kenney,Anthony Hardy Williams,Lynne M Abraham,Nelson Diaz,Doug Oliver,T Milton Street Sr,Mark F Squilla,All
+Jim Kenney,212,0,0,0,0,0,260,All
+Anthony Hardy Williams,,65,0,0,0,0,68,All
+Lynne M Abraham,,,62,0,0,0,57,All
+Nelson Diaz,,,,53,0,0,31,All
+Doug Oliver,,,,,13,0,7,All
+T Milton Street Sr,,,,,,4,11,All
+Mark F Squilla,,,,,,,9,All
+Total,472,133,119,84,20,15,443,All
 ,Mayor - Democrat,,,,,,District Council 1st District - Democrat,7
 ,Jim Kenney,Lynne M Abraham,Anthony Hardy Williams,Nelson Diaz,Doug Oliver,T Milton Street Sr,Mark F Squilla,7
 Jim Kenney,20,0,0,0,0,0,38,7
@@ -109,16 +59,6 @@ Doug Oliver,,,,,2,0,2,11
 T Milton Street Sr,,,,,,1,2,11
 Mark F Squilla,,,,,,,1,11
 Total,33,12,9,5,4,3,27,11
-,Mayor - Democrat,,,,,,District Council 1st District - Democrat,12
-,Jim Kenney,Lynne M Abraham,Anthony Hardy Williams,Doug Oliver,Nelson Diaz,T Milton Street Sr,Mark F Squilla,12
-Jim Kenney,23,0,0,0,0,0,0,12
-Lynne M Abraham,,3,0,0,0,0,0,12
-Anthony Hardy Williams,,,2,0,0,0,0,12
-Doug Oliver,,,,1,0,0,0,12
-Nelson Diaz,,,,,1,0,0,12
-T Milton Street Sr,,,,,,0,0,12
-Mark F Squilla,,,,,,,0,12
-Total,23,3,2,1,1,0,0,12
 ,District Council 1st District - Democrat,Mayor - Democrat,,,,,,13
 ,Mark F Squilla,Anthony Hardy Williams,Jim Kenney,Lynne M Abraham,Nelson Diaz,Doug Oliver,T Milton Street Sr,13
 Mark F Squilla,0,10,11,5,5,1,2,13
@@ -139,16 +79,6 @@ Anthony Hardy Williams,,,,,0,0,0,14
 Doug Oliver,,,,,,0,0,14
 T Milton Street Sr,,,,,,,0,14
 Total,14,11,3,3,2,0,0,14
-,Mayor - Democrat,,,,,,District Council 1st District - Democrat,15
-,Jim Kenney,Lynne M Abraham,Anthony Hardy Williams,Doug Oliver,Nelson Diaz,T Milton Street Sr,Mark F Squilla,15
-Jim Kenney,68,0,0,0,0,0,0,15
-Lynne M Abraham,,17,0,0,0,0,0,15
-Anthony Hardy Williams,,,5,0,0,0,0,15
-Doug Oliver,,,,2,0,0,0,15
-Nelson Diaz,,,,,0,0,0,15
-T Milton Street Sr,,,,,,0,0,15
-Mark F Squilla,,,,,,,0,15
-Total,68,17,5,2,0,0,0,15
 ,Mayor - Democrat,,,,,,District Council 1st District - Democrat,16
 ,Jim Kenney,Anthony Hardy Williams,Nelson Diaz,Lynne M Abraham,Doug Oliver,T Milton Street Sr,Mark F Squilla,16
 Jim Kenney,10,0,0,0,0,0,8,16
@@ -189,16 +119,6 @@ Doug Oliver,,,,,1,0,1,19
 T Milton Street Sr,,,,,,0,0,19
 Mark F Squilla,,,,,,,0,19
 Total,18,12,10,4,2,0,18,19
-,Mayor - Democrat,,,,,,District Council 1st District - Democrat,20
-,Jim Kenney,Lynne M Abraham,Anthony Hardy Williams,Doug Oliver,Nelson Diaz,T Milton Street Sr,Mark F Squilla,20
-Jim Kenney,91,0,0,0,0,0,0,20
-Lynne M Abraham,,26,0,0,0,0,0,20
-Anthony Hardy Williams,,,3,0,0,0,0,20
-Doug Oliver,,,,3,0,0,0,20
-Nelson Diaz,,,,,1,0,0,20
-T Milton Street Sr,,,,,,1,0,20
-Mark F Squilla,,,,,,,0,20
-Total,91,26,3,3,1,1,0,20
 ,District Council 1st District - Democrat,Mayor - Democrat,,,,,,21
 ,Mark F Squilla,Jim Kenney,Anthony Hardy Williams,Lynne M Abraham,Nelson Diaz,Doug Oliver,T Milton Street Sr,21
 Mark F Squilla,1,6,7,4,2,1,1,21
@@ -219,16 +139,6 @@ Doug Oliver,,,,,0,0,0,22
 Nelson Diaz,,,,,,0,0,22
 Mark F Squilla,,,,,,,1,22
 Total,83,17,5,2,0,0,64,22
-,Mayor - Democrat,,,,,,District Council 1st District - Democrat,23
-,Jim Kenney,Lynne M Abraham,Anthony Hardy Williams,Nelson Diaz,T Milton Street Sr,Doug Oliver,Mark F Squilla,23
-Jim Kenney,79,0,0,0,0,0,0,23
-Lynne M Abraham,,17,0,0,0,0,0,23
-Anthony Hardy Williams,,,5,0,0,0,0,23
-Nelson Diaz,,,,2,0,0,0,23
-T Milton Street Sr,,,,,2,0,0,23
-Doug Oliver,,,,,,0,0,23
-Mark F Squilla,,,,,,,0,23
-Total,79,17,5,2,2,0,0,23
 ,Mayor - Democrat,,,,,,District Council 1st District - Democrat,24
 ,Jim Kenney,Lynne M Abraham,Nelson Diaz,Anthony Hardy Williams,Doug Oliver,T Milton Street Sr,Mark F Squilla,24
 Jim Kenney,39,0,0,0,0,0,64,24
@@ -239,23 +149,3 @@ Doug Oliver,,,,,2,0,0,24
 T Milton Street Sr,,,,,,0,0,24
 Mark F Squilla,,,,,,,1,24
 Total,103,25,5,4,2,0,86,24
-,Mayor - Democrat,,,,,,District Council 1st District - Democrat,25
-,Jim Kenney,Lynne M Abraham,Anthony Hardy Williams,Doug Oliver,Nelson Diaz,T Milton Street Sr,Mark F Squilla,25
-Jim Kenney,60,0,0,0,0,0,0,25
-Lynne M Abraham,,16,0,0,0,0,0,25
-Anthony Hardy Williams,,,1,0,0,0,0,25
-Doug Oliver,,,,1,0,0,0,25
-Nelson Diaz,,,,,0,0,0,25
-T Milton Street Sr,,,,,,0,0,25
-Mark F Squilla,,,,,,,0,25
-Total,60,16,1,1,0,0,0,25
-,Mayor - Democrat,,,,,,District Council 1st District - Democrat,All
-,Jim Kenney,Lynne M Abraham,Anthony Hardy Williams,Nelson Diaz,Doug Oliver,T Milton Street Sr,Mark F Squilla,All
-Jim Kenney,"1,005",0,0,0,0,0,260,All
-Lynne M Abraham,,280,0,0,0,0,57,All
-Anthony Hardy Williams,,,100,0,0,0,68,All
-Nelson Diaz,,,,67,0,0,31,All
-Doug Oliver,,,,,28,0,7,All
-T Milton Street Sr,,,,,,9,11,All
-Mark F Squilla,,,,,,,9,All
-Total,"1,265",337,168,98,35,20,443,All

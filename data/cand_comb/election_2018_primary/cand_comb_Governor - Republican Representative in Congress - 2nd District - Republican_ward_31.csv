@@ -1,4 +1,11 @@
 col_1,col_2,col_3,col_4,col_5,division
+,Representative In Congress 2nd District - Republican,Governor - Republican,,,All
+,David Torres,Paul Mango,Scott R Wagner,Laura Ellsworth,All
+David Torres,3,66,72,28,All
+Paul Mango,,38,0,0,All
+Scott R Wagner,,,24,0,All
+Laura Ellsworth,,,,12,All
+Total,169,104,96,40,All
 ,Representative In Congress 2nd District - Republican,Governor - Republican,,,1
 ,David Torres,Laura Ellsworth,Paul Mango,Scott R Wagner,1
 David Torres,0,2,2,1,1
@@ -55,13 +62,6 @@ Scott R Wagner,,0,0,3,8
 Laura Ellsworth,,,1,1,8
 David Torres,,,,0,8
 Total,10,3,2,9,8
-,Governor - Republican,,,Representative In Congress 2nd District - Republican,9
-,Laura Ellsworth,Paul Mango,Scott R Wagner,David Torres,9
-Laura Ellsworth,1,0,0,0,9
-Paul Mango,,0,0,0,9
-Scott R Wagner,,,0,0,9
-David Torres,,,,0,9
-Total,1,0,0,0,9
 ,Representative In Congress 2nd District - Republican,Governor - Republican,,,10
 ,David Torres,Paul Mango,Scott R Wagner,Laura Ellsworth,10
 David Torres,0,5,2,1,10
@@ -132,10 +132,3 @@ Scott R Wagner,,4,0,0,19
 Paul Mango,,,2,0,19
 Laura Ellsworth,,,,2,19
 Total,13,10,9,2,19
-,Representative In Congress 2nd District - Republican,Governor - Republican,,,All
-,David Torres,Paul Mango,Scott R Wagner,Laura Ellsworth,All
-David Torres,3,66,72,28,All
-Paul Mango,,38,0,0,All
-Scott R Wagner,,,24,0,All
-Laura Ellsworth,,,,13,All
-Total,169,104,96,41,All

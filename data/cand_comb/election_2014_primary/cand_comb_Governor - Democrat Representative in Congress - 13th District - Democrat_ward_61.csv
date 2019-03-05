@@ -1,26 +1,15 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,division
-,Governor - Democrat,,,,Representative In Congress 13th District - Democrat,,,,1
-,Tom Wolf,Allyson Y Schwartz,Robert M Mccord,Katie Mcginty,Brendan F Boyle,Daylin Leach,Marjorie Margolies,Val Arkoosh,1
-Tom Wolf,33,0,0,0,0,0,0,0,1
-Allyson Y Schwartz,,26,0,0,0,0,0,0,1
-Robert M Mccord,,,14,0,0,0,0,0,1
-Katie Mcginty,,,,3,0,0,0,0,1
-Brendan F Boyle,,,,,0,0,0,0,1
-Daylin Leach,,,,,,0,0,0,1
-Marjorie Margolies,,,,,,,0,0,1
-Val Arkoosh,,,,,,,,0,1
-Total,33,26,14,3,0,0,0,0,1
-,Governor - Democrat,,,,Representative In Congress 13th District - Democrat,,,,2
-,Tom Wolf,Allyson Y Schwartz,Robert M Mccord,Katie Mcginty,Brendan F Boyle,Daylin Leach,Marjorie Margolies,Val Arkoosh,2
-Tom Wolf,48,0,0,0,0,0,0,0,2
-Allyson Y Schwartz,,46,0,0,0,0,0,0,2
-Robert M Mccord,,,21,0,0,0,0,0,2
-Katie Mcginty,,,,0,0,0,0,0,2
-Brendan F Boyle,,,,,0,0,0,0,2
-Daylin Leach,,,,,,0,0,0,2
-Marjorie Margolies,,,,,,,0,0,2
-Val Arkoosh,,,,,,,,0,2
-Total,48,46,21,0,0,0,0,0,2
+,Representative In Congress 13th District - Democrat,,,,Governor - Democrat,,,,All
+,Brendan F Boyle,Marjorie Margolies,Val Arkoosh,Daylin Leach,Tom Wolf,Allyson Y Schwartz,Robert M Mccord,Katie Mcginty,All
+Brendan F Boyle,58,0,0,0,703,491,208,30,All
+Marjorie Margolies,,4,0,0,53,106,19,22,All
+Val Arkoosh,,,2,0,34,18,29,1,All
+Daylin Leach,,,,0,18,21,13,2,All
+Tom Wolf,,,,,48,0,0,0,All
+Allyson Y Schwartz,,,,,,28,0,0,All
+Robert M Mccord,,,,,,,8,0,All
+Katie Mcginty,,,,,,,,3,All
+Total,"1,490",204,84,54,856,664,277,58,All
 ,Representative In Congress 13th District - Democrat,,,,Governor - Democrat,,,,3
 ,Brendan F Boyle,Marjorie Margolies,Daylin Leach,Val Arkoosh,Tom Wolf,Allyson Y Schwartz,Robert M Mccord,Katie Mcginty,3
 Brendan F Boyle,7,0,0,0,31,24,13,2,3
@@ -54,28 +43,6 @@ Allyson Y Schwartz,,,,,,0,0,0,5
 Robert M Mccord,,,,,,,0,0,5
 Katie Mcginty,,,,,,,,0,5
 Total,53,5,4,4,31,24,10,2,5
-,Governor - Democrat,,,,Representative In Congress 13th District - Democrat,,,,6
-,Tom Wolf,Allyson Y Schwartz,Robert M Mccord,Katie Mcginty,Brendan F Boyle,Daylin Leach,Marjorie Margolies,Val Arkoosh,6
-Tom Wolf,97,0,0,0,0,0,0,0,6
-Allyson Y Schwartz,,75,0,0,0,0,0,0,6
-Robert M Mccord,,,16,0,0,0,0,0,6
-Katie Mcginty,,,,2,0,0,0,0,6
-Brendan F Boyle,,,,,0,0,0,0,6
-Daylin Leach,,,,,,0,0,0,6
-Marjorie Margolies,,,,,,,0,0,6
-Val Arkoosh,,,,,,,,0,6
-Total,97,75,16,2,0,0,0,0,6
-,Governor - Democrat,,,,Representative In Congress 13th District - Democrat,,,,7
-,Tom Wolf,Allyson Y Schwartz,Robert M Mccord,Katie Mcginty,Brendan F Boyle,Daylin Leach,Marjorie Margolies,Val Arkoosh,7
-Tom Wolf,48,0,0,0,0,0,0,0,7
-Allyson Y Schwartz,,36,0,0,0,0,0,0,7
-Robert M Mccord,,,15,0,0,0,0,0,7
-Katie Mcginty,,,,2,0,0,0,0,7
-Brendan F Boyle,,,,,0,0,0,0,7
-Daylin Leach,,,,,,0,0,0,7
-Marjorie Margolies,,,,,,,0,0,7
-Val Arkoosh,,,,,,,,0,7
-Total,48,36,15,2,0,0,0,0,7
 ,Representative In Congress 13th District - Democrat,,,,Governor - Democrat,,,,8
 ,Brendan F Boyle,Marjorie Margolies,Val Arkoosh,Daylin Leach,Tom Wolf,Allyson Y Schwartz,Robert M Mccord,Katie Mcginty,8
 Brendan F Boyle,2,0,0,0,37,22,8,2,8
@@ -175,17 +142,6 @@ Allyson Y Schwartz,,,,,,2,0,0,16
 Robert M Mccord,,,,,,,1,0,16
 Katie Mcginty,,,,,,,,0,16
 Total,92,7,3,2,43,42,15,1,16
-,Governor - Democrat,,,,Representative In Congress 13th District - Democrat,,,,17
-,Allyson Y Schwartz,Tom Wolf,Robert M Mccord,Katie Mcginty,Brendan F Boyle,Daylin Leach,Marjorie Margolies,Val Arkoosh,17
-Allyson Y Schwartz,58,0,0,0,0,0,0,0,17
-Tom Wolf,,41,0,0,0,0,0,0,17
-Robert M Mccord,,,18,0,0,0,0,0,17
-Katie Mcginty,,,,5,0,0,0,0,17
-Brendan F Boyle,,,,,0,0,0,0,17
-Daylin Leach,,,,,,0,0,0,17
-Marjorie Margolies,,,,,,,0,0,17
-Val Arkoosh,,,,,,,,0,17
-Total,58,41,18,5,0,0,0,0,17
 ,Representative In Congress 13th District - Democrat,,,,Governor - Democrat,,,,18
 ,Brendan F Boyle,Marjorie Margolies,Val Arkoosh,Daylin Leach,Tom Wolf,Allyson Y Schwartz,Robert M Mccord,Katie Mcginty,18
 Brendan F Boyle,7,0,0,0,25,26,13,2,18
@@ -219,50 +175,6 @@ Allyson Y Schwartz,,,,,,4,0,0,20
 Robert M Mccord,,,,,,,0,0,20
 Katie Mcginty,,,,,,,,0,20
 Total,102,12,2,1,49,45,20,2,20
-,Governor - Democrat,,,,Representative In Congress 13th District - Democrat,,,,21
-,Tom Wolf,Allyson Y Schwartz,Robert M Mccord,Katie Mcginty,Brendan F Boyle,Daylin Leach,Marjorie Margolies,Val Arkoosh,21
-Tom Wolf,102,0,0,0,0,0,0,0,21
-Allyson Y Schwartz,,62,0,0,0,0,0,0,21
-Robert M Mccord,,,22,0,0,0,0,0,21
-Katie Mcginty,,,,6,0,0,0,0,21
-Brendan F Boyle,,,,,0,0,0,0,21
-Daylin Leach,,,,,,0,0,0,21
-Marjorie Margolies,,,,,,,0,0,21
-Val Arkoosh,,,,,,,,0,21
-Total,102,62,22,6,0,0,0,0,21
-,Governor - Democrat,,,,Representative In Congress 13th District - Democrat,,,,22
-,Tom Wolf,Allyson Y Schwartz,Robert M Mccord,Katie Mcginty,Brendan F Boyle,Daylin Leach,Marjorie Margolies,Val Arkoosh,22
-Tom Wolf,59,0,0,0,0,0,0,0,22
-Allyson Y Schwartz,,33,0,0,0,0,0,0,22
-Robert M Mccord,,,24,0,0,0,0,0,22
-Katie Mcginty,,,,4,0,0,0,0,22
-Brendan F Boyle,,,,,0,0,0,0,22
-Daylin Leach,,,,,,0,0,0,22
-Marjorie Margolies,,,,,,,0,0,22
-Val Arkoosh,,,,,,,,0,22
-Total,59,33,24,4,0,0,0,0,22
-,Governor - Democrat,,,,Representative In Congress 13th District - Democrat,,,,23
-,Tom Wolf,Allyson Y Schwartz,Robert M Mccord,Katie Mcginty,Brendan F Boyle,Daylin Leach,Marjorie Margolies,Val Arkoosh,23
-Tom Wolf,59,0,0,0,0,0,0,0,23
-Allyson Y Schwartz,,50,0,0,0,0,0,0,23
-Robert M Mccord,,,19,0,0,0,0,0,23
-Katie Mcginty,,,,8,0,0,0,0,23
-Brendan F Boyle,,,,,0,0,0,0,23
-Daylin Leach,,,,,,0,0,0,23
-Marjorie Margolies,,,,,,,0,0,23
-Val Arkoosh,,,,,,,,0,23
-Total,59,50,19,8,0,0,0,0,23
-,Governor - Democrat,,,,Representative In Congress 13th District - Democrat,,,,24
-,Tom Wolf,Allyson Y Schwartz,Robert M Mccord,Katie Mcginty,Brendan F Boyle,Daylin Leach,Marjorie Margolies,Val Arkoosh,24
-Tom Wolf,47,0,0,0,0,0,0,0,24
-Allyson Y Schwartz,,27,0,0,0,0,0,0,24
-Robert M Mccord,,,13,0,0,0,0,0,24
-Katie Mcginty,,,,7,0,0,0,0,24
-Brendan F Boyle,,,,,0,0,0,0,24
-Daylin Leach,,,,,,0,0,0,24
-Marjorie Margolies,,,,,,,0,0,24
-Val Arkoosh,,,,,,,,0,24
-Total,47,27,13,7,0,0,0,0,24
 ,Representative In Congress 13th District - Democrat,,,,Governor - Democrat,,,,25
 ,Brendan F Boyle,Marjorie Margolies,Val Arkoosh,Daylin Leach,Allyson Y Schwartz,Tom Wolf,Robert M Mccord,Katie Mcginty,25
 Brendan F Boyle,3,0,0,0,39,46,14,4,25
@@ -307,14 +219,3 @@ Allyson Y Schwartz,,,,,,2,0,0,28
 Robert M Mccord,,,,,,,0,0,28
 Katie Mcginty,,,,,,,,0,28
 Total,139,11,7,5,81,55,23,0,28
-,Representative In Congress 13th District - Democrat,,,,Governor - Democrat,,,,All
-,Brendan F Boyle,Marjorie Margolies,Val Arkoosh,Daylin Leach,Tom Wolf,Allyson Y Schwartz,Robert M Mccord,Katie Mcginty,All
-Brendan F Boyle,58,0,0,0,703,491,208,30,All
-Marjorie Margolies,,4,0,0,53,106,19,22,All
-Val Arkoosh,,,2,0,34,18,29,1,All
-Daylin Leach,,,,0,18,21,13,2,All
-Tom Wolf,,,,,582,0,0,0,All
-Allyson Y Schwartz,,,,,,441,0,0,All
-Robert M Mccord,,,,,,,170,0,All
-Katie Mcginty,,,,,,,,40,All
-Total,"1,490",204,84,54,"1,390","1,077",439,95,All

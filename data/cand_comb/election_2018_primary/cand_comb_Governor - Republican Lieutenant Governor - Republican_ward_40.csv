@@ -1,4 +1,14 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,division
+,Governor - Republican,,,Lieutenant Governor - Republican,,,,All
+,Scott R Wagner,Paul Mango,Laura Ellsworth,Kathy Coder,Jeff Bartos,Diana Irey Vaughan,Peg Luksik,All
+Scott R Wagner,4,0,0,21,13,6,2,All
+Paul Mango,,5,0,17,7,10,1,All
+Laura Ellsworth,,,1,6,2,7,0,All
+Kathy Coder,,,,0,0,0,0,All
+Jeff Bartos,,,,,2,0,0,All
+Diana Irey Vaughan,,,,,,0,0,All
+Peg Luksik,,,,,,,0,All
+Total,46,40,16,44,24,23,3,All
 ,Governor - Republican,,,Lieutenant Governor - Republican,,,,1
 ,Scott R Wagner,Paul Mango,Laura Ellsworth,Kathy Coder,Jeff Bartos,Diana Irey Vaughan,Peg Luksik,1
 Scott R Wagner,0,0,0,3,2,0,0,1
@@ -9,16 +19,6 @@ Jeff Bartos,,,,,0,0,0,1
 Diana Irey Vaughan,,,,,,0,0,1
 Peg Luksik,,,,,,,0,1
 Total,5,2,0,4,3,0,0,1
-,Governor - Republican,,,Lieutenant Governor - Republican,,,,3
-,Paul Mango,Laura Ellsworth,Scott R Wagner,Diana Irey Vaughan,Jeff Bartos,Kathy Coder,Peg Luksik,3
-Paul Mango,1,0,0,0,0,0,0,3
-Laura Ellsworth,,0,0,0,0,0,0,3
-Scott R Wagner,,,0,0,0,0,0,3
-Diana Irey Vaughan,,,,0,0,0,0,3
-Jeff Bartos,,,,,0,0,0,3
-Kathy Coder,,,,,,0,0,3
-Peg Luksik,,,,,,,0,3
-Total,1,0,0,0,0,0,0,3
 ,Lieutenant Governor - Republican,,,,Governor - Republican,,,4
 ,Diana Irey Vaughan,Jeff Bartos,Kathy Coder,Peg Luksik,Paul Mango,Laura Ellsworth,Scott R Wagner,4
 Diana Irey Vaughan,0,0,0,0,1,0,0,4
@@ -109,16 +109,6 @@ Paul Mango,,,,,0,0,0,17
 Scott R Wagner,,,,,,0,0,17
 Laura Ellsworth,,,,,,,0,17
 Total,2,0,0,0,1,1,0,17
-,Governor - Republican,,,Lieutenant Governor - Republican,,,,18
-,Laura Ellsworth,Paul Mango,Scott R Wagner,Diana Irey Vaughan,Jeff Bartos,Kathy Coder,Peg Luksik,18
-Laura Ellsworth,1,0,0,0,0,0,0,18
-Paul Mango,,0,0,0,0,0,0,18
-Scott R Wagner,,,0,0,0,0,0,18
-Diana Irey Vaughan,,,,0,0,0,0,18
-Jeff Bartos,,,,,0,0,0,18
-Kathy Coder,,,,,,0,0,18
-Peg Luksik,,,,,,,0,18
-Total,1,0,0,0,0,0,0,18
 ,Lieutenant Governor - Republican,,,,Governor - Republican,,,19
 ,Kathy Coder,Diana Irey Vaughan,Jeff Bartos,Peg Luksik,Paul Mango,Scott R Wagner,Laura Ellsworth,19
 Kathy Coder,0,0,0,0,1,1,0,19
@@ -349,13 +339,3 @@ Paul Mango,,,,,0,0,0,51
 Scott R Wagner,,,,,,0,0,51
 Laura Ellsworth,,,,,,,0,51
 Total,2,0,0,0,1,1,0,51
-,Governor - Republican,,,Lieutenant Governor - Republican,,,,All
-,Scott R Wagner,Paul Mango,Laura Ellsworth,Kathy Coder,Jeff Bartos,Diana Irey Vaughan,Peg Luksik,All
-Scott R Wagner,4,0,0,21,13,6,2,All
-Paul Mango,,6,0,17,7,10,1,All
-Laura Ellsworth,,,2,6,2,7,0,All
-Kathy Coder,,,,0,0,0,0,All
-Jeff Bartos,,,,,2,0,0,All
-Diana Irey Vaughan,,,,,,0,0,All
-Peg Luksik,,,,,,,0,All
-Total,46,41,17,44,24,23,3,All

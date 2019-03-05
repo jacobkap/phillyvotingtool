@@ -3,11 +3,11 @@ col_1,col_2,col_3,col_4,col_5,col_6,col_7,division
 ,John Maher,Frank A Pinto,Mitt Romney,Newt Gingrich,Rick Santorum,Ron Paul,All
 John Maher,2,0,4,2,2,1,All
 Frank A Pinto,,0,1,4,0,0,All
-Mitt Romney,,,4,0,0,0,All
+Mitt Romney,,,3,0,0,0,All
 Newt Gingrich,,,,0,0,0,All
 Rick Santorum,,,,,2,0,All
 Ron Paul,,,,,,3,All
-Total,11,5,9,6,4,4,All
+Total,11,5,8,6,4,4,All
 ,Auditor General - Republican,,President Of The United States - Republican,,,,2
 ,Frank A Pinto,John Maher,Newt Gingrich,Mitt Romney,Rick Santorum,Ron Paul,2
 Frank A Pinto,0,0,1,0,0,0,2
@@ -98,15 +98,6 @@ Ron Paul,,,,1,0,0,18
 Newt Gingrich,,,,,0,0,18
 Rick Santorum,,,,,,0,18
 Total,1,0,1,1,0,0,18
-,President Of The United States - Republican,,,,Auditor General - Republican,,19
-,Mitt Romney,Newt Gingrich,Rick Santorum,Ron Paul,Frank A Pinto,John Maher,19
-Mitt Romney,1,0,0,0,0,0,19
-Newt Gingrich,,0,0,0,0,0,19
-Rick Santorum,,,0,0,0,0,19
-Ron Paul,,,,0,0,0,19
-Frank A Pinto,,,,,0,0,19
-John Maher,,,,,,0,19
-Total,1,0,0,0,0,0,19
 ,Auditor General - Republican,,President Of The United States - Republican,,,,21
 ,John Maher,Frank A Pinto,Ron Paul,Mitt Romney,Newt Gingrich,Rick Santorum,21
 John Maher,1,0,1,0,0,0,21

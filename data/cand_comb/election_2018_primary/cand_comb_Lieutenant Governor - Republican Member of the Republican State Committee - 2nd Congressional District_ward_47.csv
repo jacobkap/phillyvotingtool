@@ -1,14 +1,14 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,division
-,Lieutenant Governor - Republican,,,,Member Of The Republican State Committee 2nd Congressional District,,,1
-,Kathy Coder,Diana Irey Vaughan,Jeff Bartos,Peg Luksik,Calvin R Tucker,Denise Furey,Walt Vogler,1
-Kathy Coder,1,0,0,0,0,0,0,1
-Diana Irey Vaughan,,0,0,0,0,0,0,1
-Jeff Bartos,,,0,0,0,0,0,1
-Peg Luksik,,,,0,0,0,0,1
-Calvin R Tucker,,,,,0,0,0,1
-Denise Furey,,,,,,0,0,1
-Walt Vogler,,,,,,,0,1
-Total,1,0,0,0,0,0,0,1
+,Member Of The Republican State Committee 2nd Congressional District,,,Lieutenant Governor - Republican,,,,All
+,Calvin R Tucker,Walt Vogler,Denise Furey,Diana Irey Vaughan,Kathy Coder,Peg Luksik,Jeff Bartos,All
+Calvin R Tucker,0,4,4,2,2,1,1,All
+Walt Vogler,,0,4,2,3,1,0,All
+Denise Furey,,,0,1,2,1,0,All
+Diana Irey Vaughan,,,,0,0,0,0,All
+Kathy Coder,,,,,0,0,0,All
+Peg Luksik,,,,,,1,0,All
+Jeff Bartos,,,,,,,0,All
+Total,6,6,4,3,3,2,1,All
 ,Member Of The Republican State Committee 2nd Congressional District,,,Lieutenant Governor - Republican,,,,2
 ,Calvin R Tucker,Denise Furey,Walt Vogler,Peg Luksik,Diana Irey Vaughan,Jeff Bartos,Kathy Coder,2
 Calvin R Tucker,0,1,1,1,0,0,0,2
@@ -59,16 +59,6 @@ Diana Irey Vaughan,,,,,0,0,0,11
 Jeff Bartos,,,,,,0,0,11
 Peg Luksik,,,,,,,0,11
 Total,1,1,1,1,0,0,0,11
-,Lieutenant Governor - Republican,,,,Member Of The Republican State Committee 2nd Congressional District,,,12
-,Diana Irey Vaughan,Jeff Bartos,Kathy Coder,Peg Luksik,Calvin R Tucker,Denise Furey,Walt Vogler,12
-Diana Irey Vaughan,1,0,0,0,0,0,0,12
-Jeff Bartos,,0,0,0,0,0,0,12
-Kathy Coder,,,0,0,0,0,0,12
-Peg Luksik,,,,0,0,0,0,12
-Calvin R Tucker,,,,,0,0,0,12
-Denise Furey,,,,,,0,0,12
-Walt Vogler,,,,,,,0,12
-Total,1,0,0,0,0,0,0,12
 ,Member Of The Republican State Committee 2nd Congressional District,,,Lieutenant Governor - Republican,,,,13
 ,Calvin R Tucker,Denise Furey,Walt Vogler,Jeff Bartos,Diana Irey Vaughan,Kathy Coder,Peg Luksik,13
 Calvin R Tucker,0,0,0,1,0,0,0,13
@@ -89,13 +79,3 @@ Walt Vogler,,,,,0,0,0,14
 Calvin R Tucker,,,,,,0,0,14
 Denise Furey,,,,,,,0,14
 Total,1,1,0,0,1,0,0,14
-,Member Of The Republican State Committee 2nd Congressional District,,,Lieutenant Governor - Republican,,,,All
-,Calvin R Tucker,Walt Vogler,Denise Furey,Diana Irey Vaughan,Kathy Coder,Peg Luksik,Jeff Bartos,All
-Calvin R Tucker,0,4,4,2,2,1,1,All
-Walt Vogler,,0,4,2,3,1,0,All
-Denise Furey,,,0,1,2,1,0,All
-Diana Irey Vaughan,,,,1,0,0,0,All
-Kathy Coder,,,,,1,0,0,All
-Peg Luksik,,,,,,1,0,All
-Jeff Bartos,,,,,,,0,All
-Total,6,6,4,4,4,2,1,All

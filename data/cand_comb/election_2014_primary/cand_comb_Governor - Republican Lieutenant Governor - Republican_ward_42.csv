@@ -1,4 +1,10 @@
 col_1,col_2,col_3,col_4,division
+,Lieutenant Governor - Republican,Governor - Republican,,All
+,Jim Cawley,Tom Corbett,Robert Guzzardi,All
+Jim Cawley,3,63,4,All
+Tom Corbett,,7,0,All
+Robert Guzzardi,,,0,All
+Total,70,70,4,All
 ,Lieutenant Governor - Republican,Governor - Republican,,1
 ,Jim Cawley,Tom Corbett,Robert Guzzardi,1
 Jim Cawley,0,4,0,1
@@ -113,12 +119,6 @@ Jim Cawley,0,2,1,22
 Tom Corbett,,0,0,22
 Robert Guzzardi,,,0,22
 Total,3,2,1,22
-,Governor - Republican,,Lieutenant Governor - Republican,23
-,Tom Corbett,Robert Guzzardi,Jim Cawley,23
-Tom Corbett,1,0,0,23
-Robert Guzzardi,,0,0,23
-Jim Cawley,,,0,23
-Total,1,0,0,23
 ,Lieutenant Governor - Republican,Governor - Republican,,24
 ,Jim Cawley,Tom Corbett,Robert Guzzardi,24
 Jim Cawley,1,4,0,24
@@ -131,9 +131,3 @@ Jim Cawley,0,1,0,25
 Tom Corbett,,0,0,25
 Robert Guzzardi,,,0,25
 Total,1,1,0,25
-,Governor - Republican,,Lieutenant Governor - Republican,All
-,Tom Corbett,Robert Guzzardi,Jim Cawley,All
-Tom Corbett,8,0,63,All
-Robert Guzzardi,,0,4,All
-Jim Cawley,,,3,All
-Total,71,4,70,All

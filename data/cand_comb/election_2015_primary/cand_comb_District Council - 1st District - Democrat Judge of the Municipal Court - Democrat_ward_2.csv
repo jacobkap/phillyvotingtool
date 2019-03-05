@@ -1,4 +1,16 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10,division
+,District Council 1st District - Democrat,Judge Of The Municipal Court - Democrat,,,,,,,,All
+,Mark F Squilla,Christian Dicicco,Joffie C Pittman,Matthew Perks,Christine Hope,Daniel R Sulman,Sharon Williams Losier,Gary S Silver,Franklin A Bennett Iii,All
+Mark F Squilla,607,929,807,720,767,569,658,275,107,All
+Christian Dicicco,,146,149,160,389,104,259,121,58,All
+Joffie C Pittman,,,25,567,217,553,240,60,18,All
+Matthew Perks,,,,31,138,474,120,73,18,All
+Christine Hope,,,,,37,91,456,114,52,All
+Daniel R Sulman,,,,,,25,46,52,21,All
+Sharon Williams Losier,,,,,,,17,82,32,All
+Gary S Silver,,,,,,,,15,26,All
+Franklin A Bennett Iii,,,,,,,,,0,All
+Total,"2,728","1,151","1,047",932,904,778,745,321,122,All
 ,District Council 1st District - Democrat,Judge Of The Municipal Court - Democrat,,,,,,,,1
 ,Mark F Squilla,Christian Dicicco,Christine Hope,Joffie C Pittman,Matthew Perks,Sharon Williams Losier,Daniel R Sulman,Gary S Silver,Franklin A Bennett Iii,1
 Mark F Squilla,45,60,51,50,38,41,31,22,9,1
@@ -95,18 +107,6 @@ Daniel R Sulman,,,,,,,0,1,0,8
 Gary S Silver,,,,,,,,0,2,8
 Franklin A Bennett Iii,,,,,,,,,0,8
 Total,77,34,28,28,26,23,18,10,5,8
-,Judge Of The Municipal Court - Democrat,,,,,,,,District Council 1st District - Democrat,9
-,Sharon Williams Losier,Joffie C Pittman,Christine Hope,Christian Dicicco,Matthew Perks,Daniel R Sulman,Gary S Silver,Franklin A Bennett Iii,Mark F Squilla,9
-Sharon Williams Losier,10,20,23,5,7,4,2,0,0,9
-Joffie C Pittman,,7,19,7,12,7,0,1,0,9
-Christine Hope,,,5,8,7,6,1,0,0,9
-Christian Dicicco,,,,12,8,3,4,3,0,9
-Matthew Perks,,,,,3,10,3,2,0,9
-Daniel R Sulman,,,,,,2,5,0,0,9
-Gary S Silver,,,,,,,3,1,0,9
-Franklin A Bennett Iii,,,,,,,,1,0,9
-Mark F Squilla,,,,,,,,,0,9
-Total,43,42,39,33,29,20,12,5,0,9
 ,District Council 1st District - Democrat,Judge Of The Municipal Court - Democrat,,,,,,,,10
 ,Mark F Squilla,Joffie C Pittman,Matthew Perks,Christine Hope,Sharon Williams Losier,Christian Dicicco,Daniel R Sulman,Gary S Silver,Franklin A Bennett Iii,10
 Mark F Squilla,26,34,31,36,36,31,21,13,1,10
@@ -215,54 +215,6 @@ Sharon Williams Losier,,,,,,,1,1,0,18
 Gary S Silver,,,,,,,,0,0,18
 Franklin A Bennett Iii,,,,,,,,,0,18
 Total,119,56,34,33,31,24,12,8,2,18
-,Judge Of The Municipal Court - Democrat,,,,,,,,District Council 1st District - Democrat,19
-,Joffie C Pittman,Christian Dicicco,Daniel R Sulman,Matthew Perks,Christine Hope,Sharon Williams Losier,Gary S Silver,Franklin A Bennett Iii,Mark F Squilla,19
-Joffie C Pittman,10,10,32,22,13,13,2,1,0,19
-Christian Dicicco,,25,6,12,13,6,5,1,0,19
-Daniel R Sulman,,,1,16,4,4,1,1,0,19
-Matthew Perks,,,,4,6,3,3,1,0,19
-Christine Hope,,,,,3,13,4,1,0,19
-Sharon Williams Losier,,,,,,3,2,1,0,19
-Gary S Silver,,,,,,,0,2,0,19
-Franklin A Bennett Iii,,,,,,,,2,0,19
-Mark F Squilla,,,,,,,,,0,19
-Total,62,52,39,37,32,25,10,7,0,19
-,Judge Of The Municipal Court - Democrat,,,,,,,,District Council 1st District - Democrat,20
-,Joffie C Pittman,Christine Hope,Sharon Williams Losier,Daniel R Sulman,Matthew Perks,Christian Dicicco,Gary S Silver,Franklin A Bennett Iii,Mark F Squilla,20
-Joffie C Pittman,4,10,11,18,14,5,3,0,0,20
-Christine Hope,,4,17,3,1,10,5,3,0,20
-Sharon Williams Losier,,,6,0,5,8,2,0,0,20
-Daniel R Sulman,,,,0,10,3,3,1,0,20
-Matthew Perks,,,,,3,1,1,1,0,20
-Christian Dicicco,,,,,,2,3,2,0,20
-Gary S Silver,,,,,,,0,1,0,20
-Franklin A Bennett Iii,,,,,,,,0,0,20
-Mark F Squilla,,,,,,,,,0,20
-Total,37,32,29,21,20,19,10,4,0,20
-,Judge Of The Municipal Court - Democrat,,,,,,,,District Council 1st District - Democrat,21
-,Sharon Williams Losier,Christine Hope,Joffie C Pittman,Christian Dicicco,Matthew Perks,Daniel R Sulman,Gary S Silver,Franklin A Bennett Iii,Mark F Squilla,21
-Sharon Williams Losier,15,19,17,7,3,2,4,3,0,21
-Christine Hope,,3,14,12,9,2,5,0,0,21
-Joffie C Pittman,,,2,5,8,9,0,1,0,21
-Christian Dicicco,,,,4,6,7,5,2,0,21
-Matthew Perks,,,,,5,6,1,1,0,21
-Daniel R Sulman,,,,,,3,1,3,0,21
-Gary S Silver,,,,,,,0,2,0,21
-Franklin A Bennett Iii,,,,,,,,0,0,21
-Mark F Squilla,,,,,,,,,0,21
-Total,44,35,31,28,22,20,10,6,0,21
-,Judge Of The Municipal Court - Democrat,,,,,,,,District Council 1st District - Democrat,22
-,Christian Dicicco,Matthew Perks,Joffie C Pittman,Daniel R Sulman,Christine Hope,Sharon Williams Losier,Gary S Silver,Franklin A Bennett Iii,Mark F Squilla,22
-Christian Dicicco,23,8,8,7,20,13,6,2,0,22
-Matthew Perks,,6,34,30,10,6,7,4,0,22
-Joffie C Pittman,,,4,32,7,11,2,2,0,22
-Daniel R Sulman,,,,4,7,1,4,0,0,22
-Christine Hope,,,,,6,17,3,4,0,22
-Sharon Williams Losier,,,,,,3,1,2,0,22
-Gary S Silver,,,,,,,1,0,0,22
-Franklin A Bennett Iii,,,,,,,,1,0,22
-Mark F Squilla,,,,,,,,,0,22
-Total,59,58,56,47,43,31,14,8,0,22
 ,District Council 1st District - Democrat,Judge Of The Municipal Court - Democrat,,,,,,,,23
 ,Mark F Squilla,Joffie C Pittman,Matthew Perks,Daniel R Sulman,Christian Dicicco,Christine Hope,Sharon Williams Losier,Gary S Silver,Franklin A Bennett Iii,23
 Mark F Squilla,39,67,63,58,43,37,27,20,10,23
@@ -323,15 +275,3 @@ Sharon Williams Losier,,,,,,,0,1,1,27
 Gary S Silver,,,,,,,,3,0,27
 Franklin A Bennett Iii,,,,,,,,,0,27
 Total,171,72,65,60,58,57,43,16,9,27
-,District Council 1st District - Democrat,Judge Of The Municipal Court - Democrat,,,,,,,,All
-,Mark F Squilla,Christian Dicicco,Joffie C Pittman,Matthew Perks,Christine Hope,Daniel R Sulman,Sharon Williams Losier,Gary S Silver,Franklin A Bennett Iii,All
-Mark F Squilla,607,929,807,720,767,569,658,275,107,All
-Christian Dicicco,,212,184,195,452,130,298,144,68,All
-Joffie C Pittman,,,52,657,280,651,312,67,23,All
-Matthew Perks,,,,52,171,546,144,88,27,All
-Christine Hope,,,,,58,113,545,132,60,All
-Daniel R Sulman,,,,,,35,57,66,26,All
-Sharon Williams Losier,,,,,,,54,93,38,All
-Gary S Silver,,,,,,,,19,32,All
-Franklin A Bennett Iii,,,,,,,,,4,All
-Total,"2,728","1,342","1,275","1,098","1,085",925,917,377,152,All

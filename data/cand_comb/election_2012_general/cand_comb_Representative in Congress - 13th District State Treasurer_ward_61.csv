@@ -1,20 +1,68 @@
 col_1,col_2,col_3,col_4,col_5,col_6,division
-,State Treasurer,,,Representative In Congress 13th District,,All
-,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,Allyson Y Schwartz,Joseph James Rooney,All
-Robert M Mccord,"3,534",0,0,"6,940",39,All
-Diana Irey Vaughan,,253,0,50,316,All
-Patricia M Fryman,,,30,17,4,All
-Allyson Y Schwartz,,,,109,0,All
-Joseph James Rooney,,,,,11,All
-Total,"10,513",619,51,"7,116",370,All
-,State Treasurer,,,Representative In Congress 13th District,,24
-,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,Allyson Y Schwartz,Joseph James Rooney,24
-Robert M Mccord,257,0,0,0,0,24
-Diana Irey Vaughan,,19,0,0,0,24
-Patricia M Fryman,,,3,0,0,24
-Allyson Y Schwartz,,,,0,0,24
-Joseph James Rooney,,,,,0,24
-Total,257,19,3,0,0,24
+,Representative In Congress 13th District,,State Treasurer,,,All
+,Allyson Y Schwartz,Joseph James Rooney,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,All
+Allyson Y Schwartz,109,0,"6,940",50,17,All
+Joseph James Rooney,,11,39,316,4,All
+Robert M Mccord,,,42,0,0,All
+Diana Irey Vaughan,,,,3,0,All
+Patricia M Fryman,,,,,4,All
+Total,"7,116",370,"7,021",369,25,All
+,Representative In Congress 13th District,,State Treasurer,,,3
+,Allyson Y Schwartz,Joseph James Rooney,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,3
+Allyson Y Schwartz,5,0,337,2,0,3
+Joseph James Rooney,,0,6,12,0,3
+Robert M Mccord,,,1,0,0,3
+Diana Irey Vaughan,,,,0,0,3
+Patricia M Fryman,,,,,1,3
+Total,344,18,344,14,1,3
+,State Treasurer,,,Representative In Congress 13th District,,4
+,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,Allyson Y Schwartz,Joseph James Rooney,4
+Robert M Mccord,5,0,0,345,7,4
+Diana Irey Vaughan,,0,0,3,23,4
+Patricia M Fryman,,,0,1,1,4
+Allyson Y Schwartz,,,,5,0,4
+Joseph James Rooney,,,,,2,4
+Total,357,26,2,354,33,4
+,Representative In Congress 13th District,,State Treasurer,,,5
+,Allyson Y Schwartz,Joseph James Rooney,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,5
+Allyson Y Schwartz,3,0,319,2,1,5
+Joseph James Rooney,,0,1,38,0,5
+Robert M Mccord,,,1,0,0,5
+Diana Irey Vaughan,,,,0,0,5
+Patricia M Fryman,,,,,0,5
+Total,325,39,321,40,1,5
+,Representative In Congress 13th District,,State Treasurer,,,8
+,Allyson Y Schwartz,Joseph James Rooney,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,8
+Allyson Y Schwartz,8,0,387,4,0,8
+Joseph James Rooney,,1,1,11,1,8
+Robert M Mccord,,,1,0,0,8
+Diana Irey Vaughan,,,,1,0,8
+Patricia M Fryman,,,,,0,8
+Total,399,14,389,16,1,8
+,Representative In Congress 13th District,,State Treasurer,,,9
+,Allyson Y Schwartz,Joseph James Rooney,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,9
+Allyson Y Schwartz,7,0,433,2,2,9
+Joseph James Rooney,,0,2,11,0,9
+Robert M Mccord,,,2,0,0,9
+Diana Irey Vaughan,,,,0,0,9
+Patricia M Fryman,,,,,1,9
+Total,444,13,437,13,3,9
+,Representative In Congress 13th District,,State Treasurer,,,10
+,Allyson Y Schwartz,Joseph James Rooney,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,10
+Allyson Y Schwartz,4,0,415,1,1,10
+Joseph James Rooney,,0,0,34,0,10
+Robert M Mccord,,,3,0,0,10
+Diana Irey Vaughan,,,,0,0,10
+Patricia M Fryman,,,,,0,10
+Total,421,34,418,35,1,10
+,Representative In Congress 13th District,,State Treasurer,,,11
+,Allyson Y Schwartz,Joseph James Rooney,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,11
+Allyson Y Schwartz,9,0,388,2,3,11
+Joseph James Rooney,,0,1,15,0,11
+Robert M Mccord,,,3,0,0,11
+Diana Irey Vaughan,,,,0,0,11
+Patricia M Fryman,,,,,0,11
+Total,402,16,392,17,3,11
 ,Representative In Congress 13th District,,State Treasurer,,,12
 ,Allyson Y Schwartz,Joseph James Rooney,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,12
 Allyson Y Schwartz,3,0,403,5,0,12
@@ -55,14 +103,6 @@ Robert M Mccord,,,1,0,0,16
 Diana Irey Vaughan,,,,0,0,16
 Patricia M Fryman,,,,,0,16
 Total,369,25,365,25,0,16
-,State Treasurer,,,Representative In Congress 13th District,,17
-,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,Allyson Y Schwartz,Joseph James Rooney,17
-Robert M Mccord,312,0,0,0,0,17
-Diana Irey Vaughan,,58,0,0,0,17
-Patricia M Fryman,,,5,0,0,17
-Allyson Y Schwartz,,,,0,0,17
-Joseph James Rooney,,,,,0,17
-Total,312,58,5,0,0,17
 ,Representative In Congress 13th District,,State Treasurer,,,18
 ,Allyson Y Schwartz,Joseph James Rooney,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,18
 Allyson Y Schwartz,4,0,412,3,0,18
@@ -87,30 +127,6 @@ Robert M Mccord,,,0,0,0,20
 Diana Irey Vaughan,,,,1,0,20
 Patricia M Fryman,,,,,0,20
 Total,389,8,381,6,2,20
-,State Treasurer,,,Representative In Congress 13th District,,21
-,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,Allyson Y Schwartz,Joseph James Rooney,21
-Robert M Mccord,526,0,0,0,0,21
-Diana Irey Vaughan,,18,0,0,0,21
-Patricia M Fryman,,,2,0,0,21
-Allyson Y Schwartz,,,,0,0,21
-Joseph James Rooney,,,,,0,21
-Total,526,18,2,0,0,21
-,State Treasurer,,,Representative In Congress 13th District,,22
-,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,Allyson Y Schwartz,Joseph James Rooney,22
-Robert M Mccord,290,0,0,0,0,22
-Diana Irey Vaughan,,10,0,0,0,22
-Patricia M Fryman,,,0,0,0,22
-Allyson Y Schwartz,,,,0,0,22
-Joseph James Rooney,,,,,0,22
-Total,290,10,0,0,0,22
-,State Treasurer,,,Representative In Congress 13th District,,23
-,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,Allyson Y Schwartz,Joseph James Rooney,23
-Robert M Mccord,385,0,0,0,0,23
-Diana Irey Vaughan,,22,0,0,0,23
-Patricia M Fryman,,,3,0,0,23
-Allyson Y Schwartz,,,,0,0,23
-Joseph James Rooney,,,,,0,23
-Total,385,22,3,0,0,23
 ,Representative In Congress 13th District,,State Treasurer,,,25
 ,Allyson Y Schwartz,Joseph James Rooney,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,25
 Allyson Y Schwartz,7,0,347,2,3,25
@@ -143,91 +159,3 @@ Robert M Mccord,,,1,0,0,28
 Diana Irey Vaughan,,,,0,0,28
 Patricia M Fryman,,,,,0,28
 Total,435,7,430,7,0,28
-,State Treasurer,,,Representative In Congress 13th District,,1
-,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,Allyson Y Schwartz,Joseph James Rooney,1
-Robert M Mccord,296,0,0,0,0,1
-Diana Irey Vaughan,,40,0,0,0,1
-Patricia M Fryman,,,4,0,0,1
-Allyson Y Schwartz,,,,0,0,1
-Joseph James Rooney,,,,,0,1
-Total,296,40,4,0,0,1
-,State Treasurer,,,Representative In Congress 13th District,,2
-,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,Allyson Y Schwartz,Joseph James Rooney,2
-Robert M Mccord,359,0,0,0,0,2
-Diana Irey Vaughan,,18,0,0,0,2
-Patricia M Fryman,,,2,0,0,2
-Allyson Y Schwartz,,,,0,0,2
-Joseph James Rooney,,,,,0,2
-Total,359,18,2,0,0,2
-,Representative In Congress 13th District,,State Treasurer,,,3
-,Allyson Y Schwartz,Joseph James Rooney,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,3
-Allyson Y Schwartz,5,0,337,2,0,3
-Joseph James Rooney,,0,6,12,0,3
-Robert M Mccord,,,1,0,0,3
-Diana Irey Vaughan,,,,0,0,3
-Patricia M Fryman,,,,,1,3
-Total,344,18,344,14,1,3
-,State Treasurer,,,Representative In Congress 13th District,,4
-,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,Allyson Y Schwartz,Joseph James Rooney,4
-Robert M Mccord,5,0,0,345,7,4
-Diana Irey Vaughan,,0,0,3,23,4
-Patricia M Fryman,,,0,1,1,4
-Allyson Y Schwartz,,,,5,0,4
-Joseph James Rooney,,,,,2,4
-Total,357,26,2,354,33,4
-,Representative In Congress 13th District,,State Treasurer,,,5
-,Allyson Y Schwartz,Joseph James Rooney,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,5
-Allyson Y Schwartz,3,0,319,2,1,5
-Joseph James Rooney,,0,1,38,0,5
-Robert M Mccord,,,1,0,0,5
-Diana Irey Vaughan,,,,0,0,5
-Patricia M Fryman,,,,,0,5
-Total,325,39,321,40,1,5
-,State Treasurer,,,Representative In Congress 13th District,,6
-,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,Allyson Y Schwartz,Joseph James Rooney,6
-Robert M Mccord,605,0,0,0,0,6
-Diana Irey Vaughan,,35,0,0,0,6
-Patricia M Fryman,,,4,0,0,6
-Allyson Y Schwartz,,,,0,0,6
-Joseph James Rooney,,,,,0,6
-Total,605,35,4,0,0,6
-,State Treasurer,,,Representative In Congress 13th District,,7
-,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,Allyson Y Schwartz,Joseph James Rooney,7
-Robert M Mccord,462,0,0,0,0,7
-Diana Irey Vaughan,,30,0,0,0,7
-Patricia M Fryman,,,3,0,0,7
-Allyson Y Schwartz,,,,0,0,7
-Joseph James Rooney,,,,,0,7
-Total,462,30,3,0,0,7
-,Representative In Congress 13th District,,State Treasurer,,,8
-,Allyson Y Schwartz,Joseph James Rooney,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,8
-Allyson Y Schwartz,8,0,387,4,0,8
-Joseph James Rooney,,1,1,11,1,8
-Robert M Mccord,,,1,0,0,8
-Diana Irey Vaughan,,,,1,0,8
-Patricia M Fryman,,,,,0,8
-Total,399,14,389,16,1,8
-,Representative In Congress 13th District,,State Treasurer,,,9
-,Allyson Y Schwartz,Joseph James Rooney,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,9
-Allyson Y Schwartz,7,0,433,2,2,9
-Joseph James Rooney,,0,2,11,0,9
-Robert M Mccord,,,2,0,0,9
-Diana Irey Vaughan,,,,0,0,9
-Patricia M Fryman,,,,,1,9
-Total,444,13,437,13,3,9
-,Representative In Congress 13th District,,State Treasurer,,,10
-,Allyson Y Schwartz,Joseph James Rooney,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,10
-Allyson Y Schwartz,4,0,415,1,1,10
-Joseph James Rooney,,0,0,34,0,10
-Robert M Mccord,,,3,0,0,10
-Diana Irey Vaughan,,,,0,0,10
-Patricia M Fryman,,,,,0,10
-Total,421,34,418,35,1,10
-,Representative In Congress 13th District,,State Treasurer,,,11
-,Allyson Y Schwartz,Joseph James Rooney,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,11
-Allyson Y Schwartz,9,0,388,2,3,11
-Joseph James Rooney,,0,1,15,0,11
-Robert M Mccord,,,3,0,0,11
-Diana Irey Vaughan,,,,0,0,11
-Patricia M Fryman,,,,,0,11
-Total,402,16,392,17,3,11

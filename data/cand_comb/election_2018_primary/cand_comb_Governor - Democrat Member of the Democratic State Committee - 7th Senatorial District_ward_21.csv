@@ -1,4 +1,21 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10,col_11,col_12,col_13,col_14,col_15,division
+,Governor - Democrat,Member Of The Democratic State Committee 7th Senatorial District,,,,,,,,,,,,,All
+,Tom Wolf,Kathryn S Huggins,Rebecca Poyourow,Liam G Boyle,Joe Khan,Lisa Rhodes,Monica Maria Djerassi,Linda Norris,Ken Washington,Dewayne Drummond,John Brady,Jacque Whaumbush,Kevin Bundy,Nat Lownes,All
+Tom Wolf,296,"1,351","1,315","1,039",867,853,847,810,680,648,590,562,459,270,All
+Kathryn S Huggins,,14,928,719,499,710,715,673,571,564,348,382,372,206,All
+Rebecca Poyourow,,,5,724,677,683,704,659,428,410,441,474,255,182,All
+Liam G Boyle,,,,12,479,407,402,406,458,397,421,311,327,134,All
+Joe Khan,,,,,7,356,386,322,225,222,392,321,181,114,All
+Lisa Rhodes,,,,,,1,553,650,291,324,233,348,168,136,All
+Monica Maria Djerassi,,,,,,,0,518,273,281,234,334,191,143,All
+Linda Norris,,,,,,,,1,295,290,217,308,146,124,All
+Ken Washington,,,,,,,,,3,436,182,146,254,122,All
+Dewayne Drummond,,,,,,,,,,3,159,144,257,130,All
+John Brady,,,,,,,,,,,4,256,180,93,All
+Jacque Whaumbush,,,,,,,,,,,,3,101,85,All
+Kevin Bundy,,,,,,,,,,,,,2,101,All
+Nat Lownes,,,,,,,,,,,,,,1,All
+Total,"2,382","1,408","1,382","1,125",926,892,877,845,709,671,650,603,487,280,All
 ,Governor - Democrat,Member Of The Democratic State Committee 7th Senatorial District,,,,,,,,,,,,,1
 ,Tom Wolf,Kathryn S Huggins,Rebecca Poyourow,Monica Maria Djerassi,Lisa Rhodes,Linda Norris,Liam G Boyle,Joe Khan,Jacque Whaumbush,Ken Washington,Dewayne Drummond,John Brady,Kevin Bundy,Nat Lownes,1
 Tom Wolf,13,52,48,45,39,36,30,30,24,20,14,11,9,8,1
@@ -33,23 +50,6 @@ Kevin Bundy,,,,,,,,,,,,0,7,2,2
 John Brady,,,,,,,,,,,,,0,3,2
 Nat Lownes,,,,,,,,,,,,,,0,2
 Total,89,64,55,47,43,38,38,32,30,26,20,20,17,15,2
-,Governor - Democrat,Member Of The Democratic State Committee 7th Senatorial District,,,,,,,,,,,,,3
-,Tom Wolf,Dewayne Drummond,Jacque Whaumbush,Joe Khan,John Brady,Kathryn S Huggins,Ken Washington,Kevin Bundy,Liam G Boyle,Linda Norris,Lisa Rhodes,Monica Maria Djerassi,Nat Lownes,Rebecca Poyourow,3
-Tom Wolf,87,0,0,0,0,0,0,0,0,0,0,0,0,0,3
-Dewayne Drummond,,0,0,0,0,0,0,0,0,0,0,0,0,0,3
-Jacque Whaumbush,,,0,0,0,0,0,0,0,0,0,0,0,0,3
-Joe Khan,,,,0,0,0,0,0,0,0,0,0,0,0,3
-John Brady,,,,,0,0,0,0,0,0,0,0,0,0,3
-Kathryn S Huggins,,,,,,0,0,0,0,0,0,0,0,0,3
-Ken Washington,,,,,,,0,0,0,0,0,0,0,0,3
-Kevin Bundy,,,,,,,,0,0,0,0,0,0,0,3
-Liam G Boyle,,,,,,,,,0,0,0,0,0,0,3
-Linda Norris,,,,,,,,,,0,0,0,0,0,3
-Lisa Rhodes,,,,,,,,,,,0,0,0,0,3
-Monica Maria Djerassi,,,,,,,,,,,,0,0,0,3
-Nat Lownes,,,,,,,,,,,,,0,0,3
-Rebecca Poyourow,,,,,,,,,,,,,,0,3
-Total,87,0,0,0,0,0,0,0,0,0,0,0,0,0,3
 ,Governor - Democrat,Member Of The Democratic State Committee 7th Senatorial District,,,,,,,,,,,,,4
 ,Tom Wolf,Kathryn S Huggins,Rebecca Poyourow,Liam G Boyle,Ken Washington,Lisa Rhodes,Dewayne Drummond,Monica Maria Djerassi,Joe Khan,Kevin Bundy,Linda Norris,Jacque Whaumbush,John Brady,Nat Lownes,4
 Tom Wolf,4,28,25,16,15,15,14,15,12,11,13,10,7,7,4
@@ -373,108 +373,6 @@ Jacque Whaumbush,,,,,,,,,,,,0,8,5,22
 Kevin Bundy,,,,,,,,,,,,,0,6,22
 Nat Lownes,,,,,,,,,,,,,,0,22
 Total,116,74,58,47,47,46,44,42,42,38,36,32,29,18,22
-,Governor - Democrat,Member Of The Democratic State Committee 7th Senatorial District,,,,,,,,,,,,,23
-,Tom Wolf,Dewayne Drummond,Jacque Whaumbush,Joe Khan,John Brady,Kathryn S Huggins,Ken Washington,Kevin Bundy,Liam G Boyle,Linda Norris,Lisa Rhodes,Monica Maria Djerassi,Nat Lownes,Rebecca Poyourow,23
-Tom Wolf,152,0,0,0,0,0,0,0,0,0,0,0,0,0,23
-Dewayne Drummond,,0,0,0,0,0,0,0,0,0,0,0,0,0,23
-Jacque Whaumbush,,,0,0,0,0,0,0,0,0,0,0,0,0,23
-Joe Khan,,,,0,0,0,0,0,0,0,0,0,0,0,23
-John Brady,,,,,0,0,0,0,0,0,0,0,0,0,23
-Kathryn S Huggins,,,,,,0,0,0,0,0,0,0,0,0,23
-Ken Washington,,,,,,,0,0,0,0,0,0,0,0,23
-Kevin Bundy,,,,,,,,0,0,0,0,0,0,0,23
-Liam G Boyle,,,,,,,,,0,0,0,0,0,0,23
-Linda Norris,,,,,,,,,,0,0,0,0,0,23
-Lisa Rhodes,,,,,,,,,,,0,0,0,0,23
-Monica Maria Djerassi,,,,,,,,,,,,0,0,0,23
-Nat Lownes,,,,,,,,,,,,,0,0,23
-Rebecca Poyourow,,,,,,,,,,,,,,0,23
-Total,152,0,0,0,0,0,0,0,0,0,0,0,0,0,23
-,Governor - Democrat,Member Of The Democratic State Committee 7th Senatorial District,,,,,,,,,,,,,24
-,Tom Wolf,Dewayne Drummond,Jacque Whaumbush,Joe Khan,John Brady,Kathryn S Huggins,Ken Washington,Kevin Bundy,Liam G Boyle,Linda Norris,Lisa Rhodes,Monica Maria Djerassi,Nat Lownes,Rebecca Poyourow,24
-Tom Wolf,296,0,0,0,0,0,0,0,0,0,0,0,0,0,24
-Dewayne Drummond,,0,0,0,0,0,0,0,0,0,0,0,0,0,24
-Jacque Whaumbush,,,0,0,0,0,0,0,0,0,0,0,0,0,24
-Joe Khan,,,,0,0,0,0,0,0,0,0,0,0,0,24
-John Brady,,,,,0,0,0,0,0,0,0,0,0,0,24
-Kathryn S Huggins,,,,,,0,0,0,0,0,0,0,0,0,24
-Ken Washington,,,,,,,0,0,0,0,0,0,0,0,24
-Kevin Bundy,,,,,,,,0,0,0,0,0,0,0,24
-Liam G Boyle,,,,,,,,,0,0,0,0,0,0,24
-Linda Norris,,,,,,,,,,0,0,0,0,0,24
-Lisa Rhodes,,,,,,,,,,,0,0,0,0,24
-Monica Maria Djerassi,,,,,,,,,,,,0,0,0,24
-Nat Lownes,,,,,,,,,,,,,0,0,24
-Rebecca Poyourow,,,,,,,,,,,,,,0,24
-Total,296,0,0,0,0,0,0,0,0,0,0,0,0,0,24
-,Governor - Democrat,Member Of The Democratic State Committee 7th Senatorial District,,,,,,,,,,,,,25
-,Tom Wolf,Dewayne Drummond,Jacque Whaumbush,Joe Khan,John Brady,Kathryn S Huggins,Ken Washington,Kevin Bundy,Liam G Boyle,Linda Norris,Lisa Rhodes,Monica Maria Djerassi,Nat Lownes,Rebecca Poyourow,25
-Tom Wolf,90,0,0,0,0,0,0,0,0,0,0,0,0,0,25
-Dewayne Drummond,,0,0,0,0,0,0,0,0,0,0,0,0,0,25
-Jacque Whaumbush,,,0,0,0,0,0,0,0,0,0,0,0,0,25
-Joe Khan,,,,0,0,0,0,0,0,0,0,0,0,0,25
-John Brady,,,,,0,0,0,0,0,0,0,0,0,0,25
-Kathryn S Huggins,,,,,,0,0,0,0,0,0,0,0,0,25
-Ken Washington,,,,,,,0,0,0,0,0,0,0,0,25
-Kevin Bundy,,,,,,,,0,0,0,0,0,0,0,25
-Liam G Boyle,,,,,,,,,0,0,0,0,0,0,25
-Linda Norris,,,,,,,,,,0,0,0,0,0,25
-Lisa Rhodes,,,,,,,,,,,0,0,0,0,25
-Monica Maria Djerassi,,,,,,,,,,,,0,0,0,25
-Nat Lownes,,,,,,,,,,,,,0,0,25
-Rebecca Poyourow,,,,,,,,,,,,,,0,25
-Total,90,0,0,0,0,0,0,0,0,0,0,0,0,0,25
-,Governor - Democrat,Member Of The Democratic State Committee 7th Senatorial District,,,,,,,,,,,,,26
-,Tom Wolf,Dewayne Drummond,Jacque Whaumbush,Joe Khan,John Brady,Kathryn S Huggins,Ken Washington,Kevin Bundy,Liam G Boyle,Linda Norris,Lisa Rhodes,Monica Maria Djerassi,Nat Lownes,Rebecca Poyourow,26
-Tom Wolf,86,0,0,0,0,0,0,0,0,0,0,0,0,0,26
-Dewayne Drummond,,0,0,0,0,0,0,0,0,0,0,0,0,0,26
-Jacque Whaumbush,,,0,0,0,0,0,0,0,0,0,0,0,0,26
-Joe Khan,,,,0,0,0,0,0,0,0,0,0,0,0,26
-John Brady,,,,,0,0,0,0,0,0,0,0,0,0,26
-Kathryn S Huggins,,,,,,0,0,0,0,0,0,0,0,0,26
-Ken Washington,,,,,,,0,0,0,0,0,0,0,0,26
-Kevin Bundy,,,,,,,,0,0,0,0,0,0,0,26
-Liam G Boyle,,,,,,,,,0,0,0,0,0,0,26
-Linda Norris,,,,,,,,,,0,0,0,0,0,26
-Lisa Rhodes,,,,,,,,,,,0,0,0,0,26
-Monica Maria Djerassi,,,,,,,,,,,,0,0,0,26
-Nat Lownes,,,,,,,,,,,,,0,0,26
-Rebecca Poyourow,,,,,,,,,,,,,,0,26
-Total,86,0,0,0,0,0,0,0,0,0,0,0,0,0,26
-,Governor - Democrat,Member Of The Democratic State Committee 7th Senatorial District,,,,,,,,,,,,,27
-,Tom Wolf,Dewayne Drummond,Jacque Whaumbush,Joe Khan,John Brady,Kathryn S Huggins,Ken Washington,Kevin Bundy,Liam G Boyle,Linda Norris,Lisa Rhodes,Monica Maria Djerassi,Nat Lownes,Rebecca Poyourow,27
-Tom Wolf,86,0,0,0,0,0,0,0,0,0,0,0,0,0,27
-Dewayne Drummond,,0,0,0,0,0,0,0,0,0,0,0,0,0,27
-Jacque Whaumbush,,,0,0,0,0,0,0,0,0,0,0,0,0,27
-Joe Khan,,,,0,0,0,0,0,0,0,0,0,0,0,27
-John Brady,,,,,0,0,0,0,0,0,0,0,0,0,27
-Kathryn S Huggins,,,,,,0,0,0,0,0,0,0,0,0,27
-Ken Washington,,,,,,,0,0,0,0,0,0,0,0,27
-Kevin Bundy,,,,,,,,0,0,0,0,0,0,0,27
-Liam G Boyle,,,,,,,,,0,0,0,0,0,0,27
-Linda Norris,,,,,,,,,,0,0,0,0,0,27
-Lisa Rhodes,,,,,,,,,,,0,0,0,0,27
-Monica Maria Djerassi,,,,,,,,,,,,0,0,0,27
-Nat Lownes,,,,,,,,,,,,,0,0,27
-Rebecca Poyourow,,,,,,,,,,,,,,0,27
-Total,86,0,0,0,0,0,0,0,0,0,0,0,0,0,27
-,Governor - Democrat,Member Of The Democratic State Committee 7th Senatorial District,,,,,,,,,,,,,28
-,Tom Wolf,Dewayne Drummond,Jacque Whaumbush,Joe Khan,John Brady,Kathryn S Huggins,Ken Washington,Kevin Bundy,Liam G Boyle,Linda Norris,Lisa Rhodes,Monica Maria Djerassi,Nat Lownes,Rebecca Poyourow,28
-Tom Wolf,110,0,0,0,0,0,0,0,0,0,0,0,0,0,28
-Dewayne Drummond,,0,0,0,0,0,0,0,0,0,0,0,0,0,28
-Jacque Whaumbush,,,0,0,0,0,0,0,0,0,0,0,0,0,28
-Joe Khan,,,,0,0,0,0,0,0,0,0,0,0,0,28
-John Brady,,,,,0,0,0,0,0,0,0,0,0,0,28
-Kathryn S Huggins,,,,,,0,0,0,0,0,0,0,0,0,28
-Ken Washington,,,,,,,0,0,0,0,0,0,0,0,28
-Kevin Bundy,,,,,,,,0,0,0,0,0,0,0,28
-Liam G Boyle,,,,,,,,,0,0,0,0,0,0,28
-Linda Norris,,,,,,,,,,0,0,0,0,0,28
-Lisa Rhodes,,,,,,,,,,,0,0,0,0,28
-Monica Maria Djerassi,,,,,,,,,,,,0,0,0,28
-Nat Lownes,,,,,,,,,,,,,0,0,28
-Rebecca Poyourow,,,,,,,,,,,,,,0,28
-Total,110,0,0,0,0,0,0,0,0,0,0,0,0,0,28
 ,Governor - Democrat,Member Of The Democratic State Committee 7th Senatorial District,,,,,,,,,,,,,29
 ,Tom Wolf,Kathryn S Huggins,Liam G Boyle,Rebecca Poyourow,Joe Khan,John Brady,Lisa Rhodes,Ken Washington,Linda Norris,Monica Maria Djerassi,Dewayne Drummond,Jacque Whaumbush,Kevin Bundy,Nat Lownes,29
 Tom Wolf,10,50,41,41,28,28,29,25,23,24,22,19,15,10,29
@@ -492,57 +390,6 @@ Jacque Whaumbush,,,,,,,,,,,,0,4,2,29
 Kevin Bundy,,,,,,,,,,,,,0,3,29
 Nat Lownes,,,,,,,,,,,,,,0,29
 Total,81,52,45,44,33,31,31,27,25,25,23,19,17,11,29
-,Governor - Democrat,Member Of The Democratic State Committee 7th Senatorial District,,,,,,,,,,,,,30
-,Tom Wolf,Dewayne Drummond,Jacque Whaumbush,Joe Khan,John Brady,Kathryn S Huggins,Ken Washington,Kevin Bundy,Liam G Boyle,Linda Norris,Lisa Rhodes,Monica Maria Djerassi,Nat Lownes,Rebecca Poyourow,30
-Tom Wolf,120,0,0,0,0,0,0,0,0,0,0,0,0,0,30
-Dewayne Drummond,,0,0,0,0,0,0,0,0,0,0,0,0,0,30
-Jacque Whaumbush,,,0,0,0,0,0,0,0,0,0,0,0,0,30
-Joe Khan,,,,0,0,0,0,0,0,0,0,0,0,0,30
-John Brady,,,,,0,0,0,0,0,0,0,0,0,0,30
-Kathryn S Huggins,,,,,,0,0,0,0,0,0,0,0,0,30
-Ken Washington,,,,,,,0,0,0,0,0,0,0,0,30
-Kevin Bundy,,,,,,,,0,0,0,0,0,0,0,30
-Liam G Boyle,,,,,,,,,0,0,0,0,0,0,30
-Linda Norris,,,,,,,,,,0,0,0,0,0,30
-Lisa Rhodes,,,,,,,,,,,0,0,0,0,30
-Monica Maria Djerassi,,,,,,,,,,,,0,0,0,30
-Nat Lownes,,,,,,,,,,,,,0,0,30
-Rebecca Poyourow,,,,,,,,,,,,,,0,30
-Total,120,0,0,0,0,0,0,0,0,0,0,0,0,0,30
-,Governor - Democrat,Member Of The Democratic State Committee 7th Senatorial District,,,,,,,,,,,,,31
-,Tom Wolf,Dewayne Drummond,Jacque Whaumbush,Joe Khan,John Brady,Kathryn S Huggins,Ken Washington,Kevin Bundy,Liam G Boyle,Linda Norris,Lisa Rhodes,Monica Maria Djerassi,Nat Lownes,Rebecca Poyourow,31
-Tom Wolf,94,0,0,0,0,0,0,0,0,0,0,0,0,0,31
-Dewayne Drummond,,0,0,0,0,0,0,0,0,0,0,0,0,0,31
-Jacque Whaumbush,,,0,0,0,0,0,0,0,0,0,0,0,0,31
-Joe Khan,,,,0,0,0,0,0,0,0,0,0,0,0,31
-John Brady,,,,,0,0,0,0,0,0,0,0,0,0,31
-Kathryn S Huggins,,,,,,0,0,0,0,0,0,0,0,0,31
-Ken Washington,,,,,,,0,0,0,0,0,0,0,0,31
-Kevin Bundy,,,,,,,,0,0,0,0,0,0,0,31
-Liam G Boyle,,,,,,,,,0,0,0,0,0,0,31
-Linda Norris,,,,,,,,,,0,0,0,0,0,31
-Lisa Rhodes,,,,,,,,,,,0,0,0,0,31
-Monica Maria Djerassi,,,,,,,,,,,,0,0,0,31
-Nat Lownes,,,,,,,,,,,,,0,0,31
-Rebecca Poyourow,,,,,,,,,,,,,,0,31
-Total,94,0,0,0,0,0,0,0,0,0,0,0,0,0,31
-,Governor - Democrat,Member Of The Democratic State Committee 7th Senatorial District,,,,,,,,,,,,,32
-,Tom Wolf,Dewayne Drummond,Jacque Whaumbush,Joe Khan,John Brady,Kathryn S Huggins,Ken Washington,Kevin Bundy,Liam G Boyle,Linda Norris,Lisa Rhodes,Monica Maria Djerassi,Nat Lownes,Rebecca Poyourow,32
-Tom Wolf,63,0,0,0,0,0,0,0,0,0,0,0,0,0,32
-Dewayne Drummond,,0,0,0,0,0,0,0,0,0,0,0,0,0,32
-Jacque Whaumbush,,,0,0,0,0,0,0,0,0,0,0,0,0,32
-Joe Khan,,,,0,0,0,0,0,0,0,0,0,0,0,32
-John Brady,,,,,0,0,0,0,0,0,0,0,0,0,32
-Kathryn S Huggins,,,,,,0,0,0,0,0,0,0,0,0,32
-Ken Washington,,,,,,,0,0,0,0,0,0,0,0,32
-Kevin Bundy,,,,,,,,0,0,0,0,0,0,0,32
-Liam G Boyle,,,,,,,,,0,0,0,0,0,0,32
-Linda Norris,,,,,,,,,,0,0,0,0,0,32
-Lisa Rhodes,,,,,,,,,,,0,0,0,0,32
-Monica Maria Djerassi,,,,,,,,,,,,0,0,0,32
-Nat Lownes,,,,,,,,,,,,,0,0,32
-Rebecca Poyourow,,,,,,,,,,,,,,0,32
-Total,63,0,0,0,0,0,0,0,0,0,0,0,0,0,32
 ,Governor - Democrat,Member Of The Democratic State Committee 7th Senatorial District,,,,,,,,,,,,,33
 ,Tom Wolf,Rebecca Poyourow,Kathryn S Huggins,Liam G Boyle,Lisa Rhodes,Monica Maria Djerassi,Joe Khan,Linda Norris,Ken Washington,John Brady,Dewayne Drummond,Jacque Whaumbush,Kevin Bundy,Nat Lownes,33
 Tom Wolf,16,106,82,71,55,53,45,49,47,42,42,39,27,12,33
@@ -611,142 +458,6 @@ Kevin Bundy,,,,,,,,,,,,0,5,2,36
 Ken Washington,,,,,,,,,,,,,0,2,36
 Nat Lownes,,,,,,,,,,,,,,0,36
 Total,43,26,25,23,20,18,17,17,16,15,9,9,8,5,36
-,Governor - Democrat,Member Of The Democratic State Committee 7th Senatorial District,,,,,,,,,,,,,37
-,Tom Wolf,Dewayne Drummond,Jacque Whaumbush,Joe Khan,John Brady,Kathryn S Huggins,Ken Washington,Kevin Bundy,Liam G Boyle,Linda Norris,Lisa Rhodes,Monica Maria Djerassi,Nat Lownes,Rebecca Poyourow,37
-Tom Wolf,65,0,0,0,0,0,0,0,0,0,0,0,0,0,37
-Dewayne Drummond,,0,0,0,0,0,0,0,0,0,0,0,0,0,37
-Jacque Whaumbush,,,0,0,0,0,0,0,0,0,0,0,0,0,37
-Joe Khan,,,,0,0,0,0,0,0,0,0,0,0,0,37
-John Brady,,,,,0,0,0,0,0,0,0,0,0,0,37
-Kathryn S Huggins,,,,,,0,0,0,0,0,0,0,0,0,37
-Ken Washington,,,,,,,0,0,0,0,0,0,0,0,37
-Kevin Bundy,,,,,,,,0,0,0,0,0,0,0,37
-Liam G Boyle,,,,,,,,,0,0,0,0,0,0,37
-Linda Norris,,,,,,,,,,0,0,0,0,0,37
-Lisa Rhodes,,,,,,,,,,,0,0,0,0,37
-Monica Maria Djerassi,,,,,,,,,,,,0,0,0,37
-Nat Lownes,,,,,,,,,,,,,0,0,37
-Rebecca Poyourow,,,,,,,,,,,,,,0,37
-Total,65,0,0,0,0,0,0,0,0,0,0,0,0,0,37
-,Governor - Democrat,Member Of The Democratic State Committee 7th Senatorial District,,,,,,,,,,,,,38
-,Tom Wolf,Dewayne Drummond,Jacque Whaumbush,Joe Khan,John Brady,Kathryn S Huggins,Ken Washington,Kevin Bundy,Liam G Boyle,Linda Norris,Lisa Rhodes,Monica Maria Djerassi,Nat Lownes,Rebecca Poyourow,38
-Tom Wolf,85,0,0,0,0,0,0,0,0,0,0,0,0,0,38
-Dewayne Drummond,,0,0,0,0,0,0,0,0,0,0,0,0,0,38
-Jacque Whaumbush,,,0,0,0,0,0,0,0,0,0,0,0,0,38
-Joe Khan,,,,0,0,0,0,0,0,0,0,0,0,0,38
-John Brady,,,,,0,0,0,0,0,0,0,0,0,0,38
-Kathryn S Huggins,,,,,,0,0,0,0,0,0,0,0,0,38
-Ken Washington,,,,,,,0,0,0,0,0,0,0,0,38
-Kevin Bundy,,,,,,,,0,0,0,0,0,0,0,38
-Liam G Boyle,,,,,,,,,0,0,0,0,0,0,38
-Linda Norris,,,,,,,,,,0,0,0,0,0,38
-Lisa Rhodes,,,,,,,,,,,0,0,0,0,38
-Monica Maria Djerassi,,,,,,,,,,,,0,0,0,38
-Nat Lownes,,,,,,,,,,,,,0,0,38
-Rebecca Poyourow,,,,,,,,,,,,,,0,38
-Total,85,0,0,0,0,0,0,0,0,0,0,0,0,0,38
-,Governor - Democrat,Member Of The Democratic State Committee 7th Senatorial District,,,,,,,,,,,,,39
-,Tom Wolf,Dewayne Drummond,Jacque Whaumbush,Joe Khan,John Brady,Kathryn S Huggins,Ken Washington,Kevin Bundy,Liam G Boyle,Linda Norris,Lisa Rhodes,Monica Maria Djerassi,Nat Lownes,Rebecca Poyourow,39
-Tom Wolf,113,0,0,0,0,0,0,0,0,0,0,0,0,0,39
-Dewayne Drummond,,0,0,0,0,0,0,0,0,0,0,0,0,0,39
-Jacque Whaumbush,,,0,0,0,0,0,0,0,0,0,0,0,0,39
-Joe Khan,,,,0,0,0,0,0,0,0,0,0,0,0,39
-John Brady,,,,,0,0,0,0,0,0,0,0,0,0,39
-Kathryn S Huggins,,,,,,0,0,0,0,0,0,0,0,0,39
-Ken Washington,,,,,,,0,0,0,0,0,0,0,0,39
-Kevin Bundy,,,,,,,,0,0,0,0,0,0,0,39
-Liam G Boyle,,,,,,,,,0,0,0,0,0,0,39
-Linda Norris,,,,,,,,,,0,0,0,0,0,39
-Lisa Rhodes,,,,,,,,,,,0,0,0,0,39
-Monica Maria Djerassi,,,,,,,,,,,,0,0,0,39
-Nat Lownes,,,,,,,,,,,,,0,0,39
-Rebecca Poyourow,,,,,,,,,,,,,,0,39
-Total,113,0,0,0,0,0,0,0,0,0,0,0,0,0,39
-,Governor - Democrat,Member Of The Democratic State Committee 7th Senatorial District,,,,,,,,,,,,,40
-,Tom Wolf,Dewayne Drummond,Jacque Whaumbush,Joe Khan,John Brady,Kathryn S Huggins,Ken Washington,Kevin Bundy,Liam G Boyle,Linda Norris,Lisa Rhodes,Monica Maria Djerassi,Nat Lownes,Rebecca Poyourow,40
-Tom Wolf,98,0,0,0,0,0,0,0,0,0,0,0,0,0,40
-Dewayne Drummond,,0,0,0,0,0,0,0,0,0,0,0,0,0,40
-Jacque Whaumbush,,,0,0,0,0,0,0,0,0,0,0,0,0,40
-Joe Khan,,,,0,0,0,0,0,0,0,0,0,0,0,40
-John Brady,,,,,0,0,0,0,0,0,0,0,0,0,40
-Kathryn S Huggins,,,,,,0,0,0,0,0,0,0,0,0,40
-Ken Washington,,,,,,,0,0,0,0,0,0,0,0,40
-Kevin Bundy,,,,,,,,0,0,0,0,0,0,0,40
-Liam G Boyle,,,,,,,,,0,0,0,0,0,0,40
-Linda Norris,,,,,,,,,,0,0,0,0,0,40
-Lisa Rhodes,,,,,,,,,,,0,0,0,0,40
-Monica Maria Djerassi,,,,,,,,,,,,0,0,0,40
-Nat Lownes,,,,,,,,,,,,,0,0,40
-Rebecca Poyourow,,,,,,,,,,,,,,0,40
-Total,98,0,0,0,0,0,0,0,0,0,0,0,0,0,40
-,Governor - Democrat,Member Of The Democratic State Committee 7th Senatorial District,,,,,,,,,,,,,41
-,Tom Wolf,Dewayne Drummond,Jacque Whaumbush,Joe Khan,John Brady,Kathryn S Huggins,Ken Washington,Kevin Bundy,Liam G Boyle,Linda Norris,Lisa Rhodes,Monica Maria Djerassi,Nat Lownes,Rebecca Poyourow,41
-Tom Wolf,96,0,0,0,0,0,0,0,0,0,0,0,0,0,41
-Dewayne Drummond,,0,0,0,0,0,0,0,0,0,0,0,0,0,41
-Jacque Whaumbush,,,0,0,0,0,0,0,0,0,0,0,0,0,41
-Joe Khan,,,,0,0,0,0,0,0,0,0,0,0,0,41
-John Brady,,,,,0,0,0,0,0,0,0,0,0,0,41
-Kathryn S Huggins,,,,,,0,0,0,0,0,0,0,0,0,41
-Ken Washington,,,,,,,0,0,0,0,0,0,0,0,41
-Kevin Bundy,,,,,,,,0,0,0,0,0,0,0,41
-Liam G Boyle,,,,,,,,,0,0,0,0,0,0,41
-Linda Norris,,,,,,,,,,0,0,0,0,0,41
-Lisa Rhodes,,,,,,,,,,,0,0,0,0,41
-Monica Maria Djerassi,,,,,,,,,,,,0,0,0,41
-Nat Lownes,,,,,,,,,,,,,0,0,41
-Rebecca Poyourow,,,,,,,,,,,,,,0,41
-Total,96,0,0,0,0,0,0,0,0,0,0,0,0,0,41
-,Governor - Democrat,Member Of The Democratic State Committee 7th Senatorial District,,,,,,,,,,,,,42
-,Tom Wolf,Dewayne Drummond,Jacque Whaumbush,Joe Khan,John Brady,Kathryn S Huggins,Ken Washington,Kevin Bundy,Liam G Boyle,Linda Norris,Lisa Rhodes,Monica Maria Djerassi,Nat Lownes,Rebecca Poyourow,42
-Tom Wolf,51,0,0,0,0,0,0,0,0,0,0,0,0,0,42
-Dewayne Drummond,,0,0,0,0,0,0,0,0,0,0,0,0,0,42
-Jacque Whaumbush,,,0,0,0,0,0,0,0,0,0,0,0,0,42
-Joe Khan,,,,0,0,0,0,0,0,0,0,0,0,0,42
-John Brady,,,,,0,0,0,0,0,0,0,0,0,0,42
-Kathryn S Huggins,,,,,,0,0,0,0,0,0,0,0,0,42
-Ken Washington,,,,,,,0,0,0,0,0,0,0,0,42
-Kevin Bundy,,,,,,,,0,0,0,0,0,0,0,42
-Liam G Boyle,,,,,,,,,0,0,0,0,0,0,42
-Linda Norris,,,,,,,,,,0,0,0,0,0,42
-Lisa Rhodes,,,,,,,,,,,0,0,0,0,42
-Monica Maria Djerassi,,,,,,,,,,,,0,0,0,42
-Nat Lownes,,,,,,,,,,,,,0,0,42
-Rebecca Poyourow,,,,,,,,,,,,,,0,42
-Total,51,0,0,0,0,0,0,0,0,0,0,0,0,0,42
-,Governor - Democrat,Member Of The Democratic State Committee 7th Senatorial District,,,,,,,,,,,,,43
-,Tom Wolf,Dewayne Drummond,Jacque Whaumbush,Joe Khan,John Brady,Kathryn S Huggins,Ken Washington,Kevin Bundy,Liam G Boyle,Linda Norris,Lisa Rhodes,Monica Maria Djerassi,Nat Lownes,Rebecca Poyourow,43
-Tom Wolf,67,0,0,0,0,0,0,0,0,0,0,0,0,0,43
-Dewayne Drummond,,0,0,0,0,0,0,0,0,0,0,0,0,0,43
-Jacque Whaumbush,,,0,0,0,0,0,0,0,0,0,0,0,0,43
-Joe Khan,,,,0,0,0,0,0,0,0,0,0,0,0,43
-John Brady,,,,,0,0,0,0,0,0,0,0,0,0,43
-Kathryn S Huggins,,,,,,0,0,0,0,0,0,0,0,0,43
-Ken Washington,,,,,,,0,0,0,0,0,0,0,0,43
-Kevin Bundy,,,,,,,,0,0,0,0,0,0,0,43
-Liam G Boyle,,,,,,,,,0,0,0,0,0,0,43
-Linda Norris,,,,,,,,,,0,0,0,0,0,43
-Lisa Rhodes,,,,,,,,,,,0,0,0,0,43
-Monica Maria Djerassi,,,,,,,,,,,,0,0,0,43
-Nat Lownes,,,,,,,,,,,,,0,0,43
-Rebecca Poyourow,,,,,,,,,,,,,,0,43
-Total,67,0,0,0,0,0,0,0,0,0,0,0,0,0,43
-,Governor - Democrat,Member Of The Democratic State Committee 7th Senatorial District,,,,,,,,,,,,,44
-,Tom Wolf,Dewayne Drummond,Jacque Whaumbush,Joe Khan,John Brady,Kathryn S Huggins,Ken Washington,Kevin Bundy,Liam G Boyle,Linda Norris,Lisa Rhodes,Monica Maria Djerassi,Nat Lownes,Rebecca Poyourow,44
-Tom Wolf,51,0,0,0,0,0,0,0,0,0,0,0,0,0,44
-Dewayne Drummond,,0,0,0,0,0,0,0,0,0,0,0,0,0,44
-Jacque Whaumbush,,,0,0,0,0,0,0,0,0,0,0,0,0,44
-Joe Khan,,,,0,0,0,0,0,0,0,0,0,0,0,44
-John Brady,,,,,0,0,0,0,0,0,0,0,0,0,44
-Kathryn S Huggins,,,,,,0,0,0,0,0,0,0,0,0,44
-Ken Washington,,,,,,,0,0,0,0,0,0,0,0,44
-Kevin Bundy,,,,,,,,0,0,0,0,0,0,0,44
-Liam G Boyle,,,,,,,,,0,0,0,0,0,0,44
-Linda Norris,,,,,,,,,,0,0,0,0,0,44
-Lisa Rhodes,,,,,,,,,,,0,0,0,0,44
-Monica Maria Djerassi,,,,,,,,,,,,0,0,0,44
-Nat Lownes,,,,,,,,,,,,,0,0,44
-Rebecca Poyourow,,,,,,,,,,,,,,0,44
-Total,51,0,0,0,0,0,0,0,0,0,0,0,0,0,44
 ,Governor - Democrat,Member Of The Democratic State Committee 7th Senatorial District,,,,,,,,,,,,,45
 ,Tom Wolf,Rebecca Poyourow,Joe Khan,Kathryn S Huggins,Liam G Boyle,Ken Washington,Dewayne Drummond,Linda Norris,Lisa Rhodes,John Brady,Kevin Bundy,Jacque Whaumbush,Monica Maria Djerassi,Nat Lownes,45
 Tom Wolf,33,76,62,64,53,49,41,37,33,29,30,26,24,12,45
@@ -764,20 +475,3 @@ Jacque Whaumbush,,,,,,,,,,,,0,10,5,45
 Monica Maria Djerassi,,,,,,,,,,,,,0,4,45
 Nat Lownes,,,,,,,,,,,,,,0,45
 Total,158,82,70,66,59,51,42,40,37,33,31,29,24,13,45
-,Governor - Democrat,Member Of The Democratic State Committee 7th Senatorial District,,,,,,,,,,,,,All
-,Tom Wolf,Kathryn S Huggins,Rebecca Poyourow,Liam G Boyle,Joe Khan,Lisa Rhodes,Monica Maria Djerassi,Linda Norris,Ken Washington,Dewayne Drummond,John Brady,Jacque Whaumbush,Kevin Bundy,Nat Lownes,All
-Tom Wolf,"2,106","1,351","1,315","1,039",867,853,847,810,680,648,590,562,459,270,All
-Kathryn S Huggins,,14,928,719,499,710,715,673,571,564,348,382,372,206,All
-Rebecca Poyourow,,,5,724,677,683,704,659,428,410,441,474,255,182,All
-Liam G Boyle,,,,12,479,407,402,406,458,397,421,311,327,134,All
-Joe Khan,,,,,7,356,386,322,225,222,392,321,181,114,All
-Lisa Rhodes,,,,,,1,553,650,291,324,233,348,168,136,All
-Monica Maria Djerassi,,,,,,,0,518,273,281,234,334,191,143,All
-Linda Norris,,,,,,,,1,295,290,217,308,146,124,All
-Ken Washington,,,,,,,,,3,436,182,146,254,122,All
-Dewayne Drummond,,,,,,,,,,3,159,144,257,130,All
-John Brady,,,,,,,,,,,4,256,180,93,All
-Jacque Whaumbush,,,,,,,,,,,,3,101,85,All
-Kevin Bundy,,,,,,,,,,,,,2,101,All
-Nat Lownes,,,,,,,,,,,,,,1,All
-Total,"4,192","1,408","1,382","1,125",926,892,877,845,709,671,650,603,487,280,All

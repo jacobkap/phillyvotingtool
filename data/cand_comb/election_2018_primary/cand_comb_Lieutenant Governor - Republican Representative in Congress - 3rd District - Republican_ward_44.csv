@@ -1,4 +1,12 @@
 col_1,col_2,col_3,col_4,col_5,col_6,division
+,Representative In Congress 3rd District - Republican,Lieutenant Governor - Republican,,,,All
+,Bryan E Leib,Kathy Coder,Diana Irey Vaughan,Jeff Bartos,Peg Luksik,All
+Bryan E Leib,1,8,2,2,0,All
+Kathy Coder,,1,0,0,0,All
+Diana Irey Vaughan,,,0,0,0,All
+Jeff Bartos,,,,0,0,All
+Peg Luksik,,,,,0,All
+Total,13,9,2,2,0,All
 ,Representative In Congress 3rd District - Republican,Lieutenant Governor - Republican,,,,1
 ,Bryan E Leib,Kathy Coder,Diana Irey Vaughan,Jeff Bartos,Peg Luksik,1
 Bryan E Leib,0,2,0,0,0,1
@@ -23,14 +31,6 @@ Diana Irey Vaughan,,,0,0,0,6
 Jeff Bartos,,,,0,0,6
 Peg Luksik,,,,,0,6
 Total,1,1,0,0,0,6
-,Lieutenant Governor - Republican,,,,Representative In Congress 3rd District - Republican,7
-,Diana Irey Vaughan,Jeff Bartos,Kathy Coder,Peg Luksik,Bryan E Leib,7
-Diana Irey Vaughan,1,0,0,0,0,7
-Jeff Bartos,,0,0,0,0,7
-Kathy Coder,,,0,0,0,7
-Peg Luksik,,,,0,0,7
-Bryan E Leib,,,,,0,7
-Total,1,0,0,0,0,7
 ,Representative In Congress 3rd District - Republican,Lieutenant Governor - Republican,,,,9
 ,Bryan E Leib,Kathy Coder,Diana Irey Vaughan,Jeff Bartos,Peg Luksik,9
 Bryan E Leib,0,1,0,0,0,9
@@ -47,14 +47,6 @@ Diana Irey Vaughan,,,0,0,0,10
 Jeff Bartos,,,,0,0,10
 Peg Luksik,,,,,0,10
 Total,1,1,0,0,0,10
-,Lieutenant Governor - Republican,,,,Representative In Congress 3rd District - Republican,15
-,Kathy Coder,Diana Irey Vaughan,Jeff Bartos,Peg Luksik,Bryan E Leib,15
-Kathy Coder,1,0,0,0,0,15
-Diana Irey Vaughan,,0,0,0,0,15
-Jeff Bartos,,,0,0,0,15
-Peg Luksik,,,,0,0,15
-Bryan E Leib,,,,,0,15
-Total,1,0,0,0,0,15
 ,Representative In Congress 3rd District - Republican,Lieutenant Governor - Republican,,,,16
 ,Bryan E Leib,Jeff Bartos,Diana Irey Vaughan,Kathy Coder,Peg Luksik,16
 Bryan E Leib,0,2,0,0,0,16
@@ -87,11 +79,3 @@ Jeff Bartos,,,0,0,0,19
 Kathy Coder,,,,0,0,19
 Peg Luksik,,,,,0,19
 Total,1,1,0,0,0,19
-,Representative In Congress 3rd District - Republican,Lieutenant Governor - Republican,,,,All
-,Bryan E Leib,Kathy Coder,Diana Irey Vaughan,Jeff Bartos,Peg Luksik,All
-Bryan E Leib,1,8,2,2,0,All
-Kathy Coder,,2,0,0,0,All
-Diana Irey Vaughan,,,1,0,0,All
-Jeff Bartos,,,,0,0,All
-Peg Luksik,,,,,0,All
-Total,13,10,3,2,0,All

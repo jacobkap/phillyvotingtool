@@ -1,4 +1,11 @@
 col_1,col_2,col_3,col_4,col_5,division
+,Governor And Lieutenant Governor,,Representative In Congress 1st District,,All
+,Tom Wolf,Tom Corbett,Robert A Brady,Megan Rath,All
+Tom Wolf,88,0,"1,449",19,All
+Tom Corbett,,3,4,40,All
+Robert A Brady,,,7,0,All
+Megan Rath,,,,2,All
+Total,"1,556",47,"1,460",61,All
 ,Governor And Lieutenant Governor,,Representative In Congress 1st District,,1
 ,Tom Wolf,Tom Corbett,Robert A Brady,Megan Rath,1
 Tom Wolf,5,0,169,4,1
@@ -41,13 +48,6 @@ Tom Corbett,,1,1,4,6
 Robert A Brady,,,2,0,6
 Megan Rath,,,,1,6
 Total,343,6,331,9,6
-,Governor And Lieutenant Governor,,Representative In Congress 1st District,,7
-,Tom Wolf,Tom Corbett,Megan Rath,Robert A Brady,7
-Tom Wolf,223,0,0,0,7
-Tom Corbett,,10,0,0,7
-Megan Rath,,,0,0,7
-Robert A Brady,,,,0,7
-Total,223,10,0,0,7
 ,Governor And Lieutenant Governor,,Representative In Congress 1st District,,8
 ,Tom Wolf,Tom Corbett,Robert A Brady,Megan Rath,8
 Tom Wolf,2,0,55,1,8
@@ -55,13 +55,6 @@ Tom Corbett,,0,0,1,8
 Robert A Brady,,,0,0,8
 Megan Rath,,,,0,8
 Total,58,1,55,2,8
-,Governor And Lieutenant Governor,,Representative In Congress 1st District,,9
-,Tom Wolf,Tom Corbett,Megan Rath,Robert A Brady,9
-Tom Wolf,129,0,0,0,9
-Tom Corbett,,5,0,0,9
-Megan Rath,,,0,0,9
-Robert A Brady,,,,0,9
-Total,129,5,0,0,9
 ,Governor And Lieutenant Governor,,Representative In Congress 1st District,,10
 ,Tom Wolf,Tom Corbett,Robert A Brady,Megan Rath,10
 Tom Wolf,21,0,168,2,10
@@ -76,10 +69,3 @@ Tom Corbett,,0,0,6,11
 Robert A Brady,,,1,0,11
 Megan Rath,,,,0,11
 Total,75,6,69,10,11
-,Governor And Lieutenant Governor,,Representative In Congress 1st District,,All
-,Tom Wolf,Tom Corbett,Robert A Brady,Megan Rath,All
-Tom Wolf,440,0,"1,449",19,All
-Tom Corbett,,18,4,40,All
-Robert A Brady,,,7,0,All
-Megan Rath,,,,2,All
-Total,"1,908",62,"1,460",61,All

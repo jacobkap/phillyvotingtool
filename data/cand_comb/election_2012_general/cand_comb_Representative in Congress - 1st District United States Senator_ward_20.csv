@@ -1,12 +1,12 @@
 col_1,col_2,col_3,col_4,col_5,col_6,division
-,United States Senator,,,Representative In Congress 1st District,,All
-,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,Robert A Brady,John Featherman,All
-Bob Casey Jr,"1,035",0,0,"2,752",18,All
-Tom Smith,,114,0,18,123,All
-Rayburn Douglas Smith,,,15,18,7,All
-Robert A Brady,,,,39,0,All
-John Featherman,,,,,2,All
-Total,"3,805",255,40,"2,827",150,All
+,Representative In Congress 1st District,,United States Senator,,,All
+,Robert A Brady,John Featherman,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,All
+Robert A Brady,39,0,"2,752",18,18,All
+John Featherman,,2,18,123,7,All
+Bob Casey Jr,,,52,0,0,All
+Tom Smith,,,,4,0,All
+Rayburn Douglas Smith,,,,,3,All
+Total,"2,827",150,"2,822",145,28,All
 ,Representative In Congress 1st District,,United States Senator,,,1
 ,Robert A Brady,John Featherman,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,1
 Robert A Brady,5,0,392,6,3,1
@@ -55,14 +55,6 @@ Rayburn Douglas Smith,,,0,0,0,6
 Robert A Brady,,,,8,0,6
 John Featherman,,,,,0,6
 Total,480,3,0,473,3,6
-,United States Senator,,,Representative In Congress 1st District,,7
-,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,John Featherman,Robert A Brady,7
-Bob Casey Jr,624,0,0,0,0,7
-Tom Smith,,66,0,0,0,7
-Rayburn Douglas Smith,,,9,0,0,7
-John Featherman,,,,0,0,7
-Robert A Brady,,,,,0,7
-Total,624,66,9,0,0,7
 ,Representative In Congress 1st District,,United States Senator,,,8
 ,Robert A Brady,John Featherman,Bob Casey Jr,Rayburn Douglas Smith,Tom Smith,8
 Robert A Brady,1,0,105,2,0,8
@@ -71,14 +63,6 @@ Bob Casey Jr,,,2,0,0,8
 Rayburn Douglas Smith,,,,0,0,8
 Tom Smith,,,,,0,8
 Total,108,2,107,2,2,8
-,United States Senator,,,Representative In Congress 1st District,,9
-,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,John Featherman,Robert A Brady,9
-Bob Casey Jr,359,0,0,0,0,9
-Tom Smith,,44,0,0,0,9
-Rayburn Douglas Smith,,,3,0,0,9
-John Featherman,,,,0,0,9
-Robert A Brady,,,,,0,9
-Total,359,44,3,0,0,9
 ,Representative In Congress 1st District,,United States Senator,,,10
 ,Robert A Brady,John Featherman,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,10
 Robert A Brady,7,0,382,3,0,10

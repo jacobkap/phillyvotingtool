@@ -3,10 +3,10 @@ col_1,col_2,col_3,col_4,col_5,col_6,division
 ,Diana Irey Vaughan,Mitt Romney,Newt Gingrich,Rick Santorum,Ron Paul,All
 Diana Irey Vaughan,0,11,5,5,0,All
 Mitt Romney,,3,0,0,0,All
-Newt Gingrich,,,7,0,0,All
-Rick Santorum,,,,1,0,All
-Ron Paul,,,,,1,All
-Total,21,14,12,6,1,All
+Newt Gingrich,,,3,0,0,All
+Rick Santorum,,,,0,0,All
+Ron Paul,,,,,0,All
+Total,21,14,8,5,0,All
 ,State Treasurer - Republican,President Of The United States - Republican,,,,3
 ,Diana Irey Vaughan,Mitt Romney,Rick Santorum,Newt Gingrich,Ron Paul,3
 Diana Irey Vaughan,0,1,1,0,0,3
@@ -39,14 +39,6 @@ Rick Santorum,,,0,0,0,6
 Ron Paul,,,,0,0,6
 Diana Irey Vaughan,,,,,0,6
 Total,2,0,0,0,1,6
-,President Of The United States - Republican,,,,State Treasurer - Republican,7
-,Newt Gingrich,Mitt Romney,Rick Santorum,Ron Paul,Diana Irey Vaughan,7
-Newt Gingrich,1,0,0,0,0,7
-Mitt Romney,,0,0,0,0,7
-Rick Santorum,,,0,0,0,7
-Ron Paul,,,,0,0,7
-Diana Irey Vaughan,,,,,0,7
-Total,1,0,0,0,0,7
 ,State Treasurer - Republican,President Of The United States - Republican,,,,9
 ,Diana Irey Vaughan,Rick Santorum,Mitt Romney,Newt Gingrich,Ron Paul,9
 Diana Irey Vaughan,0,1,0,0,0,9
@@ -71,14 +63,6 @@ Newt Gingrich,,,0,0,0,11
 Rick Santorum,,,,0,0,11
 Ron Paul,,,,,0,11
 Total,1,1,0,0,0,11
-,President Of The United States - Republican,,,,State Treasurer - Republican,12
-,Newt Gingrich,Rick Santorum,Mitt Romney,Ron Paul,Diana Irey Vaughan,12
-Newt Gingrich,2,0,0,0,0,12
-Rick Santorum,,1,0,0,0,12
-Mitt Romney,,,0,0,0,12
-Ron Paul,,,,0,0,12
-Diana Irey Vaughan,,,,,0,12
-Total,2,1,0,0,0,12
 ,State Treasurer - Republican,President Of The United States - Republican,,,,13
 ,Diana Irey Vaughan,Newt Gingrich,Mitt Romney,Rick Santorum,Ron Paul,13
 Diana Irey Vaughan,0,1,0,0,0,13
@@ -87,14 +71,6 @@ Mitt Romney,,,0,0,0,13
 Rick Santorum,,,,0,0,13
 Ron Paul,,,,,0,13
 Total,1,1,0,0,0,13
-,President Of The United States - Republican,,,,State Treasurer - Republican,14
-,Ron Paul,Mitt Romney,Newt Gingrich,Rick Santorum,Diana Irey Vaughan,14
-Ron Paul,1,0,0,0,0,14
-Mitt Romney,,0,0,0,0,14
-Newt Gingrich,,,0,0,0,14
-Rick Santorum,,,,0,0,14
-Diana Irey Vaughan,,,,,0,14
-Total,1,0,0,0,0,14
 ,State Treasurer - Republican,President Of The United States - Republican,,,,15
 ,Diana Irey Vaughan,Rick Santorum,Mitt Romney,Newt Gingrich,Ron Paul,15
 Diana Irey Vaughan,0,1,0,0,0,15
@@ -111,6 +87,14 @@ Newt Gingrich,,,1,0,0,18
 Rick Santorum,,,,0,0,18
 Ron Paul,,,,,0,18
 Total,1,1,1,0,0,18
+,State Treasurer - Republican,President Of The United States - Republican,,,,19
+,Diana Irey Vaughan,Mitt Romney,Newt Gingrich,Rick Santorum,Ron Paul,19
+Diana Irey Vaughan,0,1,1,0,0,19
+Mitt Romney,,1,0,0,0,19
+Newt Gingrich,,,0,0,0,19
+Rick Santorum,,,,0,0,19
+Ron Paul,,,,,0,19
+Total,2,2,1,0,0,19
 ,State Treasurer - Republican,President Of The United States - Republican,,,,20
 ,Diana Irey Vaughan,Mitt Romney,Newt Gingrich,Rick Santorum,Ron Paul,20
 Diana Irey Vaughan,0,1,0,0,0,20
@@ -127,14 +111,6 @@ Rick Santorum,,,0,0,0,23
 Ron Paul,,,,0,0,23
 Diana Irey Vaughan,,,,,0,23
 Total,2,0,0,0,1,23
-,President Of The United States - Republican,,,,State Treasurer - Republican,24
-,Newt Gingrich,Mitt Romney,Rick Santorum,Ron Paul,Diana Irey Vaughan,24
-Newt Gingrich,1,0,0,0,0,24
-Mitt Romney,,0,0,0,0,24
-Rick Santorum,,,0,0,0,24
-Ron Paul,,,,0,0,24
-Diana Irey Vaughan,,,,,0,24
-Total,1,0,0,0,0,24
 ,State Treasurer - Republican,President Of The United States - Republican,,,,25
 ,Diana Irey Vaughan,Mitt Romney,Newt Gingrich,Rick Santorum,Ron Paul,25
 Diana Irey Vaughan,0,1,0,0,0,25
@@ -143,11 +119,3 @@ Newt Gingrich,,,0,0,0,25
 Rick Santorum,,,,0,0,25
 Ron Paul,,,,,0,25
 Total,1,1,0,0,0,25
-,State Treasurer - Republican,President Of The United States - Republican,,,,19
-,Diana Irey Vaughan,Mitt Romney,Newt Gingrich,Rick Santorum,Ron Paul,19
-Diana Irey Vaughan,0,1,1,0,0,19
-Mitt Romney,,1,0,0,0,19
-Newt Gingrich,,,0,0,0,19
-Rick Santorum,,,,0,0,19
-Ron Paul,,,,,0,19
-Total,2,2,1,0,0,19

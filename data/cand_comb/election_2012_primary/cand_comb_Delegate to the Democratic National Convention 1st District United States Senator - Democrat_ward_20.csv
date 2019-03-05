@@ -1,8 +1,8 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10,col_11,col_12,col_13,division
 ,United States Senator - Democrat,,Delegate To The Democratic National Convention 1st District,,,,,,,,,,All
 ,Bob Casey Jr,Joseph John Vodvarka,Anthony Hardy Williams,Ted Kirsch,Ryan N Boyer,Mindy M Posoff,Elizabeth A Washo,Kathryn Sylvia Huggins,Christine M Tartaglione,Deborah E Landau,Sekela Coles,Thaddeus Kirkland,All
-Bob Casey Jr,274,0,284,267,251,245,236,204,202,188,188,190,All
-Joseph John Vodvarka,,65,115,125,114,119,118,52,53,54,48,46,All
+Bob Casey Jr,171,0,284,267,251,245,236,204,202,188,188,190,All
+Joseph John Vodvarka,,26,115,125,114,119,118,52,53,54,48,46,All
 Anthony Hardy Williams,,,3,381,376,365,355,252,253,246,240,239,All
 Ted Kirsch,,,,1,373,375,362,249,251,245,239,234,All
 Ryan N Boyer,,,,,1,363,352,246,241,242,233,231,All
@@ -13,7 +13,7 @@ Christine M Tartaglione,,,,,,,,,0,247,241,239,All
 Deborah E Landau,,,,,,,,,,0,241,233,All
 Sekela Coles,,,,,,,,,,,0,231,All
 Thaddeus Kirkland,,,,,,,,,,,,0,All
-Total,604,195,427,418,391,389,374,277,275,262,256,255,All
+Total,501,156,427,418,391,389,374,277,275,262,256,255,All
 ,Delegate To The Democratic National Convention 1st District,,,,,,,,,,United States Senator - Democrat,,1
 ,Ted Kirsch,Anthony Hardy Williams,Elizabeth A Washo,Mindy M Posoff,Ryan N Boyer,Kathryn Sylvia Huggins,Sekela Coles,Thaddeus Kirkland,Christine M Tartaglione,Deborah E Landau,Bob Casey Jr,Joseph John Vodvarka,1
 Ted Kirsch,0,26,28,28,27,19,18,19,18,18,20,10,1
@@ -104,21 +104,6 @@ Christine M Tartaglione,,,,,,,,,,0,65,60,6
 Deborah E Landau,,,,,,,,,,,0,61,6
 Sekela Coles,,,,,,,,,,,,0,6
 Total,149,24,113,106,100,96,96,77,76,74,71,66,6
-,United States Senator - Democrat,,Delegate To The Democratic National Convention 1st District,,,,,,,,,,7
-,Bob Casey Jr,Joseph John Vodvarka,Anthony Hardy Williams,Christine M Tartaglione,Deborah E Landau,Elizabeth A Washo,Kathryn Sylvia Huggins,Mindy M Posoff,Ryan N Boyer,Sekela Coles,Ted Kirsch,Thaddeus Kirkland,7
-Bob Casey Jr,78,0,0,0,0,0,0,0,0,0,0,0,7
-Joseph John Vodvarka,,26,0,0,0,0,0,0,0,0,0,0,7
-Anthony Hardy Williams,,,0,0,0,0,0,0,0,0,0,0,7
-Christine M Tartaglione,,,,0,0,0,0,0,0,0,0,0,7
-Deborah E Landau,,,,,0,0,0,0,0,0,0,0,7
-Elizabeth A Washo,,,,,,0,0,0,0,0,0,0,7
-Kathryn Sylvia Huggins,,,,,,,0,0,0,0,0,0,7
-Mindy M Posoff,,,,,,,,0,0,0,0,0,7
-Ryan N Boyer,,,,,,,,,0,0,0,0,7
-Sekela Coles,,,,,,,,,,0,0,0,7
-Ted Kirsch,,,,,,,,,,,0,0,7
-Thaddeus Kirkland,,,,,,,,,,,,0,7
-Total,78,26,0,0,0,0,0,0,0,0,0,0,7
 ,United States Senator - Democrat,,Delegate To The Democratic National Convention 1st District,,,,,,,,,,8
 ,Bob Casey Jr,Joseph John Vodvarka,Ted Kirsch,Anthony Hardy Williams,Ryan N Boyer,Mindy M Posoff,Elizabeth A Washo,Kathryn Sylvia Huggins,Christine M Tartaglione,Sekela Coles,Thaddeus Kirkland,Deborah E Landau,8
 Bob Casey Jr,6,0,10,11,10,9,10,8,8,7,7,7,8
@@ -134,21 +119,6 @@ Sekela Coles,,,,,,,,,,0,10,9,8
 Thaddeus Kirkland,,,,,,,,,,,0,9,8
 Deborah E Landau,,,,,,,,,,,,0,8
 Total,22,6,18,17,16,15,13,12,11,10,10,9,8
-,United States Senator - Democrat,,Delegate To The Democratic National Convention 1st District,,,,,,,,,,9
-,Bob Casey Jr,Joseph John Vodvarka,Anthony Hardy Williams,Christine M Tartaglione,Deborah E Landau,Elizabeth A Washo,Kathryn Sylvia Huggins,Mindy M Posoff,Ryan N Boyer,Sekela Coles,Ted Kirsch,Thaddeus Kirkland,9
-Bob Casey Jr,25,0,0,0,0,0,0,0,0,0,0,0,9
-Joseph John Vodvarka,,13,0,0,0,0,0,0,0,0,0,0,9
-Anthony Hardy Williams,,,0,0,0,0,0,0,0,0,0,0,9
-Christine M Tartaglione,,,,0,0,0,0,0,0,0,0,0,9
-Deborah E Landau,,,,,0,0,0,0,0,0,0,0,9
-Elizabeth A Washo,,,,,,0,0,0,0,0,0,0,9
-Kathryn Sylvia Huggins,,,,,,,0,0,0,0,0,0,9
-Mindy M Posoff,,,,,,,,0,0,0,0,0,9
-Ryan N Boyer,,,,,,,,,0,0,0,0,9
-Sekela Coles,,,,,,,,,,0,0,0,9
-Ted Kirsch,,,,,,,,,,,0,0,9
-Thaddeus Kirkland,,,,,,,,,,,,0,9
-Total,25,13,0,0,0,0,0,0,0,0,0,0,9
 ,Delegate To The Democratic National Convention 1st District,,,,,,,,,,United States Senator - Democrat,,10
 ,Anthony Hardy Williams,Ted Kirsch,Ryan N Boyer,Mindy M Posoff,Elizabeth A Washo,Christine M Tartaglione,Deborah E Landau,Kathryn Sylvia Huggins,Sekela Coles,Thaddeus Kirkland,Bob Casey Jr,Joseph John Vodvarka,10
 Anthony Hardy Williams,0,56,54,52,52,39,38,37,38,38,33,25,10

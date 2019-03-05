@@ -1,4 +1,12 @@
 col_1,col_2,col_3,col_4,col_5,col_6,division
+,Representative In Congress 1st District - Republican,Member Of - Republican State Committee 1st Congressional District,,,,All
+,Megan Rath,Monika A Czapla,Annie Havey,Christopher M Vogler,Jimmy Dintino,All
+Megan Rath,13,94,91,40,41,All
+Monika A Czapla,,3,79,38,38,All
+Annie Havey,,,4,38,35,All
+Christopher M Vogler,,,,1,38,All
+Jimmy Dintino,,,,,0,All
+Total,126,100,98,42,42,All
 ,Representative In Congress 1st District - Republican,Member Of - Republican State Committee 1st Congressional District,,,,1
 ,Megan Rath,Annie Havey,Monika A Czapla,Christopher M Vogler,Jimmy Dintino,1
 Megan Rath,2,7,4,1,1,1
@@ -63,14 +71,6 @@ Annie Havey,,,0,0,0,8
 Christopher M Vogler,,,,0,0,8
 Jimmy Dintino,,,,,0,8
 Total,3,3,2,0,0,8
-,Member Of - Republican State Committee 1st Congressional District,,,,Representative In Congress 1st District - Republican,9
-,Christopher M Vogler,Jimmy Dintino,Annie Havey,Monika A Czapla,Megan Rath,9
-Christopher M Vogler,0,1,0,0,0,9
-Jimmy Dintino,,0,0,0,0,9
-Annie Havey,,,0,0,0,9
-Monika A Czapla,,,,0,0,9
-Megan Rath,,,,,0,9
-Total,1,1,0,0,0,9
 ,Representative In Congress 1st District - Republican,Member Of - Republican State Committee 1st Congressional District,,,,10
 ,Megan Rath,Annie Havey,Jimmy Dintino,Monika A Czapla,Christopher M Vogler,10
 Megan Rath,0,3,2,2,1,10
@@ -151,14 +151,6 @@ Christopher M Vogler,,,0,0,0,20
 Jimmy Dintino,,,,0,0,20
 Megan Rath,,,,,0,20
 Total,1,1,0,0,1,20
-,Member Of - Republican State Committee 1st Congressional District,,,,Representative In Congress 1st District - Republican,21
-,Annie Havey,Monika A Czapla,Christopher M Vogler,Jimmy Dintino,Megan Rath,21
-Annie Havey,0,1,0,0,0,21
-Monika A Czapla,,0,0,0,0,21
-Christopher M Vogler,,,0,0,0,21
-Jimmy Dintino,,,,0,0,21
-Megan Rath,,,,,0,21
-Total,1,1,0,0,0,21
 ,Member Of - Republican State Committee 1st Congressional District,,,,Representative In Congress 1st District - Republican,22
 ,Monika A Czapla,Annie Havey,Christopher M Vogler,Jimmy Dintino,Megan Rath,22
 Monika A Czapla,0,4,2,2,4,22
@@ -199,11 +191,3 @@ Monika A Czapla,,,0,6,6,27
 Christopher M Vogler,,,,0,6,27
 Jimmy Dintino,,,,,0,27
 Total,12,11,10,7,6,27
-,Representative In Congress 1st District - Republican,Member Of - Republican State Committee 1st Congressional District,,,,All
-,Megan Rath,Monika A Czapla,Annie Havey,Christopher M Vogler,Jimmy Dintino,All
-Megan Rath,13,94,91,40,41,All
-Monika A Czapla,,3,80,38,38,All
-Annie Havey,,,4,38,35,All
-Christopher M Vogler,,,,1,39,All
-Jimmy Dintino,,,,,0,All
-Total,126,101,99,43,43,All

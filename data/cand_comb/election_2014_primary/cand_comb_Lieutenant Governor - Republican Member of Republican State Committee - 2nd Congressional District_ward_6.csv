@@ -1,4 +1,11 @@
 col_1,col_2,col_3,col_4,col_5,division
+,Lieutenant Governor - Republican,Member Of - Republican State Committee 2nd Congressional District,,,All
+,Jim Cawley,Calvin R Tucker,Denise Furey,Walt Vogler,All
+Jim Cawley,2,5,5,3,All
+Calvin R Tucker,,2,3,3,All
+Denise Furey,,,0,3,All
+Walt Vogler,,,,0,All
+Total,9,7,5,3,All
 ,Member Of - Republican State Committee 2nd Congressional District,,,Lieutenant Governor - Republican,1
 ,Denise Furey,Calvin R Tucker,Walt Vogler,Jim Cawley,1
 Denise Furey,0,0,0,1,1
@@ -20,20 +27,6 @@ Calvin R Tucker,,0,1,1,4
 Denise Furey,,,0,1,4
 Walt Vogler,,,,0,4
 Total,4,2,2,1,4
-,Lieutenant Governor - Republican,Member Of - Republican State Committee 2nd Congressional District,,,5
-,Jim Cawley,Calvin R Tucker,Denise Furey,Walt Vogler,5
-Jim Cawley,1,0,0,0,5
-Calvin R Tucker,,0,0,0,5
-Denise Furey,,,0,0,5
-Walt Vogler,,,,0,5
-Total,1,0,0,0,5
-,Lieutenant Governor - Republican,Member Of - Republican State Committee 2nd Congressional District,,,7
-,Jim Cawley,Calvin R Tucker,Denise Furey,Walt Vogler,7
-Jim Cawley,1,0,0,0,7
-Calvin R Tucker,,0,0,0,7
-Denise Furey,,,0,0,7
-Walt Vogler,,,,0,7
-Total,1,0,0,0,7
 ,Member Of - Republican State Committee 2nd Congressional District,,,Lieutenant Governor - Republican,9
 ,Calvin R Tucker,Denise Furey,Walt Vogler,Jim Cawley,9
 Calvin R Tucker,2,0,0,1,9
@@ -41,13 +34,6 @@ Denise Furey,,0,0,0,9
 Walt Vogler,,,0,0,9
 Jim Cawley,,,,0,9
 Total,3,0,0,1,9
-,Member Of - Republican State Committee 2nd Congressional District,,,Lieutenant Governor - Republican,10
-,Denise Furey,Walt Vogler,Calvin R Tucker,Jim Cawley,10
-Denise Furey,3,0,0,0,10
-Walt Vogler,,1,0,0,10
-Calvin R Tucker,,,0,0,10
-Jim Cawley,,,,0,10
-Total,3,1,0,0,10
 ,Member Of - Republican State Committee 2nd Congressional District,,,Lieutenant Governor - Republican,11
 ,Calvin R Tucker,Denise Furey,Walt Vogler,Jim Cawley,11
 Calvin R Tucker,0,1,1,1,11
@@ -55,10 +41,3 @@ Denise Furey,,0,1,1,11
 Walt Vogler,,,0,1,11
 Jim Cawley,,,,0,11
 Total,1,1,1,1,11
-,Lieutenant Governor - Republican,Member Of - Republican State Committee 2nd Congressional District,,,All
-,Jim Cawley,Denise Furey,Calvin R Tucker,Walt Vogler,All
-Jim Cawley,4,5,5,3,All
-Denise Furey,,3,3,3,All
-Calvin R Tucker,,,2,3,All
-Walt Vogler,,,,1,All
-Total,11,8,7,4,All

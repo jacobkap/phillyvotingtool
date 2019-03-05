@@ -1,18 +1,11 @@
 col_1,col_2,col_3,col_4,col_5,division
-,United States Senator - Republican,,Representative In Congress 5th District - Republican,,1
-,Jim Christiana,Lou Barletta,Paul D Addis,Pearl Kim,1
-Jim Christiana,2,0,0,0,1
-Lou Barletta,,1,0,0,1
-Paul D Addis,,,0,0,1
-Pearl Kim,,,,0,1
-Total,2,1,0,0,1
-,United States Senator - Republican,,Representative In Congress 5th District - Republican,,2
-,Jim Christiana,Lou Barletta,Paul D Addis,Pearl Kim,2
-Jim Christiana,1,0,0,0,2
-Lou Barletta,,0,0,0,2
-Paul D Addis,,,0,0,2
-Pearl Kim,,,,0,2
-Total,1,0,0,0,2
+,Representative In Congress 5th District - Republican,,United States Senator - Republican,,All
+,Pearl Kim,Paul D Addis,Lou Barletta,Jim Christiana,All
+Pearl Kim,1,0,6,5,All
+Paul D Addis,,0,0,0,All
+Lou Barletta,,,2,0,All
+Jim Christiana,,,,2,All
+Total,12,0,8,7,All
 ,United States Senator - Republican,,Representative In Congress 5th District - Republican,,4
 ,Jim Christiana,Lou Barletta,Pearl Kim,Paul D Addis,4
 Jim Christiana,0,0,1,0,4
@@ -20,13 +13,6 @@ Lou Barletta,,0,0,0,4
 Pearl Kim,,,0,0,4
 Paul D Addis,,,,0,4
 Total,1,0,1,0,4
-,United States Senator - Republican,,Representative In Congress 5th District - Republican,,5
-,Lou Barletta,Jim Christiana,Paul D Addis,Pearl Kim,5
-Lou Barletta,1,0,0,0,5
-Jim Christiana,,0,0,0,5
-Paul D Addis,,,0,0,5
-Pearl Kim,,,,0,5
-Total,1,0,0,0,5
 ,Representative In Congress 5th District - Republican,,United States Senator - Republican,,10
 ,Pearl Kim,Paul D Addis,Lou Barletta,Jim Christiana,10
 Pearl Kim,1,0,3,3,10
@@ -34,41 +20,6 @@ Paul D Addis,,0,0,0,10
 Lou Barletta,,,1,0,10
 Jim Christiana,,,,0,10
 Total,7,0,4,3,10
-,United States Senator - Republican,,Representative In Congress 5th District - Republican,,11
-,Jim Christiana,Lou Barletta,Paul D Addis,Pearl Kim,11
-Jim Christiana,1,0,0,0,11
-Lou Barletta,,0,0,0,11
-Paul D Addis,,,0,0,11
-Pearl Kim,,,,0,11
-Total,1,0,0,0,11
-,United States Senator - Republican,,Representative In Congress 5th District - Republican,,12
-,Jim Christiana,Lou Barletta,Paul D Addis,Pearl Kim,12
-Jim Christiana,1,0,0,0,12
-Lou Barletta,,0,0,0,12
-Paul D Addis,,,0,0,12
-Pearl Kim,,,,0,12
-Total,1,0,0,0,12
-,United States Senator - Republican,,Representative In Congress 5th District - Republican,,16
-,Jim Christiana,Lou Barletta,Paul D Addis,Pearl Kim,16
-Jim Christiana,1,0,0,0,16
-Lou Barletta,,0,0,0,16
-Paul D Addis,,,0,0,16
-Pearl Kim,,,,0,16
-Total,1,0,0,0,16
-,United States Senator - Republican,,Representative In Congress 5th District - Republican,,17
-,Jim Christiana,Lou Barletta,Paul D Addis,Pearl Kim,17
-Jim Christiana,1,0,0,0,17
-Lou Barletta,,0,0,0,17
-Paul D Addis,,,0,0,17
-Pearl Kim,,,,0,17
-Total,1,0,0,0,17
-,United States Senator - Republican,,Representative In Congress 5th District - Republican,,20
-,Jim Christiana,Lou Barletta,Paul D Addis,Pearl Kim,20
-Jim Christiana,2,0,0,0,20
-Lou Barletta,,0,0,0,20
-Paul D Addis,,,0,0,20
-Pearl Kim,,,,0,20
-Total,2,0,0,0,20
 ,United States Senator - Republican,,Representative In Congress 5th District - Republican,,22
 ,Lou Barletta,Jim Christiana,Pearl Kim,Paul D Addis,22
 Lou Barletta,0,0,1,0,22
@@ -90,17 +41,3 @@ Jim Christiana,,1,0,0,25
 Pearl Kim,,,0,0,25
 Paul D Addis,,,,0,25
 Total,2,1,1,0,25
-,United States Senator - Republican,,Representative In Congress 5th District - Republican,,26
-,Jim Christiana,Lou Barletta,Paul D Addis,Pearl Kim,26
-Jim Christiana,1,0,0,0,26
-Lou Barletta,,0,0,0,26
-Paul D Addis,,,0,0,26
-Pearl Kim,,,,0,26
-Total,1,0,0,0,26
-,United States Senator - Republican,,Representative In Congress 5th District - Republican,,All
-,Jim Christiana,Lou Barletta,Pearl Kim,Paul D Addis,All
-Jim Christiana,12,0,5,0,All
-Lou Barletta,,4,6,0,All
-Pearl Kim,,,1,0,All
-Paul D Addis,,,,0,All
-Total,17,10,12,0,All

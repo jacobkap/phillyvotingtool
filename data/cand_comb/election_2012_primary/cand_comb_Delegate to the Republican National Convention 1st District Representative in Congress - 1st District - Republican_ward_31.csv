@@ -3,12 +3,12 @@ col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,division
 ,John Featherman,Christopher M Vogler,Marion S Taxin,Tom Boggia,Frederick W Anton,Michael W Untermeyer,Dale Kerns,All
 John Featherman,22,122,104,84,41,43,37,All
 Christopher M Vogler,,23,58,46,21,12,12,All
-Marion S Taxin,,,4,51,26,9,9,All
+Marion S Taxin,,,3,51,26,9,9,All
 Tom Boggia,,,,3,13,13,14,All
 Frederick W Anton,,,,,1,17,14,All
 Michael W Untermeyer,,,,,,1,27,All
 Dale Kerns,,,,,,,0,All
-Total,238,148,111,90,52,52,44,All
+Total,238,148,110,90,52,52,44,All
 ,Representative In Congress 1st District - Republican,Delegate To The Republican National Convention 1st District,,,,,,1
 ,John Featherman,Marion S Taxin,Christopher M Vogler,Dale Kerns,Frederick W Anton,Michael W Untermeyer,Tom Boggia,1
 John Featherman,1,2,1,1,1,1,1,1
@@ -19,16 +19,6 @@ Frederick W Anton,,,,,0,0,0,1
 Michael W Untermeyer,,,,,,0,0,1
 Tom Boggia,,,,,,,0,1
 Total,5,2,1,1,1,1,1,1
-,Delegate To The Republican National Convention 1st District,,,,,,Representative In Congress 1st District - Republican,2
-,Marion S Taxin,Christopher M Vogler,Dale Kerns,Frederick W Anton,Michael W Untermeyer,Tom Boggia,John Featherman,2
-Marion S Taxin,1,0,0,0,0,0,0,2
-Christopher M Vogler,,0,0,0,0,0,0,2
-Dale Kerns,,,0,0,0,0,0,2
-Frederick W Anton,,,,0,0,0,0,2
-Michael W Untermeyer,,,,,0,0,0,2
-Tom Boggia,,,,,,0,0,2
-John Featherman,,,,,,,0,2
-Total,1,0,0,0,0,0,0,2
 ,Representative In Congress 1st District - Republican,Delegate To The Republican National Convention 1st District,,,,,,3
 ,John Featherman,Marion S Taxin,Christopher M Vogler,Tom Boggia,Dale Kerns,Michael W Untermeyer,Frederick W Anton,3
 John Featherman,0,5,3,2,1,1,0,3

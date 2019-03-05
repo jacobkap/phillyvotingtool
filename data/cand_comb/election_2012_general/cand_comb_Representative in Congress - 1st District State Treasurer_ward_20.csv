@@ -1,12 +1,12 @@
 col_1,col_2,col_3,col_4,col_5,col_6,division
-,State Treasurer,,,Representative In Congress 1st District,,All
-,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,Robert A Brady,John Featherman,All
-Robert M Mccord,993,0,0,"2,718",12,All
-Diana Irey Vaughan,,126,0,27,125,All
-Patricia M Fryman,,,16,27,10,All
-Robert A Brady,,,,55,0,All
-John Featherman,,,,,3,All
-Total,"3,723",278,53,"2,827",150,All
+,Representative In Congress 1st District,,State Treasurer,,,All
+,Robert A Brady,John Featherman,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,All
+Robert A Brady,55,0,"2,718",27,27,All
+John Featherman,,3,12,125,10,All
+Robert M Mccord,,,25,0,0,All
+Diana Irey Vaughan,,,,3,0,All
+Patricia M Fryman,,,,,3,All
+Total,"2,827",150,"2,755",155,40,All
 ,Representative In Congress 1st District,,State Treasurer,,,1
 ,Robert A Brady,John Featherman,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,1
 Robert A Brady,0,0,394,6,6,1
@@ -55,14 +55,6 @@ Robert M Mccord,,,10,0,0,6
 Diana Irey Vaughan,,,,0,0,6
 Patricia M Fryman,,,,,0,6
 Total,473,3,464,5,1,6
-,State Treasurer,,,Representative In Congress 1st District,,7
-,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,John Featherman,Robert A Brady,7
-Robert M Mccord,615,0,0,0,0,7
-Diana Irey Vaughan,,77,0,0,0,7
-Patricia M Fryman,,,8,0,0,7
-John Featherman,,,,0,0,7
-Robert A Brady,,,,,0,7
-Total,615,77,8,0,0,7
 ,Representative In Congress 1st District,,State Treasurer,,,8
 ,Robert A Brady,John Featherman,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,8
 Robert A Brady,1,0,105,0,2,8
@@ -71,14 +63,6 @@ Robert M Mccord,,,1,0,0,8
 Diana Irey Vaughan,,,,0,0,8
 Patricia M Fryman,,,,,0,8
 Total,108,2,106,2,2,8
-,State Treasurer,,,Representative In Congress 1st District,,9
-,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,John Featherman,Robert A Brady,9
-Robert M Mccord,353,0,0,0,0,9
-Diana Irey Vaughan,,46,0,0,0,9
-Patricia M Fryman,,,5,0,0,9
-John Featherman,,,,0,0,9
-Robert A Brady,,,,,0,9
-Total,353,46,5,0,0,9
 ,Representative In Congress 1st District,,State Treasurer,,,10
 ,Robert A Brady,John Featherman,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,10
 Robert A Brady,7,0,381,4,0,10

@@ -1,24 +1,14 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,division
 ,Auditor General - Republican,,United States Senator - Republican,,,,,All
-,John Maher,Frank A Pinto,Tom Smith,David Alan Christian,Steven D Welch,Sam Rohrer,Marc A Scaringi,All
-John Maher,1,0,6,5,5,5,1,All
-Frank A Pinto,,0,4,4,0,1,3,All
-Tom Smith,,,2,0,0,0,0,All
-David Alan Christian,,,,2,0,0,0,All
-Steven D Welch,,,,,2,0,0,All
-Sam Rohrer,,,,,,0,0,All
+,John Maher,Frank A Pinto,David Alan Christian,Tom Smith,Sam Rohrer,Steven D Welch,Marc A Scaringi,All
+John Maher,0,0,5,6,5,5,1,All
+Frank A Pinto,,0,4,4,1,0,3,All
+David Alan Christian,,,2,0,0,0,0,All
+Tom Smith,,,,1,0,0,0,All
+Sam Rohrer,,,,,0,0,0,All
+Steven D Welch,,,,,,1,0,All
 Marc A Scaringi,,,,,,,0,All
-Total,23,12,12,11,7,6,4,All
-,United States Senator - Republican,,,,,Auditor General - Republican,,1
-,Tom Smith,David Alan Christian,Marc A Scaringi,Sam Rohrer,Steven D Welch,Frank A Pinto,John Maher,1
-Tom Smith,1,0,0,0,0,0,0,1
-David Alan Christian,,0,0,0,0,0,0,1
-Marc A Scaringi,,,0,0,0,0,0,1
-Sam Rohrer,,,,0,0,0,0,1
-Steven D Welch,,,,,0,0,0,1
-Frank A Pinto,,,,,,0,0,1
-John Maher,,,,,,,0,1
-Total,1,0,0,0,0,0,0,1
+Total,22,12,11,11,6,6,4,All
 ,Auditor General - Republican,,United States Senator - Republican,,,,,2
 ,John Maher,Frank A Pinto,David Alan Christian,Tom Smith,Marc A Scaringi,Steven D Welch,Sam Rohrer,2
 John Maher,0,0,0,2,1,1,0,2
@@ -79,16 +69,6 @@ Marc A Scaringi,,,,,0,0,0,9
 Sam Rohrer,,,,,,0,0,9
 Tom Smith,,,,,,,0,9
 Total,1,0,1,0,0,0,0,9
-,United States Senator - Republican,,,,,Auditor General - Republican,,10
-,Steven D Welch,David Alan Christian,Marc A Scaringi,Sam Rohrer,Tom Smith,Frank A Pinto,John Maher,10
-Steven D Welch,1,0,0,0,0,0,0,10
-David Alan Christian,,0,0,0,0,0,0,10
-Marc A Scaringi,,,0,0,0,0,0,10
-Sam Rohrer,,,,0,0,0,0,10
-Tom Smith,,,,,0,0,0,10
-Frank A Pinto,,,,,,0,0,10
-John Maher,,,,,,,0,10
-Total,1,0,0,0,0,0,0,10
 ,United States Senator - Republican,,,,,Auditor General - Republican,,11
 ,Tom Smith,David Alan Christian,Marc A Scaringi,Sam Rohrer,Steven D Welch,John Maher,Frank A Pinto,11
 Tom Smith,1,0,0,0,0,2,0,11
@@ -109,16 +89,6 @@ David Alan Christian,,,,,0,0,0,12
 Marc A Scaringi,,,,,,0,0,12
 Steven D Welch,,,,,,,0,12
 Total,3,0,2,1,0,0,0,12
-,Auditor General - Republican,,United States Senator - Republican,,,,,15
-,John Maher,Frank A Pinto,David Alan Christian,Marc A Scaringi,Sam Rohrer,Steven D Welch,Tom Smith,15
-John Maher,1,0,0,0,0,0,0,15
-Frank A Pinto,,0,0,0,0,0,0,15
-David Alan Christian,,,0,0,0,0,0,15
-Marc A Scaringi,,,,0,0,0,0,15
-Sam Rohrer,,,,,0,0,0,15
-Steven D Welch,,,,,,0,0,15
-Tom Smith,,,,,,,0,15
-Total,1,0,0,0,0,0,0,15
 ,Auditor General - Republican,,United States Senator - Republican,,,,,16
 ,John Maher,Frank A Pinto,Sam Rohrer,David Alan Christian,Marc A Scaringi,Steven D Welch,Tom Smith,16
 John Maher,0,0,1,0,0,0,0,16

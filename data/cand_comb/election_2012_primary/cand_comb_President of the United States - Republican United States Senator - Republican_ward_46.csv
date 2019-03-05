@@ -2,15 +2,15 @@ col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10,division
 ,President Of The United States - Republican,,,,United States Senator - Republican,,,,,All
 ,Mitt Romney,Ron Paul,Rick Santorum,Newt Gingrich,Steven D Welch,Tom Smith,David Alan Christian,Sam Rohrer,Marc A Scaringi,All
 Mitt Romney,3,0,0,0,12,10,6,3,2,All
-Ron Paul,,6,0,0,7,6,3,3,5,All
-Rick Santorum,,,2,0,4,3,0,3,0,All
+Ron Paul,,5,0,0,7,6,3,3,5,All
+Rick Santorum,,,0,0,4,3,0,3,0,All
 Newt Gingrich,,,,0,1,0,4,0,0,All
 Steven D Welch,,,,,1,0,0,0,0,All
 Tom Smith,,,,,,1,0,0,0,All
 David Alan Christian,,,,,,,2,0,0,All
 Sam Rohrer,,,,,,,,0,0,All
 Marc A Scaringi,,,,,,,,,0,All
-Total,36,30,12,5,25,20,15,9,7,All
+Total,36,29,10,5,25,20,15,9,7,All
 ,President Of The United States - Republican,,,,United States Senator - Republican,,,,,1
 ,Ron Paul,Mitt Romney,Rick Santorum,Newt Gingrich,Marc A Scaringi,Steven D Welch,David Alan Christian,Sam Rohrer,Tom Smith,1
 Ron Paul,0,0,0,0,2,0,1,1,1,1
@@ -35,18 +35,6 @@ David Alan Christian,,,,,,,0,0,0,2
 Marc A Scaringi,,,,,,,,0,0,2
 Sam Rohrer,,,,,,,,,0,2
 Total,2,1,0,0,1,1,0,0,0,2
-,President Of The United States - Republican,,,,United States Senator - Republican,,,,,3
-,Rick Santorum,Ron Paul,Mitt Romney,Newt Gingrich,David Alan Christian,Marc A Scaringi,Sam Rohrer,Steven D Welch,Tom Smith,3
-Rick Santorum,2,0,0,0,0,0,0,0,0,3
-Ron Paul,,1,0,0,0,0,0,0,0,3
-Mitt Romney,,,0,0,0,0,0,0,0,3
-Newt Gingrich,,,,0,0,0,0,0,0,3
-David Alan Christian,,,,,0,0,0,0,0,3
-Marc A Scaringi,,,,,,0,0,0,0,3
-Sam Rohrer,,,,,,,0,0,0,3
-Steven D Welch,,,,,,,,0,0,3
-Tom Smith,,,,,,,,,0,3
-Total,2,1,0,0,0,0,0,0,0,3
 ,United States Senator - Republican,,,,,President Of The United States - Republican,,,,7
 ,David Alan Christian,Marc A Scaringi,Sam Rohrer,Steven D Welch,Tom Smith,Ron Paul,Mitt Romney,Newt Gingrich,Rick Santorum,7
 David Alan Christian,1,0,0,0,0,0,0,0,0,7

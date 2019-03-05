@@ -1,4 +1,13 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,division
+,Representative In Congress 5th District - Republican,,Member Of The Republican State Committee 1st Congressional District,,,,All
+,Pearl Kim,Paul D Addis,Maria Digiorgio Mccolgan,Theresa A Dintino,Christopher M Vogler,Michael A Cibik,All
+Pearl Kim,9,0,57,52,50,49,All
+Paul D Addis,,0,0,0,0,0,All
+Maria Digiorgio Mccolgan,,,2,40,39,37,All
+Theresa A Dintino,,,,3,37,39,All
+Christopher M Vogler,,,,,0,40,All
+Michael A Cibik,,,,,,0,All
+Total,93,0,59,55,50,49,All
 ,Representative In Congress 5th District - Republican,,Member Of The Republican State Committee 1st Congressional District,,,,1
 ,Pearl Kim,Paul D Addis,Christopher M Vogler,Michael A Cibik,Maria Digiorgio Mccolgan,Theresa A Dintino,1
 Pearl Kim,2,0,4,4,3,3,1
@@ -44,15 +53,6 @@ Theresa A Dintino,,,,0,1,0,9
 Pearl Kim,,,,,0,0,9
 Paul D Addis,,,,,,0,9
 Total,2,1,1,1,2,0,9
-,Member Of The Republican State Committee 1st Congressional District,,,,Representative In Congress 5th District - Republican,,10
-,Michael A Cibik,Christopher M Vogler,Maria Digiorgio Mccolgan,Theresa A Dintino,Paul D Addis,Pearl Kim,10
-Michael A Cibik,1,0,0,0,0,0,10
-Christopher M Vogler,,0,0,0,0,0,10
-Maria Digiorgio Mccolgan,,,0,0,0,0,10
-Theresa A Dintino,,,,0,0,0,10
-Paul D Addis,,,,,0,0,10
-Pearl Kim,,,,,,0,10
-Total,1,0,0,0,0,0,10
 ,Representative In Congress 5th District - Republican,,Member Of The Republican State Committee 1st Congressional District,,,,11
 ,Pearl Kim,Paul D Addis,Maria Digiorgio Mccolgan,Theresa A Dintino,Christopher M Vogler,Michael A Cibik,11
 Pearl Kim,0,0,3,3,1,1,11
@@ -62,15 +62,6 @@ Theresa A Dintino,,,,0,0,1,11
 Christopher M Vogler,,,,,0,0,11
 Michael A Cibik,,,,,,0,11
 Total,4,0,3,3,1,1,11
-,Member Of The Republican State Committee 1st Congressional District,,,,Representative In Congress 5th District - Republican,,12
-,Theresa A Dintino,Christopher M Vogler,Maria Digiorgio Mccolgan,Michael A Cibik,Paul D Addis,Pearl Kim,12
-Theresa A Dintino,1,0,0,0,0,0,12
-Christopher M Vogler,,0,0,0,0,0,12
-Maria Digiorgio Mccolgan,,,0,0,0,0,12
-Michael A Cibik,,,,0,0,0,12
-Paul D Addis,,,,,0,0,12
-Pearl Kim,,,,,,0,12
-Total,1,0,0,0,0,0,12
 ,Member Of The Republican State Committee 1st Congressional District,,,,Representative In Congress 5th District - Republican,,14
 ,Theresa A Dintino,Christopher M Vogler,Maria Digiorgio Mccolgan,Michael A Cibik,Pearl Kim,Paul D Addis,14
 Theresa A Dintino,1,1,1,1,1,0,14
@@ -251,15 +242,6 @@ Theresa A Dintino,,,,0,0,0,42
 Maria Digiorgio Mccolgan,,,,,0,0,42
 Michael A Cibik,,,,,,0,42
 Total,2,0,1,1,0,0,42
-,Member Of The Republican State Committee 1st Congressional District,,,,Representative In Congress 5th District - Republican,,43
-,Michael A Cibik,Christopher M Vogler,Maria Digiorgio Mccolgan,Theresa A Dintino,Paul D Addis,Pearl Kim,43
-Michael A Cibik,1,0,0,0,0,0,43
-Christopher M Vogler,,0,0,0,0,0,43
-Maria Digiorgio Mccolgan,,,0,0,0,0,43
-Theresa A Dintino,,,,0,0,0,43
-Paul D Addis,,,,,0,0,43
-Pearl Kim,,,,,,0,43
-Total,1,0,0,0,0,0,43
 ,Member Of The Republican State Committee 1st Congressional District,,,,Representative In Congress 5th District - Republican,,45
 ,Christopher M Vogler,Maria Digiorgio Mccolgan,Michael A Cibik,Theresa A Dintino,Pearl Kim,Paul D Addis,45
 Christopher M Vogler,0,1,1,1,1,0,45
@@ -296,15 +278,6 @@ Michael A Cibik,,,,0,3,3,49
 Theresa A Dintino,,,,,0,3,49
 Christopher M Vogler,,,,,,0,49
 Total,8,0,7,4,4,3,49
-,Representative In Congress 5th District - Republican,,Member Of The Republican State Committee 1st Congressional District,,,,50
-,Pearl Kim,Paul D Addis,Christopher M Vogler,Maria Digiorgio Mccolgan,Michael A Cibik,Theresa A Dintino,50
-Pearl Kim,1,0,0,0,0,0,50
-Paul D Addis,,0,0,0,0,0,50
-Christopher M Vogler,,,0,0,0,0,50
-Maria Digiorgio Mccolgan,,,,0,0,0,50
-Michael A Cibik,,,,,0,0,50
-Theresa A Dintino,,,,,,0,50
-Total,1,0,0,0,0,0,50
 ,Member Of The Republican State Committee 1st Congressional District,,,,Representative In Congress 5th District - Republican,,51
 ,Christopher M Vogler,Maria Digiorgio Mccolgan,Michael A Cibik,Theresa A Dintino,Pearl Kim,Paul D Addis,51
 Christopher M Vogler,0,2,1,1,2,0,51
@@ -314,12 +287,3 @@ Theresa A Dintino,,,,0,1,0,51
 Pearl Kim,,,,,0,0,51
 Paul D Addis,,,,,,0,51
 Total,2,2,1,1,2,0,51
-,Representative In Congress 5th District - Republican,,Member Of The Republican State Committee 1st Congressional District,,,,All
-,Pearl Kim,Paul D Addis,Maria Digiorgio Mccolgan,Theresa A Dintino,Michael A Cibik,Christopher M Vogler,All
-Pearl Kim,10,0,57,52,49,50,All
-Paul D Addis,,0,0,0,0,0,All
-Maria Digiorgio Mccolgan,,,2,40,37,39,All
-Theresa A Dintino,,,,4,39,37,All
-Michael A Cibik,,,,,2,40,All
-Christopher M Vogler,,,,,,0,All
-Total,94,0,59,56,51,50,All

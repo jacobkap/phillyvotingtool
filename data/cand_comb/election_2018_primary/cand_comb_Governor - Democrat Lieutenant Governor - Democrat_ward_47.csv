@@ -1,4 +1,13 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,division
+,Governor - Democrat,Lieutenant Governor - Democrat,,,,,All
+,Tom Wolf,Mike Stack,Nina Ahmad,Kathi Cozzone,John Fetterman,Ray Sosa,All
+Tom Wolf,79,277,122,104,72,5,All
+Mike Stack,,10,0,0,0,0,All
+Nina Ahmad,,,5,0,0,0,All
+Kathi Cozzone,,,,12,0,0,All
+John Fetterman,,,,,2,0,All
+Ray Sosa,,,,,,5,All
+Total,659,287,127,116,74,10,All
 ,Governor - Democrat,Lieutenant Governor - Democrat,,,,,1
 ,Tom Wolf,Mike Stack,Nina Ahmad,John Fetterman,Kathi Cozzone,Ray Sosa,1
 Tom Wolf,2,20,16,16,5,0,1
@@ -125,12 +134,3 @@ Nina Ahmad,,,,0,0,0,14
 John Fetterman,,,,,0,0,14
 Ray Sosa,,,,,,0,14
 Total,31,17,4,4,2,1,14
-,Governor - Democrat,Lieutenant Governor - Democrat,,,,,All
-,Tom Wolf,Mike Stack,Nina Ahmad,Kathi Cozzone,John Fetterman,Ray Sosa,All
-Tom Wolf,79,277,122,104,72,5,All
-Mike Stack,,10,0,0,0,0,All
-Nina Ahmad,,,5,0,0,0,All
-Kathi Cozzone,,,,12,0,0,All
-John Fetterman,,,,,2,0,All
-Ray Sosa,,,,,,5,All
-Total,659,287,127,116,74,10,All

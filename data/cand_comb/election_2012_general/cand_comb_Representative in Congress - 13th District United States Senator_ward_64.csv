@@ -1,12 +1,12 @@
 col_1,col_2,col_3,col_4,col_5,col_6,division
-,United States Senator,,,Representative In Congress 13th District,,All
-,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,Allyson Y Schwartz,Joseph James Rooney,All
-Bob Casey Jr,223,0,0,"3,337",301,All
-Tom Smith,,114,0,370,"1,761",All
-Rayburn Douglas Smith,,,10,22,16,All
-Allyson Y Schwartz,,,,88,0,All
-Joseph James Rooney,,,,,35,All
-Total,"3,861","2,245",48,"3,817","2,113",All
+,Representative In Congress 13th District,,United States Senator,,,All
+,Allyson Y Schwartz,Joseph James Rooney,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,All
+Allyson Y Schwartz,88,0,"3,337",370,22,All
+Joseph James Rooney,,35,301,"1,761",16,All
+Bob Casey Jr,,,87,0,0,All
+Tom Smith,,,,64,0,All
+Rayburn Douglas Smith,,,,,4,All
+Total,"3,817","2,113","3,725","2,195",42,All
 ,Representative In Congress 13th District,,United States Senator,,,1
 ,Allyson Y Schwartz,Joseph James Rooney,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,1
 Allyson Y Schwartz,9,0,221,18,2,1
@@ -95,14 +95,6 @@ Bob Casey Jr,,,3,0,0,11
 Tom Smith,,,,2,0,11
 Rayburn Douglas Smith,,,,,0,11
 Total,190,124,176,136,2,11
-,United States Senator,,,Representative In Congress 13th District,,12
-,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,Allyson Y Schwartz,Joseph James Rooney,12
-Bob Casey Jr,136,0,0,0,0,12
-Tom Smith,,50,0,0,0,12
-Rayburn Douglas Smith,,,6,0,0,12
-Allyson Y Schwartz,,,,0,0,12
-Joseph James Rooney,,,,,0,12
-Total,136,50,6,0,0,12
 ,United States Senator,,,Representative In Congress 13th District,,13
 ,Bob Casey Jr,Tom Smith,Rayburn Douglas Smith,Allyson Y Schwartz,Joseph James Rooney,13
 Bob Casey Jr,9,0,0,175,18,13

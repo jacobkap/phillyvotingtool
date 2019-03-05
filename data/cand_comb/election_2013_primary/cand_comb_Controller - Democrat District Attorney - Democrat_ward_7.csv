@@ -1,4 +1,11 @@
 col_1,col_2,col_3,col_4,col_5,division
+,District Attorney - Democrat,Controller - Democrat,,,All
+,R Seth Williams,Alan Butkovitz,Brett Mandel,Mark Zecca,All
+R Seth Williams,24,62,41,24,All
+Alan Butkovitz,,17,0,0,All
+Brett Mandel,,,22,0,All
+Mark Zecca,,,,7,All
+Total,151,79,63,31,All
 ,Controller - Democrat,,,District Attorney - Democrat,1
 ,Alan Butkovitz,Mark Zecca,Brett Mandel,R Seth Williams,1
 Alan Butkovitz,2,0,0,7,1
@@ -83,13 +90,6 @@ Alan Butkovitz,,0,0,0,12
 Mark Zecca,,,0,0,12
 R Seth Williams,,,,0,12
 Total,1,0,0,1,12
-,District Attorney - Democrat,Controller - Democrat,,,13
-,R Seth Williams,Alan Butkovitz,Brett Mandel,Mark Zecca,13
-R Seth Williams,1,0,0,0,13
-Alan Butkovitz,,0,0,0,13
-Brett Mandel,,,0,0,13
-Mark Zecca,,,,0,13
-Total,1,0,0,0,13
 ,District Attorney - Democrat,Controller - Democrat,,,14
 ,R Seth Williams,Alan Butkovitz,Brett Mandel,Mark Zecca,14
 R Seth Williams,5,3,2,1,14
@@ -118,13 +118,6 @@ Alan Butkovitz,,1,0,1,17
 Mark Zecca,,,0,1,17
 R Seth Williams,,,,2,17
 Total,6,2,1,6,17
-,Controller - Democrat,,,District Attorney - Democrat,18
-,Alan Butkovitz,Brett Mandel,Mark Zecca,R Seth Williams,18
-Alan Butkovitz,2,0,0,0,18
-Brett Mandel,,1,0,0,18
-Mark Zecca,,,0,0,18
-R Seth Williams,,,,0,18
-Total,2,1,0,0,18
 ,District Attorney - Democrat,Controller - Democrat,,,19
 ,R Seth Williams,Alan Butkovitz,Mark Zecca,Brett Mandel,19
 R Seth Williams,2,2,1,0,19
@@ -160,10 +153,3 @@ Brett Mandel,,2,0,1,23
 Mark Zecca,,,0,1,23
 R Seth Williams,,,,0,23
 Total,5,3,1,5,23
-,District Attorney - Democrat,Controller - Democrat,,,All
-,R Seth Williams,Alan Butkovitz,Brett Mandel,Mark Zecca,All
-R Seth Williams,25,62,41,24,All
-Alan Butkovitz,,19,0,0,All
-Brett Mandel,,,23,0,All
-Mark Zecca,,,,7,All
-Total,152,81,64,31,All

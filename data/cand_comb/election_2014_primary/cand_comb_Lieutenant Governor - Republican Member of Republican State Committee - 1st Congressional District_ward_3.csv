@@ -1,20 +1,12 @@
 col_1,col_2,col_3,col_4,col_5,col_6,division
-,Member Of - Republican State Committee 1st Congressional District,,,,Lieutenant Governor - Republican,2
-,Annie Havey,Christopher M Vogler,Jimmy Dintino,Monika A Czapla,Jim Cawley,2
-Annie Havey,2,0,0,0,0,2
-Christopher M Vogler,,0,0,0,0,2
-Jimmy Dintino,,,0,0,0,2
-Monika A Czapla,,,,0,0,2
-Jim Cawley,,,,,0,2
-Total,2,0,0,0,0,2
-,Member Of - Republican State Committee 1st Congressional District,,,,Lieutenant Governor - Republican,3
-,Christopher M Vogler,Annie Havey,Jimmy Dintino,Monika A Czapla,Jim Cawley,3
-Christopher M Vogler,1,0,0,0,0,3
-Annie Havey,,0,0,0,0,3
-Jimmy Dintino,,,0,0,0,3
-Monika A Czapla,,,,0,0,3
-Jim Cawley,,,,,0,3
-Total,1,0,0,0,0,3
+,Lieutenant Governor - Republican,Member Of - Republican State Committee 1st Congressional District,,,,All
+,Jim Cawley,Monika A Czapla,Annie Havey,Christopher M Vogler,Jimmy Dintino,All
+Jim Cawley,1,10,9,2,2,All
+Monika A Czapla,,0,9,2,2,All
+Annie Havey,,,0,2,2,All
+Christopher M Vogler,,,,1,2,All
+Jimmy Dintino,,,,,0,All
+Total,11,10,9,3,2,All
 ,Lieutenant Governor - Republican,Member Of - Republican State Committee 1st Congressional District,,,,4
 ,Jim Cawley,Monika A Czapla,Annie Havey,Christopher M Vogler,Jimmy Dintino,4
 Jim Cawley,0,1,0,0,0,4
@@ -87,19 +79,3 @@ Monika A Czapla,,,0,0,0,20
 Christopher M Vogler,,,,0,0,20
 Jimmy Dintino,,,,,0,20
 Total,3,2,2,0,0,20
-,Member Of - Republican State Committee 1st Congressional District,,,,Lieutenant Governor - Republican,22
-,Annie Havey,Monika A Czapla,Christopher M Vogler,Jimmy Dintino,Jim Cawley,22
-Annie Havey,0,1,0,0,0,22
-Monika A Czapla,,0,0,0,0,22
-Christopher M Vogler,,,0,0,0,22
-Jimmy Dintino,,,,0,0,22
-Jim Cawley,,,,,0,22
-Total,1,1,0,0,0,22
-,Member Of - Republican State Committee 1st Congressional District,,,,Lieutenant Governor - Republican,All
-,Annie Havey,Monika A Czapla,Christopher M Vogler,Jimmy Dintino,Jim Cawley,All
-Annie Havey,2,10,2,2,9,All
-Monika A Czapla,,0,2,2,10,All
-Christopher M Vogler,,,2,2,2,All
-Jimmy Dintino,,,,0,2,All
-Jim Cawley,,,,,1,All
-Total,12,11,4,2,11,All

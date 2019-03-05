@@ -1,17 +1,17 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10,col_11,division
-,Auditor General - Republican,,Delegate To The Republican National Convention 13th District,,,,,,,,All
-,John Maher,Frank A Pinto,William E Donnelly,Thomas Jay Ellis,Michael J Mcmonagle,Michael Anthony Salvi,Steven J Gilber,Edward T Boyd,Brandon Yates,Robert C Barrilli,All
-John Maher,24,0,24,16,13,10,7,8,5,4,All
-Frank A Pinto,,10,16,12,12,9,4,2,3,2,All
-William E Donnelly,,,0,21,21,12,4,6,2,4,All
-Thomas Jay Ellis,,,,0,13,8,3,4,3,1,All
-Michael J Mcmonagle,,,,,1,5,4,4,2,1,All
-Michael Anthony Salvi,,,,,,0,4,1,1,4,All
-Steven J Gilber,,,,,,,1,2,4,1,All
-Edward T Boyd,,,,,,,,0,3,2,All
-Brandon Yates,,,,,,,,,0,1,All
-Robert C Barrilli,,,,,,,,,,0,All
-Total,58,34,44,30,29,20,13,11,9,7,All
+,Delegate To The Republican National Convention 13th District,,,,,,,,Auditor General - Republican,,All
+,William E Donnelly,Thomas Jay Ellis,Michael J Mcmonagle,Michael Anthony Salvi,Steven J Gilber,Edward T Boyd,Brandon Yates,Robert C Barrilli,John Maher,Frank A Pinto,All
+William E Donnelly,0,21,21,12,4,6,2,4,24,16,All
+Thomas Jay Ellis,,0,13,8,3,4,3,1,16,12,All
+Michael J Mcmonagle,,,1,5,4,4,2,1,13,12,All
+Michael Anthony Salvi,,,,0,4,1,1,4,10,9,All
+Steven J Gilber,,,,,1,2,4,1,7,4,All
+Edward T Boyd,,,,,,0,3,2,8,2,All
+Brandon Yates,,,,,,,0,1,5,3,All
+Robert C Barrilli,,,,,,,,0,4,2,All
+John Maher,,,,,,,,,3,0,All
+Frank A Pinto,,,,,,,,,,3,All
+Total,44,30,29,20,13,11,9,7,37,27,All
 ,Delegate To The Republican National Convention 13th District,,,,,,,,Auditor General - Republican,,1
 ,William E Donnelly,Michael Anthony Salvi,Michael J Mcmonagle,Thomas Jay Ellis,Brandon Yates,Robert C Barrilli,Steven J Gilber,Edward T Boyd,Frank A Pinto,John Maher,1
 William E Donnelly,0,2,2,2,0,1,0,0,3,4,1
@@ -168,45 +168,6 @@ Robert C Barrilli,,,,,,,,0,0,0,13
 Steven J Gilber,,,,,,,,,0,0,13
 Thomas Jay Ellis,,,,,,,,,,0,13
 Total,2,0,2,1,1,1,1,0,0,0,13
-,Auditor General - Republican,,Delegate To The Republican National Convention 13th District,,,,,,,,14
-,Frank A Pinto,John Maher,Brandon Yates,Edward T Boyd,Michael Anthony Salvi,Michael J Mcmonagle,Robert C Barrilli,Steven J Gilber,Thomas Jay Ellis,William E Donnelly,14
-Frank A Pinto,1,0,0,0,0,0,0,0,0,0,14
-John Maher,,1,0,0,0,0,0,0,0,0,14
-Brandon Yates,,,0,0,0,0,0,0,0,0,14
-Edward T Boyd,,,,0,0,0,0,0,0,0,14
-Michael Anthony Salvi,,,,,0,0,0,0,0,0,14
-Michael J Mcmonagle,,,,,,0,0,0,0,0,14
-Robert C Barrilli,,,,,,,0,0,0,0,14
-Steven J Gilber,,,,,,,,0,0,0,14
-Thomas Jay Ellis,,,,,,,,,0,0,14
-William E Donnelly,,,,,,,,,,0,14
-Total,1,1,0,0,0,0,0,0,0,0,14
-,Auditor General - Republican,,Delegate To The Republican National Convention 13th District,,,,,,,,15
-,John Maher,Frank A Pinto,Brandon Yates,Edward T Boyd,Michael Anthony Salvi,Michael J Mcmonagle,Robert C Barrilli,Steven J Gilber,Thomas Jay Ellis,William E Donnelly,15
-John Maher,4,0,0,0,0,0,0,0,0,0,15
-Frank A Pinto,,3,0,0,0,0,0,0,0,0,15
-Brandon Yates,,,0,0,0,0,0,0,0,0,15
-Edward T Boyd,,,,0,0,0,0,0,0,0,15
-Michael Anthony Salvi,,,,,0,0,0,0,0,0,15
-Michael J Mcmonagle,,,,,,0,0,0,0,0,15
-Robert C Barrilli,,,,,,,0,0,0,0,15
-Steven J Gilber,,,,,,,,0,0,0,15
-Thomas Jay Ellis,,,,,,,,,0,0,15
-William E Donnelly,,,,,,,,,,0,15
-Total,4,3,0,0,0,0,0,0,0,0,15
-,Auditor General - Republican,,Delegate To The Republican National Convention 13th District,,,,,,,,16
-,John Maher,Frank A Pinto,Brandon Yates,Edward T Boyd,Michael Anthony Salvi,Michael J Mcmonagle,Robert C Barrilli,Steven J Gilber,Thomas Jay Ellis,William E Donnelly,16
-John Maher,3,0,0,0,0,0,0,0,0,0,16
-Frank A Pinto,,0,0,0,0,0,0,0,0,0,16
-Brandon Yates,,,0,0,0,0,0,0,0,0,16
-Edward T Boyd,,,,0,0,0,0,0,0,0,16
-Michael Anthony Salvi,,,,,0,0,0,0,0,0,16
-Michael J Mcmonagle,,,,,,0,0,0,0,0,16
-Robert C Barrilli,,,,,,,0,0,0,0,16
-Steven J Gilber,,,,,,,,0,0,0,16
-Thomas Jay Ellis,,,,,,,,,0,0,16
-William E Donnelly,,,,,,,,,,0,16
-Total,3,0,0,0,0,0,0,0,0,0,16
 ,Delegate To The Republican National Convention 13th District,,,,,,,,Auditor General - Republican,,17
 ,William E Donnelly,Michael Anthony Salvi,Michael J Mcmonagle,Robert C Barrilli,Steven J Gilber,Thomas Jay Ellis,Brandon Yates,Edward T Boyd,John Maher,Frank A Pinto,17
 William E Donnelly,0,1,1,1,1,1,0,0,3,0,17
@@ -233,45 +194,6 @@ Steven J Gilber,,,,,,,,1,0,0,18
 Edward T Boyd,,,,,,,,,0,1,18
 Robert C Barrilli,,,,,,,,,,0,18
 Total,5,2,4,4,3,3,3,3,2,2,18
-,Auditor General - Republican,,Delegate To The Republican National Convention 13th District,,,,,,,,19
-,Frank A Pinto,John Maher,Brandon Yates,Edward T Boyd,Michael Anthony Salvi,Michael J Mcmonagle,Robert C Barrilli,Steven J Gilber,Thomas Jay Ellis,William E Donnelly,19
-Frank A Pinto,2,0,0,0,0,0,0,0,0,0,19
-John Maher,,2,0,0,0,0,0,0,0,0,19
-Brandon Yates,,,0,0,0,0,0,0,0,0,19
-Edward T Boyd,,,,0,0,0,0,0,0,0,19
-Michael Anthony Salvi,,,,,0,0,0,0,0,0,19
-Michael J Mcmonagle,,,,,,0,0,0,0,0,19
-Robert C Barrilli,,,,,,,0,0,0,0,19
-Steven J Gilber,,,,,,,,0,0,0,19
-Thomas Jay Ellis,,,,,,,,,0,0,19
-William E Donnelly,,,,,,,,,,0,19
-Total,2,2,0,0,0,0,0,0,0,0,19
-,Auditor General - Republican,,Delegate To The Republican National Convention 13th District,,,,,,,,20
-,John Maher,Frank A Pinto,Brandon Yates,Edward T Boyd,Michael Anthony Salvi,Michael J Mcmonagle,Robert C Barrilli,Steven J Gilber,Thomas Jay Ellis,William E Donnelly,20
-John Maher,5,0,0,0,0,0,0,0,0,0,20
-Frank A Pinto,,1,0,0,0,0,0,0,0,0,20
-Brandon Yates,,,0,0,0,0,0,0,0,0,20
-Edward T Boyd,,,,0,0,0,0,0,0,0,20
-Michael Anthony Salvi,,,,,0,0,0,0,0,0,20
-Michael J Mcmonagle,,,,,,0,0,0,0,0,20
-Robert C Barrilli,,,,,,,0,0,0,0,20
-Steven J Gilber,,,,,,,,0,0,0,20
-Thomas Jay Ellis,,,,,,,,,0,0,20
-William E Donnelly,,,,,,,,,,0,20
-Total,5,1,0,0,0,0,0,0,0,0,20
-,Auditor General - Republican,,Delegate To The Republican National Convention 13th District,,,,,,,,21
-,John Maher,Frank A Pinto,Brandon Yates,Edward T Boyd,Michael Anthony Salvi,Michael J Mcmonagle,Robert C Barrilli,Steven J Gilber,Thomas Jay Ellis,William E Donnelly,21
-John Maher,6,0,0,0,0,0,0,0,0,0,21
-Frank A Pinto,,0,0,0,0,0,0,0,0,0,21
-Brandon Yates,,,0,0,0,0,0,0,0,0,21
-Edward T Boyd,,,,0,0,0,0,0,0,0,21
-Michael Anthony Salvi,,,,,0,0,0,0,0,0,21
-Michael J Mcmonagle,,,,,,0,0,0,0,0,21
-Robert C Barrilli,,,,,,,0,0,0,0,21
-Steven J Gilber,,,,,,,,0,0,0,21
-Thomas Jay Ellis,,,,,,,,,0,0,21
-William E Donnelly,,,,,,,,,,0,21
-Total,6,0,0,0,0,0,0,0,0,0,21
 ,Auditor General - Republican,,Delegate To The Republican National Convention 13th District,,,,,,,,22
 ,Frank A Pinto,John Maher,Michael J Mcmonagle,Steven J Gilber,Thomas Jay Ellis,William E Donnelly,Michael Anthony Salvi,Brandon Yates,Edward T Boyd,Robert C Barrilli,22
 Frank A Pinto,1,0,1,1,2,1,0,0,0,0,22

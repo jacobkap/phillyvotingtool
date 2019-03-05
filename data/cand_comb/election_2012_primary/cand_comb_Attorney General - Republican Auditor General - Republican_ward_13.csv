@@ -1,10 +1,10 @@
 col_1,col_2,col_3,col_4,division
 ,Attorney General - Republican,Auditor General - Republican,,All
 ,David J Freed,John Maher,Frank A Pinto,All
-David J Freed,2,11,9,All
-John Maher,,2,0,All
-Frank A Pinto,,,2,All
-Total,22,13,11,All
+David J Freed,1,11,9,All
+John Maher,,1,0,All
+Frank A Pinto,,,1,All
+Total,21,12,10,All
 ,Attorney General - Republican,Auditor General - Republican,,3
 ,David J Freed,John Maher,Frank A Pinto,3
 David J Freed,0,2,0,3
@@ -47,18 +47,6 @@ David J Freed,0,1,0,10
 John Maher,,0,0,10
 Frank A Pinto,,,0,10
 Total,1,1,0,10
-,Attorney General - Republican,Auditor General - Republican,,11
-,David J Freed,Frank A Pinto,John Maher,11
-David J Freed,1,0,0,11
-Frank A Pinto,,0,0,11
-John Maher,,,0,11
-Total,1,0,0,11
-,Auditor General - Republican,,Attorney General - Republican,12
-,Frank A Pinto,John Maher,David J Freed,12
-Frank A Pinto,1,0,0,12
-John Maher,,0,0,12
-David J Freed,,,0,12
-Total,1,0,0,12
 ,Attorney General - Republican,Auditor General - Republican,,13
 ,David J Freed,Frank A Pinto,John Maher,13
 David J Freed,0,1,0,13
@@ -77,6 +65,12 @@ David J Freed,0,1,1,18
 Frank A Pinto,,0,0,18
 John Maher,,,0,18
 Total,2,1,1,18
+,Attorney General - Republican,Auditor General - Republican,,19
+,David J Freed,Frank A Pinto,John Maher,19
+David J Freed,0,1,1,19
+Frank A Pinto,,0,0,19
+John Maher,,,0,19
+Total,2,1,1,19
 ,Attorney General - Republican,Auditor General - Republican,,20
 ,David J Freed,Frank A Pinto,John Maher,20
 David J Freed,0,1,0,20
@@ -89,21 +83,9 @@ David J Freed,0,1,0,23
 John Maher,,0,0,23
 Frank A Pinto,,,0,23
 Total,1,1,0,23
-,Auditor General - Republican,,Attorney General - Republican,24
-,John Maher,Frank A Pinto,David J Freed,24
-John Maher,1,0,0,24
-Frank A Pinto,,0,0,24
-David J Freed,,,0,24
-Total,1,0,0,24
 ,Attorney General - Republican,Auditor General - Republican,,25
 ,David J Freed,Frank A Pinto,John Maher,25
 David J Freed,0,1,0,25
 Frank A Pinto,,0,0,25
 John Maher,,,0,25
 Total,1,1,0,25
-,Attorney General - Republican,Auditor General - Republican,,19
-,David J Freed,Frank A Pinto,John Maher,19
-David J Freed,0,1,1,19
-Frank A Pinto,,0,0,19
-John Maher,,,0,19
-Total,2,1,1,19

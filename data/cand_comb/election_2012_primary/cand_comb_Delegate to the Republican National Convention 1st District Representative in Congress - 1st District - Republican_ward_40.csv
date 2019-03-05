@@ -1,14 +1,14 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,division
 ,Representative In Congress 1st District - Republican,Delegate To The Republican National Convention 1st District,,,,,,All
 ,John Featherman,Tom Boggia,Marion S Taxin,Christopher M Vogler,Michael W Untermeyer,Frederick W Anton,Dale Kerns,All
-John Featherman,4,51,47,43,28,21,18,All
-Tom Boggia,,0,20,24,16,11,11,All
+John Featherman,2,51,47,43,28,21,18,All
+Tom Boggia,,0,20,24,16,11,10,All
 Marion S Taxin,,,2,23,5,9,2,All
-Christopher M Vogler,,,,0,12,10,5,All
-Michael W Untermeyer,,,,,1,6,12,All
+Christopher M Vogler,,,,0,11,10,5,All
+Michael W Untermeyer,,,,,1,6,11,All
 Frederick W Anton,,,,,,1,7,All
 Dale Kerns,,,,,,,1,All
-Total,103,53,50,44,34,24,23,All
+Total,101,52,50,43,32,24,21,All
 ,Representative In Congress 1st District - Republican,Delegate To The Republican National Convention 1st District,,,,,,1
 ,John Featherman,Michael W Untermeyer,Christopher M Vogler,Tom Boggia,Dale Kerns,Frederick W Anton,Marion S Taxin,1
 John Featherman,0,2,1,1,0,0,0,1
@@ -49,16 +49,6 @@ Dale Kerns,,,,,0,0,0,9
 Frederick W Anton,,,,,,0,0,9
 Tom Boggia,,,,,,,0,9
 Total,2,1,1,0,0,0,0,9
-,Representative In Congress 1st District - Republican,Delegate To The Republican National Convention 1st District,,,,,,10
-,John Featherman,Christopher M Vogler,Dale Kerns,Frederick W Anton,Marion S Taxin,Michael W Untermeyer,Tom Boggia,10
-John Featherman,1,0,0,0,0,0,0,10
-Christopher M Vogler,,0,0,0,0,0,0,10
-Dale Kerns,,,0,0,0,0,0,10
-Frederick W Anton,,,,0,0,0,0,10
-Marion S Taxin,,,,,0,0,0,10
-Michael W Untermeyer,,,,,,0,0,10
-Tom Boggia,,,,,,,0,10
-Total,1,0,0,0,0,0,0,10
 ,Delegate To The Republican National Convention 1st District,,,,,,Representative In Congress 1st District - Republican,11
 ,Frederick W Anton,Christopher M Vogler,Marion S Taxin,Dale Kerns,Michael W Untermeyer,Tom Boggia,John Featherman,11
 Frederick W Anton,0,2,2,0,0,0,3,11
@@ -99,16 +89,6 @@ Dale Kerns,,,,,0,0,0,14
 Marion S Taxin,,,,,,0,0,14
 John Featherman,,,,,,,0,14
 Total,1,1,1,0,0,0,1,14
-,Representative In Congress 1st District - Republican,Delegate To The Republican National Convention 1st District,,,,,,16
-,John Featherman,Christopher M Vogler,Dale Kerns,Frederick W Anton,Marion S Taxin,Michael W Untermeyer,Tom Boggia,16
-John Featherman,1,0,0,0,0,0,0,16
-Christopher M Vogler,,0,0,0,0,0,0,16
-Dale Kerns,,,0,0,0,0,0,16
-Frederick W Anton,,,,0,0,0,0,16
-Marion S Taxin,,,,,0,0,0,16
-Michael W Untermeyer,,,,,,0,0,16
-Tom Boggia,,,,,,,0,16
-Total,1,0,0,0,0,0,0,16
 ,Representative In Congress 1st District - Republican,Delegate To The Republican National Convention 1st District,,,,,,17
 ,John Featherman,Marion S Taxin,Frederick W Anton,Tom Boggia,Christopher M Vogler,Dale Kerns,Michael W Untermeyer,17
 John Featherman,0,2,1,1,0,0,0,17
@@ -229,26 +209,6 @@ Frederick W Anton,,,,,0,1,0,28
 Marion S Taxin,,,,,,0,0,28
 Dale Kerns,,,,,,,0,28
 Total,6,3,3,2,2,2,1,28
-,Delegate To The Republican National Convention 1st District,,,,,,Representative In Congress 1st District - Republican,29
-,Christopher M Vogler,Michael W Untermeyer,Dale Kerns,Frederick W Anton,Marion S Taxin,Tom Boggia,John Featherman,29
-Christopher M Vogler,0,1,0,0,0,0,0,29
-Michael W Untermeyer,,0,0,0,0,0,0,29
-Dale Kerns,,,0,0,0,0,0,29
-Frederick W Anton,,,,0,0,0,0,29
-Marion S Taxin,,,,,0,0,0,29
-Tom Boggia,,,,,,0,0,29
-John Featherman,,,,,,,0,29
-Total,1,1,0,0,0,0,0,29
-,Delegate To The Republican National Convention 1st District,,,,,,Representative In Congress 1st District - Republican,30
-,Dale Kerns,Michael W Untermeyer,Tom Boggia,Christopher M Vogler,Frederick W Anton,Marion S Taxin,John Featherman,30
-Dale Kerns,0,1,1,0,0,0,0,30
-Michael W Untermeyer,,0,0,0,0,0,0,30
-Tom Boggia,,,0,0,0,0,0,30
-Christopher M Vogler,,,,0,0,0,0,30
-Frederick W Anton,,,,,0,0,0,30
-Marion S Taxin,,,,,,0,0,30
-John Featherman,,,,,,,0,30
-Total,2,1,1,0,0,0,0,30
 ,Representative In Congress 1st District - Republican,Delegate To The Republican National Convention 1st District,,,,,,31
 ,John Featherman,Christopher M Vogler,Tom Boggia,Dale Kerns,Frederick W Anton,Marion S Taxin,Michael W Untermeyer,31
 John Featherman,0,1,1,0,0,0,0,31

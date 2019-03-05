@@ -1,4 +1,14 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,division
+,Governor - Republican,,,Lieutenant Governor - Republican,,,,All
+,Paul Mango,Scott R Wagner,Laura Ellsworth,Jeff Bartos,Diana Irey Vaughan,Kathy Coder,Peg Luksik,All
+Paul Mango,2,0,0,2,7,3,0,All
+Scott R Wagner,,1,0,9,0,2,0,All
+Laura Ellsworth,,,0,1,1,3,0,All
+Jeff Bartos,,,,0,0,0,0,All
+Diana Irey Vaughan,,,,,0,0,0,All
+Kathy Coder,,,,,,0,0,All
+Peg Luksik,,,,,,,0,All
+Total,14,12,5,12,8,8,0,All
 ,Governor - Republican,,,Lieutenant Governor - Republican,,,,1
 ,Paul Mango,Scott R Wagner,Laura Ellsworth,Diana Irey Vaughan,Jeff Bartos,Kathy Coder,Peg Luksik,1
 Paul Mango,0,0,0,1,0,1,0,1
@@ -49,26 +59,6 @@ Paul Mango,,,,,1,0,0,7
 Scott R Wagner,,,,,,0,0,7
 Laura Ellsworth,,,,,,,0,7
 Total,1,0,0,0,1,1,0,7
-,Governor - Republican,,,Lieutenant Governor - Republican,,,,9
-,Paul Mango,Laura Ellsworth,Scott R Wagner,Diana Irey Vaughan,Jeff Bartos,Kathy Coder,Peg Luksik,9
-Paul Mango,1,0,0,0,0,0,0,9
-Laura Ellsworth,,0,0,0,0,0,0,9
-Scott R Wagner,,,0,0,0,0,0,9
-Diana Irey Vaughan,,,,0,0,0,0,9
-Jeff Bartos,,,,,0,0,0,9
-Kathy Coder,,,,,,0,0,9
-Peg Luksik,,,,,,,0,9
-Total,1,0,0,0,0,0,0,9
-,Governor - Republican,,,Lieutenant Governor - Republican,,,,11
-,Scott R Wagner,Laura Ellsworth,Paul Mango,Diana Irey Vaughan,Jeff Bartos,Kathy Coder,Peg Luksik,11
-Scott R Wagner,1,0,0,0,0,0,0,11
-Laura Ellsworth,,0,0,0,0,0,0,11
-Paul Mango,,,0,0,0,0,0,11
-Diana Irey Vaughan,,,,0,0,0,0,11
-Jeff Bartos,,,,,0,0,0,11
-Kathy Coder,,,,,,0,0,11
-Peg Luksik,,,,,,,0,11
-Total,1,0,0,0,0,0,0,11
 ,Governor - Republican,,,Lieutenant Governor - Republican,,,,12
 ,Paul Mango,Scott R Wagner,Laura Ellsworth,Diana Irey Vaughan,Jeff Bartos,Kathy Coder,Peg Luksik,12
 Paul Mango,1,0,0,1,0,1,0,12
@@ -99,16 +89,6 @@ Jeff Bartos,,,,,0,0,0,14
 Kathy Coder,,,,,,0,0,14
 Peg Luksik,,,,,,,0,14
 Total,2,1,0,1,1,1,0,14
-,Lieutenant Governor - Republican,,,,Governor - Republican,,,15
-,Diana Irey Vaughan,Jeff Bartos,Kathy Coder,Peg Luksik,Laura Ellsworth,Paul Mango,Scott R Wagner,15
-Diana Irey Vaughan,1,0,0,0,0,0,0,15
-Jeff Bartos,,0,0,0,0,0,0,15
-Kathy Coder,,,0,0,0,0,0,15
-Peg Luksik,,,,0,0,0,0,15
-Laura Ellsworth,,,,,0,0,0,15
-Paul Mango,,,,,,0,0,15
-Scott R Wagner,,,,,,,0,15
-Total,1,0,0,0,0,0,0,15
 ,Governor - Republican,,,Lieutenant Governor - Republican,,,,17
 ,Laura Ellsworth,Paul Mango,Scott R Wagner,Diana Irey Vaughan,Jeff Bartos,Kathy Coder,Peg Luksik,17
 Laura Ellsworth,0,0,0,1,1,0,0,17
@@ -139,26 +119,6 @@ Jeff Bartos,,,,,0,0,0,19
 Diana Irey Vaughan,,,,,,0,0,19
 Peg Luksik,,,,,,,0,19
 Total,3,0,0,2,1,0,0,19
-,Governor - Republican,,,Lieutenant Governor - Republican,,,,20
-,Laura Ellsworth,Paul Mango,Scott R Wagner,Diana Irey Vaughan,Jeff Bartos,Kathy Coder,Peg Luksik,20
-Laura Ellsworth,1,0,0,0,0,0,0,20
-Paul Mango,,0,0,0,0,0,0,20
-Scott R Wagner,,,0,0,0,0,0,20
-Diana Irey Vaughan,,,,0,0,0,0,20
-Jeff Bartos,,,,,0,0,0,20
-Kathy Coder,,,,,,0,0,20
-Peg Luksik,,,,,,,0,20
-Total,1,0,0,0,0,0,0,20
-,Governor - Republican,,,Lieutenant Governor - Republican,,,,21
-,Scott R Wagner,Laura Ellsworth,Paul Mango,Diana Irey Vaughan,Jeff Bartos,Kathy Coder,Peg Luksik,21
-Scott R Wagner,1,0,0,0,0,0,0,21
-Laura Ellsworth,,0,0,0,0,0,0,21
-Paul Mango,,,0,0,0,0,0,21
-Diana Irey Vaughan,,,,0,0,0,0,21
-Jeff Bartos,,,,,0,0,0,21
-Kathy Coder,,,,,,0,0,21
-Peg Luksik,,,,,,,0,21
-Total,1,0,0,0,0,0,0,21
 ,Lieutenant Governor - Republican,,,,Governor - Republican,,,22
 ,Diana Irey Vaughan,Jeff Bartos,Kathy Coder,Peg Luksik,Paul Mango,Laura Ellsworth,Scott R Wagner,22
 Diana Irey Vaughan,0,0,0,0,1,0,0,22
@@ -169,13 +129,3 @@ Paul Mango,,,,,0,0,0,22
 Laura Ellsworth,,,,,,0,0,22
 Scott R Wagner,,,,,,,0,22
 Total,1,0,0,0,1,0,0,22
-,Governor - Republican,,,Lieutenant Governor - Republican,,,,All
-,Paul Mango,Scott R Wagner,Laura Ellsworth,Jeff Bartos,Diana Irey Vaughan,Kathy Coder,Peg Luksik,All
-Paul Mango,3,0,0,2,7,3,0,All
-Scott R Wagner,,3,0,9,0,2,0,All
-Laura Ellsworth,,,1,1,1,3,0,All
-Jeff Bartos,,,,0,0,0,0,All
-Diana Irey Vaughan,,,,,1,0,0,All
-Kathy Coder,,,,,,0,0,All
-Peg Luksik,,,,,,,0,All
-Total,15,14,6,12,9,8,0,All

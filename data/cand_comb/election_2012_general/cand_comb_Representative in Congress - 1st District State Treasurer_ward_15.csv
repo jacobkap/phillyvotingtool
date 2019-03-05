@@ -1,12 +1,12 @@
 col_1,col_2,col_3,col_4,col_5,col_6,division
-,State Treasurer,,,Representative In Congress 1st District,,All
-,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,Robert A Brady,John Featherman,All
-Robert M Mccord,323,0,0,"6,416",178,All
-Diana Irey Vaughan,,78,0,247,975,All
-Patricia M Fryman,,,25,94,53,All
-Robert A Brady,,,,159,0,All
-John Featherman,,,,,30,All
-Total,"6,917","1,300",172,"6,916","1,236",All
+,Representative In Congress 1st District,,State Treasurer,,,All
+,Robert A Brady,John Featherman,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,All
+Robert A Brady,159,0,"6,416",247,94,All
+John Featherman,,30,178,975,53,All
+Robert M Mccord,,,57,0,0,All
+Diana Irey Vaughan,,,,9,0,All
+Patricia M Fryman,,,,,13,All
+Total,"6,916","1,236","6,651","1,231",160,All
 ,Representative In Congress 1st District,,State Treasurer,,,1
 ,Robert A Brady,John Featherman,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,1
 Robert A Brady,12,0,446,12,12,1
@@ -119,14 +119,6 @@ Robert M Mccord,,,1,0,0,14
 Diana Irey Vaughan,,,,0,0,14
 Patricia M Fryman,,,,,0,14
 Total,363,83,350,80,12,14
-,State Treasurer,,,Representative In Congress 1st District,,15
-,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,John Featherman,Robert A Brady,15
-Robert M Mccord,266,0,0,0,0,15
-Diana Irey Vaughan,,69,0,0,0,15
-Patricia M Fryman,,,12,0,0,15
-John Featherman,,,,0,0,15
-Robert A Brady,,,,,0,15
-Total,266,69,12,0,0,15
 ,Representative In Congress 1st District,,State Treasurer,,,16
 ,Robert A Brady,John Featherman,Robert M Mccord,Diana Irey Vaughan,Patricia M Fryman,16
 Robert A Brady,9,0,350,13,1,16

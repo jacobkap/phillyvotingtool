@@ -1,4 +1,14 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,division
+,District Council 1st District - Democrat,City Commissioners - Democrat,,,,,,All
+,Mark F Squilla,Carol A Jenkins,Anthony Clark,Lisa M Deeley,Tracey L Gordon,Omar Sabir,Will Mega,All
+Mark F Squilla,725,914,809,683,537,216,207,All
+Carol A Jenkins,,117,193,364,208,42,52,All
+Anthony Clark,,,50,138,149,73,84,All
+Lisa M Deeley,,,,37,131,46,15,All
+Tracey L Gordon,,,,,25,31,38,All
+Omar Sabir,,,,,,24,14,All
+Will Mega,,,,,,,11,All
+Total,"2,728","1,170",912,823,639,266,250,All
 ,District Council 1st District - Democrat,City Commissioners - Democrat,,,,,,1
 ,Mark F Squilla,Lisa M Deeley,Anthony Clark,Carol A Jenkins,Tracey L Gordon,Omar Sabir,Will Mega,1
 Mark F Squilla,55,52,57,46,34,11,10,1
@@ -79,16 +89,6 @@ Lisa M Deeley,,,,,0,0,0,8
 Will Mega,,,,,,1,0,8
 Omar Sabir,,,,,,,0,8
 Total,77,32,32,23,14,12,8,8
-,City Commissioners - Democrat,,,,,,District Council 1st District - Democrat,9
-,Anthony Clark,Carol A Jenkins,Omar Sabir,Lisa M Deeley,Tracey L Gordon,Will Mega,Mark F Squilla,9
-Anthony Clark,23,3,16,2,6,5,0,9
-Carol A Jenkins,,11,1,8,7,0,0,9
-Omar Sabir,,,4,2,0,1,0,9
-Lisa M Deeley,,,,4,7,0,0,9
-Tracey L Gordon,,,,,1,0,0,9
-Will Mega,,,,,,4,0,9
-Mark F Squilla,,,,,,,0,9
-Total,55,30,24,23,21,10,0,9
 ,District Council 1st District - Democrat,City Commissioners - Democrat,,,,,,10
 ,Mark F Squilla,Carol A Jenkins,Anthony Clark,Lisa M Deeley,Tracey L Gordon,Will Mega,Omar Sabir,10
 Mark F Squilla,25,38,32,28,27,20,10,10
@@ -179,46 +179,6 @@ Tracey L Gordon,,,,,1,1,0,18
 Omar Sabir,,,,,,0,2,18
 Will Mega,,,,,,,0,18
 Total,119,46,24,23,14,6,4,18
-,City Commissioners - Democrat,,,,,,District Council 1st District - Democrat,19
-,Carol A Jenkins,Anthony Clark,Lisa M Deeley,Tracey L Gordon,Will Mega,Omar Sabir,Mark F Squilla,19
-Carol A Jenkins,16,8,17,14,1,2,0,19
-Anthony Clark,,19,4,4,6,9,0,19
-Lisa M Deeley,,,2,0,3,0,0,19
-Tracey L Gordon,,,,4,4,0,0,19
-Will Mega,,,,,4,0,0,19
-Omar Sabir,,,,,,3,0,19
-Mark F Squilla,,,,,,,0,19
-Total,58,50,26,26,18,14,0,19
-,City Commissioners - Democrat,,,,,,District Council 1st District - Democrat,20
-,Anthony Clark,Carol A Jenkins,Lisa M Deeley,Tracey L Gordon,Omar Sabir,Will Mega,Mark F Squilla,20
-Anthony Clark,13,5,6,3,4,3,0,20
-Carol A Jenkins,,5,11,8,3,0,0,20
-Lisa M Deeley,,,2,2,3,0,0,20
-Tracey L Gordon,,,,1,1,0,0,20
-Omar Sabir,,,,,0,0,0,20
-Will Mega,,,,,,1,0,20
-Mark F Squilla,,,,,,,0,20
-Total,34,32,24,15,11,4,0,20
-,City Commissioners - Democrat,,,,,,District Council 1st District - Democrat,21
-,Anthony Clark,Carol A Jenkins,Lisa M Deeley,Omar Sabir,Tracey L Gordon,Will Mega,Mark F Squilla,21
-Anthony Clark,14,11,6,11,4,3,0,21
-Carol A Jenkins,,3,11,5,6,3,0,21
-Lisa M Deeley,,,1,1,2,0,0,21
-Omar Sabir,,,,3,0,1,0,21
-Tracey L Gordon,,,,,7,1,0,21
-Will Mega,,,,,,3,0,21
-Mark F Squilla,,,,,,,0,21
-Total,49,39,21,21,20,11,0,21
-,City Commissioners - Democrat,,,,,,District Council 1st District - Democrat,22
-,Carol A Jenkins,Anthony Clark,Lisa M Deeley,Tracey L Gordon,Will Mega,Omar Sabir,Mark F Squilla,22
-Carol A Jenkins,19,10,25,9,9,4,0,22
-Anthony Clark,,22,7,8,5,2,0,22
-Lisa M Deeley,,,3,4,1,1,0,22
-Tracey L Gordon,,,,2,4,1,0,22
-Will Mega,,,,,3,1,0,22
-Omar Sabir,,,,,,2,0,22
-Mark F Squilla,,,,,,,0,22
-Total,76,54,41,28,23,11,0,22
 ,District Council 1st District - Democrat,City Commissioners - Democrat,,,,,,23
 ,Mark F Squilla,Carol A Jenkins,Lisa M Deeley,Tracey L Gordon,Anthony Clark,Omar Sabir,Will Mega,23
 Mark F Squilla,44,68,50,34,31,18,16,23
@@ -269,13 +229,3 @@ Tracey L Gordon,,,,,2,1,2,27
 Will Mega,,,,,,1,0,27
 Omar Sabir,,,,,,,0,27
 Total,171,76,60,59,46,15,9,27
-,District Council 1st District - Democrat,City Commissioners - Democrat,,,,,,All
-,Mark F Squilla,Carol A Jenkins,Anthony Clark,Lisa M Deeley,Tracey L Gordon,Omar Sabir,Will Mega,All
-Mark F Squilla,725,914,809,683,537,216,207,All
-Carol A Jenkins,,171,230,436,252,57,65,All
-Anthony Clark,,,141,163,174,115,106,All
-Lisa M Deeley,,,,49,146,53,19,All
-Tracey L Gordon,,,,,40,33,47,All
-Omar Sabir,,,,,,36,17,All
-Will Mega,,,,,,,26,All
-Total,"2,728","1,405","1,154",958,749,347,316,All

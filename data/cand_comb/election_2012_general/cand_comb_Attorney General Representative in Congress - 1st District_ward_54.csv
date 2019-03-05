@@ -1,28 +1,12 @@
 col_1,col_2,col_3,col_4,col_5,col_6,division
-,Attorney General,,,Representative In Congress 1st District,,All
-,Kathleen G Kane,David J Freed,Marakay J Rogers,Robert A Brady,John Featherman,All
-Kathleen G Kane,"3,657",0,0,"1,292",23,All
-David J Freed,,475,0,52,178,All
-Marakay J Rogers,,,28,4,2,All
-Robert A Brady,,,,18,0,All
-John Featherman,,,,,5,All
-Total,"4,972",705,34,"1,366",208,All
-,Attorney General,,,Representative In Congress 1st District,,1
-,Kathleen G Kane,David J Freed,Marakay J Rogers,John Featherman,Robert A Brady,1
-Kathleen G Kane,288,0,0,0,0,1
-David J Freed,,27,0,0,0,1
-Marakay J Rogers,,,1,0,0,1
-John Featherman,,,,0,0,1
-Robert A Brady,,,,,0,1
-Total,288,27,1,0,0,1
-,Attorney General,,,Representative In Congress 1st District,,2
-,Kathleen G Kane,David J Freed,Marakay J Rogers,John Featherman,Robert A Brady,2
-Kathleen G Kane,340,0,0,0,0,2
-David J Freed,,19,0,0,0,2
-Marakay J Rogers,,,2,0,0,2
-John Featherman,,,,0,0,2
-Robert A Brady,,,,,0,2
-Total,340,19,2,0,0,2
+,Representative In Congress 1st District,,Attorney General,,,All
+,Robert A Brady,John Featherman,Kathleen G Kane,David J Freed,Marakay J Rogers,All
+Robert A Brady,18,0,"1,292",52,4,All
+John Featherman,,5,23,178,2,All
+Kathleen G Kane,,,18,0,0,All
+David J Freed,,,,5,0,All
+Marakay J Rogers,,,,,0,All
+Total,"1,366",208,"1,333",235,6,All
 ,Attorney General,,,Representative In Congress 1st District,,3
 ,Kathleen G Kane,David J Freed,Marakay J Rogers,Robert A Brady,John Featherman,3
 Kathleen G Kane,5,0,0,223,3,3
@@ -31,86 +15,6 @@ Marakay J Rogers,,,0,1,0,3
 Robert A Brady,,,,1,0,3
 John Featherman,,,,,0,3
 Total,231,17,1,228,17,3
-,Attorney General,,,Representative In Congress 1st District,,4
-,Kathleen G Kane,David J Freed,Marakay J Rogers,John Featherman,Robert A Brady,4
-Kathleen G Kane,270,0,0,0,0,4
-David J Freed,,26,0,0,0,4
-Marakay J Rogers,,,1,0,0,4
-John Featherman,,,,0,0,4
-Robert A Brady,,,,,0,4
-Total,270,26,1,0,0,4
-,Attorney General,,,Representative In Congress 1st District,,5
-,Kathleen G Kane,David J Freed,Marakay J Rogers,John Featherman,Robert A Brady,5
-Kathleen G Kane,252,0,0,0,0,5
-David J Freed,,36,0,0,0,5
-Marakay J Rogers,,,7,0,0,5
-John Featherman,,,,0,0,5
-Robert A Brady,,,,,0,5
-Total,252,36,7,0,0,5
-,Attorney General,,,Representative In Congress 1st District,,6
-,Kathleen G Kane,David J Freed,Marakay J Rogers,John Featherman,Robert A Brady,6
-Kathleen G Kane,244,0,0,0,0,6
-David J Freed,,19,0,0,0,6
-Marakay J Rogers,,,2,0,0,6
-John Featherman,,,,0,0,6
-Robert A Brady,,,,,0,6
-Total,244,19,2,0,0,6
-,Attorney General,,,Representative In Congress 1st District,,7
-,Kathleen G Kane,David J Freed,Marakay J Rogers,John Featherman,Robert A Brady,7
-Kathleen G Kane,239,0,0,0,0,7
-David J Freed,,41,0,0,0,7
-Marakay J Rogers,,,3,0,0,7
-John Featherman,,,,0,0,7
-Robert A Brady,,,,,0,7
-Total,239,41,3,0,0,7
-,Attorney General,,,Representative In Congress 1st District,,8
-,Kathleen G Kane,David J Freed,Marakay J Rogers,John Featherman,Robert A Brady,8
-Kathleen G Kane,230,0,0,0,0,8
-David J Freed,,30,0,0,0,8
-Marakay J Rogers,,,1,0,0,8
-John Featherman,,,,0,0,8
-Robert A Brady,,,,,0,8
-Total,230,30,1,0,0,8
-,Attorney General,,,Representative In Congress 1st District,,9
-,Kathleen G Kane,David J Freed,Marakay J Rogers,John Featherman,Robert A Brady,9
-Kathleen G Kane,261,0,0,0,0,9
-David J Freed,,32,0,0,0,9
-Marakay J Rogers,,,3,0,0,9
-John Featherman,,,,0,0,9
-Robert A Brady,,,,,0,9
-Total,261,32,3,0,0,9
-,Attorney General,,,Representative In Congress 1st District,,10
-,Kathleen G Kane,David J Freed,Marakay J Rogers,John Featherman,Robert A Brady,10
-Kathleen G Kane,206,0,0,0,0,10
-David J Freed,,61,0,0,0,10
-Marakay J Rogers,,,0,0,0,10
-John Featherman,,,,0,0,10
-Robert A Brady,,,,,0,10
-Total,206,61,0,0,0,10
-,Attorney General,,,Representative In Congress 1st District,,11
-,Kathleen G Kane,David J Freed,Marakay J Rogers,John Featherman,Robert A Brady,11
-Kathleen G Kane,177,0,0,0,0,11
-David J Freed,,25,0,0,0,11
-Marakay J Rogers,,,1,0,0,11
-John Featherman,,,,0,0,11
-Robert A Brady,,,,,0,11
-Total,177,25,1,0,0,11
-,Attorney General,,,Representative In Congress 1st District,,12
-,Kathleen G Kane,David J Freed,Marakay J Rogers,John Featherman,Robert A Brady,12
-Kathleen G Kane,239,0,0,0,0,12
-David J Freed,,25,0,0,0,12
-Marakay J Rogers,,,2,0,0,12
-John Featherman,,,,0,0,12
-Robert A Brady,,,,,0,12
-Total,239,25,2,0,0,12
-,Attorney General,,,Representative In Congress 1st District,,13
-,Kathleen G Kane,David J Freed,Marakay J Rogers,John Featherman,Robert A Brady,13
-Kathleen G Kane,239,0,0,0,0,13
-David J Freed,,31,0,0,0,13
-Marakay J Rogers,,,0,0,0,13
-John Featherman,,,,0,0,13
-Robert A Brady,,,,,0,13
-Total,239,31,0,0,0,13
 ,Representative In Congress 1st District,,Attorney General,,,14
 ,Robert A Brady,John Featherman,Kathleen G Kane,David J Freed,Marakay J Rogers,14
 Robert A Brady,3,0,142,2,1,14
@@ -135,22 +39,6 @@ Kathleen G Kane,,,0,0,0,16
 David J Freed,,,,0,0,16
 Marakay J Rogers,,,,,0,16
 Total,205,31,203,29,0,16
-,Attorney General,,,Representative In Congress 1st District,,17
-,Kathleen G Kane,David J Freed,Marakay J Rogers,John Featherman,Robert A Brady,17
-Kathleen G Kane,196,0,0,0,0,17
-David J Freed,,24,0,0,0,17
-Marakay J Rogers,,,1,0,0,17
-John Featherman,,,,0,0,17
-Robert A Brady,,,,,0,17
-Total,196,24,1,0,0,17
-,Attorney General,,,Representative In Congress 1st District,,18
-,Kathleen G Kane,David J Freed,Marakay J Rogers,John Featherman,Robert A Brady,18
-Kathleen G Kane,260,0,0,0,0,18
-David J Freed,,37,0,0,0,18
-Marakay J Rogers,,,4,0,0,18
-John Featherman,,,,0,0,18
-Robert A Brady,,,,,0,18
-Total,260,37,4,0,0,18
 ,Representative In Congress 1st District,,Attorney General,,,19
 ,Robert A Brady,John Featherman,Kathleen G Kane,David J Freed,Marakay J Rogers,19
 Robert A Brady,2,0,167,9,1,19
@@ -175,11 +63,3 @@ Kathleen G Kane,,,3,0,0,21
 David J Freed,,,,1,0,21
 Marakay J Rogers,,,,,0,21
 Total,216,38,205,47,1,21
-,Attorney General,,,Representative In Congress 1st District,,22
-,Kathleen G Kane,David J Freed,Marakay J Rogers,John Featherman,Robert A Brady,22
-Kathleen G Kane,198,0,0,0,0,22
-David J Freed,,37,0,0,0,22
-Marakay J Rogers,,,0,0,0,22
-John Featherman,,,,0,0,22
-Robert A Brady,,,,,0,22
-Total,198,37,0,0,0,22

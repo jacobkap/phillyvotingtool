@@ -1,12 +1,12 @@
 col_1,col_2,col_3,col_4,col_5,col_6,division
-,Attorney General,,,Representative In Congress 13th District,,All
-,Kathleen G Kane,David J Freed,Marakay J Rogers,Allyson Y Schwartz,Joseph James Rooney,All
-Kathleen G Kane,202,0,0,"3,310",315,All
-David J Freed,,83,0,394,"1,741",All
-Marakay J Rogers,,,8,25,19,All
-Allyson Y Schwartz,,,,88,0,All
-Joseph James Rooney,,,,,38,All
-Total,"3,827","2,218",52,"3,817","2,113",All
+,Representative In Congress 13th District,,Attorney General,,,All
+,Allyson Y Schwartz,Joseph James Rooney,Kathleen G Kane,David J Freed,Marakay J Rogers,All
+Allyson Y Schwartz,88,0,"3,310",394,25,All
+Joseph James Rooney,,38,315,"1,741",19,All
+Kathleen G Kane,,,67,0,0,All
+David J Freed,,,,32,0,All
+Marakay J Rogers,,,,,5,All
+Total,"3,817","2,113","3,692","2,167",49,All
 ,Representative In Congress 13th District,,Attorney General,,,1
 ,Allyson Y Schwartz,Joseph James Rooney,Kathleen G Kane,David J Freed,Marakay J Rogers,1
 Allyson Y Schwartz,2,0,226,19,3,1
@@ -95,14 +95,6 @@ Kathleen G Kane,,,3,0,0,11
 David J Freed,,,,2,0,11
 Marakay J Rogers,,,,,0,11
 Total,190,124,185,128,3,11
-,Attorney General,,,Representative In Congress 13th District,,12
-,Kathleen G Kane,David J Freed,Marakay J Rogers,Allyson Y Schwartz,Joseph James Rooney,12
-Kathleen G Kane,135,0,0,0,0,12
-David J Freed,,51,0,0,0,12
-Marakay J Rogers,,,3,0,0,12
-Allyson Y Schwartz,,,,0,0,12
-Joseph James Rooney,,,,,0,12
-Total,135,51,3,0,0,12
 ,Attorney General,,,Representative In Congress 13th District,,13
 ,Kathleen G Kane,David J Freed,Marakay J Rogers,Allyson Y Schwartz,Joseph James Rooney,13
 Kathleen G Kane,5,0,0,168,27,13

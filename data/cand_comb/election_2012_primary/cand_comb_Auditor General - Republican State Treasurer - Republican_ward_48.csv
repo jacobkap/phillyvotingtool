@@ -1,10 +1,10 @@
 col_1,col_2,col_3,col_4,division
-,Auditor General - Republican,,State Treasurer - Republican,All
-,Frank A Pinto,John Maher,Diana Irey Vaughan,All
-Frank A Pinto,30,0,46,All
-John Maher,,8,23,All
-Diana Irey Vaughan,,,6,All
-Total,76,31,75,All
+,State Treasurer - Republican,Auditor General - Republican,,All
+,Diana Irey Vaughan,Frank A Pinto,John Maher,All
+Diana Irey Vaughan,6,46,23,All
+Frank A Pinto,,29,0,All
+John Maher,,,7,All
+Total,75,75,30,All
 ,State Treasurer - Republican,Auditor General - Republican,,1
 ,Diana Irey Vaughan,Frank A Pinto,John Maher,1
 Diana Irey Vaughan,0,2,1,1
@@ -17,12 +17,6 @@ Diana Irey Vaughan,0,1,0,2
 John Maher,,0,0,2
 Frank A Pinto,,,0,2
 Total,1,1,0,2
-,Auditor General - Republican,,State Treasurer - Republican,3
-,John Maher,Frank A Pinto,Diana Irey Vaughan,3
-John Maher,1,0,0,3
-Frank A Pinto,,0,0,3
-Diana Irey Vaughan,,,0,3
-Total,1,0,0,3
 ,State Treasurer - Republican,Auditor General - Republican,,4
 ,Diana Irey Vaughan,Frank A Pinto,John Maher,4
 Diana Irey Vaughan,0,2,0,4
@@ -119,12 +113,6 @@ Frank A Pinto,2,0,3,20
 John Maher,,1,0,20
 Diana Irey Vaughan,,,0,20
 Total,5,1,3,20
-,Auditor General - Republican,,State Treasurer - Republican,21
-,Frank A Pinto,John Maher,Diana Irey Vaughan,21
-Frank A Pinto,1,0,0,21
-John Maher,,0,0,21
-Diana Irey Vaughan,,,0,21
-Total,1,0,0,21
 ,State Treasurer - Republican,Auditor General - Republican,,22
 ,Diana Irey Vaughan,Frank A Pinto,John Maher,22
 Diana Irey Vaughan,1,8,6,22

@@ -1,26 +1,15 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,division
-,Mayor - Democrat,,,,,,District Council 7th District - Democrat,,1
-,Jim Kenney,Nelson Diaz,Lynne M Abraham,Anthony Hardy Williams,Doug Oliver,T Milton Street Sr,Manny Morales,Maria Quinones Sanchez,1
-Jim Kenney,131,0,0,0,0,0,0,0,1
-Nelson Diaz,,27,0,0,0,0,0,0,1
-Lynne M Abraham,,,19,0,0,0,0,0,1
-Anthony Hardy Williams,,,,16,0,0,0,0,1
-Doug Oliver,,,,,11,0,0,0,1
-T Milton Street Sr,,,,,,3,0,0,1
-Manny Morales,,,,,,,0,0,1
-Maria Quinones Sanchez,,,,,,,,0,1
-Total,131,27,19,16,11,3,0,0,1
-,Mayor - Democrat,,,,,,District Council 7th District - Democrat,,2
-,Jim Kenney,Lynne M Abraham,Nelson Diaz,Anthony Hardy Williams,Doug Oliver,T Milton Street Sr,Manny Morales,Maria Quinones Sanchez,2
-Jim Kenney,128,0,0,0,0,0,0,0,2
-Lynne M Abraham,,23,0,0,0,0,0,0,2
-Nelson Diaz,,,7,0,0,0,0,0,2
-Anthony Hardy Williams,,,,6,0,0,0,0,2
-Doug Oliver,,,,,6,0,0,0,2
-T Milton Street Sr,,,,,,0,0,0,2
-Manny Morales,,,,,,,0,0,2
-Maria Quinones Sanchez,,,,,,,,0,2
-Total,128,23,7,6,6,0,0,0,2
+,Mayor - Democrat,,,,,,District Council 7th District - Democrat,,All
+,Jim Kenney,Nelson Diaz,Anthony Hardy Williams,Lynne M Abraham,Doug Oliver,T Milton Street Sr,Maria Quinones Sanchez,Manny Morales,All
+Jim Kenney,64,0,0,0,0,0,126,128,All
+Nelson Diaz,,27,0,0,0,0,95,82,All
+Anthony Hardy Williams,,,14,0,0,0,31,28,All
+Lynne M Abraham,,,,9,0,0,15,13,All
+Doug Oliver,,,,,1,0,11,4,All
+T Milton Street Sr,,,,,,0,7,8,All
+Maria Quinones Sanchez,,,,,,,25,0,All
+Manny Morales,,,,,,,,36,All
+Total,318,204,73,37,16,15,310,299,All
 ,District Council 7th District - Democrat,,Mayor - Democrat,,,,,,3
 ,Maria Quinones Sanchez,Manny Morales,Nelson Diaz,Jim Kenney,Anthony Hardy Williams,Doug Oliver,Lynne M Abraham,T Milton Street Sr,3
 Maria Quinones Sanchez,3,0,25,7,6,2,2,2,3
@@ -32,50 +21,6 @@ Doug Oliver,,,,,,0,0,0,3
 Lynne M Abraham,,,,,,,0,0,3
 T Milton Street Sr,,,,,,,,0,3
 Total,47,19,31,16,11,2,2,2,3
-,Mayor - Democrat,,,,,,District Council 7th District - Democrat,,4
-,Jim Kenney,Lynne M Abraham,Doug Oliver,Anthony Hardy Williams,Nelson Diaz,T Milton Street Sr,Manny Morales,Maria Quinones Sanchez,4
-Jim Kenney,107,0,0,0,0,0,0,0,4
-Lynne M Abraham,,18,0,0,0,0,0,0,4
-Doug Oliver,,,7,0,0,0,0,0,4
-Anthony Hardy Williams,,,,4,0,0,0,0,4
-Nelson Diaz,,,,,3,0,0,0,4
-T Milton Street Sr,,,,,,0,0,0,4
-Manny Morales,,,,,,,0,0,4
-Maria Quinones Sanchez,,,,,,,,0,4
-Total,107,18,7,4,3,0,0,0,4
-,Mayor - Democrat,,,,,,District Council 7th District - Democrat,,5
-,Jim Kenney,Lynne M Abraham,Doug Oliver,Anthony Hardy Williams,Nelson Diaz,T Milton Street Sr,Manny Morales,Maria Quinones Sanchez,5
-Jim Kenney,102,0,0,0,0,0,0,0,5
-Lynne M Abraham,,9,0,0,0,0,0,0,5
-Doug Oliver,,,7,0,0,0,0,0,5
-Anthony Hardy Williams,,,,4,0,0,0,0,5
-Nelson Diaz,,,,,4,0,0,0,5
-T Milton Street Sr,,,,,,0,0,0,5
-Manny Morales,,,,,,,0,0,5
-Maria Quinones Sanchez,,,,,,,,0,5
-Total,102,9,7,4,4,0,0,0,5
-,Mayor - Democrat,,,,,,District Council 7th District - Democrat,,6
-,Jim Kenney,Doug Oliver,Lynne M Abraham,Anthony Hardy Williams,Nelson Diaz,T Milton Street Sr,Manny Morales,Maria Quinones Sanchez,6
-Jim Kenney,76,0,0,0,0,0,0,0,6
-Doug Oliver,,9,0,0,0,0,0,0,6
-Lynne M Abraham,,,8,0,0,0,0,0,6
-Anthony Hardy Williams,,,,4,0,0,0,0,6
-Nelson Diaz,,,,,2,0,0,0,6
-T Milton Street Sr,,,,,,0,0,0,6
-Manny Morales,,,,,,,0,0,6
-Maria Quinones Sanchez,,,,,,,,0,6
-Total,76,9,8,4,2,0,0,0,6
-,Mayor - Democrat,,,,,,District Council 7th District - Democrat,,7
-,Jim Kenney,Lynne M Abraham,Anthony Hardy Williams,Nelson Diaz,Doug Oliver,T Milton Street Sr,Manny Morales,Maria Quinones Sanchez,7
-Jim Kenney,104,0,0,0,0,0,0,0,7
-Lynne M Abraham,,27,0,0,0,0,0,0,7
-Anthony Hardy Williams,,,12,0,0,0,0,0,7
-Nelson Diaz,,,,4,0,0,0,0,7
-Doug Oliver,,,,,2,0,0,0,7
-T Milton Street Sr,,,,,,1,0,0,7
-Manny Morales,,,,,,,0,0,7
-Maria Quinones Sanchez,,,,,,,,0,7
-Total,104,27,12,4,2,1,0,0,7
 ,District Council 7th District - Democrat,,Mayor - Democrat,,,,,,8
 ,Manny Morales,Maria Quinones Sanchez,Nelson Diaz,Jim Kenney,Anthony Hardy Williams,Doug Oliver,Lynne M Abraham,T Milton Street Sr,8
 Manny Morales,9,0,11,12,6,0,1,1,8
@@ -87,50 +32,6 @@ Doug Oliver,,,,,,0,0,0,8
 Lynne M Abraham,,,,,,,0,0,8
 T Milton Street Sr,,,,,,,,0,8
 Total,40,27,35,22,11,1,1,1,8
-,Mayor - Democrat,,,,,,District Council 7th District - Democrat,,9
-,Jim Kenney,Nelson Diaz,Anthony Hardy Williams,Lynne M Abraham,Doug Oliver,T Milton Street Sr,Manny Morales,Maria Quinones Sanchez,9
-Jim Kenney,90,0,0,0,0,0,0,0,9
-Nelson Diaz,,54,0,0,0,0,0,0,9
-Anthony Hardy Williams,,,23,0,0,0,0,0,9
-Lynne M Abraham,,,,6,0,0,0,0,9
-Doug Oliver,,,,,5,0,0,0,9
-T Milton Street Sr,,,,,,5,0,0,9
-Manny Morales,,,,,,,0,0,9
-Maria Quinones Sanchez,,,,,,,,0,9
-Total,90,54,23,6,5,5,0,0,9
-,Mayor - Democrat,,,,,,District Council 7th District - Democrat,,10
-,Jim Kenney,Lynne M Abraham,Anthony Hardy Williams,Nelson Diaz,Doug Oliver,T Milton Street Sr,Manny Morales,Maria Quinones Sanchez,10
-Jim Kenney,131,0,0,0,0,0,0,0,10
-Lynne M Abraham,,19,0,0,0,0,0,0,10
-Anthony Hardy Williams,,,15,0,0,0,0,0,10
-Nelson Diaz,,,,6,0,0,0,0,10
-Doug Oliver,,,,,5,0,0,0,10
-T Milton Street Sr,,,,,,0,0,0,10
-Manny Morales,,,,,,,0,0,10
-Maria Quinones Sanchez,,,,,,,,0,10
-Total,131,19,15,6,5,0,0,0,10
-,Mayor - Democrat,,,,,,District Council 7th District - Democrat,,11
-,Jim Kenney,Lynne M Abraham,Doug Oliver,Anthony Hardy Williams,Nelson Diaz,T Milton Street Sr,Manny Morales,Maria Quinones Sanchez,11
-Jim Kenney,113,0,0,0,0,0,0,0,11
-Lynne M Abraham,,12,0,0,0,0,0,0,11
-Doug Oliver,,,7,0,0,0,0,0,11
-Anthony Hardy Williams,,,,4,0,0,0,0,11
-Nelson Diaz,,,,,4,0,0,0,11
-T Milton Street Sr,,,,,,0,0,0,11
-Manny Morales,,,,,,,0,0,11
-Maria Quinones Sanchez,,,,,,,,0,11
-Total,113,12,7,4,4,0,0,0,11
-,Mayor - Democrat,,,,,,District Council 7th District - Democrat,,12
-,Jim Kenney,Lynne M Abraham,Anthony Hardy Williams,Nelson Diaz,Doug Oliver,T Milton Street Sr,Manny Morales,Maria Quinones Sanchez,12
-Jim Kenney,112,0,0,0,0,0,0,0,12
-Lynne M Abraham,,19,0,0,0,0,0,0,12
-Anthony Hardy Williams,,,9,0,0,0,0,0,12
-Nelson Diaz,,,,5,0,0,0,0,12
-Doug Oliver,,,,,1,0,0,0,12
-T Milton Street Sr,,,,,,0,0,0,12
-Manny Morales,,,,,,,0,0,12
-Maria Quinones Sanchez,,,,,,,,0,12
-Total,112,19,9,5,1,0,0,0,12
 ,District Council 7th District - Democrat,,Mayor - Democrat,,,,,,13
 ,Manny Morales,Maria Quinones Sanchez,Jim Kenney,Nelson Diaz,Lynne M Abraham,Anthony Hardy Williams,Doug Oliver,T Milton Street Sr,13
 Manny Morales,7,0,22,17,6,3,1,1,13
@@ -186,14 +87,3 @@ T Milton Street Sr,,,,,,0,1,1,17
 Maria Quinones Sanchez,,,,,,,11,0,17
 Manny Morales,,,,,,,,6,17
 Total,98,41,13,7,2,2,83,69,17
-,Mayor - Democrat,,,,,,District Council 7th District - Democrat,,All
-,Jim Kenney,Nelson Diaz,Lynne M Abraham,Anthony Hardy Williams,Doug Oliver,T Milton Street Sr,Maria Quinones Sanchez,Manny Morales,All
-Jim Kenney,"1,158",0,0,0,0,0,126,128,All
-Nelson Diaz,,143,0,0,0,0,95,82,All
-Lynne M Abraham,,,169,0,0,0,15,13,All
-Anthony Hardy Williams,,,,111,0,0,31,28,All
-Doug Oliver,,,,,61,0,11,4,All
-T Milton Street Sr,,,,,,9,7,8,All
-Maria Quinones Sanchez,,,,,,,25,0,All
-Manny Morales,,,,,,,,36,All
-Total,"1,412",320,197,170,76,24,310,299,All

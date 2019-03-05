@@ -1,10 +1,10 @@
 col_1,col_2,col_3,col_4,division
-,Representative In Congress 2nd District - Republican,Governor - Republican,,2
-,Armond James,Robert Guzzardi,Tom Corbett,2
-Armond James,1,0,0,2
-Robert Guzzardi,,0,0,2
-Tom Corbett,,,0,2
-Total,1,0,0,2
+,Governor - Republican,,Representative In Congress 2nd District - Republican,All
+,Tom Corbett,Robert Guzzardi,Armond James,All
+Tom Corbett,16,0,57,All
+Robert Guzzardi,,0,3,All
+Armond James,,,5,All
+Total,73,3,65,All
 ,Representative In Congress 2nd District - Republican,Governor - Republican,,8
 ,Armond James,Robert Guzzardi,Tom Corbett,8
 Armond James,0,1,0,8
@@ -155,9 +155,3 @@ Armond James,0,1,0,41
 Tom Corbett,,0,0,41
 Robert Guzzardi,,,0,41
 Total,1,1,0,41
-,Governor - Republican,,Representative In Congress 2nd District - Republican,All
-,Tom Corbett,Robert Guzzardi,Armond James,All
-Tom Corbett,16,0,57,All
-Robert Guzzardi,,0,3,All
-Armond James,,,6,All
-Total,73,3,66,All
