@@ -81,7 +81,10 @@
   <div id="cand_comb_map_div" class="leaflet_map"></div>
 
   <br>
-  <button type="button" onclick="exportToCsv(cand_data, '', 'cand_comb', '#cand_comb_election', cand_comb_offices, '#cand_comb_ballot_position', cand_comb_wards, '#cand_comb_ward', cand_comb_divisions, '#cand_comb_division')">Download Data as CSV</button>
+  <button type="button" onclick="exportToCsv(cand_data, '', 'cand_comb', '#cand_comb_election',
+ cand_comb_offices, '#cand_comb_ballot_position',
+  cand_comb_wards, '#cand_comb_ward', cand_comb_divisions,
+  '#cand_comb_division')">Download Data as CSV</button>
   <br>
 
   <script>
@@ -138,6 +141,7 @@
 
       $("#table_title").css("color", "#1b9e77");
       $("#table_title2").css("color", "#d95f02");
+        current_offices = $("#cand_comb_ballot_position.chosen-select").val();
 
 $("#table").ready($("#loader").hide())
 geojson = L.geoJson(wards_polygon, {

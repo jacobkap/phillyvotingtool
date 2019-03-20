@@ -138,21 +138,35 @@ function candCombElectionChange() {
 }
 
 function candCombOfficeChange() {
-  first_office_val = $("#cand_comb_ballot_position.chosen-select").val()[0];
+  new_office = $("#cand_comb_ballot_position.chosen-select").val();
+    console.log(new_office)
+    new_office = _.filter(new_office, function(num){
+    return (num != current_offices[0]);
+});
+
 
   $('#cand_comb_ward').empty();
   cand_comb_wards = getWards_locations("cand_comb", "#cand_comb_election", "#cand_comb_ballot_position", cand_comb_offices);
+
   $.each(cand_comb_wards, function(val, text) {
     $('#cand_comb_ward').append(new Option(text, val));
   });
   if (cand_comb_wards === undefined) {
-    $("#cand_comb_ballot_position.chosen-select").val(first_office_val).trigger('chosen:updated');
+    $("#cand_comb_ballot_position.chosen-select").val(new_office).trigger('chosen:updated');
+    $('#cand_comb_ward').empty();
+    cand_comb_wards = getWards_locations("cand_comb", "#cand_comb_election", "#cand_comb_ballot_position", cand_comb_offices);
+
+    $.each(cand_comb_wards, function(val, text) {
+      $('#cand_comb_ward').append(new Option(text, val));
+    });
   }
-  candCombChange();
+
+      candCombChange();
 }
 
 function candCombChange() {
-cand_comb_divisions = setDivisionDropdown("cand_comb", "#cand_comb_election", "#cand_comb_ballot_position", cand_comb_offices, "#cand_comb_ward", "#cand_comb_division", cand_comb_wards);
+cand_comb_divisions = setDivisionDropdown("cand_comb", "#cand_comb_election", "#cand_comb_ballot_position", cand_comb_offices, "#cand_comb_ward",
+"#cand_comb_division", cand_comb_wards);
 
   geojson.removeFrom(cand_comb_map);
   geojson = L.geoJson(wards_polygon, {
@@ -176,4 +190,6 @@ cand_comb_divisions = setDivisionDropdown("cand_comb", "#cand_comb_election", "#
 
   $("#table_title").css("color", "#1b9e77");
   $("#table_title2").css("color", "#d95f02");
+
+  current_offices = $("#cand_comb_ballot_position.chosen-select").val();
 }

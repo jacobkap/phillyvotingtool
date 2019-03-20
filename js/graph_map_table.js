@@ -322,7 +322,6 @@ function makeTable(div, data, headers) {
   // headers = _.keys(final_data[0]);
   z = [];
   headers = headers.split(",");
-  console.log(final_data[0]);
   real_headers = final_data[0];
   headers = headers.filter(function(item) {
     return item !== "division";
@@ -404,7 +403,6 @@ function group_header_cols(headers) {
   second_office = false;
   to_remove = [];
   for (var n = 2; n < headers.length; n++) {
-    console.log(n);
     if (headers[n] !== "") {
       second_office = true;
       $("#table > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(" + n + ")").css("color", "#1b9e77");
