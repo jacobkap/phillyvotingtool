@@ -1,0 +1,232 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,division
+,Mayor - Republican,Council At Large - Republican,,,,,,,All
+,Billy Ciancaglini,Matt Wolfe,Al Taubenberger,Bill Heeney,Dan Tinney,David Oh,Irina M Goldstein,Drew Murray,All
+Billy Ciancaglini,1,22,18,19,20,13,6,3,All
+Matt Wolfe,,0,16,13,15,10,4,2,All
+Al Taubenberger,,,0,14,16,8,5,2,All
+Bill Heeney,,,,0,14,9,3,1,All
+Dan Tinney,,,,,0,9,5,1,All
+David Oh,,,,,,1,4,3,All
+Irina M Goldstein,,,,,,,0,2,All
+Drew Murray,,,,,,,,0,All
+Total,32,23,21,20,20,17,6,5,All
+,Mayor - Republican,Council At Large - Republican,,,,,,,1
+,Billy Ciancaglini,Matt Wolfe,Al Taubenberger,Dan Tinney,David Oh,Irina M Goldstein,Bill Heeney,Drew Murray,1
+Billy Ciancaglini,1,2,1,1,1,1,0,0,1
+Matt Wolfe,,0,1,1,1,1,0,0,1
+Al Taubenberger,,,0,1,1,1,0,0,1
+Dan Tinney,,,,0,1,1,0,0,1
+David Oh,,,,,0,1,0,0,1
+Irina M Goldstein,,,,,,0,0,0,1
+Bill Heeney,,,,,,,0,0,1
+Drew Murray,,,,,,,,0,1
+Total,3,2,1,1,1,1,0,0,1
+,Mayor - Republican,Council At Large - Republican,,,,,,,2
+,Billy Ciancaglini,Bill Heeney,David Oh,Matt Wolfe,Al Taubenberger,Dan Tinney,Drew Murray,Irina M Goldstein,2
+Billy Ciancaglini,0,3,2,2,0,0,0,0,2
+Bill Heeney,,0,2,1,0,0,0,0,2
+David Oh,,,0,1,0,0,0,0,2
+Matt Wolfe,,,,0,0,0,0,0,2
+Al Taubenberger,,,,,0,0,0,0,2
+Dan Tinney,,,,,,0,0,0,2
+Drew Murray,,,,,,,0,0,2
+Irina M Goldstein,,,,,,,,0,2
+Total,4,3,2,2,0,0,0,0,2
+,Council At Large - Republican,,,,,,,Mayor - Republican,3
+,Al Taubenberger,Bill Heeney,Dan Tinney,Matt Wolfe,David Oh,Drew Murray,Irina M Goldstein,Billy Ciancaglini,3
+Al Taubenberger,0,1,1,1,0,0,0,1,3
+Bill Heeney,,0,1,1,0,0,0,1,3
+Dan Tinney,,,0,1,0,0,0,1,3
+Matt Wolfe,,,,0,0,0,0,1,3
+David Oh,,,,,0,0,0,0,3
+Drew Murray,,,,,,0,0,0,3
+Irina M Goldstein,,,,,,,0,0,3
+Billy Ciancaglini,,,,,,,,0,3
+Total,1,1,1,1,0,0,0,1,3
+,Mayor - Republican,Council At Large - Republican,,,,,,,4
+,Billy Ciancaglini,Drew Murray,Al Taubenberger,Bill Heeney,Dan Tinney,David Oh,Irina M Goldstein,Matt Wolfe,4
+Billy Ciancaglini,0,1,0,0,0,0,0,0,4
+Drew Murray,,0,0,0,0,0,0,0,4
+Al Taubenberger,,,0,0,0,0,0,0,4
+Bill Heeney,,,,0,0,0,0,0,4
+Dan Tinney,,,,,0,0,0,0,4
+David Oh,,,,,,0,0,0,4
+Irina M Goldstein,,,,,,,0,0,4
+Matt Wolfe,,,,,,,,0,4
+Total,1,1,0,0,0,0,0,0,4
+,Council At Large - Republican,,,,,,,Mayor - Republican,7
+,Bill Heeney,Dan Tinney,David Oh,Matt Wolfe,Al Taubenberger,Drew Murray,Irina M Goldstein,Billy Ciancaglini,7
+Bill Heeney,0,1,1,1,0,0,0,1,7
+Dan Tinney,,0,1,1,0,0,0,1,7
+David Oh,,,0,1,0,0,0,1,7
+Matt Wolfe,,,,0,0,0,0,1,7
+Al Taubenberger,,,,,0,0,0,0,7
+Drew Murray,,,,,,0,0,0,7
+Irina M Goldstein,,,,,,,0,0,7
+Billy Ciancaglini,,,,,,,,0,7
+Total,1,1,1,1,0,0,0,1,7
+,Council At Large - Republican,,,,,,,Mayor - Republican,9
+,Al Taubenberger,Dan Tinney,David Oh,Irina M Goldstein,Matt Wolfe,Bill Heeney,Drew Murray,Billy Ciancaglini,9
+Al Taubenberger,0,1,1,1,1,0,0,1,9
+Dan Tinney,,0,1,1,1,0,0,1,9
+David Oh,,,0,1,1,0,0,1,9
+Irina M Goldstein,,,,0,1,0,0,1,9
+Matt Wolfe,,,,,0,0,0,1,9
+Bill Heeney,,,,,,0,0,0,9
+Drew Murray,,,,,,,0,0,9
+Billy Ciancaglini,,,,,,,,0,9
+Total,1,1,1,1,1,0,0,1,9
+,Council At Large - Republican,,,,,,,Mayor - Republican,10
+,Matt Wolfe,Al Taubenberger,David Oh,Bill Heeney,Dan Tinney,Drew Murray,Irina M Goldstein,Billy Ciancaglini,10
+Matt Wolfe,0,3,3,2,1,1,0,3,10
+Al Taubenberger,,0,2,2,1,1,0,2,10
+David Oh,,,0,1,1,1,0,2,10
+Bill Heeney,,,,0,1,0,0,2,10
+Dan Tinney,,,,,0,0,0,1,10
+Drew Murray,,,,,,0,0,0,10
+Irina M Goldstein,,,,,,,0,0,10
+Billy Ciancaglini,,,,,,,,0,10
+Total,4,3,3,2,1,1,0,3,10
+,Mayor - Republican,Council At Large - Republican,,,,,,,11
+,Billy Ciancaglini,Dan Tinney,Al Taubenberger,Bill Heeney,David Oh,Matt Wolfe,Drew Murray,Irina M Goldstein,11
+Billy Ciancaglini,0,2,1,1,1,1,0,0,11
+Dan Tinney,,0,1,1,1,1,0,0,11
+Al Taubenberger,,,0,1,0,1,0,0,11
+Bill Heeney,,,,0,0,1,0,0,11
+David Oh,,,,,0,0,0,0,11
+Matt Wolfe,,,,,,0,0,0,11
+Drew Murray,,,,,,,0,0,11
+Irina M Goldstein,,,,,,,,0,11
+Total,2,2,1,1,1,1,0,0,11
+,Council At Large - Republican,,,,,,,Mayor - Republican,12
+,Al Taubenberger,Bill Heeney,Dan Tinney,Matt Wolfe,David Oh,Irina M Goldstein,Drew Murray,Billy Ciancaglini,12
+Al Taubenberger,0,2,2,2,1,1,0,2,12
+Bill Heeney,,0,2,2,1,1,0,2,12
+Dan Tinney,,,0,2,1,1,0,2,12
+Matt Wolfe,,,,0,1,1,0,2,12
+David Oh,,,,,0,0,0,1,12
+Irina M Goldstein,,,,,,0,0,1,12
+Drew Murray,,,,,,,0,0,12
+Billy Ciancaglini,,,,,,,,0,12
+Total,2,2,2,2,1,1,0,2,12
+,Council At Large - Republican,,,,,,,Mayor - Republican,13
+,Al Taubenberger,Bill Heeney,Dan Tinney,David Oh,Drew Murray,Irina M Goldstein,Matt Wolfe,Billy Ciancaglini,13
+Al Taubenberger,0,1,1,0,0,0,0,1,13
+Bill Heeney,,0,1,0,0,0,0,1,13
+Dan Tinney,,,0,0,0,0,0,1,13
+David Oh,,,,0,0,0,0,0,13
+Drew Murray,,,,,0,0,0,0,13
+Irina M Goldstein,,,,,,0,0,0,13
+Matt Wolfe,,,,,,,0,0,13
+Billy Ciancaglini,,,,,,,,0,13
+Total,1,1,1,0,0,0,0,1,13
+,Council At Large - Republican,,,,,,,Mayor - Republican,15
+,Al Taubenberger,Bill Heeney,Dan Tinney,David Oh,Irina M Goldstein,Drew Murray,Matt Wolfe,Billy Ciancaglini,15
+Al Taubenberger,0,2,2,1,1,0,0,2,15
+Bill Heeney,,0,2,1,1,0,0,2,15
+Dan Tinney,,,0,1,1,0,0,2,15
+David Oh,,,,0,1,0,0,1,15
+Irina M Goldstein,,,,,0,0,0,1,15
+Drew Murray,,,,,,0,0,0,15
+Matt Wolfe,,,,,,,0,0,15
+Billy Ciancaglini,,,,,,,,0,15
+Total,2,2,2,1,1,0,0,2,15
+,Council At Large - Republican,,,,,,,Mayor - Republican,16
+,Al Taubenberger,Bill Heeney,Dan Tinney,Matt Wolfe,David Oh,Drew Murray,Irina M Goldstein,Billy Ciancaglini,16
+Al Taubenberger,0,1,1,1,0,0,0,1,16
+Bill Heeney,,0,1,1,0,0,0,1,16
+Dan Tinney,,,0,1,0,0,0,1,16
+Matt Wolfe,,,,0,0,0,0,1,16
+David Oh,,,,,0,0,0,0,16
+Drew Murray,,,,,,0,0,0,16
+Irina M Goldstein,,,,,,,0,0,16
+Billy Ciancaglini,,,,,,,,0,16
+Total,1,1,1,1,0,0,0,1,16
+,Council At Large - Republican,,,,,,,Mayor - Republican,19
+,Al Taubenberger,Bill Heeney,Dan Tinney,Matt Wolfe,David Oh,Drew Murray,Irina M Goldstein,Billy Ciancaglini,19
+Al Taubenberger,0,1,1,1,0,0,0,1,19
+Bill Heeney,,0,1,1,0,0,0,1,19
+Dan Tinney,,,0,1,0,0,0,1,19
+Matt Wolfe,,,,0,0,0,0,1,19
+David Oh,,,,,0,0,0,0,19
+Drew Murray,,,,,,0,0,0,19
+Irina M Goldstein,,,,,,,0,0,19
+Billy Ciancaglini,,,,,,,,0,19
+Total,1,1,1,1,0,0,0,1,19
+,Council At Large - Republican,,,,,,,Mayor - Republican,20
+,David Oh,Al Taubenberger,Dan Tinney,Drew Murray,Matt Wolfe,Bill Heeney,Irina M Goldstein,Billy Ciancaglini,20
+David Oh,1,1,0,1,0,0,0,0,20
+Al Taubenberger,,0,1,0,1,0,0,1,20
+Dan Tinney,,,0,0,1,0,0,1,20
+Drew Murray,,,,0,0,0,0,0,20
+Matt Wolfe,,,,,0,0,0,1,20
+Bill Heeney,,,,,,0,0,0,20
+Irina M Goldstein,,,,,,,0,0,20
+Billy Ciancaglini,,,,,,,,0,20
+Total,3,2,1,1,1,0,0,1,20
+,Mayor - Republican,Council At Large - Republican,,,,,,,21
+,Billy Ciancaglini,Matt Wolfe,Al Taubenberger,Bill Heeney,Dan Tinney,David Oh,Drew Murray,Irina M Goldstein,21
+Billy Ciancaglini,0,1,0,0,0,0,0,0,21
+Matt Wolfe,,0,0,0,0,0,0,0,21
+Al Taubenberger,,,0,0,0,0,0,0,21
+Bill Heeney,,,,0,0,0,0,0,21
+Dan Tinney,,,,,0,0,0,0,21
+David Oh,,,,,,0,0,0,21
+Drew Murray,,,,,,,0,0,21
+Irina M Goldstein,,,,,,,,0,21
+Total,1,1,0,0,0,0,0,0,21
+,Mayor - Republican,Council At Large - Republican,,,,,,,22
+,Billy Ciancaglini,Matt Wolfe,Al Taubenberger,Dan Tinney,Bill Heeney,David Oh,Drew Murray,Irina M Goldstein,22
+Billy Ciancaglini,0,3,2,2,1,1,1,1,22
+Matt Wolfe,,0,2,2,1,1,1,1,22
+Al Taubenberger,,,0,1,0,0,1,1,22
+Dan Tinney,,,,0,1,1,1,1,22
+Bill Heeney,,,,,0,1,0,0,22
+David Oh,,,,,,0,0,0,22
+Drew Murray,,,,,,,0,1,22
+Irina M Goldstein,,,,,,,,0,22
+Total,3,3,2,2,1,1,1,1,22
+,Council At Large - Republican,,,,,,,Mayor - Republican,24
+,Al Taubenberger,Bill Heeney,Dan Tinney,Matt Wolfe,David Oh,Drew Murray,Irina M Goldstein,Billy Ciancaglini,24
+Al Taubenberger,0,1,1,1,0,0,0,1,24
+Bill Heeney,,0,1,1,0,0,0,1,24
+Dan Tinney,,,0,1,0,0,0,1,24
+Matt Wolfe,,,,0,0,0,0,1,24
+David Oh,,,,,0,0,0,0,24
+Drew Murray,,,,,,0,0,0,24
+Irina M Goldstein,,,,,,,0,0,24
+Billy Ciancaglini,,,,,,,,0,24
+Total,1,1,1,1,0,0,0,1,24
+,Council At Large - Republican,,,,,,,Mayor - Republican,25
+,Al Taubenberger,Bill Heeney,Dan Tinney,David Oh,Matt Wolfe,Drew Murray,Irina M Goldstein,Billy Ciancaglini,25
+Al Taubenberger,0,2,1,1,1,0,0,1,25
+Bill Heeney,,0,1,1,1,0,0,1,25
+Dan Tinney,,,0,1,1,0,0,1,25
+David Oh,,,,0,1,0,0,1,25
+Matt Wolfe,,,,,0,0,0,1,25
+Drew Murray,,,,,,0,0,0,25
+Irina M Goldstein,,,,,,,0,0,25
+Billy Ciancaglini,,,,,,,,0,25
+Total,2,2,1,1,1,0,0,1,25
+,Mayor - Republican,Council At Large - Republican,,,,,,,26
+,Billy Ciancaglini,Dan Tinney,Al Taubenberger,Bill Heeney,David Oh,Drew Murray,Irina M Goldstein,Matt Wolfe,26
+Billy Ciancaglini,0,1,0,0,0,0,0,0,26
+Dan Tinney,,0,0,0,0,0,0,0,26
+Al Taubenberger,,,0,0,0,0,0,0,26
+Bill Heeney,,,,0,0,0,0,0,26
+David Oh,,,,,0,0,0,0,26
+Drew Murray,,,,,,0,0,0,26
+Irina M Goldstein,,,,,,,0,0,26
+Matt Wolfe,,,,,,,,0,26
+Total,1,1,0,0,0,0,0,0,26
+,Council At Large - Republican,,,,,,,Mayor - Republican,27
+,Bill Heeney,David Oh,Drew Murray,Irina M Goldstein,Al Taubenberger,Dan Tinney,Matt Wolfe,Billy Ciancaglini,27
+Bill Heeney,0,1,1,1,0,0,0,1,27
+David Oh,,0,1,1,0,0,0,1,27
+Drew Murray,,,0,1,0,0,0,1,27
+Irina M Goldstein,,,,0,0,0,0,1,27
+Al Taubenberger,,,,,0,0,0,0,27
+Dan Tinney,,,,,,0,0,0,27
+Matt Wolfe,,,,,,,0,0,27
+Billy Ciancaglini,,,,,,,,0,27
+Total,1,1,1,1,0,0,0,1,27

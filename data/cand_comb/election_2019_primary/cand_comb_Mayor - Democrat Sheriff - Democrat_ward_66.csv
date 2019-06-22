@@ -1,0 +1,471 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,division
+,Mayor - Democrat,,,Sheriff - Democrat,,,,All
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Rochelle Bilal,Jewell Williams,Malika Rahman,Larry King Sr,All
+Jim Kenney,300,0,0,407,386,223,129,All
+Alan Butkovitz,,236,0,224,189,128,193,All
+Anthony Hardy Williams,,,130,144,132,115,95,All
+Rochelle Bilal,,,,15,0,0,0,All
+Jewell Williams,,,,,58,0,0,All
+Malika Rahman,,,,,,5,0,All
+Larry King Sr,,,,,,,12,All
+Total,"1,445",970,616,790,765,471,429,All
+,Mayor - Democrat,,,Sheriff - Democrat,,,,1
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Jewell Williams,Larry King Sr,Rochelle Bilal,Malika Rahman,1
+Jim Kenney,3,0,0,11,1,5,5,1
+Alan Butkovitz,,3,0,1,4,6,5,1
+Anthony Hardy Williams,,,2,3,9,3,0,1
+Jewell Williams,,,,1,0,0,0,1
+Larry King Sr,,,,,0,0,0,1
+Rochelle Bilal,,,,,,0,0,1
+Malika Rahman,,,,,,,0,1
+Total,25,19,17,16,14,14,10,1
+,Mayor - Democrat,,,Sheriff - Democrat,,,,2
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Rochelle Bilal,Jewell Williams,Larry King Sr,Malika Rahman,2
+Jim Kenney,9,0,0,12,3,2,1,2
+Alan Butkovitz,,2,0,4,1,3,1,2
+Anthony Hardy Williams,,,3,3,2,2,0,2
+Rochelle Bilal,,,,0,0,0,0,2
+Jewell Williams,,,,,1,0,0,2
+Larry King Sr,,,,,,0,0,2
+Malika Rahman,,,,,,,0,2
+Total,27,11,10,19,7,7,2,2
+,Sheriff - Democrat,,,,Mayor - Democrat,,,3
+,Jewell Williams,Rochelle Bilal,Larry King Sr,Malika Rahman,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,3
+Jewell Williams,6,0,0,0,5,5,3,3
+Rochelle Bilal,,0,0,0,6,4,1,3
+Larry King Sr,,,0,0,1,2,2,3
+Malika Rahman,,,,0,1,2,1,3
+Jim Kenney,,,,,6,0,0,3
+Alan Butkovitz,,,,,,3,0,3
+Anthony Hardy Williams,,,,,,,0,3
+Total,19,11,5,4,19,16,7,3
+,Mayor - Democrat,,,Sheriff - Democrat,,,,4
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Jewell Williams,Rochelle Bilal,Larry King Sr,Malika Rahman,4
+Jim Kenney,3,0,0,4,7,3,4,4
+Alan Butkovitz,,2,0,4,1,4,2,4
+Anthony Hardy Williams,,,1,3,1,1,2,4
+Jewell Williams,,,,3,0,0,0,4
+Rochelle Bilal,,,,,0,0,0,4
+Larry King Sr,,,,,,0,0,4
+Malika Rahman,,,,,,,0,4
+Total,21,13,8,14,9,8,8,4
+,Mayor - Democrat,,,Sheriff - Democrat,,,,5
+,Alan Butkovitz,Jim Kenney,Anthony Hardy Williams,Jewell Williams,Malika Rahman,Rochelle Bilal,Larry King Sr,5
+Alan Butkovitz,2,0,0,10,8,1,1,5
+Jim Kenney,,5,0,3,4,8,0,5
+Anthony Hardy Williams,,,2,3,0,2,2,5
+Jewell Williams,,,,1,0,0,0,5
+Malika Rahman,,,,,0,0,0,5
+Rochelle Bilal,,,,,,1,0,5
+Larry King Sr,,,,,,,0,5
+Total,22,20,9,17,12,12,3,5
+,Sheriff - Democrat,,,,Mayor - Democrat,,,6
+,Jewell Williams,Rochelle Bilal,Larry King Sr,Malika Rahman,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,6
+Jewell Williams,7,0,0,0,15,8,6,6
+Rochelle Bilal,,0,0,0,8,2,2,6
+Larry King Sr,,,1,0,0,7,3,6
+Malika Rahman,,,,1,5,2,3,6
+Jim Kenney,,,,,8,0,0,6
+Alan Butkovitz,,,,,,7,0,6
+Anthony Hardy Williams,,,,,,,3,6
+Total,36,12,11,11,36,26,17,6
+,Mayor - Democrat,,,Sheriff - Democrat,,,,7
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Rochelle Bilal,Jewell Williams,Larry King Sr,Malika Rahman,7
+Jim Kenney,6,0,0,8,3,1,2,7
+Alan Butkovitz,,3,0,8,1,4,0,7
+Anthony Hardy Williams,,,4,1,0,0,0,7
+Rochelle Bilal,,,,1,0,0,0,7
+Jewell Williams,,,,,1,0,0,7
+Larry King Sr,,,,,,0,0,7
+Malika Rahman,,,,,,,0,7
+Total,20,16,5,18,5,5,2,7
+,Mayor - Democrat,,,Sheriff - Democrat,,,,8
+,Jim Kenney,Anthony Hardy Williams,Alan Butkovitz,Jewell Williams,Malika Rahman,Rochelle Bilal,Larry King Sr,8
+Jim Kenney,9,0,0,12,10,8,6,8
+Anthony Hardy Williams,,6,0,6,7,6,3,8
+Alan Butkovitz,,,6,3,3,5,2,8
+Jewell Williams,,,,4,0,0,0,8
+Malika Rahman,,,,,1,0,0,8
+Rochelle Bilal,,,,,,1,0,8
+Larry King Sr,,,,,,,2,8
+Total,45,28,19,25,21,20,13,8
+,Mayor - Democrat,,,Sheriff - Democrat,,,,9
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Jewell Williams,Rochelle Bilal,Larry King Sr,Malika Rahman,9
+Jim Kenney,8,0,0,10,7,3,6,9
+Alan Butkovitz,,9,0,3,1,5,2,9
+Anthony Hardy Williams,,,2,1,2,2,0,9
+Jewell Williams,,,,6,0,0,0,9
+Rochelle Bilal,,,,,1,0,0,9
+Larry King Sr,,,,,,0,0,9
+Malika Rahman,,,,,,,0,9
+Total,34,20,7,20,11,10,8,9
+,Mayor - Democrat,,,Sheriff - Democrat,,,,10
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Jewell Williams,Rochelle Bilal,Malika Rahman,Larry King Sr,10
+Jim Kenney,6,0,0,14,10,14,3,10
+Alan Butkovitz,,4,0,7,9,2,2,10
+Anthony Hardy Williams,,,0,4,7,2,5,10
+Jewell Williams,,,,2,0,0,0,10
+Rochelle Bilal,,,,,0,0,0,10
+Malika Rahman,,,,,,1,0,10
+Larry King Sr,,,,,,,0,10
+Total,47,24,18,27,26,19,10,10
+,Mayor - Democrat,,,Sheriff - Democrat,,,,11
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Jewell Williams,Rochelle Bilal,Malika Rahman,Larry King Sr,11
+Jim Kenney,8,0,0,7,5,4,1,11
+Alan Butkovitz,,11,0,5,3,2,2,11
+Anthony Hardy Williams,,,2,2,3,3,3,11
+Jewell Williams,,,,1,0,0,0,11
+Rochelle Bilal,,,,,1,0,0,11
+Malika Rahman,,,,,,0,0,11
+Larry King Sr,,,,,,,0,11
+Total,25,23,13,15,12,9,6,11
+,Mayor - Democrat,,,Sheriff - Democrat,,,,12
+,Jim Kenney,Anthony Hardy Williams,Alan Butkovitz,Jewell Williams,Malika Rahman,Rochelle Bilal,Larry King Sr,12
+Jim Kenney,10,0,0,11,6,5,3,12
+Anthony Hardy Williams,,0,0,4,4,5,2,12
+Alan Butkovitz,,,1,2,5,1,2,12
+Jewell Williams,,,,0,0,0,0,12
+Malika Rahman,,,,,0,0,0,12
+Rochelle Bilal,,,,,,0,0,12
+Larry King Sr,,,,,,,0,12
+Total,35,15,11,17,15,11,7,12
+,Mayor - Democrat,,,Sheriff - Democrat,,,,13
+,Alan Butkovitz,Jim Kenney,Anthony Hardy Williams,Jewell Williams,Larry King Sr,Rochelle Bilal,Malika Rahman,13
+Alan Butkovitz,4,0,0,9,8,4,3,13
+Jim Kenney,,2,0,4,2,9,1,13
+Anthony Hardy Williams,,,2,2,4,0,1,13
+Jewell Williams,,,,0,0,0,0,13
+Larry King Sr,,,,,1,0,0,13
+Rochelle Bilal,,,,,,2,0,13
+Malika Rahman,,,,,,,0,13
+Total,28,18,9,15,15,15,5,13
+,Mayor - Democrat,,,Sheriff - Democrat,,,,14
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Jewell Williams,Rochelle Bilal,Larry King Sr,Malika Rahman,14
+Jim Kenney,5,0,0,11,7,5,0,14
+Alan Butkovitz,,6,0,5,6,6,4,14
+Anthony Hardy Williams,,,1,6,4,0,4,14
+Jewell Williams,,,,2,0,0,0,14
+Rochelle Bilal,,,,,1,0,0,14
+Larry King Sr,,,,,,0,0,14
+Malika Rahman,,,,,,,1,14
+Total,28,27,15,24,18,11,9,14
+,Mayor - Democrat,,,Sheriff - Democrat,,,,15
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Jewell Williams,Malika Rahman,Rochelle Bilal,Larry King Sr,15
+Jim Kenney,8,0,0,14,11,9,1,15
+Alan Butkovitz,,3,0,4,4,2,5,15
+Anthony Hardy Williams,,,2,4,4,6,0,15
+Jewell Williams,,,,2,0,0,0,15
+Malika Rahman,,,,,0,0,0,15
+Rochelle Bilal,,,,,,0,0,15
+Larry King Sr,,,,,,,0,15
+Total,43,18,16,24,19,17,6,15
+,Mayor - Democrat,,,Sheriff - Democrat,,,,16
+,Alan Butkovitz,Jim Kenney,Anthony Hardy Williams,Rochelle Bilal,Jewell Williams,Malika Rahman,Larry King Sr,16
+Alan Butkovitz,2,0,0,7,7,4,4,16
+Jim Kenney,,5,0,8,1,3,0,16
+Anthony Hardy Williams,,,3,2,3,0,0,16
+Rochelle Bilal,,,,0,0,0,0,16
+Jewell Williams,,,,,1,0,0,16
+Malika Rahman,,,,,,0,0,16
+Larry King Sr,,,,,,,0,16
+Total,24,17,8,17,12,7,4,16
+,Mayor - Democrat,,,Sheriff - Democrat,,,,17
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Rochelle Bilal,Jewell Williams,Malika Rahman,Larry King Sr,17
+Jim Kenney,5,0,0,7,5,4,1,17
+Alan Butkovitz,,2,0,3,2,0,3,17
+Anthony Hardy Williams,,,1,0,1,2,0,17
+Rochelle Bilal,,,,1,0,0,0,17
+Jewell Williams,,,,,0,0,0,17
+Malika Rahman,,,,,,0,0,17
+Larry King Sr,,,,,,,0,17
+Total,22,10,4,11,8,6,4,17
+,Mayor - Democrat,,,Sheriff - Democrat,,,,18
+,Alan Butkovitz,Jim Kenney,Anthony Hardy Williams,Rochelle Bilal,Malika Rahman,Larry King Sr,Jewell Williams,18
+Alan Butkovitz,7,0,0,6,5,5,1,18
+Jim Kenney,,2,0,13,2,1,1,18
+Anthony Hardy Williams,,,1,3,3,3,1,18
+Rochelle Bilal,,,,0,0,0,0,18
+Malika Rahman,,,,,0,0,0,18
+Larry King Sr,,,,,,0,0,18
+Jewell Williams,,,,,,,1,18
+Total,24,19,11,22,10,9,4,18
+,Mayor - Democrat,,,Sheriff - Democrat,,,,19
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Rochelle Bilal,Jewell Williams,Malika Rahman,Larry King Sr,19
+Jim Kenney,2,0,0,8,6,5,2,19
+Alan Butkovitz,,11,0,3,1,1,2,19
+Anthony Hardy Williams,,,6,2,3,3,0,19
+Rochelle Bilal,,,,0,0,0,0,19
+Jewell Williams,,,,,0,0,0,19
+Malika Rahman,,,,,,0,0,19
+Larry King Sr,,,,,,,0,19
+Total,23,18,14,13,10,9,4,19
+,Mayor - Democrat,,,Sheriff - Democrat,,,,20
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Jewell Williams,Rochelle Bilal,Malika Rahman,Larry King Sr,20
+Jim Kenney,13,0,0,10,11,8,3,20
+Alan Butkovitz,,5,0,3,4,3,1,20
+Anthony Hardy Williams,,,1,4,2,1,1,20
+Jewell Williams,,,,1,0,0,0,20
+Rochelle Bilal,,,,,1,0,0,20
+Malika Rahman,,,,,,0,0,20
+Larry King Sr,,,,,,,0,20
+Total,45,16,9,18,18,12,5,20
+,Mayor - Democrat,,,Sheriff - Democrat,,,,21
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Rochelle Bilal,Jewell Williams,Malika Rahman,Larry King Sr,21
+Jim Kenney,10,0,0,18,14,4,1,21
+Alan Butkovitz,,12,0,9,8,4,5,21
+Anthony Hardy Williams,,,3,9,6,8,1,21
+Rochelle Bilal,,,,0,0,0,0,21
+Jewell Williams,,,,,1,0,0,21
+Malika Rahman,,,,,,0,0,21
+Larry King Sr,,,,,,,1,21
+Total,47,38,27,36,29,16,8,21
+,Mayor - Democrat,,,Sheriff - Democrat,,,,22
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Rochelle Bilal,Malika Rahman,Jewell Williams,Larry King Sr,22
+Jim Kenney,10,0,0,16,8,8,1,22
+Alan Butkovitz,,10,0,6,6,3,7,22
+Anthony Hardy Williams,,,4,3,5,1,3,22
+Rochelle Bilal,,,,0,0,0,0,22
+Malika Rahman,,,,,0,0,0,22
+Jewell Williams,,,,,,1,0,22
+Larry King Sr,,,,,,,0,22
+Total,43,32,16,25,19,13,11,22
+,Mayor - Democrat,,,Sheriff - Democrat,,,,23
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Rochelle Bilal,Jewell Williams,Larry King Sr,Malika Rahman,23
+Jim Kenney,6,0,0,12,7,3,5,23
+Alan Butkovitz,,2,0,2,3,3,0,23
+Anthony Hardy Williams,,,0,2,2,2,2,23
+Rochelle Bilal,,,,0,0,0,0,23
+Jewell Williams,,,,,3,0,0,23
+Larry King Sr,,,,,,0,0,23
+Malika Rahman,,,,,,,0,23
+Total,33,10,8,16,15,8,7,23
+,Mayor - Democrat,,,Sheriff - Democrat,,,,24
+,Alan Butkovitz,Jim Kenney,Anthony Hardy Williams,Larry King Sr,Jewell Williams,Rochelle Bilal,Malika Rahman,24
+Alan Butkovitz,6,0,0,8,4,4,3,24
+Jim Kenney,,5,0,4,8,3,4,24
+Anthony Hardy Williams,,,6,6,1,4,3,24
+Larry King Sr,,,,1,0,0,0,24
+Jewell Williams,,,,,1,0,0,24
+Rochelle Bilal,,,,,,0,0,24
+Malika Rahman,,,,,,,0,24
+Total,25,24,20,19,14,11,10,24
+,Mayor - Democrat,,,Sheriff - Democrat,,,,25
+,Jim Kenney,Anthony Hardy Williams,Alan Butkovitz,Jewell Williams,Rochelle Bilal,Larry King Sr,Malika Rahman,25
+Jim Kenney,10,0,0,15,7,4,2,25
+Anthony Hardy Williams,,2,0,1,4,4,4,25
+Alan Butkovitz,,,6,4,1,3,0,25
+Jewell Williams,,,,0,0,0,0,25
+Rochelle Bilal,,,,,0,0,0,25
+Larry King Sr,,,,,,0,0,25
+Malika Rahman,,,,,,,1,25
+Total,38,15,14,20,12,11,7,25
+,Mayor - Democrat,,,Sheriff - Democrat,,,,26
+,Alan Butkovitz,Jim Kenney,Anthony Hardy Williams,Jewell Williams,Rochelle Bilal,Malika Rahman,Larry King Sr,26
+Alan Butkovitz,4,0,0,9,11,5,4,26
+Jim Kenney,,10,0,10,2,4,2,26
+Anthony Hardy Williams,,,7,1,5,7,2,26
+Jewell Williams,,,,1,0,0,0,26
+Rochelle Bilal,,,,,0,0,0,26
+Malika Rahman,,,,,,0,0,26
+Larry King Sr,,,,,,,1,26
+Total,33,28,22,21,18,16,9,26
+,Mayor - Democrat,,,Sheriff - Democrat,,,,27
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Rochelle Bilal,Jewell Williams,Larry King Sr,Malika Rahman,27
+Jim Kenney,8,0,0,6,4,2,2,27
+Alan Butkovitz,,5,0,2,1,2,0,27
+Anthony Hardy Williams,,,3,3,1,1,0,27
+Rochelle Bilal,,,,0,0,0,0,27
+Jewell Williams,,,,,0,0,0,27
+Larry King Sr,,,,,,1,0,27
+Malika Rahman,,,,,,,0,27
+Total,22,10,8,11,6,6,2,27
+,Mayor - Democrat,,,Sheriff - Democrat,,,,28
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Jewell Williams,Rochelle Bilal,Larry King Sr,Malika Rahman,28
+Jim Kenney,6,0,0,20,9,4,5,28
+Alan Butkovitz,,2,0,6,7,5,3,28
+Anthony Hardy Williams,,,4,3,5,1,2,28
+Jewell Williams,,,,0,0,0,0,28
+Rochelle Bilal,,,,,2,0,0,28
+Larry King Sr,,,,,,0,0,28
+Malika Rahman,,,,,,,0,28
+Total,44,23,15,29,23,10,10,28
+,Mayor - Democrat,,,Sheriff - Democrat,,,,29
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Rochelle Bilal,Jewell Williams,Larry King Sr,Malika Rahman,29
+Jim Kenney,11,0,0,12,10,7,7,29
+Alan Butkovitz,,9,0,11,6,7,2,29
+Anthony Hardy Williams,,,5,2,3,1,2,29
+Rochelle Bilal,,,,0,0,0,0,29
+Jewell Williams,,,,,1,0,0,29
+Larry King Sr,,,,,,0,0,29
+Malika Rahman,,,,,,,0,29
+Total,47,35,13,25,20,15,11,29
+,Mayor - Democrat,,,Sheriff - Democrat,,,,30
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Rochelle Bilal,Jewell Williams,Larry King Sr,Malika Rahman,30
+Jim Kenney,4,0,0,9,4,4,3,30
+Alan Butkovitz,,5,0,3,7,3,1,30
+Anthony Hardy Williams,,,2,7,4,1,1,30
+Rochelle Bilal,,,,0,0,0,0,30
+Jewell Williams,,,,,0,0,0,30
+Larry King Sr,,,,,,0,0,30
+Malika Rahman,,,,,,,0,30
+Total,24,19,15,19,15,8,5,30
+,Mayor - Democrat,,,Sheriff - Democrat,,,,31
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Jewell Williams,Larry King Sr,Rochelle Bilal,Malika Rahman,31
+Jim Kenney,4,0,0,11,4,5,4,31
+Alan Butkovitz,,3,0,8,3,5,2,31
+Anthony Hardy Williams,,,3,2,4,3,1,31
+Jewell Williams,,,,0,0,0,0,31
+Larry King Sr,,,,,2,0,0,31
+Rochelle Bilal,,,,,,0,0,31
+Malika Rahman,,,,,,,0,31
+Total,28,21,13,21,13,13,7,31
+,Mayor - Democrat,,,Sheriff - Democrat,,,,32
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Jewell Williams,Rochelle Bilal,Larry King Sr,Malika Rahman,32
+Jim Kenney,6,0,0,10,7,3,3,32
+Alan Butkovitz,,3,0,6,4,6,3,32
+Anthony Hardy Williams,,,5,3,3,1,2,32
+Jewell Williams,,,,0,0,0,0,32
+Rochelle Bilal,,,,,0,0,0,32
+Larry King Sr,,,,,,0,0,32
+Malika Rahman,,,,,,,0,32
+Total,29,22,14,19,14,10,8,32
+,Mayor - Democrat,,,Sheriff - Democrat,,,,33
+,Jim Kenney,Anthony Hardy Williams,Alan Butkovitz,Rochelle Bilal,Jewell Williams,Malika Rahman,Larry King Sr,33
+Jim Kenney,3,0,0,16,14,9,3,33
+Anthony Hardy Williams,,3,0,6,6,5,4,33
+Alan Butkovitz,,,6,4,2,2,7,33
+Rochelle Bilal,,,,0,0,0,0,33
+Jewell Williams,,,,,0,0,0,33
+Malika Rahman,,,,,,0,0,33
+Larry King Sr,,,,,,,1,33
+Total,45,24,21,26,22,16,15,33
+,Sheriff - Democrat,,,,Mayor - Democrat,,,34
+,Jewell Williams,Malika Rahman,Rochelle Bilal,Larry King Sr,Jim Kenney,Anthony Hardy Williams,Alan Butkovitz,34
+Jewell Williams,4,0,0,0,12,3,4,34
+Malika Rahman,,0,0,0,3,1,1,34
+Rochelle Bilal,,,0,0,1,0,2,34
+Larry King Sr,,,,0,1,1,0,34
+Jim Kenney,,,,,4,0,0,34
+Anthony Hardy Williams,,,,,,4,0,34
+Alan Butkovitz,,,,,,,1,34
+Total,23,5,3,2,21,9,8,34
+,Mayor - Democrat,,,Sheriff - Democrat,,,,35
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Rochelle Bilal,Malika Rahman,Jewell Williams,Larry King Sr,35
+Jim Kenney,8,0,0,13,7,8,1,35
+Alan Butkovitz,,7,0,5,3,3,1,35
+Anthony Hardy Williams,,,4,2,6,2,1,35
+Rochelle Bilal,,,,0,0,0,0,35
+Malika Rahman,,,,,0,0,0,35
+Jewell Williams,,,,,,1,0,35
+Larry King Sr,,,,,,,0,35
+Total,37,19,15,20,16,14,3,35
+,Mayor - Democrat,,,Sheriff - Democrat,,,,36
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Rochelle Bilal,Jewell Williams,Larry King Sr,Malika Rahman,36
+Jim Kenney,6,0,0,16,5,5,9,36
+Alan Butkovitz,,8,0,10,3,5,2,36
+Anthony Hardy Williams,,,3,4,5,4,2,36
+Rochelle Bilal,,,,1,0,0,0,36
+Jewell Williams,,,,,1,0,0,36
+Larry King Sr,,,,,,0,0,36
+Malika Rahman,,,,,,,0,36
+Total,41,28,18,31,14,14,13,36
+,Mayor - Democrat,,,Sheriff - Democrat,,,,37
+,Jim Kenney,Anthony Hardy Williams,Alan Butkovitz,Rochelle Bilal,Jewell Williams,Malika Rahman,Larry King Sr,37
+Jim Kenney,3,0,0,11,8,1,2,37
+Anthony Hardy Williams,,3,0,3,1,3,2,37
+Alan Butkovitz,,,2,3,1,2,0,37
+Rochelle Bilal,,,,0,0,0,0,37
+Jewell Williams,,,,,1,0,0,37
+Malika Rahman,,,,,,0,0,37
+Larry King Sr,,,,,,,0,37
+Total,25,12,8,17,11,6,4,37
+,Mayor - Democrat,,,Sheriff - Democrat,,,,38
+,Jim Kenney,Anthony Hardy Williams,Alan Butkovitz,Rochelle Bilal,Jewell Williams,Larry King Sr,Malika Rahman,38
+Jim Kenney,8,0,0,10,6,3,2,38
+Anthony Hardy Williams,,3,0,5,2,3,1,38
+Alan Butkovitz,,,2,1,1,3,3,38
+Rochelle Bilal,,,,0,0,0,0,38
+Jewell Williams,,,,,0,0,0,38
+Larry King Sr,,,,,,0,0,38
+Malika Rahman,,,,,,,0,38
+Total,29,14,10,16,9,9,6,38
+,Mayor - Democrat,,,Sheriff - Democrat,,,,39
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Jewell Williams,Rochelle Bilal,Malika Rahman,Larry King Sr,39
+Jim Kenney,6,0,0,14,9,5,4,39
+Alan Butkovitz,,5,0,6,7,7,9,39
+Anthony Hardy Williams,,,2,7,3,6,1,39
+Jewell Williams,,,,0,0,0,0,39
+Rochelle Bilal,,,,,0,0,0,39
+Malika Rahman,,,,,,0,0,39
+Larry King Sr,,,,,,,0,39
+Total,38,34,19,27,19,18,14,39
+,Mayor - Democrat,,,Sheriff - Democrat,,,,40
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Rochelle Bilal,Larry King Sr,Malika Rahman,Jewell Williams,40
+Jim Kenney,6,0,0,10,5,3,4,40
+Alan Butkovitz,,6,0,6,2,4,3,40
+Anthony Hardy Williams,,,3,1,3,2,0,40
+Rochelle Bilal,,,,0,0,0,0,40
+Larry King Sr,,,,,0,0,0,40
+Malika Rahman,,,,,,0,0,40
+Jewell Williams,,,,,,,0,40
+Total,28,21,9,17,10,9,7,40
+,Mayor - Democrat,,,Sheriff - Democrat,,,,41
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Larry King Sr,Malika Rahman,Rochelle Bilal,Jewell Williams,41
+Jim Kenney,8,0,0,11,11,7,7,41
+Alan Butkovitz,,1,0,8,4,7,2,41
+Anthony Hardy Williams,,,1,3,4,4,6,41
+Larry King Sr,,,,0,0,0,0,41
+Malika Rahman,,,,,0,0,0,41
+Rochelle Bilal,,,,,,0,0,41
+Jewell Williams,,,,,,,1,41
+Total,44,22,18,22,19,18,16,41
+,Mayor - Democrat,,,Sheriff - Democrat,,,,42
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Jewell Williams,Rochelle Bilal,Larry King Sr,Malika Rahman,42
+Jim Kenney,5,0,0,15,10,2,3,42
+Alan Butkovitz,,10,0,3,2,8,2,42
+Anthony Hardy Williams,,,2,3,3,0,0,42
+Jewell Williams,,,,0,0,0,0,42
+Rochelle Bilal,,,,,1,0,0,42
+Larry King Sr,,,,,,0,0,42
+Malika Rahman,,,,,,,0,42
+Total,35,25,8,21,16,10,5,42
+,Mayor - Democrat,,,Sheriff - Democrat,,,,43
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Rochelle Bilal,Malika Rahman,Larry King Sr,Jewell Williams,43
+Jim Kenney,12,0,0,14,9,7,4,43
+Alan Butkovitz,,6,0,10,5,7,3,43
+Anthony Hardy Williams,,,2,4,4,2,2,43
+Rochelle Bilal,,,,0,0,0,0,43
+Malika Rahman,,,,,0,0,0,43
+Larry King Sr,,,,,,0,0,43
+Jewell Williams,,,,,,,0,43
+Total,46,31,14,28,18,16,9,43
+,Mayor - Democrat,,,Sheriff - Democrat,,,,44
+,Alan Butkovitz,Jim Kenney,Anthony Hardy Williams,Rochelle Bilal,Jewell Williams,Malika Rahman,Larry King Sr,44
+Alan Butkovitz,12,0,0,9,5,5,4,44
+Jim Kenney,,10,0,7,7,6,4,44
+Anthony Hardy Williams,,,5,1,3,3,1,44
+Rochelle Bilal,,,,1,0,0,0,44
+Jewell Williams,,,,,1,0,0,44
+Malika Rahman,,,,,,0,0,44
+Larry King Sr,,,,,,,0,44
+Total,35,34,13,18,16,14,9,44
+,Mayor - Democrat,,,Sheriff - Democrat,,,,45
+,Alan Butkovitz,Jim Kenney,Anthony Hardy Williams,Rochelle Bilal,Jewell Williams,Larry King Sr,Malika Rahman,45
+Alan Butkovitz,6,0,0,4,2,4,1,45
+Jim Kenney,,2,0,5,3,1,3,45
+Anthony Hardy Williams,,,1,2,2,1,0,45
+Rochelle Bilal,,,,0,0,0,0,45
+Jewell Williams,,,,,1,0,0,45
+Larry King Sr,,,,,,1,0,45
+Malika Rahman,,,,,,,0,45
+Total,17,14,6,11,8,7,4,45
+,Mayor - Democrat,,,Sheriff - Democrat,,,,46
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Rochelle Bilal,Jewell Williams,Larry King Sr,Malika Rahman,46
+Jim Kenney,6,0,0,11,8,2,5,46
+Alan Butkovitz,,4,0,9,4,7,0,46
+Anthony Hardy Williams,,,8,1,1,0,1,46
+Rochelle Bilal,,,,0,0,0,0,46
+Jewell Williams,,,,,0,0,0,46
+Larry King Sr,,,,,,0,0,46
+Malika Rahman,,,,,,,0,46
+Total,32,24,11,21,13,9,6,46

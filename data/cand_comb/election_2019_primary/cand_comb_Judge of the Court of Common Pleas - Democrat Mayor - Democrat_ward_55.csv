@@ -1,0 +1,931 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10,col_11,col_12,col_13,col_14,col_15,col_16,col_17,col_18,col_19,col_20,col_21,col_22,col_23,col_24,col_25,col_26,col_27,col_28,col_29,division
+,Mayor - Democrat,,,Judge Of The Court Of Common Pleas - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,All
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Jennifer Schultz,Joshua Roberts,Nicola Serianni,Anthony Kyriakakis,Carmella Jacquinto,Wendi Barish,James C Crumlish,Beth Grossman,Craig Levin,Tiffany Palmer,Vicki Markovitz,Cateria R Mccabe,Jon Marshall,Kendra Mccrae,Chris Hall,James F Berardinelli,Leon Goodman,Henry Mcgregor Sias,Terri M Booker,Kay Yu,Laurie Dow,Janine D Momasso,Sherman Toppin,Robert Trimble,Gregory Weyer,All
+Jim Kenney,75,0,0,255,254,196,196,210,190,175,113,115,133,77,86,73,76,74,47,61,91,63,64,52,39,35,31,11,All
+Alan Butkovitz,,95,0,113,106,89,89,63,76,101,85,65,48,52,44,43,24,33,64,34,24,20,33,36,23,10,11,11,All
+Anthony Hardy Williams,,,44,123,93,77,45,44,59,36,80,69,62,53,36,49,49,34,21,40,15,51,33,33,20,19,14,8,All
+Jennifer Schultz,,,,9,128,137,66,74,121,76,131,143,98,97,63,99,71,49,47,47,27,43,48,62,38,8,21,9,All
+Joshua Roberts,,,,,6,77,156,150,148,166,62,101,39,34,49,92,32,25,25,53,88,43,25,14,14,29,13,8,All
+Nicola Serianni,,,,,,15,70,103,100,60,89,73,68,68,64,45,62,31,41,27,21,32,35,48,32,17,22,7,All
+Anthony Kyriakakis,,,,,,,5,152,119,171,61,34,91,30,52,12,15,68,44,23,100,15,52,10,13,21,10,6,All
+Carmella Jacquinto,,,,,,,,2,116,104,62,27,49,40,49,18,35,25,18,39,82,40,40,25,25,28,11,6,All
+Wendi Barish,,,,,,,,,1,148,95,43,78,68,54,27,45,30,35,37,57,44,27,42,30,8,13,3,All
+James C Crumlish,,,,,,,,,,3,50,54,68,24,21,33,19,73,39,41,60,27,32,16,9,8,18,7,All
+Beth Grossman,,,,,,,,,,,0,52,76,84,41,32,50,29,57,37,27,35,37,56,33,3,13,11,All
+Craig Levin,,,,,,,,,,,,0,23,50,18,79,26,26,28,34,13,18,13,24,13,10,19,4,All
+Tiffany Palmer,,,,,,,,,,,,,1,44,47,14,49,70,35,30,19,46,57,48,23,13,15,7,All
+Vicki Markovitz,,,,,,,,,,,,,,1,25,20,30,25,39,22,14,26,16,34,31,9,13,6,All
+Cateria R Mccabe,,,,,,,,,,,,,,,2,16,40,19,23,22,28,27,21,24,29,23,7,7,All
+Jon Marshall,,,,,,,,,,,,,,,,1,11,10,20,24,9,15,11,10,9,5,7,5,All
+Kendra Mccrae,,,,,,,,,,,,,,,,,0,25,11,38,6,27,16,28,23,18,13,5,All
+Chris Hall,,,,,,,,,,,,,,,,,,0,22,22,10,29,21,20,9,11,20,7,All
+James F Berardinelli,,,,,,,,,,,,,,,,,,,1,17,13,6,23,20,17,3,19,11,All
+Leon Goodman,,,,,,,,,,,,,,,,,,,,0,6,44,19,19,12,18,16,7,All
+Henry Mcgregor Sias,,,,,,,,,,,,,,,,,,,,,0,7,13,4,3,14,5,6,All
+Terri M Booker,,,,,,,,,,,,,,,,,,,,,,0,24,27,10,16,7,3,All
+Kay Yu,,,,,,,,,,,,,,,,,,,,,,,0,17,11,9,5,6,All
+Laurie Dow,,,,,,,,,,,,,,,,,,,,,,,,0,13,10,11,6,All
+Janine D Momasso,,,,,,,,,,,,,,,,,,,,,,,,,0,7,4,3,All
+Sherman Toppin,,,,,,,,,,,,,,,,,,,,,,,,,,0,4,2,All
+Robert Trimble,,,,,,,,,,,,,,,,,,,,,,,,,,,0,5,All
+Gregory Weyer,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,All
+Total,754,441,337,505,470,388,354,340,334,326,280,257,252,185,171,167,151,147,142,140,136,135,132,122,85,66,62,30,All
+,Mayor - Democrat,,,Judge Of The Court Of Common Pleas - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,1
+,Jim Kenney,Anthony Hardy Williams,Alan Butkovitz,Jennifer Schultz,Joshua Roberts,Craig Levin,James C Crumlish,Nicola Serianni,Anthony Kyriakakis,Carmella Jacquinto,Tiffany Palmer,Jon Marshall,Wendi Barish,Beth Grossman,Vicki Markovitz,Chris Hall,Janine D Momasso,Kendra Mccrae,Laurie Dow,Terri M Booker,James F Berardinelli,Robert Trimble,Cateria R Mccabe,Leon Goodman,Henry Mcgregor Sias,Kay Yu,Sherman Toppin,Gregory Weyer,1
+Jim Kenney,2,0,0,12,6,7,7,9,6,5,6,3,5,3,3,2,3,1,2,2,3,3,1,1,2,2,0,0,1
+Anthony Hardy Williams,,1,0,4,8,5,0,1,0,3,2,4,0,2,2,2,1,4,2,3,0,1,0,2,0,0,1,0,1
+Alan Butkovitz,,,6,2,3,0,4,0,2,1,1,1,3,2,1,1,1,0,1,0,1,0,2,0,0,0,0,0,1
+Jennifer Schultz,,,,0,7,5,3,5,0,3,2,6,4,3,3,0,3,2,3,2,3,2,1,1,0,0,0,0,1
+Joshua Roberts,,,,,0,6,6,1,2,1,0,7,4,1,1,1,0,2,1,1,1,1,0,1,0,0,0,0,1
+Craig Levin,,,,,,0,3,1,0,0,1,5,1,1,2,0,0,1,1,1,0,3,0,1,2,0,0,0,1
+James C Crumlish,,,,,,,0,4,4,3,3,3,5,1,1,3,0,0,0,1,1,3,1,1,1,0,0,0,1
+Nicola Serianni,,,,,,,,1,2,6,4,1,3,1,2,3,3,2,1,1,3,1,1,1,0,1,0,0,1
+Anthony Kyriakakis,,,,,,,,,1,3,3,0,0,1,0,3,0,0,0,0,0,0,1,0,0,0,0,0,1
+Carmella Jacquinto,,,,,,,,,,0,4,0,0,2,2,3,3,1,1,1,1,0,0,0,0,1,0,0,1
+Tiffany Palmer,,,,,,,,,,,0,0,1,2,0,4,1,2,1,3,1,1,1,1,1,1,0,0,1
+Jon Marshall,,,,,,,,,,,,0,2,0,0,1,0,1,0,1,1,1,0,1,0,0,0,0,1
+Wendi Barish,,,,,,,,,,,,,0,2,2,0,1,0,3,1,2,1,1,1,0,0,0,0,1
+Beth Grossman,,,,,,,,,,,,,,0,4,1,3,1,4,1,0,0,2,0,0,0,0,0,1
+Vicki Markovitz,,,,,,,,,,,,,,,0,0,3,1,4,1,1,1,1,0,1,0,0,0,1
+Chris Hall,,,,,,,,,,,,,,,,0,0,2,0,2,0,0,1,1,0,0,0,0,1
+Janine D Momasso,,,,,,,,,,,,,,,,,0,1,2,0,2,0,2,0,0,1,0,0,1
+Kendra Mccrae,,,,,,,,,,,,,,,,,,0,1,3,1,1,1,2,0,0,0,0,1
+Laurie Dow,,,,,,,,,,,,,,,,,,,0,1,1,0,1,0,0,0,0,0,1
+Terri M Booker,,,,,,,,,,,,,,,,,,,,0,0,2,0,2,1,0,0,0,1
+James F Berardinelli,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,1,0,0,1
+Robert Trimble,,,,,,,,,,,,,,,,,,,,,,0,0,2,1,0,0,0,1
+Cateria R Mccabe,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,1
+Leon Goodman,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1
+Henry Mcgregor Sias,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1
+Kay Yu,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,1
+Sherman Toppin,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1
+Gregory Weyer,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1
+Total,29,15,12,18,17,12,11,11,9,9,9,8,8,7,6,5,5,5,5,5,4,4,3,3,2,2,1,0,1
+,Mayor - Democrat,,,Judge Of The Court Of Common Pleas - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,2
+,Jim Kenney,Anthony Hardy Williams,Alan Butkovitz,Joshua Roberts,Jennifer Schultz,Nicola Serianni,Anthony Kyriakakis,Carmella Jacquinto,Tiffany Palmer,Beth Grossman,Cateria R Mccabe,Craig Levin,Henry Mcgregor Sias,Terri M Booker,James C Crumlish,Sherman Toppin,Vicki Markovitz,Jon Marshall,Kay Yu,Kendra Mccrae,Leon Goodman,Chris Hall,Wendi Barish,James F Berardinelli,Laurie Dow,Robert Trimble,Gregory Weyer,Janine D Momasso,2
+Jim Kenney,3,0,0,13,9,9,11,10,7,7,6,4,8,7,6,5,7,3,5,4,3,4,3,3,2,2,1,0,2
+Anthony Hardy Williams,,5,0,6,2,2,1,1,3,1,2,2,2,3,0,4,1,2,0,3,3,2,0,0,1,0,0,0,2
+Alan Butkovitz,,,0,3,4,4,2,1,2,3,1,3,0,0,3,0,0,3,3,1,2,0,2,1,1,0,0,0,2
+Joshua Roberts,,,,0,3,4,6,6,2,3,4,3,5,3,3,7,1,3,1,2,3,1,1,0,0,0,1,0,2
+Jennifer Schultz,,,,,2,4,5,0,6,5,1,3,3,1,2,1,2,2,4,5,4,2,1,1,2,1,0,0,2
+Nicola Serianni,,,,,,1,6,5,3,3,1,2,3,2,4,4,1,0,2,1,1,2,2,2,1,0,1,0,2
+Anthony Kyriakakis,,,,,,,0,6,3,3,3,1,7,1,4,6,2,0,4,0,1,3,2,3,0,1,0,0,2
+Carmella Jacquinto,,,,,,,,1,0,1,3,1,4,2,2,5,0,0,0,0,1,0,1,1,1,0,0,0,2
+Tiffany Palmer,,,,,,,,,0,4,0,0,3,2,3,1,2,0,6,5,3,3,1,1,2,1,0,1,2
+Beth Grossman,,,,,,,,,,0,3,3,2,2,2,0,5,2,2,4,1,1,3,1,3,0,1,0,2
+Cateria R Mccabe,,,,,,,,,,,1,2,3,3,0,4,1,2,2,3,1,1,1,0,2,0,0,0,2
+Craig Levin,,,,,,,,,,,,0,0,2,1,0,1,3,1,0,2,1,0,0,1,0,0,0,2
+Henry Mcgregor Sias,,,,,,,,,,,,,0,2,0,5,2,1,2,0,1,2,1,0,0,0,1,0,2
+Terri M Booker,,,,,,,,,,,,,,0,2,2,3,1,0,1,3,3,1,0,1,1,0,0,2
+James C Crumlish,,,,,,,,,,,,,,,0,1,2,1,2,0,3,1,4,2,0,1,0,0,2
+Sherman Toppin,,,,,,,,,,,,,,,,0,0,1,0,2,1,1,0,0,1,0,0,0,2
+Vicki Markovitz,,,,,,,,,,,,,,,,,1,2,0,1,2,2,2,2,0,2,1,0,2
+Jon Marshall,,,,,,,,,,,,,,,,,,0,0,1,2,1,1,0,1,0,0,0,2
+Kay Yu,,,,,,,,,,,,,,,,,,,0,2,0,3,1,1,1,0,0,0,2
+Kendra Mccrae,,,,,,,,,,,,,,,,,,,,0,2,0,0,0,3,0,0,0,2
+Leon Goodman,,,,,,,,,,,,,,,,,,,,,0,0,1,1,1,2,0,0,2
+Chris Hall,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,2
+Wendi Barish,,,,,,,,,,,,,,,,,,,,,,,0,2,0,0,0,0,2
+James F Berardinelli,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,2
+Laurie Dow,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,2
+Robert Trimble,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,2
+Gregory Weyer,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,2
+Janine D Momasso,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,2
+Total,38,19,10,22,17,17,14,13,13,11,10,10,10,10,9,9,9,8,8,8,8,6,5,4,4,2,1,1,2
+,Mayor - Democrat,,,Judge Of The Court Of Common Pleas - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,3
+,Jim Kenney,Anthony Hardy Williams,Alan Butkovitz,Jennifer Schultz,Joshua Roberts,Nicola Serianni,Carmella Jacquinto,Vicki Markovitz,Wendi Barish,Tiffany Palmer,Anthony Kyriakakis,Craig Levin,Jon Marshall,Terri M Booker,Beth Grossman,Laurie Dow,James C Crumlish,Leon Goodman,Cateria R Mccabe,Henry Mcgregor Sias,Kendra Mccrae,Sherman Toppin,Janine D Momasso,Chris Hall,Gregory Weyer,Kay Yu,Robert Trimble,James F Berardinelli,3
+Jim Kenney,1,0,0,7,11,6,9,4,9,4,7,4,4,3,3,5,5,4,1,4,1,3,2,1,1,1,0,1,3
+Anthony Hardy Williams,,0,0,12,5,6,1,7,3,7,0,6,4,3,5,3,1,1,2,0,3,1,1,1,0,0,1,0,3
+Alan Butkovitz,,,2,1,2,3,2,1,0,0,0,0,1,3,0,0,0,0,1,0,0,0,0,0,1,1,1,0,3
+Jennifer Schultz,,,,0,5,7,1,8,4,6,0,9,6,2,6,5,2,3,0,0,2,1,2,2,0,0,1,0,3
+Joshua Roberts,,,,,1,2,7,2,6,2,7,4,6,3,3,0,3,3,4,4,2,1,2,1,2,0,1,1,3
+Nicola Serianni,,,,,,0,5,6,4,3,0,5,2,3,3,5,2,1,1,0,3,2,0,0,0,1,1,0,3
+Carmella Jacquinto,,,,,,,0,2,4,0,8,0,0,3,0,2,2,2,1,4,2,1,0,0,0,1,0,1,3
+Vicki Markovitz,,,,,,,,0,4,4,0,3,1,2,4,6,1,1,1,0,2,0,2,2,1,1,1,0,3
+Wendi Barish,,,,,,,,,0,3,2,2,3,1,4,5,4,2,1,1,2,1,1,0,1,1,0,0,3
+Tiffany Palmer,,,,,,,,,,0,1,1,1,3,2,1,1,1,2,0,1,1,1,1,0,1,0,0,3
+Anthony Kyriakakis,,,,,,,,,,,0,0,0,0,0,0,2,1,1,4,0,1,0,0,0,0,0,1,3
+Craig Levin,,,,,,,,,,,,0,4,1,4,3,1,2,0,0,1,1,0,0,0,0,1,0,3
+Jon Marshall,,,,,,,,,,,,,0,1,2,1,2,1,0,0,1,1,2,1,1,0,0,0,3
+Terri M Booker,,,,,,,,,,,,,,0,1,0,1,1,2,0,0,0,0,0,1,1,1,0,3
+Beth Grossman,,,,,,,,,,,,,,,0,4,1,0,1,0,1,0,1,0,1,0,0,0,3
+Laurie Dow,,,,,,,,,,,,,,,,0,2,0,0,0,2,1,0,0,0,1,0,0,3
+James C Crumlish,,,,,,,,,,,,,,,,,0,1,0,1,0,1,0,0,0,0,0,0,3
+Leon Goodman,,,,,,,,,,,,,,,,,,0,0,1,0,1,1,1,0,0,1,1,3
+Cateria R Mccabe,,,,,,,,,,,,,,,,,,,0,1,1,1,0,0,1,0,1,0,3
+Henry Mcgregor Sias,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,0,1,3
+Kendra Mccrae,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,3
+Sherman Toppin,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,3
+Janine D Momasso,,,,,,,,,,,,,,,,,,,,,,,0,2,1,0,0,0,3
+Chris Hall,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,3
+Gregory Weyer,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,3
+Kay Yu,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,3
+Robert Trimble,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,3
+James F Berardinelli,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,3
+Total,26,16,9,20,20,15,14,12,12,11,10,10,9,9,8,8,6,5,4,4,4,4,3,2,2,2,2,1,3
+,Mayor - Democrat,,,Judge Of The Court Of Common Pleas - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,4
+,Jim Kenney,Anthony Hardy Williams,Alan Butkovitz,Nicola Serianni,Jennifer Schultz,James C Crumlish,Tiffany Palmer,Anthony Kyriakakis,Joshua Roberts,Wendi Barish,Beth Grossman,Craig Levin,Vicki Markovitz,Cateria R Mccabe,Carmella Jacquinto,Jon Marshall,Terri M Booker,Laurie Dow,Henry Mcgregor Sias,James F Berardinelli,Kay Yu,Kendra Mccrae,Chris Hall,Janine D Momasso,Leon Goodman,Robert Trimble,Gregory Weyer,Sherman Toppin,4
+Jim Kenney,2,0,0,18,10,6,7,7,6,6,3,2,4,6,5,3,4,3,3,1,3,3,2,2,1,1,0,1,4
+Anthony Hardy Williams,,4,0,3,6,2,0,0,2,1,3,2,2,0,1,3,2,0,1,0,0,0,0,1,1,0,1,0,4
+Alan Butkovitz,,,3,5,4,3,3,3,1,1,2,4,2,1,0,0,0,2,0,3,1,1,1,0,1,1,0,0,4
+Nicola Serianni,,,,3,8,4,5,3,2,4,5,3,7,4,3,1,4,2,2,2,2,3,2,2,0,0,0,1,4
+Jennifer Schultz,,,,,0,2,5,4,4,5,3,7,5,4,0,1,3,3,0,2,3,1,1,3,1,1,0,0,4
+James C Crumlish,,,,,,0,4,5,3,2,1,2,0,1,3,2,0,0,1,1,0,0,2,1,1,1,0,0,4
+Tiffany Palmer,,,,,,,0,7,2,4,2,1,2,3,1,0,0,0,0,0,2,1,2,1,0,0,0,0,4
+Anthony Kyriakakis,,,,,,,,0,3,2,0,1,0,3,2,0,1,1,2,0,1,0,3,0,0,0,0,0,4
+Joshua Roberts,,,,,,,,,0,1,0,3,0,3,1,3,1,1,2,0,1,0,0,1,1,0,0,0,4
+Wendi Barish,,,,,,,,,,0,2,2,2,1,0,0,2,2,0,0,0,2,1,1,1,0,0,0,4
+Beth Grossman,,,,,,,,,,,0,2,4,0,1,0,1,2,1,2,1,3,0,0,2,0,1,0,4
+Craig Levin,,,,,,,,,,,,0,3,0,0,1,1,2,0,3,2,1,0,1,2,1,0,0,4
+Vicki Markovitz,,,,,,,,,,,,,0,2,1,0,2,0,1,1,2,2,0,1,1,0,1,1,4
+Cateria R Mccabe,,,,,,,,,,,,,,0,1,0,2,1,2,0,1,1,0,2,0,0,0,1,4
+Carmella Jacquinto,,,,,,,,,,,,,,,0,0,0,0,2,1,0,0,1,0,1,0,1,0,4
+Jon Marshall,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,1,0,1,0,0,4
+Terri M Booker,,,,,,,,,,,,,,,,,0,2,1,0,0,0,1,1,0,0,0,0,4
+Laurie Dow,,,,,,,,,,,,,,,,,,0,1,2,1,2,1,0,1,1,0,0,4
+Henry Mcgregor Sias,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,1,0,1,0,4
+James F Berardinelli,,,,,,,,,,,,,,,,,,,,0,1,1,0,0,1,1,0,0,4
+Kay Yu,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,1,0,1,4
+Kendra Mccrae,,,,,,,,,,,,,,,,,,,,,,0,0,0,1,0,0,1,4
+Chris Hall,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,4
+Janine D Momasso,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,4
+Leon Goodman,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,4
+Robert Trimble,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,4
+Gregory Weyer,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,4
+Sherman Toppin,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,4
+Total,33,15,13,29,20,11,11,10,9,9,8,8,8,7,6,6,6,5,4,4,4,4,3,3,3,2,1,1,4
+,Mayor - Democrat,,,Judge Of The Court Of Common Pleas - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,5
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Jennifer Schultz,Nicola Serianni,Joshua Roberts,Carmella Jacquinto,Craig Levin,Jon Marshall,Beth Grossman,Wendi Barish,Anthony Kyriakakis,Cateria R Mccabe,Tiffany Palmer,Laurie Dow,James C Crumlish,Vicki Markovitz,Leon Goodman,Chris Hall,James F Berardinelli,Kay Yu,Terri M Booker,Janine D Momasso,Sherman Toppin,Henry Mcgregor Sias,Kendra Mccrae,Gregory Weyer,Robert Trimble,5
+Jim Kenney,3,0,0,14,12,12,9,8,8,3,3,5,7,4,3,0,2,4,2,1,2,4,3,4,1,2,0,1,5
+Alan Butkovitz,,2,0,7,4,1,1,4,4,6,4,3,2,2,3,5,3,2,2,3,1,0,1,0,1,1,2,1,5
+Anthony Hardy Williams,,,1,4,7,4,3,2,2,3,4,3,1,3,1,2,2,0,1,0,2,1,0,0,1,0,0,0,5
+Jennifer Schultz,,,,1,7,6,4,7,7,5,8,4,6,6,6,4,3,3,3,2,3,3,2,0,0,2,1,1,5
+Nicola Serianni,,,,,1,6,10,5,3,4,8,1,5,4,3,3,3,1,1,0,0,1,2,2,1,0,0,2,5
+Joshua Roberts,,,,,,0,4,8,9,2,2,5,3,1,0,0,1,1,0,1,1,1,0,3,3,0,1,0,5
+Carmella Jacquinto,,,,,,,1,0,1,4,3,3,5,2,3,0,1,1,0,0,2,1,1,4,1,0,0,0,5
+Craig Levin,,,,,,,,0,7,0,3,1,1,1,1,2,2,1,1,0,0,0,0,0,1,0,0,1,5
+Jon Marshall,,,,,,,,,0,1,2,3,2,1,0,1,0,2,2,1,1,1,0,1,1,0,1,0,5
+Beth Grossman,,,,,,,,,,0,6,3,2,2,5,2,2,2,0,3,3,0,2,0,1,0,1,1,5
+Wendi Barish,,,,,,,,,,,0,0,5,4,5,2,2,0,1,1,1,0,2,0,1,0,0,1,5
+Anthony Kyriakakis,,,,,,,,,,,,0,3,2,0,3,3,2,2,2,3,2,1,3,1,0,0,0,5
+Cateria R Mccabe,,,,,,,,,,,,,0,5,3,1,1,0,1,1,0,1,3,3,1,1,1,0,5
+Tiffany Palmer,,,,,,,,,,,,,,0,2,1,1,1,4,0,1,3,2,0,0,1,0,1,5
+Laurie Dow,,,,,,,,,,,,,,,0,1,0,1,1,1,2,0,1,0,0,1,1,2,5
+James C Crumlish,,,,,,,,,,,,,,,,0,3,1,1,1,1,0,0,0,0,1,1,0,5
+Vicki Markovitz,,,,,,,,,,,,,,,,,0,1,1,2,1,0,2,1,1,0,0,0,5
+Leon Goodman,,,,,,,,,,,,,,,,,,0,2,0,3,2,0,0,0,1,0,0,5
+Chris Hall,,,,,,,,,,,,,,,,,,,0,0,1,2,0,0,0,1,0,1,5
+James F Berardinelli,,,,,,,,,,,,,,,,,,,,0,0,0,1,0,1,0,1,0,5
+Kay Yu,,,,,,,,,,,,,,,,,,,,,0,2,0,0,0,0,0,0,5
+Terri M Booker,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,2,0,0,5
+Janine D Momasso,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,5
+Sherman Toppin,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,5
+Henry Mcgregor Sias,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,5
+Kendra Mccrae,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,5
+Gregory Weyer,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,5
+Robert Trimble,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,5
+Total,35,17,15,27,25,17,15,14,14,12,12,11,11,9,8,7,7,6,5,5,5,5,4,4,3,3,2,2,5
+,Mayor - Democrat,,,Judge Of The Court Of Common Pleas - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,6
+,Jim Kenney,Anthony Hardy Williams,Alan Butkovitz,Jennifer Schultz,Joshua Roberts,Nicola Serianni,Carmella Jacquinto,Beth Grossman,Anthony Kyriakakis,Wendi Barish,Craig Levin,Kay Yu,Terri M Booker,Tiffany Palmer,Chris Hall,James C Crumlish,Kendra Mccrae,Jon Marshall,Laurie Dow,Leon Goodman,Vicki Markovitz,James F Berardinelli,Robert Trimble,Henry Mcgregor Sias,Janine D Momasso,Cateria R Mccabe,Gregory Weyer,Sherman Toppin,6
+Jim Kenney,5,0,0,12,9,11,8,6,6,6,4,6,4,5,3,5,2,3,3,3,3,3,3,2,2,1,0,0,6
+Anthony Hardy Williams,,1,0,3,2,1,0,1,0,1,2,0,2,1,1,0,3,0,1,1,0,0,0,0,0,0,0,0,6
+Alan Butkovitz,,,3,1,2,0,1,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,6
+Jennifer Schultz,,,,0,5,4,3,6,1,3,3,1,3,4,1,1,2,4,3,1,3,0,0,2,2,1,0,0,6
+Joshua Roberts,,,,,1,3,5,2,4,3,4,1,3,0,1,4,1,4,0,2,2,0,0,1,0,0,0,0,6
+Nicola Serianni,,,,,,0,4,4,5,3,1,5,0,2,1,1,2,1,1,1,1,3,2,1,0,0,0,0,6
+Carmella Jacquinto,,,,,,,0,3,3,4,1,3,2,0,1,3,0,2,1,2,1,0,2,0,1,0,0,0,6
+Beth Grossman,,,,,,,,0,3,3,0,3,2,4,0,0,1,1,2,0,1,1,0,1,1,0,0,0,6
+Anthony Kyriakakis,,,,,,,,,0,2,0,3,1,1,0,2,1,0,0,0,0,2,0,1,0,0,0,0,6
+Wendi Barish,,,,,,,,,,0,0,3,3,2,0,3,0,0,2,2,0,0,1,0,1,0,0,0,6
+Craig Levin,,,,,,,,,,,0,0,1,0,1,1,1,3,0,1,1,0,0,0,0,0,0,0,6
+Kay Yu,,,,,,,,,,,,0,0,2,1,2,0,0,0,1,0,1,2,0,0,0,0,0,6
+Terri M Booker,,,,,,,,,,,,,0,3,2,2,2,0,2,2,1,0,0,0,0,0,0,0,6
+Tiffany Palmer,,,,,,,,,,,,,,0,1,0,1,0,2,0,1,1,0,0,0,0,0,0,6
+Chris Hall,,,,,,,,,,,,,,,0,1,1,0,2,1,2,1,2,0,0,0,0,0,6
+James C Crumlish,,,,,,,,,,,,,,,,0,0,1,0,1,1,0,1,0,0,0,0,0,6
+Kendra Mccrae,,,,,,,,,,,,,,,,,0,0,0,1,0,1,0,0,0,0,0,0,6
+Jon Marshall,,,,,,,,,,,,,,,,,,0,0,0,2,0,0,0,0,0,0,0,6
+Laurie Dow,,,,,,,,,,,,,,,,,,,0,0,2,1,1,0,1,0,0,0,6
+Leon Goodman,,,,,,,,,,,,,,,,,,,,0,0,0,1,1,1,1,0,0,6
+Vicki Markovitz,,,,,,,,,,,,,,,,,,,,,0,1,1,0,0,0,0,0,6
+James F Berardinelli,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,6
+Robert Trimble,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,6
+Henry Mcgregor Sias,,,,,,,,,,,,,,,,,,,,,,,,0,1,1,0,0,6
+Janine D Momasso,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,6
+Cateria R Mccabe,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,6
+Gregory Weyer,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,6
+Sherman Toppin,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,6
+Total,32,8,6,16,15,12,10,8,7,7,6,6,6,6,5,5,5,4,4,4,4,3,3,2,2,1,0,0,6
+,Mayor - Democrat,,,Judge Of The Court Of Common Pleas - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,7
+,Jim Kenney,Anthony Hardy Williams,Alan Butkovitz,Nicola Serianni,Jennifer Schultz,Joshua Roberts,Carmella Jacquinto,Wendi Barish,James C Crumlish,Leon Goodman,Cateria R Mccabe,Tiffany Palmer,Anthony Kyriakakis,Kendra Mccrae,Beth Grossman,Craig Levin,Chris Hall,Terri M Booker,Jon Marshall,Kay Yu,Laurie Dow,Sherman Toppin,James F Berardinelli,Robert Trimble,Vicki Markovitz,Henry Mcgregor Sias,Janine D Momasso,Gregory Weyer,7
+Jim Kenney,10,0,0,17,15,11,15,10,9,6,10,10,9,7,6,8,7,5,1,4,3,6,3,5,4,4,0,0,7
+Anthony Hardy Williams,,6,0,14,13,12,4,4,2,5,2,4,3,6,3,4,4,5,7,4,3,2,1,1,2,0,1,0,7
+Alan Butkovitz,,,5,9,6,4,3,5,5,5,4,2,3,2,5,1,1,2,2,2,2,0,3,1,1,0,3,0,7
+Nicola Serianni,,,,3,12,7,8,10,6,6,10,5,4,5,5,6,4,4,5,4,4,1,1,3,3,0,2,0,7
+Jennifer Schultz,,,,,1,10,7,10,7,5,5,4,2,7,7,9,3,3,8,4,3,1,3,3,4,2,1,0,7
+Joshua Roberts,,,,,,0,4,7,7,5,3,2,9,3,3,5,5,5,6,2,1,3,2,2,1,2,2,0,7
+Carmella Jacquinto,,,,,,,0,5,5,4,5,6,3,7,3,2,2,5,0,4,3,4,0,1,1,2,0,0,7
+Wendi Barish,,,,,,,,0,5,2,5,4,5,2,6,3,2,0,2,3,1,0,3,1,3,2,1,0,7
+James C Crumlish,,,,,,,,,1,6,2,4,9,3,3,1,5,1,3,3,0,1,2,3,1,1,0,0,7
+Leon Goodman,,,,,,,,,,0,6,4,1,7,2,2,1,6,4,2,2,4,2,1,2,0,2,0,7
+Cateria R Mccabe,,,,,,,,,,,0,5,3,7,5,2,3,4,0,1,2,3,0,2,0,2,2,0,7
+Tiffany Palmer,,,,,,,,,,,,0,4,7,2,1,3,2,1,4,3,2,1,1,2,0,1,0,7
+Anthony Kyriakakis,,,,,,,,,,,,,0,0,5,0,4,1,1,3,0,2,2,3,1,2,1,0,7
+Kendra Mccrae,,,,,,,,,,,,,,0,1,1,4,5,1,2,1,5,0,3,1,0,2,0,7
+Beth Grossman,,,,,,,,,,,,,,,0,3,4,2,1,0,3,0,4,2,3,2,2,0,7
+Craig Levin,,,,,,,,,,,,,,,,0,3,1,4,2,2,1,1,1,2,1,0,0,7
+Chris Hall,,,,,,,,,,,,,,,,,0,5,0,2,2,1,1,4,0,0,1,0,7
+Terri M Booker,,,,,,,,,,,,,,,,,,0,2,3,4,4,0,0,0,0,1,0,7
+Jon Marshall,,,,,,,,,,,,,,,,,,,0,1,0,1,0,0,0,0,0,0,7
+Kay Yu,,,,,,,,,,,,,,,,,,,,0,3,2,1,1,1,0,0,0,7
+Laurie Dow,,,,,,,,,,,,,,,,,,,,,0,1,2,0,1,0,0,0,7
+Sherman Toppin,,,,,,,,,,,,,,,,,,,,,,0,0,1,1,1,0,0,7
+James F Berardinelli,,,,,,,,,,,,,,,,,,,,,,,0,1,3,1,1,0,7
+Robert Trimble,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,1,0,7
+Vicki Markovitz,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,7
+Henry Mcgregor Sias,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,7
+Janine D Momasso,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,7
+Gregory Weyer,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,7
+Total,54,33,23,44,36,27,22,19,18,17,16,16,15,15,14,14,12,12,10,10,8,8,7,7,7,4,4,0,7
+,Mayor - Democrat,,,Judge Of The Court Of Common Pleas - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,8
+,Alan Butkovitz,Jim Kenney,Anthony Hardy Williams,Anthony Kyriakakis,Jennifer Schultz,Beth Grossman,Joshua Roberts,James C Crumlish,Carmella Jacquinto,Tiffany Palmer,Craig Levin,Wendi Barish,Laurie Dow,Nicola Serianni,Chris Hall,James F Berardinelli,Jon Marshall,Kay Yu,Vicki Markovitz,Cateria R Mccabe,Kendra Mccrae,Robert Trimble,Sherman Toppin,Leon Goodman,Henry Mcgregor Sias,Janine D Momasso,Terri M Booker,Gregory Weyer,8
+Alan Butkovitz,6,0,0,10,6,7,9,9,7,7,2,6,3,2,2,4,2,3,4,3,0,2,1,1,2,1,0,1,8
+Jim Kenney,,3,0,3,5,2,7,5,2,0,5,3,1,2,3,1,2,1,1,2,2,0,2,1,0,0,0,0,8
+Anthony Hardy Williams,,,2,2,6,8,1,2,1,4,3,2,4,4,1,0,2,2,1,0,3,2,1,2,1,1,2,0,8
+Anthony Kyriakakis,,,,0,3,3,5,10,8,5,1,5,2,1,3,2,0,4,2,3,0,1,0,0,2,0,0,1,8
+Jennifer Schultz,,,,,1,6,6,4,4,3,5,3,3,2,2,1,4,0,3,2,3,0,0,1,0,0,1,0,8
+Beth Grossman,,,,,,0,2,5,4,4,4,6,4,3,2,2,2,1,5,0,4,2,1,1,2,2,2,1,8
+Joshua Roberts,,,,,,,0,6,4,2,4,4,1,2,1,1,3,3,0,0,1,0,1,1,0,0,0,0,8
+James C Crumlish,,,,,,,,0,3,4,4,8,3,2,4,1,2,3,1,2,1,0,1,0,1,1,1,0,8
+Carmella Jacquinto,,,,,,,,,0,2,0,5,1,1,0,1,0,1,4,1,0,0,0,0,0,1,0,0,8
+Tiffany Palmer,,,,,,,,,,0,2,2,5,4,3,3,0,2,2,2,0,3,3,2,1,1,1,0,8
+Craig Levin,,,,,,,,,,,0,3,1,2,3,2,3,0,1,1,1,2,3,0,0,1,1,0,8
+Wendi Barish,,,,,,,,,,,,0,1,2,1,1,1,1,4,1,1,0,1,0,1,2,1,0,8
+Laurie Dow,,,,,,,,,,,,,0,2,1,1,0,1,2,0,0,1,3,2,0,0,1,0,8
+Nicola Serianni,,,,,,,,,,,,,,0,0,3,2,1,1,1,2,3,2,1,1,0,0,0,8
+Chris Hall,,,,,,,,,,,,,,,0,1,0,0,1,1,1,1,3,0,0,0,0,0,8
+James F Berardinelli,,,,,,,,,,,,,,,,0,0,0,1,2,1,3,2,0,1,0,0,1,8
+Jon Marshall,,,,,,,,,,,,,,,,,0,0,0,0,1,1,0,0,1,0,0,0,8
+Kay Yu,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,0,8
+Vicki Markovitz,,,,,,,,,,,,,,,,,,,0,1,0,0,1,0,0,1,0,0,8
+Cateria R Mccabe,,,,,,,,,,,,,,,,,,,,0,1,1,0,0,1,0,0,0,8
+Kendra Mccrae,,,,,,,,,,,,,,,,,,,,,0,1,0,0,1,0,0,0,8
+Robert Trimble,,,,,,,,,,,,,,,,,,,,,,0,2,1,2,0,0,1,8
+Sherman Toppin,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,8
+Leon Goodman,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,1,0,8
+Henry Mcgregor Sias,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,1,8
+Janine D Momasso,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,8
+Terri M Booker,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,8
+Gregory Weyer,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,8
+Total,28,19,15,18,18,17,17,16,13,12,11,11,8,8,7,6,6,6,6,5,5,5,5,4,3,2,2,1,8
+,Mayor - Democrat,,,Judge Of The Court Of Common Pleas - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,9
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Jennifer Schultz,Beth Grossman,James C Crumlish,Joshua Roberts,Wendi Barish,Carmella Jacquinto,Terri M Booker,Anthony Kyriakakis,Chris Hall,Nicola Serianni,Laurie Dow,Vicki Markovitz,Henry Mcgregor Sias,Kay Yu,Kendra Mccrae,Cateria R Mccabe,James F Berardinelli,Leon Goodman,Tiffany Palmer,Janine D Momasso,Sherman Toppin,Craig Levin,Gregory Weyer,Jon Marshall,Robert Trimble,9
+Jim Kenney,2,0,0,6,5,6,6,7,4,3,3,3,4,3,3,1,2,2,1,2,1,2,1,0,1,1,1,0,9
+Alan Butkovitz,,1,0,3,1,4,2,0,2,1,2,2,1,2,0,2,0,1,2,1,0,1,1,0,0,0,0,0,9
+Anthony Hardy Williams,,,1,4,4,0,0,1,1,3,1,1,1,0,2,1,2,1,0,0,2,0,0,2,0,0,0,0,9
+Jennifer Schultz,,,,0,6,2,1,2,1,2,2,2,4,3,4,1,2,3,2,2,1,1,1,1,0,0,1,0,9
+Beth Grossman,,,,,0,0,1,3,2,3,2,1,4,2,5,2,1,3,2,1,1,1,1,0,0,0,1,0,9
+James C Crumlish,,,,,,0,4,5,3,1,3,4,2,3,0,1,0,1,1,1,0,2,1,0,0,0,0,0,9
+Joshua Roberts,,,,,,,0,3,3,0,3,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,9
+Wendi Barish,,,,,,,,0,3,1,4,2,2,1,1,2,0,3,0,0,1,2,0,0,0,0,0,0,9
+Carmella Jacquinto,,,,,,,,,0,1,3,3,2,0,1,3,1,0,1,1,0,0,0,0,0,1,0,0,9
+Terri M Booker,,,,,,,,,,0,0,2,2,1,2,0,3,1,0,1,3,1,2,2,0,1,0,0,9
+Anthony Kyriakakis,,,,,,,,,,,0,1,0,1,0,3,0,1,1,0,0,1,0,0,0,0,0,0,9
+Chris Hall,,,,,,,,,,,,0,3,3,1,0,1,0,0,2,0,2,1,0,0,1,0,0,9
+Nicola Serianni,,,,,,,,,,,,,0,2,4,0,0,1,0,0,0,0,2,0,0,0,1,0,9
+Laurie Dow,,,,,,,,,,,,,,0,1,0,1,0,1,2,0,2,1,0,0,0,1,0,9
+Vicki Markovitz,,,,,,,,,,,,,,,0,0,0,1,0,0,0,0,1,0,0,0,1,0,9
+Henry Mcgregor Sias,,,,,,,,,,,,,,,,0,0,1,1,0,0,0,0,0,0,0,0,0,9
+Kay Yu,,,,,,,,,,,,,,,,,0,0,1,2,2,0,0,2,0,1,0,0,9
+Kendra Mccrae,,,,,,,,,,,,,,,,,,0,1,0,1,1,0,0,0,0,0,0,9
+Cateria R Mccabe,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,0,0,0,9
+James F Berardinelli,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,1,0,0,9
+Leon Goodman,,,,,,,,,,,,,,,,,,,,,0,1,0,2,0,0,0,0,9
+Tiffany Palmer,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,9
+Janine D Momasso,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,9
+Sherman Toppin,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,9
+Craig Levin,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,9
+Gregory Weyer,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,9
+Jon Marshall,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,9
+Robert Trimble,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,9
+Total,18,9,8,13,10,10,8,8,7,7,6,6,6,5,5,4,4,4,3,3,3,3,2,2,1,1,1,0,9
+,Mayor - Democrat,,,Judge Of The Court Of Common Pleas - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,10
+,Jim Kenney,Anthony Hardy Williams,Alan Butkovitz,Joshua Roberts,Wendi Barish,Carmella Jacquinto,James C Crumlish,Anthony Kyriakakis,Jennifer Schultz,Henry Mcgregor Sias,Beth Grossman,Nicola Serianni,Craig Levin,Tiffany Palmer,Kendra Mccrae,Vicki Markovitz,Jon Marshall,Cateria R Mccabe,James F Berardinelli,Kay Yu,Leon Goodman,Terri M Booker,Janine D Momasso,Laurie Dow,Robert Trimble,Chris Hall,Sherman Toppin,Gregory Weyer,10
+Jim Kenney,1,0,0,22,17,15,12,15,11,11,7,6,7,5,7,5,3,2,2,1,2,0,3,2,1,1,0,0,10
+Anthony Hardy Williams,,2,0,6,3,2,4,2,6,2,5,4,1,5,1,4,3,3,2,3,2,5,0,1,2,1,0,0,10
+Alan Butkovitz,,,1,2,3,1,3,0,2,0,0,1,2,1,2,0,1,0,1,1,1,0,0,1,0,0,0,0,10
+Joshua Roberts,,,,0,16,17,18,16,7,12,3,3,5,2,3,2,2,3,0,0,2,2,0,0,0,1,1,0,10
+Wendi Barish,,,,,0,16,16,14,7,11,2,2,3,3,4,3,1,3,3,1,2,2,2,1,1,0,0,0,10
+Carmella Jacquinto,,,,,,0,13,14,3,12,4,3,2,3,3,1,0,1,1,2,1,2,1,0,0,0,1,0,10
+James C Crumlish,,,,,,,0,13,3,10,1,2,2,2,0,2,0,1,1,0,1,2,0,0,0,1,0,0,10
+Anthony Kyriakakis,,,,,,,,0,4,12,3,1,2,1,0,3,0,3,1,0,0,0,0,0,0,1,1,0,10
+Jennifer Schultz,,,,,,,,,0,1,5,2,7,4,5,6,4,3,3,2,2,0,1,0,1,1,0,0,10
+Henry Mcgregor Sias,,,,,,,,,,0,2,1,1,2,1,1,1,3,0,2,0,1,1,0,0,0,1,0,10
+Beth Grossman,,,,,,,,,,,0,5,1,8,4,4,1,1,2,3,1,2,2,3,2,1,0,0,10
+Nicola Serianni,,,,,,,,,,,,0,3,4,5,4,1,1,2,2,2,2,3,4,1,0,0,0,10
+Craig Levin,,,,,,,,,,,,,0,1,3,3,4,0,3,0,3,0,1,1,0,1,0,0,10
+Tiffany Palmer,,,,,,,,,,,,,,0,4,2,1,1,3,3,1,2,1,2,2,1,0,0,10
+Kendra Mccrae,,,,,,,,,,,,,,,0,2,1,1,0,2,3,0,3,2,0,1,0,0,10
+Vicki Markovitz,,,,,,,,,,,,,,,,0,0,2,1,1,1,1,1,0,0,1,0,0,10
+Jon Marshall,,,,,,,,,,,,,,,,,0,1,1,1,1,0,0,1,1,0,0,0,10
+Cateria R Mccabe,,,,,,,,,,,,,,,,,,0,1,1,0,1,1,0,1,0,1,0,10
+James F Berardinelli,,,,,,,,,,,,,,,,,,,0,1,0,1,1,1,3,0,0,0,10
+Kay Yu,,,,,,,,,,,,,,,,,,,,0,0,2,0,0,1,0,0,0,10
+Leon Goodman,,,,,,,,,,,,,,,,,,,,,0,2,0,2,0,1,0,0,10
+Terri M Booker,,,,,,,,,,,,,,,,,,,,,,0,0,1,1,0,0,0,10
+Janine D Momasso,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,10
+Laurie Dow,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,10
+Robert Trimble,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,10
+Chris Hall,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,10
+Sherman Toppin,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,10
+Gregory Weyer,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,10
+Total,35,17,6,32,24,21,20,19,19,15,12,12,11,11,10,9,7,6,6,5,5,5,4,4,3,2,1,0,10
+,Mayor - Democrat,,,Judge Of The Court Of Common Pleas - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,11
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Wendi Barish,James C Crumlish,Joshua Roberts,Anthony Kyriakakis,Jennifer Schultz,Beth Grossman,Nicola Serianni,Henry Mcgregor Sias,Carmella Jacquinto,Tiffany Palmer,Vicki Markovitz,James F Berardinelli,Chris Hall,Craig Levin,Kendra Mccrae,Kay Yu,Cateria R Mccabe,Jon Marshall,Laurie Dow,Gregory Weyer,Janine D Momasso,Robert Trimble,Sherman Toppin,Terri M Booker,Leon Goodman,11
+Jim Kenney,5,0,0,12,10,12,10,9,7,7,8,8,7,4,2,4,3,5,4,3,3,1,1,0,0,1,1,0,11
+Alan Butkovitz,,5,0,6,8,6,7,0,1,3,3,2,2,2,3,2,2,1,0,1,1,1,0,0,1,0,0,0,11
+Anthony Hardy Williams,,,0,4,2,1,0,4,4,2,0,0,0,3,3,1,2,1,2,1,0,1,0,1,0,0,0,0,11
+Wendi Barish,,,,0,14,9,10,6,5,7,5,4,8,5,3,5,4,6,1,4,1,2,0,0,0,0,0,0,11
+James C Crumlish,,,,,0,12,14,2,4,2,9,7,5,2,4,5,2,2,2,1,0,0,0,0,1,0,0,0,11
+Joshua Roberts,,,,,,0,8,3,5,2,9,8,1,1,3,1,1,0,2,1,3,1,1,0,1,0,0,0,11
+Anthony Kyriakakis,,,,,,,0,2,3,3,9,6,6,2,2,5,2,2,3,0,0,1,0,0,1,1,1,0,11
+Jennifer Schultz,,,,,,,,0,3,5,2,1,3,3,2,1,2,4,2,2,2,1,0,0,0,0,0,0,11
+Beth Grossman,,,,,,,,,0,3,3,4,2,4,3,1,1,2,2,1,0,1,1,1,1,0,0,0,11
+Nicola Serianni,,,,,,,,,,0,2,1,2,2,2,0,1,6,1,3,1,0,0,0,0,1,1,0,11
+Henry Mcgregor Sias,,,,,,,,,,,0,6,1,1,2,1,0,0,1,0,0,0,1,0,0,0,0,0,11
+Carmella Jacquinto,,,,,,,,,,,,0,0,1,1,0,1,0,2,0,1,0,0,0,1,0,0,0,11
+Tiffany Palmer,,,,,,,,,,,,,0,1,1,5,1,3,1,2,0,2,0,0,0,0,0,0,11
+Vicki Markovitz,,,,,,,,,,,,,,0,3,1,4,2,1,1,0,2,1,0,0,0,0,0,11
+James F Berardinelli,,,,,,,,,,,,,,,0,2,1,1,3,2,1,1,1,1,0,0,0,0,11
+Chris Hall,,,,,,,,,,,,,,,,0,1,1,2,2,0,1,0,1,0,0,0,0,11
+Craig Levin,,,,,,,,,,,,,,,,,0,0,0,0,1,1,0,0,0,0,0,0,11
+Kendra Mccrae,,,,,,,,,,,,,,,,,,0,1,3,0,0,0,0,0,1,1,0,11
+Kay Yu,,,,,,,,,,,,,,,,,,,0,1,1,1,0,1,0,1,1,0,11
+Cateria R Mccabe,,,,,,,,,,,,,,,,,,,,0,0,1,0,1,0,0,0,0,11
+Jon Marshall,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,11
+Laurie Dow,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,11
+Gregory Weyer,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,11
+Janine D Momasso,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,11
+Robert Trimble,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,11
+Sherman Toppin,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,11
+Terri M Booker,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,11
+Leon Goodman,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,11
+Total,33,16,8,22,20,19,17,13,12,12,11,10,9,9,8,7,7,7,6,5,4,3,1,1,1,1,1,0,11
+,Mayor - Democrat,,,Judge Of The Court Of Common Pleas - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,12
+,Alan Butkovitz,Jim Kenney,Anthony Hardy Williams,James C Crumlish,Joshua Roberts,Anthony Kyriakakis,Nicola Serianni,Tiffany Palmer,Wendi Barish,Carmella Jacquinto,Jennifer Schultz,Beth Grossman,James F Berardinelli,Kendra Mccrae,Terri M Booker,Henry Mcgregor Sias,Jon Marshall,Vicki Markovitz,Cateria R Mccabe,Chris Hall,Craig Levin,Kay Yu,Leon Goodman,Janine D Momasso,Laurie Dow,Gregory Weyer,Robert Trimble,Sherman Toppin,12
+Alan Butkovitz,6,0,0,8,5,7,3,2,6,2,2,8,4,4,1,1,1,2,1,0,1,1,1,2,1,0,0,0,12
+Jim Kenney,,2,0,5,8,5,8,6,5,6,7,0,2,2,3,3,1,2,2,2,0,2,2,0,1,0,0,0,12
+Anthony Hardy Williams,,,0,1,1,0,1,2,0,1,1,0,0,1,0,0,2,0,0,0,2,0,0,0,0,0,0,0,12
+James C Crumlish,,,,0,7,5,3,2,9,4,2,2,1,2,3,2,1,0,0,2,1,0,2,0,0,0,0,0,12
+Joshua Roberts,,,,,1,3,3,2,6,4,3,0,0,2,3,2,1,0,0,0,1,1,2,0,0,0,0,0,12
+Anthony Kyriakakis,,,,,,0,4,5,5,2,3,1,4,3,0,3,1,1,1,3,1,1,1,0,0,0,0,0,12
+Nicola Serianni,,,,,,,0,2,5,4,4,1,2,4,1,2,1,1,1,0,1,1,0,1,0,0,0,0,12
+Tiffany Palmer,,,,,,,,0,2,3,5,1,3,2,2,1,2,2,2,3,1,2,1,1,2,0,0,0,12
+Wendi Barish,,,,,,,,,0,3,2,1,2,3,3,1,0,0,0,1,0,1,2,1,0,0,0,0,12
+Carmella Jacquinto,,,,,,,,,,0,2,1,0,3,4,2,1,2,2,0,1,1,2,0,1,0,0,0,12
+Jennifer Schultz,,,,,,,,,,,0,0,1,1,1,2,0,1,1,2,0,2,0,0,0,0,0,0,12
+Beth Grossman,,,,,,,,,,,,0,2,3,0,0,0,2,0,0,0,1,0,2,1,0,0,0,12
+James F Berardinelli,,,,,,,,,,,,,0,2,0,0,1,1,1,2,0,0,1,1,0,0,0,0,12
+Kendra Mccrae,,,,,,,,,,,,,,0,0,0,1,2,0,0,1,1,0,2,1,0,0,0,12
+Terri M Booker,,,,,,,,,,,,,,,0,0,0,1,1,0,0,0,2,0,1,0,0,0,12
+Henry Mcgregor Sias,,,,,,,,,,,,,,,,0,0,1,1,1,0,0,0,0,0,0,0,0,12
+Jon Marshall,,,,,,,,,,,,,,,,,0,0,1,0,2,0,1,0,0,0,0,0,12
+Vicki Markovitz,,,,,,,,,,,,,,,,,,0,2,0,0,0,0,1,2,0,0,0,12
+Cateria R Mccabe,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,1,0,0,0,12
+Chris Hall,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,12
+Craig Levin,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,12
+Kay Yu,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,12
+Leon Goodman,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,12
+Janine D Momasso,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,12
+Laurie Dow,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,12
+Gregory Weyer,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,12
+Robert Trimble,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,12
+Sherman Toppin,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,12
+Total,27,21,4,15,15,13,12,12,12,10,10,8,7,7,5,4,4,4,3,3,3,3,3,2,2,0,0,0,12
+,Mayor - Democrat,,,Judge Of The Court Of Common Pleas - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,13
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Jennifer Schultz,Beth Grossman,Joshua Roberts,Vicki Markovitz,Anthony Kyriakakis,Carmella Jacquinto,Leon Goodman,Wendi Barish,Janine D Momasso,Cateria R Mccabe,Craig Levin,Henry Mcgregor Sias,James C Crumlish,James F Berardinelli,Jon Marshall,Chris Hall,Kay Yu,Nicola Serianni,Terri M Booker,Tiffany Palmer,Laurie Dow,Robert Trimble,Gregory Weyer,Kendra Mccrae,Sherman Toppin,13
+Jim Kenney,3,0,0,6,4,6,3,2,3,2,2,2,1,2,2,1,0,2,0,1,2,0,2,1,0,0,0,0,13
+Alan Butkovitz,,5,0,6,3,1,4,2,2,2,2,2,1,1,1,2,3,1,0,0,0,1,0,0,1,0,0,0,13
+Anthony Hardy Williams,,,1,4,3,2,1,1,1,2,2,1,2,1,0,0,1,1,2,1,0,1,0,0,0,0,0,0,13
+Jennifer Schultz,,,,0,5,4,4,1,2,2,4,2,2,3,1,2,3,2,1,2,1,2,1,0,0,0,0,0,13
+Beth Grossman,,,,,0,1,5,2,2,5,3,2,2,2,1,2,3,1,2,1,1,1,1,1,1,0,0,0,13
+Joshua Roberts,,,,,,0,1,3,4,1,1,1,1,2,2,1,1,2,1,1,0,0,1,0,0,0,0,0,13
+Vicki Markovitz,,,,,,,0,1,3,2,4,4,3,0,1,0,2,2,0,0,1,1,1,1,0,0,0,0,13
+Anthony Kyriakakis,,,,,,,,1,3,1,0,0,0,0,2,0,1,0,1,0,0,0,0,0,0,0,0,0,13
+Carmella Jacquinto,,,,,,,,,0,3,1,2,1,0,2,1,0,1,1,1,0,1,0,0,0,0,0,0,13
+Leon Goodman,,,,,,,,,,0,0,2,1,2,0,2,1,1,2,1,0,1,1,1,1,0,0,0,13
+Wendi Barish,,,,,,,,,,,0,2,3,0,1,0,2,1,0,1,1,1,0,0,0,0,0,0,13
+Janine D Momasso,,,,,,,,,,,,0,2,1,0,0,0,3,0,0,0,1,2,1,0,0,0,0,13
+Cateria R Mccabe,,,,,,,,,,,,,0,0,0,0,1,2,0,1,1,0,0,0,0,0,0,0,13
+Craig Levin,,,,,,,,,,,,,,0,0,1,1,2,1,0,0,1,1,0,1,0,0,0,13
+Henry Mcgregor Sias,,,,,,,,,,,,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,13
+James C Crumlish,,,,,,,,,,,,,,,,1,1,0,0,1,0,0,0,0,1,0,0,0,13
+James F Berardinelli,,,,,,,,,,,,,,,,,0,0,0,1,0,0,0,0,1,0,0,0,13
+Jon Marshall,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,0,0,0,0,13
+Chris Hall,,,,,,,,,,,,,,,,,,,0,0,0,1,0,0,0,0,0,0,13
+Kay Yu,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,13
+Nicola Serianni,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,13
+Terri M Booker,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,13
+Tiffany Palmer,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,13
+Laurie Dow,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,13
+Robert Trimble,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,13
+Gregory Weyer,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,13
+Kendra Mccrae,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,13
+Sherman Toppin,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,13
+Total,19,14,7,16,10,10,8,7,7,6,6,5,4,4,4,4,4,4,2,2,2,2,2,1,1,0,0,0,13
+,Mayor - Democrat,,,Judge Of The Court Of Common Pleas - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,14
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Carmella Jacquinto,Anthony Kyriakakis,James C Crumlish,Jennifer Schultz,Joshua Roberts,Chris Hall,Nicola Serianni,Tiffany Palmer,Vicki Markovitz,Wendi Barish,Craig Levin,Beth Grossman,Cateria R Mccabe,Henry Mcgregor Sias,James F Berardinelli,Kendra Mccrae,Leon Goodman,Kay Yu,Laurie Dow,Sherman Toppin,Jon Marshall,Robert Trimble,Terri M Booker,Janine D Momasso,Gregory Weyer,14
+Jim Kenney,2,0,0,12,11,10,5,5,6,5,10,2,6,2,2,2,3,1,2,3,4,1,2,1,1,2,1,0,14
+Alan Butkovitz,,3,0,4,4,4,5,6,3,2,0,3,2,4,3,2,2,2,3,1,1,1,2,1,0,0,0,0,14
+Anthony Hardy Williams,,,1,1,2,2,5,2,2,2,0,4,0,2,2,1,1,2,1,1,0,3,1,2,2,2,0,0,14
+Carmella Jacquinto,,,,0,13,8,3,6,4,4,5,1,6,1,1,3,5,2,2,2,3,1,2,1,1,2,0,0,14
+Anthony Kyriakakis,,,,,0,10,1,5,5,3,6,1,4,1,0,2,6,2,1,1,3,1,2,1,1,1,0,0,14
+James C Crumlish,,,,,,0,3,7,6,3,6,0,7,2,1,1,4,2,0,4,2,0,1,2,2,1,0,0,14
+Jennifer Schultz,,,,,,,0,2,3,5,2,6,2,6,4,3,0,3,1,1,0,1,1,3,1,0,1,0,14
+Joshua Roberts,,,,,,,,1,0,3,0,2,6,2,2,2,4,1,2,2,0,1,1,2,1,1,0,0,14
+Chris Hall,,,,,,,,,0,2,5,1,1,1,2,0,2,2,2,2,1,1,3,0,2,1,0,0,14
+Nicola Serianni,,,,,,,,,,0,2,3,3,3,1,0,0,0,4,2,1,1,2,1,3,1,1,0,14
+Tiffany Palmer,,,,,,,,,,,0,1,3,0,2,2,1,1,1,1,3,1,1,0,0,1,1,0,14
+Vicki Markovitz,,,,,,,,,,,,0,1,4,3,3,0,2,2,1,0,4,1,2,1,2,0,0,14
+Wendi Barish,,,,,,,,,,,,,0,0,2,1,3,0,0,2,0,0,0,0,1,1,1,0,14
+Craig Levin,,,,,,,,,,,,,,0,2,1,0,1,1,0,0,2,0,1,0,0,0,0,14
+Beth Grossman,,,,,,,,,,,,,,,0,1,0,3,1,0,0,1,0,2,0,0,1,0,14
+Cateria R Mccabe,,,,,,,,,,,,,,,,0,1,2,1,0,0,1,1,1,0,0,0,0,14
+Henry Mcgregor Sias,,,,,,,,,,,,,,,,,0,1,0,0,1,0,1,0,1,0,0,0,14
+James F Berardinelli,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,2,1,0,0,0,14
+Kendra Mccrae,,,,,,,,,,,,,,,,,,,0,1,1,2,2,0,2,1,0,0,14
+Leon Goodman,,,,,,,,,,,,,,,,,,,,0,2,1,3,1,1,2,0,0,14
+Kay Yu,,,,,,,,,,,,,,,,,,,,,0,1,1,1,0,1,0,0,14
+Laurie Dow,,,,,,,,,,,,,,,,,,,,,,0,1,0,1,3,0,0,14
+Sherman Toppin,,,,,,,,,,,,,,,,,,,,,,,0,0,0,1,0,0,14
+Jon Marshall,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,14
+Robert Trimble,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,14
+Terri M Booker,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,14
+Janine D Momasso,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,14
+Gregory Weyer,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,14
+Total,24,18,11,19,18,18,15,15,11,11,11,9,9,8,7,6,6,6,6,6,5,5,5,4,4,4,1,0,14
+,Mayor - Democrat,,,Judge Of The Court Of Common Pleas - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,15
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Anthony Kyriakakis,Joshua Roberts,James C Crumlish,Jennifer Schultz,Wendi Barish,Carmella Jacquinto,Cateria R Mccabe,Chris Hall,Henry Mcgregor Sias,Nicola Serianni,Tiffany Palmer,Beth Grossman,Leon Goodman,Craig Levin,Kendra Mccrae,Kay Yu,Laurie Dow,Vicki Markovitz,Jon Marshall,Terri M Booker,Janine D Momasso,Robert Trimble,Sherman Toppin,James F Berardinelli,Gregory Weyer,15
+Jim Kenney,0,0,0,15,12,10,13,5,8,7,7,6,6,5,4,4,3,3,4,2,2,2,1,3,2,3,1,0,15
+Alan Butkovitz,,1,0,2,5,6,2,7,1,3,3,2,1,3,2,2,1,1,1,3,2,1,2,0,1,0,1,1,15
+Anthony Hardy Williams,,,2,1,1,0,1,2,0,0,0,0,2,1,1,1,2,2,0,0,1,1,1,0,0,0,0,0,15
+Anthony Kyriakakis,,,,0,6,9,3,4,9,5,6,6,2,6,4,3,1,0,3,2,0,0,1,0,0,3,1,0,15
+Joshua Roberts,,,,,0,7,5,8,7,3,0,5,4,0,1,2,4,0,0,0,3,4,0,1,1,3,0,0,15
+James C Crumlish,,,,,,0,5,7,4,1,8,3,3,4,4,2,1,1,2,2,1,2,2,0,1,0,2,0,15
+Jennifer Schultz,,,,,,,0,6,3,3,2,2,6,2,1,1,2,4,1,2,3,3,1,2,1,0,0,0,15
+Wendi Barish,,,,,,,,0,3,2,2,3,3,3,2,2,2,3,0,2,3,3,3,1,0,0,0,0,15
+Carmella Jacquinto,,,,,,,,,0,3,1,5,1,0,0,0,0,1,0,0,1,0,0,1,1,3,0,0,15
+Cateria R Mccabe,,,,,,,,,,0,2,4,0,2,1,2,1,2,2,1,1,0,2,1,0,3,0,0,15
+Chris Hall,,,,,,,,,,,0,0,1,5,3,4,0,2,1,2,1,0,2,1,2,0,1,1,15
+Henry Mcgregor Sias,,,,,,,,,,,,0,0,1,1,0,1,0,3,1,1,1,0,0,0,2,1,0,15
+Nicola Serianni,,,,,,,,,,,,,0,1,0,1,3,2,0,1,2,3,0,2,0,0,0,0,15
+Tiffany Palmer,,,,,,,,,,,,,,0,3,2,1,2,2,2,0,0,2,0,1,0,0,1,15
+Beth Grossman,,,,,,,,,,,,,,,0,4,1,1,1,2,1,0,1,0,0,0,1,0,15
+Leon Goodman,,,,,,,,,,,,,,,,0,2,1,0,2,1,1,0,1,1,0,0,1,15
+Craig Levin,,,,,,,,,,,,,,,,,0,1,1,0,2,2,0,0,1,0,0,0,15
+Kendra Mccrae,,,,,,,,,,,,,,,,,,0,0,1,1,0,2,2,1,0,0,0,15
+Kay Yu,,,,,,,,,,,,,,,,,,,0,1,0,0,1,0,0,0,2,0,15
+Laurie Dow,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,1,0,1,1,15
+Vicki Markovitz,,,,,,,,,,,,,,,,,,,,,0,1,1,1,0,0,0,0,15
+Jon Marshall,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,15
+Terri M Booker,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,15
+Janine D Momasso,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,15
+Robert Trimble,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,1,15
+Sherman Toppin,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,15
+James F Berardinelli,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,15
+Gregory Weyer,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,15
+Total,31,12,6,20,18,16,16,14,11,10,10,9,9,9,7,7,6,6,5,5,5,4,4,3,3,3,2,1,15
+,Mayor - Democrat,,,Judge Of The Court Of Common Pleas - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,16
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Joshua Roberts,Jennifer Schultz,James C Crumlish,Anthony Kyriakakis,Wendi Barish,Carmella Jacquinto,Beth Grossman,Craig Levin,Nicola Serianni,Kay Yu,Henry Mcgregor Sias,Leon Goodman,Tiffany Palmer,Chris Hall,James F Berardinelli,Jon Marshall,Terri M Booker,Laurie Dow,Vicki Markovitz,Cateria R Mccabe,Gregory Weyer,Janine D Momasso,Robert Trimble,Kendra Mccrae,Sherman Toppin,16
+Jim Kenney,0,0,0,16,12,13,11,12,9,5,5,4,4,5,2,4,3,2,3,3,2,1,1,0,0,0,0,0,16
+Alan Butkovitz,,3,0,5,6,3,2,1,3,5,1,4,4,1,3,2,0,3,1,2,2,2,1,1,1,0,0,0,16
+Anthony Hardy Williams,,,1,4,2,3,3,2,0,1,4,1,0,2,1,0,2,0,1,0,0,1,0,1,0,1,0,0,16
+Joshua Roberts,,,,0,10,12,10,12,8,3,7,3,2,6,2,2,1,1,3,2,1,3,1,0,0,0,0,0,16
+Jennifer Schultz,,,,,0,3,3,4,4,6,6,6,6,2,1,4,3,2,3,2,2,3,0,1,0,0,0,0,16
+James C Crumlish,,,,,,1,13,9,4,5,3,4,1,5,2,1,2,3,0,0,0,1,1,0,1,0,0,0,16
+Anthony Kyriakakis,,,,,,,1,8,4,2,2,2,4,6,1,3,2,1,0,0,0,0,1,1,0,0,0,0,16
+Wendi Barish,,,,,,,,0,6,2,3,3,1,6,3,2,1,0,0,2,1,0,1,1,0,1,0,0,16
+Carmella Jacquinto,,,,,,,,,0,3,2,3,3,2,2,2,0,0,0,4,2,1,1,1,0,0,0,0,16
+Beth Grossman,,,,,,,,,,0,3,4,2,1,3,1,1,5,1,1,1,3,0,0,1,0,0,0,16
+Craig Levin,,,,,,,,,,,0,2,1,2,1,0,1,0,2,1,0,3,0,0,0,0,0,0,16
+Nicola Serianni,,,,,,,,,,,,0,2,0,1,1,1,2,0,1,1,3,0,1,1,0,0,0,16
+Kay Yu,,,,,,,,,,,,,0,1,3,3,1,1,1,3,1,0,1,1,0,0,0,0,16
+Henry Mcgregor Sias,,,,,,,,,,,,,,0,1,1,1,1,1,0,1,0,0,1,0,1,0,0,16
+Leon Goodman,,,,,,,,,,,,,,,0,0,1,1,1,2,1,1,1,1,0,1,0,0,16
+Tiffany Palmer,,,,,,,,,,,,,,,,0,2,0,0,1,1,0,0,0,0,0,0,0,16
+Chris Hall,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,1,0,1,0,0,16
+James F Berardinelli,,,,,,,,,,,,,,,,,,0,1,0,1,1,0,0,1,0,0,0,16
+Jon Marshall,,,,,,,,,,,,,,,,,,,0,1,2,0,1,0,0,0,0,0,16
+Terri M Booker,,,,,,,,,,,,,,,,,,,,0,3,0,1,0,0,0,0,0,16
+Laurie Dow,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,0,16
+Vicki Markovitz,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,16
+Cateria R Mccabe,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,16
+Gregory Weyer,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,16
+Janine D Momasso,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,16
+Robert Trimble,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,16
+Kendra Mccrae,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,16
+Sherman Toppin,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,16
+Total,27,14,9,25,21,20,17,15,12,11,10,10,9,8,6,6,5,5,5,5,4,4,2,2,1,1,0,0,16
+,Judge Of The Court Of Common Pleas - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,Mayor - Democrat,,,17
+,Jennifer Schultz,Joshua Roberts,Craig Levin,Wendi Barish,Cateria R Mccabe,Anthony Kyriakakis,Carmella Jacquinto,James C Crumlish,Jon Marshall,Kendra Mccrae,Nicola Serianni,Vicki Markovitz,Beth Grossman,Chris Hall,Leon Goodman,Tiffany Palmer,James F Berardinelli,Kay Yu,Terri M Booker,Henry Mcgregor Sias,Janine D Momasso,Laurie Dow,Gregory Weyer,Robert Trimble,Sherman Toppin,Alan Butkovitz,Jim Kenney,Anthony Hardy Williams,17
+Jennifer Schultz,0,5,9,3,2,2,5,4,5,3,2,5,4,3,3,1,1,1,1,1,2,2,0,0,0,8,9,3,17
+Joshua Roberts,,0,3,4,4,3,3,3,3,1,3,1,1,0,2,1,0,0,2,1,0,0,0,0,0,6,7,2,17
+Craig Levin,,,0,1,0,2,1,3,3,0,1,2,2,1,2,0,1,0,1,1,1,1,0,0,0,6,4,1,17
+Wendi Barish,,,,0,4,3,5,2,0,1,3,2,2,1,1,2,0,0,2,1,1,0,0,0,0,0,9,1,17
+Cateria R Mccabe,,,,,1,4,3,1,0,4,4,1,0,2,1,2,1,1,1,1,0,1,1,0,0,1,4,3,17
+Anthony Kyriakakis,,,,,,0,3,3,0,1,3,0,0,0,0,2,2,2,0,2,0,0,1,0,0,4,3,1,17
+Carmella Jacquinto,,,,,,,0,2,0,2,3,2,2,2,2,1,0,1,1,0,1,0,0,0,0,1,5,2,17
+James C Crumlish,,,,,,,,0,1,1,0,1,0,2,1,1,2,3,1,1,1,1,1,0,0,5,3,0,17
+Jon Marshall,,,,,,,,,0,0,0,2,1,0,0,0,1,0,0,0,0,0,0,0,0,2,3,0,17
+Kendra Mccrae,,,,,,,,,,0,1,1,0,3,1,2,0,1,1,1,0,1,0,0,0,0,3,2,17
+Nicola Serianni,,,,,,,,,,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2,2,17
+Vicki Markovitz,,,,,,,,,,,,0,3,0,0,1,1,0,0,0,1,1,0,0,0,1,3,1,17
+Beth Grossman,,,,,,,,,,,,,0,0,1,1,1,0,1,0,1,0,0,0,0,0,3,1,17
+Chris Hall,,,,,,,,,,,,,,0,1,1,0,1,1,0,1,1,0,0,0,1,2,1,17
+Leon Goodman,,,,,,,,,,,,,,,0,0,0,0,2,0,0,0,0,0,0,1,1,2,17
+Tiffany Palmer,,,,,,,,,,,,,,,,0,1,1,1,1,0,0,0,0,0,1,3,0,17
+James F Berardinelli,,,,,,,,,,,,,,,,,0,2,0,0,0,0,1,0,0,2,1,0,17
+Kay Yu,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,0,2,1,0,17
+Terri M Booker,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,2,1,17
+Henry Mcgregor Sias,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,2,0,17
+Janine D Momasso,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,1,1,0,17
+Laurie Dow,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,1,17
+Gregory Weyer,,,,,,,,,,,,,,,,,,,,,,,0,0,0,1,0,0,17
+Robert Trimble,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,17
+Sherman Toppin,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,17
+Alan Butkovitz,,,,,,,,,,,,,,,,,,,,,,,,,,2,0,0,17
+Jim Kenney,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,17
+Anthony Hardy Williams,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,17
+Total,20,15,11,10,9,8,8,8,5,5,5,5,4,4,4,4,3,3,3,2,2,2,1,0,0,19,18,6,17
+,Judge Of The Court Of Common Pleas - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,Mayor - Democrat,,,18
+,Anthony Kyriakakis,Jennifer Schultz,Nicola Serianni,Wendi Barish,Carmella Jacquinto,Joshua Roberts,Beth Grossman,James C Crumlish,Cateria R Mccabe,Craig Levin,Chris Hall,James F Berardinelli,Vicki Markovitz,Jon Marshall,Kay Yu,Tiffany Palmer,Janine D Momasso,Leon Goodman,Gregory Weyer,Kendra Mccrae,Laurie Dow,Henry Mcgregor Sias,Robert Trimble,Sherman Toppin,Terri M Booker,Alan Butkovitz,Jim Kenney,Anthony Hardy Williams,18
+Anthony Kyriakakis,1,4,6,6,6,7,4,6,4,3,3,3,2,3,4,2,2,2,1,1,0,1,0,0,0,7,8,1,18
+Jennifer Schultz,,1,4,3,3,1,5,0,1,3,0,1,3,2,1,3,1,1,1,2,1,1,0,0,0,7,4,3,18
+Nicola Serianni,,,3,2,2,3,1,1,4,2,0,1,1,3,1,0,2,0,0,1,0,0,0,0,0,2,4,3,18
+Wendi Barish,,,,0,7,4,2,2,3,1,0,1,3,0,2,2,0,1,0,0,1,0,0,0,0,4,6,0,18
+Carmella Jacquinto,,,,,0,6,4,2,2,0,0,1,2,0,1,1,0,0,0,0,1,1,0,0,0,4,5,0,18
+Joshua Roberts,,,,,,0,2,3,2,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,3,5,0,18
+Beth Grossman,,,,,,,0,0,0,1,1,1,3,1,0,2,1,2,1,1,1,1,0,0,0,4,3,0,18
+James C Crumlish,,,,,,,,0,0,1,3,2,0,0,2,1,0,0,1,0,0,0,0,0,0,1,5,0,18
+Cateria R Mccabe,,,,,,,,,0,0,0,0,0,2,1,0,1,0,0,1,0,0,0,0,0,2,3,1,18
+Craig Levin,,,,,,,,,,0,0,3,2,1,0,0,1,1,0,0,0,0,0,0,0,4,1,1,18
+Chris Hall,,,,,,,,,,,0,1,1,0,1,1,1,1,1,0,0,0,1,0,0,0,3,1,18
+James F Berardinelli,,,,,,,,,,,,0,2,0,0,0,1,1,0,0,0,0,0,0,0,3,0,1,18
+Vicki Markovitz,,,,,,,,,,,,,0,0,0,1,2,2,0,0,1,0,0,0,0,2,2,1,18
+Jon Marshall,,,,,,,,,,,,,,0,1,0,1,0,0,1,0,0,0,0,0,3,0,1,18
+Kay Yu,,,,,,,,,,,,,,,0,2,1,0,1,0,0,0,0,0,0,2,2,0,18
+Tiffany Palmer,,,,,,,,,,,,,,,,0,0,1,2,1,0,0,0,0,0,1,3,0,18
+Janine D Momasso,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,0,0,1,1,1,18
+Leon Goodman,,,,,,,,,,,,,,,,,,0,1,1,0,0,0,0,0,1,2,0,18
+Gregory Weyer,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,0,2,0,18
+Kendra Mccrae,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,1,1,18
+Laurie Dow,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,1,18
+Henry Mcgregor Sias,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,18
+Robert Trimble,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,18
+Sherman Toppin,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,18
+Terri M Booker,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,18
+Alan Butkovitz,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,18
+Jim Kenney,,,,,,,,,,,,,,,,,,,,,,,,,,,2,0,18
+Anthony Hardy Williams,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,18
+Total,17,15,12,10,9,8,7,7,6,6,5,5,5,4,4,4,3,3,2,2,2,1,1,0,0,16,16,6,18
+,Mayor - Democrat,,,Judge Of The Court Of Common Pleas - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,19
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Joshua Roberts,Wendi Barish,James C Crumlish,Jennifer Schultz,Anthony Kyriakakis,Beth Grossman,Carmella Jacquinto,Nicola Serianni,Cateria R Mccabe,Chris Hall,Craig Levin,James F Berardinelli,Janine D Momasso,Tiffany Palmer,Vicki Markovitz,Henry Mcgregor Sias,Laurie Dow,Gregory Weyer,Jon Marshall,Leon Goodman,Terri M Booker,Kay Yu,Kendra Mccrae,Robert Trimble,Sherman Toppin,19
+Jim Kenney,1,0,0,9,9,8,4,6,1,4,2,3,2,2,1,2,3,2,3,0,1,1,0,2,0,0,0,0,19
+Alan Butkovitz,,1,0,3,1,2,2,1,3,1,1,2,3,2,3,2,1,2,0,2,1,0,2,0,0,1,1,1,19
+Anthony Hardy Williams,,,1,1,2,1,3,1,2,1,3,0,0,1,1,1,1,1,0,1,0,1,0,0,1,0,0,0,19
+Joshua Roberts,,,,0,6,8,4,5,2,4,2,1,1,2,0,2,1,1,3,0,0,1,0,1,0,0,0,1,19
+Wendi Barish,,,,,0,5,2,5,3,4,3,3,3,0,1,2,3,3,3,2,0,0,0,2,1,0,1,0,19
+James C Crumlish,,,,,,0,2,5,1,4,2,3,2,2,1,1,1,0,3,0,1,1,0,0,0,1,0,1,19
+Jennifer Schultz,,,,,,,0,0,3,0,2,0,1,2,1,3,1,3,0,1,0,2,0,0,0,0,0,1,19
+Anthony Kyriakakis,,,,,,,,0,0,4,2,2,1,0,1,0,1,0,3,0,0,0,0,1,0,0,0,0,19
+Beth Grossman,,,,,,,,,0,2,1,0,2,1,1,2,2,3,0,2,1,0,2,0,1,0,0,1,19
+Carmella Jacquinto,,,,,,,,,,0,0,0,0,1,0,1,2,0,3,1,0,0,1,0,1,0,0,0,19
+Nicola Serianni,,,,,,,,,,,0,2,1,1,1,1,1,2,0,1,0,1,0,2,0,1,0,0,19
+Cateria R Mccabe,,,,,,,,,,,,0,2,1,2,1,1,0,0,1,1,0,0,1,0,1,1,0,19
+Chris Hall,,,,,,,,,,,,,0,0,2,0,2,2,0,1,1,0,1,1,0,0,1,1,19
+Craig Levin,,,,,,,,,,,,,,0,1,0,1,0,0,1,1,2,1,0,0,0,0,0,19
+James F Berardinelli,,,,,,,,,,,,,,,0,1,0,2,0,1,2,0,1,0,0,0,1,0,19
+Janine D Momasso,,,,,,,,,,,,,,,,0,2,2,0,0,0,0,0,0,1,1,0,0,19
+Tiffany Palmer,,,,,,,,,,,,,,,,,0,1,0,1,0,0,1,1,1,0,0,0,19
+Vicki Markovitz,,,,,,,,,,,,,,,,,,0,0,1,1,0,1,1,0,0,0,0,19
+Henry Mcgregor Sias,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,19
+Laurie Dow,,,,,,,,,,,,,,,,,,,,0,0,0,1,0,0,0,1,0,19
+Gregory Weyer,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,0,19
+Jon Marshall,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,19
+Leon Goodman,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,19
+Terri M Booker,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,19
+Kay Yu,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,19
+Kendra Mccrae,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,19
+Robert Trimble,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,19
+Sherman Toppin,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,19
+Total,16,10,6,13,12,11,9,8,6,6,6,5,5,5,5,5,5,5,3,3,2,2,2,2,1,1,1,1,19
+,Mayor - Democrat,,,Judge Of The Court Of Common Pleas - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,20
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Jennifer Schultz,Carmella Jacquinto,Joshua Roberts,Nicola Serianni,Wendi Barish,James C Crumlish,Anthony Kyriakakis,Beth Grossman,Cateria R Mccabe,Kendra Mccrae,Jon Marshall,Terri M Booker,Craig Levin,James F Berardinelli,Janine D Momasso,Tiffany Palmer,Henry Mcgregor Sias,Laurie Dow,Chris Hall,Kay Yu,Leon Goodman,Gregory Weyer,Sherman Toppin,Vicki Markovitz,Robert Trimble,20
+Jim Kenney,2,0,0,18,9,8,10,9,10,7,5,4,8,4,2,4,3,3,4,4,4,4,2,3,1,1,2,1,20
+Alan Butkovitz,,7,0,3,3,3,1,1,0,1,2,2,0,3,3,1,2,2,0,1,0,0,2,1,0,1,1,0,20
+Anthony Hardy Williams,,,2,3,2,2,2,3,1,2,1,2,0,0,2,1,1,1,1,0,1,0,0,0,2,1,0,0,20
+Jennifer Schultz,,,,0,4,4,6,6,6,4,4,5,5,5,2,4,3,0,3,1,5,3,1,2,2,0,1,1,20
+Carmella Jacquinto,,,,,0,6,3,4,6,6,2,2,2,3,4,2,3,4,1,3,2,0,2,2,1,2,2,0,20
+Joshua Roberts,,,,,,0,2,5,7,3,2,1,1,4,3,3,0,1,2,2,1,1,0,2,1,2,1,0,20
+Nicola Serianni,,,,,,,0,6,1,3,3,4,4,1,0,2,1,3,2,2,1,2,2,1,0,0,0,0,20
+Wendi Barish,,,,,,,,0,4,2,5,4,4,1,3,1,0,1,1,3,2,1,1,2,1,0,1,0,20
+James C Crumlish,,,,,,,,,0,5,1,1,2,1,1,3,2,0,2,2,2,2,1,1,1,1,0,1,20
+Anthony Kyriakakis,,,,,,,,,,0,0,1,0,0,1,1,3,3,4,4,1,1,3,0,0,0,0,0,20
+Beth Grossman,,,,,,,,,,,0,3,4,2,1,0,1,1,0,1,2,0,1,0,1,0,1,0,20
+Cateria R Mccabe,,,,,,,,,,,,0,1,0,2,1,2,1,1,2,2,2,1,0,1,0,0,0,20
+Kendra Mccrae,,,,,,,,,,,,,0,1,1,2,1,2,0,0,2,1,0,2,0,0,2,1,20
+Jon Marshall,,,,,,,,,,,,,,0,2,2,0,1,0,0,1,1,0,1,1,1,1,0,20
+Terri M Booker,,,,,,,,,,,,,,,0,0,2,2,1,1,1,0,1,3,1,1,2,0,20
+Craig Levin,,,,,,,,,,,,,,,,0,0,1,0,0,0,2,1,1,1,1,0,0,20
+James F Berardinelli,,,,,,,,,,,,,,,,,0,2,2,0,1,1,1,1,0,0,1,0,20
+Janine D Momasso,,,,,,,,,,,,,,,,,,0,2,1,0,1,2,0,0,0,2,0,20
+Tiffany Palmer,,,,,,,,,,,,,,,,,,,0,1,1,2,1,0,0,0,0,0,20
+Henry Mcgregor Sias,,,,,,,,,,,,,,,,,,,,0,0,0,2,0,0,0,0,0,20
+Laurie Dow,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,0,20
+Chris Hall,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,20
+Kay Yu,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,20
+Leon Goodman,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,1,0,20
+Gregory Weyer,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,20
+Sherman Toppin,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,20
+Vicki Markovitz,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,20
+Robert Trimble,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,20
+Total,32,15,10,24,14,14,13,13,11,10,8,8,8,7,7,6,6,6,6,5,5,4,4,4,3,3,3,1,20
+,Judge Of The Court Of Common Pleas - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,Mayor - Democrat,,,21
+,Jennifer Schultz,Tiffany Palmer,Joshua Roberts,Anthony Kyriakakis,Craig Levin,James C Crumlish,Wendi Barish,Beth Grossman,James F Berardinelli,Carmella Jacquinto,Nicola Serianni,Chris Hall,Vicki Markovitz,Cateria R Mccabe,Henry Mcgregor Sias,Jon Marshall,Kay Yu,Kendra Mccrae,Laurie Dow,Terri M Booker,Gregory Weyer,Janine D Momasso,Robert Trimble,Leon Goodman,Sherman Toppin,Alan Butkovitz,Jim Kenney,Anthony Hardy Williams,21
+Jennifer Schultz,1,6,3,2,7,3,3,4,3,1,4,1,3,2,1,3,3,3,3,1,2,2,1,0,0,6,7,2,21
+Tiffany Palmer,,1,0,3,2,4,2,3,3,0,3,3,3,1,0,0,2,1,2,2,1,0,0,0,0,4,4,1,21
+Joshua Roberts,,,1,3,3,3,5,1,1,3,0,0,0,1,2,3,0,0,0,1,0,0,0,1,0,2,6,1,21
+Anthony Kyriakakis,,,,0,1,4,3,0,1,2,0,1,0,2,3,0,1,0,0,0,0,0,0,0,0,2,5,2,21
+Craig Levin,,,,,0,3,2,1,1,1,1,2,2,1,1,3,0,1,1,1,0,1,1,0,0,4,4,1,21
+James C Crumlish,,,,,,0,3,0,1,2,0,3,1,1,2,1,1,0,0,2,0,0,0,1,0,2,5,0,21
+Wendi Barish,,,,,,,0,3,2,3,1,0,0,1,2,1,0,0,1,1,0,0,0,1,0,0,6,1,21
+Beth Grossman,,,,,,,,0,4,0,2,0,0,0,0,0,1,1,1,1,1,1,0,0,0,3,2,1,21
+James F Berardinelli,,,,,,,,,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,2,3,0,21
+Carmella Jacquinto,,,,,,,,,,0,1,1,0,1,2,0,0,1,0,1,0,0,2,1,0,1,4,0,21
+Nicola Serianni,,,,,,,,,,,0,0,2,1,0,0,0,0,2,1,1,1,0,0,0,3,1,1,21
+Chris Hall,,,,,,,,,,,,0,1,0,0,0,0,1,0,1,0,0,1,0,0,1,2,0,21
+Vicki Markovitz,,,,,,,,,,,,,0,1,0,0,1,1,2,1,1,1,0,0,0,3,0,1,21
+Cateria R Mccabe,,,,,,,,,,,,,,0,2,0,0,0,0,0,1,0,0,0,0,1,1,1,21
+Henry Mcgregor Sias,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,0,1,2,0,21
+Jon Marshall,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,1,2,0,21
+Kay Yu,,,,,,,,,,,,,,,,,0,2,1,0,1,1,0,0,0,1,1,1,21
+Kendra Mccrae,,,,,,,,,,,,,,,,,,0,1,0,1,1,1,0,0,1,1,1,21
+Laurie Dow,,,,,,,,,,,,,,,,,,,0,0,0,1,0,0,0,2,1,0,21
+Terri M Booker,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,2,1,0,21
+Gregory Weyer,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,2,21
+Janine D Momasso,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,1,21
+Robert Trimble,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,21
+Leon Goodman,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,1,0,21
+Sherman Toppin,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,21
+Alan Butkovitz,,,,,,,,,,,,,,,,,,,,,,,,,,4,0,0,21
+Jim Kenney,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,21
+Anthony Hardy Williams,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,21
+Total,16,11,10,9,9,8,8,7,7,6,5,4,4,3,3,3,3,3,3,3,2,2,2,1,0,15,14,5,21
+,Judge Of The Court Of Common Pleas - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,Mayor - Democrat,,,22
+,Jennifer Schultz,Craig Levin,Beth Grossman,Tiffany Palmer,Anthony Kyriakakis,James C Crumlish,Nicola Serianni,Cateria R Mccabe,Joshua Roberts,Leon Goodman,Wendi Barish,Carmella Jacquinto,James F Berardinelli,Janine D Momasso,Jon Marshall,Kendra Mccrae,Kay Yu,Chris Hall,Gregory Weyer,Henry Mcgregor Sias,Robert Trimble,Sherman Toppin,Terri M Booker,Vicki Markovitz,Laurie Dow,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,22
+Jennifer Schultz,0,6,5,3,2,2,4,2,1,1,3,0,1,3,2,2,0,1,1,0,0,1,0,1,0,5,2,4,22
+Craig Levin,,0,3,0,2,2,1,1,2,2,2,0,2,1,1,2,0,1,0,1,1,1,0,0,0,3,4,2,22
+Beth Grossman,,,0,2,1,1,4,2,0,1,2,0,1,2,1,1,0,0,0,0,1,0,1,1,0,3,2,4,22
+Tiffany Palmer,,,,0,0,1,3,3,1,2,1,2,2,1,2,1,2,0,1,1,1,0,1,1,1,4,0,4,22
+Anthony Kyriakakis,,,,,0,3,0,1,1,0,1,2,1,1,0,0,0,2,0,0,1,0,0,0,0,3,2,1,22
+James C Crumlish,,,,,,0,0,0,2,2,1,1,3,0,1,0,0,2,1,1,1,0,0,0,0,2,3,1,22
+Nicola Serianni,,,,,,,0,3,0,1,2,0,1,2,0,2,0,0,0,0,1,0,0,1,1,4,0,2,22
+Cateria R Mccabe,,,,,,,,0,0,1,1,0,1,3,0,2,1,0,1,0,1,1,0,0,1,2,0,3,22
+Joshua Roberts,,,,,,,,,0,1,1,1,1,0,1,0,1,0,0,1,0,0,0,1,0,1,1,2,22
+Leon Goodman,,,,,,,,,,0,1,1,1,0,1,2,1,0,0,1,0,1,1,0,1,1,2,2,22
+Wendi Barish,,,,,,,,,,,0,1,0,1,1,2,0,0,0,0,0,1,1,0,0,3,0,2,22
+Carmella Jacquinto,,,,,,,,,,,,0,0,0,1,0,1,0,0,1,0,0,1,0,0,2,1,1,22
+James F Berardinelli,,,,,,,,,,,,,0,0,1,0,0,1,1,1,2,0,0,0,0,1,1,2,22
+Janine D Momasso,,,,,,,,,,,,,,0,0,1,1,0,1,0,0,1,0,1,0,1,0,3,22
+Jon Marshall,,,,,,,,,,,,,,,0,0,1,0,1,0,0,0,2,0,0,0,0,3,22
+Kendra Mccrae,,,,,,,,,,,,,,,,0,1,0,1,0,0,2,0,0,1,2,0,2,22
+Kay Yu,,,,,,,,,,,,,,,,,0,0,1,0,0,1,1,1,0,0,0,3,22
+Chris Hall,,,,,,,,,,,,,,,,,,0,0,0,1,0,0,0,0,1,1,0,22
+Gregory Weyer,,,,,,,,,,,,,,,,,,,0,0,0,1,0,0,0,0,0,2,22
+Henry Mcgregor Sias,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,1,1,0,22
+Robert Trimble,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,1,22
+Sherman Toppin,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,2,22
+Terri M Booker,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,2,22
+Vicki Markovitz,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,2,22
+Laurie Dow,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,22
+Jim Kenney,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,22
+Alan Butkovitz,,,,,,,,,,,,,,,,,,,,,,,,,,,3,0,22
+Anthony Hardy Williams,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,22
+Total,12,10,9,8,6,6,6,5,5,5,5,4,4,4,4,4,3,2,2,2,2,2,2,2,1,11,10,10,22
+,Mayor - Democrat,,,Judge Of The Court Of Common Pleas - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,23
+,Jim Kenney,Anthony Hardy Williams,Alan Butkovitz,Jennifer Schultz,Craig Levin,Nicola Serianni,Anthony Kyriakakis,Joshua Roberts,Carmella Jacquinto,Wendi Barish,Beth Grossman,Cateria R Mccabe,James C Crumlish,Tiffany Palmer,Jon Marshall,Kendra Mccrae,Leon Goodman,Vicki Markovitz,Chris Hall,James F Berardinelli,Kay Yu,Henry Mcgregor Sias,Janine D Momasso,Laurie Dow,Terri M Booker,Gregory Weyer,Robert Trimble,Sherman Toppin,23
+Jim Kenney,5,0,0,6,5,6,3,4,3,4,1,1,3,2,2,3,1,1,0,1,0,1,1,1,0,0,0,0,23
+Anthony Hardy Williams,,2,0,3,4,3,3,2,1,1,2,3,2,2,0,1,1,2,1,1,1,0,0,0,0,0,0,0,23
+Alan Butkovitz,,,0,4,2,2,1,1,2,1,2,1,0,1,2,0,2,1,2,0,1,0,0,0,1,0,0,0,23
+Jennifer Schultz,,,,0,5,6,2,3,3,3,3,3,1,3,4,2,2,2,2,0,2,0,1,1,0,0,0,0,23
+Craig Levin,,,,,0,5,3,4,0,3,3,2,2,1,3,1,1,2,1,1,0,0,0,0,0,0,0,0,23
+Nicola Serianni,,,,,,0,2,2,2,2,3,3,1,3,2,2,2,4,1,1,1,0,1,1,1,0,0,0,23
+Anthony Kyriakakis,,,,,,,1,3,3,3,1,2,3,1,0,3,3,1,1,2,1,1,0,0,0,0,0,0,23
+Joshua Roberts,,,,,,,,0,2,3,1,1,3,1,3,1,2,0,1,2,0,1,0,0,0,0,0,0,23
+Carmella Jacquinto,,,,,,,,,0,1,0,2,2,1,1,2,2,0,2,0,1,1,1,0,0,0,0,0,23
+Wendi Barish,,,,,,,,,,0,2,0,2,3,1,1,0,2,0,1,0,1,0,1,1,0,0,0,23
+Beth Grossman,,,,,,,,,,,0,2,0,2,1,1,0,1,1,0,1,0,0,0,1,0,0,0,23
+Cateria R Mccabe,,,,,,,,,,,,0,0,1,0,1,2,1,0,0,2,0,1,0,0,0,0,0,23
+James C Crumlish,,,,,,,,,,,,,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,23
+Tiffany Palmer,,,,,,,,,,,,,,0,1,1,0,2,1,0,1,0,0,1,1,0,0,0,23
+Jon Marshall,,,,,,,,,,,,,,,0,0,1,0,2,0,0,0,0,0,0,0,0,0,23
+Kendra Mccrae,,,,,,,,,,,,,,,,0,1,0,1,1,0,0,1,0,0,0,0,0,23
+Leon Goodman,,,,,,,,,,,,,,,,,0,1,1,1,1,0,0,0,0,0,0,0,23
+Vicki Markovitz,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,1,1,0,0,0,23
+Chris Hall,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,23
+James F Berardinelli,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,23
+Kay Yu,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,23
+Henry Mcgregor Sias,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,23
+Janine D Momasso,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,23
+Laurie Dow,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,23
+Terri M Booker,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,23
+Gregory Weyer,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,23
+Robert Trimble,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,23
+Sherman Toppin,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,23
+Total,17,9,6,13,11,11,8,7,6,6,5,5,5,5,4,4,4,4,3,2,2,1,1,1,1,0,0,0,23
+,Mayor - Democrat,,,Judge Of The Court Of Common Pleas - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,24
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Jennifer Schultz,Joshua Roberts,Anthony Kyriakakis,Beth Grossman,Nicola Serianni,James C Crumlish,Carmella Jacquinto,Craig Levin,Wendi Barish,Chris Hall,Tiffany Palmer,Vicki Markovitz,Kendra Mccrae,Sherman Toppin,Henry Mcgregor Sias,James F Berardinelli,Kay Yu,Laurie Dow,Robert Trimble,Cateria R Mccabe,Janine D Momasso,Terri M Booker,Jon Marshall,Leon Goodman,Gregory Weyer,24
+Jim Kenney,1,0,0,7,5,7,4,6,4,6,3,4,5,6,3,3,4,1,0,2,0,1,2,2,2,0,0,0,24
+Alan Butkovitz,,1,0,4,5,4,5,5,5,3,3,4,2,0,2,0,1,2,2,1,2,0,0,0,0,1,1,0,24
+Anthony Hardy Williams,,,1,2,3,1,3,0,2,1,3,2,1,2,2,2,0,1,0,0,1,1,0,0,0,0,0,0,24
+Jennifer Schultz,,,,0,1,2,6,3,1,4,2,4,3,2,1,3,1,1,1,0,1,0,1,1,2,1,1,0,24
+Joshua Roberts,,,,,0,5,4,1,5,5,3,4,0,1,2,2,2,4,0,0,2,1,1,0,0,0,0,0,24
+Anthony Kyriakakis,,,,,,0,4,2,7,5,2,6,5,6,2,0,1,2,0,2,0,0,0,0,1,0,0,0,24
+Beth Grossman,,,,,,,0,5,3,3,5,4,3,2,1,5,0,1,1,1,2,1,0,1,1,1,1,0,24
+Nicola Serianni,,,,,,,,0,1,3,6,0,4,1,2,2,1,1,2,2,1,2,0,1,0,1,1,0,24
+James C Crumlish,,,,,,,,,0,2,1,6,5,5,3,0,0,1,0,2,0,1,0,0,0,0,0,0,24
+Carmella Jacquinto,,,,,,,,,,0,2,4,0,1,1,1,3,4,0,0,0,0,2,1,1,0,0,0,24
+Craig Levin,,,,,,,,,,,0,1,3,0,2,3,0,1,1,0,2,2,0,1,0,0,0,0,24
+Wendi Barish,,,,,,,,,,,,0,3,5,3,1,2,1,0,0,0,1,1,1,2,0,0,0,24
+Chris Hall,,,,,,,,,,,,,0,5,4,1,1,0,1,2,1,1,0,0,0,0,0,0,24
+Tiffany Palmer,,,,,,,,,,,,,,0,3,1,1,0,0,2,0,1,0,0,2,0,0,0,24
+Vicki Markovitz,,,,,,,,,,,,,,,0,1,2,0,2,1,1,2,0,0,0,0,0,0,24
+Kendra Mccrae,,,,,,,,,,,,,,,,0,0,1,0,0,1,1,0,1,1,0,0,0,24
+Sherman Toppin,,,,,,,,,,,,,,,,,0,1,0,0,1,0,2,1,0,0,0,0,24
+Henry Mcgregor Sias,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,0,0,0,0,24
+James F Berardinelli,,,,,,,,,,,,,,,,,,,0,0,0,1,0,0,0,1,1,0,24
+Kay Yu,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,24
+Laurie Dow,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,24
+Robert Trimble,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,24
+Cateria R Mccabe,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,24
+Janine D Momasso,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,24
+Terri M Booker,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,24
+Jon Marshall,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,24
+Leon Goodman,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,24
+Gregory Weyer,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,24
+Total,21,14,8,13,13,12,12,12,11,10,10,10,9,8,8,5,5,4,3,3,3,3,2,2,2,1,1,0,24
+,Judge Of The Court Of Common Pleas - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,Mayor - Democrat,,,25
+,Joshua Roberts,Anthony Kyriakakis,Jennifer Schultz,Carmella Jacquinto,Nicola Serianni,James C Crumlish,Wendi Barish,Craig Levin,Jon Marshall,Tiffany Palmer,Chris Hall,Beth Grossman,Henry Mcgregor Sias,James F Berardinelli,Leon Goodman,Terri M Booker,Vicki Markovitz,Janine D Momasso,Robert Trimble,Sherman Toppin,Kay Yu,Kendra Mccrae,Laurie Dow,Cateria R Mccabe,Gregory Weyer,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,25
+Joshua Roberts,0,7,9,6,5,8,7,6,6,4,2,4,4,2,4,2,2,2,2,2,1,1,1,1,0,10,7,6,25
+Anthony Kyriakakis,,0,1,5,1,7,6,0,0,7,6,3,5,2,0,0,2,1,2,0,1,0,1,0,0,4,7,2,25
+Jennifer Schultz,,,0,4,4,2,1,5,7,1,1,1,2,1,3,1,1,0,1,0,0,1,1,1,0,9,3,1,25
+Carmella Jacquinto,,,,0,3,3,2,2,1,1,1,2,5,0,2,0,1,1,1,1,0,1,0,0,0,6,4,1,25
+Nicola Serianni,,,,,1,2,3,2,2,0,1,2,1,1,0,2,0,0,0,0,1,1,0,1,0,5,5,1,25
+James C Crumlish,,,,,,0,3,3,2,4,4,2,3,0,1,0,0,1,0,1,1,1,1,0,0,5,4,2,25
+Wendi Barish,,,,,,,0,0,1,2,1,1,2,4,0,1,3,2,2,1,0,0,0,0,0,2,7,1,25
+Craig Levin,,,,,,,,0,5,0,1,1,0,0,2,2,0,1,0,1,1,1,1,0,0,6,2,2,25
+Jon Marshall,,,,,,,,,0,0,0,0,0,1,2,1,0,0,0,0,0,0,1,0,0,5,2,2,25
+Tiffany Palmer,,,,,,,,,,0,6,2,2,1,1,1,1,1,1,1,1,0,1,0,0,2,3,3,25
+Chris Hall,,,,,,,,,,,0,2,2,1,0,1,1,0,0,0,2,0,1,0,0,2,3,2,25
+Beth Grossman,,,,,,,,,,,,0,2,1,1,2,1,0,1,1,1,0,0,0,0,3,1,2,25
+Henry Mcgregor Sias,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,1,0,0,3,1,1,25
+James F Berardinelli,,,,,,,,,,,,,,0,0,0,3,1,1,1,0,0,0,0,0,0,4,0,25
+Leon Goodman,,,,,,,,,,,,,,,0,1,1,0,1,1,0,0,0,0,0,2,0,2,25
+Terri M Booker,,,,,,,,,,,,,,,,0,0,0,0,1,1,0,1,0,0,2,0,2,25
+Vicki Markovitz,,,,,,,,,,,,,,,,,0,1,2,1,0,0,0,0,0,1,3,0,25
+Janine D Momasso,,,,,,,,,,,,,,,,,,0,1,2,0,1,0,0,0,2,1,0,25
+Robert Trimble,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,2,1,0,25
+Sherman Toppin,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,1,1,1,25
+Kay Yu,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,1,0,25
+Kendra Mccrae,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,1,1,0,25
+Laurie Dow,,,,,,,,,,,,,,,,,,,,,,,0,0,0,1,0,1,25
+Cateria R Mccabe,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,1,0,25
+Gregory Weyer,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,25
+Jim Kenney,,,,,,,,,,,,,,,,,,,,,,,,,,4,0,0,25
+Alan Butkovitz,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,25
+Anthony Hardy Williams,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,25
+Total,24,14,13,12,12,11,11,10,9,8,7,6,6,4,4,4,4,3,3,3,2,2,2,1,0,22,20,11,25
+,Judge Of The Court Of Common Pleas - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,Mayor - Democrat,,,26
+,Jennifer Schultz,Wendi Barish,Joshua Roberts,Beth Grossman,Craig Levin,Nicola Serianni,Tiffany Palmer,James F Berardinelli,Terri M Booker,Laurie Dow,Vicki Markovitz,Carmella Jacquinto,Cateria R Mccabe,James C Crumlish,Kay Yu,Kendra Mccrae,Jon Marshall,Anthony Kyriakakis,Janine D Momasso,Leon Goodman,Chris Hall,Sherman Toppin,Robert Trimble,Gregory Weyer,Henry Mcgregor Sias,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,26
+Jennifer Schultz,2,9,6,9,10,7,6,5,6,6,5,3,6,4,6,1,6,3,2,0,2,0,2,0,0,14,9,6,26
+Wendi Barish,,1,4,6,3,5,4,6,3,3,8,5,4,3,5,3,3,2,4,1,2,1,0,0,0,7,3,7,26
+Joshua Roberts,,,0,0,6,5,1,1,6,3,1,3,1,3,2,2,4,3,1,3,3,1,1,0,1,7,4,5,26
+Beth Grossman,,,,0,4,4,7,5,3,5,3,3,4,2,5,2,1,3,0,1,1,0,0,1,0,8,5,3,26
+Craig Levin,,,,,0,4,4,4,3,2,2,1,2,3,2,1,7,3,0,1,1,1,2,1,0,6,5,4,26
+Nicola Serianni,,,,,,0,4,3,0,5,3,3,2,2,1,4,3,3,2,1,1,0,2,2,0,8,7,0,26
+Tiffany Palmer,,,,,,,0,6,6,6,4,2,3,3,4,3,1,4,2,2,2,2,1,1,0,7,2,7,26
+James F Berardinelli,,,,,,,,0,0,4,6,1,2,2,3,2,3,1,4,1,1,0,1,0,1,4,7,3,26
+Terri M Booker,,,,,,,,,0,3,2,2,3,2,4,5,1,1,1,5,3,4,0,0,0,5,1,7,26
+Laurie Dow,,,,,,,,,,0,2,2,1,1,2,3,0,0,2,2,2,1,1,2,0,6,2,4,26
+Vicki Markovitz,,,,,,,,,,,0,2,1,0,2,4,4,0,2,1,1,1,1,0,1,6,3,3,26
+Carmella Jacquinto,,,,,,,,,,,,0,2,2,3,2,1,1,2,1,0,1,0,1,2,9,0,2,26
+Cateria R Mccabe,,,,,,,,,,,,,0,0,2,3,1,1,4,2,2,2,0,0,0,5,2,4,26
+James C Crumlish,,,,,,,,,,,,,,0,1,0,2,4,0,1,2,0,0,0,0,3,4,2,26
+Kay Yu,,,,,,,,,,,,,,,0,0,0,2,3,1,0,1,0,0,0,4,2,4,26
+Kendra Mccrae,,,,,,,,,,,,,,,,0,1,0,2,5,2,4,0,1,1,5,2,4,26
+Jon Marshall,,,,,,,,,,,,,,,,,0,1,0,0,1,0,2,0,1,4,4,1,26
+Anthony Kyriakakis,,,,,,,,,,,,,,,,,,0,0,0,2,0,0,0,1,4,0,2,26
+Janine D Momasso,,,,,,,,,,,,,,,,,,,0,2,0,2,0,0,0,3,2,2,26
+Leon Goodman,,,,,,,,,,,,,,,,,,,,0,1,3,0,1,0,4,1,2,26
+Chris Hall,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,1,0,5,26
+Sherman Toppin,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,2,0,3,26
+Robert Trimble,,,,,,,,,,,,,,,,,,,,,,,0,0,0,3,0,0,26
+Gregory Weyer,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,1,0,26
+Henry Mcgregor Sias,,,,,,,,,,,,,,,,,,,,,,,,,0,2,0,0,26
+Jim Kenney,,,,,,,,,,,,,,,,,,,,,,,,,,3,0,0,26
+Alan Butkovitz,,,,,,,,,,,,,,,,,,,,,,,,,,,9,0,26
+Anthony Hardy Williams,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,26
+Total,31,19,17,16,16,16,16,14,13,12,12,11,11,11,11,11,9,8,7,7,6,5,3,2,2,30,28,17,26
+,Mayor - Democrat,,,Judge Of The Court Of Common Pleas - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,27
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Joshua Roberts,Carmella Jacquinto,Wendi Barish,Anthony Kyriakakis,Nicola Serianni,Jennifer Schultz,Beth Grossman,James C Crumlish,Craig Levin,Henry Mcgregor Sias,Vicki Markovitz,Jon Marshall,Leon Goodman,Tiffany Palmer,Cateria R Mccabe,James F Berardinelli,Kay Yu,Kendra Mccrae,Laurie Dow,Gregory Weyer,Robert Trimble,Terri M Booker,Janine D Momasso,Sherman Toppin,Chris Hall,27
+Jim Kenney,7,0,0,12,11,10,9,11,8,5,5,3,4,2,3,2,1,2,2,1,2,2,2,2,0,0,0,0,27
+Alan Butkovitz,,5,0,4,5,3,5,2,2,2,3,1,1,2,0,1,2,0,0,1,0,0,0,0,0,1,1,0,27
+Anthony Hardy Williams,,,2,5,3,5,1,2,4,5,2,3,1,2,3,3,2,2,1,2,2,2,0,0,2,0,0,0,27
+Joshua Roberts,,,,0,9,11,11,3,3,3,10,5,5,3,3,3,1,1,0,2,3,0,0,0,0,1,0,0,27
+Carmella Jacquinto,,,,,0,8,8,9,1,1,6,1,5,2,1,0,2,0,0,1,1,2,1,1,0,1,0,0,27
+Wendi Barish,,,,,,0,10,5,6,6,9,2,5,1,1,4,2,1,1,1,3,3,0,1,1,0,0,0,27
+Anthony Kyriakakis,,,,,,,0,5,1,4,8,1,7,4,1,2,2,1,2,2,1,0,1,0,0,1,0,0,27
+Nicola Serianni,,,,,,,,0,4,7,1,0,3,3,2,0,2,2,1,1,1,3,1,1,2,0,0,0,27
+Jennifer Schultz,,,,,,,,,0,6,0,4,0,1,2,3,2,2,2,0,1,3,1,1,2,0,0,0,27
+Beth Grossman,,,,,,,,,,0,1,0,2,4,2,3,3,3,3,3,1,3,0,1,2,0,0,0,27
+James C Crumlish,,,,,,,,,,,0,1,4,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,27
+Craig Levin,,,,,,,,,,,,0,0,1,2,3,0,0,1,0,2,0,1,0,0,0,0,0,27
+Henry Mcgregor Sias,,,,,,,,,,,,,0,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,27
+Vicki Markovitz,,,,,,,,,,,,,,0,2,1,1,0,1,1,2,0,0,0,0,1,0,0,27
+Jon Marshall,,,,,,,,,,,,,,,0,2,0,0,0,1,0,0,0,0,0,0,0,0,27
+Leon Goodman,,,,,,,,,,,,,,,,0,1,0,2,2,1,0,1,1,0,0,0,0,27
+Tiffany Palmer,,,,,,,,,,,,,,,,,0,2,0,1,0,2,1,1,1,1,0,0,27
+Cateria R Mccabe,,,,,,,,,,,,,,,,,,0,0,1,0,1,0,0,1,0,0,0,27
+James F Berardinelli,,,,,,,,,,,,,,,,,,,0,0,0,0,1,1,0,0,0,0,27
+Kay Yu,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,27
+Kendra Mccrae,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,27
+Laurie Dow,,,,,,,,,,,,,,,,,,,,,,0,1,1,1,0,0,0,27
+Gregory Weyer,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,27
+Robert Trimble,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,27
+Terri M Booker,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,27
+Janine D Momasso,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,27
+Sherman Toppin,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,27
+Chris Hall,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,27
+Total,34,18,13,21,19,18,16,16,14,13,10,7,7,7,6,6,5,4,4,4,4,4,2,2,2,1,1,0,27
+,Mayor - Democrat,,,Judge Of The Court Of Common Pleas - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,28
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Joshua Roberts,Jennifer Schultz,Nicola Serianni,Carmella Jacquinto,Beth Grossman,Craig Levin,Anthony Kyriakakis,James C Crumlish,Tiffany Palmer,Vicki Markovitz,Wendi Barish,Cateria R Mccabe,Jon Marshall,Kendra Mccrae,James F Berardinelli,Kay Yu,Leon Goodman,Terri M Booker,Chris Hall,Janine D Momasso,Robert Trimble,Henry Mcgregor Sias,Laurie Dow,Gregory Weyer,Sherman Toppin,28
+Jim Kenney,1,0,0,13,7,7,9,7,7,6,6,7,5,6,4,4,2,1,4,1,3,1,0,1,2,1,0,0,28
+Alan Butkovitz,,3,0,8,4,8,1,4,4,3,3,2,3,1,4,2,1,3,0,1,1,1,0,0,0,1,1,0,28
+Anthony Hardy Williams,,,2,2,8,4,5,5,4,5,1,2,3,4,1,2,1,1,1,1,1,1,3,0,0,0,0,0,28
+Joshua Roberts,,,,0,4,6,7,7,4,5,5,3,2,1,3,4,1,3,2,2,1,2,0,2,2,0,1,0,28
+Jennifer Schultz,,,,,0,6,4,8,11,4,2,5,8,5,0,3,4,0,2,2,1,1,3,2,0,0,0,0,28
+Nicola Serianni,,,,,,0,7,6,8,4,3,3,4,3,7,4,1,4,1,2,1,1,0,0,0,1,1,0,28
+Carmella Jacquinto,,,,,,,0,5,3,7,2,3,4,3,4,2,1,2,2,2,0,2,1,1,1,0,0,0,28
+Beth Grossman,,,,,,,,0,4,3,3,5,6,6,4,5,4,2,1,2,3,0,3,0,1,1,0,0,28
+Craig Levin,,,,,,,,,0,2,2,2,6,0,1,4,1,1,1,1,1,0,1,2,0,0,0,0,28
+Anthony Kyriakakis,,,,,,,,,,0,6,2,3,3,1,1,0,1,2,1,2,3,1,0,2,0,1,0,28
+James C Crumlish,,,,,,,,,,,0,1,2,3,1,2,0,1,2,1,2,1,1,1,1,0,0,0,28
+Tiffany Palmer,,,,,,,,,,,,0,4,5,4,2,3,2,4,0,3,2,1,0,0,1,0,0,28
+Vicki Markovitz,,,,,,,,,,,,,0,4,2,0,1,0,2,1,1,0,1,0,0,0,0,0,28
+Wendi Barish,,,,,,,,,,,,,,0,3,1,3,0,2,2,2,1,2,0,0,1,0,0,28
+Cateria R Mccabe,,,,,,,,,,,,,,,0,2,1,2,0,1,2,0,0,0,0,2,0,0,28
+Jon Marshall,,,,,,,,,,,,,,,,1,1,2,1,0,2,0,1,1,0,2,0,0,28
+Kendra Mccrae,,,,,,,,,,,,,,,,,0,0,0,2,1,1,2,2,0,1,0,0,28
+James F Berardinelli,,,,,,,,,,,,,,,,,,0,1,0,0,1,0,0,0,0,1,0,28
+Kay Yu,,,,,,,,,,,,,,,,,,,0,0,0,2,0,0,0,0,0,0,28
+Leon Goodman,,,,,,,,,,,,,,,,,,,,0,0,1,1,2,0,0,0,0,28
+Terri M Booker,,,,,,,,,,,,,,,,,,,,,0,0,1,0,1,1,0,0,28
+Chris Hall,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,1,0,28
+Janine D Momasso,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,28
+Robert Trimble,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,28
+Henry Mcgregor Sias,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,28
+Laurie Dow,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,28
+Gregory Weyer,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,28
+Sherman Toppin,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,28
+Total,27,18,15,24,20,19,17,16,16,15,11,11,11,11,9,9,6,5,5,5,5,4,4,3,2,2,1,0,28
+,Mayor - Democrat,,,Judge Of The Court Of Common Pleas - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,29
+,Jim Kenney,Alan Butkovitz,Anthony Hardy Williams,Nicola Serianni,Carmella Jacquinto,Joshua Roberts,Anthony Kyriakakis,Tiffany Palmer,James C Crumlish,Jennifer Schultz,Beth Grossman,Leon Goodman,Wendi Barish,Cateria R Mccabe,Kendra Mccrae,Jon Marshall,Craig Levin,Henry Mcgregor Sias,James F Berardinelli,Kay Yu,Chris Hall,Laurie Dow,Terri M Booker,Vicki Markovitz,Janine D Momasso,Sherman Toppin,Gregory Weyer,Robert Trimble,29
+Jim Kenney,3,0,0,4,9,5,5,3,6,4,1,4,4,2,2,2,2,3,2,0,1,0,2,0,1,0,0,0,29
+Alan Butkovitz,,6,0,10,4,2,3,3,2,2,3,0,3,3,1,2,1,1,2,1,1,2,0,1,0,2,1,0,29
+Anthony Hardy Williams,,,1,3,5,5,4,5,1,4,5,3,1,2,4,2,2,1,1,4,1,1,1,2,1,0,0,1,29
+Nicola Serianni,,,,2,7,0,2,4,1,3,4,1,3,2,2,3,2,1,2,2,0,3,0,1,0,1,0,0,29
+Carmella Jacquinto,,,,,0,6,10,4,5,1,3,4,5,3,3,1,2,4,1,2,1,1,2,1,2,1,0,0,29
+Joshua Roberts,,,,,,1,5,4,6,3,3,5,4,3,2,2,1,2,2,1,1,0,2,0,0,1,1,0,29
+Anthony Kyriakakis,,,,,,,0,3,4,1,3,3,2,3,1,0,1,3,1,0,1,0,0,0,2,1,0,0,29
+Tiffany Palmer,,,,,,,,0,2,4,4,3,2,2,5,1,1,2,2,2,1,3,0,1,0,1,0,0,29
+James C Crumlish,,,,,,,,,0,2,2,5,5,1,0,1,1,2,1,0,1,0,2,1,1,0,1,0,29
+Jennifer Schultz,,,,,,,,,,0,2,2,2,2,2,1,1,2,0,0,2,1,1,2,0,0,0,1,29
+Beth Grossman,,,,,,,,,,,0,1,1,2,1,2,0,0,3,1,0,0,0,2,0,0,0,0,29
+Leon Goodman,,,,,,,,,,,,0,3,2,3,0,0,0,0,0,0,1,2,0,1,0,0,0,29
+Wendi Barish,,,,,,,,,,,,,0,0,1,0,1,1,0,0,1,2,3,2,0,1,0,1,29
+Cateria R Mccabe,,,,,,,,,,,,,,0,2,1,1,1,1,1,0,0,0,0,2,1,0,0,29
+Kendra Mccrae,,,,,,,,,,,,,,,0,0,0,0,0,2,0,2,0,1,1,0,0,0,29
+Jon Marshall,,,,,,,,,,,,,,,,0,2,1,3,1,1,0,0,0,0,0,1,0,29
+Craig Levin,,,,,,,,,,,,,,,,,0,1,0,1,0,1,0,0,1,1,0,0,29
+Henry Mcgregor Sias,,,,,,,,,,,,,,,,,,0,0,1,1,0,0,0,0,1,0,0,29
+James F Berardinelli,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,0,1,0,29
+Kay Yu,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,0,0,29
+Chris Hall,,,,,,,,,,,,,,,,,,,,,0,0,1,1,0,0,1,1,29
+Laurie Dow,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,29
+Terri M Booker,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,1,29
+Vicki Markovitz,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,29
+Janine D Momasso,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,29
+Sherman Toppin,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,29
+Gregory Weyer,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,29
+Robert Trimble,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,29
+Total,22,18,15,20,19,13,12,11,10,10,9,8,8,7,7,6,5,5,5,5,3,3,3,3,2,2,1,1,29

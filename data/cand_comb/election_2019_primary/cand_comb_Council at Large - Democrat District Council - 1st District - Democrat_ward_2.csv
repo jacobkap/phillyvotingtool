@@ -1,0 +1,806 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10,col_11,col_12,col_13,col_14,col_15,col_16,col_17,col_18,col_19,col_20,col_21,col_22,col_23,col_24,col_25,col_26,col_27,col_28,col_29,col_30,col_31,col_32,col_33,division
+,District Council 1st District - Democrat,,Council At Large - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,All
+,Mark F Squilla,Lou Lanni,Helen Gym,Justin Diberardinis,Erika Almirón,Isaiah Thomas,Eryn Santamoor,Ethelind Baylor,Allan Domb,Katherine Gilmore Richardson,Adrián Rivera-reyes,Derek S Green,Deja Lynn Alvarez,Fernando Treviño,Beth Finn,Sandra Dungee Glenn,Ogbonna Paul Hagins,Asa Khalif,Joseph A Diorio,Willie Floyd Singletary,Latrice Y Bryant,Billy Thompson,Hena Veit,Fareed Abdullah,Mark Ross,Edwin Santana,Vinny Black,Devon Cade,Bobbie Curry,Wayne Allen,Wayne Edmund Dorsey,Sherrie Cohen,All
+Mark F Squilla,116,0,"2,729","1,907","1,677","1,613","1,021","1,012",834,621,564,603,432,358,328,158,123,103,97,73,53,67,45,61,41,44,31,32,26,27,17,1,All
+Lou Lanni,,21,430,208,194,181,189,64,155,129,193,112,154,83,114,73,61,42,34,49,49,36,43,20,16,12,19,12,19,11,6,0,All
+Helen Gym,,,26,"2,021","1,865","1,720","1,046","1,062",711,666,592,568,428,329,321,155,124,101,61,64,53,57,57,43,29,33,25,21,20,24,10,0,All
+Justin Diberardinis,,,,4,"1,391","1,399",707,946,428,331,316,364,181,113,135,39,28,35,36,8,20,18,15,12,16,18,8,14,5,5,5,1,All
+Erika Almirón,,,,,3,"1,251",463,994,167,246,291,224,243,175,151,91,24,49,6,4,26,9,20,19,2,12,13,9,5,7,1,1,All
+Isaiah Thomas,,,,,,4,439,944,287,314,186,265,92,86,87,52,36,40,34,20,21,25,13,25,9,14,6,12,4,7,5,1,All
+Eryn Santamoor,,,,,,,7,80,441,462,213,288,133,209,164,74,31,34,22,8,25,21,32,12,10,12,9,10,8,6,5,1,All
+Ethelind Baylor,,,,,,,,1,47,38,92,52,70,31,51,17,15,10,1,1,12,7,7,4,5,4,5,2,3,6,1,1,All
+Allan Domb,,,,,,,,,14,199,136,320,85,132,122,75,29,38,80,22,13,38,25,14,29,21,12,23,19,10,9,0,All
+Katherine Gilmore Richardson,,,,,,,,,,2,100,224,85,142,105,71,24,14,23,7,26,18,17,16,9,8,6,4,7,10,3,0,All
+Adrián Rivera-reyes,,,,,,,,,,,6,102,263,102,111,47,95,42,16,53,25,20,15,19,9,17,15,4,8,7,4,0,All
+Derek S Green,,,,,,,,,,,,2,122,54,56,47,19,22,11,11,17,19,8,10,13,12,6,8,5,6,5,0,All
+Deja Lynn Alvarez,,,,,,,,,,,,,5,77,83,38,72,42,19,52,28,19,21,20,7,10,8,6,5,8,2,0,All
+Fernando Treviño,,,,,,,,,,,,,,0,70,19,26,22,22,13,12,19,12,15,4,20,6,6,4,6,3,1,All
+Beth Finn,,,,,,,,,,,,,,,0,68,22,23,14,10,17,24,22,9,15,9,5,7,9,11,7,1,All
+Sandra Dungee Glenn,,,,,,,,,,,,,,,,1,15,21,10,0,24,8,18,13,4,4,3,1,5,5,4,0,All
+Ogbonna Paul Hagins,,,,,,,,,,,,,,,,,2,16,2,45,8,9,11,9,0,4,7,1,3,1,1,0,All
+Asa Khalif,,,,,,,,,,,,,,,,,,0,1,6,10,3,6,26,4,3,3,3,1,4,1,0,All
+Joseph A Diorio,,,,,,,,,,,,,,,,,,,0,12,10,16,9,4,16,3,7,7,8,5,4,0,All
+Willie Floyd Singletary,,,,,,,,,,,,,,,,,,,,1,10,11,2,9,3,3,4,4,4,2,5,0,All
+Latrice Y Bryant,,,,,,,,,,,,,,,,,,,,,0,12,12,9,4,0,4,4,5,3,3,0,All
+Billy Thompson,,,,,,,,,,,,,,,,,,,,,,0,6,5,11,2,7,6,8,3,5,1,All
+Hena Veit,,,,,,,,,,,,,,,,,,,,,,,0,7,6,3,5,2,5,0,0,0,All
+Fareed Abdullah,,,,,,,,,,,,,,,,,,,,,,,,0,0,3,3,3,1,5,1,0,All
+Mark Ross,,,,,,,,,,,,,,,,,,,,,,,,,0,1,6,2,7,2,3,0,All
+Edwin Santana,,,,,,,,,,,,,,,,,,,,,,,,,,0,5,2,3,2,2,0,All
+Vinny Black,,,,,,,,,,,,,,,,,,,,,,,,,,,0,6,6,1,4,0,All
+Devon Cade,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,3,2,1,0,All
+Bobbie Curry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,3,5,0,All
+Wayne Allen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,All
+Wayne Edmund Dorsey,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,All
+Sherrie Cohen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,All
+Total,"3,486",667,"3,470","2,300","2,042","1,944","1,342","1,150","1,095",828,813,781,623,470,460,246,190,152,139,127,110,108,93,84,61,60,52,46,45,39,26,2,All
+,District Council 1st District - Democrat,,Council At Large - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+,Mark F Squilla,Lou Lanni,Helen Gym,Justin Diberardinis,Erika Almirón,Isaiah Thomas,Ethelind Baylor,Allan Domb,Eryn Santamoor,Derek S Green,Adrián Rivera-reyes,Katherine Gilmore Richardson,Beth Finn,Deja Lynn Alvarez,Fernando Treviño,Sandra Dungee Glenn,Billy Thompson,Asa Khalif,Willie Floyd Singletary,Ogbonna Paul Hagins,Joseph A Diorio,Mark Ross,Devon Cade,Hena Veit,Vinny Black,Fareed Abdullah,Latrice Y Bryant,Wayne Allen,Bobbie Curry,Edwin Santana,Sherrie Cohen,Wayne Edmund Dorsey,1
+Mark F Squilla,12,0,159,133,114,104,88,45,43,35,22,20,19,13,14,13,8,6,7,6,4,2,4,3,2,2,2,0,1,1,1,0,1
+Lou Lanni,,4,16,14,5,7,4,13,11,8,10,7,2,6,5,5,3,3,2,2,2,2,0,1,2,1,1,3,0,0,0,0,1
+Helen Gym,,,2,126,116,102,86,33,41,24,23,18,16,15,13,12,5,5,3,4,4,3,2,1,1,2,1,2,0,0,0,0,1
+Justin Diberardinis,,,,0,101,94,84,27,39,30,19,8,7,11,6,6,3,4,1,1,2,1,2,2,0,0,1,0,1,0,1,0,1
+Erika Almirón,,,,,0,96,85,8,18,10,12,13,7,10,5,4,0,1,1,1,0,0,1,1,2,0,0,0,0,0,1,0,1
+Isaiah Thomas,,,,,,0,84,6,12,16,5,8,4,0,3,5,3,2,1,2,0,1,0,0,0,1,1,0,0,0,1,0,1
+Ethelind Baylor,,,,,,,0,2,4,8,4,2,6,3,2,2,1,2,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+Allan Domb,,,,,,,,1,23,16,5,8,9,1,7,6,7,4,0,1,6,3,3,3,2,0,0,2,0,0,0,0,1
+Eryn Santamoor,,,,,,,,,1,17,12,10,7,3,11,5,2,3,0,0,2,0,3,3,1,0,1,2,0,0,0,0,1
+Derek S Green,,,,,,,,,,0,5,7,3,5,2,7,2,1,0,2,1,1,0,0,0,1,0,2,0,0,0,0,1
+Adrián Rivera-reyes,,,,,,,,,,,1,4,1,5,4,4,0,1,2,4,1,0,1,0,1,1,0,1,1,0,0,0,1
+Katherine Gilmore Richardson,,,,,,,,,,,,0,5,1,5,6,1,1,0,1,0,0,0,0,1,3,1,1,0,0,0,0,1
+Beth Finn,,,,,,,,,,,,,0,2,2,5,2,2,1,1,0,1,0,3,0,0,0,0,0,1,0,0,1
+Deja Lynn Alvarez,,,,,,,,,,,,,,0,4,0,1,2,3,3,0,0,1,0,1,0,0,0,0,1,0,0,1
+Fernando Treviño,,,,,,,,,,,,,,,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,1,0,0,1
+Sandra Dungee Glenn,,,,,,,,,,,,,,,,0,2,2,0,1,0,0,0,0,0,1,0,1,0,0,0,0,1
+Billy Thompson,,,,,,,,,,,,,,,,,0,2,1,1,2,4,1,1,2,0,1,0,0,0,0,0,1
+Asa Khalif,,,,,,,,,,,,,,,,,,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1
+Willie Floyd Singletary,,,,,,,,,,,,,,,,,,,0,2,0,1,0,0,1,0,1,0,0,1,0,0,1
+Ogbonna Paul Hagins,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+Joseph A Diorio,,,,,,,,,,,,,,,,,,,,,0,1,0,1,0,0,0,1,0,0,0,0,1
+Mark Ross,,,,,,,,,,,,,,,,,,,,,,0,0,1,1,0,0,0,0,0,0,0,1
+Devon Cade,,,,,,,,,,,,,,,,,,,,,,,0,0,2,0,0,0,0,0,0,0,1
+Hena Veit,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1
+Vinny Black,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,1
+Fareed Abdullah,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,1
+Latrice Y Bryant,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,1
+Wayne Allen,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1
+Bobbie Curry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1
+Edwin Santana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,1
+Sherrie Cohen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1
+Wayne Edmund Dorsey,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1
+Total,215,40,186,154,127,115,96,63,58,44,35,28,22,20,20,18,12,9,9,8,7,5,4,4,4,3,3,3,1,1,1,0,1
+,District Council 1st District - Democrat,,Council At Large - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2
+,Mark F Squilla,Lou Lanni,Helen Gym,Isaiah Thomas,Justin Diberardinis,Erika Almirón,Ethelind Baylor,Allan Domb,Eryn Santamoor,Adrián Rivera-reyes,Derek S Green,Katherine Gilmore Richardson,Fernando Treviño,Billy Thompson,Deja Lynn Alvarez,Latrice Y Bryant,Beth Finn,Willie Floyd Singletary,Joseph A Diorio,Sandra Dungee Glenn,Asa Khalif,Fareed Abdullah,Hena Veit,Ogbonna Paul Hagins,Wayne Allen,Bobbie Curry,Devon Cade,Edwin Santana,Mark Ross,Sherrie Cohen,Vinny Black,Wayne Edmund Dorsey,2
+Mark F Squilla,6,0,65,43,44,42,34,20,15,14,11,9,7,3,5,4,3,2,4,2,2,3,1,3,2,0,1,1,1,0,1,0,2
+Lou Lanni,,1,12,7,5,4,2,3,3,3,3,3,2,3,2,2,2,4,1,2,1,0,1,0,0,1,0,0,0,0,0,0,2
+Helen Gym,,,1,52,47,45,37,16,16,14,12,9,3,3,5,4,4,4,2,4,2,3,3,1,2,0,0,1,1,0,1,0,2
+Isaiah Thomas,,,,1,39,37,34,7,6,4,5,5,1,1,2,1,0,1,1,0,2,1,0,0,0,0,0,1,0,0,0,0,2
+Justin Diberardinis,,,,,0,39,31,7,11,6,4,4,1,0,1,2,0,2,0,0,1,0,0,0,0,0,1,0,0,0,1,0,2
+Erika Almirón,,,,,,1,33,4,8,5,3,0,2,0,1,1,1,0,0,3,2,0,0,1,0,0,1,0,0,0,1,0,2
+Ethelind Baylor,,,,,,,0,3,2,0,4,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2
+Allan Domb,,,,,,,,1,5,2,9,5,3,2,0,1,2,2,4,0,0,1,1,0,1,0,1,0,1,0,0,0,2
+Eryn Santamoor,,,,,,,,,0,5,4,4,2,2,0,1,2,1,0,0,0,0,2,0,0,0,0,0,0,1,0,0,2
+Adrián Rivera-reyes,,,,,,,,,,0,2,3,3,1,4,1,1,2,0,2,0,1,1,0,1,0,0,1,0,0,0,0,2
+Derek S Green,,,,,,,,,,,0,7,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2
+Katherine Gilmore Richardson,,,,,,,,,,,,0,1,1,1,2,0,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,2
+Fernando Treviño,,,,,,,,,,,,,0,4,1,1,2,1,1,1,1,1,0,1,0,1,1,1,0,1,0,0,2
+Billy Thompson,,,,,,,,,,,,,,0,0,2,2,1,0,0,0,2,0,0,0,1,0,0,0,1,0,0,2
+Deja Lynn Alvarez,,,,,,,,,,,,,,,0,0,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,2
+Latrice Y Bryant,,,,,,,,,,,,,,,,0,1,0,0,2,0,1,0,1,0,1,0,0,0,0,0,0,2
+Beth Finn,,,,,,,,,,,,,,,,,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,2
+Willie Floyd Singletary,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Joseph A Diorio,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2
+Sandra Dungee Glenn,,,,,,,,,,,,,,,,,,,,0,1,0,1,1,0,0,0,0,0,0,0,0,2
+Asa Khalif,,,,,,,,,,,,,,,,,,,,,0,0,0,1,0,0,0,0,0,0,0,0,2
+Fareed Abdullah,,,,,,,,,,,,,,,,,,,,,,0,0,0,1,0,0,0,0,0,0,0,2
+Hena Veit,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,2
+Ogbonna Paul Hagins,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2
+Wayne Allen,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,0,2
+Bobbie Curry,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,2
+Devon Cade,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,2
+Edwin Santana,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,2
+Mark Ross,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,2
+Sherrie Cohen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,2
+Vinny Black,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,2
+Wayne Edmund Dorsey,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,2
+Total,86,18,82,53,50,49,38,24,20,17,14,12,10,7,7,7,6,6,5,5,3,3,3,3,2,1,1,1,1,1,1,0,2
+,District Council 1st District - Democrat,,Council At Large - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3
+,Mark F Squilla,Lou Lanni,Helen Gym,Justin Diberardinis,Erika Almirón,Isaiah Thomas,Eryn Santamoor,Ethelind Baylor,Allan Domb,Derek S Green,Adrián Rivera-reyes,Deja Lynn Alvarez,Katherine Gilmore Richardson,Beth Finn,Fernando Treviño,Joseph A Diorio,Willie Floyd Singletary,Sandra Dungee Glenn,Latrice Y Bryant,Billy Thompson,Ogbonna Paul Hagins,Vinny Black,Asa Khalif,Fareed Abdullah,Hena Veit,Mark Ross,Wayne Allen,Wayne Edmund Dorsey,Bobbie Curry,Devon Cade,Edwin Santana,Sherrie Cohen,3
+Mark F Squilla,5,0,80,59,55,60,31,31,18,16,15,11,12,9,9,4,3,4,3,3,2,2,2,2,2,1,2,1,1,0,0,0,3
+Lou Lanni,,1,10,5,4,1,6,1,2,2,1,3,4,4,1,2,3,1,1,0,1,1,0,0,0,1,0,1,0,0,0,0,3
+Helen Gym,,,2,66,67,58,30,35,16,12,13,6,13,7,11,2,0,4,0,0,1,2,1,1,2,0,0,0,0,0,0,0,3
+Justin Diberardinis,,,,1,52,50,23,31,12,9,9,5,7,5,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3
+Erika Almirón,,,,,0,49,15,36,5,6,8,4,5,4,5,0,0,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,3
+Isaiah Thomas,,,,,,0,16,33,7,10,5,3,9,1,2,1,1,2,2,2,1,0,0,0,0,0,0,0,0,0,0,0,3
+Eryn Santamoor,,,,,,,0,2,13,6,7,3,7,8,7,2,1,2,0,1,0,1,2,0,1,0,0,1,0,0,0,0,3
+Ethelind Baylor,,,,,,,,0,0,1,2,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+Allan Domb,,,,,,,,,2,7,3,2,4,3,3,0,0,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,3
+Derek S Green,,,,,,,,,,0,5,3,5,2,2,0,2,0,1,2,0,0,0,0,0,0,0,1,0,0,0,0,3
+Adrián Rivera-reyes,,,,,,,,,,,0,6,2,1,2,1,0,0,0,0,1,1,1,0,1,0,1,1,1,0,0,0,3
+Deja Lynn Alvarez,,,,,,,,,,,,0,2,3,1,3,2,1,2,0,2,0,1,1,0,1,0,0,0,0,0,0,3
+Katherine Gilmore Richardson,,,,,,,,,,,,,0,3,3,1,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,3
+Beth Finn,,,,,,,,,,,,,,0,1,1,1,3,0,1,0,0,2,1,0,1,0,1,0,0,0,0,3
+Fernando Treviño,,,,,,,,,,,,,,,0,2,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,3
+Joseph A Diorio,,,,,,,,,,,,,,,,0,0,1,2,1,0,0,0,0,1,2,1,1,1,0,0,0,3
+Willie Floyd Singletary,,,,,,,,,,,,,,,,,0,0,2,1,1,1,0,1,0,0,1,1,0,0,0,0,3
+Sandra Dungee Glenn,,,,,,,,,,,,,,,,,,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,3
+Latrice Y Bryant,,,,,,,,,,,,,,,,,,,0,1,0,1,0,1,0,1,1,0,0,0,0,0,3
+Billy Thompson,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,3
+Ogbonna Paul Hagins,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,3
+Vinny Black,,,,,,,,,,,,,,,,,,,,,,0,0,1,1,0,1,0,0,0,0,0,3
+Asa Khalif,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,3
+Fareed Abdullah,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,1,0,0,0,0,0,3
+Hena Veit,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,3
+Mark Ross,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,3
+Wayne Allen,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,1,0,0,0,3
+Wayne Edmund Dorsey,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,3
+Bobbie Curry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,3
+Devon Cade,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,3
+Edwin Santana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,3
+Sherrie Cohen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,3
+Total,108,15,104,74,69,67,41,37,25,20,19,17,17,13,12,6,6,5,4,3,3,3,2,2,2,2,2,2,1,0,0,0,3
+,Council At Large - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,District Council 1st District - Democrat,,4
+,Helen Gym,Justin Diberardinis,Erika Almirón,Isaiah Thomas,Ethelind Baylor,Allan Domb,Eryn Santamoor,Adrián Rivera-reyes,Derek S Green,Deja Lynn Alvarez,Katherine Gilmore Richardson,Fernando Treviño,Beth Finn,Ogbonna Paul Hagins,Bobbie Curry,Hena Veit,Joseph A Diorio,Latrice Y Bryant,Sandra Dungee Glenn,Billy Thompson,Willie Floyd Singletary,Asa Khalif,Mark Ross,Wayne Edmund Dorsey,Devon Cade,Edwin Santana,Fareed Abdullah,Sherrie Cohen,Vinny Black,Wayne Allen,Mark F Squilla,Lou Lanni,4
+Helen Gym,0,94,94,82,50,31,32,30,26,22,23,17,9,13,3,4,2,2,4,4,3,1,0,1,0,0,0,0,0,0,121,26,4
+Justin Diberardinis,,0,70,63,41,20,26,25,14,15,11,10,7,1,3,1,2,2,4,1,0,1,1,1,0,0,0,0,0,0,87,18,4
+Erika Almirón,,,0,65,45,11,18,17,8,14,6,4,5,4,1,2,0,1,2,0,0,1,0,0,0,0,0,0,0,0,80,14,4
+Isaiah Thomas,,,,0,46,15,14,12,14,4,13,4,1,6,0,2,1,0,1,1,0,0,0,0,0,0,0,0,0,0,79,7,4
+Ethelind Baylor,,,,,0,2,2,10,3,5,1,0,3,6,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,47,6,4
+Allan Domb,,,,,,0,19,5,16,5,13,8,4,3,2,1,2,0,2,1,1,1,0,1,0,0,0,0,0,0,34,11,4
+Eryn Santamoor,,,,,,,0,7,6,5,11,14,4,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,36,5,4
+Adrián Rivera-reyes,,,,,,,,0,6,14,1,5,7,6,1,1,2,2,1,0,2,0,0,0,0,0,0,0,0,0,30,10,4
+Derek S Green,,,,,,,,,0,3,14,5,2,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,25,8,4
+Deja Lynn Alvarez,,,,,,,,,,0,2,0,5,5,2,2,0,1,1,0,4,0,1,0,0,0,0,0,0,0,21,10,4
+Katherine Gilmore Richardson,,,,,,,,,,,0,8,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,23,4,4
+Fernando Treviño,,,,,,,,,,,,0,3,0,1,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,19,3,4
+Beth Finn,,,,,,,,,,,,,0,2,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,10,6,4
+Ogbonna Paul Hagins,,,,,,,,,,,,,,0,0,1,1,0,0,0,4,0,0,0,0,0,0,0,0,0,13,2,4
+Bobbie Curry,,,,,,,,,,,,,,,0,2,2,2,0,2,0,0,1,0,0,0,0,0,0,0,2,4,4
+Hena Veit,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,2,4
+Joseph A Diorio,,,,,,,,,,,,,,,,,0,1,1,1,0,0,0,0,0,0,0,0,0,0,3,2,4
+Latrice Y Bryant,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,1,3,4
+Sandra Dungee Glenn,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,0,0,0,0,0,5,0,4
+Billy Thompson,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+Willie Floyd Singletary,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,2,2,4
+Asa Khalif,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,1,4
+Mark Ross,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,4
+Wayne Edmund Dorsey,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,1,0,4
+Devon Cade,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,4
+Edwin Santana,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,4
+Fareed Abdullah,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,4
+Sherrie Cohen,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,4
+Vinny Black,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,4
+Wayne Allen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,4
+Mark F Squilla,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,0,4
+Lou Lanni,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,4
+Total,159,112,104,89,55,47,45,43,35,32,28,22,16,15,6,5,5,5,5,4,4,3,1,1,0,0,0,0,0,0,152,34,4
+,District Council 1st District - Democrat,,Council At Large - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5
+,Mark F Squilla,Lou Lanni,Helen Gym,Justin Diberardinis,Erika Almirón,Isaiah Thomas,Adrián Rivera-reyes,Allan Domb,Ethelind Baylor,Deja Lynn Alvarez,Eryn Santamoor,Derek S Green,Beth Finn,Fernando Treviño,Katherine Gilmore Richardson,Joseph A Diorio,Sandra Dungee Glenn,Asa Khalif,Hena Veit,Latrice Y Bryant,Ogbonna Paul Hagins,Edwin Santana,Fareed Abdullah,Willie Floyd Singletary,Billy Thompson,Bobbie Curry,Devon Cade,Mark Ross,Wayne Allen,Sherrie Cohen,Vinny Black,Wayne Edmund Dorsey,5
+Mark F Squilla,13,0,87,55,47,47,23,29,29,17,17,19,13,15,12,10,5,4,2,3,4,4,4,2,1,2,1,1,1,0,0,0,5
+Lou Lanni,,0,28,7,14,3,14,6,1,14,10,7,8,4,3,0,4,2,4,3,2,0,0,1,1,0,0,0,0,0,0,0,5
+Helen Gym,,,1,65,65,50,31,23,31,22,22,27,16,12,13,6,6,5,5,3,5,2,3,2,1,2,1,0,1,0,0,0,5
+Justin Diberardinis,,,,1,46,39,13,15,28,9,15,14,4,2,4,3,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5
+Erika Almirón,,,,,0,34,19,3,30,15,13,13,6,3,5,0,3,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,5
+Isaiah Thomas,,,,,,0,9,8,30,2,6,8,4,6,8,2,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,5
+Adrián Rivera-reyes,,,,,,,0,6,2,16,8,9,5,4,2,0,2,3,2,2,5,0,1,0,1,0,0,0,0,0,0,0,5
+Allan Domb,,,,,,,,0,1,2,9,6,7,2,2,7,4,2,4,0,0,3,1,1,1,2,0,1,0,0,0,0,5
+Ethelind Baylor,,,,,,,,,0,3,4,1,2,3,3,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,5
+Deja Lynn Alvarez,,,,,,,,,,0,1,9,4,3,2,0,3,1,1,5,3,1,0,0,0,0,0,0,0,0,0,0,5
+Eryn Santamoor,,,,,,,,,,,0,4,7,6,6,2,2,1,1,1,1,1,0,1,0,0,0,1,0,0,0,0,5
+Derek S Green,,,,,,,,,,,,0,1,1,6,0,0,1,0,1,2,0,0,0,0,0,1,0,0,0,0,0,5
+Beth Finn,,,,,,,,,,,,,0,3,2,0,3,1,0,0,2,2,0,1,1,1,0,0,0,0,0,0,5
+Fernando Treviño,,,,,,,,,,,,,,0,5,1,1,1,0,1,3,0,1,0,0,0,1,0,0,0,0,0,5
+Katherine Gilmore Richardson,,,,,,,,,,,,,,,0,0,2,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,5
+Joseph A Diorio,,,,,,,,,,,,,,,,0,0,0,1,0,0,2,1,1,0,1,0,1,0,0,0,0,5
+Sandra Dungee Glenn,,,,,,,,,,,,,,,,,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,0,5
+Asa Khalif,,,,,,,,,,,,,,,,,,0,1,1,1,0,2,1,0,0,0,0,1,0,0,0,5
+Hena Veit,,,,,,,,,,,,,,,,,,,0,1,0,0,0,1,1,0,0,0,0,0,0,0,5
+Latrice Y Bryant,,,,,,,,,,,,,,,,,,,,0,0,0,1,0,0,0,0,0,1,0,0,0,5
+Ogbonna Paul Hagins,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,0,0,0,0,0,5
+Edwin Santana,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,0,5
+Fareed Abdullah,,,,,,,,,,,,,,,,,,,,,,,0,0,0,1,0,0,1,0,0,0,5
+Willie Floyd Singletary,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5
+Billy Thompson,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,5
+Bobbie Curry,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,5
+Devon Cade,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,5
+Mark Ross,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,5
+Wayne Allen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,5
+Sherrie Cohen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,5
+Vinny Black,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,5
+Wayne Edmund Dorsey,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,5
+Total,128,37,127,71,70,56,40,35,35,31,29,28,21,20,16,10,9,6,6,6,6,4,4,3,2,2,1,1,1,0,0,0,5
+,Council At Large - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,District Council 1st District - Democrat,,6
+,Helen Gym,Justin Diberardinis,Erika Almirón,Isaiah Thomas,Ethelind Baylor,Adrián Rivera-reyes,Allan Domb,Eryn Santamoor,Katherine Gilmore Richardson,Beth Finn,Deja Lynn Alvarez,Fernando Treviño,Derek S Green,Sandra Dungee Glenn,Hena Veit,Willie Floyd Singletary,Ogbonna Paul Hagins,Asa Khalif,Billy Thompson,Fareed Abdullah,Joseph A Diorio,Edwin Santana,Devon Cade,Latrice Y Bryant,Mark Ross,Bobbie Curry,Sherrie Cohen,Vinny Black,Wayne Allen,Wayne Edmund Dorsey,Mark F Squilla,Lou Lanni,6
+Helen Gym,0,78,73,64,39,33,25,34,23,21,19,17,17,9,5,4,4,4,4,2,1,3,1,1,1,0,0,0,0,0,110,26,6
+Justin Diberardinis,,0,52,56,32,17,20,23,11,8,7,9,10,2,2,0,0,0,2,1,2,1,2,0,1,0,0,0,0,0,69,12,6
+Erika Almirón,,,0,44,32,19,5,20,6,9,11,7,9,4,4,0,1,4,0,0,0,2,0,1,0,0,0,0,0,0,63,14,6
+Isaiah Thomas,,,,0,34,8,10,11,15,2,1,4,12,2,2,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,57,11,6
+Ethelind Baylor,,,,,1,2,0,3,5,3,3,1,4,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,31,6,6
+Adrián Rivera-reyes,,,,,,1,6,8,4,6,13,8,2,1,0,4,4,4,1,2,0,2,1,0,0,0,0,0,0,0,29,10,6
+Allan Domb,,,,,,,1,13,13,6,3,5,9,5,2,2,1,0,2,1,3,0,1,0,1,0,0,0,0,0,32,7,6
+Eryn Santamoor,,,,,,,,0,6,9,4,6,6,2,3,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,30,6,6
+Katherine Gilmore Richardson,,,,,,,,,0,5,1,4,10,6,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,24,5,6
+Beth Finn,,,,,,,,,,0,2,3,1,6,1,0,0,2,3,0,0,0,1,1,0,0,0,0,0,0,17,6,6
+Deja Lynn Alvarez,,,,,,,,,,,0,5,0,1,3,4,4,0,0,2,0,2,0,0,0,0,0,0,0,0,21,4,6
+Fernando Treviño,,,,,,,,,,,,0,1,1,0,0,1,2,1,0,1,1,0,0,1,0,0,0,0,0,23,1,6
+Derek S Green,,,,,,,,,,,,,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,18,2,6
+Sandra Dungee Glenn,,,,,,,,,,,,,,0,4,0,1,1,2,2,0,0,0,2,0,0,0,0,0,0,6,8,6
+Hena Veit,,,,,,,,,,,,,,,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,4,4,6
+Willie Floyd Singletary,,,,,,,,,,,,,,,,0,3,1,0,1,0,0,0,0,0,0,0,0,0,0,5,3,6
+Ogbonna Paul Hagins,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,3,3,6
+Asa Khalif,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,0,0,0,0,0,0,4,2,6
+Billy Thompson,,,,,,,,,,,,,,,,,,,0,0,0,0,1,1,0,0,0,0,0,0,3,2,6
+Fareed Abdullah,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,0,3,1,6
+Joseph A Diorio,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,3,0,6
+Edwin Santana,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,1,6
+Devon Cade,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,6
+Latrice Y Bryant,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,1,1,6
+Mark Ross,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,1,0,6
+Bobbie Curry,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,6
+Sherrie Cohen,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,6
+Vinny Black,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,6
+Wayne Allen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,6
+Wayne Edmund Dorsey,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,6
+Mark F Squilla,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,0,6
+Lou Lanni,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,6
+Total,147,90,83,73,42,41,41,40,30,25,25,24,22,14,8,8,7,6,5,4,4,3,2,2,1,0,0,0,0,0,144,34,6
+,Council At Large - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,District Council 1st District - Democrat,,7
+,Helen Gym,Justin Diberardinis,Erika Almirón,Isaiah Thomas,Eryn Santamoor,Allan Domb,Ethelind Baylor,Adrián Rivera-reyes,Derek S Green,Fernando Treviño,Katherine Gilmore Richardson,Deja Lynn Alvarez,Beth Finn,Sandra Dungee Glenn,Asa Khalif,Latrice Y Bryant,Billy Thompson,Fareed Abdullah,Ogbonna Paul Hagins,Hena Veit,Joseph A Diorio,Willie Floyd Singletary,Bobbie Curry,Edwin Santana,Mark Ross,Vinny Black,Wayne Allen,Wayne Edmund Dorsey,Devon Cade,Sherrie Cohen,Mark F Squilla,Lou Lanni,7
+Helen Gym,0,99,95,79,43,35,48,43,37,33,20,20,15,12,10,6,4,3,5,4,2,3,2,2,1,1,0,0,0,0,129,23,7
+Justin Diberardinis,,0,72,62,27,18,46,22,19,13,8,6,9,2,3,3,0,0,3,2,2,0,0,1,0,0,0,0,0,0,91,11,7
+Erika Almirón,,,1,55,22,7,45,21,14,24,8,7,8,3,5,0,2,2,3,2,1,0,0,1,0,0,0,0,0,0,82,10,7
+Isaiah Thomas,,,,0,7,14,41,19,18,6,5,7,8,4,2,4,1,5,1,1,2,2,0,0,0,1,0,0,0,0,70,11,7
+Eryn Santamoor,,,,,0,23,3,14,21,19,15,2,2,6,3,1,2,2,3,1,0,0,0,0,1,0,0,1,0,0,50,6,7
+Allan Domb,,,,,,0,2,10,17,13,10,4,3,5,2,3,4,1,1,0,4,2,2,2,0,0,0,1,0,0,40,11,7
+Ethelind Baylor,,,,,,,0,8,3,3,4,4,3,2,0,2,0,0,0,3,1,0,0,0,0,0,0,0,0,0,46,7,7
+Adrián Rivera-reyes,,,,,,,,0,7,4,9,12,6,7,3,1,2,2,2,0,1,2,1,1,0,0,0,0,0,0,40,9,7
+Derek S Green,,,,,,,,,0,8,14,3,1,5,3,2,0,3,0,0,1,0,0,0,0,1,0,0,0,0,37,8,7
+Fernando Treviño,,,,,,,,,,0,4,2,7,1,2,1,2,0,1,0,1,1,1,3,0,0,1,0,0,0,32,5,7
+Katherine Gilmore Richardson,,,,,,,,,,,0,4,4,5,2,1,3,3,1,1,0,1,1,1,0,0,0,0,0,0,24,6,7
+Deja Lynn Alvarez,,,,,,,,,,,,2,2,3,5,3,2,1,1,1,0,1,0,0,0,0,0,0,0,0,19,3,7
+Beth Finn,,,,,,,,,,,,,0,3,1,1,2,0,2,4,0,1,1,1,0,0,1,0,0,0,15,6,7
+Sandra Dungee Glenn,,,,,,,,,,,,,,0,2,2,0,1,1,3,0,0,2,0,1,0,0,0,0,0,11,7,7
+Asa Khalif,,,,,,,,,,,,,,,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,0,10,3,7
+Latrice Y Bryant,,,,,,,,,,,,,,,,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,6,3,7
+Billy Thompson,,,,,,,,,,,,,,,,,0,1,0,0,0,3,1,0,0,0,1,1,0,0,6,1,7
+Fareed Abdullah,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,5,1,7
+Ogbonna Paul Hagins,,,,,,,,,,,,,,,,,,,1,2,0,1,0,0,0,0,0,0,0,0,2,4,7
+Hena Veit,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,0,0,0,0,1,6,7
+Joseph A Diorio,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,4,2,7
+Willie Floyd Singletary,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,1,0,0,0,2,3,7
+Bobbie Curry,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,7
+Edwin Santana,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,3,0,7
+Mark Ross,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,1,7
+Vinny Black,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,1,7
+Wayne Allen,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,7
+Wayne Edmund Dorsey,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,7
+Devon Cade,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,7
+Sherrie Cohen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,7
+Mark F Squilla,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,0,7
+Lou Lanni,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,7
+Total,169,111,105,89,59,55,55,54,47,38,32,28,22,18,13,9,8,8,8,7,6,5,3,3,1,1,1,1,0,0,161,37,7
+,Council At Large - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,District Council 1st District - Democrat,,8
+,Helen Gym,Justin Diberardinis,Erika Almirón,Isaiah Thomas,Ethelind Baylor,Adrián Rivera-reyes,Allan Domb,Deja Lynn Alvarez,Katherine Gilmore Richardson,Eryn Santamoor,Derek S Green,Fernando Treviño,Beth Finn,Sandra Dungee Glenn,Ogbonna Paul Hagins,Willie Floyd Singletary,Joseph A Diorio,Asa Khalif,Billy Thompson,Edwin Santana,Fareed Abdullah,Hena Veit,Latrice Y Bryant,Vinny Black,Wayne Edmund Dorsey,Bobbie Curry,Devon Cade,Mark Ross,Sherrie Cohen,Wayne Allen,Mark F Squilla,Lou Lanni,8
+Helen Gym,1,39,46,42,32,18,14,13,14,17,9,7,9,7,9,5,2,4,4,2,2,3,2,3,1,2,2,0,0,0,66,22,8
+Justin Diberardinis,,0,35,32,30,6,10,3,3,11,7,2,6,5,1,2,3,0,0,2,1,1,0,0,1,0,1,0,0,0,45,7,8
+Erika Almirón,,,0,38,32,6,1,7,8,6,2,5,5,4,3,1,1,3,0,0,1,1,1,2,0,0,1,0,0,0,42,6,8
+Isaiah Thomas,,,,2,29,6,10,4,7,3,6,6,3,2,1,2,2,1,2,0,2,1,0,0,1,1,0,1,0,0,39,8,8
+Ethelind Baylor,,,,,0,2,0,2,2,0,0,2,3,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,28,2,8
+Adrián Rivera-reyes,,,,,,0,5,11,4,3,5,5,6,4,6,5,2,0,0,1,1,1,1,2,0,0,0,0,0,0,15,14,8
+Allan Domb,,,,,,,2,1,7,10,7,3,2,4,0,1,3,0,3,2,0,1,2,1,1,0,2,0,0,0,17,9,8
+Deja Lynn Alvarez,,,,,,,,1,10,5,5,5,5,1,3,4,2,1,1,0,1,2,1,1,1,1,0,1,0,0,13,11,8
+Katherine Gilmore Richardson,,,,,,,,,0,8,6,7,3,5,1,2,2,0,1,0,1,3,3,0,1,1,0,1,0,0,16,8,8
+Eryn Santamoor,,,,,,,,,,0,5,3,2,4,0,0,0,1,1,1,0,1,0,1,1,0,1,0,0,0,17,5,8
+Derek S Green,,,,,,,,,,,0,4,1,2,0,1,0,0,1,1,0,0,0,1,0,1,1,0,0,0,9,8,8
+Fernando Treviño,,,,,,,,,,,,0,0,2,2,1,1,1,0,1,2,0,0,0,0,0,0,0,0,0,11,5,8
+Beth Finn,,,,,,,,,,,,,0,3,1,1,1,1,2,1,1,1,2,0,1,2,1,0,0,0,8,8,8
+Sandra Dungee Glenn,,,,,,,,,,,,,,0,2,0,1,0,0,1,0,2,1,0,1,0,0,0,0,0,9,5,8
+Ogbonna Paul Hagins,,,,,,,,,,,,,,,0,3,0,1,0,0,1,0,0,1,0,0,0,0,0,0,8,4,8
+Willie Floyd Singletary,,,,,,,,,,,,,,,,0,3,1,0,1,3,0,0,0,1,1,1,0,0,0,7,4,8
+Joseph A Diorio,,,,,,,,,,,,,,,,,0,0,0,1,0,1,1,1,1,0,1,1,0,0,4,4,8
+Asa Khalif,,,,,,,,,,,,,,,,,,0,0,1,2,0,0,2,0,1,0,0,0,0,3,2,8
+Billy Thompson,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,1,1,1,0,0,0,3,2,8
+Edwin Santana,,,,,,,,,,,,,,,,,,,,0,1,0,0,1,0,1,0,0,0,0,4,1,8
+Fareed Abdullah,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,4,1,8
+Hena Veit,,,,,,,,,,,,,,,,,,,,,,0,2,0,0,0,0,0,0,0,2,3,8
+Latrice Y Bryant,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,0,0,4,8
+Vinny Black,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,2,2,8
+Wayne Edmund Dorsey,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,2,1,8
+Bobbie Curry,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,2,8
+Devon Cade,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,2,8
+Mark Ross,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,1,0,8
+Sherrie Cohen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,8
+Wayne Allen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,8
+Mark F Squilla,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,0,8
+Lou Lanni,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,8
+Total,93,55,54,54,35,29,28,27,25,22,17,17,16,14,12,11,8,5,5,5,5,5,5,4,4,3,3,1,0,0,93,40,8
+,District Council 1st District - Democrat,,Council At Large - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10
+,Mark F Squilla,Lou Lanni,Helen Gym,Justin Diberardinis,Erika Almirón,Isaiah Thomas,Eryn Santamoor,Allan Domb,Ethelind Baylor,Adrián Rivera-reyes,Derek S Green,Deja Lynn Alvarez,Katherine Gilmore Richardson,Fernando Treviño,Beth Finn,Joseph A Diorio,Sandra Dungee Glenn,Latrice Y Bryant,Fareed Abdullah,Ogbonna Paul Hagins,Asa Khalif,Hena Veit,Mark Ross,Billy Thompson,Vinny Black,Willie Floyd Singletary,Bobbie Curry,Devon Cade,Wayne Allen,Edwin Santana,Sherrie Cohen,Wayne Edmund Dorsey,10
+Mark F Squilla,5,0,120,83,79,72,46,39,44,35,35,24,21,24,18,8,7,5,3,5,3,1,3,3,2,1,1,0,1,0,0,0,10
+Lou Lanni,,1,16,5,6,12,6,10,0,6,6,6,4,3,4,2,3,2,3,1,2,4,1,0,1,1,0,1,0,0,0,0,10
+Helen Gym,,,3,82,82,74,40,40,50,36,30,21,21,19,17,3,6,2,1,3,1,2,1,2,2,1,0,0,0,0,0,0,10
+Justin Diberardinis,,,,0,61,61,27,24,42,16,19,9,6,11,5,6,3,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,10
+Erika Almirón,,,,,0,59,20,10,44,18,13,15,9,10,9,1,3,2,2,0,1,0,0,1,1,1,0,0,1,0,0,0,10
+Isaiah Thomas,,,,,,0,18,12,45,12,14,10,8,5,4,2,5,3,4,2,2,2,0,1,1,1,0,0,0,0,0,0,10
+Eryn Santamoor,,,,,,,1,22,2,19,18,7,11,10,7,1,2,3,0,1,0,1,2,1,1,0,1,0,0,0,0,0,10
+Allan Domb,,,,,,,,1,5,9,18,6,5,6,4,5,3,0,0,1,0,2,1,1,0,0,0,1,0,0,0,0,10
+Ethelind Baylor,,,,,,,,,0,2,3,3,1,2,2,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,10
+Adrián Rivera-reyes,,,,,,,,,,0,5,15,8,7,8,1,2,3,1,4,3,0,1,1,0,1,1,0,0,0,0,0,10
+Derek S Green,,,,,,,,,,,0,5,10,7,3,1,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,10
+Deja Lynn Alvarez,,,,,,,,,,,,0,6,3,4,1,2,1,2,2,2,0,0,1,0,2,0,0,0,0,0,0,10
+Katherine Gilmore Richardson,,,,,,,,,,,,,0,7,4,1,2,3,1,1,0,1,1,0,1,0,0,0,1,0,0,0,10
+Fernando Treviño,,,,,,,,,,,,,,0,6,1,2,3,1,1,1,2,0,1,0,0,0,0,1,0,0,0,10
+Beth Finn,,,,,,,,,,,,,,,0,2,2,0,1,1,2,0,2,0,1,0,1,0,1,0,0,0,10
+Joseph A Diorio,,,,,,,,,,,,,,,,0,3,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,10
+Sandra Dungee Glenn,,,,,,,,,,,,,,,,,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10
+Latrice Y Bryant,,,,,,,,,,,,,,,,,,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,10
+Fareed Abdullah,,,,,,,,,,,,,,,,,,,0,3,3,1,0,0,0,1,0,0,0,0,0,0,10
+Ogbonna Paul Hagins,,,,,,,,,,,,,,,,,,,,0,2,0,0,0,0,1,0,0,0,0,0,0,10
+Asa Khalif,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,0,0,0,0,0,10
+Hena Veit,,,,,,,,,,,,,,,,,,,,,,0,1,0,1,0,0,0,0,0,0,0,10
+Mark Ross,,,,,,,,,,,,,,,,,,,,,,,0,1,2,0,1,0,0,0,0,0,10
+Billy Thompson,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,10
+Vinny Black,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,10
+Willie Floyd Singletary,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,10
+Bobbie Curry,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,10
+Devon Cade,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,10
+Wayne Allen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,10
+Edwin Santana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,10
+Sherrie Cohen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,10
+Wayne Edmund Dorsey,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,10
+Total,154,25,151,98,93,90,58,54,51,44,42,30,28,27,22,10,10,7,6,6,5,5,4,3,3,2,1,1,1,0,0,0,10
+,Council At Large - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,District Council 1st District - Democrat,,11
+,Helen Gym,Justin Diberardinis,Eryn Santamoor,Erika Almirón,Isaiah Thomas,Adrián Rivera-reyes,Allan Domb,Derek S Green,Katherine Gilmore Richardson,Deja Lynn Alvarez,Beth Finn,Ethelind Baylor,Fernando Treviño,Billy Thompson,Joseph A Diorio,Latrice Y Bryant,Mark Ross,Ogbonna Paul Hagins,Willie Floyd Singletary,Sandra Dungee Glenn,Asa Khalif,Vinny Black,Bobbie Curry,Hena Veit,Devon Cade,Edwin Santana,Fareed Abdullah,Wayne Allen,Sherrie Cohen,Wayne Edmund Dorsey,Mark F Squilla,Lou Lanni,11
+Helen Gym,3,92,77,83,72,33,32,32,32,24,18,15,13,7,2,4,3,4,5,4,1,3,0,2,1,1,0,0,0,0,105,31,11
+Justin Diberardinis,,0,58,56,57,19,16,20,13,9,10,12,5,3,3,3,5,0,0,1,2,2,1,0,0,0,0,0,0,0,69,20,11
+Eryn Santamoor,,,1,48,52,7,19,14,19,6,7,5,7,0,2,2,1,1,0,1,0,0,1,1,0,0,0,1,0,0,57,19,11
+Erika Almirón,,,,0,47,14,8,7,11,16,7,13,6,2,0,3,0,1,0,2,2,0,0,2,0,1,0,0,0,0,56,18,11
+Isaiah Thomas,,,,,0,6,16,19,17,5,1,7,2,1,1,1,1,3,1,0,2,1,1,2,0,1,0,0,0,0,57,14,11
+Adrián Rivera-reyes,,,,,,0,1,7,2,15,7,6,1,3,1,2,4,3,5,1,2,1,0,0,0,1,0,0,0,0,25,12,11
+Allan Domb,,,,,,,0,14,2,4,5,0,4,1,3,1,0,1,1,1,2,2,0,2,1,0,1,0,0,0,29,6,11
+Derek S Green,,,,,,,,1,9,7,3,1,2,2,1,0,4,1,0,0,0,0,1,1,0,0,0,0,0,0,25,7,11
+Katherine Gilmore Richardson,,,,,,,,,0,2,4,3,2,4,2,2,1,0,1,2,0,0,1,1,0,0,0,1,0,0,26,5,11
+Deja Lynn Alvarez,,,,,,,,,,0,4,4,4,2,1,2,1,2,3,1,2,0,1,0,1,0,0,0,0,0,21,7,11
+Beth Finn,,,,,,,,,,,0,3,3,2,0,3,2,0,2,0,0,0,0,0,0,0,0,0,0,0,16,5,11
+Ethelind Baylor,,,,,,,,,,,,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,14,3,11
+Fernando Treviño,,,,,,,,,,,,,0,1,1,1,0,1,1,0,0,0,0,0,2,0,1,0,0,0,8,5,11
+Billy Thompson,,,,,,,,,,,,,,0,2,2,1,1,1,1,0,1,0,0,1,0,0,0,0,0,4,6,11
+Joseph A Diorio,,,,,,,,,,,,,,,0,0,2,0,1,1,0,2,1,0,1,0,1,1,0,0,6,3,11
+Latrice Y Bryant,,,,,,,,,,,,,,,,0,1,2,0,1,0,0,1,0,0,0,0,0,0,0,3,4,11
+Mark Ross,,,,,,,,,,,,,,,,,0,0,0,0,0,1,3,0,0,0,0,0,0,0,4,4,11
+Ogbonna Paul Hagins,,,,,,,,,,,,,,,,,,0,3,1,0,0,0,0,0,0,0,0,0,0,3,3,11
+Willie Floyd Singletary,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,4,2,11
+Sandra Dungee Glenn,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,0,1,0,0,4,1,11
+Asa Khalif,,,,,,,,,,,,,,,,,,,,,0,0,0,1,0,0,0,0,0,0,4,0,11
+Vinny Black,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,0,0,2,2,11
+Bobbie Curry,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,2,1,11
+Hena Veit,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,1,1,11
+Devon Cade,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,2,0,11
+Edwin Santana,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,11
+Fareed Abdullah,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,11
+Wayne Allen,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,1,0,11
+Sherrie Cohen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,11
+Wayne Edmund Dorsey,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,11
+Mark F Squilla,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,0,11
+Lou Lanni,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,11
+Total,161,103,88,87,81,41,41,39,35,29,22,18,15,10,9,8,8,6,6,5,4,4,3,3,2,1,1,1,0,0,129,40,11
+,District Council 1st District - Democrat,,Council At Large - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12
+,Mark F Squilla,Lou Lanni,Helen Gym,Erika Almirón,Justin Diberardinis,Isaiah Thomas,Ethelind Baylor,Eryn Santamoor,Allan Domb,Adrián Rivera-reyes,Deja Lynn Alvarez,Katherine Gilmore Richardson,Derek S Green,Fernando Treviño,Beth Finn,Ogbonna Paul Hagins,Sandra Dungee Glenn,Asa Khalif,Joseph A Diorio,Vinny Black,Hena Veit,Bobbie Curry,Fareed Abdullah,Edwin Santana,Mark Ross,Wayne Edmund Dorsey,Latrice Y Bryant,Wayne Allen,Willie Floyd Singletary,Billy Thompson,Devon Cade,Sherrie Cohen,12
+Mark F Squilla,6,0,145,99,102,99,73,39,38,27,22,26,24,15,10,9,7,4,6,4,5,4,4,1,3,2,1,1,0,0,0,0,12
+Lou Lanni,,0,8,6,3,2,0,3,1,5,8,1,1,2,2,2,2,2,0,2,0,0,0,2,0,0,0,0,1,0,0,0,12
+Helen Gym,,,1,99,96,94,70,34,34,22,20,24,22,11,8,6,6,4,4,5,3,3,1,3,3,1,0,1,1,0,0,0,12
+Erika Almirón,,,,0,80,82,67,15,6,13,16,8,10,6,2,1,3,3,0,2,1,1,1,1,0,0,1,0,0,0,0,0,12
+Justin Diberardinis,,,,,0,77,67,13,13,12,6,8,7,6,5,0,1,1,3,1,1,0,1,1,2,1,0,0,0,0,0,0,12
+Isaiah Thomas,,,,,,0,65,15,12,7,9,10,13,4,3,3,2,0,2,0,1,0,2,0,0,0,0,0,0,0,0,0,12
+Ethelind Baylor,,,,,,,0,1,4,7,5,0,2,1,0,2,0,1,0,2,0,0,0,0,0,1,0,0,0,0,0,0,12
+Eryn Santamoor,,,,,,,,1,17,5,8,14,7,8,4,3,4,0,0,1,3,3,1,1,0,0,0,0,0,0,0,0,12
+Allan Domb,,,,,,,,,0,4,3,5,11,3,2,1,3,1,2,1,1,3,0,2,1,0,0,0,0,0,0,0,12
+Adrián Rivera-reyes,,,,,,,,,,0,11,4,3,2,3,7,1,4,0,2,0,1,1,0,1,0,1,0,1,0,0,0,12
+Deja Lynn Alvarez,,,,,,,,,,,0,3,7,4,3,7,2,5,0,0,2,0,1,0,0,0,0,1,1,0,0,0,12
+Katherine Gilmore Richardson,,,,,,,,,,,,0,8,4,5,2,3,0,2,1,1,0,1,0,1,1,0,1,0,0,0,0,12
+Derek S Green,,,,,,,,,,,,,0,0,5,1,0,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,12
+Fernando Treviño,,,,,,,,,,,,,,0,2,1,1,1,2,2,1,0,1,1,0,1,0,0,0,0,0,0,12
+Beth Finn,,,,,,,,,,,,,,,0,0,2,1,2,0,0,0,1,0,1,1,0,0,0,0,0,0,12
+Ogbonna Paul Hagins,,,,,,,,,,,,,,,,0,0,0,0,1,2,0,0,0,0,0,0,0,1,0,0,0,12
+Sandra Dungee Glenn,,,,,,,,,,,,,,,,,0,1,1,0,0,2,2,0,1,0,0,1,0,0,0,0,12
+Asa Khalif,,,,,,,,,,,,,,,,,,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,12
+Joseph A Diorio,,,,,,,,,,,,,,,,,,,0,0,1,0,1,0,0,1,0,0,0,0,0,0,12
+Vinny Black,,,,,,,,,,,,,,,,,,,,0,0,0,0,2,1,1,0,0,0,0,0,0,12
+Hena Veit,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,12
+Bobbie Curry,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,0,0,0,0,12
+Fareed Abdullah,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,12
+Edwin Santana,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,12
+Mark Ross,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,12
+Wayne Edmund Dorsey,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,12
+Latrice Y Bryant,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,12
+Wayne Allen,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,12
+Willie Floyd Singletary,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,12
+Billy Thompson,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,12
+Devon Cade,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,12
+Sherrie Cohen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,12
+Total,178,13,158,107,107,103,74,44,41,32,31,28,26,17,13,11,9,6,6,6,5,4,4,3,3,2,1,1,1,0,0,0,12
+,District Council 1st District - Democrat,,Council At Large - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13
+,Mark F Squilla,Lou Lanni,Helen Gym,Isaiah Thomas,Justin Diberardinis,Erika Almirón,Ethelind Baylor,Adrián Rivera-reyes,Allan Domb,Eryn Santamoor,Katherine Gilmore Richardson,Deja Lynn Alvarez,Derek S Green,Beth Finn,Ogbonna Paul Hagins,Willie Floyd Singletary,Bobbie Curry,Devon Cade,Edwin Santana,Latrice Y Bryant,Asa Khalif,Joseph A Diorio,Billy Thompson,Fernando Treviño,Mark Ross,Wayne Allen,Wayne Edmund Dorsey,Hena Veit,Sandra Dungee Glenn,Vinny Black,Fareed Abdullah,Sherrie Cohen,13
+Mark F Squilla,1,0,42,35,30,27,20,11,11,10,9,8,6,4,2,3,3,4,2,3,3,3,2,2,1,2,2,1,1,1,0,0,13
+Lou Lanni,,0,4,1,1,1,0,4,1,4,2,0,2,2,2,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,13
+Helen Gym,,,0,26,27,25,18,13,10,11,10,5,5,5,4,2,1,3,2,2,3,1,0,2,0,0,0,1,1,0,0,0,13
+Isaiah Thomas,,,,0,23,20,18,1,5,4,1,2,2,0,0,1,0,2,0,1,1,1,0,0,1,0,0,0,0,0,0,0,13
+Justin Diberardinis,,,,,0,22,19,8,7,7,3,2,3,2,0,0,0,0,3,0,2,1,1,0,0,1,0,0,0,0,0,0,13
+Erika Almirón,,,,,,0,19,5,3,4,3,3,2,3,0,0,0,1,1,0,0,0,0,2,0,1,0,0,1,0,0,0,13
+Ethelind Baylor,,,,,,,0,2,2,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+Adrián Rivera-reyes,,,,,,,,1,3,5,4,4,3,2,4,2,0,0,2,2,1,1,1,1,0,1,0,0,0,0,0,0,13
+Allan Domb,,,,,,,,,0,7,1,1,4,1,2,0,2,0,1,1,1,0,0,0,1,0,1,0,0,0,0,0,13
+Eryn Santamoor,,,,,,,,,,0,3,0,3,3,1,0,1,0,2,1,0,0,0,1,0,0,0,0,1,0,0,0,13
+Katherine Gilmore Richardson,,,,,,,,,,,0,1,2,3,1,0,1,2,1,2,0,2,1,2,0,1,0,1,0,0,0,0,13
+Deja Lynn Alvarez,,,,,,,,,,,,1,1,0,2,2,0,0,1,1,1,0,0,0,0,2,0,0,0,0,0,0,13
+Derek S Green,,,,,,,,,,,,,0,0,2,0,1,0,1,0,1,0,0,0,1,0,1,0,0,0,0,0,13
+Beth Finn,,,,,,,,,,,,,,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,13
+Ogbonna Paul Hagins,,,,,,,,,,,,,,,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+Willie Floyd Singletary,,,,,,,,,,,,,,,,1,1,1,0,1,0,1,1,0,0,0,1,0,0,1,0,0,13
+Bobbie Curry,,,,,,,,,,,,,,,,,0,0,0,0,0,0,1,0,1,0,2,0,0,1,0,0,13
+Devon Cade,,,,,,,,,,,,,,,,,,0,0,2,0,2,0,0,0,0,0,1,0,0,0,0,13
+Edwin Santana,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,13
+Latrice Y Bryant,,,,,,,,,,,,,,,,,,,,0,0,2,0,0,0,1,0,0,0,0,0,0,13
+Asa Khalif,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,13
+Joseph A Diorio,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,0,0,0,0,13
+Billy Thompson,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,1,0,0,13
+Fernando Treviño,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,13
+Mark Ross,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,0,13
+Wayne Allen,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,13
+Wayne Edmund Dorsey,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,1,0,0,13
+Hena Veit,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,13
+Sandra Dungee Glenn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,13
+Vinny Black,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,13
+Fareed Abdullah,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,13
+Sherrie Cohen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,13
+Total,60,7,51,37,33,29,21,19,14,14,12,11,8,6,6,6,4,4,4,4,3,3,2,2,2,2,2,1,1,1,0,0,13
+,District Council 1st District - Democrat,,Council At Large - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14
+,Mark F Squilla,Lou Lanni,Helen Gym,Isaiah Thomas,Justin Diberardinis,Allan Domb,Erika Almirón,Deja Lynn Alvarez,Derek S Green,Adrián Rivera-reyes,Katherine Gilmore Richardson,Ethelind Baylor,Eryn Santamoor,Willie Floyd Singletary,Ogbonna Paul Hagins,Fernando Treviño,Beth Finn,Sandra Dungee Glenn,Billy Thompson,Joseph A Diorio,Mark Ross,Asa Khalif,Vinny Black,Bobbie Curry,Fareed Abdullah,Latrice Y Bryant,Devon Cade,Hena Veit,Edwin Santana,Wayne Edmund Dorsey,Sherrie Cohen,Wayne Allen,14
+Mark F Squilla,12,0,71,38,42,27,35,21,22,11,17,23,18,8,7,10,10,5,6,4,5,3,3,3,1,0,1,1,0,1,0,0,14
+Lou Lanni,,3,23,6,4,8,1,13,6,17,8,1,2,9,9,2,2,3,1,2,0,1,1,0,2,3,1,0,0,0,0,0,14
+Helen Gym,,,1,39,44,24,33,23,18,17,23,24,12,12,13,9,7,7,3,3,3,3,1,1,3,2,2,0,1,0,0,0,14
+Isaiah Thomas,,,,0,30,15,21,3,13,3,13,20,5,3,0,1,1,5,2,2,1,0,1,0,0,1,1,0,1,0,0,0,14
+Justin Diberardinis,,,,,0,10,27,6,11,2,10,19,10,0,2,1,2,3,1,0,0,1,0,0,0,1,0,0,0,0,0,0,14
+Allan Domb,,,,,,2,5,9,13,7,7,2,9,2,2,4,4,3,3,4,3,3,0,1,3,0,1,0,0,0,0,0,14
+Erika Almirón,,,,,,,0,5,6,3,6,19,7,0,0,4,5,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,14
+Deja Lynn Alvarez,,,,,,,,0,8,15,6,2,3,6,8,6,4,3,3,2,1,0,2,0,1,0,0,1,0,0,0,0,14
+Derek S Green,,,,,,,,,0,0,13,0,4,2,1,1,3,3,1,2,1,0,1,0,1,0,0,0,0,0,0,0,14
+Adrián Rivera-reyes,,,,,,,,,,1,3,2,0,9,12,3,3,2,2,1,0,1,1,1,1,1,0,0,0,1,0,0,14
+Katherine Gilmore Richardson,,,,,,,,,,,0,3,9,1,1,4,4,3,2,1,1,1,1,0,0,3,0,0,1,0,0,0,14
+Ethelind Baylor,,,,,,,,,,,,0,1,0,0,0,1,0,2,0,0,0,1,1,0,0,0,0,0,0,0,0,14
+Eryn Santamoor,,,,,,,,,,,,,0,2,0,6,2,1,3,2,2,1,1,1,0,1,1,2,0,0,0,0,14
+Willie Floyd Singletary,,,,,,,,,,,,,,0,9,1,0,0,1,0,1,1,0,1,1,1,1,0,0,0,0,0,14
+Ogbonna Paul Hagins,,,,,,,,,,,,,,,0,2,0,1,0,0,0,2,1,1,0,0,0,0,0,1,0,0,14
+Fernando Treviño,,,,,,,,,,,,,,,,0,5,0,3,2,1,0,0,0,0,0,0,1,0,0,0,0,14
+Beth Finn,,,,,,,,,,,,,,,,,0,3,0,0,1,0,0,0,0,1,0,0,0,0,0,0,14
+Sandra Dungee Glenn,,,,,,,,,,,,,,,,,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,14
+Billy Thompson,,,,,,,,,,,,,,,,,,,0,2,0,0,1,1,0,1,0,1,0,0,0,0,14
+Joseph A Diorio,,,,,,,,,,,,,,,,,,,,0,2,0,0,0,0,0,1,1,0,0,0,0,14
+Mark Ross,,,,,,,,,,,,,,,,,,,,,0,0,1,1,0,0,0,1,0,0,0,0,14
+Asa Khalif,,,,,,,,,,,,,,,,,,,,,,0,0,0,1,0,1,0,0,0,0,0,14
+Vinny Black,,,,,,,,,,,,,,,,,,,,,,,0,2,0,0,0,1,0,1,0,0,14
+Bobbie Curry,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,1,0,0,14
+Fareed Abdullah,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,14
+Latrice Y Bryant,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,14
+Devon Cade,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,14
+Hena Veit,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,14
+Edwin Santana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,14
+Wayne Edmund Dorsey,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,14
+Sherrie Cohen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,14
+Wayne Allen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,14
+Total,113,34,103,50,48,41,39,35,31,30,30,25,23,18,16,15,13,10,8,8,6,4,4,3,3,3,2,2,1,1,0,0,14
+,Council At Large - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,District Council 1st District - Democrat,,15
+,Helen Gym,Isaiah Thomas,Justin Diberardinis,Eryn Santamoor,Erika Almirón,Katherine Gilmore Richardson,Ethelind Baylor,Allan Domb,Adrián Rivera-reyes,Deja Lynn Alvarez,Derek S Green,Beth Finn,Fernando Treviño,Sandra Dungee Glenn,Ogbonna Paul Hagins,Asa Khalif,Willie Floyd Singletary,Billy Thompson,Fareed Abdullah,Wayne Edmund Dorsey,Devon Cade,Edwin Santana,Hena Veit,Joseph A Diorio,Vinny Black,Latrice Y Bryant,Wayne Allen,Bobbie Curry,Mark Ross,Sherrie Cohen,Mark F Squilla,Lou Lanni,15
+Helen Gym,2,128,132,89,71,67,53,28,30,13,8,11,11,3,6,5,4,2,0,1,2,3,3,2,1,0,1,0,0,0,137,32,15
+Isaiah Thomas,,0,110,65,62,55,54,14,8,5,7,7,8,1,0,4,1,1,1,2,1,2,0,0,0,1,1,0,0,0,109,22,15
+Justin Diberardinis,,,0,77,62,58,49,21,13,4,6,6,4,1,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,114,17,15
+Eryn Santamoor,,,,0,13,68,4,20,17,6,10,11,6,5,2,0,1,2,0,0,1,1,1,3,1,0,0,0,0,0,71,25,15
+Erika Almirón,,,,,0,10,47,6,8,4,1,5,8,5,1,4,0,0,4,1,1,0,0,0,2,0,1,1,0,0,69,6,15
+Katherine Gilmore Richardson,,,,,,0,0,10,5,2,7,5,4,5,2,0,0,1,0,1,0,1,0,0,0,1,1,0,0,0,53,19,15
+Ethelind Baylor,,,,,,,0,6,3,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,53,0,15
+Allan Domb,,,,,,,,1,4,0,12,4,3,4,1,2,1,2,0,1,1,2,1,1,1,1,0,0,1,0,36,5,15
+Adrián Rivera-reyes,,,,,,,,,0,15,2,5,2,3,6,3,4,1,3,0,1,0,2,1,1,0,0,0,0,0,23,14,15
+Deja Lynn Alvarez,,,,,,,,,,0,3,1,3,1,5,3,4,0,2,0,0,0,0,1,0,0,1,0,0,0,12,8,15
+Derek S Green,,,,,,,,,,,0,1,0,5,0,2,1,2,0,2,1,0,0,0,0,2,1,0,0,0,12,6,15
+Beth Finn,,,,,,,,,,,,0,2,3,2,2,0,1,1,1,1,0,1,0,1,0,0,1,0,0,13,5,15
+Fernando Treviño,,,,,,,,,,,,,0,0,1,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,9,5,15
+Sandra Dungee Glenn,,,,,,,,,,,,,,0,1,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,5,5,15
+Ogbonna Paul Hagins,,,,,,,,,,,,,,,0,0,4,3,0,0,0,0,1,1,0,0,0,0,0,0,3,6,15
+Asa Khalif,,,,,,,,,,,,,,,,0,0,0,2,1,1,0,0,0,0,0,1,0,0,0,5,3,15
+Willie Floyd Singletary,,,,,,,,,,,,,,,,,0,1,0,1,0,0,1,1,0,1,0,0,0,0,4,4,15
+Billy Thompson,,,,,,,,,,,,,,,,,,0,0,1,0,0,1,1,0,0,0,0,0,0,3,2,15
+Fareed Abdullah,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,0,0,0,0,0,4,0,15
+Wayne Edmund Dorsey,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,1,1,0,0,0,0,2,1,15
+Devon Cade,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,1,0,0,2,1,15
+Edwin Santana,,,,,,,,,,,,,,,,,,,,,,0,0,0,1,0,0,0,0,0,1,1,15
+Hena Veit,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,15
+Joseph A Diorio,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,2,1,15
+Vinny Black,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,1,0,0,2,0,15
+Latrice Y Bryant,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,1,15
+Wayne Allen,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,2,0,15
+Bobbie Curry,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,1,0,15
+Mark Ross,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,15
+Sherrie Cohen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,15
+Mark F Squilla,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,0,15
+Lou Lanni,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,15
+Total,183,142,141,104,80,77,56,47,38,20,20,19,14,11,9,8,8,5,4,4,3,3,3,3,3,2,2,1,1,0,167,45,15
+,District Council 1st District - Democrat,,Council At Large - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16
+,Mark F Squilla,Lou Lanni,Helen Gym,Justin Diberardinis,Erika Almirón,Isaiah Thomas,Eryn Santamoor,Ethelind Baylor,Allan Domb,Katherine Gilmore Richardson,Derek S Green,Adrián Rivera-reyes,Deja Lynn Alvarez,Beth Finn,Fernando Treviño,Sandra Dungee Glenn,Asa Khalif,Billy Thompson,Latrice Y Bryant,Ogbonna Paul Hagins,Fareed Abdullah,Edwin Santana,Hena Veit,Willie Floyd Singletary,Devon Cade,Joseph A Diorio,Mark Ross,Vinny Black,Wayne Allen,Bobbie Curry,Sherrie Cohen,Wayne Edmund Dorsey,16
+Mark F Squilla,5,0,196,133,129,116,64,76,60,48,42,42,28,33,29,16,6,6,4,6,4,4,3,2,1,1,1,1,1,1,0,0,16
+Lou Lanni,,0,21,13,14,9,13,2,8,8,9,7,15,5,5,4,2,2,3,2,1,1,1,2,0,1,1,1,0,0,0,0,16
+Helen Gym,,,1,138,138,119,67,78,48,53,46,32,32,22,24,11,8,4,6,4,4,0,2,2,0,1,0,1,1,1,0,0,16
+Justin Diberardinis,,,,0,105,102,43,68,29,19,25,22,13,7,5,2,3,1,1,1,2,2,0,0,2,1,0,1,1,0,0,0,16
+Erika Almirón,,,,,0,87,34,70,11,25,22,19,18,17,12,12,2,1,3,3,1,2,1,0,0,0,0,1,0,0,0,0,16
+Isaiah Thomas,,,,,,1,27,69,30,21,19,16,7,12,5,5,3,2,1,2,1,3,0,1,2,1,0,1,0,0,0,0,16
+Eryn Santamoor,,,,,,,0,4,25,38,22,15,13,10,14,6,2,2,4,0,1,0,4,0,1,0,1,0,0,0,0,0,16
+Ethelind Baylor,,,,,,,,0,4,1,2,6,4,5,0,0,1,0,0,0,1,2,1,0,0,0,1,0,1,0,0,0,16
+Allan Domb,,,,,,,,,0,13,22,6,4,12,9,6,1,4,0,2,1,1,0,0,2,1,1,1,0,0,0,0,16
+Katherine Gilmore Richardson,,,,,,,,,,0,13,9,8,11,15,8,1,2,2,3,1,0,0,0,0,0,0,1,1,1,0,0,16
+Derek S Green,,,,,,,,,,,0,3,13,7,2,3,2,2,0,1,0,0,0,0,0,0,1,0,1,1,0,0,16
+Adrián Rivera-reyes,,,,,,,,,,,,0,20,10,15,4,2,2,2,1,0,2,1,1,0,0,0,0,0,0,0,0,16
+Deja Lynn Alvarez,,,,,,,,,,,,,0,5,5,5,4,3,2,1,1,0,1,2,0,1,0,0,0,0,0,0,16
+Beth Finn,,,,,,,,,,,,,,0,6,11,1,1,4,2,0,3,2,0,0,1,2,0,0,0,0,0,16
+Fernando Treviño,,,,,,,,,,,,,,,0,0,1,0,1,2,2,2,1,3,0,1,0,0,0,0,0,0,16
+Sandra Dungee Glenn,,,,,,,,,,,,,,,,0,1,0,2,3,0,1,0,0,0,0,0,1,0,0,0,0,16
+Asa Khalif,,,,,,,,,,,,,,,,,0,0,0,1,3,0,0,0,0,0,0,0,1,0,0,0,16
+Billy Thompson,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,16
+Latrice Y Bryant,,,,,,,,,,,,,,,,,,,0,0,1,0,2,0,0,0,0,0,0,0,0,0,16
+Ogbonna Paul Hagins,,,,,,,,,,,,,,,,,,,,0,1,0,0,1,0,0,0,1,0,0,0,0,16
+Fareed Abdullah,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,0,1,0,0,0,16
+Edwin Santana,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,0,16
+Hena Veit,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,0,0,0,16
+Willie Floyd Singletary,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,0,0,16
+Devon Cade,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,16
+Joseph A Diorio,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,16
+Mark Ross,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,16
+Vinny Black,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,16
+Wayne Allen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,16
+Bobbie Curry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,16
+Sherrie Cohen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,16
+Wayne Edmund Dorsey,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,16
+Total,248,37,240,164,154,144,91,84,79,65,57,51,44,39,36,21,10,8,8,8,6,5,5,4,2,2,2,2,2,1,0,0,16
+,Council At Large - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,District Council 1st District - Democrat,,17
+,Helen Gym,Erika Almirón,Justin Diberardinis,Isaiah Thomas,Ethelind Baylor,Allan Domb,Eryn Santamoor,Adrián Rivera-reyes,Derek S Green,Katherine Gilmore Richardson,Deja Lynn Alvarez,Beth Finn,Asa Khalif,Ogbonna Paul Hagins,Fernando Treviño,Sandra Dungee Glenn,Willie Floyd Singletary,Billy Thompson,Joseph A Diorio,Latrice Y Bryant,Mark Ross,Wayne Allen,Bobbie Curry,Devon Cade,Edwin Santana,Fareed Abdullah,Hena Veit,Wayne Edmund Dorsey,Sherrie Cohen,Vinny Black,Mark F Squilla,Lou Lanni,17
+Helen Gym,0,126,126,118,85,28,36,29,21,18,18,9,8,8,6,3,0,3,3,3,2,1,0,0,1,1,0,1,0,0,159,14,17
+Erika Almirón,,0,98,99,80,7,14,15,8,9,11,5,6,2,4,4,0,1,1,3,0,1,0,1,1,0,0,0,0,0,115,11,17
+Justin Diberardinis,,,0,94,78,12,19,18,10,9,7,5,5,2,3,2,0,0,0,0,0,0,0,0,1,0,0,1,0,0,118,7,17
+Isaiah Thomas,,,,0,79,12,15,9,8,7,2,2,6,3,1,1,1,1,1,2,2,2,0,1,0,1,0,1,0,0,109,9,17
+Ethelind Baylor,,,,,0,1,5,3,3,1,3,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,80,3,17
+Allan Domb,,,,,,0,19,8,14,9,3,6,3,1,3,3,3,1,3,1,4,2,1,2,0,1,1,0,0,0,33,7,17
+Eryn Santamoor,,,,,,,1,8,10,12,6,7,1,1,2,4,0,1,1,0,0,0,0,0,0,0,0,0,0,0,33,6,17
+Adrián Rivera-reyes,,,,,,,,0,5,5,8,2,2,7,5,0,1,1,0,0,0,0,0,0,1,1,1,1,0,0,26,7,17
+Derek S Green,,,,,,,,,0,6,3,3,2,2,0,1,1,0,1,1,1,1,1,0,1,1,1,0,0,0,19,6,17
+Katherine Gilmore Richardson,,,,,,,,,,0,6,6,2,2,3,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,16,6,17
+Deja Lynn Alvarez,,,,,,,,,,,0,5,4,3,2,0,1,2,1,2,0,0,0,1,0,1,0,0,0,0,20,4,17
+Beth Finn,,,,,,,,,,,,0,1,1,1,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,11,4,17
+Asa Khalif,,,,,,,,,,,,,0,0,2,1,1,0,0,1,2,0,0,0,0,1,1,0,0,0,9,4,17
+Ogbonna Paul Hagins,,,,,,,,,,,,,,0,2,1,0,3,0,0,0,1,1,0,1,0,1,0,0,0,7,4,17
+Fernando Treviño,,,,,,,,,,,,,,,0,2,0,0,1,0,0,0,0,0,0,1,0,0,0,0,7,3,17
+Sandra Dungee Glenn,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,17
+Willie Floyd Singletary,,,,,,,,,,,,,,,,,0,0,1,1,1,0,0,0,0,0,0,0,0,0,3,1,17
+Billy Thompson,,,,,,,,,,,,,,,,,,0,1,0,1,1,0,0,0,0,0,0,0,0,3,1,17
+Joseph A Diorio,,,,,,,,,,,,,,,,,,,0,1,1,0,0,0,0,0,0,0,0,0,3,1,17
+Latrice Y Bryant,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,0,3,1,17
+Mark Ross,,,,,,,,,,,,,,,,,,,,,0,1,0,1,0,0,0,0,0,0,3,1,17
+Wayne Allen,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,0,0,1,2,17
+Bobbie Curry,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,1,0,0,0,1,1,17
+Devon Cade,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,1,1,17
+Edwin Santana,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,1,1,17
+Fareed Abdullah,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,1,17
+Hena Veit,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,2,17
+Wayne Edmund Dorsey,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,1,0,17
+Sherrie Cohen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,17
+Vinny Black,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,17
+Mark F Squilla,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,17
+Lou Lanni,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,17
+Total,183,132,131,124,87,47,46,36,28,26,24,15,13,11,10,8,5,4,4,4,4,3,2,2,2,2,2,1,0,0,179,26,17
+,District Council 1st District - Democrat,,Council At Large - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18
+,Mark F Squilla,Lou Lanni,Helen Gym,Erika Almirón,Justin Diberardinis,Isaiah Thomas,Eryn Santamoor,Ethelind Baylor,Katherine Gilmore Richardson,Allan Domb,Adrián Rivera-reyes,Deja Lynn Alvarez,Derek S Green,Beth Finn,Fernando Treviño,Joseph A Diorio,Sandra Dungee Glenn,Ogbonna Paul Hagins,Asa Khalif,Edwin Santana,Latrice Y Bryant,Willie Floyd Singletary,Devon Cade,Hena Veit,Mark Ross,Vinny Black,Bobbie Curry,Fareed Abdullah,Wayne Allen,Wayne Edmund Dorsey,Billy Thompson,Sherrie Cohen,18
+Mark F Squilla,3,0,133,93,90,72,46,48,33,29,22,25,24,18,15,6,8,5,2,3,1,1,1,1,0,1,0,0,1,1,0,0,18
+Lou Lanni,,1,14,9,6,4,9,3,4,4,5,5,2,5,3,4,3,2,2,0,2,2,1,1,2,1,1,1,0,0,0,0,18
+Helen Gym,,,0,100,93,76,46,50,35,30,22,20,22,17,15,8,8,5,2,2,1,1,1,1,0,0,0,0,1,1,0,0,18
+Erika Almirón,,,,0,71,60,26,52,19,3,17,17,14,10,4,1,5,1,2,1,1,0,2,1,0,1,1,0,0,0,0,0,18
+Justin Diberardinis,,,,,0,53,26,45,11,12,16,12,14,11,2,2,1,2,0,1,0,1,0,0,1,0,0,0,0,1,0,0,18
+Isaiah Thomas,,,,,,0,13,41,14,15,4,6,9,6,3,9,2,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,18
+Eryn Santamoor,,,,,,,0,6,18,13,9,5,6,12,13,1,6,3,3,0,1,1,2,1,0,0,1,1,0,0,0,0,18
+Ethelind Baylor,,,,,,,,0,2,0,4,7,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,18
+Katherine Gilmore Richardson,,,,,,,,,0,16,7,7,7,6,10,9,2,2,0,2,0,0,0,0,1,0,0,0,0,0,0,0,18
+Allan Domb,,,,,,,,,,0,4,1,7,2,6,8,2,0,1,1,0,1,1,0,1,0,0,0,1,1,0,0,18
+Adrián Rivera-reyes,,,,,,,,,,,0,10,3,4,4,2,2,1,0,1,1,1,0,1,0,2,0,1,1,0,0,0,18
+Deja Lynn Alvarez,,,,,,,,,,,,0,8,6,4,3,1,3,0,1,1,1,0,1,1,2,0,0,0,0,0,0,18
+Derek S Green,,,,,,,,,,,,,0,0,1,0,2,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,18
+Beth Finn,,,,,,,,,,,,,,0,3,0,1,2,0,0,0,0,0,1,0,0,0,0,1,0,0,0,18
+Fernando Treviño,,,,,,,,,,,,,,,0,0,2,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,18
+Joseph A Diorio,,,,,,,,,,,,,,,,0,1,0,1,0,1,3,0,0,1,1,0,0,0,0,0,0,18
+Sandra Dungee Glenn,,,,,,,,,,,,,,,,,0,0,2,0,1,0,0,1,0,1,0,1,0,0,0,0,18
+Ogbonna Paul Hagins,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+Asa Khalif,,,,,,,,,,,,,,,,,,,0,0,1,1,0,0,0,0,0,0,0,0,0,0,18
+Edwin Santana,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,1,0,0,18
+Latrice Y Bryant,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,1,0,0,0,0,18
+Willie Floyd Singletary,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,0,18
+Devon Cade,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,0,0,0,18
+Hena Veit,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,0,0,18
+Mark Ross,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,18
+Vinny Black,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,18
+Bobbie Curry,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,18
+Fareed Abdullah,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,18
+Wayne Allen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,18
+Wayne Edmund Dorsey,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,18
+Billy Thompson,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,18
+Sherrie Cohen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,18
+Total,162,23,160,108,103,82,59,54,44,39,31,30,27,23,19,13,12,7,4,3,3,3,2,2,2,2,1,1,1,1,0,0,18
+,District Council 1st District - Democrat,,Council At Large - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23
+,Mark F Squilla,Lou Lanni,Helen Gym,Justin Diberardinis,Eryn Santamoor,Erika Almirón,Derek S Green,Isaiah Thomas,Allan Domb,Katherine Gilmore Richardson,Adrián Rivera-reyes,Ethelind Baylor,Deja Lynn Alvarez,Beth Finn,Fernando Treviño,Ogbonna Paul Hagins,Sandra Dungee Glenn,Asa Khalif,Joseph A Diorio,Edwin Santana,Fareed Abdullah,Hena Veit,Latrice Y Bryant,Devon Cade,Mark Ross,Vinny Black,Willie Floyd Singletary,Billy Thompson,Bobbie Curry,Wayne Allen,Wayne Edmund Dorsey,Sherrie Cohen,23
+Mark F Squilla,4,0,159,108,99,69,62,52,52,48,49,35,31,25,21,8,4,4,6,3,3,2,2,1,3,4,3,2,0,0,1,0,23
+Lou Lanni,,0,23,9,8,11,2,7,6,9,6,3,5,7,5,4,3,2,0,2,2,3,3,2,1,0,1,1,1,1,0,0,23
+Helen Gym,,,5,109,93,78,55,59,40,57,46,40,28,27,19,7,8,5,2,2,3,4,4,2,3,2,2,2,1,1,1,0,23
+Justin Diberardinis,,,,0,61,46,45,45,26,33,23,29,11,11,5,2,1,1,1,2,2,3,1,2,1,1,0,2,0,0,0,0,23
+Eryn Santamoor,,,,,0,32,46,21,28,47,24,8,16,15,14,4,0,2,1,4,1,2,1,1,1,1,1,0,0,0,1,0,23
+Erika Almirón,,,,,,1,12,37,4,15,16,30,9,15,12,0,6,2,0,1,1,0,2,0,0,0,0,0,0,1,0,0,23
+Derek S Green,,,,,,,0,9,19,32,6,7,6,2,7,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,23
+Isaiah Thomas,,,,,,,,0,12,11,12,25,2,8,5,0,2,2,1,1,0,0,0,1,0,0,0,0,0,1,0,0,23
+Allan Domb,,,,,,,,,0,7,14,4,9,3,3,0,2,1,6,2,1,0,0,0,2,0,0,1,1,0,0,0,23
+Katherine Gilmore Richardson,,,,,,,,,,0,4,1,3,2,14,0,4,0,0,1,2,2,1,0,1,0,0,0,0,1,0,0,23
+Adrián Rivera-reyes,,,,,,,,,,,0,6,20,11,6,7,1,3,0,1,0,0,1,0,1,2,2,1,1,0,0,0,23
+Ethelind Baylor,,,,,,,,,,,,0,5,2,2,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,23
+Deja Lynn Alvarez,,,,,,,,,,,,,0,5,4,7,1,2,0,1,1,0,2,0,0,2,4,0,0,0,0,0,23
+Beth Finn,,,,,,,,,,,,,,0,3,3,2,3,0,0,0,1,1,2,2,0,0,1,0,0,1,0,23
+Fernando Treviño,,,,,,,,,,,,,,,0,2,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,23
+Ogbonna Paul Hagins,,,,,,,,,,,,,,,,0,0,2,0,0,0,2,1,1,0,2,4,0,0,0,0,0,23
+Sandra Dungee Glenn,,,,,,,,,,,,,,,,,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,23
+Asa Khalif,,,,,,,,,,,,,,,,,,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,23
+Joseph A Diorio,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,1,0,0,1,0,0,0,0,23
+Edwin Santana,,,,,,,,,,,,,,,,,,,,0,1,1,0,0,0,0,0,0,1,0,0,0,23
+Fareed Abdullah,,,,,,,,,,,,,,,,,,,,,0,3,0,0,0,0,0,0,0,0,0,0,23
+Hena Veit,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,0,23
+Latrice Y Bryant,,,,,,,,,,,,,,,,,,,,,,,0,1,0,1,1,0,0,0,0,0,23
+Devon Cade,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,0,0,23
+Mark Ross,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,2,0,0,1,0,23
+Vinny Black,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,1,0,0,0,0,23
+Willie Floyd Singletary,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,23
+Billy Thompson,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,23
+Bobbie Curry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,23
+Wayne Allen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,23
+Wayne Edmund Dorsey,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,23
+Sherrie Cohen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,23
+Total,204,27,199,126,115,86,69,66,62,62,56,41,38,33,27,12,8,7,6,5,5,5,5,4,4,4,4,3,1,1,1,0,23
+,Council At Large - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,District Council 1st District - Democrat,,24
+,Helen Gym,Justin Diberardinis,Eryn Santamoor,Erika Almirón,Isaiah Thomas,Katherine Gilmore Richardson,Allan Domb,Derek S Green,Deja Lynn Alvarez,Fernando Treviño,Ethelind Baylor,Adrián Rivera-reyes,Beth Finn,Sandra Dungee Glenn,Ogbonna Paul Hagins,Asa Khalif,Joseph A Diorio,Hena Veit,Latrice Y Bryant,Mark Ross,Willie Floyd Singletary,Bobbie Curry,Fareed Abdullah,Billy Thompson,Devon Cade,Edwin Santana,Vinny Black,Wayne Allen,Wayne Edmund Dorsey,Sherrie Cohen,Mark F Squilla,Lou Lanni,24
+Helen Gym,0,110,96,82,88,64,44,34,25,21,21,15,12,7,5,4,3,3,2,4,2,1,1,2,0,2,0,1,1,0,144,13,24
+Justin Diberardinis,,2,70,54,73,42,34,29,15,7,21,11,1,1,3,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,107,6,24
+Eryn Santamoor,,,1,35,48,61,34,12,3,19,8,5,5,3,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,92,5,24
+Erika Almirón,,,,0,38,26,13,19,18,16,26,14,4,5,0,3,0,0,0,0,0,0,0,1,0,0,0,1,0,0,77,7,24
+Isaiah Thomas,,,,,0,37,18,12,7,3,17,8,4,2,4,1,1,0,1,0,1,0,1,2,1,1,0,0,0,0,80,6,24
+Katherine Gilmore Richardson,,,,,,0,15,9,2,16,3,3,5,3,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,64,4,24
+Allan Domb,,,,,,,0,16,3,13,1,3,5,4,3,2,5,2,0,2,1,3,1,0,2,2,1,0,1,0,49,8,24
+Derek S Green,,,,,,,,0,12,3,1,2,2,6,1,2,0,2,2,1,0,0,1,0,0,1,0,0,0,0,35,4,24
+Deja Lynn Alvarez,,,,,,,,,0,4,3,9,3,0,4,3,1,2,1,0,1,0,1,0,0,0,0,1,0,0,24,6,24
+Fernando Treviño,,,,,,,,,,0,4,5,4,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,22,4,24
+Ethelind Baylor,,,,,,,,,,,0,7,0,1,0,1,0,1,1,0,0,1,0,0,1,0,0,0,0,0,26,3,24
+Adrián Rivera-reyes,,,,,,,,,,,,1,0,2,4,3,0,0,0,0,1,0,1,0,0,0,0,0,0,0,17,5,24
+Beth Finn,,,,,,,,,,,,,0,1,0,0,2,0,0,3,0,1,0,0,0,0,1,1,0,0,10,3,24
+Sandra Dungee Glenn,,,,,,,,,,,,,,0,0,3,0,0,2,0,0,0,0,1,0,0,0,0,0,0,5,3,24
+Ogbonna Paul Hagins,,,,,,,,,,,,,,,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0,8,1,24
+Asa Khalif,,,,,,,,,,,,,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,3,3,24
+Joseph A Diorio,,,,,,,,,,,,,,,,,0,1,0,1,0,2,1,0,1,0,1,0,1,0,4,2,24
+Hena Veit,,,,,,,,,,,,,,,,,,0,1,1,0,1,0,0,1,0,0,0,0,0,4,0,24
+Latrice Y Bryant,,,,,,,,,,,,,,,,,,,0,1,0,0,0,1,0,0,0,0,0,0,2,1,24
+Mark Ross,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,0,3,0,24
+Willie Floyd Singletary,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,3,1,24
+Bobbie Curry,,,,,,,,,,,,,,,,,,,,,,0,0,0,1,0,1,0,1,0,1,2,24
+Fareed Abdullah,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,0,2,1,24
+Billy Thompson,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,1,1,24
+Devon Cade,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,2,0,24
+Edwin Santana,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,2,0,24
+Vinny Black,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,24
+Wayne Allen,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,24
+Wayne Edmund Dorsey,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,1,24
+Sherrie Cohen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,24
+Mark F Squilla,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,24
+Lou Lanni,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,24
+Total,179,129,112,94,94,74,62,44,32,31,30,25,15,12,10,7,6,4,4,4,4,3,3,2,2,2,1,1,1,0,173,22,24
+,Council At Large - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,District Council 1st District - Democrat,,25
+,Helen Gym,Erika Almirón,Justin Diberardinis,Isaiah Thomas,Eryn Santamoor,Ethelind Baylor,Allan Domb,Adrián Rivera-reyes,Beth Finn,Deja Lynn Alvarez,Derek S Green,Katherine Gilmore Richardson,Fernando Treviño,Sandra Dungee Glenn,Ogbonna Paul Hagins,Fareed Abdullah,Asa Khalif,Willie Floyd Singletary,Billy Thompson,Latrice Y Bryant,Hena Veit,Joseph A Diorio,Vinny Black,Wayne Allen,Devon Cade,Bobbie Curry,Edwin Santana,Mark Ross,Wayne Edmund Dorsey,Sherrie Cohen,Mark F Squilla,Lou Lanni,25
+Helen Gym,1,97,93,75,50,54,37,36,33,26,17,18,14,12,10,6,7,5,2,1,3,2,0,2,0,1,0,0,0,0,132,24,25
+Erika Almirón,,0,64,64,21,53,12,14,12,14,7,7,7,6,1,4,2,0,0,2,1,0,0,1,0,1,0,0,0,0,84,12,25
+Justin Diberardinis,,,0,62,21,46,17,13,8,10,12,7,3,1,4,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,77,12,25
+Isaiah Thomas,,,,0,14,49,12,10,10,4,8,3,4,3,2,2,2,1,0,0,0,1,1,0,0,0,0,0,0,0,67,9,25
+Eryn Santamoor,,,,,0,5,20,12,17,13,7,15,7,8,2,4,4,0,0,2,1,0,0,1,0,0,0,0,0,0,43,9,25
+Ethelind Baylor,,,,,,0,1,2,5,1,1,0,2,1,1,1,0,0,1,0,0,0,0,1,0,0,1,0,0,0,44,9,25
+Allan Domb,,,,,,,1,9,13,5,9,5,11,4,2,1,2,1,1,0,0,3,0,0,1,1,0,1,1,0,37,6,25
+Adrián Rivera-reyes,,,,,,,,1,13,19,7,4,2,4,8,1,2,5,1,1,1,0,0,1,0,0,0,1,1,0,33,11,25
+Beth Finn,,,,,,,,,0,9,5,13,5,8,2,2,1,1,1,0,3,1,0,1,0,1,1,0,0,0,30,10,25
+Deja Lynn Alvarez,,,,,,,,,,0,4,5,4,4,7,0,3,3,1,1,0,0,0,1,0,0,0,0,0,0,25,8,25
+Derek S Green,,,,,,,,,,,0,2,2,1,2,1,1,1,2,1,0,1,1,0,1,0,0,0,0,0,20,1,25
+Katherine Gilmore Richardson,,,,,,,,,,,,0,0,3,1,1,1,0,0,1,2,1,0,1,0,0,0,0,0,0,18,4,25
+Fernando Treviño,,,,,,,,,,,,,0,1,0,2,2,1,2,0,0,0,0,1,1,0,1,1,1,0,17,1,25
+Sandra Dungee Glenn,,,,,,,,,,,,,,0,1,3,3,0,0,1,1,0,0,1,0,0,0,0,0,0,11,5,25
+Ogbonna Paul Hagins,,,,,,,,,,,,,,,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,10,2,25
+Fareed Abdullah,,,,,,,,,,,,,,,,0,2,0,1,2,0,0,1,1,0,0,0,0,0,0,7,3,25
+Asa Khalif,,,,,,,,,,,,,,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6,2,25
+Willie Floyd Singletary,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,25
+Billy Thompson,,,,,,,,,,,,,,,,,,,0,1,0,0,1,0,1,0,1,0,0,0,3,2,25
+Latrice Y Bryant,,,,,,,,,,,,,,,,,,,,0,0,0,1,0,0,0,0,0,0,0,2,2,25
+Hena Veit,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,2,1,25
+Joseph A Diorio,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,0,25
+Vinny Black,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,0,1,1,25
+Wayne Allen,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,2,1,25
+Devon Cade,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,1,1,25
+Bobbie Curry,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,25
+Edwin Santana,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,25
+Mark Ross,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,1,0,25
+Wayne Edmund Dorsey,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,25
+Sherrie Cohen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,25
+Mark F Squilla,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,0,25
+Lou Lanni,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,25
+Total,178,103,99,84,62,57,50,48,42,34,25,24,19,17,12,10,9,6,5,4,3,3,3,3,2,1,1,1,1,0,159,32,25
+,District Council 1st District - Democrat,,Council At Large - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,26
+,Mark F Squilla,Lou Lanni,Helen Gym,Justin Diberardinis,Erika Almirón,Isaiah Thomas,Eryn Santamoor,Allan Domb,Ethelind Baylor,Derek S Green,Katherine Gilmore Richardson,Adrián Rivera-reyes,Deja Lynn Alvarez,Fernando Treviño,Beth Finn,Sandra Dungee Glenn,Asa Khalif,Billy Thompson,Edwin Santana,Hena Veit,Ogbonna Paul Hagins,Wayne Allen,Devon Cade,Joseph A Diorio,Latrice Y Bryant,Willie Floyd Singletary,Mark Ross,Vinny Black,Bobbie Curry,Fareed Abdullah,Wayne Edmund Dorsey,Sherrie Cohen,26
+Mark F Squilla,4,0,189,129,125,111,77,72,83,44,47,34,28,27,21,12,10,5,7,4,5,6,6,3,3,3,2,1,0,2,1,0,26
+Lou Lanni,,1,21,14,12,15,15,15,4,10,8,17,8,9,6,1,2,2,1,3,3,1,0,1,2,1,1,2,2,0,0,0,26
+Helen Gym,,,1,141,147,119,72,54,84,41,49,37,33,27,17,10,9,3,3,4,4,5,2,1,2,2,1,0,2,1,0,0,26
+Justin Diberardinis,,,,0,105,99,44,36,71,28,25,18,11,5,4,2,4,0,2,1,3,0,3,1,1,0,0,1,0,1,0,0,26
+Erika Almirón,,,,,0,90,43,20,80,21,22,24,17,15,5,5,2,0,1,1,1,0,0,0,2,1,0,0,0,0,0,0,26
+Isaiah Thomas,,,,,,0,35,16,68,21,24,17,4,10,3,2,3,3,1,0,3,2,0,1,0,0,1,0,2,0,0,0,26
+Eryn Santamoor,,,,,,,0,46,6,25,30,14,13,16,12,5,3,4,2,3,5,1,0,2,2,0,0,0,0,0,0,0,26
+Allan Domb,,,,,,,,0,6,27,14,11,11,14,12,6,4,3,0,3,4,2,3,3,1,1,1,1,0,1,0,0,26
+Ethelind Baylor,,,,,,,,,0,4,4,10,6,5,5,2,1,1,1,0,0,2,0,0,1,0,2,0,0,0,0,0,26
+Derek S Green,,,,,,,,,,0,18,6,7,3,5,3,3,1,4,0,2,0,1,2,0,0,1,0,0,0,0,0,26
+Katherine Gilmore Richardson,,,,,,,,,,,0,8,7,11,8,3,4,1,1,1,3,0,0,1,1,0,1,0,1,0,0,0,26
+Adrián Rivera-reyes,,,,,,,,,,,,0,16,14,8,2,3,1,4,2,3,1,1,1,0,1,0,2,0,0,0,0,26
+Deja Lynn Alvarez,,,,,,,,,,,,,1,7,7,4,1,2,1,2,0,1,3,0,1,1,1,0,0,1,1,0,26
+Fernando Treviño,,,,,,,,,,,,,,0,4,1,2,2,2,4,0,3,1,2,1,2,1,1,1,0,0,0,26
+Beth Finn,,,,,,,,,,,,,,,0,2,1,2,0,2,1,2,0,1,1,1,0,1,0,0,0,0,26
+Sandra Dungee Glenn,,,,,,,,,,,,,,,,0,1,2,1,0,0,0,1,0,1,0,1,0,0,0,0,0,26
+Asa Khalif,,,,,,,,,,,,,,,,,0,1,0,1,1,1,0,0,1,0,0,0,0,1,0,0,26
+Billy Thompson,,,,,,,,,,,,,,,,,,0,0,1,0,1,0,2,0,0,0,0,1,1,0,0,26
+Edwin Santana,,,,,,,,,,,,,,,,,,,0,1,1,1,2,0,0,0,1,1,0,0,0,0,26
+Hena Veit,,,,,,,,,,,,,,,,,,,,0,1,0,0,1,2,0,0,1,0,0,0,0,26
+Ogbonna Paul Hagins,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,26
+Wayne Allen,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,1,0,0,0,26
+Devon Cade,,,,,,,,,,,,,,,,,,,,,,,0,0,1,1,1,1,0,1,1,0,26
+Joseph A Diorio,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,0,0,0,26
+Latrice Y Bryant,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0,1,0,26
+Willie Floyd Singletary,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,26
+Mark Ross,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,26
+Vinny Black,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,26
+Bobbie Curry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,26
+Fareed Abdullah,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,26
+Wayne Edmund Dorsey,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,26
+Sherrie Cohen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,26
+Total,242,38,234,158,156,134,102,94,92,63,62,57,44,41,27,14,12,8,8,8,8,7,6,5,5,4,3,3,2,2,1,0,26
+,District Council 1st District - Democrat,,Council At Large - Democrat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,27
+,Mark F Squilla,Lou Lanni,Helen Gym,Justin Diberardinis,Isaiah Thomas,Erika Almirón,Eryn Santamoor,Allan Domb,Derek S Green,Katherine Gilmore Richardson,Ethelind Baylor,Deja Lynn Alvarez,Fernando Treviño,Beth Finn,Adrián Rivera-reyes,Sandra Dungee Glenn,Asa Khalif,Latrice Y Bryant,Joseph A Diorio,Fareed Abdullah,Ogbonna Paul Hagins,Edwin Santana,Hena Veit,Wayne Allen,Billy Thompson,Mark Ross,Willie Floyd Singletary,Devon Cade,Vinny Black,Wayne Edmund Dorsey,Bobbie Curry,Sherrie Cohen,27
+Mark F Squilla,10,0,180,122,97,95,87,87,63,55,59,23,22,15,21,15,9,3,6,6,4,4,1,4,0,4,3,2,2,1,0,0,27
+Lou Lanni,,2,23,12,10,9,13,8,4,7,4,8,10,12,6,4,3,6,4,2,2,0,4,1,4,0,1,1,1,2,1,0,27
+Helen Gym,,,1,124,104,103,88,69,53,62,62,18,25,21,19,11,9,5,5,6,3,3,2,5,2,3,1,2,2,2,0,0,27
+Justin Diberardinis,,,,0,78,73,56,42,28,31,57,9,9,12,8,1,3,3,2,1,2,2,0,2,1,1,1,1,1,0,0,0,27
+Isaiah Thomas,,,,,0,67,32,21,22,23,56,3,3,3,5,5,5,1,2,2,2,1,2,1,1,1,0,2,0,1,0,0,27
+Erika Almirón,,,,,,0,31,15,17,25,56,11,14,7,4,8,2,2,1,1,0,0,2,0,1,2,0,1,0,0,0,0,27
+Eryn Santamoor,,,,,,,1,47,35,50,4,11,18,11,9,6,4,3,1,1,1,0,0,1,0,1,0,0,1,1,0,0,27
+Allan Domb,,,,,,,,2,47,28,1,8,9,13,11,7,6,2,7,0,1,3,1,2,0,4,2,1,2,1,1,0,27
+Derek S Green,,,,,,,,,1,19,2,10,3,5,9,7,3,3,0,1,1,1,0,1,1,0,2,1,1,1,0,0,27
+Katherine Gilmore Richardson,,,,,,,,,,2,0,4,13,5,5,4,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,27
+Ethelind Baylor,,,,,,,,,,,0,2,3,2,2,3,2,2,0,1,2,0,1,2,0,1,0,0,0,0,0,0,27
+Deja Lynn Alvarez,,,,,,,,,,,,0,6,3,5,4,1,2,3,3,0,2,3,0,1,0,2,0,0,0,1,0,27
+Fernando Treviño,,,,,,,,,,,,,0,5,0,2,1,2,4,1,2,3,0,0,1,0,1,0,2,1,0,0,27
+Beth Finn,,,,,,,,,,,,,,0,2,4,0,1,3,2,0,0,0,3,2,0,0,1,1,2,0,0,27
+Adrián Rivera-reyes,,,,,,,,,,,,,,,0,2,1,4,1,1,0,0,1,0,1,1,2,0,0,0,0,0,27
+Sandra Dungee Glenn,,,,,,,,,,,,,,,,0,1,3,1,0,0,0,2,1,0,1,0,0,0,2,0,0,27
+Asa Khalif,,,,,,,,,,,,,,,,,0,1,0,2,2,2,1,0,0,1,0,0,0,0,0,0,27
+Latrice Y Bryant,,,,,,,,,,,,,,,,,,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,27
+Joseph A Diorio,,,,,,,,,,,,,,,,,,,0,0,0,0,1,1,1,0,0,1,0,0,1,0,27
+Fareed Abdullah,,,,,,,,,,,,,,,,,,,,0,1,1,1,0,0,0,1,0,0,0,0,0,27
+Ogbonna Paul Hagins,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,1,0,0,0,27
+Edwin Santana,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,0,0,0,0,27
+Hena Veit,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,1,0,27
+Wayne Allen,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,27
+Billy Thompson,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,1,0,1,0,0,27
+Mark Ross,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,27
+Willie Floyd Singletary,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,27
+Devon Cade,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,27
+Vinny Black,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,27
+Wayne Edmund Dorsey,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,27
+Bobbie Curry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,27
+Sherrie Cohen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,27
+Total,231,43,223,143,117,113,110,106,75,73,67,34,34,30,27,20,13,11,10,8,6,5,5,5,4,4,4,3,3,3,1,0,27
