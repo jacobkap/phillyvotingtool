@@ -1,16 +1,16 @@
 col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10,division
 ,City Commissioners,,,,Judge Of The Superior Court,,,,,All
 ,Omar Sabir,Lisa Deeley,Al Schmidt,Write-In,Amanda Green-Hawkins,Daniel D Mccaffery,Megan Mccarthy King,Christylee Peck,Write-In,All
-Omar Sabir,68,"6,698",60,0,"6,873","6,683",74,65,1,All
-Lisa Deeley,,23,105,1,"6,613","6,508",91,83,1,All
-Al Schmidt,,,13,0,113,140,282,260,0,All
+Omar Sabir,67,"6,852",63,0,"7,031","6,837",76,66,1,All
+Lisa Deeley,,23,106,1,"6,773","6,671",92,84,1,All
+Al Schmidt,,,13,0,116,142,284,262,0,All
 Write-In,,,,0,1,1,0,0,0,All
-Amanda Green-Hawkins,,,,,94,"6,621",28,40,0,All
-Daniel D Mccaffery,,,,,,71,53,30,1,All
-Megan Mccarthy King,,,,,,,8,261,0,All
-Christylee Peck,,,,,,,,4,0,All
+Amanda Green-Hawkins,,,,,97,"6,784",30,43,0,All
+Daniel D Mccaffery,,,,,,71,55,32,1,All
+Megan Mccarthy King,,,,,,,8,263,0,All
+Christylee Peck,,,,,,,,3,0,All
 Write-In,,,,,,,,,0,All
-Total,"7,329","7,016",442,1,"7,264","7,051",375,347,1,All
+Total,"7,567","7,250",445,1,"7,512","7,290",379,350,1,All
 ,Judge Of The Superior Court,,,,,City Commissioners,,,,1
 ,Amanda Green-Hawkins,Daniel D Mccaffery,Megan Mccarthy King,Christylee Peck,Write-In,Omar Sabir,Lisa Deeley,Al Schmidt,Write-In,1
 Amanda Green-Hawkins,2,95,0,1,0,97,96,1,0,1
@@ -23,18 +23,18 @@ Lisa Deeley,,,,,,,0,1,0,1
 Al Schmidt,,,,,,,,0,0,1
 Write-In,,,,,,,,,0,1
 Total,104,100,4,3,0,103,100,3,0,1
-,City Commissioners,,,,Judge Of The Superior Court,,,,,2
-,Omar Sabir,Lisa Deeley,Al Schmidt,Write-In,Amanda Green-Hawkins,Daniel D Mccaffery,Christylee Peck,Megan Mccarthy King,Write-In,2
-Omar Sabir,1,53,0,0,54,53,0,0,0,2
-Lisa Deeley,,0,1,0,54,52,0,1,0,2
-Al Schmidt,,,0,0,1,0,0,0,0,2
-Write-In,,,,0,0,0,0,0,0,2
-Amanda Green-Hawkins,,,,,1,51,0,0,0,2
-Daniel D Mccaffery,,,,,,0,0,1,0,2
-Christylee Peck,,,,,,,1,0,0,2
-Megan Mccarthy King,,,,,,,,0,0,2
+,Judge Of The Superior Court,,,,,City Commissioners,,,,2
+,Amanda Green-Hawkins,Daniel D Mccaffery,Megan Mccarthy King,Christylee Peck,Write-In,Omar Sabir,Lisa Deeley,Al Schmidt,Write-In,2
+Amanda Green-Hawkins,1,81,0,0,0,83,83,1,0,2
+Daniel D Mccaffery,,0,2,0,0,82,81,0,0,2
+Megan Mccarthy King,,,0,0,0,0,2,0,0,2
+Christylee Peck,,,,1,0,0,0,0,0,2
+Write-In,,,,,0,0,0,0,0,2
+Omar Sabir,,,,,,1,79,0,0,2
+Lisa Deeley,,,,,,,0,1,0,2
+Al Schmidt,,,,,,,,0,0,2
 Write-In,,,,,,,,,0,2
-Total,57,55,1,0,56,54,1,1,0,2
+Total,88,86,2,1,0,87,85,1,0,2
 ,Judge Of The Superior Court,,,,,City Commissioners,,,,3
 ,Amanda Green-Hawkins,Daniel D Mccaffery,Christylee Peck,Megan Mccarthy King,Write-In,Omar Sabir,Lisa Deeley,Al Schmidt,Write-In,3
 Amanda Green-Hawkins,0,111,1,0,0,114,113,1,0,3
@@ -47,6 +47,18 @@ Lisa Deeley,,,,,,,0,0,0,3
 Al Schmidt,,,,,,,,0,0,3
 Write-In,,,,,,,,,0,3
 Total,118,112,8,6,0,118,115,7,0,3
+,Judge Of The Superior Court,,,,,City Commissioners,,,,4
+,Amanda Green-Hawkins,Daniel D Mccaffery,Christylee Peck,Megan Mccarthy King,Write-In,Omar Sabir,Lisa Deeley,Al Schmidt,Write-In,4
+Amanda Green-Hawkins,3,158,1,0,0,158,156,0,0,4
+Daniel D Mccaffery,,0,0,0,0,156,155,0,0,4
+Christylee Peck,,,0,1,0,0,0,1,0,4
+Megan Mccarthy King,,,,0,0,0,0,1,0,4
+Write-In,,,,,0,0,0,0,0,4
+Omar Sabir,,,,,,0,157,0,0,4
+Lisa Deeley,,,,,,,0,0,0,4
+Al Schmidt,,,,,,,,0,0,4
+Write-In,,,,,,,,,0,4
+Total,168,161,2,1,0,162,160,1,0,4
 ,City Commissioners,,,,Judge Of The Superior Court,,,,,5
 ,Omar Sabir,Lisa Deeley,Al Schmidt,Write-In,Daniel D Mccaffery,Amanda Green-Hawkins,Christylee Peck,Megan Mccarthy King,Write-In,5
 Omar Sabir,1,121,0,0,119,118,0,0,0,5
@@ -145,16 +157,16 @@ Write-In,,,,,,,,,0,12
 Total,278,263,8,0,272,263,5,5,0,12
 ,City Commissioners,,,,Judge Of The Superior Court,,,,,13
 ,Omar Sabir,Lisa Deeley,Al Schmidt,Write-In,Daniel D Mccaffery,Amanda Green-Hawkins,Christylee Peck,Megan Mccarthy King,Write-In,13
-Omar Sabir,1,127,2,0,132,132,3,1,1,13
-Lisa Deeley,,2,4,0,125,123,2,2,1,13
-Al Schmidt,,,0,0,6,3,4,4,0,13
+Omar Sabir,2,168,2,0,174,173,3,2,1,13
+Lisa Deeley,,2,4,0,164,165,2,3,1,13
+Al Schmidt,,,0,0,6,4,5,5,0,13
 Write-In,,,,0,0,0,0,0,0,13
-Daniel D Mccaffery,,,,,1,130,3,3,1,13
-Amanda Green-Hawkins,,,,,,2,1,0,0,13
-Christylee Peck,,,,,,,0,2,0,13
+Daniel D Mccaffery,,,,,2,173,3,3,1,13
+Amanda Green-Hawkins,,,,,,3,1,1,0,13
+Christylee Peck,,,,,,,0,3,0,13
 Megan Mccarthy King,,,,,,,,0,0,13
 Write-In,,,,,,,,,0,13
-Total,146,137,9,0,145,142,6,5,1,13
+Total,192,181,11,0,191,190,7,7,1,13
 ,City Commissioners,,,,Judge Of The Superior Court,,,,,14
 ,Omar Sabir,Lisa Deeley,Al Schmidt,Write-In,Amanda Green-Hawkins,Daniel D Mccaffery,Megan Mccarthy King,Christylee Peck,Write-In,14
 Omar Sabir,6,195,2,0,220,204,4,2,0,14
