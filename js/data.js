@@ -1,4 +1,5 @@
 elections = [
+  "2020 Primary",
   "2019 General",
   "2019 Primary",
   "2018 General",
@@ -22,6 +23,7 @@ elections = [
 ];
 
 elections_no_special = [
+  "2020 Primary",
   "2019 General",
   "2019 Primary",
   "2018 General",
